@@ -1,0 +1,674 @@
+{
+    "ANO10": {
+        "hgnc_id": "HGNC:25519",
+        "symbol": "ANO10",
+        "name": "anoctamin 10",
+        "status": "Approved",
+        "locus_type": "gene with protein product",
+        "prev_symbol": [
+            "TMEM16K"
+        ],
+        "prev_name": [
+            "transmembrane protein 16K"
+        ],
+        "alias_symbol": [
+            "FLJ10375",
+            "MGC47890",
+            "SCAR10"
+        ],
+        "location": "3p22.1-p21.33",
+        "date_approved_reserved": "2005-09-21T00:00:00Z",
+        "date_modified": "2023-01-20T00:00:00Z",
+        "date_name_changed": "2008-08-28T00:00:00Z",
+        "ena": [
+            "AL832508"
+        ],
+        "entrez_id": "55129",
+        "mgd_id": [
+            "MGI:2143103"
+        ],
+        "orphanet": 284296,
+        "pubmed_id": [
+            24692353
+        ],
+        "refseq_accession": [
+            "NM_018075"
+        ],
+        "gene_group": [
+            "Anoctamins"
+        ],
+        "date_symbol_changed": "2008-08-28T00:00:00Z",
+        "vega_id": "OTTHUMG00000133044",
+        "ensembl_gene_id": "ENSG00000160746",
+        "ccds_id": [
+            "CCDS56247",
+            "CCDS2710",
+            "CCDS56249",
+            "CCDS56248",
+            "CCDS56250"
+        ],
+        "locus_group": "protein-coding gene",
+        "omim_id": [
+            "613726"
+        ],
+        "uniprot_ids": [
+            "Q9NW15"
+        ],
+        "ucsc_id": "uc003cmv.4",
+        "rgd_id": [
+            "RGD:1308260"
+        ],
+        "gene_group_id": [
+            865
+        ],
+        "location_sortable": "03p22.1-p21.33",
+        "agr": "HGNC:25519",
+        "symbol_report_tag": [
+            "Stable symbol"
+        ],
+        "mane_select": [
+            "ENST00000292246.8",
+            "NM_018075.5"
+        ],
+        "gencc": "HGNC:25519",
+        "uuid": "624535ee-d334-4dfa-b98a-12076c4af70f",
+        "_version_": 1762679713556332545
+    },
+    "ATP8A1": {
+        "hgnc_id": "HGNC:13531",
+        "symbol": "ATP8A1",
+        "name": "ATPase phospholipid transporting 8A1",
+        "status": "Approved",
+        "locus_type": "gene with protein product",
+        "prev_name": [
+            "ATPase, aminophospholipid transporter (APLT), Class I, type 8A, member 1",
+            "ATPase, aminophospholipid transporter (APLT), class I, type 8A, member 1"
+        ],
+        "alias_symbol": [
+            "ATPIA"
+        ],
+        "location": "4p13",
+        "date_approved_reserved": "2000-09-20T00:00:00Z",
+        "date_modified": "2023-01-20T00:00:00Z",
+        "date_name_changed": "2016-02-11T00:00:00Z",
+        "ena": [
+            "AF067820"
+        ],
+        "entrez_id": "10396",
+        "mgd_id": [
+            "MGI:1330848"
+        ],
+        "iuphar": "objectId:854",
+        "pubmed_id": [
+            10198212,
+            9548971
+        ],
+        "refseq_accession": [
+            "NM_006095"
+        ],
+        "gene_group": [
+            "ATPase phospholipid transporting"
+        ],
+        "vega_id": "OTTHUMG00000099403",
+        "ensembl_gene_id": "ENSG00000124406",
+        "ccds_id": [
+            "CCDS93493",
+            "CCDS47049",
+            "CCDS3466"
+        ],
+        "locus_group": "protein-coding gene",
+        "omim_id": [
+            "609542"
+        ],
+        "uniprot_ids": [
+            "Q9Y2Q0"
+        ],
+        "ucsc_id": "uc003gwr.3",
+        "rgd_id": [
+            "RGD:1309619"
+        ],
+        "gene_group_id": [
+            1210
+        ],
+        "location_sortable": "04p13",
+        "agr": "HGNC:13531",
+        "mane_select": [
+            "ENST00000381668.9",
+            "NM_006095.2"
+        ],
+        "uuid": "326385a3-b042-45b3-88ec-cbd100b2fb9e",
+        "_version_": 1762679714037628928
+    },
+    "CACNA1H": {
+        "hgnc_id": "HGNC:1395",
+        "symbol": "CACNA1H",
+        "name": "calcium voltage-gated channel subunit alpha1 H",
+        "status": "Approved",
+        "locus_type": "gene with protein product",
+        "prev_name": [
+            "calcium channel, voltage-dependent, T type, alpha 1H subunit"
+        ],
+        "alias_symbol": [
+            "Cav3.2"
+        ],
+        "location": "16p13.3",
+        "date_approved_reserved": "1999-01-08T00:00:00Z",
+        "date_modified": "2023-01-20T00:00:00Z",
+        "date_name_changed": "2016-02-04T00:00:00Z",
+        "ena": [
+            "AL031703"
+        ],
+        "entrez_id": "8912",
+        "mgd_id": [
+            "MGI:1928842"
+        ],
+        "iuphar": "objectId:536",
+        "orphanet": 286549,
+        "pubmed_id": [
+            9670923,
+            16382099
+        ],
+        "refseq_accession": [
+            "NM_001005407"
+        ],
+        "gene_group": [
+            "Calcium voltage-gated channel alpha1 subunits"
+        ],
+        "vega_id": "OTTHUMG00000172992",
+        "ensembl_gene_id": "ENSG00000196557",
+        "ccds_id": [
+            "CCDS45376",
+            "CCDS45375"
+        ],
+        "locus_group": "protein-coding gene",
+        "omim_id": [
+            "607904"
+        ],
+        "uniprot_ids": [
+            "O95180"
+        ],
+        "ucsc_id": "uc002cks.4",
+        "rgd_id": [
+            "RGD:68943"
+        ],
+        "gene_group_id": [
+            1512
+        ],
+        "location_sortable": "16p13.3",
+        "agr": "HGNC:1395",
+        "symbol_report_tag": [
+            "Stable symbol"
+        ],
+        "mane_select": [
+            "ENST00000348261.11",
+            "NM_021098.3"
+        ],
+        "gencc": "HGNC:1395",
+        "uuid": "40299ea2-203b-41eb-855e-2d1ba6f3de7d",
+        "_version_": 1762679714698231808
+    },
+    "CFAP74": {
+        "hgnc_id": "HGNC:29368",
+        "symbol": "CFAP74",
+        "name": "cilia and flagella associated protein 74",
+        "status": "Approved",
+        "locus_type": "gene with protein product",
+        "prev_symbol": [
+            "C1orf222",
+            "KIAA1751"
+        ],
+        "prev_name": [
+            "chromosome 1 open reading frame 222",
+            "KIAA1751"
+        ],
+        "alias_symbol": [
+            "FLJ45476"
+        ],
+        "location": "1p36.33",
+        "date_approved_reserved": "2005-05-16T00:00:00Z",
+        "date_modified": "2023-03-15T00:00:00Z",
+        "date_name_changed": "2014-09-04T00:00:00Z",
+        "ena": [
+            "AB051538"
+        ],
+        "entrez_id": "85452",
+        "mgd_id": [
+            "MGI:1917130"
+        ],
+        "refseq_accession": [
+            "NM_001304360"
+        ],
+        "gene_group": [
+            "Cilia and flagella associated"
+        ],
+        "date_symbol_changed": "2014-09-04T00:00:00Z",
+        "vega_id": "OTTHUMG00000000945",
+        "ensembl_gene_id": "ENSG00000142609",
+        "ccds_id": [
+            "CCDS90840"
+        ],
+        "locus_group": "protein-coding gene",
+        "omim_id": [
+            "620187"
+        ],
+        "uniprot_ids": [
+            "Q9C0B2"
+        ],
+        "rgd_id": [
+            "RGD:2324110"
+        ],
+        "gene_group_id": [
+            1491
+        ],
+        "location_sortable": "01p36.33",
+        "agr": "HGNC:29368",
+        "mane_select": [
+            "ENST00000682832.2",
+            "NM_001304360.2"
+        ],
+        "uuid": "04b0254d-d9c6-4b25-bbc0-e52eb13acf40",
+        "_version_": 1762679715363028992
+    },
+    "HCN1": {
+        "hgnc_id": "HGNC:4845",
+        "symbol": "HCN1",
+        "name": "hyperpolarization activated cyclic nucleotide gated potassium channel 1",
+        "status": "Approved",
+        "locus_type": "gene with protein product",
+        "prev_symbol": [
+            "BCNG1"
+        ],
+        "prev_name": [
+            "hyperpolarization activated cyclic nucleotide-gated potassium channel 1"
+        ],
+        "alias_symbol": [
+            "BCNG-1",
+            "HAC-2"
+        ],
+        "location": "5p12",
+        "date_approved_reserved": "1998-08-20T00:00:00Z",
+        "date_modified": "2023-01-20T00:00:00Z",
+        "date_name_changed": "2015-01-15T00:00:00Z",
+        "ena": [
+            "AF064876"
+        ],
+        "entrez_id": "348980",
+        "mgd_id": [
+            "MGI:1096392"
+        ],
+        "iuphar": "objectId:400",
+        "orphanet": 413970,
+        "pubmed_id": [
+            9405696,
+            9630217,
+            16382102
+        ],
+        "refseq_accession": [
+            "NM_021072"
+        ],
+        "gene_group": [
+            "Cyclic nucleotide gated channels"
+        ],
+        "vega_id": "OTTHUMG00000131155",
+        "ensembl_gene_id": "ENSG00000164588",
+        "ccds_id": [
+            "CCDS3952"
+        ],
+        "locus_group": "protein-coding gene",
+        "omim_id": [
+            "602780"
+        ],
+        "uniprot_ids": [
+            "O60741"
+        ],
+        "ucsc_id": "uc003jok.5",
+        "rgd_id": [
+            "RGD:620688"
+        ],
+        "gene_group_id": [
+            250
+        ],
+        "location_sortable": "05p12",
+        "agr": "HGNC:4845",
+        "symbol_report_tag": [
+            "Stable symbol"
+        ],
+        "mane_select": [
+            "ENST00000303230.6",
+            "NM_021072.4"
+        ],
+        "gencc": "HGNC:4845",
+        "uuid": "045f91a9-be93-4120-99a2-0d532affe009",
+        "_version_": 1762679722673700865
+    },
+    "HCN2": {
+        "hgnc_id": "HGNC:4846",
+        "symbol": "HCN2",
+        "name": "hyperpolarization activated cyclic nucleotide gated potassium and sodium channel 2",
+        "status": "Approved",
+        "locus_type": "gene with protein product",
+        "prev_symbol": [
+            "BCNG2"
+        ],
+        "prev_name": [
+            "hyperpolarization activated cyclic nucleotide-gated potassium channel 2",
+            "hyperpolarization activated cyclic nucleotide gated potassium channel 2"
+        ],
+        "alias_symbol": [
+            "BCNG-2",
+            "HAC-1"
+        ],
+        "location": "19p13.3",
+        "date_approved_reserved": "1998-08-20T00:00:00Z",
+        "date_modified": "2023-01-20T00:00:00Z",
+        "date_name_changed": "2017-05-23T00:00:00Z",
+        "ena": [
+            "AF064877"
+        ],
+        "entrez_id": "610",
+        "mgd_id": [
+            "MGI:1298210"
+        ],
+        "iuphar": "objectId:401",
+        "orphanet": 470432,
+        "pubmed_id": [
+            9405696,
+            9630217,
+            16382102,
+            10228147,
+            19584315
+        ],
+        "refseq_accession": [
+            "NM_001194"
+        ],
+        "gene_group": [
+            "Cyclic nucleotide gated channels"
+        ],
+        "vega_id": "OTTHUMG00000180590",
+        "ensembl_gene_id": "ENSG00000099822",
+        "ccds_id": [
+            "CCDS12035"
+        ],
+        "locus_group": "protein-coding gene",
+        "omim_id": [
+            "602781"
+        ],
+        "uniprot_ids": [
+            "Q9UL51"
+        ],
+        "ucsc_id": "uc002lpe.3",
+        "rgd_id": [
+            "RGD:620689"
+        ],
+        "gene_group_id": [
+            250
+        ],
+        "location_sortable": "19p13.3",
+        "agr": "HGNC:4846",
+        "symbol_report_tag": [
+            "Stable symbol"
+        ],
+        "mane_select": [
+            "ENST00000251287.3",
+            "NM_001194.4"
+        ],
+        "uuid": "b02fa79c-b1e0-4d42-ab60-b57eb003493c",
+        "_version_": 1762679722674749440
+    },
+    "HCN3": {
+        "hgnc_id": "HGNC:19183",
+        "symbol": "HCN3",
+        "name": "hyperpolarization activated cyclic nucleotide gated potassium channel 3",
+        "status": "Approved",
+        "locus_type": "gene with protein product",
+        "prev_name": [
+            "hyperpolarization activated cyclic nucleotide-gated potassium channel 3"
+        ],
+        "alias_symbol": [
+            "KIAA1535"
+        ],
+        "location": "1q22",
+        "date_approved_reserved": "2002-09-02T00:00:00Z",
+        "date_modified": "2023-01-20T00:00:00Z",
+        "date_name_changed": "2015-01-15T00:00:00Z",
+        "ena": [
+            "AB040968"
+        ],
+        "entrez_id": "57657",
+        "mgd_id": [
+            "MGI:1298211"
+        ],
+        "iuphar": "objectId:402",
+        "pubmed_id": [
+            16382102
+        ],
+        "refseq_accession": [
+            "NM_020897"
+        ],
+        "gene_group": [
+            "Cyclic nucleotide gated channels"
+        ],
+        "vega_id": "OTTHUMG00000035872",
+        "ensembl_gene_id": "ENSG00000143630",
+        "ccds_id": [
+            "CCDS1108"
+        ],
+        "locus_group": "protein-coding gene",
+        "omim_id": [
+            "609973"
+        ],
+        "uniprot_ids": [
+            "Q9P1Z3"
+        ],
+        "ucsc_id": "uc001fjz.3",
+        "rgd_id": [
+            "RGD:620691"
+        ],
+        "gene_group_id": [
+            250
+        ],
+        "location_sortable": "01q22",
+        "agr": "HGNC:19183",
+        "mane_select": [
+            "ENST00000368358.4",
+            "NM_020897.3"
+        ],
+        "uuid": "ccde44f0-d6bb-4a7f-b793-3d27fe855107",
+        "_version_": 1762679722674749441
+    },
+    "HCN4": {
+        "hgnc_id": "HGNC:16882",
+        "symbol": "HCN4",
+        "name": "hyperpolarization activated cyclic nucleotide gated potassium channel 4",
+        "status": "Approved",
+        "locus_type": "gene with protein product",
+        "prev_name": [
+            "hyperpolarization activated cyclic nucleotide-gated potassium channel 4"
+        ],
+        "location": "15q24.1",
+        "date_approved_reserved": "2002-09-02T00:00:00Z",
+        "date_modified": "2023-01-20T00:00:00Z",
+        "date_name_changed": "2015-01-15T00:00:00Z",
+        "ena": [
+            "AJ132429"
+        ],
+        "entrez_id": "10021",
+        "mgd_id": [
+            "MGI:1298209"
+        ],
+        "iuphar": "objectId:403",
+        "orphanet": 122381,
+        "pubmed_id": [
+            10228147,
+            10430953,
+            16382102
+        ],
+        "refseq_accession": [
+            "NM_005477"
+        ],
+        "gene_group": [
+            "Cyclic nucleotide gated channels"
+        ],
+        "vega_id": "OTTHUMG00000137563",
+        "ensembl_gene_id": "ENSG00000138622",
+        "ccds_id": [
+            "CCDS10248"
+        ],
+        "locus_group": "protein-coding gene",
+        "omim_id": [
+            "605206"
+        ],
+        "uniprot_ids": [
+            "Q9Y3Q4"
+        ],
+        "ucsc_id": "uc002avp.3",
+        "rgd_id": [
+            "RGD:71065"
+        ],
+        "gene_group_id": [
+            250
+        ],
+        "location_sortable": "15q24.1",
+        "agr": "HGNC:16882",
+        "symbol_report_tag": [
+            "Stable symbol"
+        ],
+        "mane_select": [
+            "ENST00000261917.4",
+            "NM_005477.3"
+        ],
+        "gencc": "HGNC:16882",
+        "uuid": "fdc528f6-235a-4761-8e5b-366aaad9f62e",
+        "_version_": 1762679722675798016
+    },
+    "MICAL2": {
+        "hgnc_id": "HGNC:24693",
+        "symbol": "MICAL2",
+        "name": "microtubule associated monooxygenase, calponin and LIM domain containing 2",
+        "status": "Approved",
+        "locus_type": "gene with protein product",
+        "prev_symbol": [
+            "MICALCL"
+        ],
+        "prev_name": [
+            "MICAL C-terminal like"
+        ],
+        "alias_symbol": [
+            "KIAA0750",
+            "FLJ14966"
+        ],
+        "location": "11p15.3",
+        "date_approved_reserved": "2005-02-16T00:00:00Z",
+        "date_modified": "2023-03-15T00:00:00Z",
+        "date_name_changed": "2013-03-26T00:00:00Z",
+        "ena": [
+            "AB018293"
+        ],
+        "entrez_id": "9645",
+        "mgd_id": [
+            "MGI:2444947"
+        ],
+        "pubmed_id": [
+            12110185
+        ],
+        "refseq_accession": [
+            "NM_014632"
+        ],
+        "gene_group": [
+            "LIM domain containing",
+            "MicroRNA protein coding host genes"
+        ],
+        "vega_id": "OTTHUMG00000165744",
+        "ensembl_gene_id": "ENSG00000133816",
+        "ccds_id": [
+            "CCDS7809",
+            "CCDS60726",
+            "CCDS91442",
+            "CCDS91443",
+            "CCDS60727"
+        ],
+        "locus_group": "protein-coding gene",
+        "omim_id": [
+            "608881"
+        ],
+        "uniprot_ids": [
+            "O94851"
+        ],
+        "ucsc_id": "uc001mjz.5",
+        "rgd_id": [
+            "RGD:1311773"
+        ],
+        "gene_group_id": [
+            1218,
+            1691
+        ],
+        "location_sortable": "11p15.3",
+        "agr": "HGNC:24693",
+        "mane_select": [
+            "ENST00000683283.1",
+            "NM_001282663.2"
+        ],
+        "uuid": "35b8afbb-7dcd-4b1a-912d-d424950f8a6a",
+        "_version_": 1762679727617736704
+    },
+    "TTYH1": {
+        "hgnc_id": "HGNC:13476",
+        "symbol": "TTYH1",
+        "name": "tweety family member 1",
+        "status": "Approved",
+        "locus_type": "gene with protein product",
+        "prev_name": [
+            "tweety (Drosophila) homolog 1",
+            "tweety homolog 1 (Drosophila)"
+        ],
+        "location": "19q13.42",
+        "date_approved_reserved": "2000-09-28T00:00:00Z",
+        "date_modified": "2023-01-20T00:00:00Z",
+        "date_name_changed": "2013-09-02T00:00:00Z",
+        "ena": [
+            "AF177909"
+        ],
+        "entrez_id": "57348",
+        "mgd_id": [
+            "MGI:1889007"
+        ],
+        "pubmed_id": [
+            10950931
+        ],
+        "refseq_accession": [
+            "NM_001005367"
+        ],
+        "gene_group": [
+            "Tweety family"
+        ],
+        "vega_id": "OTTHUMG00000065544",
+        "ensembl_gene_id": "ENSG00000167614",
+        "ccds_id": [
+            "CCDS56102",
+            "CCDS33106",
+            "CCDS12893"
+        ],
+        "locus_group": "protein-coding gene",
+        "omim_id": [
+            "605784"
+        ],
+        "uniprot_ids": [
+            "Q9H313"
+        ],
+        "ucsc_id": "uc002qft.4",
+        "rgd_id": [
+            "RGD:1310103"
+        ],
+        "gene_group_id": [
+            1830
+        ],
+        "location_sortable": "19q13.42",
+        "agr": "HGNC:13476",
+        "mane_select": [
+            "ENST00000376530.8",
+            "NM_020659.4"
+        ],
+        "uuid": "60f9a279-45e4-4f6c-9b92-4a34bdcdf46d",
+        "_version_": 1762679746260369408
+    }
+}

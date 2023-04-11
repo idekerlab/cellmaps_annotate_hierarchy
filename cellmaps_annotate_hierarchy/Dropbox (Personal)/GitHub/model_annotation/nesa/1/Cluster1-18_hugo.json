@@ -1,0 +1,1874 @@
+{
+    "CCDC65": {
+        "hgnc_id": "HGNC:29937",
+        "symbol": "CCDC65",
+        "name": "coiled-coil domain containing 65",
+        "status": "Approved",
+        "locus_type": "gene with protein product",
+        "alias_symbol": [
+            "NYD-SP28",
+            "FLJ35732",
+            "FAP250",
+            "CFAP250",
+            "CILD27",
+            "DRC2"
+        ],
+        "location": "12q13.12",
+        "date_approved_reserved": "2006-01-26T00:00:00Z",
+        "date_modified": "2023-01-20T00:00:00Z",
+        "entrez_id": "85478",
+        "mgd_id": [
+            "MGI:2146001"
+        ],
+        "orphanet": 367625,
+        "pubmed_id": [
+            17089017,
+            21700706
+        ],
+        "refseq_accession": [
+            "NM_033124"
+        ],
+        "gene_group": [
+            "Dynein regulatory complex",
+            "Cilia and flagella associated"
+        ],
+        "vega_id": "OTTHUMG00000170401",
+        "ensembl_gene_id": "ENSG00000139537",
+        "ccds_id": [
+            "CCDS8772"
+        ],
+        "locus_group": "protein-coding gene",
+        "omim_id": [
+            "611088"
+        ],
+        "uniprot_ids": [
+            "Q8IXS2"
+        ],
+        "ucsc_id": "uc001rso.4",
+        "rgd_id": [
+            "RGD:1595842"
+        ],
+        "gene_group_id": [
+            981,
+            1491
+        ],
+        "location_sortable": "12q13.12",
+        "agr": "HGNC:29937",
+        "mane_select": [
+            "ENST00000320516.5",
+            "NM_033124.5"
+        ],
+        "gencc": "HGNC:29937",
+        "uuid": "5f0a6569-4116-4ccc-bc31-357b41f8323a",
+        "_version_": 1762679714893266945
+    },
+    "CDC42BPA": {
+        "hgnc_id": "HGNC:1737",
+        "symbol": "CDC42BPA",
+        "name": "CDC42 binding protein kinase alpha",
+        "status": "Approved",
+        "locus_type": "gene with protein product",
+        "prev_name": [
+            "CDC42-binding protein kinase alpha (DMPK-like)"
+        ],
+        "alias_symbol": [
+            "MRCKA",
+            "PK428",
+            "FLJ23347",
+            "KIAA0451",
+            "MRCK"
+        ],
+        "alias_name": [
+            "myotonic dystrophy kinase-related Cdc42-binding kinase"
+        ],
+        "location": "1q42.13",
+        "date_approved_reserved": "1998-11-06T00:00:00Z",
+        "date_modified": "2023-01-20T00:00:00Z",
+        "date_name_changed": "2016-01-05T00:00:00Z",
+        "ena": [
+            "U59305"
+        ],
+        "entrez_id": "8476",
+        "mgd_id": [
+            "MGI:2441841"
+        ],
+        "iuphar": "objectId:1507",
+        "refseq_accession": [
+            "NM_014826"
+        ],
+        "gene_group": [
+            "AGC family kinases"
+        ],
+        "vega_id": "OTTHUMG00000037618",
+        "ensembl_gene_id": "ENSG00000143776",
+        "ccds_id": [
+            "CCDS91168",
+            "CCDS1558",
+            "CCDS91170",
+            "CCDS1559",
+            "CCDS91169"
+        ],
+        "locus_group": "protein-coding gene",
+        "omim_id": [
+            "603412"
+        ],
+        "uniprot_ids": [
+            "Q5VT25"
+        ],
+        "ucsc_id": "uc001hqr.4",
+        "rgd_id": [
+            "RGD:621406"
+        ],
+        "gene_group_id": [
+            1625
+        ],
+        "location_sortable": "01q42.13",
+        "agr": "HGNC:1737",
+        "mane_select": [
+            "ENST00000366766.8",
+            "NM_001394014.1"
+        ],
+        "uuid": "c6250555-e697-4346-81ca-22dbb2262a76",
+        "_version_": 1762679715126050816
+    },
+    "DHCR24": {
+        "hgnc_id": "HGNC:2859",
+        "symbol": "DHCR24",
+        "name": "24-dehydrocholesterol reductase",
+        "status": "Approved",
+        "locus_type": "gene with protein product",
+        "prev_symbol": [
+            "DCE"
+        ],
+        "prev_name": [
+            "desmosterol-to-cholesterol enzyme"
+        ],
+        "alias_symbol": [
+            "KIAA0018",
+            "seladin-1"
+        ],
+        "alias_name": [
+            "Delta(24)-sterol reductase"
+        ],
+        "location": "1p32.3",
+        "date_approved_reserved": "1998-04-27T00:00:00Z",
+        "date_modified": "2023-01-20T00:00:00Z",
+        "ena": [
+            "AF261758"
+        ],
+        "enzyme_id": [
+            "1.3.1.72"
+        ],
+        "entrez_id": "1718",
+        "mgd_id": [
+            "MGI:1922004"
+        ],
+        "orphanet": 121062,
+        "pubmed_id": [
+            11519011
+        ],
+        "refseq_accession": [
+            "NM_014762"
+        ],
+        "vega_id": "OTTHUMG00000009989",
+        "lsdb": [
+            "LRG_1272|http://ftp.ebi.ac.uk/pub/databases/lrgex/LRG_1272.xml"
+        ],
+        "ensembl_gene_id": "ENSG00000116133",
+        "ccds_id": [
+            "CCDS600"
+        ],
+        "locus_group": "protein-coding gene",
+        "omim_id": [
+            "606418"
+        ],
+        "uniprot_ids": [
+            "Q15392"
+        ],
+        "ucsc_id": "uc001cyc.2",
+        "rgd_id": [
+            "RGD:1306529"
+        ],
+        "location_sortable": "01p32.3",
+        "agr": "HGNC:2859",
+        "mane_select": [
+            "ENST00000371269.9",
+            "NM_014762.4"
+        ],
+        "gencc": "HGNC:2859",
+        "uuid": "3f3e3934-2866-4daa-b3cc-cf62a78c177c",
+        "_version_": 1762679718385025024
+    },
+    "EIF1AY": {
+        "hgnc_id": "HGNC:3252",
+        "symbol": "EIF1AY",
+        "name": "eukaryotic translation initiation factor 1A Y-linked",
+        "status": "Approved",
+        "locus_type": "gene with protein product",
+        "prev_name": [
+            "eukaryotic translation initiation factor 1A, Y chromosome"
+        ],
+        "location": "Yq11.223",
+        "date_approved_reserved": "1999-04-23T00:00:00Z",
+        "date_modified": "2023-01-20T00:00:00Z",
+        "date_name_changed": "2018-04-26T00:00:00Z",
+        "ena": [
+            "AF000987"
+        ],
+        "entrez_id": "9086",
+        "mgd_id": [
+            "MGI:1913485"
+        ],
+        "pubmed_id": [
+            9381176
+        ],
+        "refseq_accession": [
+            "NM_004681"
+        ],
+        "vega_id": "OTTHUMG00000036544",
+        "ensembl_gene_id": "ENSG00000198692",
+        "ccds_id": [
+            "CCDS65368",
+            "CCDS14795"
+        ],
+        "locus_group": "protein-coding gene",
+        "omim_id": [
+            "400014"
+        ],
+        "uniprot_ids": [
+            "O14602"
+        ],
+        "ucsc_id": "uc004fuk.5",
+        "location_sortable": "Yq11.223",
+        "agr": "HGNC:3252",
+        "mane_select": [
+            "ENST00000361365.7",
+            "NM_004681.4"
+        ],
+        "uuid": "7952102f-6b82-4cbe-b87a-99e3c6dace6b",
+        "_version_": 1762679718928187392
+    },
+    "ERGIC2": {
+        "hgnc_id": "HGNC:30208",
+        "symbol": "ERGIC2",
+        "name": "ERGIC and golgi 2",
+        "status": "Approved",
+        "locus_type": "gene with protein product",
+        "alias_symbol": [
+            "PTX1",
+            "Erv41"
+        ],
+        "location": "12p11.22",
+        "date_approved_reserved": "2006-01-19T00:00:00Z",
+        "date_modified": "2023-01-20T00:00:00Z",
+        "ena": [
+            "AF216751"
+        ],
+        "entrez_id": "51290",
+        "mgd_id": [
+            "MGI:1914706"
+        ],
+        "pubmed_id": [
+            11445006,
+            12932305
+        ],
+        "refseq_accession": [
+            "NM_016570"
+        ],
+        "vega_id": "OTTHUMG00000169322",
+        "ensembl_gene_id": "ENSG00000087502",
+        "ccds_id": [
+            "CCDS41765"
+        ],
+        "locus_group": "protein-coding gene",
+        "omim_id": [
+            "612236"
+        ],
+        "uniprot_ids": [
+            "Q96RQ1"
+        ],
+        "ucsc_id": "uc001riv.4",
+        "rgd_id": [
+            "RGD:1310606"
+        ],
+        "location_sortable": "12p11.22",
+        "agr": "HGNC:30208",
+        "mane_select": [
+            "ENST00000360150.9",
+            "NM_016570.3"
+        ],
+        "uuid": "5ee634be-3fe3-4cd7-bc9c-64260feaf5aa",
+        "_version_": 1762679719178797057
+    },
+    "FAM162A": {
+        "hgnc_id": "HGNC:17865",
+        "symbol": "FAM162A",
+        "name": "family with sequence similarity 162 member A",
+        "status": "Approved",
+        "locus_type": "gene with protein product",
+        "prev_symbol": [
+            "C3orf28"
+        ],
+        "prev_name": [
+            "chromosome 3 open reading frame 28",
+            "family with sequence similarity 162, member A"
+        ],
+        "alias_symbol": [
+            "E2IG5"
+        ],
+        "location": "3q21.1",
+        "date_approved_reserved": "2005-12-20T00:00:00Z",
+        "date_modified": "2023-01-20T00:00:00Z",
+        "date_name_changed": "2015-11-18T00:00:00Z",
+        "ena": [
+            "AF191020"
+        ],
+        "entrez_id": "26355",
+        "mgd_id": [
+            "MGI:1917436"
+        ],
+        "pubmed_id": [
+            11085516
+        ],
+        "refseq_accession": [
+            "NM_014367"
+        ],
+        "date_symbol_changed": "2008-06-05T00:00:00Z",
+        "vega_id": "OTTHUMG00000159494",
+        "ensembl_gene_id": "ENSG00000114023",
+        "ccds_id": [
+            "CCDS43139"
+        ],
+        "locus_group": "protein-coding gene",
+        "omim_id": [
+            "608017"
+        ],
+        "uniprot_ids": [
+            "Q96A26"
+        ],
+        "ucsc_id": "uc003eez.4",
+        "rgd_id": [
+            "RGD:1590883"
+        ],
+        "location_sortable": "03q21.1",
+        "agr": "HGNC:17865",
+        "symbol_report_tag": [
+            "Placeholder symbol"
+        ],
+        "mane_select": [
+            "ENST00000477892.5",
+            "NM_014367.4"
+        ],
+        "uuid": "ef4ab9b1-4c2e-4298-be5c-5a3a135460b5",
+        "_version_": 1762679719531118593
+    },
+    "FUNDC2": {
+        "hgnc_id": "HGNC:24925",
+        "symbol": "FUNDC2",
+        "name": "FUN14 domain containing 2",
+        "status": "Approved",
+        "locus_type": "gene with protein product",
+        "alias_symbol": [
+            "HCBP6",
+            "DC44"
+        ],
+        "location": "Xq28",
+        "date_approved_reserved": "2004-08-09T00:00:00Z",
+        "date_modified": "2023-01-20T00:00:00Z",
+        "ena": [
+            "AF267862"
+        ],
+        "entrez_id": "65991",
+        "mgd_id": [
+            "MGI:1914641"
+        ],
+        "pubmed_id": [
+            29786068
+        ],
+        "refseq_accession": [
+            "NM_023934"
+        ],
+        "vega_id": "OTTHUMG00000013504",
+        "ensembl_gene_id": "ENSG00000165775",
+        "ccds_id": [
+            "CCDS14763"
+        ],
+        "locus_group": "protein-coding gene",
+        "omim_id": [
+            "301042"
+        ],
+        "uniprot_ids": [
+            "Q9BWH2"
+        ],
+        "ucsc_id": "uc004fmw.4",
+        "rgd_id": [
+            "RGD:1560916"
+        ],
+        "location_sortable": "Xq28",
+        "agr": "HGNC:24925",
+        "mane_select": [
+            "ENST00000369498.8",
+            "NM_023934.4"
+        ],
+        "uuid": "070d3006-c82a-4cd7-b0ce-f84b3eed82cd",
+        "_version_": 1762679721781362689
+    },
+    "HERC2": {
+        "hgnc_id": "HGNC:4868",
+        "symbol": "HERC2",
+        "name": "HECT and RLD domain containing E3 ubiquitin protein ligase 2",
+        "status": "Approved",
+        "locus_type": "gene with protein product",
+        "prev_name": [
+            "hect domain and RLD 2"
+        ],
+        "alias_symbol": [
+            "jdf2",
+            "p528",
+            "D15F37S1"
+        ],
+        "location": "15q13.1",
+        "date_approved_reserved": "1999-01-07T00:00:00Z",
+        "date_modified": "2023-01-20T00:00:00Z",
+        "date_name_changed": "2012-02-23T00:00:00Z",
+        "ena": [
+            "AF071172"
+        ],
+        "entrez_id": "8924",
+        "mgd_id": [
+            "MGI:103234"
+        ],
+        "orphanet": 331681,
+        "pubmed_id": [
+            9949213
+        ],
+        "refseq_accession": [
+            "NM_004667"
+        ],
+        "gene_group": [
+            "Zinc fingers ZZ-type",
+            "HECT and RLD domain containing E3 ubiquitin protein ligases"
+        ],
+        "vega_id": "OTTHUMG00000129251",
+        "ensembl_gene_id": "ENSG00000128731",
+        "ccds_id": [
+            "CCDS10021"
+        ],
+        "locus_group": "protein-coding gene",
+        "omim_id": [
+            "605837"
+        ],
+        "uniprot_ids": [
+            "O95714"
+        ],
+        "ucsc_id": "uc001zbj.5",
+        "rgd_id": [
+            "RGD:1307989"
+        ],
+        "gene_group_id": [
+            91,
+            1885
+        ],
+        "location_sortable": "15q13.1",
+        "agr": "HGNC:4868",
+        "symbol_report_tag": [
+            "Stable symbol"
+        ],
+        "mane_select": [
+            "ENST00000261609.13",
+            "NM_004667.6"
+        ],
+        "gencc": "HGNC:4868",
+        "uuid": "bc3710a5-0f36-439c-9b96-08beb06eb4f8",
+        "_version_": 1762679722719838208
+    },
+    "KCNMA1": {
+        "hgnc_id": "HGNC:6284",
+        "symbol": "KCNMA1",
+        "name": "potassium calcium-activated channel subfamily M alpha 1",
+        "status": "Approved",
+        "locus_type": "gene with protein product",
+        "prev_symbol": [
+            "SLO"
+        ],
+        "prev_name": [
+            "potassium large conductance calcium-activated channel, subfamily M, alpha member 1",
+            "potassium channel, calcium activated large conductance subfamily M alpha, member 1"
+        ],
+        "alias_symbol": [
+            "KCa1.1",
+            "mSLO1"
+        ],
+        "alias_name": [
+            "BK channel alpha subunit",
+            "maxiK channel",
+            "big potassium channel alpha subunit"
+        ],
+        "location": "10q22.3",
+        "date_approved_reserved": "1994-12-15T00:00:00Z",
+        "date_modified": "2023-01-20T00:00:00Z",
+        "date_name_changed": "2016-02-04T00:00:00Z",
+        "ena": [
+            "U11717"
+        ],
+        "entrez_id": "3778",
+        "mgd_id": [
+            "MGI:99923"
+        ],
+        "iuphar": "objectId:380",
+        "orphanet": 122795,
+        "pubmed_id": [
+            7987297,
+            16382103
+        ],
+        "refseq_accession": [
+            "NM_002247"
+        ],
+        "gene_group": [
+            "Potassium calcium-activated channels"
+        ],
+        "vega_id": "OTTHUMG00000018543",
+        "ensembl_gene_id": "ENSG00000156113",
+        "ccds_id": [
+            "CCDS73156",
+            "CCDS53545",
+            "CCDS81481",
+            "CCDS86115",
+            "CCDS60572",
+            "CCDS86121",
+            "CCDS86106",
+            "CCDS60571",
+            "CCDS86116",
+            "CCDS91276",
+            "CCDS7352",
+            "CCDS60569"
+        ],
+        "locus_group": "protein-coding gene",
+        "omim_id": [
+            "600150"
+        ],
+        "uniprot_ids": [
+            "Q12791"
+        ],
+        "ucsc_id": "uc001jxm.4",
+        "rgd_id": [
+            "RGD:620715"
+        ],
+        "gene_group_id": [
+            255
+        ],
+        "location_sortable": "10q22.3",
+        "agr": "HGNC:6284",
+        "mane_select": [
+            "ENST00000286628.14",
+            "NM_001161352.2"
+        ],
+        "gencc": "HGNC:6284",
+        "uuid": "d4f99516-04c8-4b5d-8fe9-3d3f3ce84e1b",
+        "_version_": 1762679723943526400
+    },
+    "KLHL36": {
+        "hgnc_id": "HGNC:17844",
+        "symbol": "KLHL36",
+        "name": "kelch like family member 36",
+        "status": "Approved",
+        "locus_type": "gene with protein product",
+        "prev_symbol": [
+            "C16orf44"
+        ],
+        "prev_name": [
+            "chromosome 16 open reading frame 44",
+            "kelch-like 36 (Drosophila)"
+        ],
+        "alias_symbol": [
+            "FLJ12543"
+        ],
+        "location": "16q24.1",
+        "date_approved_reserved": "2001-12-19T00:00:00Z",
+        "date_modified": "2023-01-20T00:00:00Z",
+        "date_name_changed": "2015-11-18T00:00:00Z",
+        "ena": [
+            "AK022605"
+        ],
+        "entrez_id": "79786",
+        "mgd_id": [
+            "MGI:2385305"
+        ],
+        "refseq_accession": [
+            "NM_001303451"
+        ],
+        "gene_group": [
+            "Kelch like",
+            "BTB domain containing"
+        ],
+        "date_symbol_changed": "2008-07-07T00:00:00Z",
+        "vega_id": "OTTHUMG00000137642",
+        "ensembl_gene_id": "ENSG00000135686",
+        "ccds_id": [
+            "CCDS10948",
+            "CCDS76909"
+        ],
+        "locus_group": "protein-coding gene",
+        "uniprot_ids": [
+            "Q8N4N3"
+        ],
+        "ucsc_id": "uc002fig.4",
+        "rgd_id": [
+            "RGD:1561366"
+        ],
+        "gene_group_id": [
+            617,
+            861
+        ],
+        "location_sortable": "16q24.1",
+        "agr": "HGNC:17844",
+        "mane_select": [
+            "ENST00000564996.6",
+            "NM_024731.4"
+        ],
+        "uuid": "f9fec27b-28d7-45ff-aee4-e9987cf34352",
+        "_version_": 1762679724114444289
+    },
+    "LAMP1": {
+        "hgnc_id": "HGNC:6499",
+        "symbol": "LAMP1",
+        "name": "lysosomal associated membrane protein 1",
+        "status": "Approved",
+        "locus_type": "gene with protein product",
+        "prev_name": [
+            "lysosomal-associated membrane protein 1"
+        ],
+        "alias_symbol": [
+            "CD107a"
+        ],
+        "location": "13q34",
+        "date_approved_reserved": "1990-07-15T00:00:00Z",
+        "date_modified": "2023-01-20T00:00:00Z",
+        "date_name_changed": "2016-01-14T00:00:00Z",
+        "ena": [
+            "J03263"
+        ],
+        "entrez_id": "3916",
+        "mgd_id": [
+            "MGI:96745"
+        ],
+        "cd": "CD107a",
+        "refseq_accession": [
+            "NM_005561"
+        ],
+        "gene_group": [
+            "CD molecules",
+            "Lysosome associated membrane proteins"
+        ],
+        "vega_id": "OTTHUMG00000017380",
+        "ensembl_gene_id": "ENSG00000185896",
+        "ccds_id": [
+            "CCDS41909"
+        ],
+        "locus_group": "protein-coding gene",
+        "omim_id": [
+            "153330"
+        ],
+        "uniprot_ids": [
+            "P11279"
+        ],
+        "ucsc_id": "uc001vtm.2",
+        "rgd_id": [
+            "RGD:2989"
+        ],
+        "gene_group_id": [
+            471,
+            1910
+        ],
+        "location_sortable": "13q34",
+        "agr": "HGNC:6499",
+        "mane_select": [
+            "ENST00000332556.5",
+            "NM_005561.4"
+        ],
+        "uuid": "7e3e0605-7a47-4419-b83d-82a39cb6c15a",
+        "_version_": 1762679725897023489
+    },
+    "MARVELD1": {
+        "hgnc_id": "HGNC:28674",
+        "symbol": "MARVELD1",
+        "name": "MARVEL domain containing 1",
+        "status": "Approved",
+        "locus_type": "gene with protein product",
+        "prev_symbol": [
+            "MRVLDC1"
+        ],
+        "prev_name": [
+            "MARVEL (membrane-associating) domain containing 1"
+        ],
+        "alias_symbol": [
+            "MGC4415",
+            "GB14",
+            "FLJ23440",
+            "FLJ22343",
+            "bA548K23.8"
+        ],
+        "alias_name": [
+            "occludin"
+        ],
+        "location": "10q24.2",
+        "date_approved_reserved": "2004-03-05T00:00:00Z",
+        "date_modified": "2023-03-15T00:00:00Z",
+        "date_name_changed": "2004-07-12T00:00:00Z",
+        "ena": [
+            "BC004995"
+        ],
+        "entrez_id": "83742",
+        "mgd_id": [
+            "MGI:2147570"
+        ],
+        "pubmed_id": [
+            19364627,
+            21347699
+        ],
+        "refseq_accession": [
+            "NM_031484"
+        ],
+        "gene_group": [
+            "MARVEL domain containing"
+        ],
+        "date_symbol_changed": "2004-07-12T00:00:00Z",
+        "vega_id": "OTTHUMG00000018865",
+        "ensembl_gene_id": "ENSG00000155254",
+        "locus_group": "protein-coding gene",
+        "omim_id": [
+            "616970"
+        ],
+        "uniprot_ids": [
+            "Q9BSK0"
+        ],
+        "ucsc_id": "uc001koj.5",
+        "rgd_id": [
+            "RGD:1309811"
+        ],
+        "gene_group_id": [
+            1626
+        ],
+        "location_sortable": "10q24.2",
+        "agr": "HGNC:28674",
+        "mane_select": [
+            "ENST00000285605.8",
+            "NM_031484.4"
+        ],
+        "uuid": "8f09aed1-a743-4c19-99d1-42bd07249481",
+        "_version_": 1762679727389147136
+    },
+    "MBOAT7": {
+        "hgnc_id": "HGNC:15505",
+        "symbol": "MBOAT7",
+        "name": "membrane bound O-acyltransferase domain containing 7",
+        "status": "Approved",
+        "locus_type": "gene with protein product",
+        "prev_symbol": [
+            "LENG4"
+        ],
+        "prev_name": [
+            "leukocyte receptor cluster (LRC) member 4"
+        ],
+        "alias_symbol": [
+            "BB1",
+            "hMBOA-7",
+            "LPLAT",
+            "LPIAT1",
+            "LPLAT11"
+        ],
+        "alias_name": [
+            "lysophosphatidylinositol acyltransferase",
+            "lysophospholipid acyltransferase 7",
+            "lysophosphatidylinositol acyltransferase 1",
+            "lysophospholipid acyltransferase 11"
+        ],
+        "location": "19q13.42",
+        "date_approved_reserved": "2004-01-28T00:00:00Z",
+        "date_modified": "2023-01-20T00:00:00Z",
+        "date_name_changed": "2008-01-17T00:00:00Z",
+        "ena": [
+            "AF211969"
+        ],
+        "enzyme_id": [
+            "2.3.1.n4"
+        ],
+        "entrez_id": "79143",
+        "mgd_id": [
+            "MGI:1924832"
+        ],
+        "orphanet": 476167,
+        "pubmed_id": [
+            10941842,
+            8702217,
+            18094042
+        ],
+        "refseq_accession": [
+            "NM_024298"
+        ],
+        "gene_group": [
+            "Membrane bound O-acyltransferase family"
+        ],
+        "date_symbol_changed": "2008-01-17T00:00:00Z",
+        "vega_id": "OTTHUMG00000066516",
+        "ensembl_gene_id": "ENSG00000125505",
+        "ccds_id": [
+            "CCDS54316",
+            "CCDS54315",
+            "CCDS12883"
+        ],
+        "locus_group": "protein-coding gene",
+        "omim_id": [
+            "606048"
+        ],
+        "uniprot_ids": [
+            "Q96N66"
+        ],
+        "ucsc_id": "uc032icm.2",
+        "rgd_id": [
+            "RGD:1306945"
+        ],
+        "gene_group_id": [
+            1036
+        ],
+        "location_sortable": "19q13.42",
+        "agr": "HGNC:15505",
+        "mane_select": [
+            "ENST00000245615.6",
+            "NM_024298.5"
+        ],
+        "gencc": "HGNC:15505",
+        "uuid": "ee01d3cf-c1a1-4c49-a0ea-4d2eef0a1b95",
+        "_version_": 1762679727423750144
+    },
+    "MEIG1": {
+        "hgnc_id": "HGNC:23429",
+        "symbol": "MEIG1",
+        "name": "meiosis/spermiogenesis associated 1",
+        "status": "Approved",
+        "locus_type": "gene with protein product",
+        "prev_name": [
+            "meiosis expressed gene 1 homolog (mouse)"
+        ],
+        "alias_symbol": [
+            "bA2K17.3",
+            "SPATA39"
+        ],
+        "alias_name": [
+            "spermatogenesis associated 39"
+        ],
+        "location": "10p13",
+        "date_approved_reserved": "2004-05-28T00:00:00Z",
+        "date_modified": "2023-01-20T00:00:00Z",
+        "date_name_changed": "2013-08-05T00:00:00Z",
+        "entrez_id": "644890",
+        "mgd_id": [
+            "MGI:1202878"
+        ],
+        "pubmed_id": [
+            23258628
+        ],
+        "refseq_accession": [
+            "NM_001080836"
+        ],
+        "vega_id": "OTTHUMG00000017717",
+        "ensembl_gene_id": "ENSG00000197889",
+        "ccds_id": [
+            "CCDS31151"
+        ],
+        "locus_group": "protein-coding gene",
+        "omim_id": [
+            "614174"
+        ],
+        "uniprot_ids": [
+            "Q5JSS6"
+        ],
+        "ucsc_id": "uc009xjk.1",
+        "rgd_id": [
+            "RGD:1583655"
+        ],
+        "location_sortable": "10p13",
+        "agr": "HGNC:23429",
+        "mane_select": [
+            "ENST00000407572.6",
+            "NM_001080836.3"
+        ],
+        "uuid": "319faded-f492-4654-95e0-31347eae6bc1",
+        "_version_": 1762679727520219137
+    },
+    "NEURL4": {
+        "hgnc_id": "HGNC:34410",
+        "symbol": "NEURL4",
+        "name": "neuralized E3 ubiquitin protein ligase 4",
+        "status": "Approved",
+        "locus_type": "gene with protein product",
+        "prev_name": [
+            "neuralized homolog 4 (Drosophila)"
+        ],
+        "alias_symbol": [
+            "KIAA1787"
+        ],
+        "location": "17p13.1",
+        "date_approved_reserved": "2009-01-15T00:00:00Z",
+        "date_modified": "2023-01-20T00:00:00Z",
+        "date_name_changed": "2013-10-24T00:00:00Z",
+        "entrez_id": "84461",
+        "mgd_id": [
+            "MGI:1921092"
+        ],
+        "pubmed_id": [
+            22261722,
+            22441691
+        ],
+        "refseq_accession": [
+            "NM_032442"
+        ],
+        "vega_id": "OTTHUMG00000132319",
+        "ensembl_gene_id": "ENSG00000215041",
+        "ccds_id": [
+            "CCDS42252",
+            "CCDS42251"
+        ],
+        "locus_group": "protein-coding gene",
+        "omim_id": [
+            "615865"
+        ],
+        "uniprot_ids": [
+            "Q96JN8"
+        ],
+        "ucsc_id": "uc002gga.2",
+        "rgd_id": [
+            "RGD:1308056"
+        ],
+        "location_sortable": "17p13.1",
+        "agr": "HGNC:34410",
+        "mane_select": [
+            "ENST00000399464.7",
+            "NM_032442.3"
+        ],
+        "uuid": "8b571048-1865-4cb8-ade5-b634b09762c3",
+        "_version_": 1762679730966888448
+    },
+    "PACRG": {
+        "hgnc_id": "HGNC:19152",
+        "symbol": "PACRG",
+        "name": "parkin coregulated",
+        "status": "Approved",
+        "locus_type": "gene with protein product",
+        "prev_name": [
+            "PARK2 coregulated"
+        ],
+        "alias_symbol": [
+            "PARK2CRG",
+            "FLJ32724",
+            "Glup",
+            "HAK005771"
+        ],
+        "location": "6q26",
+        "date_approved_reserved": "2003-06-25T00:00:00Z",
+        "date_modified": "2023-01-20T00:00:00Z",
+        "date_name_changed": "2017-02-09T00:00:00Z",
+        "ena": [
+            "AK057286"
+        ],
+        "entrez_id": "135138",
+        "mgd_id": [
+            "MGI:1916560"
+        ],
+        "pubmed_id": [
+            12547187
+        ],
+        "refseq_accession": [
+            "NM_152410"
+        ],
+        "gene_group": [
+            "Armadillo like helical domain containing"
+        ],
+        "vega_id": "OTTHUMG00000016116",
+        "ensembl_gene_id": "ENSG00000112530",
+        "ccds_id": [
+            "CCDS43524",
+            "CCDS5284"
+        ],
+        "locus_group": "protein-coding gene",
+        "omim_id": [
+            "608427"
+        ],
+        "uniprot_ids": [
+            "Q96M98"
+        ],
+        "ucsc_id": "uc003qub.3",
+        "rgd_id": [
+            "RGD:1561027"
+        ],
+        "gene_group_id": [
+            1492
+        ],
+        "location_sortable": "06q26",
+        "agr": "HGNC:19152",
+        "mane_select": [
+            "ENST00000366888.7",
+            "NM_001080379.2"
+        ],
+        "uuid": "148a05cb-9afa-4491-86c5-44f22d5b8474",
+        "_version_": 1762679733638660096
+    },
+    "PDAP1": {
+        "hgnc_id": "HGNC:14634",
+        "symbol": "PDAP1",
+        "name": "PDGFA associated protein 1",
+        "status": "Approved",
+        "locus_type": "gene with protein product",
+        "alias_symbol": [
+            "PAP1",
+            "PAP",
+            "HASPP28"
+        ],
+        "alias_name": [
+            "PDGF associated protein"
+        ],
+        "location": "7q22.1",
+        "date_approved_reserved": "2001-02-15T00:00:00Z",
+        "date_modified": "2023-01-20T00:00:00Z",
+        "ena": [
+            "U41745"
+        ],
+        "entrez_id": "11333",
+        "mgd_id": [
+            "MGI:2448536"
+        ],
+        "pubmed_id": [
+            8780057
+        ],
+        "refseq_accession": [
+            "NM_014891"
+        ],
+        "vega_id": "OTTHUMG00000154629",
+        "ensembl_gene_id": "ENSG00000106244",
+        "ccds_id": [
+            "CCDS5662"
+        ],
+        "locus_group": "protein-coding gene",
+        "omim_id": [
+            "607075"
+        ],
+        "uniprot_ids": [
+            "Q13442"
+        ],
+        "ucsc_id": "uc003uqe.5",
+        "rgd_id": [
+            "RGD:620442"
+        ],
+        "location_sortable": "07q22.1",
+        "agr": "HGNC:14634",
+        "mane_select": [
+            "ENST00000350498.8",
+            "NM_014891.7"
+        ],
+        "uuid": "05f5f51e-1f48-46fd-a199-86a0e92712ea",
+        "_version_": 1762679733836840960
+    },
+    "RABL3": {
+        "hgnc_id": "HGNC:18072",
+        "symbol": "RABL3",
+        "name": "RAB, member of RAS oncogene family like 3",
+        "status": "Approved",
+        "locus_type": "gene with protein product",
+        "prev_name": [
+            "RAB, member of RAS oncogene family-like 3"
+        ],
+        "alias_symbol": [
+            "MGC23920"
+        ],
+        "location": "3q13.33",
+        "date_approved_reserved": "2002-02-18T00:00:00Z",
+        "date_modified": "2023-01-20T00:00:00Z",
+        "date_name_changed": "2016-04-04T00:00:00Z",
+        "ena": [
+            "BC020832"
+        ],
+        "entrez_id": "285282",
+        "mgd_id": [
+            "MGI:1914907"
+        ],
+        "pubmed_id": [
+            20596630
+        ],
+        "refseq_accession": [
+            "NM_173825"
+        ],
+        "gene_group": [
+            "RAB like GTPases"
+        ],
+        "vega_id": "OTTHUMG00000159668",
+        "ensembl_gene_id": "ENSG00000144840",
+        "ccds_id": [
+            "CCDS3001",
+            "CCDS87127"
+        ],
+        "locus_group": "protein-coding gene",
+        "omim_id": [
+            "618542"
+        ],
+        "uniprot_ids": [
+            "Q5HYI8"
+        ],
+        "ucsc_id": "uc003edx.3",
+        "rgd_id": [
+            "RGD:1306436"
+        ],
+        "gene_group_id": [
+            394
+        ],
+        "location_sortable": "03q13.33",
+        "agr": "HGNC:18072",
+        "mane_select": [
+            "ENST00000273375.8",
+            "NM_173825.5"
+        ],
+        "gencc": "HGNC:18072",
+        "uuid": "aeb2f85e-969c-4390-9e9d-c4f3719b0bdd",
+        "_version_": 1762679735153852416
+    },
+    "RER1": {
+        "hgnc_id": "HGNC:30309",
+        "symbol": "RER1",
+        "name": "retention in endoplasmic reticulum sorting receptor 1",
+        "status": "Approved",
+        "locus_type": "gene with protein product",
+        "prev_name": [
+            "RER1 retention in endoplasmic reticulum 1 homolog (S. cerevisiae)"
+        ],
+        "location": "1p36.32",
+        "date_approved_reserved": "2004-12-17T00:00:00Z",
+        "date_modified": "2023-01-20T00:00:00Z",
+        "date_name_changed": "2013-10-18T00:00:00Z",
+        "ena": [
+            "AF157324"
+        ],
+        "entrez_id": "11079",
+        "mgd_id": [
+            "MGI:1915080"
+        ],
+        "pubmed_id": [
+            9309388,
+            17668005
+        ],
+        "refseq_accession": [
+            "NM_007033"
+        ],
+        "vega_id": "OTTHUMG00000001403",
+        "ensembl_gene_id": "ENSG00000157916",
+        "ccds_id": [
+            "CCDS41232"
+        ],
+        "locus_group": "protein-coding gene",
+        "omim_id": [
+            "620048"
+        ],
+        "uniprot_ids": [
+            "O15258"
+        ],
+        "ucsc_id": "uc001aje.3",
+        "rgd_id": [
+            "RGD:1306324"
+        ],
+        "location_sortable": "01p36.32",
+        "agr": "HGNC:30309",
+        "mane_select": [
+            "ENST00000605895.6",
+            "NM_007033.5"
+        ],
+        "uuid": "fb60e6d5-d817-4d30-baf6-3206e2a65767",
+        "_version_": 1762679735402364928
+    },
+    "RRBP1": {
+        "hgnc_id": "HGNC:10448",
+        "symbol": "RRBP1",
+        "name": "ribosome binding protein 1",
+        "status": "Approved",
+        "locus_type": "gene with protein product",
+        "prev_name": [
+            "ribosome binding protein 1 (dog 180kD homolog)",
+            "ribosome binding protein 1 homolog 180kDa (dog)"
+        ],
+        "alias_symbol": [
+            "ES/130",
+            "hES",
+            "p180"
+        ],
+        "alias_name": [
+            "ribosomal receptor-binding protein 1",
+            "endoplasmic reticulum ribosome-binding protein 1"
+        ],
+        "location": "20p12.1",
+        "date_approved_reserved": "1998-03-20T00:00:00Z",
+        "date_modified": "2023-01-20T00:00:00Z",
+        "date_name_changed": "2012-12-07T00:00:00Z",
+        "ena": [
+            "AB037819"
+        ],
+        "entrez_id": "6238",
+        "mgd_id": [
+            "MGI:1932395"
+        ],
+        "pubmed_id": [
+            8812507,
+            19932094,
+            28441135
+        ],
+        "refseq_accession": [
+            "NM_001042576"
+        ],
+        "vega_id": "OTTHUMG00000031945",
+        "ensembl_gene_id": "ENSG00000125844",
+        "ccds_id": [
+            "CCDS13128",
+            "CCDS93010"
+        ],
+        "locus_group": "protein-coding gene",
+        "omim_id": [
+            "601418"
+        ],
+        "uniprot_ids": [
+            "Q9P2E9"
+        ],
+        "ucsc_id": "uc002wpw.2",
+        "rgd_id": [
+            "RGD:1306536"
+        ],
+        "location_sortable": "20p12.1",
+        "agr": "HGNC:10448",
+        "mane_select": [
+            "ENST00000377813.6",
+            "NM_001365613.2"
+        ],
+        "uuid": "dd374a6a-40e7-4e0f-ad65-59c1533a4532",
+        "_version_": 1762679740868591616
+    },
+    "SAMD3": {
+        "hgnc_id": "HGNC:21574",
+        "symbol": "SAMD3",
+        "name": "sterile alpha motif domain containing 3",
+        "status": "Approved",
+        "locus_type": "gene with protein product",
+        "alias_symbol": [
+            "bA73O6.2",
+            "FLJ34032"
+        ],
+        "location": "6q23.1",
+        "date_approved_reserved": "2003-11-26T00:00:00Z",
+        "date_modified": "2023-03-15T00:00:00Z",
+        "ena": [
+            "AK091351"
+        ],
+        "entrez_id": "154075",
+        "mgd_id": [
+            "MGI:2685469"
+        ],
+        "refseq_accession": [
+            "NM_152552"
+        ],
+        "gene_group": [
+            "Sterile alpha motif domain containing"
+        ],
+        "vega_id": "OTTHUMG00000015556",
+        "ensembl_gene_id": "ENSG00000164483",
+        "ccds_id": [
+            "CCDS64525",
+            "CCDS34539"
+        ],
+        "locus_group": "protein-coding gene",
+        "uniprot_ids": [
+            "Q8N6K7"
+        ],
+        "ucsc_id": "uc003qbx.5",
+        "rgd_id": [
+            "RGD:1587834"
+        ],
+        "gene_group_id": [
+            760
+        ],
+        "location_sortable": "06q23.1",
+        "agr": "HGNC:21574",
+        "mane_select": [
+            "ENST00000439090.7",
+            "NM_001017373.4"
+        ],
+        "uuid": "9ebf9faf-7397-4dad-91d9-cd29847c0a14",
+        "_version_": 1762679741000712192
+    },
+    "SCN1A": {
+        "hgnc_id": "HGNC:10585",
+        "symbol": "SCN1A",
+        "name": "sodium voltage-gated channel alpha subunit 1",
+        "status": "Approved",
+        "locus_type": "gene with protein product",
+        "prev_symbol": [
+            "SCN1",
+            "FEB3"
+        ],
+        "prev_name": [
+            "febrile convulsions 3",
+            "sodium channel, voltage-gated, type I, alpha subunit",
+            "sodium channel, voltage gated, type I alpha subunit"
+        ],
+        "alias_symbol": [
+            "Nav1.1",
+            "GEFSP2",
+            "HBSCI",
+            "NAC1",
+            "SMEI"
+        ],
+        "location": "2q24.3",
+        "date_approved_reserved": "1988-11-28T00:00:00Z",
+        "date_modified": "2023-01-20T00:00:00Z",
+        "date_name_changed": "2016-02-05T00:00:00Z",
+        "ena": [
+            "AB093548"
+        ],
+        "entrez_id": "6323",
+        "mgd_id": [
+            "MGI:98246"
+        ],
+        "iuphar": "objectId:578",
+        "orphanet": 118489,
+        "pubmed_id": [
+            8062593,
+            16382098,
+            11823106
+        ],
+        "refseq_accession": [
+            "NM_006920"
+        ],
+        "gene_group": [
+            "Sodium voltage-gated channel alpha subunits"
+        ],
+        "vega_id": "OTTHUMG00000044173",
+        "lsdb": [
+            "Global Variome shared LOVD|https://databases.lovd.nl/shared/genes/SCN1A",
+            "LRG_8|http://ftp.ebi.ac.uk/pub/databases/lrgex/LRG_8.xml"
+        ],
+        "ensembl_gene_id": "ENSG00000144285",
+        "ccds_id": [
+            "CCDS86891",
+            "CCDS33316",
+            "CCDS54413",
+            "CCDS54414"
+        ],
+        "locus_group": "protein-coding gene",
+        "omim_id": [
+            "182389"
+        ],
+        "uniprot_ids": [
+            "P35498"
+        ],
+        "ucsc_id": "uc061peu.1",
+        "rgd_id": [
+            "RGD:69364"
+        ],
+        "gene_group_id": [
+            1203
+        ],
+        "location_sortable": "02q24.3",
+        "agr": "HGNC:10585",
+        "symbol_report_tag": [
+            "Stable symbol"
+        ],
+        "mane_select": [
+            "ENST00000674923.1",
+            "NM_001165963.4"
+        ],
+        "gencc": "HGNC:10585",
+        "uuid": "4289dcd9-2492-44b9-9d8f-85b8af3a6036",
+        "_version_": 1762679741103472641
+    },
+    "SCN2A": {
+        "hgnc_id": "HGNC:10588",
+        "symbol": "SCN2A",
+        "name": "sodium voltage-gated channel alpha subunit 2",
+        "status": "Approved",
+        "locus_type": "gene with protein product",
+        "prev_symbol": [
+            "SCN2A1",
+            "SCN2A2"
+        ],
+        "prev_name": [
+            "sodium channel, voltage-gated, type II, alpha 2 polypeptide",
+            "sodium channel, voltage-gated, type II, alpha 1 polypeptide",
+            "sodium channel, voltage-gated, type II, alpha subunit",
+            "sodium channel, voltage gated, type II alpha subunit"
+        ],
+        "alias_symbol": [
+            "Nav1.2",
+            "HBSCII",
+            "HBSCI"
+        ],
+        "location": "2q24.3",
+        "date_approved_reserved": "1992-08-07T00:00:00Z",
+        "date_modified": "2023-01-20T00:00:00Z",
+        "date_name_changed": "2016-02-05T00:00:00Z",
+        "ena": [
+            "AB208888"
+        ],
+        "entrez_id": "6326",
+        "mgd_id": [
+            "MGI:98248"
+        ],
+        "iuphar": "objectId:579",
+        "orphanet": 118500,
+        "pubmed_id": [
+            1317301,
+            16382098
+        ],
+        "refseq_accession": [
+            "NM_021007"
+        ],
+        "gene_group": [
+            "Sodium voltage-gated channel alpha subunits"
+        ],
+        "date_symbol_changed": "2007-01-23T00:00:00Z",
+        "vega_id": "OTTHUMG00000044172",
+        "ensembl_gene_id": "ENSG00000136531",
+        "ccds_id": [
+            "CCDS33313",
+            "CCDS33314"
+        ],
+        "locus_group": "protein-coding gene",
+        "omim_id": [
+            "182390"
+        ],
+        "uniprot_ids": [
+            "Q99250"
+        ],
+        "ucsc_id": "uc061pdo.1",
+        "rgd_id": [
+            "RGD:3632"
+        ],
+        "gene_group_id": [
+            1203
+        ],
+        "location_sortable": "02q24.3",
+        "agr": "HGNC:10588",
+        "symbol_report_tag": [
+            "Stable symbol"
+        ],
+        "mane_select": [
+            "ENST00000375437.7",
+            "NM_001040142.2"
+        ],
+        "gencc": "HGNC:10588",
+        "uuid": "a46b934b-5f1b-4226-ac10-26b2b5de9e08",
+        "_version_": 1762679741105569792
+    },
+    "SRP19": {
+        "hgnc_id": "HGNC:11300",
+        "symbol": "SRP19",
+        "name": "signal recognition particle 19",
+        "status": "Approved",
+        "locus_type": "gene with protein product",
+        "prev_name": [
+            "signal recognition particle 19kDa"
+        ],
+        "location": "5q22.2",
+        "date_approved_reserved": "1991-12-05T00:00:00Z",
+        "date_modified": "2023-01-20T00:00:00Z",
+        "date_name_changed": "2016-06-22T00:00:00Z",
+        "entrez_id": "6728",
+        "mgd_id": [
+            "MGI:1913634"
+        ],
+        "pubmed_id": [
+            2460823
+        ],
+        "refseq_accession": [
+            "NM_003135"
+        ],
+        "gene_group": [
+            "Signal recognition particle"
+        ],
+        "vega_id": "OTTHUMG00000186064",
+        "ensembl_gene_id": "ENSG00000153037",
+        "ccds_id": [
+            "CCDS56375",
+            "CCDS87319",
+            "CCDS75286",
+            "CCDS56376",
+            "CCDS4108"
+        ],
+        "locus_group": "protein-coding gene",
+        "omim_id": [
+            "182175"
+        ],
+        "uniprot_ids": [
+            "P09132"
+        ],
+        "ucsc_id": "uc003kqc.4",
+        "rgd_id": [
+            "RGD:1308437"
+        ],
+        "gene_group_id": [
+            1876
+        ],
+        "location_sortable": "05q22.2",
+        "agr": "HGNC:11300",
+        "mane_select": [
+            "ENST00000505459.6",
+            "NM_003135.3"
+        ],
+        "uuid": "7acd210c-6cba-4c83-8a01-1ae4d314a75a",
+        "_version_": 1762679742499127298
+    },
+    "SUN5": {
+        "hgnc_id": "HGNC:16252",
+        "symbol": "SUN5",
+        "name": "Sad1 and UNC84 domain containing 5",
+        "status": "Approved",
+        "locus_type": "gene with protein product",
+        "prev_symbol": [
+            "SPAG4L"
+        ],
+        "prev_name": [
+            "sperm associated antigen 4-like"
+        ],
+        "alias_symbol": [
+            "dJ726C3.1",
+            "TSARG4"
+        ],
+        "alias_name": [
+            "testis and spermatogenesis related gene 4"
+        ],
+        "location": "20q11.21",
+        "date_approved_reserved": "2001-07-17T00:00:00Z",
+        "date_modified": "2023-01-20T00:00:00Z",
+        "date_name_changed": "2010-01-27T00:00:00Z",
+        "ena": [
+            "AL121756"
+        ],
+        "entrez_id": "140732",
+        "mgd_id": [
+            "MGI:1923657"
+        ],
+        "pubmed_id": [
+            9691178,
+            10373309
+        ],
+        "refseq_accession": [
+            "NM_080675"
+        ],
+        "gene_group": [
+            "SUN family"
+        ],
+        "date_symbol_changed": "2010-01-27T00:00:00Z",
+        "vega_id": "OTTHUMG00000032239",
+        "ensembl_gene_id": "ENSG00000167098",
+        "ccds_id": [
+            "CCDS13209"
+        ],
+        "locus_group": "protein-coding gene",
+        "omim_id": [
+            "613942"
+        ],
+        "uniprot_ids": [
+            "Q8TC36"
+        ],
+        "ucsc_id": "uc002wyi.4",
+        "rgd_id": [
+            "RGD:1306357"
+        ],
+        "gene_group_id": [
+            1968
+        ],
+        "location_sortable": "20q11.21",
+        "agr": "HGNC:16252",
+        "symbol_report_tag": [
+            "Stable symbol"
+        ],
+        "mane_select": [
+            "ENST00000356173.8",
+            "NM_080675.4"
+        ],
+        "gencc": "HGNC:16252",
+        "uuid": "d3386713-fa6b-4500-8264-fcdd8f68316f",
+        "_version_": 1762679742760222720
+    },
+    "TAOK2": {
+        "hgnc_id": "HGNC:16835",
+        "symbol": "TAOK2",
+        "name": "TAO kinase 2",
+        "status": "Approved",
+        "locus_type": "gene with protein product",
+        "alias_symbol": [
+            "TAO1",
+            "KIAA0881",
+            "PSK",
+            "PSK1",
+            "TAO2",
+            "MAP3K17",
+            "hKFC-C",
+            "PSK-1",
+            "PSK1-BETA",
+            "Tao2beta"
+        ],
+        "alias_name": [
+            "Serine/threonine-protein kinase TAO2",
+            "Thousand and one amino acid protein kinase 2",
+            "Kinase from chicken homolog C",
+            "Prostate-derived sterile 20-like kinase 1"
+        ],
+        "location": "16p11.2",
+        "date_approved_reserved": "2004-10-20T00:00:00Z",
+        "date_modified": "2023-01-20T00:00:00Z",
+        "ena": [
+            "AB020688"
+        ],
+        "enzyme_id": [
+            "2.7.11.1"
+        ],
+        "entrez_id": "9344",
+        "mgd_id": [
+            "MGI:1915919"
+        ],
+        "iuphar": "objectId:2234",
+        "orphanet": 471186,
+        "pubmed_id": [
+            10048485,
+            9786855,
+            22683681
+        ],
+        "refseq_accession": [
+            "NM_016151"
+        ],
+        "gene_group": [
+            "Mitogen-activated protein kinase kinase kinases"
+        ],
+        "vega_id": "OTTHUMG00000132111",
+        "ensembl_gene_id": "ENSG00000149930",
+        "ccds_id": [
+            "CCDS10663",
+            "CCDS58448",
+            "CCDS10662"
+        ],
+        "locus_group": "protein-coding gene",
+        "omim_id": [
+            "613199"
+        ],
+        "uniprot_ids": [
+            "Q9UL54"
+        ],
+        "ucsc_id": "uc002dva.3",
+        "rgd_id": [
+            "RGD:621590"
+        ],
+        "gene_group_id": [
+            654
+        ],
+        "location_sortable": "16p11.2",
+        "agr": "HGNC:16835",
+        "symbol_report_tag": [
+            "Stable symbol"
+        ],
+        "mane_select": [
+            "ENST00000308893.9",
+            "NM_016151.4"
+        ],
+        "gencc": "HGNC:16835",
+        "uuid": "28e7413e-254a-4b35-9650-8b71dc1c6d09",
+        "_version_": 1762679742898634754
+    },
+    "TIMM21": {
+        "hgnc_id": "HGNC:25010",
+        "symbol": "TIMM21",
+        "name": "translocase of inner mitochondrial membrane 21",
+        "status": "Approved",
+        "locus_type": "gene with protein product",
+        "prev_symbol": [
+            "C18orf55"
+        ],
+        "prev_name": [
+            "chromosome 18 open reading frame 55",
+            "translocase of inner mitochondrial membrane 21 homolog (yeast)"
+        ],
+        "alias_symbol": [
+            "HSPC154",
+            "TIM21"
+        ],
+        "location": "18q22.3",
+        "date_approved_reserved": "2005-01-06T00:00:00Z",
+        "date_modified": "2023-01-20T00:00:00Z",
+        "date_name_changed": "2016-03-07T00:00:00Z",
+        "ena": [
+            "BC000892"
+        ],
+        "entrez_id": "29090",
+        "mgd_id": [
+            "MGI:1920595"
+        ],
+        "pubmed_id": [
+            11042152,
+            23260140
+        ],
+        "refseq_accession": [
+            "NM_014177"
+        ],
+        "gene_group": [
+            "TIM23 complex"
+        ],
+        "date_symbol_changed": "2011-11-25T00:00:00Z",
+        "vega_id": "OTTHUMG00000132844",
+        "ensembl_gene_id": "ENSG00000075336",
+        "ccds_id": [
+            "CCDS12003"
+        ],
+        "locus_group": "protein-coding gene",
+        "omim_id": [
+            "615180"
+        ],
+        "uniprot_ids": [
+            "Q9BVV7"
+        ],
+        "ucsc_id": "uc010dqr.2",
+        "rgd_id": [
+            "RGD:1307279"
+        ],
+        "gene_group_id": [
+            1552
+        ],
+        "location_sortable": "18q22.3",
+        "agr": "HGNC:25010",
+        "mane_select": [
+            "ENST00000169551.11",
+            "NM_014177.3"
+        ],
+        "uuid": "29963375-fac8-44c1-916c-1e62632722c0",
+        "_version_": 1762679744952795136
+    },
+    "TOMM40": {
+        "hgnc_id": "HGNC:18001",
+        "symbol": "TOMM40",
+        "name": "translocase of outer mitochondrial membrane 40",
+        "status": "Approved",
+        "locus_type": "gene with protein product",
+        "prev_name": [
+            "translocase of outer mitochondrial membrane 40 homolog (yeast)"
+        ],
+        "alias_symbol": [
+            "PEREC1",
+            "D19S1177E",
+            "C19orf1",
+            "TOM40",
+            "PER-EC1"
+        ],
+        "location": "19q13.32",
+        "date_approved_reserved": "2002-02-11T00:00:00Z",
+        "date_modified": "2023-01-20T00:00:00Z",
+        "date_name_changed": "2016-02-26T00:00:00Z",
+        "ena": [
+            "AF043250"
+        ],
+        "entrez_id": "10452",
+        "mgd_id": [
+            "MGI:1858259"
+        ],
+        "pubmed_id": [
+            10980201,
+            15644312
+        ],
+        "refseq_accession": [
+            "NM_001128916"
+        ],
+        "gene_group": [
+            "Translocase of outer mitochondrial membrane complex"
+        ],
+        "vega_id": "OTTHUMG00000180842",
+        "ensembl_gene_id": "ENSG00000130204",
+        "ccds_id": [
+            "CCDS12646"
+        ],
+        "locus_group": "protein-coding gene",
+        "omim_id": [
+            "608061"
+        ],
+        "uniprot_ids": [
+            "O96008"
+        ],
+        "ucsc_id": "uc002ozx.4",
+        "rgd_id": [
+            "RGD:1303022"
+        ],
+        "gene_group_id": [
+            1229
+        ],
+        "location_sortable": "19q13.32",
+        "agr": "HGNC:18001",
+        "mane_select": [
+            "ENST00000426677.7",
+            "NM_001128917.2"
+        ],
+        "uuid": "799cb4ea-5437-4b3f-9cb9-47262cf76d21",
+        "_version_": 1762679745293582336
+    },
+    "UBAC2": {
+        "hgnc_id": "HGNC:20486",
+        "symbol": "UBAC2",
+        "name": "UBA domain containing 2",
+        "status": "Approved",
+        "locus_type": "gene with protein product",
+        "prev_symbol": [
+            "PHGDHL1"
+        ],
+        "prev_name": [
+            "phosphoglycerate dehydrogenase like 1"
+        ],
+        "alias_symbol": [
+            "FLJ30548",
+            "RP11-178C10.1"
+        ],
+        "location": "13q32.3",
+        "date_approved_reserved": "2003-02-28T00:00:00Z",
+        "date_modified": "2023-01-20T00:00:00Z",
+        "date_name_changed": "2007-04-20T00:00:00Z",
+        "ena": [
+            "AK055110"
+        ],
+        "entrez_id": "337867",
+        "mgd_id": [
+            "MGI:1916139"
+        ],
+        "orphanet": 285499,
+        "refseq_accession": [
+            "NM_177967"
+        ],
+        "gene_group": [
+            "Rhomboid family",
+            "MicroRNA protein coding host genes"
+        ],
+        "date_symbol_changed": "2007-04-20T00:00:00Z",
+        "vega_id": "OTTHUMG00000017267",
+        "ensembl_gene_id": "ENSG00000134882",
+        "ccds_id": [
+            "CCDS45064",
+            "CCDS9490"
+        ],
+        "locus_group": "protein-coding gene",
+        "uniprot_ids": [
+            "Q8NBM4"
+        ],
+        "ucsc_id": "uc001voa.5",
+        "rgd_id": [
+            "RGD:1311689"
+        ],
+        "gene_group_id": [
+            926,
+            1691
+        ],
+        "location_sortable": "13q32.3",
+        "agr": "HGNC:20486",
+        "mane_select": [
+            "ENST00000403766.8",
+            "NM_001144072.2"
+        ],
+        "uuid": "d5c32125-8c98-453c-89b9-a569327fc672",
+        "_version_": 1762679746391441408
+    }
+}
