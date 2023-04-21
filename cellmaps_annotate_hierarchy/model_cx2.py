@@ -48,6 +48,9 @@ def get_system(model, system_name):
 
 
 def get_genes(system):
-    return get_node_value(system, "MemberList").split(" ")
+    genes_attribute = system.get("genes_attribute")
+    if genes_attribute is None:
+        genes_attribute = "MemberList"
+    return get_node_value(system, genes_attribute).split(" ")
 
 
