@@ -13,9 +13,32 @@ def get_hugo_data(system):
         headers = {
             'Content-Type': 'application/json',
             'Accept': 'application/json'}
-        response = requests.get(f'https://rest.genenames.org/fetch/symbol/{gene}',
-                                headers=headers)
-        data = json.loads(response.content)["response"]["docs"][0]
-        # print(data)
-        hugo_data[gene] = data
+        
+        ## Old hugo names may not be found in the current Hugo database, added this following loop to search aliases and previous symbols --Clara
+         # First, try searching with the current symbol
+        response = requests.get(f'https://rest.genenames.org/fetch/symbol/{gene}', headers=headers)
+        if response.status_code == 200 and response.json()['response']['numFound'] > 0:
+            data = json.loads(response.content)["response"]["docs"][0]
+            # print(data)
+            hugo_data[gene] = data
+            continue
+            
+        # If not found, try searching with alias symbols
+        response = requests.get(f'https://rest.genenames.org/fetch/alias_symbol/{gene}', headers=headers)
+        if response.status_code == 200 and response.json()['response']['numFound'] > 0:
+            data = json.loads(response.content)["response"]["docs"][0]
+            # print(data)
+            hugo_data[gene] = data
+            continue
+        
+        # If still not found, try searching with previous symbols
+        response = requests.get(f'https://rest.genenames.org/fetch/prev_symbol/{gene}', headers=headers)
+        if response.status_code == 200 and response.json()['response']['numFound'] > 0:
+            data = json.loads(response.content)["response"]["docs"][0]
+            # print(data)
+            hugo_data[gene] = data
+            continue
+        
+        print(f"Could not find information for {gene}.")
+
     return hugo_data
