@@ -13,8 +13,7 @@ def get_aspect(cx2, name):
             return aspect.get(name)
     return None
 
-
-def get_cx2_nodes(cx2):
+def get_nodes(cx2):
     nodes = get_aspect(cx2, "nodes")
     nodes = nodes
     if nodes is None:
@@ -25,7 +24,7 @@ def get_cx2_nodes(cx2):
 
 
 def get_node_by_name(cx2, node_name):
-    nodes = get_cx2_nodes(cx2)
+    nodes = get_nodes(cx2)
     for node in nodes:
         # print(node)
         values = node["v"]
@@ -38,8 +37,13 @@ def get_node_by_name(cx2, node_name):
 def get_node_value(node, attribute):
     values = node["v"]
     value = values.get(attribute)
-    #print(f'{attribute} = {value}')
+    # print(f'{attribute} = {value}')
     return value
+
+
+# ---------------------
+# Model Functions
+# ---------------------
 
 
 def get_system(model, system_name):
@@ -54,3 +58,6 @@ def get_genes(system):
     return get_node_value(system, genes_attribute).split(" ")
 
 
+# ---------------------
+# System Network Functions
+# ---------------------
