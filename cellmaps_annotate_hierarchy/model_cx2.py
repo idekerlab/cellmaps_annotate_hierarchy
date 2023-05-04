@@ -58,6 +58,9 @@ def get_genes(system):
     return get_node_value(system, genes_attribute).split(" ")
 
 
+
+
+
 # ---------------------
 # System Network Functions
 # ---------------------
