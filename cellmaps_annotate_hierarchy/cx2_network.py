@@ -76,9 +76,9 @@ class CX2Network:
             return False
 
     def _update_attribute_declaration(self, aspect, attribute_name, data_type):
-        if aspect not in self.attribute_declarations[0]:
-            self.attribute_declarations[0][aspect] = {}
-        self.attribute_declarations[0][aspect][attribute_name] = {'d': data_type}
+        if aspect not in self.attribute_declarations:
+            self.attribute_declarations[aspect] = {}
+        self.attribute_declarations[aspect][attribute_name] = {'d': data_type}
 
     def get_network_attribute(self, attribute_name):
         return self.network_attributes.get(attribute_name)
@@ -97,7 +97,9 @@ class CX2Network:
         if data_type is None or self._check_data_type(value, data_type):
             if data_type is None:
                 data_type = type(value).__name__
-                self._update_attribute_declaration('nodes', attribute_name, data_type)
+                if data_type == "str":
+                    data_type = "string"
+                # self._update_attribute_declaration('nodes', attribute_name, data_type)
             for node in self.nodes:
                 if node['id'] == node_id:
                     node['v'][attribute_name] = value
@@ -158,7 +160,7 @@ class CX2Network:
 
     def get_node_by_name(self, node_name):
         for node in self.nodes:
-            if node['v'].get('name') == node_name:
+            if node['v'].get('n') == node_name:
                 return node
         return None
 
@@ -225,8 +227,9 @@ class CX2Network:
         """
         url = "https://www.ndexbio.org/v3/networks"
         headers = {"Content-Type": "application/json"}
+        data = json.dumps(cx2_network.cx2_data)
         response = requests.post(url, auth=(username, password), headers=headers,
-                                 data=json.dumps(cx2_network.cx2_data))
+                                 data=data)
 
         if response.status_code == 201:
             return response.json()["uuid"]
@@ -254,7 +257,6 @@ class CX2Network:
             return CX2Network(cx2_data)
         else:
             response.raise_for_status()
-
 
 
 def query_ndex_network(network_id, username, password, search_string, search_depth=1, edge_limit=None,
@@ -293,9 +295,9 @@ def query_ndex_network(network_id, username, password, search_string, search_dep
     response = requests.post(url, json=data, headers=headers, auth=(username, password))
 
     if response.status_code == 200:
-        cx2_data = response.json()
-        cx2_network = CX2Network(cx2_data)
-        return cx2_network
+        cx_data = response.json()
+        #cx2_network = CX2Network(cx2_data)
+        return cx_data
     if response.status_code == 201:
         return response.json().split('/')[-1]
     else:

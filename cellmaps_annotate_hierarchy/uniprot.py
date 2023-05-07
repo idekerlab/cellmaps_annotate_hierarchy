@@ -114,7 +114,6 @@ def get_uniprot_data_for_system(system, hugo_data=None):
             print(f'no uniprot id found for {gene_name}')
     return analysis_data
 
-
 def summarize_uniprot_features(data):
     """
     Take a data structure and output a new list of dictionaries
@@ -173,5 +172,3 @@ def summarized_uniprot_features_to_tsv(summarized_data):
         tsv_data += f"{item['feature']}\t{item['number_of_genes']}\t{item['genes']}\n"
 
     return tsv_data
-
-
