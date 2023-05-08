@@ -16,7 +16,7 @@ def query_uniprot_by_id(uniprot_id):
     headers = {
         'Content-Type': 'application/json',
         'Accept': 'application/json'}
-    print(f'querying uniprot id {uniprot_id}')
+   # print(f'querying uniprot id {uniprot_id}')
     response = requests.get(url,
                             headers=headers)
     # print(response.text)
@@ -96,13 +96,13 @@ def get_uniprot_data_for_system(system, hugo_data=None):
     gene_names = get_genes(system)
     analysis_data = {}
     # gene_names = [gene_names[0], gene_names[1]]
-    print(f'gene names: {gene_names}')
+  #  print(f'gene names: {gene_names}')
 
     for gene_name in gene_names:
-        print(f'gene name = {gene_name}')
+      #  print(f'gene name = {gene_name}')
         hugo_gene = hugo_data[gene_name]
-        uniprot_ids = hugo_gene.get("uniprot_ids")
-        print(f'uniprot_ids = {uniprot_ids}')
+        uniprot_ids = hugo_gene.get("uniprot_ids") # SA: replace here
+      #  print(f'uniprot_ids = {uniprot_ids}')
         if uniprot_ids is not None:
             uniprot_id = uniprot_ids[0]
             uniprot_data = query_uniprot_by_id(uniprot_id)

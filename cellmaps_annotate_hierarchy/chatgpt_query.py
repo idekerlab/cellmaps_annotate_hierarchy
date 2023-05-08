@@ -2,7 +2,7 @@ import openai
 import os
 
 # Load the API key from an environment variable or secret management service
-openai.api_key = os.getenv("OPENAI_API_KEY")
+openai.api_key = os.getenv("OPENAI_API_KEY") # SA: ToDo: modify
 
 
 def chatgpt_query_to_text(prompt,

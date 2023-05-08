@@ -29,7 +29,8 @@ def get_node_by_name(cx2, node_name):
     for node in nodes:
         # print(node)
         values = node["v"]
-        if node_name == values.get("name"):
+        # if node_name == values.get("name"):
+        if node_name == values.get("n"): # SA edit
             # print(f'{node_name} = {node}')
             return node
     return None
@@ -41,6 +42,8 @@ def get_node_value(node, attribute):
     #print(f'{attribute} = {value}')
     return value
 
+
+# set_node_value ToDo:
 
 def get_system(model, system_name):
     # print(f"getting {system_name}")
