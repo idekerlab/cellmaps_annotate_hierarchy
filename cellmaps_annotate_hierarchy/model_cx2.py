@@ -23,6 +23,15 @@ def get_cx2_nodes(cx2):
     # print(nodes)
     return nodes
 
+def get_cx2_edges(cx2):
+    edges = get_aspect(cx2, "edges")
+    edges = edges
+    if edges is None:
+        print("edges is None")
+        return None
+    # print(edges)
+    return edges
+
 
 def get_node_by_name(cx2, node_name):
     nodes = get_cx2_nodes(cx2)
@@ -34,6 +43,13 @@ def get_node_by_name(cx2, node_name):
             return node
     return None
 
+def get_node_by_id(cx2, node_id):
+    nodes = get_cx2_nodes(cx2)
+    for node in nodes:
+        if node['id'] == node_id:
+            return node
+    return None
+
 
 def get_node_value(node, attribute):
     values = node["v"]
@@ -41,6 +57,13 @@ def get_node_value(node, attribute):
     #print(f'{attribute} = {value}')
     return value
 
+def convert_system_name_to_ids(cx2, system_name):
+    nodes = get_cx2_nodes(cx2)
+    for node in nodes:
+        # print(node)
+        values = node["v"]
+        if system_name == values.get("name"):
+            return node["id"]
 
 def get_system(model, system_name):
     # print(f"getting {system_name}")
