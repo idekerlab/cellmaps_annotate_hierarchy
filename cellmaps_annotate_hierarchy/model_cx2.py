@@ -43,6 +43,7 @@ def get_node_value(node, attribute):
 
 
 
+
 # ---------------------
 # Model Functions
 # ---------------------
@@ -60,7 +61,15 @@ def get_genes(system):
     return get_node_value(system, genes_attribute).split(" ")
 
 
+def getSystemIndex(model, system_name):
+    systemList = model[4]['nodes']
+    for systemInd in range(len(systemList)):
+        if systemList[systemInd]['v']['n'] == system_name:
+            return systemInd
 
+def set_genes(model, system_name, genes_fixed_str):
+    systemInd = getSystemIndex(model, system_name)
+    model[4]['nodes'][systemInd]['v']['CD_MemberList'] = genes_fixed_str
 
 
 # ---------------------

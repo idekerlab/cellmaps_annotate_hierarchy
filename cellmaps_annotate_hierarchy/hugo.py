@@ -4,11 +4,9 @@ import requests
 import json
 
 
-#def get_hugo_data(system):
-#    gene_names = get_genes(system)
-    
-def get_hugo_data(gene_names): # SA edited - if fixing gene names then do not want to get the obsolete names agains
-    
+def get_hugo_data(system):
+    gene_names = get_genes(system)
+        
     hugo_data = {}
 
     for gene in gene_names:
