@@ -62,7 +62,7 @@ def get_genes(system):
 
 
 def getSystemIndex(model, system_name):
-    systemList = model[4]['nodes']
+    systemList = model[4]['nodes'] # ToDo: Make sure index 4 does not change OR find a more robust manner to grab!!!
     for systemInd in range(len(systemList)):
         if systemList[systemInd]['v']['n'] == system_name:
             return systemInd
