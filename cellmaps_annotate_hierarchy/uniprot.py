@@ -1,6 +1,7 @@
 import requests
 import json
 from model_cx2 import get_genes
+from FixGeneSymbols import latestGeneSymbol_2_uniprotID
 
 
 def query_uniprot_by_id(uniprot_id):
@@ -92,7 +93,7 @@ def filter_uniprot_response(uniprot_json):
     return filtered_data
 
 
-def get_uniprot_data_for_system(system, hugo_data=None):
+def get_uniprot_data_for_system(system, useHGNC_Uniprot, hugo_data=None): # uses useHGNC_Uniprot flag
     gene_names = get_genes(system)
     analysis_data = {}
     # gene_names = [gene_names[0], gene_names[1]]
@@ -101,7 +102,11 @@ def get_uniprot_data_for_system(system, hugo_data=None):
     for gene_name in gene_names:
       #  print(f'gene name = {gene_name}')
         hugo_gene = hugo_data[gene_name]
-        uniprot_ids = hugo_gene.get("uniprot_ids") # SA: replace here
+        if useHGNC_Uniprot: ## SA: added if statement here
+            # print("using hgnc table to map to uniprot ID")
+            uniprot_ids = latestGeneSymbol_2_uniprotID(gene_name) 
+        else:
+            uniprot_ids = hugo_gene.get("uniprot_ids") 
       #  print(f'uniprot_ids = {uniprot_ids}')
         if uniprot_ids is not None:
             uniprot_id = uniprot_ids[0]

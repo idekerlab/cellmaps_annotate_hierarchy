@@ -17,7 +17,7 @@ hgnc_raw_DF = pd.read_csv('lib/hgnc_idsymbolnamelocus_grouplocus_typestatus.txt'
 
 hgnc_DF = hgnc_raw_DF[hgnc_raw_DF.symbol.isin(HGNCID_2_latestGeneSymbol_DF.geneSymbol)]
 
-# force to be string, because it is not finding genes because they are a type 'object' 
+# force to be string, because it is not finding genes because Python is forcing it to be of type 'object' 
 hgnc_DF['symbol'] =hgnc_DF.symbol.astype(str) 
 hgnc_DF['uniprot_ids'] =hgnc_DF.uniprot_ids.astype(str) 
 hgnc_DF['hgnc_id'] =hgnc_DF.hgnc_id.astype(str) 
@@ -49,7 +49,7 @@ def fixGeneSymbol(geneSymbol):
 def latestGeneSymbol_2_uniprotID(latestGeneSymbol):
     uniprotID = None
     if latestGeneSymbol in latestGeneSymbol_2_uniprotID_Dict.keys():
-        uniprotID = latestGeneSymbol_2_uniprotID_Dict[latestGeneSymbol];
+        uniprotID = latestGeneSymbol_2_uniprotID_Dict[latestGeneSymbol]
         
     # ToDo: a couple have multiple uniprot IDs what to do with them?
     return uniprotID                 
