@@ -42,14 +42,11 @@ def get_node_value(node, attribute):
     return value
 
 
-<<<<<<< HEAD
-# set_node_value ToDo:
-=======
+
 # ---------------------
 # Model Functions
 # ---------------------
 
->>>>>>> f7b60939b0ce3523b37cc6e8980d76abbc286834
 
 def get_system(model, system_name):
     # print(f"getting {system_name}")
