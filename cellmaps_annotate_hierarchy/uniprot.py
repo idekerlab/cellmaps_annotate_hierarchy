@@ -1,6 +1,7 @@
 import requests
 import json
 from model_cx2 import get_genes
+from FixGeneSymbols import latestGeneSymbol_2_uniprotID
 
 
 def query_uniprot_by_id(uniprot_id):
@@ -16,7 +17,7 @@ def query_uniprot_by_id(uniprot_id):
     headers = {
         'Content-Type': 'application/json',
         'Accept': 'application/json'}
-    print(f'querying uniprot id {uniprot_id}')
+   # print(f'querying uniprot id {uniprot_id}')
     response = requests.get(url,
                             headers=headers)
     # print(response.text)
@@ -92,17 +93,21 @@ def filter_uniprot_response(uniprot_json):
     return filtered_data
 
 
-def get_uniprot_data_for_system(system, hugo_data=None):
+def get_uniprot_data_for_system(system, useHGNC_Uniprot, hugo_data=None): # uses useHGNC_Uniprot flag
     gene_names = get_genes(system)
     analysis_data = {}
     # gene_names = [gene_names[0], gene_names[1]]
-    print(f'gene names: {gene_names}')
+  #  print(f'gene names: {gene_names}')
 
     for gene_name in gene_names:
-        print(f'gene name = {gene_name}')
+      #  print(f'gene name = {gene_name}')
         hugo_gene = hugo_data[gene_name]
-        uniprot_ids = hugo_gene.get("uniprot_ids")
-        print(f'uniprot_ids = {uniprot_ids}')
+        if useHGNC_Uniprot: ## SA: added if statement here
+            # print("using hgnc table to map to uniprot ID")
+            uniprot_ids = latestGeneSymbol_2_uniprotID(gene_name) 
+        else:
+            uniprot_ids = hugo_gene.get("uniprot_ids") 
+      #  print(f'uniprot_ids = {uniprot_ids}')
         if uniprot_ids is not None:
             uniprot_id = uniprot_ids[0]
             uniprot_data = query_uniprot_by_id(uniprot_id)
@@ -113,7 +118,6 @@ def get_uniprot_data_for_system(system, hugo_data=None):
         else:
             print(f'no uniprot id found for {gene_name}')
     return analysis_data
-
 
 def summarize_uniprot_features(data):
     """
@@ -173,5 +177,3 @@ def summarized_uniprot_features_to_tsv(summarized_data):
         tsv_data += f"{item['feature']}\t{item['number_of_genes']}\t{item['genes']}\n"
 
     return tsv_data
-
-

@@ -8,10 +8,11 @@ from collections import defaultdict
 
 def get_hugo_data(system):
     gene_names = get_genes(system)
+        
     hugo_data = {}
 
     for gene in gene_names:
-        print(f'getting Hugo data for {gene}')
+       # print(f'getting Hugo data for {gene}') # SA: commented out
         headers = {
             'Content-Type': 'application/json',
             'Accept': 'application/json'}

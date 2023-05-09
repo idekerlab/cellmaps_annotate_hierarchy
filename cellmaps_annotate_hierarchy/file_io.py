@@ -13,7 +13,7 @@ def get_root_path():
     return root_path
 
 
-def get_model_directory_path(model_name, version):
+def get_model_directory_path(model_name, version): # SA added  system_name
     return os.path.join(get_root_path(), model_name, version)
 
 
@@ -32,7 +32,8 @@ def read_system_json(model, version, system_name, extension, root_path):
 
 def write_system_json(json_data, model, version, system_name, extension, root_path):
     # Create the folder for the system if it does not already exist
-    folder_path = os.path.join(root_path, model, version)
+    # folder_path = os.path.join(root_path, model, version) 
+    folder_path = os.path.join(root_path, model, version, system_name) # SA added subdirectory for each system
     os.makedirs(folder_path, exist_ok=True)
 
     # Write the JSON data to a file
