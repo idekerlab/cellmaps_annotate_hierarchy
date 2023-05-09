@@ -106,7 +106,7 @@ def get_uniprot_data_for_system(system, useHGNC_Uniprot, hugo_data=None): # uses
             # print("using hgnc table to map to uniprot ID")
             uniprot_ids = latestGeneSymbol_2_uniprotID(gene_name) 
         else:
-            uniprot_ids = hugo_gene.get("uniprot_ids") 
+            uniprot_ids = hugo_gene.get("uniprot_ids") # ToDo: remove
       #  print(f'uniprot_ids = {uniprot_ids}')
         if uniprot_ids is not None:
             uniprot_id = uniprot_ids[0]
