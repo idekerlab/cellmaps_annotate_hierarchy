@@ -12,7 +12,7 @@ def get_mygene_for_system(system, hugo_file_path = './hgnc_genes.tsv'):
     params = {
         "q": ",".join(gene_names),
         "scopes": "symbol",
-        "fields": "all",
+        "fields": "entrezgene, ensembl.gene, symbol, name, alias, summary, uniprot, pdb, pharmgkb, go, hgnc, clingen, pathway, interpro, generif",
         "species": "human"
     }
     data = "q=" + params["q"] + "&scopes=" + params["scopes"] + "&fields=" + params["fields"] + "&species=" + params["species"]
@@ -22,6 +22,8 @@ def get_mygene_for_system(system, hugo_file_path = './hgnc_genes.tsv'):
     results = response.json()
     return results
 
+
+##VOID Function
 def get_uniprot_id(gene_symbols):
     url = "https://mygene.info/v3/query"
     uniprot_ids = {}
