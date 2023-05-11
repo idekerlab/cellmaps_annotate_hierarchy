@@ -1,12 +1,68 @@
 import requests
 import json
+import os
 
-def query_uniprot_by_id(uniprot_id):
+
+def get_cached_dictionary(cache, cache_file):
+    if cache is not None:
+        return cache
+    else:
+        with open(cache_file, 'r') as file:
+            cache_data = json.load(file)
+        return cache_data
+
+
+def save_cached_dictionary(cache_data, cache_file):
+    with open(cache_file, 'w') as file:
+        json.dump(cache_data, file)
+
+
+def query_uniprot_by_id(uniprot_id, cache_data=None):
     """
     Query UniProt for data about a protein given its gene symbol.
 
-    :param gene_symbol: The gene symbol to search for.
-    :return: The response text from UniProt or None if not found.
+    :param uniprot_id: The gene symbol to search for.
+    :return: The response json from UniProt or None if not found.
+    """
+    cache_file = "uniprot_data_cache.json"
+
+    if os.path.exists(cache_file):
+        cache_data = get_cached_dictionary(cache_data, cache_file)
+
+    if cache_data is not None and uniprot_id in cache_data:
+        print(f"Retrieving data for {uniprot_id} from cache.")
+        return cache_data[uniprot_id]
+    else:
+        url = f"https://www.uniprot.org/uniprot/{uniprot_id}.json"
+
+        headers = {
+            'Content-Type': 'application/json',
+            'Accept': 'application/json'}
+        print(f'Querying UniProt for id {uniprot_id}')
+        response = requests.get(url, headers=headers)
+
+        if response.status_code == 200:
+            data = json.loads(response.text)
+
+            # Update cache with the retrieved data
+            if cache_data is None:
+                cache_data = {}
+            cache_data[uniprot_id] = data
+
+            # Save the updated cache
+            save_cached_dictionary(cache_data, cache_file)
+
+            return data
+        else:
+            return None
+
+
+def query_uniprot_by_id_old(uniprot_id):
+    """
+    Query UniProt for data about a protein given its gene symbol.
+
+    :param uniprot_id: The gene symbol to search for.
+    :return: The response json from UniProt or None if not found.
     """
     url = f"https://www.uniprot.org/uniprot/{uniprot_id}.json"
     # url = "https://www.uniprot.org/uniprot/"
@@ -42,19 +98,19 @@ def filter_uniprot_response(uniprot_json):
     }
 
     for comment in uniprot_json.get("comments", []):
-
         comment_type = comment.get("commentType")
-        # print(f'comment of type: {comment_type}')
         if comment_type is not None:
             if comment_type == "SUBCELLULAR LOCATION":
-                for loc in comment.get("subcellularLocations"):
-                    location = loc.get("location")
-                    # print(location)
-                    values = location.get("value").split(",")
-                    for value in values:
-                        cleaned_value = value.strip().lower()
-                        # print(cleaned_value)
-                        filtered_data["Location"].append(cleaned_value)
+                locations = comment.get("subcellularLocations")
+                if locations is not None:
+                    for loc in comment.get("subcellularLocations"):
+                        location = loc.get("location")
+                        # print(location)
+                        values = location.get("value").split(",")
+                        for value in values:
+                            cleaned_value = value.strip().lower()
+                            # print(cleaned_value)
+                            filtered_data["Location"].append(cleaned_value)
             if comment_type == "DISEASE":
                 # print(comment)
                 disease = comment.get("disease")
@@ -67,8 +123,10 @@ def filter_uniprot_response(uniprot_json):
                     filtered_data["Disease_description"].append(f'{disease_name}: {description}')
 
             if comment_type == "SUBUNIT":
-                for text in comment.get("texts"):
-                    filtered_data["Complexes"].append(text.get("value"))
+                texts = comment.get("texts")
+                if texts is not None:
+                    for text in comment.get("texts"):
+                        filtered_data["Complexes"].append(text.get("value"))
     for keyword in uniprot_json.get("keywords"):
         if keyword.get("category") == "Cellular component":
             name = keyword.get("name")
@@ -103,6 +161,13 @@ def get_uniprot_data_for_system(gene_symbols):
     return analysis_data
 
 
+def remove_prefix(input_string, prefixes):
+    for prefix in prefixes:
+        if input_string.startswith(prefix):
+            return input_string[len(prefix):]
+    return input_string
+
+
 def summarize_uniprot_features(data):
     """
     Take a data structure and output a new list of dictionaries
@@ -113,11 +178,14 @@ def summarize_uniprot_features(data):
     """
     summarized_data = []
     target_sections = ["GO", "Location", "Disease"]
-
+    prefixes_to_remove = ["positive regulation of",
+                          "negative_regulation of",
+                          "regulation of"]
     for gene, gene_data in data.items():
         for feature, values in gene_data.items():
             if feature in target_sections and isinstance(values, list):
                 for value in values:
+                    value = remove_prefix(value, prefixes_to_remove)
                     existing_summary = next((item for item in summarized_data if value in item), None)
                     if existing_summary:
                         if gene not in existing_summary[value]["genes"]:
@@ -135,35 +203,53 @@ def summarize_uniprot_features(data):
     return summarized_data
 
 
-def summarized_uniprot_features_to_tsv(summarized_data):
-    """
-    Take the summarized data, sort it by the number of genes for each feature, and output it as tab-delimited text.
+def get_uniprot_ids(gene_symbols, cache_data=None):
+    cache_file = "uniprot_ids_cache.json"
+    if os.path.exists(cache_file):
+        cache_data = get_cached_dictionary(None, cache_file)
 
-    :param summarized_data: A list of dictionaries containing summarized data.
-    :return: A string containing the tab-delimited text.
-    """
-    # Flatten the summarized data
-    flattened_data = []
-    for feature_dict in summarized_data:
-        for feature, feature_data in feature_dict.items():
-            flattened_data.append({
-                "feature": feature,
-                "number_of_genes": feature_data["number_of_genes"],
-                "genes": ", ".join(feature_data["genes"])
-            })
+    if cache_data is not None:
+        uniprot_dict = {symbol: cache_data[symbol] for symbol in gene_symbols if symbol in cache_data}
+        if len(uniprot_dict) == len(gene_symbols):
+            print("Retrieving gene symbols' UniProt IDs from cache.")
+            return uniprot_dict
 
-    # Sort the flattened data by the number of genes
-    sorted_data = sorted(flattened_data, key=lambda x: x["number_of_genes"], reverse=True)
+    base_url = "https://mygene.info/v3/query"
 
-    # Convert the sorted data to tab-delimited text
-    tsv_data = "Feature\tNumber of Genes\tGenes\n"
-    for item in sorted_data:
-        tsv_data += f"{item['feature']}\t{item['number_of_genes']}\t{item['genes']}\n"
+    params = {
+        "q": "symbol:" + " OR symbol:".join(gene_symbols),
+        "species": "human",
+        "fields": "uniprot, symbol",
+        "fetch_all": False
+    }
 
-    return tsv_data
+    response = requests.get(base_url, params=params)
+
+    uniprot_dict = {}
+    if response.status_code == 200:
+        results = response.json()
+        hits = results.get("hits")
+        if hits is not None:
+            for hit in hits:
+                uniprot = hit.get("uniprot")
+                symbol = hit.get("symbol")
+                if uniprot is not None and symbol is not None:
+                    uniprot_id = uniprot.get("Swiss-Prot")
+                    if uniprot_id is not None:
+                        uniprot_dict[symbol] = uniprot_id
+
+    # Update cache with the retrieved data
+    if cache_data is None:
+        cache_data = {}
+    cache_data.update(uniprot_dict)
+
+    # Save the updated cache
+    save_cached_dictionary(cache_data, cache_file)
+
+    return uniprot_dict
 
 
-def get_uniprot_ids(gene_symbols):
+def get_uniprot_ids_old(gene_symbols):
     base_url = "https://mygene.info/v3/query"
 
     params = {
@@ -178,70 +264,16 @@ def get_uniprot_ids(gene_symbols):
     uniprot_dict = {}
     if response.status_code == 200:
         results = response.json()
-        for hit in results["hits"]:
-            uniprot_id = hit["uniprot"]["Swiss-Prot"]
-            symbol = hit["symbol"]
-            uniprot_dict[symbol] = uniprot_id
-
+        hits = results.get("hits")
+        if hits is not None:
+            for hit in hits:
+                uniprot = hit.get("uniprot")
+                symbol = hit.get("symbol")
+                if uniprot is not None and symbol is not None:
+                    uniprot_id = uniprot.get("Swiss-Prot")
+                    if uniprot_id is not None:
+                        uniprot_dict[symbol] = uniprot_id
     return uniprot_dict
-
-
-'''
-def get_uniprot_ids(gene_symbols):
-    uniprot_dict = {}
-
-    for symbol in gene_symbols:
-        url = f"https://www.uniprot.org/uniprotkb/search?query=genename%3A{symbol}+AND+organism%3A%22Homo+sapiens+%28Human%29+%5B9606%5D%22&format=tab&columns=id"
-        response = requests.get(url)
-
-        if response.status_code == 200:
-            lines = response.text.strip().split("\n")
-            if len(lines) > 1:
-                uniprot_id = lines[1]
-                uniprot_dict[symbol] = uniprot_id
-
-    return uniprot_dict
-
-def get_uniprot_ids(gene_symbols):
-    base_url = "https://www.uniprot.org/uploadlists/"
-    mapping_url = "https://www.uniprot.org/mapping/"
-
-    # Step 1: Retrieve UniProt accessions for the provided gene symbols (human genes)
-    params = {
-        "from": "GENENAME",
-        "to": "ACC",
-        "format": "tab",
-        "query": " ".join(gene_symbols),
-        "organism": "human"
-    }
-
-    response = requests.get(base_url, params=params)
-    lines = response.text.strip().split("\n")
-
-    accessions_dict = {}
-    for line in lines[1:]:
-        symbol, accession = line.strip().split("\t")
-        accessions_dict[symbol] = accession
-
-    # Step 2: Retrieve UniProt IDs for the accessions (handles outdated symbols/aliases)
-    uniprot_dict = {}
-    for symbol, accession in accessions_dict.items():
-        params = {
-            "from": "ACC",
-            "to": "ID",
-            "format": "tab",
-            "query": accession
-        }
-
-        response = requests.get(mapping_url, params=params)
-        lines = response.text.strip().split("\n")
-
-        if len(lines) > 1:
-            uniprot_id = lines[1].strip().split("\t")[1]
-            uniprot_dict[symbol] = uniprot_id
-
-    return uniprot_dict
-'''
 
 
 def get_gene_data(gene_symbols):
@@ -282,7 +314,8 @@ def get_gene_data(gene_symbols):
                 gene_data[symbol]["Reactome Pathways"] = [pw["name"] for pw in data["entry"]["pathway"]]
 
             if "subcellular_location" in data["entry"]:
-                gene_data[symbol]["Subcellular Location"] = [sl["location"]["value"] for sl in data["entry"]["subcellular_location"]]
+                gene_data[symbol]["Subcellular Location"] = [sl["location"]["value"] for sl in
+                                                             data["entry"]["subcellular_location"]]
 
             gene_data[symbol]["GeneCards"] = f"https://www.genecards.org/cgi-bin/carddisp.pl?gene={symbol}"
             gene_data[symbol]["HGNC"] = f"https://www.genenames.org/data/gene-symbol-report/#!/hgnc_id/HGNC:{symbol}"
@@ -339,3 +372,31 @@ def get_gene_data_text(gene_symbols):
                 gene_data[symbol].setdefault("Disease Associations", []).append((disease_id, disease_citation))
 
     return gene_data
+
+
+def summarized_uniprot_features_to_tsv(summarized_data):
+    """
+    Take the summarized data, sort it by the number of genes for each feature, and output it as tab-delimited text.
+
+    :param summarized_data: A list of dictionaries containing summarized data.
+    :return: A string containing the tab-delimited text.
+    """
+    # Flatten the summarized data
+    flattened_data = []
+    for feature_dict in summarized_data:
+        for feature, feature_data in feature_dict.items():
+            flattened_data.append({
+                "feature": feature,
+                "number_of_genes": feature_data["number_of_genes"],
+                "genes": ", ".join(feature_data["genes"])
+            })
+
+    # Sort the flattened data by the number of genes
+    sorted_data = sorted(flattened_data, key=lambda x: x["number_of_genes"], reverse=True)
+
+    # Convert the sorted data to tab-delimited text
+    tsv_data = "Feature\tNumber of Genes\tGenes\n"
+    for item in sorted_data:
+        tsv_data += f"{item['feature']}\t{item['number_of_genes']}\t{item['genes']}\n"
+
+    return tsv_data
