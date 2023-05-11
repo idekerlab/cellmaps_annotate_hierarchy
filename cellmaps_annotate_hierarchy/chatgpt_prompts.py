@@ -1,6 +1,7 @@
 import pandas as pd
 from io import StringIO
 
+
 def add_uniprot_feature_summary(prompt_text, feature_dataframe, n_genes=2):
     for index, row in feature_dataframe.iterrows():
         number_of_genes = 0
@@ -66,10 +67,12 @@ def create_nesa_chatGPT_prompt(protein_list, tsv_data, n_genes=2, gene_candidacy
     prompt += "<script>function copyPrompt() {var copyText = document.getElementById('prompt-code').innerText; navigator.clipboard.writeText(copyText);}</script>"
     return prompt
 
+
 def create_chatGPT_prompt(protein_list, tsv_data, n_genes=2, gene_candidacy_text=''):
     """
     Create a ChatGPT prompt based on the given protein list and TSV data.
 
+    :param gene_candidacy_text:
     :param protein_list: A list of protein names.
     :param tsv_data: A string containing TSV formatted summary data.
     :param n_genes: An integer representing the minimum number of genes for a feature to be included.
