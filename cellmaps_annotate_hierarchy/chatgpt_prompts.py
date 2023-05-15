@@ -2,6 +2,7 @@ import pandas as pd
 from io import StringIO
 from model_nodes_edges import get_genes
 import re
+from file_io import read_system_json, get_root_path
 
 #CH: new gene feature summary from mygene GO terms
 def add_gene_feature_summary(prompt_text, feature_dataframe, n_genes=2):
@@ -140,18 +141,43 @@ def create_music_2_chatGPT_prompt_text(system, nodes, tsv_data, n_genes=2, gene_
     # Generate the ChatGPT prompt in plain text format
     # prompt_text = "You are assisting a molecular biologist in the analysis of a system of proteins that are physically close to each other and/or interact with each other."
     
-    prompt_text = 'Write a critical and concise analysis of this system, describing your reasoning as you go and providing references to scientific papers.'
+    prompt_text = 'Write a critical and concise analysis of this system, describing your reasoning as you go and providing references to scientific papers. \
+        \nFormat with Title, Summary, and References sections.\
+        \nAvoid overly general statements of how the proteins are involved in various cellular processes\n\
+        \nAvoid recapitulating the goals of the analysis. ''
     prompt_text += '\nWhat cellular components and complexes are involved in this system?'
     prompt_text += '\nWhat mechanisms and biological processes are performed by this system?'
-    prompt_text += "\nDiscuss potential names for the system. Names should reflect the function and location, and should be specific not general. Select the best name and place it as the title of your report"
+    prompt_text += "\nPropose a name for the system to reflect the function and location, and should be specific but brief. Do not compose an acronym. Place it as the title of your report"
     prompt_text += '\nProvide complete paper references with pubmed link'
-    prompt_text += '\nProteins: '
-    prompt_text += ", ".join(protein_list) + ".\n"
+
+    if len(protein_list) < 50: # do not print super long list of proteins
+        prompt_text += '\nProteins: '
+        prompt_text += ", ".join(protein_list) + ".\n"
+
     prompt_text += "\nA critical goal of the analysis is to determine if this is a novel complex or if any proteins are novel members of a known complex"
     prompt_text += '\nSystem features from GO terms: \n'
     
     prompt_text = add_gene_feature_summary(prompt_text, df)
     
+    return prompt_text
+
+def create_chatGPT_prompt_parent(protein_list, gene_candidacy_text=''):
+    """
+    :param gene_candidacy_text:
+    :param protein_list: A list of protein names.
+    :return: A string containing the ChatGPT prompt in HTML format.
+    """
+    # Generate the ChatGPT prompt
+    prompt_text = 'Write a critical and concise analysis of this system, describing your reasoning as you go and providing references to scientific papers.\
+        \nFormat with Title, Summary, and References sections.\
+        \nAvoid overly general statements of how the proteins are involved in various cellular processes\n\
+        \nAvoid recapitulating the goals of the analysis. '
+    prompt_text += '\nWhat cellular components and complexes are involved in this system?'
+    prompt_text += '\nWhat mechanisms and biological processes are performed by this system?'
+    prompt_text += "\nDiscuss potential names for the system. Names should reflect the function and location, and should be specific not general. Select the best name and place it as the title of your report"
+    prompt_text += '\nProvide complete paper references with pubmed link'
+    prompt_text += "\nA critical goal of the analysis is to determine if this is a novel complex or if any proteins are novel members of a known complex"
+
     return prompt_text
 
 
@@ -223,14 +249,26 @@ def estimate_tokens(text):
     token_estimate_chars = char_count / 4
     token_estimate_words = word_punctuation_count * 1.5
     
-    print(f"token_estimate_chars: {token_estimate_chars}")
-    print(f"token_estimate_words: {token_estimate_words}")
+    # print(f"token_estimate_chars: {token_estimate_chars}")
+    # print(f"token_estimate_words: {token_estimate_words}")
  
     # Take the average of both estimations
     tokens = max(token_estimate_chars, token_estimate_words)
 
 
     return int(tokens)
+
+def concat_children_summary(model_name, version, children, nodes_table):
+
+    summary_string = "\n Here are the summaries of the child nodes directly branched from this big system: \n"
+    for child in children: 
+        # go to the folder with the child name get the summary file
+        genes = get_genes(child, nodes_table)
+        summary = read_system_json(model_name, version, child, 'chatgpt_response', get_root_path())
+        # Add to the overall summary
+        summary_string += "Child cluster with Genes: " + ', '.join(genes) + "\n" + summary + "\n"
+
+    return summary_string
 
 
 def create_system_prompt_page(system_name, prompt):
@@ -244,3 +282,5 @@ def create_system_prompt_page(system_name, prompt):
     # Create the HTML page with the specified title and prompt content
     html = f"<!DOCTYPE html>\n<html>\n<head>\n<title>{system_name} Summary ChatGPT Prompt</title>\n</head>\n<body>\n{prompt}\n</body>\n</html>"
     return html
+
+
