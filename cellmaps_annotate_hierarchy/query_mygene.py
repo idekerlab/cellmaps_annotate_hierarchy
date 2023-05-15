@@ -1,9 +1,8 @@
 import requests
-from hugo import get_gene_symbols
+
 
 ## function to get mygene info for root node and save to json file
-def get_mygene_for_system(system, hugo_file_path = './hgnc_genes.tsv'):
-    gene_names = get_gene_symbols(system, hugo_file_path)
+def get_mygene_for_system(gene_names):
 
     url = "https://mygene.info/v3/query"
 

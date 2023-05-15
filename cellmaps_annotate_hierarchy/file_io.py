@@ -19,7 +19,7 @@ def get_model_directory_path(model_name, version): # SA added  system_name
 
 def read_system_json(model, version, system_name, extension, root_path):
     # Check if the file exists
-    file_path = os.path.join(root_path, model, version, f"{system_name}_{extension}.json")
+    file_path = os.path.join(root_path, model, version, system_name, f"{system_name}_{extension}.json")
     if not os.path.isfile(file_path):
         return None
 
@@ -44,7 +44,7 @@ def write_system_json(json_data, model, version, system_name, extension, root_pa
 
 def write_system_tsv(tsv_data, model, version, system_name, extension, root_path):
     # Create the folder for the system if it does not already exist
-    folder_path = os.path.join(root_path, model, version)
+    folder_path = os.path.join(root_path, model, version, system_name)
     os.makedirs(folder_path, exist_ok=True)
 
     # Write the TSV data to a file
