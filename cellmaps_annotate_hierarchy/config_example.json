@@ -10,5 +10,5 @@
     "RATE_PER_TOKEN": 6e-5,
     "GPT_MODEL": "gpt-4",
     "DOLLAR_LIMIT": 6.0,
-    "LOG_NAME": "branch4-1_log.json"
+    "LOG_NAME": "branch4-1_"
 }
