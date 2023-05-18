@@ -1,6 +1,16 @@
 from cellmaps_annotate_hierarchy.cx2_network import CX2Network, query_ndex_network
 import os
 
+'''
+
+5/18/2023
+
+Not currently working because of a bug with uploading CX2.
+
+Use CX1, ndex2 package API for now
+
+'''
+
 ndexuser = os.getenv("WORKING_NDEX_USERNAME")
 ndexpassword = os.getenv("WORKING_NDEX_PASSWORD")
 
