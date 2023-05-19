@@ -2,7 +2,10 @@ import pandas as pd
 from io import StringIO
 from model_nodes_edges import get_genes
 import re
-from file_io import read_system_json, get_root_path
+import os
+import textwrap
+from file_io import get_model_directory_path
+from ontology_modify import find_children, parent_unique_genes
 
 #CH: new gene feature summary from mygene GO terms
 def add_gene_feature_summary(prompt_text, feature_dataframe, n_genes=2):
@@ -100,20 +103,22 @@ def create_music_2_chatGPT_prompt_html(system, nodes, tsv_data, n_genes=2, gene_
     protein_list = get_genes(system, nodes)
 
     # Generate the ChatGPT prompt in HTML format
-    # prompt_text = f"Your response should be formatted as HTML paragraphs"
-    prompt_text = f"You are assisting a molecular biologist in the analysis of a system of proteins that are physically close to each other and/or interact with each other."
+    prompt_text = f"Your response should be formatted as HTML paragraphs"
+    prompt_text += 'Write a critical and concise analysis of this system, describing your reasoning as you go and providing references to scientific papers. \
+        \nFormat with Title, Summary, and References sections.\
+        \nAvoid overly general statements of how the proteins are involved in various cellular processes\n\
+        \nAvoid recapitulating the goals of the analysis. '
+    prompt_text += '\nWhat cellular components and complexes are involved in this system?'
+    prompt_text += '\nWhat mechanisms and biological processes are performed by this system?'
+    prompt_text += "\nPropose a name for the system to reflect the function and location, and should be specific but brief. Do not compose an acronym. Place it as the title of your report"
+    prompt_text += '\nProvide complete paper references with pubmed link'
+
     
-    prompt_text += f'\nWrite a critical and concise analysis of this system, describing your reasoning as you go and providing references to scientific papers.'
-    prompt_text += f'\nWhat cellular components and complexes are involved in this system?'
-    prompt_text += f'\nWhat mechanisms and biological processes are performed by this system?'
-    prompt_text += f"\nDiscuss potential names for the system. Names should reflect the function and location, and should be specific not general. Select the best name and place it as the title of your report"
-    prompt_text += f'\nProvide complete paper references with pubmed link'
-    prompt_text += f'\nProteins: '
-    prompt_text += ", ".join(protein_list) + ".\n\n"
-    prompt_text += f"\nA critical goal of the analysis is to determine if this is a novel complex or if any proteins are novel members of a known complex"
-    # prompt_text += f"\nA critical goal of the analysis is to determine what, if any, relationship this system has to cancer, and specifically to pediatric cancer" #or osteosarcoma
-    prompt_text += f'\nSystem features from GO terms: \n'
-    
+    prompt_text += '\nProteins: '
+    prompt_text += ", ".join(protein_list) + ".\n"
+
+    prompt_text += "\nA critical goal of the analysis is to determine if this is a novel complex or if any proteins are novel members of a known complex"
+    prompt_text += '\nSystem features from GO terms: \n'
     prompt_text = add_gene_feature_summary(prompt_text, df)
 
     prompt = f"<div class='code-section'><button class='copy-prompt-button' onclick='copyPrompt()'>Copy Prompt</button>"
@@ -122,7 +127,7 @@ def create_music_2_chatGPT_prompt_html(system, nodes, tsv_data, n_genes=2, gene_
     return prompt
 
 ## CH: modify the function to generate text not html 
-def create_music_2_chatGPT_prompt_text(system, nodes, tsv_data, n_genes=2, gene_candidacy_text=''):
+def create_music_2_chatGPT_prompt_text(system, nodes, tsv_data = [], n_genes=2, gene_candidacy_text=''):
     """
     Create a ChatGPT prompt based on the given protein list and TSV data.
 
@@ -132,50 +137,73 @@ def create_music_2_chatGPT_prompt_text(system, nodes, tsv_data, n_genes=2, gene_
     :param n_genes: An integer representing the minimum number of genes for a feature to be included.
     :return: A string containing the ChatGPT prompt in plain text format.
     """
-    # Read the TSV data into a DataFrame
-    tsv_file = StringIO(tsv_data)
-    df = pd.read_csv(tsv_file, sep='\t')
+    if tsv_data:   
+        # Read the TSV data into a DataFrame
+        tsv_file = StringIO(tsv_data)
+        df = pd.read_csv(tsv_file, sep='\t')
     
     protein_list = get_genes(system, nodes)
 
     # Generate the ChatGPT prompt in plain text format
     # prompt_text = "You are assisting a molecular biologist in the analysis of a system of proteins that are physically close to each other and/or interact with each other."
-    
-    prompt_text = 'Write a critical and concise analysis of this system, describing your reasoning as you go and providing references to scientific papers. \
-        \nFormat with Title, Summary, and References sections.\
-        \nAvoid overly general statements of how the proteins are involved in various cellular processes\n\
-        \nAvoid recapitulating the goals of the analysis. ''
+    prompt_text = "Your response should be formatted as Markdown paragraphs\n"
+    prompt_text += 'Write a critical and concise analysis of this human protein system, describing your reasoning as you go and providing references to scientific papers.\n'
+    prompt_text += "\nA critical goal of the analysis is to determine if this is a novel complex or if any proteins are novel members of a known complex\n"
+    prompt_text += '\nFormat with Title, Summary, and References sections.\
+        \nAvoid overly general statements of how the proteins are involved in various cellular processes\
+        \nAvoid repeating the goals of the analysis.\n'
     prompt_text += '\nWhat cellular components and complexes are involved in this system?'
     prompt_text += '\nWhat mechanisms and biological processes are performed by this system?'
-    prompt_text += "\nPropose a name for the system to reflect the function and location, and should be specific but brief. Do not compose an acronym. Place it as the title of your report"
-    prompt_text += '\nProvide complete paper references with pubmed link'
-
-    if len(protein_list) < 50: # do not print super long list of proteins
-        prompt_text += '\nProteins: '
-        prompt_text += ", ".join(protein_list) + ".\n"
-
-    prompt_text += "\nA critical goal of the analysis is to determine if this is a novel complex or if any proteins are novel members of a known complex"
-    prompt_text += '\nSystem features from GO terms: \n'
+    prompt_text += "\nPropose a name for the system to reflect the cellular location and function, and should be specific but brief. Do not compose an acronym. Place it as the title of your report"
+    # prompt_text += '\nProvide paper references with pubmed link\n'
     
-    prompt_text = add_gene_feature_summary(prompt_text, df)
+
+    prompt_text += '\nHuman Proteins: '
+    prompt_text += ", ".join(protein_list) + ".\n"
+    
+    if tsv_data: 
+        prompt_text += '\nSystem features from GO terms: \n'
+        
+        prompt_text = add_gene_feature_summary(prompt_text, df, n_genes=n_genes)
     
     return prompt_text
 
-def create_chatGPT_prompt_parent(protein_list, gene_candidacy_text=''):
-    """
-    :param gene_candidacy_text:
-    :param protein_list: A list of protein names.
-    :return: A string containing the ChatGPT prompt in HTML format.
-    """
+
+def create_music_2_chatGPT_prompt_parent(system, nodes, edges):
+
+    children = find_children(system, edges)
+    unique_genes = parent_unique_genes(system, children, nodes)
+    # Generate the ChatGPT prompt in plain text format
+    # prompt_text = "You are assisting a molecular biologist in the analysis of a system of proteins that are physically close to each other and/or interact with each other."
+    prompt_text = "Your response should be formatted as Markdown paragraphs\n"
+    prompt_text += 'This is a human protein system high in a cell hierarchy and has child systems connect to it as well as residual proteins only belong to this system. From the protein list and the knowledge of how these proteins cluster, write a critical and concise analysis of this human protein system. Describe your reasoning as you go and providing references to scientific papers.\n'
+    prompt_text += "\nA critical goal of the analysis is to determine if this is a novel complex or if any proteins are novel members of a known complex\n"
+    prompt_text += '\nFormat with Title, Summary, and References sections.\
+        \nAvoid overly general statements of how the proteins are involved in various cellular processes\
+        \nAvoid recapitulating the goals of the analysis.\n'
+    prompt_text += '\nWhat cellular components and complexes are involved in this system?'
+    prompt_text += '\nWhat mechanisms and biological processes are performed by this system?'
+    prompt_text += "\nPropose a name for the system to reflect the function and location, and should be specific but brief. Do not compose an acronym. Place it as the title of your report"
+    # prompt_text += '\nProvide paper references, if any\n'
+
+    prompt_text += '\nHuman Protein List: \n'
+    prompt_text +=f"proteins only in this high level system: " + ", ".join(unique_genes) + ".\n"
+    for child in children:
+        child_protein_list = get_genes(child, nodes)
+        prompt_text += f"proteins in child system {child}: " + ", ".join(child_protein_list) + ".\n"
+    
+    return prompt_text
+
+def create_chatGPT_prompt_parent():
     # Generate the ChatGPT prompt
-    prompt_text = 'Write a critical and concise analysis of this system, describing your reasoning as you go and providing references to scientific papers.\
+    prompt_text = 'Write a critical and concise analysis of this system from integrating the child systems summary, describing your reasoning as you go.\
         \nFormat with Title, Summary, and References sections.\
         \nAvoid overly general statements of how the proteins are involved in various cellular processes\n\
         \nAvoid recapitulating the goals of the analysis. '
     prompt_text += '\nWhat cellular components and complexes are involved in this system?'
     prompt_text += '\nWhat mechanisms and biological processes are performed by this system?'
     prompt_text += "\nDiscuss potential names for the system. Names should reflect the function and location, and should be specific not general. Select the best name and place it as the title of your report"
-    prompt_text += '\nProvide complete paper references with pubmed link'
+    prompt_text += '\nProvide complete paper references with pubmed link, if any'
     prompt_text += "\nA critical goal of the analysis is to determine if this is a novel complex or if any proteins are novel members of a known complex"
 
     return prompt_text
@@ -258,15 +286,35 @@ def estimate_tokens(text):
 
     return int(tokens)
 
+def get_summary(file_name):
+    with open(file_name, "r") as file:
+        content = file.read()
+        
+    # Regular expression pattern for matching the Summary section
+    pattern = re.compile(r'Summary:\s*(.*?)References:', re.DOTALL)
+    match = re.search(pattern, content)
+    
+    if match:
+        # The 1st group is the Summary content
+        summary = match.group(1).strip()
+        return summary
+    else:
+        print("No Summary found.")
+        return None
+
 def concat_children_summary(model_name, version, children, nodes_table):
 
-    summary_string = "\n Here are the summaries of the child nodes directly branched from this big system: \n"
-    for child in children: 
-        # go to the folder with the child name get the summary file
+    summary_string = "\n\nHere are the summaries of the child nodes directly branched from this parent system: \n"
+
+    for child in children:
         genes = get_genes(child, nodes_table)
-        summary = read_system_json(model_name, version, child, 'chatgpt_response', get_root_path())
+        # print(genes)
+
+        summary = get_summary(os.path.join(get_model_directory_path(model_name, version), child, f'{child}_chatgpt_response.txt'))
+        # Indent the summary
+        indented_summary = textwrap.indent(summary, "    ")
         # Add to the overall summary
-        summary_string += "Child cluster with Genes: " + ', '.join(genes) + "\n" + summary + "\n"
+        summary_string += "\nChild cluster with Genes: " + ', '.join(genes) + "\n" + indented_summary + "\n"
 
     return summary_string
 
@@ -279,6 +327,7 @@ def create_system_prompt_page(system_name, prompt):
     :param prompt: The ChatGPT prompt for the system.
     :return: A string containing the HTML page.
     """
+
     # Create the HTML page with the specified title and prompt content
     html = f"<!DOCTYPE html>\n<html>\n<head>\n<title>{system_name} Summary ChatGPT Prompt</title>\n</head>\n<body>\n{prompt}\n</body>\n</html>"
     return html

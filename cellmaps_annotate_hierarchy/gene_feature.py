@@ -17,6 +17,13 @@ def get_go_terms(gene_info, go_type):
                 terms.append(desc['term'])
     return terms
 
+# remove redundant prefixes
+def remove_prefix(input_string, prefixes):
+    for prefix in prefixes:
+        if input_string.startswith(prefix):
+            return input_string[len(prefix):]
+    return input_string
+
 def summarize_gene_feature(root_node_info, gene_names):
     '''
     root_node_info: the json file of the root node
@@ -25,7 +32,8 @@ def summarize_gene_feature(root_node_info, gene_names):
     '''
     summarized_data = []
     target_sections = ["MF", "BP", "CC"] # may need to change in the future 
-    
+    prefixes_to_remove = ["positive regulation of", "negative_regulation of", "regulation of"]
+
     for result in root_node_info:
         gene_name = result["query"]
         if gene_name in gene_names: # The current gene name
@@ -34,6 +42,7 @@ def summarize_gene_feature(root_node_info, gene_names):
                 # pathway = result.get("pathway", {})
                 # reactome =[name['name'] for name in pathway.get('reactome', [])]
                 for term in go_terms:
+                        term = remove_prefix(term, prefixes_to_remove) # remove prefixes
                         # Check if this term is already in the summarized data
                         existing_summary = next((item for item in summarized_data if term in item), None)
                         if existing_summary:
