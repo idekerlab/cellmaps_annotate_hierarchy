@@ -55,8 +55,8 @@ def make_prompt(system_network, genes):
     prompt_text += general_analysis_instructions
     prompt_text += f'\nProteins: '
     prompt_text += ", ".join(genes) + ".\n\n"
-    prompt_text += f'\n\nSystem features from a Uniprot analysis: \n'
-    prompt_text += system_network.get_network_attribute("feature_summary")
+    #prompt_text += f'\n\nSystem features from a Uniprot analysis: \n'
+    #prompt_text += system_network.get_network_attribute("feature_summary")
     return prompt_text
 
 

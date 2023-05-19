@@ -27,6 +27,7 @@ for system_id, system in model.get_nodes():
         print(system_name)
         genes = model.get_node_attribute_value(system, "CD_MemberList")
         print(genes)
+        nice_cx = nc.get_neighborhood(network_id, search_string, search_depth=0, edge_limit=2500)
         cx_data = query_ndex_network(interactome_uuid,
                                          ndexuser,
                                          ndexpassword,
