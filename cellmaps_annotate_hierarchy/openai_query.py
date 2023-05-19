@@ -5,22 +5,22 @@ import time
 import argparse
 # openai.api_key = os.getenv("OPENAI_API_KEY")
 
-def load_log():
+def load_log(LOG_FILE):
     if os.path.exists(LOG_FILE):
         with open(LOG_FILE, "r") as f:
             return json.load(f)
     else:
         return {"tokens_used": 0, "dollars_spent": 0.0, "time_taken_last_run": 0.0, "time_taken_total": 0.0}
 
-def save_log(log_data):
+def save_log(LOG_FILE,log_data):
     with open(LOG_FILE, "w") as f:
         json.dump(log_data, f, indent=4)
 
 def estimate_cost(tokens, rate_per_token):
     return tokens * rate_per_token
 
-def openai_chat(context, prompt, model,temperature, max_tokens, rate_per_token):
-    log_data = load_log()
+def openai_chat(context, prompt, model,temperature, max_tokens, rate_per_token, LOG_FILE, DOLLAR_LIMIT):
+    log_data = load_log(LOG_FILE)
     tokens_estimate = len(prompt) + max_tokens
 
     if estimate_cost(log_data["tokens_used"] + tokens_estimate, rate_per_token) > DOLLAR_LIMIT:
@@ -49,14 +49,14 @@ def openai_chat(context, prompt, model,temperature, max_tokens, rate_per_token):
         log_data["time_taken_last_run"] = time_usage
         log_data["time_taken_total"] += time_usage
         print(tokens_used)
-        save_log(log_data)
+        save_log(LOG_FILE,log_data)
 
         return response.choices[0].message.content
     except Exception as e:
         print(f"An error occurred: {e}")
         return None
 
-# Example usage
+# excute the script
 if __name__ == "__main__":
     argparser = argparse.ArgumentParser()
     argparser.add_argument("--openai_api_key", type=str, required=True)
@@ -84,7 +84,7 @@ if __name__ == "__main__":
 
     LOG_FILE = args.log_file
     DOLLAR_LIMIT = args.dollor_limit
-    response_text = openai_chat(context, prompt, model,temperature, max_tokens, rate_per_token)
+    response_text = openai_chat(context, prompt, model,temperature, max_tokens, rate_per_token, LOG_FILE, DOLLAR_LIMIT)
     if response_text:
         with open(file_path, "w") as f:
             f.write(response_text)

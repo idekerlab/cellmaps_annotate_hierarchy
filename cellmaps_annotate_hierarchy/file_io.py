@@ -51,3 +51,14 @@ def write_system_tsv(tsv_data, model, version, system_name, extension, root_path
     file_path = os.path.join(folder_path, f"{system_name}_{extension}.tsv")
     with open(file_path, "w") as f:
         f.write(tsv_data)
+
+def read_system_tsv(model, version, system_name, extension, root_path):
+    folder_path = os.path.join(root_path, model, version, system_name)
+    file_path = os.path.join(folder_path, f"{system_name}_{extension}.tsv")
+    if os.path.isfile(file_path):
+        # read tsv data from file
+        with open(file_path, "r") as f:
+            tsv_data = f.read()
+        return tsv_data
+    else:
+        print("file does not exist")

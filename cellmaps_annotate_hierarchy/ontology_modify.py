@@ -5,6 +5,15 @@ def find_children(parent, edges):
     children = edges[edges['parent'] == parent]['child'].tolist()
     return children
 
+# Get all the descendant of the lineage
+def get_descendants(lineage, edges):
+    descendants = []
+    children = edges.loc[edges['parent'] == lineage, 'child'].values
+    descendants.extend(children)
+    for child in children:
+        descendants.extend(get_descendants(child, edges))
+    return descendants
+
 def parent_unique_genes(parent, children, nodes):
     parent_genes = set(nodes[nodes['term'] == parent]['genes'].str.split().values[0])
     children_genes = set()
