@@ -195,39 +195,43 @@ def get_references(queried_papers, paragraph, gpt_model='gpt-4', n=10, verbose=F
             print("The API call is estimated to exceed the dollar limit. Aborting.")
             return
 
-        else:
+        try:
             response = requests.post("https://api.openai.com/v1/chat/completions", headers=headers, json=reference_check_data)
 
             response_json = response.json()
-            tokens_used = response_json["usage"]["total_tokens"]
-            # Update and save the log
-            log_data["tokens_used"] += tokens_used
-            log_data["dollars_spent"] = estimate_cost(log_data["tokens_used"], rate_per_token)
-            print(tokens_used)
-            save_log(LOG_FILE,log_data)
+        except Exception as e:
+            print(f"An error occurred: {e}")
+            continue
 
-            if 'choices' in response_json.keys():
-                result = response_json['choices'][0]['message']['content']
-                if result[:3].lower()=='yes':
-                    try:
-                        citation = get_mla_citation_from_pubmed_id(paper)
-                        if citation not in citations:
-                            citations.append(citation)
-                    except Exception as e:
-                        print("Cannot parse citation even though this paper support pargraph")
-                        print("Error detail: ", e)
-                        pass
-                    if len(citations)>=n:
-                        return citations
-            else:
-                result = "No"    
-            if verbose:
-                print("Title: ", paper['MedlineCitation']['Article']['ArticleTitle'])
-                print("Query: ")
-                print(message)
-                print("Result:")
-                print(result)
-                print("="*200)
+        tokens_used = response_json["usage"]["total_tokens"]
+        # Update and save the log
+        log_data["tokens_used"] += tokens_used
+        log_data["dollars_spent"] = estimate_cost(log_data["tokens_used"], rate_per_token)
+        print(tokens_used)
+        save_log(LOG_FILE,log_data)
+
+        if 'choices' in response_json.keys():
+            result = response_json['choices'][0]['message']['content']
+            if result[:3].lower()=='yes':
+                try:
+                    citation = get_mla_citation_from_pubmed_id(paper)
+                    if citation not in citations:
+                        citations.append(citation)
+                except Exception as e:
+                    print("Cannot parse citation even though this paper support pargraph")
+                    print("Error detail: ", e)
+                    pass
+                if len(citations)>=n:
+                    return citations
+        else:
+            result = "No"    
+        if verbose:
+            print("Title: ", paper['MedlineCitation']['Article']['ArticleTitle'])
+            print("Query: ")
+            print(message)
+            print("Result:")
+            print(result)
+            print("="*200)
 
     return citations
         
