@@ -331,12 +331,12 @@ def get_summary(file_name):
             return None
 
 if __name__ == "__main__":
-        
+
     nodes, edges = load_nodes_edges(model_name, version, file_name)
     # sort nodes by size 
     nodes = nodes.sort_values(by=['size'], ascending=True)
     systems = nodes['term'].values.tolist()[:-3] #remove the root and 2 huge organelle nodes
-    for system in systems[:6]:
+    for system in systems[:227]:# where size <=50
         response_path = os.path.join(get_model_directory_path(model_name, version),
         system, f"{system}_chatgpt_response")
 
