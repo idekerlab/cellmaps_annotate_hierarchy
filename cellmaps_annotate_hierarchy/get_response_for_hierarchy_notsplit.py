@@ -18,7 +18,7 @@ with open('config.json') as config_file:
 os.environ['MODEL_ANNOTATION_ROOT'] = data["MODEL_ANNOTATION_ROOT"]
 
 # load the API key
-key = data["OPENAI_API_KEY"] 
+openai.api_key = data["OPENAI_API_KEY"]
 temperature = data["TEMP"] # Set your temperature here 
 # CH: I want it to be deterministic, so I set temperature to 0
 max_tokens = data["MAX_TOKENS"] # Set your max tokens here
