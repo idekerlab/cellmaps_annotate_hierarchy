@@ -1,0 +1,35 @@
+Feature	Number of Genes	Genes
+protein binding	4	THOC2, THOC5, MTMR7, THOC7
+mRNA processing	3	THOC2, THOC5, THOC7
+mRNA export from nucleus	3	THOC2, THOC5, THOC7
+RNA splicing	3	THOC2, THOC5, THOC7
+viral mRNA export from host cell nucleus	3	THOC2, THOC5, THOC7
+transcription export complex	3	THOC2, THOC5, THOC7
+THO complex	3	THOC2, THOC5, THOC7
+THO complex part of transcription export complex	3	THOC2, THOC5, THOC7
+chromosome, telomeric region	3	THOC2, THOC5, THOC7
+nucleoplasm	3	THOC2, THOC5, THOC7
+cytoplasm	3	THOC5, MTMR7, THOC7
+mRNA binding	2	THOC2, THOC5
+nuclear speck	2	THOC2, THOC7
+nucleus	2	THOC5, THOC7
+protein tyrosine phosphatase activity	2	MTMR7, MDP1
+cytosol	2	MTMR7, THOC7
+poly(A)+ mRNA export from nucleus	1	THOC2
+neuron development	1	THOC2
+generation of neurons	1	THOC2
+monocyte differentiation	1	THOC5
+ DNA-templated transcription, elongation	1	THOC5
+primitive hemopoiesis	1	THOC5
+negative regulation of DNA damage checkpoint	1	THOC5
+phosphatidylinositol-3-phosphate phosphatase activity	1	MTMR7
+inositol bisphosphate phosphatase activity	1	MTMR7
+phosphatidylinositol-3,5-bisphosphate 3-phosphatase activity	1	MTMR7
+protein dephosphorylation	1	MTMR7
+phosphatidylinositol biosynthetic process	1	MTMR7
+phosphatidylinositol dephosphorylation	1	MTMR7
+endomembrane system	1	MTMR7
+membrane	1	MTMR7
+acid phosphatase activity	1	MDP1
+metal ion binding	1	MDP1
+RNA binding	1	THOC7

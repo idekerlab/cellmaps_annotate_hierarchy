@@ -1,0 +1,404 @@
+Feature	Number of Genes	Genes
+protein binding	31	EIPR1, CLDND1, MIS18BP1, ABCF3, RPS19BP1, DNAJC21, NOL11, PPP1R7, SMG6, STON2, TNFAIP1, ZNF397, ZFAND2B, FOXM1, ETV6, DDX24, PFDN2, ZNF622, RNF151, DNMBP, SMAD2, TRIM68, PARP10, CTNNBIP1, TSPYL6, WASL, FKBP15, NCAPD2, ACOX1, LRCH1, MAPK13
+cytosol	20	RPS19BP1, DNAJC21, SMG6, STON2, TNFAIP1, ZNF397, ETV6, NUDT19, PFDN2, ZNF622, DNMBP, SMAD2, TRIM68, PARP10, CTNNBIP1, GYG2, WASL, NCAPD2, ACOX1, MAPK13
+cytoplasm	20	NMD3, DNAJC21, PPP1R7, SMG6, TNFAIP1, ZFAND2B, PFDN2, RNF151, DNMBP, SMAD2, TRIM68, PARP10, CTNNBIP1, GYG2, WASL, P2RX6, NCAPD2, KYAT3, LRCH1, MAPK13
+nucleus	18	NMD3, PPP1R7, SMG6, TNFAIP1, FOXM1, VGLL3, ETV6, PFDN2, RNF151, SMAD2, TRIM68, PARP10, CTNNBIP1, TSPYL6, WASL, NCAPD2, NCOA4, MAPK13
+nucleolus	12	RPS19BP1, NMD3, DNAJC21, NOL11, SMG6, STON2, ZNF397, ETV6, DDX24, ZNF622, TRIM68, PARP10
+nucleoplasm	10	MIS18BP1, RPS19BP1, NMD3, NOL11, FOXM1, ZNF622, SMAD2, TRIM68, CTNNBIP1, NCAPD2
+RNA binding	9	NTPCR, RPS19BP1, NMD3, DNAJC21, NOL11, SMG6, DDX24, ZNF622, KYAT3
+membrane	8	ABCF3, NTPCR, NMD3, ZFAND2B, DDX24, FKBP15, NCAPD2, ACOX1
+ transcription by RNA polymerase II	6	ZNF397, FOXM1, VGLL3, ETV6, SMAD2, WASL
+ATP binding	5	ABCF3, NTPCR, DDX24, P2RX6, MAPK13
+zinc ion binding	5	DNAJC21, ZFAND2B, ZNF622, RNF151, TRIM68
+metal ion binding	4	SMG6, ZNF397, SMAD2, GYG2
+DNA-binding transcription factor activity, RNA polymerase II-specific	4	ZNF397, FOXM1, ETV6, SMAD2
+plasma membrane	4	ZNF397, ETV6, WASL, P2RX6
+chromatin	4	FOXM1, ETV6, SMAD2, TSPYL6
+Golgi apparatus	4	ZNF622, DNMBP, TRIM68, PARP10
+protein ubiquitination	3	EIPR1, TNFAIP1, RNF151
+cell division	3	MIS18BP1, WASL, NCAPD2
+ATP hydrolysis activity	3	ABCF3, NTPCR, DDX24
+identical protein binding	3	TNFAIP1, SMAD2, TRIM68
+RNA polymerase II cis-regulatory region sequence-specific DNA binding	3	ZNF397, ETV6, SMAD2
+DNA-binding transcription factor activity	3	FOXM1, ETV6, SMAD2
+negative regulation of DNA-templated transcription	3	FOXM1, SMAD2, PARP10
+ DNA-templated transcription	3	FOXM1, SMAD2, NCOA4
+cell differentiation	3	ETV6, RNF151, SMAD2
+mitochondrion	3	PFDN2, NUDT8, KYAT3
+intracellular signal transduction	3	DNMBP, SMAD2, MAPK13
+protein homodimerization activity	3	TRIM68, ACOX1, KYAT3
+DNA binding	2	MIS18BP1, SMAD2
+cell cycle	2	MIS18BP1, MAPK13
+protein folding	2	DNAJC21, PFDN2
+extracellular exosome	2	PPP1R7, WASL
+ubiquitin-protein transferase activity	2	TNFAIP1, TRIM68
+proteasome-mediated ubiquitin-dependent protein catabolic process	2	TNFAIP1, ZFAND2B
+endoplasmic reticulum	2	ZFAND2B, P3H3
+endoplasmic reticulum membrane	2	ZFAND2B, WASL
+RNA polymerase II transcription regulatory region sequence-specific DNA binding	2	FOXM1, ETV6
+protein kinase binding	2	FOXM1, TRIM68
+negative regulation of transcription by RNA polymerase II	2	FOXM1, ETV6
+negative regulation of cell population proliferation	2	P3H3, SMAD2
+DNA-binding transcription activator activity, RNA polymerase II-specific	2	ETV6, SMAD2
+magnesium ion binding	2	NUDT19, NUDT8
+CoA pyrophosphatase activity	2	NUDT19, NUDT8
+acyl-coenzyme A diphosphatase activity	2	NUDT19, NUDT8
+fatty acid catabolic process	2	NUDT19, ACOX1
+coenzyme A catabolic process	2	NUDT19, NUDT8
+medium-chain fatty-acyl-CoA catabolic process	2	NUDT19, NUDT8
+butyryl-CoA catabolic process	2	NUDT19, NUDT8
+succinyl-CoA catabolic process	2	NUDT19, NUDT8
+malonyl-CoA catabolic process	2	NUDT19, NUDT8
+peroxisomal matrix	2	NUDT19, ACOX1
+ubiquitin protein ligase activity	2	RNF151, TRIM68
+spermatogenesis	2	RNF151, ACOX1
+chromatin binding	2	SMAD2, TSPYL6
+DNA-binding transcription factor binding	2	SMAD2, PARP10
+anterior/posterior pattern specification	2	SMAD2, CTNNBIP1
+ protein localization	2	TRIM68, WASL
+histone binding	2	TSPYL6, NCAPD2
+actin binding	2	WASL, FKBP15
+actin cytoskeleton	2	WASL, FKBP15
+glutamatergic synapse	2	WASL, P2RX6
+endocytic recycling	1	EIPR1
+ insulin secretion	1	EIPR1
+ retrograde transport, endosome to Golgi	1	EIPR1
+ endocytic recycling	1	EIPR1
+trans-Golgi network	1	EIPR1
+cell surface	1	CLDND1
+apical plasma membrane	1	CLDND1
+chromosome, centromeric region	1	MIS18BP1
+cadherin binding	1	ABCF3
+defense response to virus	1	ABCF3
+GTPase activity	1	NTPCR
+ribonucleoside triphosphate phosphatase activity	1	NTPCR
+CTPase activity	1	NTPCR
+enzyme binding	1	RPS19BP1
+ribosomal small subunit biogenesis	1	RPS19BP1
+small-subunit processome	1	RPS19BP1
+protein-macromolecule adaptor activity	1	NMD3
+ribosomal large subunit binding	1	NMD3
+ribosomal large subunit export from nucleus	1	NMD3
+protein transport	1	NMD3
+ protein binding	1	NMD3
+ RNA biosynthetic process	1	NMD3
+ protein localization to nucleolus	1	NMD3
+ribosome	1	DNAJC21
+maturation of SSU-rRNA	1	NOL11
+ transcription of nucleolar large rRNA by RNA polymerase I	1	NOL11
+t-UTP complex	1	NOL11
+protein phosphatase regulator activity	1	PPP1R7
+enzyme regulator activity	1	PPP1R7
+ protein dephosphorylation	1	PPP1R7
+chromosome	1	PPP1R7
+RNA endonuclease activity	1	SMG6
+telomeric DNA binding	1	SMG6
+ribonucleoprotein complex binding	1	SMG6
+telomerase RNA binding	1	SMG6
+DNA polymerase binding	1	SMG6
+nuclear-transcribed mRNA catabolic process, nonsense-mediated decay	1	SMG6
+mRNA export from nucleus	1	SMG6
+ telomere maintenance	1	SMG6
+ telomere maintenance via telomerase	1	SMG6
+ dephosphorylation	1	SMG6
+ telomerase activity	1	SMG6
+RNA phosphodiester bond hydrolysis, endonucleolytic	1	SMG6
+negative regulation of telomere capping	1	SMG6
+chromosome, telomeric region	1	SMG6
+telomerase holoenzyme complex	1	SMG6
+clathrin adaptor activity	1	STON2
+ endocytosis	1	STON2
+synaptic vesicle endocytosis	1	STON2
+clathrin-dependent endocytosis	1	STON2
+synaptic vesicle	1	STON2
+AP-2 adaptor complex	1	STON2
+neuron projection	1	STON2
+cyclin binding	1	TNFAIP1
+small GTPase binding	1	TNFAIP1
+apoptotic process	1	TNFAIP1
+immune response	1	TNFAIP1
+cell migration	1	TNFAIP1
+negative regulation of Rho protein signal transduction	1	TNFAIP1
+stress fiber assembly	1	TNFAIP1
+ DNA replication	1	TNFAIP1
+protein homooligomerization	1	TNFAIP1
+endosome	1	TNFAIP1
+Cul3-RING ubiquitin ligase complex	1	TNFAIP1
+microtubule cytoskeleton	1	ZNF397
+K48-linked polyubiquitin modification-dependent protein binding	1	ZFAND2B
+ubiquitin binding	1	ZFAND2B
+SRP-dependent cotranslational protein targeting to membrane, translocation	1	ZFAND2B
+ insulin-like growth factor receptor signaling pathway	1	ZFAND2B
+protein targeting to ER	1	ZFAND2B
+G2/M transition of mitotic cell cycle	1	FOXM1
+DNA repair	1	FOXM1
+DNA damage response, signal transduction by p53 class mediator resulting in transcription of p21 class mediator	1	FOXM1
+ cell population proliferation	1	FOXM1
+negative regulation of stress-activated MAPK cascade	1	FOXM1
+ Ras protein signal transduction	1	FOXM1
+ cell cycle	1	FOXM1
+ reactive oxygen species metabolic process	1	FOXM1
+ double-strand break repair	1	FOXM1
+iron ion binding	1	P3H3
+procollagen-proline 3-dioxygenase activity	1	P3H3
+L-ascorbic acid binding	1	P3H3
+peptidyl-lysine hydroxylation	1	P3H3
+collagen metabolic process	1	P3H3
+collagen biosynthetic process	1	P3H3
+catalytic complex	1	P3H3
+DNA-binding transcription repressor activity, RNA polymerase II-specific	1	ETV6
+protein domain specific binding	1	ETV6
+vitellogenesis	1	ETV6
+neurogenesis	1	ETV6
+hematopoietic stem cell proliferation	1	ETV6
+mesenchymal cell apoptotic process	1	ETV6
+biological_process	1	NUDT19
+propionyl-CoA metabolic process	1	NUDT19
+cellular_component	1	NUDT19
+RNA helicase activity	1	DDX24
+RNA metabolic process	1	DDX24
+amyloid-beta binding	1	PFDN2
+protein folding chaperone	1	PFDN2
+unfolded protein binding	1	PFDN2
+protein stabilization	1	PFDN2
+ cytoskeleton organization	1	PFDN2
+negative regulation of amyloid fibril formation	1	PFDN2
+prefoldin complex	1	PFDN2
+protein folding chaperone complex	1	PFDN2
+RPAP3/R2TP/prefoldin-like complex	1	PFDN2
+manganese ion binding	1	NUDT8
+acetyl-CoA catabolic process	1	NUDT8
+propionyl-CoA catabolic process	1	NUDT8
+preribosome binding	1	ZNF622
+intrinsic apoptotic signaling pathway in response to oxidative stress	1	ZNF622
+ kinase activity	1	ZNF622
+ribosomal large subunit biogenesis	1	ZNF622
+ apoptotic process	1	ZNF622
+ MAPK cascade	1	ZNF622
+ JNK cascade	1	ZNF622
+preribosome, large subunit precursor	1	ZNF622
+guanyl-nucleotide exchange factor activity	1	DNMBP
+ cell shape	1	DNMBP
+ small GTPase mediated signal transduction	1	DNMBP
+cilium assembly	1	DNMBP
+Golgi stack	1	DNMBP
+cytoskeleton	1	DNMBP
+cell-cell junction	1	DNMBP
+synapse	1	DNMBP
+presynapse	1	DNMBP
+cis-regulatory region sequence-specific DNA binding	1	SMAD2
+double-stranded DNA binding	1	SMAD2
+transforming growth factor beta receptor binding	1	SMAD2
+phosphatase binding	1	SMAD2
+ubiquitin protein ligase binding	1	SMAD2
+type I transforming growth factor beta receptor binding	1	SMAD2
+SMAD binding	1	SMAD2
+tau protein binding	1	SMAD2
+RNA polymerase II-specific DNA-binding transcription factor binding	1	SMAD2
+co-SMAD binding	1	SMAD2
+I-SMAD binding	1	SMAD2
+R-SMAD binding	1	SMAD2
+disordered domain specific binding	1	SMAD2
+ureteric bud development	1	SMAD2
+in utero embryonic development	1	SMAD2
+endoderm formation	1	SMAD2
+mesoderm formation	1	SMAD2
+aortic valve morphogenesis	1	SMAD2
+pulmonary valve morphogenesis	1	SMAD2
+endocardial cushion morphogenesis	1	SMAD2
+DNA-templated transcription	1	SMAD2
+transforming growth factor beta receptor signaling pathway	1	SMAD2
+common-partner SMAD protein phosphorylation	1	SMAD2
+SMAD protein complex assembly	1	SMAD2
+zygotic specification of dorsal/ventral axis	1	SMAD2
+gastrulation	1	SMAD2
+anatomical structure morphogenesis	1	SMAD2
+response to glucose	1	SMAD2
+post-embryonic development	1	SMAD2
+ gene expression	1	SMAD2
+ epithelial to mesenchymal transition	1	SMAD2
+ transforming growth factor beta receptor signaling pathway	1	SMAD2
+signal transduction involved in regulation of gene expression	1	SMAD2
+insulin secretion	1	SMAD2
+lung development	1	SMAD2
+adrenal gland development	1	SMAD2
+ BMP signaling pathway	1	SMAD2
+pancreas development	1	SMAD2
+primary miRNA processing	1	SMAD2
+activin receptor signaling pathway	1	SMAD2
+organ growth	1	SMAD2
+nodal signaling pathway	1	SMAD2
+wound healing	1	SMAD2
+cell fate commitment	1	SMAD2
+paraxial mesoderm morphogenesis	1	SMAD2
+embryonic foregut morphogenesis	1	SMAD2
+embryonic cranial skeleton morphogenesis	1	SMAD2
+ binding	1	SMAD2
+pericardium development	1	SMAD2
+SMAD protein signal transduction	1	SMAD2
+secondary palate development	1	SMAD2
+response to cholesterol	1	SMAD2
+ nodal signaling pathway involved in determination of lateral mesoderm left/right asymmetry	1	SMAD2
+transcription regulator complex	1	SMAD2
+activin responsive factor complex	1	SMAD2
+protein-containing complex	1	SMAD2
+SMAD protein complex	1	SMAD2
+homomeric SMAD protein complex	1	SMAD2
+heteromeric SMAD protein complex	1	SMAD2
+histone acetyltransferase binding	1	TRIM68
+nuclear androgen receptor binding	1	TRIM68
+protein polyubiquitination	1	TRIM68
+ autophagy	1	TRIM68
+ I-kappaB kinase/NF-kappaB signaling	1	TRIM68
+innate immune response	1	TRIM68
+ viral entry into host cell	1	TRIM68
+ NF-kappaB transcription factor activity	1	TRIM68
+protein autoubiquitination	1	TRIM68
+ androgen receptor signaling pathway	1	TRIM68
+perinuclear region of cytoplasm	1	TRIM68
+transcription corepressor activity	1	PARP10
+NAD+ ADP-ribosyltransferase activity	1	PARP10
+nucleotidyltransferase activity	1	PARP10
+K63-linked polyubiquitin modification-dependent protein binding	1	PARP10
+NAD+- protein-lysine ADP-ribosyltransferase activity	1	PARP10
+NAD+-protein ADP-ribosyltransferase activity	1	PARP10
+chromatin organization	1	PARP10
+negative regulation of gene expression	1	PARP10
+viral protein processing	1	PARP10
+translesion synthesis	1	PARP10
+negative regulation of NF-kappaB transcription factor activity	1	PARP10
+NAD biosynthesis via nicotinamide riboside salvage pathway	1	PARP10
+negative regulation of fibroblast proliferation	1	PARP10
+protein poly-ADP-ribosylation	1	PARP10
+protein auto-ADP-ribosylation	1	PARP10
+negative regulation of protein K63-linked ubiquitination	1	PARP10
+beta-catenin binding	1	CTNNBIP1
+armadillo repeat domain binding	1	CTNNBIP1
+branching involved in ureteric bud morphogenesis	1	CTNNBIP1
+ vascular permeability involved in acute inflammatory response	1	CTNNBIP1
+Wnt signaling pathway	1	CTNNBIP1
+negative regulation of Wnt signaling pathway	1	CTNNBIP1
+negative regulation of protein-containing complex assembly	1	CTNNBIP1
+negative regulation of protein binding	1	CTNNBIP1
+negative regulation of DNA binding	1	CTNNBIP1
+negative regulation of DNA-binding transcription factor activity	1	CTNNBIP1
+ monocyte differentiation	1	CTNNBIP1
+ osteoblast differentiation	1	CTNNBIP1
+negative regulation of smooth muscle cell proliferation	1	CTNNBIP1
+negative regulation of transcription initiation by RNA polymerase II	1	CTNNBIP1
+negative regulation of mesenchymal cell proliferation	1	CTNNBIP1
+negative regulation of canonical Wnt signaling pathway	1	CTNNBIP1
+beta-catenin destruction complex	1	CTNNBIP1
+beta-catenin-ICAT complex	1	CTNNBIP1
+nucleosome assembly	1	TSPYL6
+kinase binding	1	WDCP
+protein complex oligomerization	1	WDCP
+glycogenin glucosyltransferase activity	1	GYG2
+glycosyltransferase activity	1	GYG2
+UDP-alpha-D-glucose:glucosyl-glycogenin alpha-D-glucosyltransferase activity	1	GYG2
+glycogen biosynthetic process	1	GYG2
+microtubule binding	1	WASL
+GTPase regulator activity	1	WASL
+vesicle budding from membrane	1	WASL
+actin polymerization or depolymerization	1	WASL
+response to bacterium	1	WASL
+vesicle organization	1	WASL
+actin filament polymerization	1	WASL
+vesicle transport along actin filament	1	WASL
+protein-containing complex localization	1	WASL
+ filopodium assembly	1	WASL
+spindle localization	1	WASL
+dendritic spine morphogenesis	1	WASL
+protein-containing complex assembly	1	WASL
+ postsynapse organization	1	WASL
+negative regulation of membrane tubulation	1	WASL
+ clathrin-dependent endocytosis	1	WASL
+negative regulation of lymphocyte migration	1	WASL
+lamellipodium	1	WASL
+actin cap	1	WASL
+endocytic vesicle membrane	1	WASL
+cytoplasmic vesicle	1	WASL
+peptidyl-prolyl cis-trans isomerase activity	1	FKBP15
+endocytosis	1	FKBP15
+early endosome	1	FKBP15
+growth cone	1	FKBP15
+purinergic nucleotide receptor activity	1	P2RX6
+transmembrane signaling receptor activity	1	P2RX6
+extracellularly ATP-gated monoatomic cation channel activity	1	P2RX6
+channel activity	1	P2RX6
+protein-containing complex binding	1	P2RX6
+muscle contraction	1	P2RX6
+signal transduction	1	P2RX6
+response to ATP	1	P2RX6
+purinergic nucleotide receptor signaling pathway	1	P2RX6
+excitatory postsynaptic potential	1	P2RX6
+monoatomic cation transmembrane transport	1	P2RX6
+postsynaptic density	1	P2RX6
+cell junction	1	P2RX6
+neuronal cell body	1	P2RX6
+dendritic spine	1	P2RX6
+receptor complex	1	P2RX6
+parallel fiber to Purkinje cell synapse	1	P2RX6
+postsynaptic specialization membrane	1	P2RX6
+mitotic chromosome condensation	1	NCAPD2
+meiotic chromosome condensation	1	NCAPD2
+ chromosome segregation	1	NCAPD2
+ chromosome separation	1	NCAPD2
+ chromosome condensation	1	NCAPD2
+nuclear chromosome	1	NCAPD2
+condensed chromosome, centromeric region	1	NCAPD2
+condensed chromosome	1	NCAPD2
+condensed nuclear chromosome	1	NCAPD2
+condensin complex	1	NCAPD2
+transcription coactivator activity	1	NCOA4
+protein targeting to lysosome	1	NCOA4
+intracellular iron ion homeostasis	1	NCOA4
+male gonad development	1	NCOA4
+response to hormone	1	NCOA4
+intracellular estrogen receptor signaling pathway	1	NCOA4
+cellular response to estrogen stimulus	1	NCOA4
+cellular response to testosterone stimulus	1	NCOA4
+autolysosome	1	NCOA4
+acyl-CoA oxidase activity	1	ACOX1
+fatty acid binding	1	ACOX1
+palmitoyl-CoA oxidase activity	1	ACOX1
+PDZ domain binding	1	ACOX1
+flavin adenine dinucleotide binding	1	ACOX1
+FAD binding	1	ACOX1
+very long-chain fatty acid metabolic process	1	ACOX1
+generation of precursor metabolites and energy	1	ACOX1
+lipid metabolic process	1	ACOX1
+prostaglandin metabolic process	1	ACOX1
+fatty acid oxidation	1	ACOX1
+fatty acid beta-oxidation using acyl-CoA oxidase	1	ACOX1
+hydrogen peroxide biosynthetic process	1	ACOX1
+lipid homeostasis	1	ACOX1
+very long-chain fatty acid beta-oxidation	1	ACOX1
+peroxisome	1	ACOX1
+peroxisomal membrane	1	ACOX1
+kynurenine-oxoglutarate transaminase activity	1	KYAT3
+pyridoxal phosphate binding	1	KYAT3
+kynurenine-glyoxylate transaminase activity	1	KYAT3
+cysteine-S-conjugate beta-lyase activity	1	KYAT3
+2-oxoglutarate metabolic process	1	KYAT3
+amino acid metabolic process	1	KYAT3
+biosynthetic process	1	KYAT3
+kynurenine metabolic process	1	KYAT3
+L-kynurenine catabolic process	1	KYAT3
+negative regulation of GTPase activity	1	LRCH1
+cellular response to chemokine	1	LRCH1
+negative regulation of T cell migration	1	LRCH1
+protein serine/threonine kinase activity	1	MAPK13
+MAP kinase activity	1	MAPK13
+protein serine kinase activity	1	MAPK13
+response to osmotic stress	1	MAPK13
+peptidyl-serine phosphorylation	1	MAPK13
+ interleukin-6 production	1	MAPK13
+cellular response to UV	1	MAPK13
+ inflammatory response	1	MAPK13
+stress-activated MAPK cascade	1	MAPK13
+cellular response to hydrogen peroxide	1	MAPK13
+cellular response to interleukin-1	1	MAPK13
+cellular response to sorbitol	1	MAPK13
+cellular response to anisomycin	1	MAPK13
+cellular response to sodium arsenite	1	MAPK13

@@ -1,0 +1,970 @@
+{
+    "ACVR1B": {
+        "hgnc_id": "HGNC:172",
+        "symbol": "ACVR1B",
+        "name": "activin A receptor type 1B",
+        "status": "Approved",
+        "locus_type": "gene with protein product",
+        "prev_symbol": [
+            "ACVRLK4"
+        ],
+        "prev_name": [
+            "activin A receptor, type IB"
+        ],
+        "alias_symbol": [
+            "ALK4",
+            "SKR2",
+            "ActRIB"
+        ],
+        "location": "12q13.13",
+        "date_approved_reserved": "1994-12-12T00:00:00Z",
+        "date_modified": "2023-01-20T00:00:00Z",
+        "date_name_changed": "2016-03-07T00:00:00Z",
+        "entrez_id": "91",
+        "mgd_id": [
+            "MGI:1338944"
+        ],
+        "iuphar": "objectId:1787",
+        "cosmic": "ACVR1B",
+        "pubmed_id": [
+            8397373
+        ],
+        "refseq_accession": [
+            "NM_020328"
+        ],
+        "gene_group": [
+            "Type 1 receptor serine/threonine kinases"
+        ],
+        "vega_id": "OTTHUMG00000167920",
+        "ensembl_gene_id": "ENSG00000135503",
+        "ccds_id": [
+            "CCDS8816",
+            "CCDS44893",
+            "CCDS44894"
+        ],
+        "locus_group": "protein-coding gene",
+        "omim_id": [
+            "601300"
+        ],
+        "uniprot_ids": [
+            "P36896"
+        ],
+        "ucsc_id": "uc001rzn.4",
+        "rgd_id": [
+            "RGD:735207"
+        ],
+        "gene_group_id": [
+            345
+        ],
+        "location_sortable": "12q13.13",
+        "agr": "HGNC:172",
+        "mane_select": [
+            "ENST00000257963.9",
+            "NM_004302.5"
+        ],
+        "gencc": "HGNC:172",
+        "uuid": "0040440a-ae9a-4ec4-9b15-261f87e328f0",
+        "_version_": 1764660390058262528
+    },
+    "ANKIB1": {
+        "hgnc_id": "HGNC:22215",
+        "symbol": "ANKIB1",
+        "name": "ankyrin repeat and IBR domain containing 1",
+        "status": "Approved",
+        "locus_type": "gene with protein product",
+        "alias_symbol": [
+            "DKFZP434A0225",
+            "KIAA1386"
+        ],
+        "location": "7q21.2",
+        "date_approved_reserved": "2004-03-02T00:00:00Z",
+        "date_modified": "2023-01-20T00:00:00Z",
+        "ena": [
+            "AB037807"
+        ],
+        "entrez_id": "54467",
+        "mgd_id": [
+            "MGI:1918047"
+        ],
+        "refseq_accession": [
+            "NM_019004"
+        ],
+        "gene_group": [
+            "Ankyrin repeat domain containing",
+            "RBR E3 ubiquitin ligases"
+        ],
+        "vega_id": "OTTHUMG00000155859",
+        "ensembl_gene_id": "ENSG00000001629",
+        "ccds_id": [
+            "CCDS47639"
+        ],
+        "locus_group": "protein-coding gene",
+        "omim_id": [
+            "620069"
+        ],
+        "uniprot_ids": [
+            "Q9P2G1"
+        ],
+        "ucsc_id": "uc003ulw.2",
+        "rgd_id": [
+            "RGD:1597088"
+        ],
+        "gene_group_id": [
+            403,
+            1391
+        ],
+        "location_sortable": "07q21.2",
+        "agr": "HGNC:22215",
+        "mane_select": [
+            "ENST00000265742.8",
+            "NM_019004.2"
+        ],
+        "uuid": "5636d937-eb32-4e50-80b3-33e5d4a8f4cc",
+        "_version_": 1764660390432604160
+    },
+    "BMPR1A": {
+        "hgnc_id": "HGNC:1076",
+        "symbol": "BMPR1A",
+        "name": "bone morphogenetic protein receptor type 1A",
+        "status": "Approved",
+        "locus_type": "gene with protein product",
+        "prev_symbol": [
+            "ACVRLK3"
+        ],
+        "prev_name": [
+            "bone morphogenetic protein receptor, type IA"
+        ],
+        "alias_symbol": [
+            "ALK3",
+            "CD292"
+        ],
+        "location": "10q23.2",
+        "date_approved_reserved": "1994-12-12T00:00:00Z",
+        "date_modified": "2023-01-20T00:00:00Z",
+        "date_name_changed": "2016-01-26T00:00:00Z",
+        "ena": [
+            "BC028383"
+        ],
+        "entrez_id": "657",
+        "mgd_id": [
+            "MGI:1338938"
+        ],
+        "cd": "CD292",
+        "iuphar": "objectId:1786",
+        "cosmic": "BMPR1A",
+        "orphanet": 119048,
+        "pubmed_id": [
+            8397373,
+            9730621
+        ],
+        "refseq_accession": [
+            "NM_004329"
+        ],
+        "gene_group": [
+            "Type 1 receptor serine/threonine kinases",
+            "CD molecules"
+        ],
+        "vega_id": "OTTHUMG00000018657",
+        "lsdb": [
+            "LRG_298|http://ftp.ebi.ac.uk/pub/databases/lrgex/LRG_298.xml"
+        ],
+        "ensembl_gene_id": "ENSG00000107779",
+        "ccds_id": [
+            "CCDS7378"
+        ],
+        "locus_group": "protein-coding gene",
+        "omim_id": [
+            "601299"
+        ],
+        "uniprot_ids": [
+            "P36894"
+        ],
+        "ucsc_id": "uc001kdy.4",
+        "rgd_id": [
+            "RGD:70989"
+        ],
+        "gene_group_id": [
+            345,
+            471
+        ],
+        "location_sortable": "10q23.2",
+        "agr": "HGNC:1076",
+        "symbol_report_tag": [
+            "Stable symbol"
+        ],
+        "mane_select": [
+            "ENST00000372037.8",
+            "NM_004329.3"
+        ],
+        "gencc": "HGNC:1076",
+        "uuid": "0bbf7480-a3ba-4585-966b-19f47601fe1f",
+        "_version_": 1764660391217987584
+    },
+    "IFNGR1": {
+        "hgnc_id": "HGNC:5439",
+        "symbol": "IFNGR1",
+        "name": "interferon gamma receptor 1",
+        "status": "Approved",
+        "locus_type": "gene with protein product",
+        "prev_symbol": [
+            "IFNGR"
+        ],
+        "alias_symbol": [
+            "CD119"
+        ],
+        "location": "6q23.3",
+        "date_approved_reserved": "1986-01-01T00:00:00Z",
+        "date_modified": "2023-01-20T00:00:00Z",
+        "entrez_id": "3459",
+        "mgd_id": [
+            "MGI:107655"
+        ],
+        "cd": "CD119",
+        "iuphar": "objectId:1725",
+        "orphanet": 122576,
+        "refseq_accession": [
+            "NM_000416"
+        ],
+        "gene_group": [
+            "CD molecules",
+            "Interferon receptors"
+        ],
+        "vega_id": "OTTHUMG00000015656",
+        "lsdb": [
+            "IFNGR1base: Mutation registry for IFN\u03b31-receptor deficiency|http://structure.bmc.lu.se/idbase/IFNGR1base/",
+            "LRG_66|http://ftp.ebi.ac.uk/pub/databases/lrgex/LRG_66.xml"
+        ],
+        "ensembl_gene_id": "ENSG00000027697",
+        "ccds_id": [
+            "CCDS87446",
+            "CCDS87445",
+            "CCDS5185"
+        ],
+        "locus_group": "protein-coding gene",
+        "omim_id": [
+            "107470"
+        ],
+        "uniprot_ids": [
+            "P15260"
+        ],
+        "ucsc_id": "uc003qho.3",
+        "rgd_id": [
+            "RGD:620570"
+        ],
+        "gene_group_id": [
+            471,
+            599
+        ],
+        "location_sortable": "06q23.3",
+        "agr": "HGNC:5439",
+        "symbol_report_tag": [
+            "Stable symbol"
+        ],
+        "mane_select": [
+            "ENST00000367739.9",
+            "NM_000416.3"
+        ],
+        "gencc": "HGNC:5439",
+        "uuid": "b4364c29-48a2-495c-b9ff-6b4b40b79fde",
+        "_version_": 1764660399575138305
+    },
+    "IFNLR1": {
+        "hgnc_id": "HGNC:18584",
+        "symbol": "IFNLR1",
+        "name": "interferon lambda receptor 1",
+        "status": "Approved",
+        "locus_type": "gene with protein product",
+        "prev_symbol": [
+            "IL28RA"
+        ],
+        "prev_name": [
+            "interleukin 28 receptor, alpha",
+            "interleukin 28 receptor, alpha (interferon, lambda receptor)",
+            "interferon, lambda receptor 1"
+        ],
+        "alias_symbol": [
+            "CRF2/12",
+            "IFNLR",
+            "IL-28R1"
+        ],
+        "location": "1p36.11",
+        "date_approved_reserved": "2002-12-02T00:00:00Z",
+        "date_modified": "2023-01-20T00:00:00Z",
+        "date_name_changed": "2016-03-16T00:00:00Z",
+        "ena": [
+            "AY129153"
+        ],
+        "entrez_id": "163702",
+        "mgd_id": [
+            "MGI:2429859"
+        ],
+        "iuphar": "objectId:1733",
+        "refseq_accession": [
+            "NM_170743"
+        ],
+        "gene_group": [
+            "Interferon receptors"
+        ],
+        "date_symbol_changed": "2012-11-26T00:00:00Z",
+        "vega_id": "OTTHUMG00000003036",
+        "ensembl_gene_id": "ENSG00000185436",
+        "ccds_id": [
+            "CCDS248",
+            "CCDS250",
+            "CCDS249"
+        ],
+        "locus_group": "protein-coding gene",
+        "omim_id": [
+            "607404"
+        ],
+        "uniprot_ids": [
+            "Q8IU57"
+        ],
+        "ucsc_id": "uc001bis.4",
+        "rgd_id": [
+            "RGD:1562689"
+        ],
+        "gene_group_id": [
+            599
+        ],
+        "location_sortable": "01p36.11",
+        "agr": "HGNC:18584",
+        "mane_select": [
+            "ENST00000327535.6",
+            "NM_170743.4"
+        ],
+        "uuid": "8d71c310-a796-4b30-bd35-f05c252b5adf",
+        "_version_": 1764660399580381185
+    },
+    "LAYN": {
+        "hgnc_id": "HGNC:29471",
+        "symbol": "LAYN",
+        "name": "layilin",
+        "status": "Approved",
+        "locus_type": "gene with protein product",
+        "alias_symbol": [
+            "FLJ30977",
+            "FLJ31092"
+        ],
+        "location": "11q23.1",
+        "date_approved_reserved": "2005-11-14T00:00:00Z",
+        "date_modified": "2023-01-20T00:00:00Z",
+        "entrez_id": "143903",
+        "mgd_id": [
+            "MGI:2685357"
+        ],
+        "pubmed_id": [
+            15913605
+        ],
+        "refseq_accession": [
+            "NM_178834"
+        ],
+        "gene_group": [
+            "C-type lectin domain containing"
+        ],
+        "vega_id": "OTTHUMG00000166721",
+        "ensembl_gene_id": "ENSG00000204381",
+        "ccds_id": [
+            "CCDS31676",
+            "CCDS58179",
+            "CCDS58178"
+        ],
+        "locus_group": "protein-coding gene",
+        "omim_id": [
+            "618843"
+        ],
+        "uniprot_ids": [
+            "Q6UX15"
+        ],
+        "ucsc_id": "uc001plp.3",
+        "rgd_id": [
+            "RGD:1564444"
+        ],
+        "gene_group_id": [
+            1298
+        ],
+        "location_sortable": "11q23.1",
+        "agr": "HGNC:29471",
+        "mane_select": [
+            "ENST00000375614.7",
+            "NM_178834.5"
+        ],
+        "uuid": "f3cf9d2d-a437-444d-9434-9ae078e00e6b",
+        "_version_": 1764660401979523072
+    },
+    "MYOF": {
+        "hgnc_id": "HGNC:3656",
+        "symbol": "MYOF",
+        "name": "myoferlin",
+        "status": "Approved",
+        "locus_type": "gene with protein product",
+        "prev_symbol": [
+            "FER1L3"
+        ],
+        "prev_name": [
+            "fer-1 (C.elegans)-like 3 (myoferlin)",
+            "fer-1-like 3, myoferlin (C. elegans)"
+        ],
+        "alias_symbol": [
+            "KIAA1207"
+        ],
+        "alias_name": [
+            "fer-1-like family member 3"
+        ],
+        "location": "10q23.33",
+        "date_approved_reserved": "1999-12-14T00:00:00Z",
+        "date_modified": "2023-01-20T00:00:00Z",
+        "date_name_changed": "2008-11-26T00:00:00Z",
+        "ena": [
+            "AB033033"
+        ],
+        "entrez_id": "26509",
+        "mgd_id": [
+            "MGI:1919192"
+        ],
+        "pubmed_id": [
+            10607832,
+            10995573,
+            17702744
+        ],
+        "refseq_accession": [
+            "NM_013451"
+        ],
+        "gene_group": [
+            "Ferlin family"
+        ],
+        "date_symbol_changed": "2008-11-26T00:00:00Z",
+        "vega_id": "OTTHUMG00000018772",
+        "ensembl_gene_id": "ENSG00000138119",
+        "ccds_id": [
+            "CCDS41550",
+            "CCDS41551"
+        ],
+        "locus_group": "protein-coding gene",
+        "omim_id": [
+            "604603"
+        ],
+        "uniprot_ids": [
+            "Q9NZM1"
+        ],
+        "ucsc_id": "uc001kin.4",
+        "rgd_id": [
+            "RGD:1564216"
+        ],
+        "gene_group_id": [
+            828
+        ],
+        "location_sortable": "10q23.33",
+        "agr": "HGNC:3656",
+        "mane_select": [
+            "ENST00000359263.9",
+            "NM_013451.4"
+        ],
+        "uuid": "1ca8c4d1-e123-4a07-bc1f-c3bba9e0944e",
+        "_version_": 1764660406398222336
+    },
+    "PDGFRB": {
+        "hgnc_id": "HGNC:8804",
+        "symbol": "PDGFRB",
+        "name": "platelet derived growth factor receptor beta",
+        "status": "Approved",
+        "locus_type": "gene with protein product",
+        "prev_symbol": [
+            "PDGFR"
+        ],
+        "prev_name": [
+            "platelet-derived growth factor receptor, beta polypeptide"
+        ],
+        "alias_symbol": [
+            "JTK12",
+            "CD140b",
+            "PDGFR1"
+        ],
+        "location": "5q32",
+        "date_approved_reserved": "2001-06-22T00:00:00Z",
+        "date_modified": "2023-01-20T00:00:00Z",
+        "date_name_changed": "2016-01-14T00:00:00Z",
+        "ena": [
+            "M21616"
+        ],
+        "entrez_id": "5159",
+        "mgd_id": [
+            "MGI:97531"
+        ],
+        "cd": "CD140b",
+        "iuphar": "objectId:1804",
+        "cosmic": "PDGFRB",
+        "orphanet": 138376,
+        "refseq_accession": [
+            "NM_002609"
+        ],
+        "gene_group": [
+            "Receptor tyrosine kinases",
+            "CD molecules",
+            "I-set domain containing"
+        ],
+        "vega_id": "OTTHUMG00000130053",
+        "ensembl_gene_id": "ENSG00000113721",
+        "ccds_id": [
+            "CCDS4303"
+        ],
+        "locus_group": "protein-coding gene",
+        "omim_id": [
+            "173410"
+        ],
+        "uniprot_ids": [
+            "P09619"
+        ],
+        "ucsc_id": "uc003lro.4",
+        "rgd_id": [
+            "RGD:3285"
+        ],
+        "gene_group_id": [
+            321,
+            471,
+            593
+        ],
+        "location_sortable": "05q32",
+        "agr": "HGNC:8804",
+        "symbol_report_tag": [
+            "Stable symbol"
+        ],
+        "mane_select": [
+            "ENST00000261799.9",
+            "NM_002609.4"
+        ],
+        "gencc": "HGNC:8804",
+        "uuid": "0de6a2a9-f592-4ccc-a5e5-768a3d8bde5d",
+        "_version_": 1764660409291243521
+    },
+    "PIK3CA": {
+        "hgnc_id": "HGNC:8975",
+        "symbol": "PIK3CA",
+        "name": "phosphatidylinositol-4,5-bisphosphate 3-kinase catalytic subunit alpha",
+        "status": "Approved",
+        "locus_type": "gene with protein product",
+        "prev_name": [
+            "phosphoinositide-3-kinase, catalytic, alpha polypeptide",
+            "phosphatidylinositol-4,5-bisphosphate 3-kinase, catalytic subunit alpha"
+        ],
+        "alias_symbol": [
+            "PI3K"
+        ],
+        "location": "3q26.32",
+        "date_approved_reserved": "1994-07-15T00:00:00Z",
+        "date_modified": "2023-01-20T00:00:00Z",
+        "date_name_changed": "2015-11-17T00:00:00Z",
+        "enzyme_id": [
+            "2.7.1.153"
+        ],
+        "entrez_id": "5290",
+        "mgd_id": [
+            "MGI:1206581"
+        ],
+        "iuphar": "objectId:2153",
+        "cosmic": "PIK3CA",
+        "orphanet": 117820,
+        "pubmed_id": [
+            1322797
+        ],
+        "refseq_accession": [
+            "NM_006218"
+        ],
+        "gene_group": [
+            "Phosphatidylinositol 3-kinase subunits"
+        ],
+        "vega_id": "OTTHUMG00000157311",
+        "lsdb": [
+            "LRG_310|http://ftp.ebi.ac.uk/pub/databases/lrgex/LRG_310.xml"
+        ],
+        "ensembl_gene_id": "ENSG00000121879",
+        "ccds_id": [
+            "CCDS43171"
+        ],
+        "locus_group": "protein-coding gene",
+        "omim_id": [
+            "171834"
+        ],
+        "uniprot_ids": [
+            "P42336"
+        ],
+        "ucsc_id": "uc003fjk.4",
+        "rgd_id": [
+            "RGD:620916"
+        ],
+        "gene_group_id": [
+            831
+        ],
+        "location_sortable": "03q26.32",
+        "agr": "HGNC:8975",
+        "symbol_report_tag": [
+            "Stable symbol"
+        ],
+        "mane_select": [
+            "ENST00000263967.4",
+            "NM_006218.4"
+        ],
+        "gencc": "HGNC:8975",
+        "uuid": "184cc125-2a55-4d2e-983a-eb04a3754955",
+        "_version_": 1764660409514590209
+    },
+    "PIK3CD": {
+        "hgnc_id": "HGNC:8977",
+        "symbol": "PIK3CD",
+        "name": "phosphatidylinositol-4,5-bisphosphate 3-kinase catalytic subunit delta",
+        "status": "Approved",
+        "locus_type": "gene with protein product",
+        "prev_name": [
+            "phosphoinositide-3-kinase, catalytic, delta polypeptide",
+            "phosphatidylinositol-4,5-bisphosphate 3-kinase, catalytic subunit delta"
+        ],
+        "alias_symbol": [
+            "p110D"
+        ],
+        "alias_name": [
+            "phosphatidylinositol 3-kinase, catalytic, delta polypeptide",
+            "phosphoinositide-3-kinase C"
+        ],
+        "location": "1p36.22",
+        "date_approved_reserved": "1997-06-12T00:00:00Z",
+        "date_modified": "2023-01-20T00:00:00Z",
+        "date_name_changed": "2015-11-17T00:00:00Z",
+        "enzyme_id": [
+            "2.7.1.153"
+        ],
+        "entrez_id": "5293",
+        "mgd_id": [
+            "MGI:1098211"
+        ],
+        "iuphar": "objectId:2155",
+        "orphanet": 400623,
+        "pubmed_id": [
+            9113989,
+            9455486
+        ],
+        "refseq_accession": [
+            "NM_005026"
+        ],
+        "gene_group": [
+            "Phosphatidylinositol 3-kinase subunits"
+        ],
+        "vega_id": "OTTHUMG00000001450",
+        "lsdb": [
+            "LRG_191|http://ftp.ebi.ac.uk/pub/databases/lrgex/LRG_191.xml"
+        ],
+        "ensembl_gene_id": "ENSG00000171608",
+        "ccds_id": [
+            "CCDS104",
+            "CCDS90856"
+        ],
+        "locus_group": "protein-coding gene",
+        "omim_id": [
+            "602839"
+        ],
+        "uniprot_ids": [
+            "O00329"
+        ],
+        "ucsc_id": "uc001aqb.5",
+        "rgd_id": [
+            "RGD:1310990"
+        ],
+        "gene_group_id": [
+            831
+        ],
+        "location_sortable": "01p36.22",
+        "agr": "HGNC:8977",
+        "symbol_report_tag": [
+            "Stable symbol"
+        ],
+        "mane_select": [
+            "ENST00000377346.9",
+            "NM_005026.5"
+        ],
+        "gencc": "HGNC:8977",
+        "uuid": "4edcec61-28fb-4c88-af09-951480291521",
+        "_version_": 1764660409516687360
+    },
+    "PIK3R1": {
+        "hgnc_id": "HGNC:8979",
+        "symbol": "PIK3R1",
+        "name": "phosphoinositide-3-kinase regulatory subunit 1",
+        "status": "Approved",
+        "locus_type": "gene with protein product",
+        "prev_name": [
+            "phosphoinositide-3-kinase, regulatory subunit 1 (alpha)"
+        ],
+        "alias_symbol": [
+            "GRB1",
+            "p85-ALPHA",
+            "p85",
+            "p85alpha"
+        ],
+        "alias_name": [
+            "phosphoinositide-3-kinase regulatory subunit alpha",
+            "growth factor receptor bound 1",
+            "PI3 kinase-associated p85"
+        ],
+        "location": "5q13.1",
+        "date_approved_reserved": "1992-12-08T00:00:00Z",
+        "date_modified": "2023-01-20T00:00:00Z",
+        "date_name_changed": "2015-11-17T00:00:00Z",
+        "ena": [
+            "M61906"
+        ],
+        "entrez_id": "5295",
+        "mgd_id": [
+            "MGI:97583"
+        ],
+        "iuphar": "objectId:2503",
+        "cosmic": "PIK3R1",
+        "orphanet": 352217,
+        "pubmed_id": [
+            1314371,
+            18387942,
+            1849461,
+            23810378
+        ],
+        "refseq_accession": [
+            "NM_181504"
+        ],
+        "gene_group": [
+            "SH2 domain containing"
+        ],
+        "vega_id": "OTTHUMG00000131251",
+        "lsdb": [
+            "SH2base: Database for pathogenic SH2 domain mutations|http://structure.bmc.lu.se/idbase/SH2base/",
+            "LRG_453|http://ftp.ebi.ac.uk/pub/databases/lrgex/LRG_453.xml"
+        ],
+        "ensembl_gene_id": "ENSG00000145675",
+        "ccds_id": [
+            "CCDS3993",
+            "CCDS3995",
+            "CCDS3994",
+            "CCDS56374"
+        ],
+        "locus_group": "protein-coding gene",
+        "omim_id": [
+            "171833"
+        ],
+        "uniprot_ids": [
+            "P27986"
+        ],
+        "ucsc_id": "uc003jva.4",
+        "rgd_id": [
+            "RGD:3329"
+        ],
+        "gene_group_id": [
+            741
+        ],
+        "location_sortable": "05q13.1",
+        "agr": "HGNC:8979",
+        "symbol_report_tag": [
+            "Stable symbol"
+        ],
+        "mane_select": [
+            "ENST00000521381.6",
+            "NM_181523.3"
+        ],
+        "gencc": "HGNC:8979",
+        "uuid": "81678d86-3c41-4939-8c2e-67be68630cd9",
+        "_version_": 1764660409519833088
+    },
+    "RNF149": {
+        "hgnc_id": "HGNC:23137",
+        "symbol": "RNF149",
+        "name": "ring finger protein 149",
+        "status": "Approved",
+        "locus_type": "gene with protein product",
+        "alias_symbol": [
+            "FLJ90504"
+        ],
+        "location": "2q11.2",
+        "date_approved_reserved": "2003-10-24T00:00:00Z",
+        "date_modified": "2023-01-20T00:00:00Z",
+        "ena": [
+            "AK074985"
+        ],
+        "entrez_id": "284996",
+        "mgd_id": [
+            "MGI:2677438"
+        ],
+        "refseq_accession": [
+            "NM_173647"
+        ],
+        "gene_group": [
+            "Ring finger proteins"
+        ],
+        "vega_id": "OTTHUMG00000130685",
+        "ensembl_gene_id": "ENSG00000163162",
+        "ccds_id": [
+            "CCDS2051"
+        ],
+        "locus_group": "protein-coding gene",
+        "uniprot_ids": [
+            "Q8NC42"
+        ],
+        "ucsc_id": "uc002taz.3",
+        "rgd_id": [
+            "RGD:1308460"
+        ],
+        "gene_group_id": [
+            58
+        ],
+        "location_sortable": "02q11.2",
+        "agr": "HGNC:23137",
+        "mane_select": [
+            "ENST00000295317.4",
+            "NM_173647.4"
+        ],
+        "uuid": "c27b333a-34bb-4653-9081-3c8a8104028e",
+        "_version_": 1764660412905684993
+    },
+    "SUSD6": {
+        "hgnc_id": "HGNC:19956",
+        "symbol": "SUSD6",
+        "name": "sushi domain containing 6",
+        "status": "Approved",
+        "locus_type": "gene with protein product",
+        "prev_symbol": [
+            "KIAA0247"
+        ],
+        "prev_name": [
+            "KIAA0247"
+        ],
+        "location": "14q24.1",
+        "date_approved_reserved": "2003-11-21T00:00:00Z",
+        "date_modified": "2023-01-20T00:00:00Z",
+        "date_name_changed": "2014-12-08T00:00:00Z",
+        "ena": [
+            "D87434"
+        ],
+        "entrez_id": "9766",
+        "mgd_id": [
+            "MGI:2444661"
+        ],
+        "pubmed_id": [
+            9039502
+        ],
+        "refseq_accession": [
+            "NM_014734"
+        ],
+        "gene_group": [
+            "Sushi domain containing"
+        ],
+        "date_symbol_changed": "2014-12-08T00:00:00Z",
+        "vega_id": "OTTHUMG00000171234",
+        "ensembl_gene_id": "ENSG00000100647",
+        "ccds_id": [
+            "CCDS9796"
+        ],
+        "locus_group": "protein-coding gene",
+        "omim_id": [
+            "616761"
+        ],
+        "uniprot_ids": [
+            "Q92537"
+        ],
+        "rgd_id": [
+            "RGD:1595528"
+        ],
+        "gene_group_id": [
+            1179
+        ],
+        "location_sortable": "14q24.1",
+        "agr": "HGNC:19956",
+        "mane_select": [
+            "ENST00000342745.5",
+            "NM_014734.4"
+        ],
+        "uuid": "d71eb31b-b0d6-40ce-9ce2-1e3872cbe1d2",
+        "_version_": 1764660417262518272
+    },
+    "ZDHHC9": {
+        "hgnc_id": "HGNC:18475",
+        "symbol": "ZDHHC9",
+        "name": "zinc finger DHHC-type palmitoyltransferase 9",
+        "status": "Approved",
+        "locus_type": "gene with protein product",
+        "prev_symbol": [
+            "ZDHHC10",
+            "CXorf11"
+        ],
+        "prev_name": [
+            "zinc finger, DHHC-type containing 10",
+            "chromosome X open reading frame 11",
+            "zinc finger DHHC-type containing 9"
+        ],
+        "alias_symbol": [
+            "ZNF379",
+            "CGI-89",
+            "ZNF380",
+            "DHHC9"
+        ],
+        "alias_name": [
+            "Zinc finger protein 379",
+            "Zinc finger protein 380"
+        ],
+        "location": "Xq26.1",
+        "date_approved_reserved": "2002-04-05T00:00:00Z",
+        "date_modified": "2023-01-20T00:00:00Z",
+        "date_name_changed": "2019-10-17T00:00:00Z",
+        "ena": [
+            "AF151847"
+        ],
+        "enzyme_id": [
+            "2.3.1.225"
+        ],
+        "entrez_id": "51114",
+        "mgd_id": [
+            "MGI:2444393"
+        ],
+        "orphanet": 159313,
+        "pubmed_id": [
+            18827284,
+            16000296,
+            10810093,
+            17436253,
+            27481942
+        ],
+        "refseq_accession": [
+            "NM_016032"
+        ],
+        "gene_group": [
+            "Zinc fingers DHHC-type"
+        ],
+        "vega_id": "OTTHUMG00000022375",
+        "lsdb": [
+            "Global Variome shared LOVD|https://databases.lovd.nl/shared/genes/ZDHHC9"
+        ],
+        "ensembl_gene_id": "ENSG00000188706",
+        "ccds_id": [
+            "CCDS35395"
+        ],
+        "locus_group": "protein-coding gene",
+        "omim_id": [
+            "300646"
+        ],
+        "uniprot_ids": [
+            "Q9Y397"
+        ],
+        "ucsc_id": "uc004euw.4",
+        "rgd_id": [
+            "RGD:1561389"
+        ],
+        "gene_group_id": [
+            76
+        ],
+        "location_sortable": "Xq26.1",
+        "agr": "HGNC:18475",
+        "symbol_report_tag": [
+            "Stable symbol"
+        ],
+        "mane_select": [
+            "ENST00000357166.11",
+            "NM_016032.4"
+        ],
+        "gencc": "HGNC:18475",
+        "uuid": "ef2a4e81-04e4-49db-9b03-0709c8dc0af2",
+        "_version_": 1764660421469405184
+    }
+}

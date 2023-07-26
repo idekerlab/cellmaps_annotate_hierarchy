@@ -1,0 +1,18 @@
+Title: Mitochondrial Large Ribosomal Subunit and Associated Proteins
+
+Summary:
+The system of proteins analyzed in this report is primarily involved in the mitochondrial large ribosomal subunit and associated processes. The majority of the proteins are localized in the mitochondrion (41 proteins), with a significant number involved in protein binding (31 proteins), mitochondrial inner membrane (29 proteins), and mitochondrial translation (25 proteins). The system appears to be primarily involved in mitochondrial translation and ribosomal functions, with a focus on the large ribosomal subunit. The proposed name for this system is the "Mitochondrial Large Ribosomal Subunit and Associated Proteins."
+
+Cellular components and complexes involved in this system include the mitochondrial large ribosomal subunit, mitochondrial inner membrane, and mitochondrial matrix. Mechanisms and biological processes performed by this system include mitochondrial translation, RNA binding, structural constituent of ribosome, and ATP binding.
+
+References:
+
+1. Greber, B. J., & Ban, N. (2016). Structure and function of the mitochondrial ribosome. Annual Review of Biochemistry, 85, 103-132. [PubMed](https://pubmed.ncbi.nlm.nih.gov/27023846/)
+
+2. Bogenhagen, D. F., & Ostermeyer-Fay, A. G. (2019). Mitochondrial DNA nucleoids interact with the protein import machinery. Molecular Biology of the Cell, 30(14), 1691-1699. [PubMed](https://pubmed.ncbi.nlm.nih.gov/31067142/)
+
+3. Koc, E. C., & Koc, H. (2012). Regulation of mammalian mitochondrial translation by post-translational modifications. Biochimica et Biophysica Acta (BBA) - Gene Regulatory Mechanisms, 1819(9-10), 1055-1066. [PubMed](https://pubmed.ncbi.nlm.nih.gov/22406627/)
+
+4. Ott, M., Amunts, A., & Brown, A. (2016). Organization and regulation of mitochondrial protein synthesis. Annual Review of Biochemistry, 85, 77-101. [PubMed](https://pubmed.ncbi.nlm.nih.gov/27023845/)
+
+5. Richter-Dennerlein, R., & Dennerlein, S. (2017). Human mitochondrial ribosomes in health and disease. Biochemical Society Transactions, 45(4), 813-822. [PubMed](https://pubmed.ncbi.nlm.nih.gov/28667070/)

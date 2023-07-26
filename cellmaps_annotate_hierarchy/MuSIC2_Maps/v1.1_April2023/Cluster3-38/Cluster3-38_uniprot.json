@@ -1,0 +1,226 @@
+{
+    "ATP5MPL": {
+        "UniProtKB_ID": "ATP68_HUMAN",
+        "Description": "ATP synthase subunit ATP5MJ, mitochondrial",
+        "GO": [
+            "mitochondrial inner membrane",
+            "mitochondrial proton-transporting ATP synthase complex",
+            "proton motive force-driven ATP synthesis"
+        ],
+        "Location": [
+            "membrane",
+            "mitochondrion membrane",
+            "mitochondrion"
+        ],
+        "Disease": [],
+        "Disease_description": [],
+        "Complexes": [
+            "Component of an ATP synthase complex composed of ATP5PB, ATP5MC1, ATP5F1E, ATP5PD, ATP5ME, ATP5PF, ATP5MF, MT-ATP6, MT-ATP8, ATP5F1A, ATP5F1B, ATP5F1D, ATP5F1C, ATP5PO, ATP5MG, ATP5MK and ATP5MJ"
+        ]
+    },
+    "DKK3": {
+        "UniProtKB_ID": "DKK3_HUMAN",
+        "Description": "Dickkopf-related protein 3",
+        "GO": [
+            "extracellular space",
+            "co-receptor binding",
+            "receptor antagonist activity",
+            "adrenal gland development",
+            "anatomical structure morphogenesis",
+            "negative regulation of aldosterone biosynthetic process",
+            "negative regulation of anti-Mullerian hormone signaling pathway",
+            "negative regulation of canonical Wnt signaling pathway",
+            "negative regulation of cortisol biosynthetic process",
+            "negative regulation of DNA-templated transcription",
+            "regulation of transforming growth factor beta receptor signaling pathway",
+            "Wnt signaling pathway"
+        ],
+        "Location": [
+            "secreted"
+        ],
+        "Disease": [],
+        "Disease_description": [],
+        "Complexes": [
+            "Interacts with LRP5 and LRP6"
+        ]
+    },
+    "DMAC2": {
+        "UniProtKB_ID": "DMAC2_HUMAN",
+        "Description": "Distal membrane-arm assembly complex protein 2",
+        "GO": [
+            "mitochondrion",
+            "SCF ubiquitin ligase complex",
+            "mitochondrial respiratory chain complex I assembly",
+            "SCF-dependent proteasomal ubiquitin-dependent protein catabolic process"
+        ],
+        "Location": [
+            "mitochondrion"
+        ],
+        "Disease": [],
+        "Disease_description": [],
+        "Complexes": [
+            "Interacts with incompletely assembled mitochondrial NADH:ubiquinone oxidoreductase complex (complex I)"
+        ]
+    },
+    "MCM3AP": {
+        "UniProtKB_ID": "GANP_HUMAN",
+        "Description": "Germinal-center associated nuclear protein",
+        "GO": [
+            "chromosome",
+            "cytoplasm",
+            "cytosol",
+            "nuclear membrane",
+            "nuclear pore nuclear basket",
+            "nucleoplasm",
+            "nucleus",
+            "transcription export complex 2",
+            "chromatin binding",
+            "histone acetyltransferase activity",
+            "histone binding",
+            "histone H3 acetyltransferase activity",
+            "nucleic acid binding",
+            "mRNA export from nucleus",
+            "nucleosome organization",
+            "poly(A)+ mRNA export from nucleus",
+            "protein transport",
+            "somatic hypermutation of immunoglobulin genes"
+        ],
+        "Location": [
+            "nucleus",
+            "nuclear pore complex",
+            "chromosome",
+            "nucleus envelope",
+            "cytoplasm",
+            "nucleoplasm"
+        ],
+        "Disease": [
+            "Peripheral neuropathy",
+            "Intellectual disability",
+            "Neuropathy"
+        ],
+        "Disease_description": [
+            "Peripheral neuropathy: An autosomal recessive disorder characterized by early childhood-onset of peripheral sensorimotor neuropathy, progressive distal muscle weakness, atrophy in hands and feet, and gait difficulties, often with loss of ambulation. Most affected individuals also have impaired intellectual development, although some have normal cognition. Additional features may include eye movement abnormalities, claw hands, foot deformities, and scoliosis."
+        ],
+        "Complexes": [
+            "Isoform GANP: Component of the nuclear pore complex (NPC)-associated TREX-2 complex (transcription and export complex 2), composed of at least GANP, 2 copies of ENY2, PCID2, SEM1/DSS1, and either centrin CETN2 or centrin CETN3. The TREX-2 complex also associates with ALYREF/ALY (PubMed:23591820, PubMed:22307388). Interacts with RNA polymerase II subunit POLR2A and with the transcription elongation factor SUPT5H/SPT5 (PubMed:23652018, PubMed:22307388). Interacts (via FG-repeats) with NXF1; this interaction is not mediated by RNA (PubMed:20005110). Isoform GANP interacts with nuclear envelope proteins NUP62, NUP153 and RANBP2/NUP358; interaction with NUP153 is required for full localization at the nuclear pore complex (PubMed:20005110, PubMed:23652018). Interacts with several RNA helicases, including DHX9, DDX21, and DDX39A/DDX39, and with DNA topoisomerase TOP2A (PubMed:23652018). Directly interacts with AICDA/AID (PubMed:20507984). Interacts with the glucocorticoid receptor NR3C1 (PubMed:16914116). Isoform MCM3AP: Interacts with the glucocorticoid receptor NR3C1 (PubMed:16914116). Interacts with MCM3; this interaction leads to MCM3 acetylation (PubMed:9712829, PubMed:11258703, PubMed:12226073)"
+        ]
+    },
+    "SLC25A25": {
+        "UniProtKB_ID": "SCMC2_HUMAN",
+        "Description": "Calcium-binding mitochondrial carrier protein SCaMC-2",
+        "GO": [
+            "mitochondrial inner membrane",
+            "calcium ion binding",
+            "adipose tissue development",
+            "ATP metabolic process",
+            "calcium ion transmembrane transport",
+            "camera-type eye development",
+            "cellular respiration",
+            "multicellular organism growth",
+            "response to activity",
+            "response to dietary excess",
+            "response to food"
+        ],
+        "Location": [
+            "membrane",
+            "mitochondrion inner membrane",
+            "mitochondrion"
+        ],
+        "Disease": [],
+        "Disease_description": [],
+        "Complexes": []
+    },
+    "TTC21B": {
+        "UniProtKB_ID": "TT21B_HUMAN",
+        "Description": "Tetratricopeptide repeat protein 21B",
+        "GO": [
+            "ciliary tip",
+            "cilium",
+            "cytoplasm",
+            "cytoskeleton",
+            "intraciliary transport particle A",
+            "chromatin binding",
+            "Bergmann glial cell differentiation",
+            "cerebellar Purkinje cell differentiation",
+            "cilium assembly",
+            "forebrain dorsal/ventral pattern formation",
+            "intraciliary retrograde transport",
+            "negative regulation of eating behavior",
+            "positive regulation of canonical Wnt signaling pathway",
+            "positive regulation of gene expression",
+            "protein localization to cilium",
+            "protein localization to non-motile cilium",
+            "regulation of intraciliary retrograde transport",
+            "regulation of smoothened signaling pathway",
+            "regulation of transcription by RNA polymerase II",
+            "smoothened signaling pathway",
+            "ventricular system development"
+        ],
+        "Location": [
+            "cilium axoneme",
+            "cytoplasm",
+            "cilium",
+            "cytoskeleton",
+            "cell projection"
+        ],
+        "Disease": [
+            "Nephronophthisis 12",
+            "Short-rib thoracic dysplasia 4 with or without polydactyly",
+            "Joubert syndrome 11",
+            "Ciliopathy",
+            "Disease variant",
+            "Intellectual disability",
+            "Joubert syndrome",
+            "Meckel syndrome",
+            "Nephronophthisis",
+            "Obesity"
+        ],
+        "Disease_description": [
+            "Nephronophthisis 12: An autosomal recessive disorder resulting in end-stage renal disease. It is a progressive tubulo-interstitial kidney disorder histologically characterized by modifications of the tubules with thickening of the basement membrane, interstitial fibrosis and, in the advanced stages, medullary cysts. Some patients manifest extra-renal features including retinal, skeletal and central nervous system defects.",
+            "Short-rib thoracic dysplasia 4 with or without polydactyly: A form of short-rib thoracic dysplasia, a group of autosomal recessive ciliopathies that are characterized by a constricted thoracic cage, short ribs, shortened tubular bones, and a 'trident' appearance of the acetabular roof. Polydactyly is variably present. Non-skeletal involvement can include cleft lip/palate as well as anomalies of major organs such as the brain, eye, heart, kidneys, liver, pancreas, intestines, and genitalia. Some forms of the disease are lethal in the neonatal period due to respiratory insufficiency secondary to a severely restricted thoracic cage, whereas others are compatible with life. Disease spectrum encompasses Ellis-van Creveld syndrome, asphyxiating thoracic dystrophy (Jeune syndrome), Mainzer-Saldino syndrome, and short rib-polydactyly syndrome.",
+            "Joubert syndrome 11: A disorder presenting with cerebellar ataxia, oculomotor apraxia, hypotonia, neonatal breathing abnormalities and psychomotor delay. Neuroradiologically, it is characterized by cerebellar vermian hypoplasia/aplasia, thickened and reoriented superior cerebellar peduncles, and an abnormally large interpeduncular fossa, giving the appearance of a molar tooth on transaxial slices (molar tooth sign). Additional variable features include retinal dystrophy and renal disease."
+        ],
+        "Complexes": [
+            "Component of the IFT complex A (IFT-A) complex (PubMed:20889716, PubMed:27932497). IFT-A complex is divided into a core subcomplex composed of IFT122:IFT140:WDR19 which is associated with TULP3 and a peripheral subcomplex composed of IFT43:WDR35:TTC21B (PubMed:27932497). Interacts directy with WDR35 and TTC21B (PubMed:27932497). Interacts with TTC25 (PubMed:25860617)"
+        ]
+    },
+    "TULP2": {
+        "UniProtKB_ID": "TULP2_HUMAN",
+        "Description": "Tubby-related protein 2",
+        "GO": [
+            "cilium",
+            "cytoplasm",
+            "extracellular region",
+            "protein-containing complex binding",
+            "protein localization to cilium",
+            "visual perception"
+        ],
+        "Location": [
+            "cytoplasm",
+            "secreted"
+        ],
+        "Disease": [],
+        "Disease_description": [],
+        "Complexes": []
+    },
+    "VWA8": {
+        "UniProtKB_ID": "VWA8_HUMAN",
+        "Description": "von Willebrand factor A domain-containing protein 8",
+        "GO": [
+            "cytoplasm",
+            "mitochondrion",
+            "peroxisome",
+            "ATP binding",
+            "ATP hydrolysis activity"
+        ],
+        "Location": [
+            "peroxisome",
+            "mitochondrion"
+        ],
+        "Disease": [],
+        "Disease_description": [],
+        "Complexes": [
+            "Monomer (PubMed:30204880). Isoform 1 and isoform 2 interact with PEX7 (PubMed:30204880). Isoform 2 interacts with isoform 1 of PEX5 in a PEX7-dependent manner (PubMed:30204880)"
+        ]
+    }
+}

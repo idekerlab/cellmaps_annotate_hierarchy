@@ -1,0 +1,36 @@
+Feature	Number of Genes	Genes
+protein binding	3	ATP6V1C1, ATP6V1D, ATP6V1E1
+proton-transporting ATPase activity, rotational mechanism	3	ATP6V1C1, ATP6V1D, ATP6V1E1
+ macroautophagy	3	ATP6V1C1, ATP6V1D, ATP6V1E1
+synaptic vesicle lumen acidification	3	ATP6V1C1, ATP6V1D, ATP6V1E1
+proton transmembrane transport	3	ATP6V1C1, ATP6V1D, ATP6V1E1
+vacuolar proton-transporting V-type ATPase, V1 domain	3	ATP6V1C1, ATP6V1D, ATP6V1E1
+lysosomal membrane	3	ATP6V1C1, ATP6V1D, ATP6V1E1
+cytosol	3	ATP6V1C1, ATP6V1D, ATP6V1E1
+clathrin-coated vesicle membrane	3	ATP6V1C1, ATP6V1D, ATP6V1E1
+extracellular exosome	3	ATP6V1C1, ATP6V1D, ATP6V1E1
+plasma membrane	2	ATP6V1C1, ATP6V1D
+proton-transporting two-sector ATPase complex	2	ATP6V1C1, ATP6V1E1
+extrinsic component of synaptic vesicle membrane	2	ATP6V1C1, ATP6V1D
+transmembrane transporter complex	2	ATP6V1C1, ATP6V1D
+hematopoietic progenitor cell differentiation	1	WDR7
+cytoplasm	1	WDR7
+apical part of cell	1	ATP6V1C1
+vacuolar acidification	1	ATP6V1D
+lysosomal lumen acidification	1	ATP6V1D
+endosomal lumen acidification	1	ATP6V1D
+intracellular pH reduction	1	ATP6V1D
+cilium assembly	1	ATP6V1D
+protein localization to cilium	1	ATP6V1D
+Golgi lumen acidification	1	ATP6V1D
+nucleoplasm	1	ATP6V1D
+centrosome	1	ATP6V1D
+cilium	1	ATP6V1D
+membrane	1	ATP6V1D
+proton-transporting V-type ATPase complex	1	ATP6V1D
+specific granule membrane	1	ATP6V1D
+ATPase binding	1	ATP6V1E1
+endosome	1	ATP6V1E1
+microvillus	1	ATP6V1E1
+apical plasma membrane	1	ATP6V1E1
+synaptic vesicle membrane	1	ATP6V1E1

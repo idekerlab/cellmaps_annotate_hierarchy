@@ -1,0 +1,59 @@
+Write a critical and concise analysis of this system, describing your reasoning as you go and providing references to scientific papers.         
+Format with Title, Summary, and References sections.        
+Avoid overly general statements of how the proteins are involved in various cellular processes
+        
+Avoid recapitulating the goals of the analysis. 
+What cellular components and complexes are involved in this system?
+What mechanisms and biological processes are performed by this system?
+Propose a name for the system to reflect the function and location, and should be specific but brief. Do not compose an acronym. Place it as the title of your report
+Provide complete paper references with pubmed link
+Proteins: GORASP2, OSBP, TRAF3IP2, RNPEP, FAM174A, USO1, CCDC25, AGFG1, RAB1B, RFK, CD99, OSBPL11, UBQLN1, PPP5C, TPK1, QNG1, GGA1, SNX5, NUCB2, CWF19L1, OSBPL9.
+
+A critical goal of the analysis is to determine if this is a novel complex or if any proteins are novel members of a known complex
+System features from GO terms: 
+protein binding: 20 proteins: GORASP2, OSBP, TRAF3IP2, FAM174A, USO1, CCDC25, AGFG1, RAB1B, RFK, CD99, OSBPL11, UBQLN1, PPP5C, TPK1, QNG1, GGA1, SNX5, NUCB2, CWF19L1, OSBPL9
+cytosol: 13 proteins: OSBP, USO1, AGFG1, RAB1B, RFK, OSBPL11, UBQLN1, PPP5C, TPK1, GGA1, SNX5, NUCB2, OSBPL9
+Golgi apparatus: 8 proteins: GORASP2, OSBP, USO1, RAB1B, OSBPL11, GGA1, NUCB2, OSBPL9
+membrane: 7 proteins: GORASP2, OSBP, FAM174A, USO1, OSBPL11, GGA1, OSBPL9
+intracellular membrane-bounded organelle: 7 proteins: OSBP, AGFG1, OSBPL11, PPP5C, GGA1, SNX5, OSBPL9
+plasma membrane: 6 proteins: RNPEP, CCDC25, CD99, UBQLN1, PPP5C, NUCB2
+nucleoplasm: 5 proteins: OSBP, OSBPL11, UBQLN1, PPP5C, GGA1
+cytoplasm: 5 proteins: OSBP, AGFG1, RFK, CD99, UBQLN1
+perinuclear region of cytoplasm: 5 proteins: OSBP, USO1, RAB1B, UBQLN1, SNX5
+Golgi membrane: 4 proteins: GORASP2, OSBP, USO1, RAB1B
+intracellular protein transport: 4 proteins: USO1, RAB1B, GGA1, SNX5
+endoplasmic reticulum membrane: 3 proteins: GORASP2, OSBP, RAB1B
+sterol transporter activity: 3 proteins: OSBP, OSBPL11, OSBPL9
+sterol binding: 3 proteins: OSBP, OSBPL11, OSBPL9
+sterol transport: 3 proteins: OSBP, OSBPL11, OSBPL9
+cellular_component: 3 proteins: TRAF3IP2, QNG1, CWF19L1
+cytoplasmic vesicle: 3 proteins: TRAF3IP2, AGFG1, UBQLN1
+extracellular exosome: 3 proteins: RNPEP, RAB1B, NUCB2
+RNA binding: 3 proteins: USO1, AGFG1, PPP5C
+endoplasmic reticulum: 3 proteins: USO1, UBQLN1, NUCB2
+DNA binding: 3 proteins: CCDC25, AGFG1, NUCB2
+metal ion binding: 3 proteins: AGFG1, RFK, PPP5C
+ATP binding: 3 proteins: RFK, PPP5C, TPK1
+identical protein binding: 3 proteins: UBQLN1, PPP5C, TPK1
+protein-containing complex: 3 proteins: UBQLN1, PPP5C, GGA1
+molecular_function: 3 proteins: QNG1, GGA1, CWF19L1
+Golgi organization: 2 proteins: GORASP2, RAB1B
+response to endoplasmic reticulum stress: 2 proteins: GORASP2, UBQLN1
+phosphatidylinositol-4-phosphate binding: 2 proteins: OSBP, SNX5
+bile acid biosynthetic process: 2 proteins: OSBP, OSBPL9
+trans-Golgi network: 2 proteins: OSBP, GGA1
+positive regulation of I-kappaB kinase/NF-kappaB signaling: 2 proteins: TRAF3IP2, PPP5C
+nucleus: 2 proteins: TRAF3IP2, PPP5C
+extracellular space: 2 proteins: RNPEP, NUCB2
+cadherin binding: 2 proteins: USO1, SNX5
+endoplasmic reticulum to Golgi vesicle-mediated transport: 2 proteins: USO1, RAB1B
+small GTPase mediated signal transduction: 2 proteins: USO1, NUCB2
+transport vesicle: 2 proteins: USO1, RAB1B
+endomembrane system: 2 proteins: CCDC25, RAB1B
+autophagosome assembly: 2 proteins: RAB1B, UBQLN1
+phosphorylation: 2 proteins: RFK, TPK1
+late endosome membrane: 2 proteins: OSBPL11, OSBPL9
+regulation of macroautophagy: 2 proteins: UBQLN1, SNX5
+biological_process: 2 proteins: QNG1, CWF19L1
+phosphatidylinositol binding: 2 proteins: GGA1, SNX5
+retrograde transport, endosome to Golgi: 2 proteins: GGA1, SNX5

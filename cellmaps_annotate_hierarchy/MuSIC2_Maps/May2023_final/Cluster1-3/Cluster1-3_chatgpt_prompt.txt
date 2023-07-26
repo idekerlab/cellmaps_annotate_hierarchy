@@ -1,0 +1,152 @@
+Your response should be formatted as Markdown paragraphs
+Write a critical and concise analysis of this human protein system, describing your reasoning as you go and providing references to scientific papers.
+
+A critical goal of the analysis is to determine if this is a novel complex or if any proteins are novel members of a known complex
+
+Format with Title, Summary, and References sections.        
+Avoid overly general statements of how the proteins are involved in various cellular processes        
+Avoid repeating the goals of the analysis.
+
+What cellular components and complexes are involved in this system?
+What mechanisms and biological processes are performed by this system?
+Propose a name for the system to reflect the cellular location and function, and should be specific but brief. Do not compose an acronym. Place it as the title of your report
+Human Proteins: OLFM4, PPL, CLIC3, AZGP1, RSRP1, EVPL, ECM1, NLRP10, IMPA2, ESRP1, TRIM29, LGALSL, TYMP, PYCARD, CTSH, ALOX12B, BLMH, NAPRT, DSC2, IL36G, DOCK6, PRKACG, HAL, DMKN, S100A16, CRYBG1, EPHX2, CTSV, PLA2G4D, APOA1, GLUL, TALDO1, SULT2B1, SCEL, TFAP2D, CRABP2, HSPB8, VHL, RAPSN, CES2, AP3S2, SERPINB7, FCGBP, CD207, ZG16B, RAB25, CPM, SPTBN2, TSN, ME1, HES1, CCDC107, ALDH1A3, GTF2A2, ANXA8L1, DEF8, HEY1, JPH3, YOD1.
+
+System features from GO terms: 
+protein binding: 42 proteins: OLFM4, PPL, CLIC3, AZGP1, RSRP1, ECM1, IMPA2, ESRP1, TRIM29, LGALSL, TYMP, PYCARD, CTSH, BLMH, NAPRT, DSC2, DOCK6, PRKACG, DMKN, S100A16, CTSV, APOA1, GLUL, TALDO1, SULT2B1, SCEL, TFAP2D, CRABP2, HSPB8, VHL, FCGBP, CD207, ZG16B, RAB25, TSN, ME1, HES1, CCDC107, GTF2A2, HEY1, JPH3, YOD1
+cytosol: 31 proteins: OLFM4, PPL, EVPL, NLRP10, IMPA2, TYMP, PYCARD, CTSH, ALOX12B, BLMH, NAPRT, IL36G, DOCK6, PRKACG, HAL, S100A16, EPHX2, PLA2G4D, APOA1, GLUL, TALDO1, SULT2B1, CRABP2, HSPB8, VHL, RAPSN, SPTBN2, TSN, ME1, ALDH1A3, YOD1
+extracellular exosome: 23 proteins: OLFM4, PPL, CLIC3, AZGP1, EVPL, ECM1, CTSH, BLMH, NAPRT, DSC2, S100A16, EPHX2, APOA1, GLUL, TALDO1, SULT2B1, SCEL, CRABP2, FCGBP, ZG16B, RAB25, CPM, ALDH1A3
+cytoplasm: 21 proteins: PPL, CLIC3, EVPL, NLRP10, IMPA2, PYCARD, BLMH, GLUL, TALDO1, SULT2B1, SCEL, CRABP2, HSPB8, SERPINB7, TSN, ME1, HES1, ALDH1A3, ANXA8L1, HEY1, YOD1
+nucleus: 19 proteins: CLIC3, AZGP1, RSRP1, ESRP1, PYCARD, BLMH, PRKACG, S100A16, GLUL, TALDO1, SULT2B1, TFAP2D, CRABP2, HSPB8, VHL, TSN, HES1, GTF2A2, HEY1
+extracellular space: 14 proteins: OLFM4, AZGP1, ECM1, CTSH, IL36G, DMKN, S100A16, CTSV, APOA1, SERPINB7, FCGBP, ZG16B, CPM, SPTBN2
+nucleoplasm: 13 proteins: OLFM4, NLRP10, ESRP1, PYCARD, IL36G, PRKACG, CRABP2, HSPB8, VHL, TSN, HES1, GTF2A2, HEY1
+plasma membrane: 13 proteins: OLFM4, PPL, DSC2, IL36G, S100A16, APOA1, GLUL, RAPSN, CD207, RAB25, CPM, SPTBN2, JPH3
+extracellular region: 10 proteins: OLFM4, AZGP1, ECM1, PYCARD, CTSH, NAPRT, IL36G, CTSV, APOA1, CPM
+protein homodimerization activity: 10 proteins: IMPA2, TYMP, PYCARD, S100A16, EPHX2, APOA1, HSPB8, HES1, ALDH1A3, GTF2A2
+identical protein binding: 8 proteins: TRIM29, PYCARD, BLMH, APOA1, GLUL, HSPB8, TSN, ME1
+signal transduction: 7 proteins: OLFM4, CLIC3, ECM1, IMPA2, TYMP, PYCARD, CRABP2
+membrane: 7 proteins: PPL, CLIC3, EVPL, PLA2G4D, VHL, CCDC107, JPH3
+endoplasmic reticulum: 7 proteins: PYCARD, DSC2, SULT2B1, CRABP2, VHL, CES2, TSN
+metal ion binding: 6 proteins: IMPA2, NAPRT, SCEL, RAPSN, DEF8, YOD1
+ gene expression: 6 proteins: CTSH, ALOX12B, IL36G, EPHX2, VHL, HES1
+intracellular membrane-bounded organelle: 6 proteins: CTSH, ALOX12B, SULT2B1, CES2, AP3S2, SPTBN2
+mitochondrion: 5 proteins: OLFM4, PYCARD, GLUL, VHL, ME1
+perinuclear region of cytoplasm: 5 proteins: OLFM4, ALOX12B, DOCK6, S100A16, SCEL
+ transcription by RNA polymerase II: 5 proteins: ECM1, TFAP2D, HES1, GTF2A2, HEY1
+cadherin binding: 4 proteins: OLFM4, PPL, EVPL, SPTBN2
+cell adhesion: 4 proteins: OLFM4, AZGP1, DSC2, HES1
+protein-containing complex: 4 proteins: OLFM4, PYCARD, GLUL, HES1
+cornified envelope: 4 proteins: PPL, EVPL, DSC2, SCEL
+collagen-containing extracellular matrix: 4 proteins: AZGP1, ECM1, CTSH, APOA1
+angiogenesis: 4 proteins: ECM1, TYMP, GLUL, HEY1
+innate immune response: 4 proteins: NLRP10, TRIM29, PYCARD, IL36G
+carbohydrate binding: 4 proteins: LGALSL, CRYBG1, CD207, ZG16B
+apoptotic process: 4 proteins: PYCARD, CTSH, CTSV, ALDH1A3
+ cell population proliferation: 4 proteins: CTSH, TFAP2D, RAB25, HES1
+calcium ion binding: 4 proteins: DSC2, S100A16, PLA2G4D, ANXA8L1
+structural molecule activity: 3 proteins: OLFM4, PPL, EVPL
+ apoptotic process: 3 proteins: OLFM4, PYCARD, ALDH1A3
+ phagocytosis: 3 proteins: OLFM4, PYCARD, APOA1
+desmosome: 3 proteins: PPL, EVPL, DSC2
+immune response: 3 proteins: AZGP1, CTSH, CTSV
+negative regulation of cell population proliferation: 3 proteins: AZGP1, SULT2B1, VHL
+epidermis development: 3 proteins: EVPL, SCEL, CRABP2
+inflammatory response: 3 proteins: ECM1, NLRP10, PYCARD
+ATP binding: 3 proteins: NLRP10, PRKACG, GLUL
+negative regulation of transcription by RNA polymerase II: 3 proteins: TRIM29, HES1, HEY1
+lysosome: 3 proteins: TRIM29, CTSH, CTSV
+cysteine-type endopeptidase activator activity involved in apoptotic process: 3 proteins: PYCARD, CTSH, CTSV
+enzyme binding: 3 proteins: PYCARD, APOA1, VHL
+secretory granule lumen: 3 proteins: PYCARD, CTSH, APOA1
+cysteine-type endopeptidase activity: 3 proteins: CTSH, BLMH, CTSV
+cysteine-type peptidase activity: 3 proteins: CTSH, BLMH, CTSV
+proteolysis: 3 proteins: CTSH, BLMH, VHL
+cytoplasmic vesicle: 3 proteins: DSC2, APOA1, RAB25
+molecular_function: 3 proteins: CRYBG1, ZG16B, JPH3
+magnesium ion binding: 3 proteins: EPHX2, GLUL, ME1
+DNA-binding transcription factor activity, RNA polymerase II-specific: 3 proteins: TFAP2D, HES1, HEY1
+chromatin: 3 proteins: TFAP2D, HES1, HEY1
+Golgi apparatus: 3 proteins: RAPSN, AP3S2, RAB25
+RNA polymerase II-specific DNA-binding transcription factor binding: 3 proteins: HES1, GTF2A2, HEY1
+ substrate adhesion-dependent cell spreading: 2 proteins: OLFM4, APOA1
+tertiary granule lumen: 2 proteins: OLFM4, CTSH
+structural constituent of cytoskeleton: 2 proteins: PPL, SPTBN2
+response to mechanical stimulus: 2 proteins: PPL, SCEL
+keratinization: 2 proteins: PPL, EVPL
+wound healing: 2 proteins: PPL, EVPL
+intermediate filament cytoskeleton organization: 2 proteins: PPL, EVPL
+intermediate filament: 2 proteins: PPL, EVPL
+nuclear body: 2 proteins: CLIC3, ESRP1
+retina homeostasis: 2 proteins: AZGP1, ZG16B
+external side of plasma membrane: 2 proteins: AZGP1, CD207
+keratinocyte differentiation: 2 proteins: EVPL, SCEL
+protease binding: 2 proteins: ECM1, PYCARD
+ angiogenesis: 2 proteins: ECM1, CTSH
+ T cell migration: 2 proteins: ECM1, PYCARD
+extracellular matrix: 2 proteins: ECM1, FCGBP
+GTPase activity: 2 proteins: NLRP10, RAB25
+adaptive immune response: 2 proteins: NLRP10, CTSH
+ interleukin-6 production: 2 proteins: NLRP10, PYCARD
+ interleukin-8 production: 2 proteins: NLRP10, PYCARD
+ inflammatory response: 2 proteins: NLRP10, PYCARD
+defense response to Gram-negative bacterium: 2 proteins: NLRP10, PYCARD
+mRNA binding: 2 proteins: ESRP1, TSN
+zinc ion binding: 2 proteins: TRIM29, CPM
+cell-cell adhesion: 2 proteins: TRIM29, DSC2
+adherens junction: 2 proteins: TRIM29, DSC2
+protein dimerization activity: 2 proteins: PYCARD, HEY1
+ GTPase activity: 2 proteins: PYCARD, DOCK6
+defense response to virus: 2 proteins: PYCARD, CD207
+cellular response to lipopolysaccharide: 2 proteins: PYCARD, IL36G
+cellular response to interleukin-1: 2 proteins: PYCARD, HES1
+cellular response to tumor necrosis factor: 2 proteins: PYCARD, HES1
+nucleolus: 2 proteins: PYCARD, S100A16
+azurophil granule lumen: 2 proteins: PYCARD, NAPRT
+neuronal cell body: 2 proteins: PYCARD, SPTBN2
+aminopeptidase activity: 2 proteins: CTSH, BLMH
+serine-type endopeptidase activity: 2 proteins: CTSH, CTSV
+thyroid hormone binding: 2 proteins: CTSH, ALDH1A3
+ epithelial cell migration: 2 proteins: CTSH, RAB25
+ peptidase activity: 2 proteins: CTSH, CTSV
+negative regulation of apoptotic process: 2 proteins: CTSH, VHL
+proteolysis involved in protein catabolic process: 2 proteins: CTSH, CTSV
+ERK1 and ERK2 cascade: 2 proteins: CTSH, APOA1
+ apoptotic signaling pathway: 2 proteins: CTSH, CTSV
+carboxypeptidase activity: 2 proteins: BLMH, CPM
+response to toxic substance: 2 proteins: BLMH, EPHX2
+cellular response to starvation: 2 proteins: DSC2, GLUL
+high-density lipoprotein particle assembly: 2 proteins: PRKACG, APOA1
+RNA binding: 2 proteins: S100A16, TSN
+cholesterol homeostasis: 2 proteins: EPHX2, APOA1
+ cholesterol metabolic process: 2 proteins: EPHX2, APOA1
+calcium-dependent phospholipid binding: 2 proteins: PLA2G4D, ANXA8L1
+phospholipid binding: 2 proteins: APOA1, SPTBN2
+cholesterol binding: 2 proteins: APOA1, SULT2B1
+cholesterol metabolic process: 2 proteins: APOA1, SULT2B1
+protein stabilization: 2 proteins: APOA1, VHL
+early endosome: 2 proteins: APOA1, AP3S2
+endoplasmic reticulum lumen: 2 proteins: APOA1, CES2
+endocytic vesicle: 2 proteins: APOA1, CD207
+manganese ion binding: 2 proteins: GLUL, ME1
+ epithelial cell proliferation: 2 proteins: GLUL, HES1
+carbohydrate metabolic process: 2 proteins: TALDO1, ME1
+transcription by RNA polymerase II: 2 proteins: TFAP2D, GTF2A2
+retinoic acid biosynthetic process: 2 proteins: CRABP2, ALDH1A3
+ DNA-templated transcription: 2 proteins: CRABP2, VHL
+negative regulation of gene expression: 2 proteins: VHL, HES1
+vesicle-mediated transport: 2 proteins: AP3S2, SPTBN2
+presynapse: 2 proteins: AP3S2, SPTBN2
+cell junction: 2 proteins: SPTBN2, GTF2A2
+DNA binding: 2 proteins: TSN, HES1
+sequence-specific DNA binding: 2 proteins: TSN, HES1
+protein homotetramerization: 2 proteins: ME1, ALDH1A3
+DNA-binding transcription repressor activity, RNA polymerase II-specific: 2 proteins: HES1, HEY1
+sequence-specific double-stranded DNA binding: 2 proteins: HES1, HEY1
+Notch signaling pathway: 2 proteins: HES1, HEY1
+anterior/posterior pattern specification: 2 proteins: HES1, HEY1
+negative regulation of neuron differentiation: 2 proteins: HES1, HEY1
+negative regulation of DNA-templated transcription: 2 proteins: HES1, HEY1
+ neurogenesis: 2 proteins: HES1, HEY1
+ventricular septum morphogenesis: 2 proteins: HES1, HEY1
+labyrinthine layer blood vessel development: 2 proteins: HES1, HEY1
+neuromuscular process controlling balance: 2 proteins: ALDH1A3, JPH3

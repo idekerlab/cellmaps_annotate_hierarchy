@@ -1,0 +1,333 @@
+Feature	Number of Genes	Genes
+protein binding	21	CKS2, CKS1B, BORA, CCNA2, CDC26, FZR1, CUEDC2, CDC27, ANAPC10, CDKN1C, PHF23, CDKN1A, CDK2, CCND1, CCNA1, L3MBTL1, CCNE1, CDK1, NUBP2, CDC20, CDKN3
+nucleoplasm	19	CKS1B, ANAPC1, ANAPC7, CCNA2, CDC26, FZR1, CUEDC2, CDC27, ANAPC10, PHF23, CDKN1A, ANAPC5, CDK2, CCND1, CCNA1, L3MBTL1, CCNE1, CDK1, CDC20
+cytosol	19	ANAPC1, ANAPC7, BORA, CCNA2, CDC26, FZR1, CUEDC2, CDC27, ANAPC10, CDKN1A, ANAPC5, CDK2, CCND1, CCNA1, CCNE1, CDK1, NUBP2, CDC20, CDKN3
+cell division	17	CKS2, CKS1B, ANAPC1, ANAPC7, BORA, CCNA2, CDC26, FZR1, CDC27, ANAPC10, ANAPC5, CDK2, CCND1, CCNA1, CCNE1, CDK1, CDC20
+nucleus	17	ANAPC7, BORA, CCNA2, FZR1, CDC27, CDKN1C, PHF23, CDKN1A, ANAPC5, CDK2, CCND1, CCNA1, L3MBTL1, CCNE1, CDK1, NUBP2, CDKN3
+ mitotic cell cycle	10	CKS2, CKS1B, ANAPC1, ANAPC7, CDC26, FZR1, CDC27, ANAPC10, ANAPC5, CDC20
+cytoplasm	10	BORA, CCNA2, CDC27, CDKN1C, PHF23, CDK2, CCND1, CCNA1, CCNE1, CDK1
+anaphase-promoting complex-dependent catabolic process	8	ANAPC1, ANAPC7, CDC26, FZR1, CDC27, ANAPC10, ANAPC5, CDC20
+ meiotic cell cycle	8	ANAPC1, ANAPC7, CDC26, FZR1, CDC27, ANAPC10, ANAPC5, CDC20
+anaphase-promoting complex	8	ANAPC1, ANAPC7, CDC26, FZR1, CDC27, ANAPC10, ANAPC5, CDC20
+protein kinase binding	7	CKS2, CKS1B, BORA, CCNA2, CDKN1A, CCND1, CCNE1
+cyclin-dependent protein kinase holoenzyme complex	7	CKS2, CKS1B, CCNA2, CDKN1A, CDK2, CCND1, CDK1
+protein K11-linked ubiquitination	7	ANAPC1, ANAPC7, CDC26, FZR1, CDC27, ANAPC10, ANAPC5
+cell cycle	6	ANAPC7, BORA, CDC26, ANAPC10, CDKN1C, ANAPC5
+ cyclin-dependent protein serine/threonine kinase activity	6	CCNA2, CDKN1A, CCND1, CCNA1, CCNE1, CDKN3
+mitotic cell cycle phase transition	5	CKS2, CKS1B, CCNA2, CCND1, CCNA1
+centrosome	5	CDC27, CDK2, CCNE1, CDK1, CDC20
+G1/S transition of mitotic cell cycle	5	CDKN1A, CDK2, CCND1, CCNE1, CDKN3
+ DNA-templated transcription	4	CKS1B, CCNA2, CDKN1C, CDK2
+ mitotic metaphase/anaphase transition	4	ANAPC7, CDC26, ANAPC5, CDC20
+spindle	4	ANAPC7, CDC27, ANAPC5, CDC20
+cyclin-dependent protein serine/threonine kinase regulator activity	4	CCNA2, CCND1, CCNA1, CCNE1
+negative regulation of transcription by RNA polymerase II	4	CDKN1C, CDK2, CCND1, CCNE1
+ G2/M transition of mitotic cell cycle	4	CDKN1A, CDK2, CCND1, CDK1
+protein phosphorylation	4	CDK2, CCND1, CCNE1, CDK1
+chromatin binding	3	CKS2, L3MBTL1, CDK1
+histone binding	3	CKS2, CKS1B, L3MBTL1
+ubiquitin binding	3	CKS2, CKS1B, CUEDC2
+cyclin-dependent protein serine/threonine kinase activator activity	3	CKS2, CKS1B, CCND1
+fibroblast proliferation	3	CKS2, CKS1B, CDK1
+protein phosphatase binding	3	ANAPC7, CDC27, ANAPC5
+G2/M transition of mitotic cell cycle	3	CCNA2, CDK2, CDK1
+Ras protein signal transduction	3	CCNA2, CDKN1A, CDK2
+cyclin A2-CDK2 complex	3	CCNA2, CDK2, CCNA1
+DNA repair	3	FZR1, CDK2, CDK1
+mitotic G2 DNA damage checkpoint signaling	3	FZR1, CDKN1A, CDK1
+ cell population proliferation	3	FZR1, CDK2, CDC20
+ anaphase-promoting complex-dependent catabolic process	3	FZR1, CDK2, CDC20
+nuclear membrane	3	FZR1, CUEDC2, CCND1
+protein-containing complex binding	3	CDKN1C, CDKN1A, CCND1
+metal ion binding	3	PHF23, CDKN1A, NUBP2
+cyclin binding	3	CDKN1A, CDK2, CDK1
+ cell cycle	3	CDKN1A, L3MBTL1, CDKN3
+ATP binding	3	CDK2, CDK1, NUBP2
+ transcription by RNA polymerase II	2	CKS2, CDK1
+SCF ubiquitin ligase complex	2	CKS2, CKS1B
+metaphase/anaphase transition of mitotic cell cycle	2	ANAPC1, CDC27
+protein ubiquitination	2	ANAPC7, CDC20
+microtubule cytoskeleton	2	ANAPC7, CCNA1
+ mitotic nuclear division	2	BORA, L3MBTL1
+ protein localization	2	BORA, CCNE1
+protein domain specific binding	2	CCNA2, CDK2
+ DNA replication	2	CCNA2, CDK1
+DNA-templated transcription	2	CCNA2, CDK2
+animal organ regeneration	2	CCNA2, CDK1
+post-translational protein modification	2	CCNA2, CDK2
+ fibroblast proliferation	2	CCNA2, CDKN1A
+cellular response to nitric oxide	2	CCNA2, CDK2
+anaphase-promoting complex binding	2	FZR1, CDC20
+kinase inhibitor activity	2	FZR1, CDK1
+ubiquitin ligase activator activity	2	FZR1, CDC20
+ meiotic nuclear division	2	FZR1, CDC20
+ ubiquitin protein ligase activity	2	FZR1, CDC20
+mitotic spindle	2	CDC27, CDK1
+protein kinase inhibitor activity	2	CDKN1C, CDKN1A
+cyclin-dependent protein serine/threonine kinase inhibitor activity	2	CDKN1C, CDKN1A
+molecular function inhibitor activity	2	CDKN1C, CDKN1A
+negative regulation of phosphorylation	2	CDKN1C, CDKN1A
+negative regulation of DNA-templated transcription	2	CDKN1C, L3MBTL1
+negative regulation of cyclin-dependent protein kinase activity	2	CDKN1C, CDKN1A
+ protein phosphorylation	2	CDKN1A, CCND1
+DNA damage response	2	CDKN1A, CCND1
+negative regulation of cell population proliferation	2	CDKN1A, CDKN3
+negative regulation of gene expression	2	CDKN1A, CDK1
+cellular senescence	2	CDKN1A, CDK2
+nucleolus	2	CDKN1A, L3MBTL1
+protein serine/threonine kinase activity	2	CDK2, CDK1
+cyclin-dependent protein serine/threonine kinase activity	2	CDK2, CDK1
+histone kinase activity	2	CDK2, CDK1
+cyclin-dependent protein kinase activity	2	CDK2, CDK1
+protein serine kinase activity	2	CDK2, CDK1
+DNA replication	2	CDK2, CDK1
+chromatin remodeling	2	CDK2, CDK1
+ gene expression	2	CDK2, CDK1
+peptidyl-serine phosphorylation	2	CDK2, CDK1
+mitotic G1 DNA damage checkpoint signaling	2	CDK2, CCND1
+chromosome, telomeric region	2	CDK2, CDK1
+condensed chromosome	2	CDK2, L3MBTL1
+cyclin A1-CDK2 complex	2	CDK2, CCNA1
+cyclin E1-CDK2 complex	2	CDK2, CCNE1
+protein kinase activity	2	CCND1, CDK1
+histone deacetylase binding	2	CCND1, CDC20
+response to xenobiotic stimulus	2	CCND1, CDK1
+Wnt signaling pathway	2	CCND1, CCNE1
+response to ethanol	2	CCND1, CDK1
+kinase activity	2	CCNE1, CDK1
+enzyme activator activity	2	CDK1, CTSA
+membrane	2	CDK1, CTSA
+extracellular exosome	2	CDK1, CTSA
+perinuclear region of cytoplasm	2	CDC20, CDKN3
+meiosis I	1	CKS2
+molecular adaptor activity	1	ANAPC1
+enzyme-substrate adaptor activity	1	ANAPC7
+brain development	1	ANAPC7
+heterochromatin	1	ANAPC7
+activation of protein kinase activity	1	BORA
+ mitotic spindle organization	1	BORA
+meiotic spindle	1	BORA
+response to glucagon	1	CCNA2
+cellular response to platelet-derived growth factor stimulus	1	CCNA2
+cellular response to leptin stimulus	1	CCNA2
+cell cycle G1/S phase transition	1	CCNA2
+cellular response to cocaine	1	CCNA2
+cellular response to luteinizing hormone stimulus	1	CCNA2
+cellular response to estradiol stimulus	1	CCNA2
+cellular response to hypoxia	1	CCNA2
+cochlea development	1	CCNA2
+cellular response to insulin-like growth factor stimulus	1	CCNA2
+female pronucleus	1	CCNA2
+male pronucleus	1	CCNA2
+ubiquitin ligase-substrate adaptor activity	1	FZR1
+lens fiber cell differentiation	1	FZR1
+negative regulation of cellular senescence	1	FZR1
+negative regulation of macrophage cytokine production	1	CUEDC2
+negative regulation of cytokine production involved in inflammatory response	1	CUEDC2
+skeletal system development	1	CDKN1C
+kidney development	1	CDKN1C
+ exit from mitosis	1	CDKN1C
+myeloid cell differentiation	1	CDKN1C
+adrenal gland development	1	CDKN1C
+ transforming growth factor beta receptor signaling pathway	1	CDKN1C
+negative regulation of kinase activity	1	CDKN1C
+multicellular organism growth	1	CDKN1C
+neuron maturation	1	CDKN1C
+camera-type eye development	1	CDKN1C
+negative regulation of mitotic cell cycle	1	CDKN1C
+negative regulation of epithelial cell proliferation	1	CDKN1C
+digestive system development	1	CDKN1C
+uterus development	1	CDKN1C
+embryonic placenta morphogenesis	1	CDKN1C
+genomic imprinting	1	CDKN1C
+ lens fiber cell differentiation	1	CDKN1C
+autophagy	1	PHF23
+ protein ubiquitination	1	PHF23
+negative regulation of autophagosome maturation	1	PHF23
+negative regulation of autophagosome assembly	1	PHF23
+cyclin-dependent protein kinase activating kinase activity	1	CDKN1A
+ubiquitin protein ligase binding	1	CDKN1A
+protein sequestering activity	1	CDKN1A
+molecular function activator activity	1	CDKN1A
+negative regulation of protein phosphorylation	1	CDKN1A
+protein import into nucleus	1	CDKN1A
+DNA damage response, signal transduction by p53 class mediator resulting in cell cycle arrest	1	CDKN1A
+DNA damage response, signal transduction by p53 class mediator resulting in transcription of p21 class mediator	1	CDKN1A
+heart development	1	CDKN1A
+keratinocyte differentiation	1	CDKN1A
+negative regulation of cell growth	1	CDKN1A
+ B cell proliferation	1	CDKN1A
+cellular response to extracellular stimulus	1	CDKN1A
+negative regulation of protein binding	1	CDKN1A
+cellular response to amino acid starvation	1	CDKN1A
+wound healing	1	CDKN1A
+tissue regeneration	1	CDKN1A
+intrinsic apoptotic signaling pathway in response to DNA damage by p53 class mediator	1	CDKN1A
+ programmed cell death	1	CDKN1A
+keratinocyte proliferation	1	CDKN1A
+negative regulation of cyclin-dependent protein serine/threonine kinase activity	1	CDKN1A
+ protein kinase activity	1	CDKN1A
+cellular response to ionizing radiation	1	CDKN1A
+cellular response to gamma radiation	1	CDKN1A
+cellular response to UV-B	1	CDKN1A
+replicative senescence	1	CDKN1A
+stress-induced premature senescence	1	CDKN1A
+oncogene-induced cell senescence	1	CDKN1A
+intrinsic apoptotic signaling pathway	1	CDKN1A
+ cell cycle G1/S phase transition	1	CDKN1A
+negative regulation of vascular associated smooth muscle cell proliferation	1	CDKN1A
+negative regulation of cardiac muscle tissue regeneration	1	CDKN1A
+ G1/S transition of mitotic cell cycle	1	CDKN1A
+negative regulation of G1/S transition of mitotic cell cycle	1	CDKN1A
+negative regulation of DNA biosynthetic process	1	CDKN1A
+ reactive oxygen species metabolic process	1	CDKN1A
+nuclear body	1	CDKN1A
+protein-containing complex	1	CDKN1A
+PCNA-p21 complex	1	CDKN1A
+magnesium ion binding	1	CDK2
+potassium ion transport	1	CDK2
+centriole replication	1	CDK2
+signal transduction	1	CDK2
+response to organic substance	1	CDK2
+ heterochromatin formation	1	CDK2
+ DNA-templated DNA replication initiation	1	CDK2
+centrosome duplication	1	CDK2
+meiotic cell cycle	1	CDK2
+X chromosome	1	CDK2
+Y chromosome	1	CDK2
+male germ cell nucleus	1	CDK2
+nuclear envelope	1	CDK2
+transcription regulator complex	1	CDK2
+endosome	1	CDK2
+Cajal body	1	CDK2
+cyclin E2-CDK2 complex	1	CDK2
+transcription corepressor activity	1	CCND1
+enzyme binding	1	CCND1
+proline-rich region binding	1	CCND1
+re-entry into mitotic cell cycle	1	CCND1
+lactation	1	CCND1
+response to iron ion	1	CCND1
+response to X-ray	1	CCND1
+response to organonitrogen compound	1	CCND1
+neuron differentiation	1	CCND1
+negative regulation of epithelial cell differentiation	1	CCND1
+endoplasmic reticulum unfolded protein response	1	CCND1
+response to magnesium ion	1	CCND1
+response to estradiol	1	CCND1
+response to vitamin E	1	CCND1
+Leydig cell differentiation	1	CCND1
+mammary gland epithelial cell proliferation	1	CCND1
+ mammary gland epithelial cell proliferation	1	CCND1
+negative regulation of neuron apoptotic process	1	CCND1
+response to estrogen	1	CCND1
+response to leptin	1	CCND1
+fat cell differentiation	1	CCND1
+response to corticosterone	1	CCND1
+response to calcium ion	1	CCND1
+mammary gland alveolus development	1	CCND1
+response to UV-A	1	CCND1
+liver regeneration	1	CCND1
+bicellular tight junction	1	CCND1
+transcription repressor complex	1	CCND1
+cyclin D1-CDK4 complex	1	CCND1
+male meiosis I	1	CCNA1
+spermatogenesis	1	CCNA1
+zinc ion binding	1	L3MBTL1
+nucleosome binding	1	L3MBTL1
+SAM domain binding	1	L3MBTL1
+methylated histone binding	1	L3MBTL1
+identical protein binding	1	L3MBTL1
+chromatin organization	1	L3MBTL1
+hemopoiesis	1	L3MBTL1
+heterochromatin formation	1	L3MBTL1
+ megakaryocyte differentiation	1	L3MBTL1
+chromatin	1	L3MBTL1
+chromatin lock complex	1	L3MBTL1
+telomere maintenance	1	CCNE1
+DNA replication initiation	1	CCNE1
+homologous chromosome pairing at meiosis	1	CCNE1
+ mesenchymal stem cell proliferation	1	CCNE1
+virus receptor activity	1	CDK1
+ATPase activator activity	1	CDK1
+RNA polymerase II CTD heptapeptide repeat kinase activity	1	CDK1
+acetyltransferase activator activity	1	CDK1
+Hsp70 protein binding	1	CDK1
+microtubule cytoskeleton organization	1	CDK1
+apoptotic process	1	CDK1
+centrosome cycle	1	CDK1
+pronuclear fusion	1	CDK1
+response to toxic substance	1	CDK1
+ Schwann cell differentiation	1	CDK1
+response to amine	1	CDK1
+response to activity	1	CDK1
+cell migration	1	CDK1
+protein deubiquitination	1	CDK1
+peptidyl-threonine phosphorylation	1	CDK1
+chromosome condensation	1	CDK1
+epithelial cell differentiation	1	CDK1
+protein localization to kinetochore	1	CDK1
+ protein import into nucleus	1	CDK1
+ circadian rhythm	1	CDK1
+negative regulation of apoptotic process	1	CDK1
+ embryonic development	1	CDK1
+response to cadmium ion	1	CDK1
+response to copper ion	1	CDK1
+viral entry into host cell	1	CDK1
+rhythmic process	1	CDK1
+response to axon injury	1	CDK1
+ventricular cardiac muscle cell development	1	CDK1
+ cardiac muscle cell proliferation	1	CDK1
+ mitotic sister chromatid segregation	1	CDK1
+protein-containing complex assembly	1	CDK1
+cellular response to hydrogen peroxide	1	CDK1
+ERK1 and ERK2 cascade	1	CDK1
+cellular response to organic cyclic compound	1	CDK1
+Golgi disassembly	1	CDK1
+ protein localization to nucleus	1	CDK1
+microtubule cytoskeleton organization involved in mitosis	1	CDK1
+ mitochondrial ATP synthesis coupled electron transport	1	CDK1
+mitochondrion	1	CDK1
+mitochondrial matrix	1	CDK1
+endoplasmic reticulum membrane	1	CDK1
+spindle microtubule	1	CDK1
+midbody	1	CDK1
+cyclin B1-CDK1 complex	1	CDK1
+nucleotide binding	1	NUBP2
+iron-sulfur cluster binding	1	NUBP2
+4 iron, 4 sulfur cluster binding	1	NUBP2
+ATP-dependent FeS chaperone activity	1	NUBP2
+iron-sulfur cluster assembly	1	NUBP2
+cell projection organization	1	NUBP2
+centriole	1	NUBP2
+cilium	1	NUBP2
+spindle pole centrosome	1	NUBP2
+mitotic sister chromatid cohesion	1	CDC20
+mitotic spindle assembly checkpoint signaling	1	CDC20
+nervous system development	1	CDC20
+cell differentiation	1	CDC20
+ synaptic plasticity	1	CDC20
+ dendrite development	1	CDC20
+negative regulation of ubiquitin-protein transferase activity	1	CDC20
+ synapse maturation	1	CDC20
+mitotic spindle assembly	1	CDC20
+spindle pole	1	CDC20
+mitotic checkpoint complex	1	CDC20
+protein serine/threonine phosphatase activity	1	CDKN3
+protein tyrosine phosphatase activity	1	CDKN3
+protein tyrosine/serine/threonine phosphatase activity	1	CDKN3
+myosin phosphatase activity	1	CDKN3
+protein dephosphorylation	1	CDKN3
+carboxypeptidase activity	1	CTSA
+serine-type carboxypeptidase activity	1	CTSA
+proteolysis	1	CTSA
+intracellular protein transport	1	CTSA
+ protein stability	1	CTSA
+ chaperone-mediated autophagy	1	CTSA
+negative regulation of chaperone-mediated autophagy	1	CTSA
+extracellular region	1	CTSA
+lysosome	1	CTSA
+endoplasmic reticulum	1	CTSA
+azurophil granule lumen	1	CTSA
+lysosomal lumen	1	CTSA
+intracellular membrane-bounded organelle	1	CTSA
+lumenal side of lysosomal membrane	1	CTSA

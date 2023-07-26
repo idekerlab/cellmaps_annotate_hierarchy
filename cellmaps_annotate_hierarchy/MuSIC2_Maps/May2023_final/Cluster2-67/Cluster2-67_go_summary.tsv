@@ -1,0 +1,86 @@
+Feature	Number of Genes	Genes
+cytosol	3	ANLN, CYLD, MVB12A
+midbody	2	ANLN, CYLD
+protein binding	2	CYLD, MVB12A
+centrosome	2	CYLD, MVB12A
+nucleus	2	MVB12A, RTKN2
+actin binding	1	ANLN
+cadherin binding	1	ANLN
+mitotic cytokinesis	1	ANLN
+actomyosin contractile ring assembly	1	ANLN
+septin ring assembly	1	ANLN
+hematopoietic progenitor cell differentiation	1	ANLN
+ exit from mitosis	1	ANLN
+septin ring organization	1	ANLN
+podocyte cell migration	1	ANLN
+ bleb assembly	1	ANLN
+nucleoplasm	1	ANLN
+actomyosin contractile ring	1	ANLN
+cell cortex	1	ANLN
+actin cytoskeleton	1	ANLN
+bleb	1	ANLN
+cysteine-type deubiquitinase activity	1	CYLD
+zinc ion binding	1	CYLD
+protein kinase binding	1	CYLD
+K63-linked deubiquitinase activity	1	CYLD
+Met1-linked polyubiquitin deubiquitinase activity	1	CYLD
+proline-rich region binding	1	CYLD
+ubiquitin-dependent protein catabolic process	1	CYLD
+cell cycle	1	CYLD
+ mitotic cell cycle	1	CYLD
+ tumor necrosis factor-mediated signaling pathway	1	CYLD
+Wnt signaling pathway	1	CYLD
+protein deubiquitination	1	CYLD
+negative regulation of NF-kappaB transcription factor activity	1	CYLD
+negative regulation of type I interferon production	1	CYLD
+innate immune response	1	CYLD
+negative regulation of JNK cascade	1	CYLD
+ inflammatory response	1	CYLD
+negative regulation of inflammatory response	1	CYLD
+ necroptotic process	1	CYLD
+necroptotic process	1	CYLD
+nucleotide-binding oligomerization domain containing signaling pathway	1	CYLD
+ microtubule cytoskeleton organization	1	CYLD
+protein K63-linked deubiquitination	1	CYLD
+negative regulation of canonical Wnt signaling pathway	1	CYLD
+negative regulation of NIK/NF-kappaB signaling	1	CYLD
+ cilium assembly	1	CYLD
+negative regulation of p38MAPK cascade	1	CYLD
+protein linear deubiquitination	1	CYLD
+negative regulation of interleukin-18-mediated signaling pathway	1	CYLD
+ extrinsic apoptotic signaling pathway	1	CYLD
+ intrinsic apoptotic signaling pathway	1	CYLD
+spindle	1	CYLD
+cytoplasmic microtubule	1	CYLD
+cytoplasmic side of plasma membrane	1	CYLD
+ciliary basal body	1	CYLD
+perinuclear region of cytoplasm	1	CYLD
+ciliary tip	1	CYLD
+lipid binding	1	MVB12A
+SH3 domain binding	1	MVB12A
+ubiquitin binding	1	MVB12A
+macroautophagy	1	MVB12A
+virus maturation	1	MVB12A
+endosome to lysosome transport via multivesicular body sorting pathway	1	MVB12A
+receptor catabolic process	1	MVB12A
+multivesicular body assembly	1	MVB12A
+viral budding via host ESCRT complex	1	MVB12A
+ epidermal growth factor receptor signaling pathway	1	MVB12A
+ubiquitin-dependent protein catabolic process via the multivesicular body sorting pathway	1	MVB12A
+protein transport to vacuole involved in ubiquitin-dependent protein catabolic process via the multivesicular body sorting pathway	1	MVB12A
+viral budding	1	MVB12A
+membrane fission	1	MVB12A
+ESCRT I complex	1	MVB12A
+endosome membrane	1	MVB12A
+late endosome membrane	1	MVB12A
+vesicle	1	MVB12A
+intracellular membrane-bounded organelle	1	MVB12A
+extracellular exosome	1	MVB12A
+signal transduction	1	RTKN2
+ cell population proliferation	1	RTKN2
+hemopoiesis	1	RTKN2
+ NF-kappaB transcription factor activity	1	RTKN2
+ NIK/NF-kappaB signaling	1	RTKN2
+negative regulation of intrinsic apoptotic signaling pathway	1	RTKN2
+cytoplasm	1	RTKN2
+plasma membrane	1	RTKN2

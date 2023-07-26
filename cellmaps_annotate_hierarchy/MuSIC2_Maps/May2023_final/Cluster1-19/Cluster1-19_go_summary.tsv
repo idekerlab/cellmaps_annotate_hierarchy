@@ -1,0 +1,68 @@
+Feature	Number of Genes	Genes
+protein binding	6	SLU7, IVD, AHCYL2, CEP72, CLASRP, PPIL3
+nucleoplasm	4	SLU7, IVD, CLASRP, PPIL3
+cytosol	4	SLU7, SIRT5, AHCYL2, CEP72
+zinc ion binding	2	SLU7, SIRT5
+mRNA splicing, via spliceosome	2	SLU7, PPIL3
+RNA splicing	2	SLU7, CLASRP
+nucleus	2	SLU7, SIRT5
+catalytic step 2 spliceosome	2	SLU7, PPIL3
+mitochondrion	2	IVD, SIRT5
+mitochondrial matrix	2	IVD, SIRT5
+second spliceosomal transesterification activity	1	SLU7
+pre-mRNA 3'-splice site binding	1	SLU7
+RNA splicing, via transesterification reactions	1	SLU7
+alternative mRNA splicing, via spliceosome	1	SLU7
+mRNA 3'-splice site recognition	1	SLU7
+intracellular protein transport	1	SLU7
+cellular response to heat	1	SLU7
+spliceosomal complex	1	SLU7
+cytoplasm	1	SLU7
+membrane	1	SLU7
+nuclear speck	1	SLU7
+small nuclear ribonucleoprotein complex	1	SLU7
+intracellular membrane-bounded organelle	1	SLU7
+butyryl-CoA dehydrogenase activity	1	IVD
+isovaleryl-CoA dehydrogenase activity	1	IVD
+identical protein binding	1	IVD
+flavin adenine dinucleotide binding	1	IVD
+leucine catabolic process	1	IVD
+branched-chain amino acid catabolic process	1	IVD
+fatty acid beta-oxidation using acyl-CoA dehydrogenase	1	IVD
+NAD+ ADP-ribosyltransferase activity	1	SIRT5
+NAD-dependent protein deacetylase activity	1	SIRT5
+protein-malonyllysine demalonylase activity	1	SIRT5
+protein-succinyllysine desuccinylase activity	1	SIRT5
+protein-glutaryllysine deglutarylase activity	1	SIRT5
+NAD+ binding	1	SIRT5
+NAD+-protein ADP-ribosyltransferase activity	1	SIRT5
+protein deacetylation	1	SIRT5
+mitochondrion organization	1	SIRT5
+ ketone biosynthetic process	1	SIRT5
+negative regulation of cardiac muscle cell apoptotic process	1	SIRT5
+response to nutrient levels	1	SIRT5
+protein demalonylation	1	SIRT5
+peptidyl-lysine demalonylation	1	SIRT5
+protein desuccinylation	1	SIRT5
+peptidyl-lysine desuccinylation	1	SIRT5
+protein deglutarylation	1	SIRT5
+negative regulation of reactive oxygen species metabolic process	1	SIRT5
+mitochondrial intermembrane space	1	SIRT5
+adenosylhomocysteinase activity	1	AHCYL2
+one-carbon metabolic process	1	AHCYL2
+S-adenosylmethionine cycle	1	AHCYL2
+endoplasmic reticulum	1	AHCYL2
+neuron projection	1	AHCYL2
+molecular_function	1	C11orf58
+biological_process	1	C11orf58
+cellular_component	1	C11orf58
+spindle organization	1	CEP72
+centriole replication	1	CEP72
+gamma-tubulin complex localization	1	CEP72
+ protein localization to centrosome	1	CEP72
+centrosome	1	CEP72
+centriolar satellite	1	CEP72
+mRNA processing	1	CLASRP
+peptidyl-prolyl cis-trans isomerase activity	1	PPIL3
+protein peptidyl-prolyl isomerization	1	PPIL3
+protein folding	1	PPIL3

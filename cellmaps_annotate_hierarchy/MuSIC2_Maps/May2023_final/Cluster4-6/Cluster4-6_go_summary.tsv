@@ -1,0 +1,261 @@
+Feature	Number of Genes	Genes
+protein binding	22	ZNF672, FUS, ZNF35, PRPF39, SLFN11, DUS3L, ADAM32, CABCOCO1, CGRRF1, CHID1, CRP, FBXO2, GGT7, LOXL2, NAALAD2, NXPE3, OLFM2, PVR, RBM12B, SDK2, TRNAU1AP, ZNF627
+nucleoplasm	12	ZNF672, FUS, ZNF354C, MAN2C1, SLFN11, CGRRF1, LOXL2, MAN2B1, OLFM2, PLXNA1, POGLUT2, RBM12B
+metal ion binding	11	ZNF672, FUS, ZNF354C, ZNF35, MAN2C1, DUS3L, CGRRF1, ECEL1, MAN2B1, NAALAD2, ZNF627
+plasma membrane	11	ADAM32, CPD, ECEL1, GGT7, IL31RA, NAALAD2, PLXNA1, PVR, SDK2, TENM3, TPBG
+membrane	10	CHID1, CHPF2, CPD, FBXO2, IGSF3, IL31RA, LOXL2, NAALAD2, PVR, TENM3
+nucleus	9	ZNF672, FUS, ZNF35, SLFN11, CHID1, LOXL2, OLFM2, TRNAU1AP, ZNF627
+extracellular space	8	CHID1, CPD, CRP, LOXL2, MAN2B1, OLFM2, OLFML2A, PVR
+cytoplasm	6	FUS, CABCOCO1, FBXO2, OLFM2, PVR, TRNAU1AP
+cytosol	5	MAN2C1, SLFN11, FBXO2, PLXNA1, POGLUT2
+extracellular region	5	CHID1, CRP, MAN2B1, NXPE3, OLFM2
+RNA binding	4	FUS, DUS3L, RBM12B, TRNAU1AP
+ DNA-templated transcription	4	FUS, ZNF354C, ZNF35, IL31RA
+endoplasmic reticulum	4	CGRRF1, FBXO2, LOXL2, TPBG
+extracellular exosome	4	CHID1, CPD, MAN2B1, PLXNA1
+ transcription by RNA polymerase II	3	ZNF672, FUS, ZNF627
+identical protein binding	3	FUS, CRP, OLFML2A
+carbohydrate binding	3	MAN2C1, FBXO2, MAN2B1
+proteolysis	3	ADAM32, FBXO2, NAALAD2
+cell adhesion	3	ADAM32, LOXL2, TPBG
+calcium ion binding	3	CABCOCO1, CRP, LOXL2
+endomembrane system	3	CHID1, POGLUT2, POGLUT3
+protein modification process	3	FBXO2, LOXL2, MAN2B1
+cell surface	3	IGSF3, PVR, TPBG
+signal transduction	3	OLFM2, OLFML2A, TENM3
+homophilic cell adhesion via plasma membrane adhesion molecules	3	PVR, SDK2, TENM3
+DNA-binding transcription factor activity, RNA polymerase II-specific	2	ZNF672, ZNF627
+sequence-specific DNA binding	2	ZNF672, ZNF35
+DNA binding	2	FUS, ZNF35
+transcription coactivator activity	2	FUS, IL31RA
+ RNA splicing	2	FUS, RBM12B
+alpha-mannosidase activity	2	MAN2C1, MAN2B1
+mannose metabolic process	2	MAN2C1, MAN2B1
+oligosaccharide catabolic process	2	MAN2C1, MAN2B1
+tRNA binding	2	SLFN11, TRNAU1AP
+metalloendopeptidase activity	2	ADAM32, ECEL1
+negative regulation of cell population proliferation	2	CGRRF1, TPBG
+intracellular membrane-bounded organelle	2	CGRRF1, MAN2B1
+oligosaccharide binding	2	CHID1, LOXL2
+innate immune response	2	CHID1, CRP
+lysosome	2	CHID1, MAN2B1
+lysosomal lumen	2	CHID1, MAN2B1
+metallocarboxypeptidase activity	2	CPD, NAALAD2
+protein processing	2	CPD, ECEL1
+axon	2	IL31RA, TENM3
+synapse	2	OLFM2, SDK2
+UDP-glucosyltransferase activity	2	POGLUT2, POGLUT3
+UDP-xylosyltransferase activity	2	POGLUT2, POGLUT3
+glucosyltransferase activity	2	POGLUT2, POGLUT3
+EGF-domain serine glucosyltransferase activity	2	POGLUT2, POGLUT3
+EGF-domain serine xylosyltransferase activity	2	POGLUT2, POGLUT3
+protein O-linked glycosylation via serine	2	POGLUT2, POGLUT3
+endoplasmic reticulum lumen	2	POGLUT2, POGLUT3
+cell adhesion molecule binding	2	PVR, TENM3
+heterophilic cell-cell adhesion via plasma membrane cell adhesion molecules	2	PVR, TENM3
+chromatin binding	1	FUS
+transcription coregulator activity	1	FUS
+mRNA 3'-UTR binding	1	FUS
+molecular condensate scaffold activity	1	FUS
+DNA-templated transcription	1	FUS
+RNA splicing	1	FUS
+mRNA stabilization	1	FUS
+protein homooligomerization	1	FUS
+ double-strand break repair via homologous recombination	1	FUS
+amyloid fibril formation	1	FUS
+intracellular non-membrane-bounded organelle	1	FUS
+RNA polymerase II cis-regulatory region sequence-specific DNA binding	1	ZNF354C
+DNA-binding transcription factor activity	1	ZNF35
+spermatogenesis	1	ZNF35
+cellular response to retinoic acid	1	ZNF35
+perinuclear region of cytoplasm	1	ZNF35
+pre-mRNA 5'-splice site binding	1	PRPF39
+mRNA 5'-splice site recognition	1	PRPF39
+commitment complex	1	PRPF39
+U1 snRNP	1	PRPF39
+U2-type prespliceosome	1	PRPF39
+helicase activity	1	SLFN11
+ATP binding	1	SLFN11
+ATP hydrolysis activity	1	SLFN11
+immune system process	1	SLFN11
+chromatin remodeling	1	SLFN11
+DNA damage response	1	SLFN11
+negative regulation of DNA replication	1	SLFN11
+replication fork arrest	1	SLFN11
+defense response to virus	1	SLFN11
+negative regulation of G1/S transition of mitotic cell cycle	1	SLFN11
+site of DNA damage	1	SLFN11
+tRNA dihydrouridine synthase activity	1	DUS3L
+flavin adenine dinucleotide binding	1	DUS3L
+mRNA dihydrouridine synthase activity	1	DUS3L
+tRNA dihydrouridine synthesis	1	DUS3L
+mRNA processing	1	DUS3L
+ translation	1	DUS3L
+binding of sperm to zona pellucida	1	ADAM32
+male gonad development	1	ADAM32
+centrosome	1	CABCOCO1
+sperm flagellum	1	CABCOCO1
+cell cycle	1	CGRRF1
+negative regulation of cell growth	1	CGRRF1
+ cell cycle	1	CGRRF1
+chitin binding	1	CHID1
+carbohydrate metabolic process	1	CHID1
+negative regulation of cytokine production involved in inflammatory response	1	CHID1
+late endosome	1	CHID1
+trans-Golgi network	1	CHID1
+glucuronosyl-N-acetylgalactosaminyl-proteoglycan 4-beta-N-acetylgalactosaminyltransferase activity	1	CHPF2
+N-acetylgalactosaminyl-proteoglycan 3-beta-glucuronosyltransferase activity	1	CHPF2
+chondroitin sulfate biosynthetic process	1	CHPF2
+Golgi membrane	1	CHPF2
+Golgi cisterna membrane	1	CHPF2
+serine-type carboxypeptidase activity	1	CPD
+zinc ion binding	1	CPD
+peptide metabolic process	1	CPD
+complement component C1q complex binding	1	CRP
+low-density lipoprotein particle binding	1	CRP
+choline binding	1	CRP
+virion binding	1	CRP
+low-density lipoprotein particle receptor binding	1	CRP
+acute-phase response	1	CRP
+inflammatory response	1	CRP
+opsonization	1	CRP
+ gene expression	1	CRP
+negative regulation of macrophage derived foam cell differentiation	1	CRP
+negative regulation of lipid storage	1	CRP
+ interleukin-8 production	1	CRP
+ superoxide anion generation	1	CRP
+negative regulation of mononuclear cell proliferation	1	CRP
+vasoconstriction	1	CRP
+defense response to Gram-positive bacterium	1	CRP
+metallopeptidase activity	1	ECEL1
+respiratory system process	1	ECEL1
+neuropeptide signaling pathway	1	ECEL1
+amyloid-beta binding	1	FBXO2
+ubiquitin-protein transferase activity	1	FBXO2
+denatured protein binding	1	FBXO2
+ubiquitin protein ligase activity	1	FBXO2
+glycoprotein catabolic process	1	FBXO2
+protein ubiquitination	1	FBXO2
+ubiquitin-dependent ERAD pathway	1	FBXO2
+SCF-dependent proteasomal ubiquitin-dependent protein catabolic process	1	FBXO2
+ protein ubiquitination	1	FBXO2
+ protein catabolic process at postsynapse, modulating synaptic transmission	1	FBXO2
+SCF ubiquitin ligase complex	1	FBXO2
+dendritic spine	1	FBXO2
+glutamatergic synapse	1	FBXO2
+glutathione hydrolase activity	1	GGT7
+hypoglycin A gamma-glutamyl transpeptidase activity	1	GGT7
+leukotriene C4 gamma-glutamyl transferase activity	1	GGT7
+glutathione biosynthetic process	1	GGT7
+glutathione catabolic process	1	GGT7
+leukotriene D4 biosynthetic process	1	GGT7
+negative regulation of response to oxidative stress	1	GGT7
+molecular_function	1	IGSF3
+lacrimal gland development	1	IGSF3
+cytokine receptor activity	1	IL31RA
+protein kinase binding	1	IL31RA
+cytokine binding	1	IL31RA
+MAPK cascade	1	IL31RA
+glandular epithelial cell differentiation	1	IL31RA
+acute inflammatory response to antigenic stimulus	1	IL31RA
+defense response	1	IL31RA
+transmembrane receptor protein tyrosine kinase signaling pathway	1	IL31RA
+receptor signaling pathway via JAK-STAT	1	IL31RA
+ cell population proliferation	1	IL31RA
+cytokine-mediated signaling pathway	1	IL31RA
+monocyte differentiation	1	IL31RA
+macrophage differentiation	1	IL31RA
+ tyrosine phosphorylation of STAT protein	1	IL31RA
+homeostatic process	1	IL31RA
+negative regulation of macrophage activation	1	IL31RA
+negative regulation of apoptotic process	1	IL31RA
+defense response to other organism	1	IL31RA
+external side of plasma membrane	1	IL31RA
+presynaptic membrane	1	IL31RA
+receptor complex	1	IL31RA
+protein-lysine 6-oxidase activity	1	LOXL2
+scavenger receptor activity	1	LOXL2
+copper ion binding	1	LOXL2
+electron transfer activity	1	LOXL2
+negative regulation of transcription by RNA polymerase II	1	LOXL2
+response to hypoxia	1	LOXL2
+epithelial to mesenchymal transition	1	LOXL2
+endothelial cell proliferation	1	LOXL2
+sprouting angiogenesis	1	LOXL2
+endocytosis	1	LOXL2
+ epithelial to mesenchymal transition	1	LOXL2
+peptidyl-lysine oxidation	1	LOXL2
+electron transport chain	1	LOXL2
+collagen fibril organization	1	LOXL2
+ chondrocyte differentiation	1	LOXL2
+endothelial cell migration	1	LOXL2
+negative regulation of DNA-templated transcription	1	LOXL2
+response to copper ion	1	LOXL2
+heterochromatin organization	1	LOXL2
+negative regulation of stem cell population maintenance	1	LOXL2
+chromatin	1	LOXL2
+basement membrane	1	LOXL2
+collagen-containing extracellular matrix	1	LOXL2
+protein deglycosylation	1	MAN2B1
+learning or memory	1	MAN2B1
+azurophil granule lumen	1	MAN2B1
+carboxypeptidase activity	1	NAALAD2
+serine-type peptidase activity	1	NAALAD2
+dipeptidyl-peptidase activity	1	NAALAD2
+dipeptidase activity	1	NAALAD2
+protein secretion	1	OLFM2
+ smooth muscle cell differentiation	1	OLFM2
+ vascular associated smooth muscle cell dedifferentiation	1	OLFM2
+AMPA glutamate receptor complex	1	OLFM2
+extracellular matrix binding	1	OLFML2A
+extracellular matrix organization	1	OLFML2A
+extracellular matrix	1	OLFML2A
+semaphorin receptor activity	1	PLXNA1
+negative regulation of cell adhesion	1	PLXNA1
+ cell shape	1	PLXNA1
+ smooth muscle cell migration	1	PLXNA1
+olfactory nerve formation	1	PLXNA1
+gonadotrophin-releasing hormone neuronal migration to the hypothalamus	1	PLXNA1
+ cell migration	1	PLXNA1
+ GTPase activity	1	PLXNA1
+ axonogenesis	1	PLXNA1
+dichotomous subdivision of terminal units involved in salivary gland branching	1	PLXNA1
+semaphorin-plexin signaling pathway involved in axon guidance	1	PLXNA1
+neuron projection extension	1	PLXNA1
+semaphorin receptor complex	1	PLXNA1
+cellular_component	1	POGLUT3
+virus receptor activity	1	PVR
+signaling receptor activity	1	PVR
+ natural killer cell mediated cytotoxicity directed against tumor cell target	1	PVR
+susceptibility to natural killer cell mediated cytotoxicity	1	PVR
+ natural killer cell mediated cytotoxicity	1	PVR
+viral entry into host cell	1	PVR
+susceptibility to T cell mediated cytotoxicity	1	PVR
+adherens junction	1	PVR
+focal adhesion	1	PVR
+ribonucleoprotein complex	1	RBM12B
+synapse assembly	1	SDK2
+retina layer formation	1	SDK2
+camera-type eye photoreceptor cell differentiation	1	SDK2
+protein homodimerization activity	1	TENM3
+protein heterodimerization activity	1	TENM3
+ neuron projection development	1	TENM3
+camera-type eye morphogenesis	1	TENM3
+neuron development	1	TENM3
+ homophilic cell adhesion	1	TENM3
+neuron projection	1	TENM3
+olfactory learning	1	TPBG
+ chemotaxis	1	TPBG
+ protein kinase B signaling	1	TPBG
+synaptic transmission, GABAergic	1	TPBG
+ synapse assembly	1	TPBG
+cell chemotaxis	1	TPBG
+ ERK1 and ERK2 cascade	1	TPBG
+protein localization to plasma membrane	1	TPBG
+negative regulation of canonical Wnt signaling pathway	1	TPBG
+mesenchymal cell migration	1	TPBG
+dendrite arborization	1	TPBG
+dendrite	1	TPBG
+axon terminus	1	TPBG
+selenocysteine incorporation	1	TRNAU1AP
+RNA polymerase II transcription regulatory region sequence-specific DNA binding	1	ZNF627

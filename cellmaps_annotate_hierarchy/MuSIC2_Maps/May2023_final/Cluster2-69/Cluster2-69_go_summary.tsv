@@ -1,0 +1,33 @@
+Feature	Number of Genes	Genes
+nucleus	3	DECR1, PSMB4, PSMG1
+nucleoplasm	3	DECR1, PSMB4, PSMG1
+cytosol	3	DECR1, PSMB4, PSMG1
+mitochondrion	2	DECR1, PSMB4
+protein binding	2	PSMB4, PSMG1
+cytoplasm	2	PSMB4, PSMG1
+protein-containing complex binding	1	PSMG4
+proteasome assembly	1	PSMG4
+protein-containing complex	1	PSMG4
+2,4-dienoyl-CoA reductase (NADPH) activity	1	DECR1
+identical protein binding	1	DECR1
+NADPH binding	1	DECR1
+fatty acid beta-oxidation	1	DECR1
+ cold-induced thermogenesis	1	DECR1
+mitochondrial matrix	1	DECR1
+catalytic complex	1	DECR1
+lipopolysaccharide binding	1	PSMB4
+negative regulation of inflammatory response to antigenic stimulus	1	PSMB4
+proteasome-mediated ubiquitin-dependent protein catabolic process	1	PSMB4
+proteasome complex	1	PSMB4
+proteasome core complex	1	PSMB4
+proteasome core complex, beta-subunit complex	1	PSMB4
+ciliary basal body	1	PSMB4
+extracellular exosome	1	PSMB4
+molecular adaptor activity	1	PSMG1
+proteasome binding	1	PSMG1
+cerebellar granule cell precursor proliferation	1	PSMG1
+chaperone-mediated protein complex assembly	1	PSMG1
+proteasome core complex assembly	1	PSMG1
+endoplasmic reticulum	1	PSMG1
+Golgi apparatus	1	PSMG1
+protein folding chaperone complex	1	PSMG1

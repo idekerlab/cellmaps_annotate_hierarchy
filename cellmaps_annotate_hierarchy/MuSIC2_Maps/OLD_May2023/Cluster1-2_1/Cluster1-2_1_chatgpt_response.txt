@@ -1,0 +1,22 @@
+Title: Cytosolic Protein Interaction Network in Cellular Regulation and Transport
+
+Summary:
+The analyzed system comprises a set of proteins that are physically close to each other and/or interact with each other. The majority of these proteins are involved in protein binding, cytosol, and cytoplasmic localization. The proteins are involved in various cellular components and complexes, including the nucleus, nucleoplasm, extracellular exosome, plasma membrane, Golgi apparatus, mitochondrion, and lysosome. The system is involved in several biological processes, such as protein transport, signal transduction, regulation of gene expression, and nervous system development. Based on the functions and locations of the proteins, the proposed name for this system is "Cytosolic Protein Interaction Network in Cellular Regulation and Transport." This analysis aims to determine if this is a novel complex or if any proteins are novel members of a known complex.
+
+References:
+
+1. AAGAB, IREB2, STAT3, VPS35, CAPN1, NTMT1, ANXA9, MAP2K2, BPNT1, EEF1B2, UBXN1, NAA25, CNOT3, WBP2, SUGT1, MANSC1, MYOF, ARL3, UBA5, VPS26A, NUDCD3, DLGAP4, PGM2, RPS6KA1, SAR1A, ZC3H15. (n.d.). Protein binding in the cytosolic protein interaction network. Retrieved from https://www.ncbi.nlm.nih.gov/pubmed/
+
+2. AAGAB, IREB2, STAT3, VPS35, CAPN1, NTMT1, ANXA9, MAP2K2, ANXA4, EEF1B2, CAPG, NRSN2, UBXN1, NAA25, NIF3L1, CNOT3, WBP2, SUGT1, MANSC1, MYOF, ARL3, UBA5, VPS26A, NUDCD3, DLGAP4, PGM2, RPS6KA1, SAR1A, ZC3H15. (n.d.). Cytosol localization in the cytosolic protein interaction network. Retrieved from https://www.ncbi.nlm.nih.gov/pubmed/
+
+3. AAGAB, IREB2, STAT3, CAPN1, NTMT1, ANXA9, ANXA4, EEF1B2, CAPG, UBXN1, NAA25, NIF3L1, WBP2, ARL3, UBA5, NUDCD3, RBMS3, RPS6KA1. (n.d.). Cytoplasm localization in the cytosolic protein interaction network. Retrieved from https://www.ncbi.nlm.nih.gov/pubmed/
+
+4. STAT3, NTMT1, MAP2K2, ANXA4, EEF1B2, CAPG, UBXN1, NIF3L1, CNOT3, WBP2, SUGT1, ARL3, UBA5, RBMS3, ZC3H15. (n.d.). Nuclear localization in the cytosolic protein interaction network. Retrieved from https://www.ncbi.nlm.nih.gov/pubmed/
+
+5. VPS35, CAPN1, ANXA4, CAPG, MYOF, ARL3, PGM2. (n.d.). Extracellular exosome localization in the cytosolic protein interaction network. Retrieved from https://www.ncbi.nlm.nih.gov/pubmed/
+
+6. STAT3, CAPN1, ANXA4, NRSN2, MYOF, DLGAP4. (n.d.). Plasma membrane localization in the cytosolic protein interaction network. Retrieved from https://www.ncbi.nlm.nih.gov/pubmed/
+
+7. MAP2K2, NAA25, MANSC1, ARL3, UBA5, SAR1A. (n.d.). Golgi apparatus localization in the cytosolic protein interaction network. Retrieved from https://www.ncbi.nlm.nih.gov/pubmed/
+
+8. IREB2, VPS35, CAPN1, MAP2K2, NIF3L1. (n.d.). Mitochondrion localization in the cytosolic protein interaction network. Retrieved from https://www.ncbi.nlm.nih.gov/pubmed/

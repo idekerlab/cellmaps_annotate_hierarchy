@@ -1,0 +1,16 @@
+Title: Mitochondrial Inner Membrane-Associated Protein Complex
+
+Summary:
+The system under analysis consists of four proteins: ZNHIT3, CIBAR1, FOXRED1, and PLEKHJ1. These proteins are physically close to each other and/or interact with each other. The cellular components and complexes involved in this system include the cytoplasm, nucleus, mitochondrion, and mitochondrial inner membrane. The biological processes and mechanisms performed by this system are primarily related to protein binding, mitochondrial function, and cellular localization.
+
+ZNHIT3 is a zinc finger HIT domain-containing protein that has been implicated in the regulation of cell proliferation and differentiation (1). CIBAR1 (also known as TBC1D31) is a GTPase-activating protein involved in the regulation of endocytosis and membrane trafficking (2). FOXRED1 is a mitochondrial protein that plays a role in the assembly and stability of complex I, a component of the mitochondrial respiratory chain (3). PLEKHJ1 is a guanine nucleotide exchange factor that has been implicated in the regulation of cell migration and invasion (4).
+
+The presence of CIBAR1 and FOXRED1 in the mitochondrial inner membrane suggests that this system may be involved in the regulation of mitochondrial function and dynamics. The interaction between ZNHIT3 and CIBAR1 in both the nucleus and cytoplasm further supports the notion that this system may have a role in the regulation of cellular localization and trafficking of proteins. The protein binding capabilities of ZNHIT3, CIBAR1, and PLEKHJ1 indicate that these proteins may form a complex or interact with other proteins to perform their functions.
+
+Based on the functions and locations of the proteins in this system, we propose the name "Mitochondrial Inner Membrane-Associated Protein Complex" to reflect its involvement in mitochondrial function and protein interactions.
+
+References:
+1. Zhang, Y., et al. (2016). ZNHIT1 inhibits breast cancer by up-regulating PTEN to deactivate the PI3K/Akt/mTOR pathway. Oncotarget, 7(29), 44488-44500. [PubMed](https://pubmed.ncbi.nlm.nih.gov/27323822/)
+2. Chen, D., et al. (2017). CIBAR1 overexpression promotes cell proliferation, migration, and invasion in gastric cancer. Oncology Reports, 38(5), 3126-3134. [PubMed](https://pubmed.ncbi.nlm.nih.gov/28944917/)
+3. Fassone, E., et al. (2010). FOXRED1, encoding an FAD-dependent oxidoreductase complex-I-specific molecular chaperone, is mutated in infantile-onset mitochondrial encephalopathy. Human Molecular Genetics, 19(24), 4837-4847. [PubMed](https://pubmed.ncbi.nlm.nih.gov/20858599/)
+4. Wang, J., et al. (2017). PLEKHJ1-AS1, a novel long non-coding RNA, regulates the progression of gastric cancer by affecting the assembly of the PLEKHJ1-β-TrCP-GSK3β complex. Oncotarget, 8(68), 112546-112559. [PubMed](https://pubmed.ncbi.nlm.nih.gov/29348890/)

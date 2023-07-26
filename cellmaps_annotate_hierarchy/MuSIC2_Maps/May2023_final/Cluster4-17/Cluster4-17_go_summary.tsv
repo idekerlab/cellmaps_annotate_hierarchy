@@ -1,0 +1,121 @@
+Feature	Number of Genes	Genes
+protein binding	13	SMG5, PHKG2, BLOC1S5, EIF4E, EIF4ENIF1, DCP1A, DCP1B, DDX6, EDC3, EDC4, KCNQ5, KCTD8, RCOR2
+cytosol	9	SMG5, PHKG2, EIF4E, EIF4ENIF1, DCP1A, DCP1B, DDX6, EDC3, EDC4
+nucleus	7	SMG5, EIF4E, EIF4ENIF1, DCP1A, DCP1B, DDX6, EDC4
+P-body	7	EIF4E, EIF4ENIF1, DCP1A, DCP1B, DDX6, EDC3, EDC4
+cytoplasm	6	SMG5, EIF4E, EIF4ENIF1, DCP1A, DDX6, EDC4
+membrane	6	EIF4ENIF1, DCP1A, DCP1B, DDX6, EDC3, EDC4
+cytoplasmic ribonucleoprotein granule	5	EIF4E, DCP1A, DDX6, EDC3, EDC4
+mRNA binding	5	EIF4ENIF1, DCP1A, DCP1B, DDX6, EDC3
+deadenylation-independent decapping of nuclear-transcribed mRNA	4	DCP1A, DCP1B, EDC3, EDC4
+nuclear-transcribed mRNA catabolic process, nonsense-mediated decay	3	SMG5, DCP1A, DCP1B
+enzyme binding	3	PHKG2, EIF4E, RCOR2
+RNA binding	3	EIF4E, EIF4ENIF1, DDX6
+negative regulation of translation	3	EIF4E, EIF4ENIF1, DDX6
+stem cell population maintenance	3	EIF4E, EIF4ENIF1, DDX6
+neuron differentiation	3	EIF4E, EIF4ENIF1, DDX6
+negative regulation of neuron differentiation	3	EIF4E, EIF4ENIF1, DDX6
+P-body assembly	3	EIF4ENIF1, DDX6, EDC3
+ATP binding	2	PHKG2, DDX6
+cytoplasmic stress granule	2	EIF4E, DDX6
+RISC complex	2	EIF4E, DDX6
+miRNA-mediated gene silencing by inhibition of translation	2	EIF4ENIF1, DDX6
+intracellular membrane-bounded organelle	2	EIF4ENIF1, DCP1B
+enzyme activator activity	2	DCP1A, DCP1B
+identical protein binding	2	DCP1A, EDC3
+5'-(N(7)-methylguanosine 5'-triphospho)-[mRNA] hydrolase activity	2	DCP1A, DCP1B
+deadenylation-dependent decapping of nuclear-transcribed mRNA	2	DCP1A, DCP1B
+ catalytic activity	2	DCP1A, DCP1B
+ubiquitin protein ligase binding	1	SMG5
+telomeric DNA binding	1	SMG5
+histone deacetylase binding	1	SMG5
+protein phosphatase 2A binding	1	SMG5
+telomerase RNA binding	1	SMG5
+mRNA export from nucleus	1	SMG5
+ telomere maintenance	1	SMG5
+ telomere maintenance via telomerase	1	SMG5
+ dephosphorylation	1	SMG5
+telomerase holoenzyme complex	1	SMG5
+protein serine/threonine kinase activity	1	PHKG2
+phosphorylase kinase activity	1	PHKG2
+calmodulin binding	1	PHKG2
+tau-protein kinase activity	1	PHKG2
+glycogen metabolic process	1	PHKG2
+glycogen biosynthetic process	1	PHKG2
+glycogen catabolic process	1	PHKG2
+generation of precursor metabolites and energy	1	PHKG2
+protein phosphorylation	1	PHKG2
+ glycogen catabolic process	1	PHKG2
+phosphorylase kinase complex	1	PHKG2
+anterograde axonal transport	1	BLOC1S5
+vesicle-mediated transport	1	BLOC1S5
+neuron projection development	1	BLOC1S5
+melanosome transport	1	BLOC1S5
+melanosome organization	1	BLOC1S5
+otolith morphogenesis	1	BLOC1S5
+endosome to melanosome transport	1	BLOC1S5
+anterograde synaptic vesicle transport	1	BLOC1S5
+ pigment cell differentiation	1	BLOC1S5
+transport vesicle	1	BLOC1S5
+BLOC-1 complex	1	BLOC1S5
+axon cytoplasm	1	BLOC1S5
+RNA cap binding	1	EIF4E
+RNA 7-methylguanosine cap binding	1	EIF4E
+translation initiation factor activity	1	EIF4E
+eukaryotic initiation factor 4G binding	1	EIF4E
+DNA-binding transcription factor binding	1	EIF4E
+G1/S transition of mitotic cell cycle	1	EIF4E
+behavioral fear response	1	EIF4E
+translational initiation	1	EIF4E
+ translation	1	EIF4E
+negative regulation of autophagy	1	EIF4E
+ mitotic cell cycle	1	EIF4E
+cellular response to dexamethasone stimulus	1	EIF4E
+ translation at postsynapse, modulating synaptic transmission	1	EIF4E
+mRNA cap binding complex	1	EIF4E
+eukaryotic translation initiation factor 4F complex	1	EIF4E
+chromatoid body	1	EIF4E
+perinuclear region of cytoplasm	1	EIF4E
+extracellular exosome	1	EIF4E
+postsynapse	1	EIF4E
+glutamatergic synapse	1	EIF4E
+nuclear export signal receptor activity	1	EIF4ENIF1
+kinase binding	1	EIF4ENIF1
+translation	1	EIF4ENIF1
+protein import into nucleus	1	EIF4ENIF1
+mRNA stabilization	1	EIF4ENIF1
+nuclear export	1	EIF4ENIF1
+ nuclear-transcribed mRNA poly(A) tail shortening	1	EIF4ENIF1
+negative regulation of deadenylation-dependent decapping of nuclear-transcribed mRNA	1	EIF4ENIF1
+PML body	1	EIF4ENIF1
+nuclear speck	1	EIF4ENIF1
+kinesin binding	1	DCP1A
+methylguanosine-cap decapping	1	DCP1A
+protein localization to cytoplasmic stress granule	1	DCP1A
+RNA helicase activity	1	DDX6
+helicase activity	1	DDX6
+ATP hydrolysis activity	1	DDX6
+protein domain specific binding	1	DDX6
+cadherin binding	1	DDX6
+viral RNA genome packaging	1	DDX6
+stress granule assembly	1	DDX6
+biological_process	1	EDC4
+nucleoplasm	1	EDC4
+voltage-gated potassium channel activity	1	KCNQ5
+ monoatomic ion transmembrane transport	1	KCNQ5
+potassium ion transmembrane transport	1	KCNQ5
+plasma membrane	1	KCNQ5
+voltage-gated potassium channel complex	1	KCNQ5
+clathrin coat	1	KCNQ5
+ G protein-coupled receptor signaling pathway	1	KCTD8
+protein homooligomerization	1	KCTD8
+presynaptic membrane	1	KCTD8
+cell projection	1	KCTD8
+receptor complex	1	KCTD8
+postsynaptic membrane	1	KCTD8
+transcription corepressor activity	1	RCOR2
+ transcription by RNA polymerase II	1	RCOR2
+negative regulation of DNA-templated transcription	1	RCOR2
+histone deacetylase complex	1	RCOR2
+chromatin	1	RCOR2
+transcription regulator complex	1	RCOR2

@@ -1,0 +1,18 @@
+Write a critical and concise analysis of this system, describing your reasoning as you go and providing references to scientific papers.         
+Format with Title, Summary, and References sections.        
+Avoid overly general statements of how the proteins are involved in various cellular processes
+        
+Avoid recapitulating the goals of the analysis. 
+What cellular components and complexes are involved in this system?
+What mechanisms and biological processes are performed by this system?
+Propose a name for the system to reflect the function and location, and should be specific but brief. Do not compose an acronym. Place it as the title of your report
+Provide complete paper references with pubmed link
+Proteins: SLC25A6, LONP1, MTIF2, PRELID1.
+
+A critical goal of the analysis is to determine if this is a novel complex or if any proteins are novel members of a known complex
+System features from GO terms: 
+mitochondrion: 4 proteins: SLC25A6, LONP1, MTIF2, PRELID1
+protein binding: 3 proteins: SLC25A6, LONP1, PRELID1
+nucleoplasm: 3 proteins: LONP1, MTIF2, PRELID1
+apoptotic process: 2 proteins: SLC25A6, PRELID1
+membrane: 2 proteins: SLC25A6, LONP1

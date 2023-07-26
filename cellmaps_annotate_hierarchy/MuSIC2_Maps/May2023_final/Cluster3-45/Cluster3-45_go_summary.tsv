@@ -1,0 +1,136 @@
+Feature	Number of Genes	Genes
+protein binding	7	DNM3, EPS15L1, ITSN2, FCHO1, AP1B1, AP2A1, AP2A2
+cytosol	7	EPS15L1, ITSN2, SYNJ1, FCHO1, AP1B1, AP2A1, AP2A2
+plasma membrane	6	DNM3, EPS15L1, ITSN2, FCHO1, AP2A1, AP2A2
+cytoplasm	4	DNM3, EPS15L1, ITSN2, FCHO1
+endocytosis	3	DNM3, EPS15L1, AP2A1
+postsynaptic neurotransmitter receptor internalization	3	DNM3, AP2A1, AP2A2
+clathrin-dependent endocytosis	3	FCHO1, AP2A1, AP2A2
+protein kinase binding	3	AP1B1, AP2A1, AP2A2
+intracellular protein transport	3	AP1B1, AP2A1, AP2A2
+vesicle-mediated transport	3	AP1B1, AP2A1, AP2A2
+synaptic vesicle endocytosis	2	DNM3, SYNJ1
+Golgi apparatus	2	DNM3, AP1B1
+microtubule	2	DNM3, SYNJ1
+perinuclear region of cytoplasm	2	DNM3, SYNJ1
+extracellular exosome	2	DNM3, ITSN2
+presynapse	2	DNM3, SYNJ1
+calcium ion binding	2	EPS15L1, ITSN2
+endosomal transport	2	EPS15L1, ITSN2
+membrane	2	EPS15L1, AP2A1
+clathrin coat of coated pit	2	EPS15L1, SYNJ1
+membrane organization	2	SYNJ1, FCHSD1
+clathrin adaptor activity	2	AP2A1, AP2A2
+cytoplasmic side of plasma membrane	2	AP2A1, AP2A2
+AP-2 adaptor complex	2	AP2A1, AP2A2
+endocytic vesicle membrane	2	AP2A1, AP2A2
+clathrin-coated endocytic vesicle membrane	2	AP2A1, AP2A2
+endolysosome membrane	2	AP2A1, AP2A2
+clathrin-coated endocytic vesicle	2	AP2A1, AP2A2
+postsynapse	2	AP2A1, AP2A2
+lipid binding	2	AP2A2, FCHSD1
+GTPase activity	1	DNM3
+GTP binding	1	DNM3
+microtubule binding	1	DNM3
+type 1 metabotropic glutamate receptor binding	1	DNM3
+type 5 metabotropic glutamate receptor binding	1	DNM3
+nitric-oxide synthase binding	1	DNM3
+structural constituent of postsynapse	1	DNM3
+protein serine/threonine kinase binding	1	DNM3
+synapse assembly	1	DNM3
+receptor internalization	1	DNM3
+filopodium assembly	1	DNM3
+ filopodium assembly	1	DNM3
+negative regulation of dendritic spine morphogenesis	1	DNM3
+postsynapse organization	1	DNM3
+ synaptic vesicle recycling	1	DNM3
+postsynaptic density	1	DNM3
+axon	1	DNM3
+synaptic cleft	1	DNM3
+dendritic spine	1	DNM3
+dendritic spine head	1	DNM3
+apical tubulobulbar complex	1	DNM3
+basal tubulobulbar complex	1	DNM3
+postsynaptic endocytic zone membrane	1	DNM3
+glutamatergic synapse	1	DNM3
+cadherin binding	1	EPS15L1
+nucleus	1	EPS15L1
+guanyl-nucleotide exchange factor activity	1	ITSN2
+molecular adaptor activity	1	ITSN2
+cell differentiation	1	ITSN2
+clathrin-dependent synaptic vesicle endocytosis	1	ITSN2
+ dendrite extension	1	ITSN2
+centrosome	1	ITSN2
+presynaptic membrane	1	ITSN2
+intracellular vesicle	1	ITSN2
+RNA binding	1	SYNJ1
+phosphatidylinositol-3-phosphate phosphatase activity	1	SYNJ1
+phosphatidylinositol-4,5-bisphosphate 5-phosphatase activity	1	SYNJ1
+SH3 domain binding	1	SYNJ1
+phosphatidylinositol phosphate 5-phosphatase activity	1	SYNJ1
+phosphatidylinositol phosphate 4-phosphatase activity	1	SYNJ1
+phosphatidylinositol-4-phosphate phosphatase activity	1	SYNJ1
+phosphatidylinositol-3,5-bisphosphate 5-phosphatase activity	1	SYNJ1
+protein-containing complex binding	1	SYNJ1
+phosphatidylinositol-3,5-bisphosphate 3-phosphatase activity	1	SYNJ1
+inositol-1,4,5-trisphosphate 5-phosphatase activity	1	SYNJ1
+EH domain binding	1	SYNJ1
+phosphatidylinositol biosynthetic process	1	SYNJ1
+neurotransmitter transport	1	SYNJ1
+brain development	1	SYNJ1
+learning	1	SYNJ1
+ gliogenesis	1	SYNJ1
+synaptic vesicle priming	1	SYNJ1
+synaptic vesicle uncoating	1	SYNJ1
+response to retinoic acid	1	SYNJ1
+response to cytokine	1	SYNJ1
+phosphatidylinositol-3-phosphate biosynthetic process	1	SYNJ1
+inositol phosphate metabolic process	1	SYNJ1
+phosphatidylinositol metabolic process	1	SYNJ1
+phosphatidylinositol dephosphorylation	1	SYNJ1
+ receptor-mediated endocytosis	1	SYNJ1
+synaptic vesicle transport	1	SYNJ1
+ endosome organization	1	SYNJ1
+vesicle membrane	1	SYNJ1
+membrane coat	1	SYNJ1
+terminal bouton	1	SYNJ1
+synaptic membrane	1	SYNJ1
+parallel fiber to Purkinje cell synapse	1	SYNJ1
+AP-2 adaptor complex binding	1	FCHO1
+clathrin coat assembly	1	FCHO1
+T cell receptor signaling pathway	1	FCHO1
+ T cell activation	1	FCHO1
+nucleoplasm	1	FCHO1
+clathrin-coated pit	1	FCHO1
+clathrin-coated vesicle	1	FCHO1
+clathrin binding	1	AP1B1
+kidney development	1	AP1B1
+determination of left/right symmetry	1	AP1B1
+heart development	1	AP1B1
+platelet dense granule organization	1	AP1B1
+basolateral protein secretion	1	AP1B1
+melanosome assembly	1	AP1B1
+Golgi membrane	1	AP1B1
+lysosomal membrane	1	AP1B1
+early endosome	1	AP1B1
+AP-1 adaptor complex	1	AP1B1
+cytoplasmic vesicle membrane	1	AP1B1
+trans-Golgi network membrane	1	AP1B1
+intracellular membrane-bounded organelle	1	AP1B1
+low-density lipoprotein particle receptor binding	1	AP2A1
+Golgi to endosome transport	1	AP2A1
+negative regulation of hyaluronan biosynthetic process	1	AP2A1
+clathrin coat of trans-Golgi network vesicle	1	AP2A1
+filopodium tip	1	AP2A1
+molecular_function	1	AP2A2
+disordered domain specific binding	1	AP2A2
+secretory granule membrane	1	AP2A2
+cytoplasmic vesicle	1	AP2A2
+ficolin-1-rich granule membrane	1	AP2A2
+neuromuscular synaptic transmission	1	FCHSD1
+ actin filament polymerization	1	FCHSD1
+neuromuscular junction	1	FCHSD1
+cuticular plate	1	FCHSD1
+cell projection	1	FCHSD1
+perikaryon	1	FCHSD1
+recycling endosome	1	FCHSD1

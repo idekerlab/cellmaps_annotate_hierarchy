@@ -1,0 +1,44 @@
+Write a critical and concise analysis of this system, describing your reasoning as you go and providing references to scientific papers.         
+Format with Title, Summary, and References sections.        
+Avoid overly general statements of how the proteins are involved in various cellular processes
+        
+Avoid recapitulating the goals of the analysis. 
+What cellular components and complexes are involved in this system?
+What mechanisms and biological processes are performed by this system?
+Propose a name for the system to reflect the function and location, and should be specific but brief. Do not compose an acronym. Place it as the title of your report
+Provide complete paper references with pubmed link
+Proteins: POLDIP2, PCK2, CA10, ETFB, GRPEL1, PNPT1, ALDH1L2, HSDL2, PDK2, TRMT10C, CIAPIN1, MCCC2, ME2, MTHFD1L, AMMECR1, SLC25A14, PUS1, HK2, PSMG4, PYCR2, ACADM, HNRNPLL, HDHD5, ATP6V1C2.
+
+A critical goal of the analysis is to determine if this is a novel complex or if any proteins are novel members of a known complex
+System features from GO terms: 
+mitochondrion: 20 proteins: ACADM, CIAPIN1, GRPEL1, HSDL2, ME2, PNPT1, PUS1, SLC25A14, TRMT10C, PDK2, ETFB, HDHD5, AMMECR1, MTHFD1L, POLDIP2, PYCR2, PCK2, HK2, MCCC2, ALDH1L2
+mitochondrial matrix: 14 proteins: ACADM, GRPEL1, ME2, PNPT1, PUS1, TRMT10C, PDK2, ETFB, MTHFD1L, POLDIP2, PYCR2, PCK2, MCCC2, ALDH1L2
+protein binding: 14 proteins: CIAPIN1, GRPEL1, HNRNPLL, PNPT1, TRMT10C, PDK2, ETFB, AMMECR1, POLDIP2, PYCR2, PCK2, HK2, MCCC2, ALDH1L2
+nucleus: 7 proteins: ACADM, HNRNPLL, PNPT1, PUS1, TRMT10C, AMMECR1, POLDIP2
+nucleoplasm: 7 proteins: CIAPIN1, GRPEL1, PUS1, TRMT10C, PDK2, AMMECR1, ALDH1L2
+cytosol: 7 proteins: PNPT1, PDK2, ATP6V1C2, MTHFD1L, PCK2, HK2, MCCC2
+identical protein binding: 5 proteins: ACADM, GRPEL1, PNPT1, TRMT10C, ATP6V1C2
+cytoplasm: 4 proteins: ACADM, CIAPIN1, PNPT1, PUS1
+RNA binding: 4 proteins: HNRNPLL, PNPT1, PUS1, TRMT10C
+membrane: 4 proteins: HNRNPLL, HSDL2, MTHFD1L, HK2
+ATP binding: 4 proteins: PDK2, MTHFD1L, HK2, MCCC2
+electron transfer activity: 3 proteins: CIAPIN1, ME2, ETFB
+protein homodimerization activity: 3 proteins: GRPEL1, PDK2, MTHFD1L
+plasma membrane: 3 proteins: SLC25A14, POLDIP2, HK2
+regulation of gluconeogenesis: 2 proteins: ACADM, PDK2
+fatty acid beta-oxidation: 2 proteins: ACADM, ALDH1L2
+fatty acid beta-oxidation using acyl-CoA dehydrogenase: 2 proteins: ACADM, ETFB
+response to starvation: 2 proteins: ACADM, PCK2
+electron transport chain: 2 proteins: CIAPIN1, ME2
+mitochondrial intermembrane space: 2 proteins: CIAPIN1, PNPT1
+mRNA processing: 2 proteins: HNRNPLL, PUS1
+molecular_function: 2 proteins: HSDL2, CA10
+biological_process: 2 proteins: HSDL2, AMMECR1
+intracellular membrane-bounded organelle: 2 proteins: ME2, HK2
+mitochondrial RNA 5'-end processing: 2 proteins: PNPT1, TRMT10C
+cellular response to oxidative stress: 2 proteins: PNPT1, PYCR2
+mitochondrion morphogenesis: 2 proteins: PNPT1, POLDIP2
+tRNA binding: 2 proteins: PUS1, TRMT10C
+mitochondrial nucleoid: 2 proteins: TRMT10C, POLDIP2
+glucose metabolic process: 2 proteins: PDK2, HK2
+extracellular exosome: 2 proteins: ATP6V1C2, ALDH1L2

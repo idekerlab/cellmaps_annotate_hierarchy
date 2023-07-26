@@ -1,0 +1,36 @@
+Your response should be formatted as Markdown paragraphs
+Write a critical and concise analysis of this human protein system, describing your reasoning as you go and providing references to scientific papers.
+
+A critical goal of the analysis is to determine if this is a novel complex or if any proteins are novel members of a known complex
+
+Format with Title, Summary, and References sections.        
+Avoid overly general statements of how the proteins are involved in various cellular processes        
+Avoid repeating the goals of the analysis.
+
+What cellular components and complexes are involved in this system?
+What mechanisms and biological processes are performed by this system?
+Propose a name for the system to reflect the cellular location and function, and should be specific but brief. Do not compose an acronym. Place it as the title of your report
+Human Proteins: SNW1, BCAS2, CCDC12, CWC25, CWF19L2, PLRG1, PPIE, PRPF19, SNRPA1, SNRPB2, SYF2.
+
+System features from GO terms: 
+protein binding: 11 proteins: SNW1, BCAS2, CCDC12, CWC25, CWF19L2, PLRG1, PPIE, PRPF19, SNRPA1, SNRPB2, SYF2
+nucleoplasm: 11 proteins: SNW1, BCAS2, CCDC12, CWC25, CWF19L2, PLRG1, PPIE, PRPF19, SNRPA1, SNRPB2, SYF2
+mRNA splicing, via spliceosome: 10 proteins: SNW1, BCAS2, CWC25, CWF19L2, PLRG1, PPIE, PRPF19, SNRPA1, SNRPB2, SYF2
+nucleus: 9 proteins: SNW1, BCAS2, CWC25, PLRG1, PPIE, PRPF19, SNRPA1, SNRPB2, SYF2
+nuclear speck: 9 proteins: SNW1, BCAS2, CWC25, PLRG1, PPIE, PRPF19, SNRPA1, SNRPB2, SYF2
+U2-type catalytic step 2 spliceosome: 8 proteins: SNW1, BCAS2, PLRG1, PPIE, PRPF19, SNRPA1, SNRPB2, SYF2
+catalytic step 2 spliceosome: 8 proteins: SNW1, BCAS2, PLRG1, PPIE, PRPF19, SNRPA1, SNRPB2, SYF2
+spliceosomal complex: 6 proteins: SNW1, BCAS2, PLRG1, PRPF19, SNRPA1, SNRPB2
+RNA binding: 4 proteins: SNW1, PPIE, SNRPA1, SYF2
+Prp19 complex: 4 proteins: BCAS2, PLRG1, PRPF19, SYF2
+post-mRNA release spliceosomal complex: 3 proteins: CCDC12, CWF19L2, SYF2
+ mRNA splicing, via spliceosome: 2 proteins: SNW1, PRPF19
+nuclear body: 2 proteins: SNW1, SNRPA1
+RNA splicing: 2 proteins: BCAS2, SNRPA1
+U2-type spliceosomal complex: 2 proteins: CCDC12, CWC25
+U2-type catalytic step 1 spliceosome: 2 proteins: CWC25, PRPF19
+fibrillar center: 2 proteins: PLRG1, SNRPB2
+cytoplasm: 2 proteins: PPIE, PRPF19
+U2-type prespliceosome assembly: 2 proteins: SNRPA1, SNRPB2
+U2 snRNP: 2 proteins: SNRPA1, SNRPB2
+U2-type precatalytic spliceosome: 2 proteins: SNRPA1, SNRPB2

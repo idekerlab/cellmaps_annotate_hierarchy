@@ -1,0 +1,56 @@
+Your response should be formatted as Markdown paragraphs
+Write a critical and concise analysis of this human protein system, describing your reasoning as you go and providing references to scientific papers.
+
+A critical goal of the analysis is to determine if this is a novel complex or if any proteins are novel members of a known complex
+
+Format with Title, Summary, and References sections.        
+Avoid overly general statements of how the proteins are involved in various cellular processes        
+Avoid repeating the goals of the analysis.
+
+What cellular components and complexes are involved in this system?
+What mechanisms and biological processes are performed by this system?
+Propose a name for the system to reflect the cellular location and function, and should be specific but brief. Do not compose an acronym. Place it as the title of your report
+Human Proteins: BMPR1A, EYA3, IFNGR1, IFNLR1, MYRF, NOTCH1, PIK3CB, PIK3R3, SUSD6, TMEM94, UBASH3B.
+
+System features from GO terms: 
+protein binding: 9 proteins: BMPR1A, EYA3, IFNGR1, IFNLR1, NOTCH1, PIK3CB, PIK3R3, SUSD6, UBASH3B
+ gene expression: 5 proteins: BMPR1A, IFNGR1, NOTCH1, PIK3CB, PIK3R3
+plasma membrane: 5 proteins: BMPR1A, IFNGR1, IFNLR1, NOTCH1, PIK3CB
+membrane: 5 proteins: BMPR1A, IFNGR1, IFNLR1, SUSD6, TMEM94
+nucleus: 5 proteins: EYA3, MYRF, NOTCH1, PIK3CB, UBASH3B
+nucleoplasm: 4 proteins: EYA3, MYRF, NOTCH1, PIK3CB
+cytosol: 4 proteins: MYRF, NOTCH1, PIK3CB, PIK3R3
+immune response: 3 proteins: BMPR1A, NOTCH1, PIK3R3
+ transcription by RNA polymerase II: 3 proteins: BMPR1A, MYRF, NOTCH1
+cytoplasm: 3 proteins: EYA3, PIK3CB, UBASH3B
+ATP binding: 2 proteins: BMPR1A, PIK3CB
+metal ion binding: 2 proteins: BMPR1A, EYA3
+in utero embryonic development: 2 proteins: BMPR1A, NOTCH1
+outflow tract morphogenesis: 2 proteins: BMPR1A, NOTCH1
+endocardial cushion morphogenesis: 2 proteins: BMPR1A, NOTCH1
+ventricular trabecula myocardium morphogenesis: 2 proteins: BMPR1A, NOTCH1
+negative regulation of gene expression: 2 proteins: BMPR1A, NOTCH1
+lung development: 2 proteins: BMPR1A, NOTCH1
+epithelial cell proliferation: 2 proteins: BMPR1A, NOTCH1
+ epithelial cell proliferation: 2 proteins: BMPR1A, NOTCH1
+negative regulation of neurogenesis: 2 proteins: BMPR1A, NOTCH1
+ cardiac muscle cell proliferation: 2 proteins: BMPR1A, NOTCH1
+ventricular septum morphogenesis: 2 proteins: BMPR1A, NOTCH1
+receptor complex: 2 proteins: BMPR1A, NOTCH1
+protein tyrosine phosphatase activity: 2 proteins: EYA3, UBASH3B
+signal transduction: 2 proteins: IFNGR1, PIK3CB
+type III interferon-mediated signaling pathway: 2 proteins: IFNGR1, IFNLR1
+cellular response to virus: 2 proteins: IFNGR1, IFNLR1
+negative regulation of cell population proliferation: 2 proteins: IFNLR1, NOTCH1
+ DNA-templated transcription: 2 proteins: MYRF, NOTCH1
+oligodendrocyte differentiation: 2 proteins: MYRF, NOTCH1
+endoplasmic reticulum membrane: 2 proteins: MYRF, NOTCH1
+identical protein binding: 2 proteins: NOTCH1, UBASH3B
+ cell migration: 2 proteins: NOTCH1, PIK3R3
+negative regulation of anoikis: 2 proteins: NOTCH1, PIK3R3
+1-phosphatidylinositol-3-kinase activity: 2 proteins: PIK3CB, PIK3R3
+phosphatidylinositol-3-phosphate biosynthetic process: 2 proteins: PIK3CB, PIK3R3
+phosphatidylinositol phosphate biosynthetic process: 2 proteins: PIK3CB, PIK3R3
+platelet aggregation: 2 proteins: PIK3CB, UBASH3B
+phosphatidylinositol 3-kinase complex: 2 proteins: PIK3CB, PIK3R3
+phosphatidylinositol 3-kinase complex, class IA: 2 proteins: PIK3CB, PIK3R3

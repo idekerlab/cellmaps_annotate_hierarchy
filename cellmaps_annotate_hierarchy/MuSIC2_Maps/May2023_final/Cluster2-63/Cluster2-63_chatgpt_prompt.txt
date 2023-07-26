@@ -1,0 +1,51 @@
+Your response should be formatted as Markdown paragraphs
+Write a critical and concise analysis of this human protein system, describing your reasoning as you go and providing references to scientific papers.
+
+A critical goal of the analysis is to determine if this is a novel complex or if any proteins are novel members of a known complex
+
+Format with Title, Summary, and References sections.        
+Avoid overly general statements of how the proteins are involved in various cellular processes        
+Avoid repeating the goals of the analysis.
+
+What cellular components and complexes are involved in this system?
+What mechanisms and biological processes are performed by this system?
+Propose a name for the system to reflect the cellular location and function, and should be specific but brief. Do not compose an acronym. Place it as the title of your report
+Human Proteins: HSPA1L, GALNT9, HSPA1A, HSPA2, HSPA8.
+
+System features from GO terms: 
+protein binding: 4 proteins: HSPA1L, HSPA1A, HSPA2, HSPA8
+ATP binding: 4 proteins: HSPA1L, HSPA1A, HSPA2, HSPA8
+ATP hydrolysis activity: 4 proteins: HSPA1L, HSPA1A, HSPA2, HSPA8
+heat shock protein binding: 4 proteins: HSPA1L, HSPA1A, HSPA2, HSPA8
+protein folding chaperone: 4 proteins: HSPA1L, HSPA1A, HSPA2, HSPA8
+unfolded protein binding: 4 proteins: HSPA1L, HSPA1A, HSPA2, HSPA8
+ATP-dependent protein folding chaperone: 4 proteins: HSPA1L, HSPA1A, HSPA2, HSPA8
+response to unfolded protein: 4 proteins: HSPA1L, HSPA1A, HSPA2, HSPA8
+protein refolding: 4 proteins: HSPA1L, HSPA1A, HSPA2, HSPA8
+chaperone cofactor-dependent protein refolding: 4 proteins: HSPA1L, HSPA1A, HSPA2, HSPA8
+nucleus: 4 proteins: HSPA1L, HSPA1A, HSPA2, HSPA8
+cytoplasm: 4 proteins: HSPA1L, HSPA1A, HSPA2, HSPA8
+cytosol: 4 proteins: HSPA1L, HSPA1A, HSPA2, HSPA8
+blood microparticle: 4 proteins: HSPA1L, HSPA1A, HSPA2, HSPA8
+ubiquitin protein ligase binding: 3 proteins: HSPA1L, HSPA1A, HSPA8
+nucleoplasm: 3 proteins: HSPA1L, HSPA1A, HSPA8
+enzyme binding: 3 proteins: HSPA1A, HSPA2, HSPA8
+extracellular exosome: 3 proteins: HSPA1A, HSPA2, HSPA8
+G protein-coupled receptor binding: 2 proteins: HSPA1A, HSPA8
+RNA binding: 2 proteins: HSPA1A, HSPA8
+cadherin binding: 2 proteins: HSPA1A, HSPA8
+C3HC4-type RING finger domain binding: 2 proteins: HSPA1A, HSPA8
+disordered domain specific binding: 2 proteins: HSPA1A, HSPA2
+ATP-dependent protein disaggregase activity: 2 proteins: HSPA1A, HSPA8
+ATP metabolic process: 2 proteins: HSPA1A, HSPA8
+cellular response to steroid hormone stimulus: 2 proteins: HSPA1A, HSPA8
+negative regulation of inclusion body assembly: 2 proteins: HSPA1A, HSPA2
+extracellular region: 2 proteins: HSPA1A, HSPA8
+extracellular space: 2 proteins: HSPA1A, HSPA8
+focal adhesion: 2 proteins: HSPA1A, HSPA8
+perinuclear region of cytoplasm: 2 proteins: HSPA1A, HSPA8
+ficolin-1-rich granule lumen: 2 proteins: HSPA1A, HSPA8
+ribonucleoprotein complex: 2 proteins: HSPA1A, HSPA8
+protein-folding chaperone binding: 2 proteins: HSPA2, HSPA8
+plasma membrane: 2 proteins: HSPA2, HSPA8
+membrane: 2 proteins: HSPA2, HSPA8

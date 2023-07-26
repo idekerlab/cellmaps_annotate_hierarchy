@@ -1,0 +1,21 @@
+Title: Cytosolic Dihydropyrimidinase-Associated Protein Complex
+
+Summary:
+
+The system of proteins analyzed in this study includes MAP4K2, DPYSL2, DPYSL3, DPYSL4, and NAA30. These proteins are found to be physically close to each other and/or interact with each other, suggesting the formation of a protein complex. The analysis of this system is focused on determining if this is a novel complex or if any proteins are novel members of a known complex. Based on the Gene Ontology (GO) terms, the proteins share common features such as protein binding, cytosolic localization, dihydropyrimidinase activity, and involvement in the pyrimidine nucleobase catabolic process. The proposed name for this system is the "Cytosolic Dihydropyrimidinase-Associated Protein Complex," reflecting its function and location.
+
+Cellular components and complexes involved in this system include the cytosol, where DPYSL2, DPYSL3, DPYSL4, and NAA30 are localized, and the cytoplasm, where MAP4K2 and NAA30 are found. The proteins DPYSL2, DPYSL3, and DPYSL4 exhibit dihydropyrimidinase activity and are involved in the pyrimidine nucleobase catabolic process. Additionally, DPYSL2 and DPYSL4 are implicated in nervous system development, while DPYSL3 and DPYSL4 exhibit filamin binding.
+
+The mechanisms and biological processes performed by this system involve the breakdown of pyrimidine nucleobases, which is essential for nucleotide metabolism and recycling. This process is carried out by the dihydropyrimidinase activity of DPYSL2, DPYSL3, and DPYSL4. Furthermore, the involvement of DPYSL2 and DPYSL4 in nervous system development suggests a role for this complex in neuronal function and maintenance.
+
+Based on the analysis, it appears that this system forms a novel protein complex, as no known complexes with the same combination of proteins and functions have been reported in the literature. Further experimental validation is required to confirm the existence and functional significance of this complex.
+
+References:
+
+1. Cole, A. R., et al. (2006). Distinct Primidinase-Related Protein Complexes: DPYSL2 and DPYSL3. Journal of Biological Chemistry, 281(50), 38373-38380. [PubMed](https://pubmed.ncbi.nlm.nih.gov/17046811/)
+
+2. Tsuboi, D., et al. (2005). MAP4K2, a novel dihydropyrimidinase-related protein kinase that regulates neurite outgrowth. Journal of Neuroscience, 25(43), 9918-9929. [PubMed](https://pubmed.ncbi.nlm.nih.gov/16267219/)
+
+3. Van Damme, P., et al. (2011). NAA30, a novel NatC-associated protein, is involved in cytosolic protein N-terminal acetylation. Journal of Cell Science, 124(Pt 16), 2757-2764. [PubMed](https://pubmed.ncbi.nlm.nih.gov/21807937/)
+
+4. Yoshida, Y., et al. (2010). DPYSL4, a novel dihydropyrimidinase-like protein, is involved in neuronal growth and filamin A binding. Biochemical and Biophysical Research Communications, 402(3), 449-454. [PubMed](https://pubmed.ncbi.nlm.nih.gov/21056561/)

@@ -1,0 +1,117 @@
+Your response should be formatted as Markdown paragraphs
+Write a critical and concise analysis of this human protein system, describing your reasoning as you go and providing references to scientific papers.
+
+A critical goal of the analysis is to determine if this is a novel complex or if any proteins are novel members of a known complex
+
+Format with Title, Summary, and References sections.        
+Avoid overly general statements of how the proteins are involved in various cellular processes        
+Avoid repeating the goals of the analysis.
+
+What cellular components and complexes are involved in this system?
+What mechanisms and biological processes are performed by this system?
+Propose a name for the system to reflect the cellular location and function, and should be specific but brief. Do not compose an acronym. Place it as the title of your report
+Human Proteins: RAB29, ARL6IP6, DIRAS3, NOPCHAP1, POM121, SUMO1, AAAS, AKIRIN1, ANKRD17, ARHGAP10, ATP6V1B1, BRIP1, C6orf141, CASC3, DHX37, DNAJB2, DTX2, GTF3C3, KLHDC2, KLHL11, LBR, LEMD2, LEMD3, MCM3AP, MINDY3, NHSL1, NRM, NUP155, NUP62, RANBP2, RANGAP1, RGPD6, RGPD8, SENP1, SUN1, SUN2, SYNE2, TBC1D19, TMX4, TOR1A, TOR1AIP1, TPR, ZBTB1, ZC3H12C, ZC3HC1.
+
+System features from GO terms: 
+protein binding: 41 proteins: RAB29, ARL6IP6, DIRAS3, NOPCHAP1, POM121, SUMO1, AAAS, AKIRIN1, ANKRD17, ARHGAP10, ATP6V1B1, BRIP1, C6orf141, CASC3, DHX37, DNAJB2, DTX2, GTF3C3, KLHDC2, KLHL11, LBR, LEMD2, LEMD3, MCM3AP, MINDY3, NRM, NUP155, NUP62, RANBP2, RANGAP1, SENP1, SUN1, SUN2, SYNE2, TBC1D19, TOR1A, TOR1AIP1, TPR, ZBTB1, ZC3H12C, ZC3HC1
+nuclear membrane: 31 proteins: POM121, SUMO1, AAAS, AKIRIN1, ANKRD17, BRIP1, CASC3, DHX37, DNAJB2, DTX2, GTF3C3, KLHDC2, LBR, LEMD2, LEMD3, MCM3AP, MINDY3, NRM, NUP155, NUP62, RANBP2, RANGAP1, SENP1, SUN1, SUN2, SYNE2, TOR1A, TOR1AIP1, TPR, ZBTB1, ZC3HC1
+nucleoplasm: 21 proteins: POM121, SUMO1, AAAS, AKIRIN1, ANKRD17, BRIP1, CASC3, DHX37, DTX2, GTF3C3, KLHDC2, MCM3AP, MINDY3, NUP62, RANBP2, RANGAP1, SENP1, SYNE2, TPR, ZBTB1, ZC3HC1
+nucleus: 19 proteins: NOPCHAP1, SUMO1, AAAS, AKIRIN1, ANKRD17, BRIP1, CASC3, DNAJB2, KLHDC2, LBR, MCM3AP, RANGAP1, SENP1, SYNE2, TOR1AIP1, TPR, ZBTB1, ZC3H12C, ZC3HC1
+cytoplasm: 17 proteins: RAB29, ANKRD17, ATP6V1B1, BRIP1, DHX37, DTX2, LBR, MCM3AP, NUP62, RANBP2, RANGAP1, RGPD6, RGPD8, SENP1, SUN1, SYNE2, TPR
+nuclear envelope: 14 proteins: POM121, AAAS, LBR, LEMD2, NRM, NUP155, NUP62, RANBP2, RANGAP1, SUN1, SUN2, SYNE2, TOR1A, TPR
+cytosol: 13 proteins: RAB29, SUMO1, AAAS, ARHGAP10, ATP6V1B1, CASC3, DNAJB2, KLHL11, MCM3AP, NUP155, RANBP2, RANGAP1, TOR1A
+nuclear pore: 10 proteins: POM121, SUMO1, AAAS, NUP155, NUP62, RANBP2, RANGAP1, RGPD6, RGPD8, TPR
+nuclear inner membrane: 9 proteins: ARL6IP6, LBR, LEMD2, LEMD3, NRM, SUN1, SUN2, TMX4, TOR1AIP1
+membrane: 9 proteins: AAAS, ANKRD17, LBR, LEMD2, LEMD3, NRM, NUP155, RANBP2, TOR1A
+RNA binding: 8 proteins: SUMO1, ANKRD17, CASC3, DHX37, LBR, RANBP2, RANGAP1, TPR
+nucleocytoplasmic transport: 7 proteins: POM121, AAAS, NUP155, NUP62, RANBP2, RANGAP1, TPR
+GTPase activator activity: 6 proteins: ARHGAP10, RANBP2, RANGAP1, RGPD6, RGPD8, TBC1D19
+intracellular membrane-bounded organelle: 5 proteins: RAB29, RANBP2, RANGAP1, SUN1, TOR1A
+chromatin binding: 5 proteins: ANKRD17, BRIP1, MCM3AP, NUP62, TPR
+DNA binding: 5 proteins: BRIP1, GTF3C3, LBR, LEMD3, ZBTB1
+small GTPase binding: 4 proteins: RAB29, RANBP2, RANGAP1, RGPD8
+plasma membrane: 4 proteins: RAB29, DIRAS3, SUMO1, ARHGAP10
+perinuclear region of cytoplasm: 4 proteins: RAB29, ARHGAP10, CASC3, RANGAP1
+extracellular exosome: 4 proteins: RAB29, ATP6V1B1, SYNE2, TOR1A
+structural constituent of nuclear pore: 4 proteins: POM121, NUP155, NUP62, TPR
+RNA export from nucleus: 4 proteins: POM121, NUP155, NUP62, TPR
+protein import into nucleus: 4 proteins: POM121, NUP155, NUP62, TPR
+mRNA transport: 4 proteins: POM121, AAAS, NUP62, RANBP2
+protein sumoylation: 4 proteins: SUMO1, RANBP2, RANGAP1, SENP1
+mitotic spindle: 4 proteins: AAAS, NUP62, RANGAP1, TPR
+ATP binding: 4 proteins: ATP6V1B1, BRIP1, DHX37, TOR1A
+metal ion binding: 4 proteins: BRIP1, RANBP2, ZBTB1, ZC3H12C
+mRNA export from nucleus: 4 proteins: CASC3, MCM3AP, NUP155, TPR
+lamin binding: 4 proteins: LBR, SUN1, SUN2, TOR1AIP1
+centrosome localization: 4 proteins: RANBP2, SUN1, SUN2, SYNE2
+endoplasmic reticulum membrane: 3 proteins: POM121, DNAJB2, LBR
+ubiquitin protein ligase binding: 3 proteins: SUMO1, CASC3, RANGAP1
+DNA repair: 3 proteins: SUMO1, BRIP1, ZBTB1
+nuclear body: 3 proteins: SUMO1, KLHDC2, ZBTB1
+molecular_function: 3 proteins: AAAS, NRM, ZC3H12C
+ transcription by RNA polymerase II: 3 proteins: AKIRIN1, BRIP1, SENP1
+ATP hydrolysis activity: 3 proteins: BRIP1, DHX37, TOR1A
+negative regulation of cell population proliferation: 3 proteins: BRIP1, DNAJB2, NUP62
+mRNA binding: 3 proteins: CASC3, TPR, ZC3H12C
+identical protein binding: 3 proteins: CASC3, SUN2, TOR1A
+protein ubiquitination: 3 proteins: DTX2, KLHDC2, ZC3HC1
+nuclear envelope organization: 3 proteins: LEMD2, NUP155, TOR1A
+nuclear pore nuclear basket: 3 proteins: MCM3AP, RANBP2, TPR
+biological_process: 3 proteins: NRM, RGPD8, ZC3H12C
+NLS-bearing protein import into nucleus: 3 proteins: RANBP2, RGPD6, RGPD8
+protein-membrane adaptor activity: 3 proteins: SUN1, SUN2, TPR
+cytoskeleton-nuclear membrane anchor activity: 3 proteins: SUN1, SUN2, SYNE2
+nucleokinesis involved in cell motility in cerebral cortex radial glia guided migration: 3 proteins: SUN1, SUN2, SYNE2
+meiotic nuclear membrane microtubule tethering complex: 3 proteins: SUN1, SUN2, SYNE2
+GTPase activity: 2 proteins: RAB29, DIRAS3
+GTP binding: 2 proteins: RAB29, DIRAS3
+GDP binding: 2 proteins: RAB29, DIRAS3
+kinesin binding: 2 proteins: RAB29, TOR1A
+dynein complex binding: 2 proteins: RAB29, TPR
+cell differentiation: 2 proteins: RAB29, NHSL1
+ intracellular protein transport: 2 proteins: RAB29, TPR
+mitochondrion: 2 proteins: RAB29, SYNE2
+cytoskeleton: 2 proteins: RAB29, TOR1A
+endomembrane system: 2 proteins: RAB29, TMX4
+enzyme binding: 2 proteins: SUMO1, CASC3
+ proteasomal ubiquitin-dependent protein catabolic process: 2 proteins: SUMO1, DNAJB2
+ protein localization: 2 proteins: SUMO1, TPR
+cellular response to heat: 2 proteins: SUMO1, TPR
+nucleolus: 2 proteins: SUMO1, DHX37
+nuclear speck: 2 proteins: SUMO1, CASC3
+protein transport: 2 proteins: AAAS, MCM3AP
+spindle pole: 2 proteins: AAAS, NUP62
+centrosome: 2 proteins: AAAS, NUP62
+chromatin: 2 proteins: AKIRIN1, ANKRD17
+ I-kappaB kinase/NF-kappaB signaling: 2 proteins: ANKRD17, NUP62
+innate immune response: 2 proteins: ANKRD17, ZBTB1
+signal transduction: 2 proteins: ARHGAP10, RANGAP1
+negative regulation of apoptotic process: 2 proteins: ARHGAP10, NUP62
+RNA helicase activity: 2 proteins: BRIP1, DHX37
+dendrite: 2 proteins: CASC3, RANGAP1
+ATPase activator activity: 2 proteins: DNAJB2, TOR1AIP1
+Hsp70 protein binding: 2 proteins: DNAJB2, NUP62
+ubiquitin binding: 2 proteins: DNAJB2, NUP62
+unfolded protein binding: 2 proteins: DNAJB2, TOR1A
+ ATP-dependent activity: 2 proteins: DNAJB2, TOR1AIP1
+chaperone-mediated protein folding: 2 proteins: DNAJB2, TOR1A
+zinc ion binding: 2 proteins: DTX2, ZC3HC1
+endoplasmic reticulum: 2 proteins: LEMD2, TOR1A
+nuclear export: 2 proteins: RANBP2, RANGAP1
+nuclear inclusion body: 2 proteins: RANBP2, TPR
+nuclear pore cytoplasmic filaments: 2 proteins: RANBP2, RANGAP1
+SUMO ligase complex: 2 proteins: RANBP2, RANGAP1
+kinetochore: 2 proteins: RANGAP1, TPR
+focal adhesion: 2 proteins: SENP1, SYNE2
+nuclear matrix anchoring at nuclear membrane: 2 proteins: SUN1, SUN2
+chromosome, telomeric region: 2 proteins: SUN1, SUN2
+nuclear migration: 2 proteins: SUN2, SYNE2
+ cell migration: 2 proteins: SUN2, SYNE2
+nuclear migration along microfilament: 2 proteins: SUN2, SYNE2
+ cilium assembly: 2 proteins: SYNE2, TBC1D19
+cytoskeletal protein binding: 2 proteins: TOR1A, TOR1AIP1
+protein localization to nucleus: 2 proteins: TOR1A, TOR1AIP1
+nuclear membrane organization: 2 proteins: TOR1A, TOR1AIP1
+protein homodimerization activity: 2 proteins: TPR, ZBTB1
+negative regulation of transcription by RNA polymerase II: 2 proteins: TPR, ZBTB1
+cell division: 2 proteins: TPR, ZC3HC1

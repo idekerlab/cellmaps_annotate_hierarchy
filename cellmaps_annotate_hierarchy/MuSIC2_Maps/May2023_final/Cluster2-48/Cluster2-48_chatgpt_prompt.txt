@@ -1,0 +1,28 @@
+Your response should be formatted as Markdown paragraphs
+Write a critical and concise analysis of this human protein system, describing your reasoning as you go and providing references to scientific papers.
+
+A critical goal of the analysis is to determine if this is a novel complex or if any proteins are novel members of a known complex
+
+Format with Title, Summary, and References sections.        
+Avoid overly general statements of how the proteins are involved in various cellular processes        
+Avoid repeating the goals of the analysis.
+
+What cellular components and complexes are involved in this system?
+What mechanisms and biological processes are performed by this system?
+Propose a name for the system to reflect the cellular location and function, and should be specific but brief. Do not compose an acronym. Place it as the title of your report
+Human Proteins: C9orf78, ARMCX5-GPRASP2, IQCJ-SCHIP1, GIGYF2, ZC3H7A, ZBTB33, RELB, NCAPH, KMT2E.
+
+System features from GO terms: 
+protein binding: 8 proteins: C9orf78, ARMCX5-GPRASP2, IQCJ-SCHIP1, GIGYF2, ZBTB33, RELB, NCAPH, KMT2E
+nucleus: 6 proteins: C9orf78, ARMCX5-GPRASP2, ZC3H7A, ZBTB33, RELB, KMT2E
+cytosol: 6 proteins: C9orf78, ARMCX5-GPRASP2, GIGYF2, ZBTB33, RELB, NCAPH
+nucleoplasm: 5 proteins: C9orf78, ZBTB33, RELB, NCAPH, KMT2E
+cytoplasm: 3 proteins: ARMCX5-GPRASP2, IQCJ-SCHIP1, KMT2E
+plasma membrane: 3 proteins: IQCJ-SCHIP1, ZBTB33, KMT2E
+protein-containing complex: 3 proteins: GIGYF2, RELB, KMT2E
+metal ion binding: 3 proteins: ZC3H7A, ZBTB33, KMT2E
+chromatin: 3 proteins: ZBTB33, RELB, KMT2E
+RNA binding: 2 proteins: GIGYF2, ZC3H7A
+membrane: 2 proteins: GIGYF2, NCAPH
+DNA-binding transcription factor activity, RNA polymerase II-specific: 2 proteins: ZBTB33, RELB
+negative regulation of DNA-templated transcription: 2 proteins: ZBTB33, RELB

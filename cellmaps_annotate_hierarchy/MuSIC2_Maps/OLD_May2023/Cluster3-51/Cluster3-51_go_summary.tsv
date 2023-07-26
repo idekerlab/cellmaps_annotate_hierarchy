@@ -1,0 +1,64 @@
+Feature	Number of Genes	Genes
+protein binding	4	ARL14EP, ATF7IP, SETDB1, VHL
+nucleoplasm	4	ARL14EP, ATF7IP, SETDB1, VHL
+cytosol	3	ARL14EP, ATF7IP, VHL
+nucleus	3	ATF7IP, SETDB1, VHL
+intracellular membrane-bounded organelle	2	ARL14EP, SETDB1
+DNA-templated transcription	2	ATF7IP, VHL
+regulation of DNA-templated transcription	2	ATF7IP, VHL
+positive regulation of DNA-templated transcription	2	ATF7IP, VHL
+protein stabilization	2	ATF7IP, VHL
+positive regulation of DNA methylation-dependent heterochromatin formation	2	ATF7IP, SETDB1
+negative regulation of gene expression	2	SETDB1, VHL
+nucleolus	1	ARL14EP
+plasma membrane	1	ARL14EP
+focal adhesion	1	ARL14EP
+transcription coregulator activity	1	ATF7IP
+transcription corepressor activity	1	ATF7IP
+ATP hydrolysis activity	1	ATF7IP
+negative regulation of transcription by RNA polymerase II	1	ATF7IP
+DNA methylation	1	ATF7IP
+regulation of protein stability	1	ATF7IP
+negative regulation of DNA-templated transcription	1	ATF7IP
+regulation of RNA polymerase II transcription preinitiation complex assembly	1	ATF7IP
+transcription regulator complex	1	ATF7IP
+nuclear body	1	ATF7IP
+DNA binding	1	SETDB1
+chromatin binding	1	SETDB1
+zinc ion binding	1	SETDB1
+histone H3K9 methyltransferase activity	1	SETDB1
+histone H3K9me2 methyltransferase activity	1	SETDB1
+histone H3K9 monomethyltransferase activity	1	SETDB1
+histone H3K9 trimethyltransferase activity	1	SETDB1
+promoter-specific chromatin binding	1	SETDB1
+negative regulation of single stranded viral RNA replication via double stranded DNA intermediate	1	SETDB1
+histone H3-K9 methylation	1	SETDB1
+heterochromatin organization	1	SETDB1
+chromosome	1	SETDB1
+cytoplasm	1	SETDB1
+transcription elongation factor activity	1	VHL
+ubiquitin-protein transferase activity	1	VHL
+enzyme binding	1	VHL
+molecular adaptor activity	1	VHL
+DNA-binding transcription factor binding	1	VHL
+ubiquitin ligase-substrate adaptor activity	1	VHL
+cell morphogenesis	1	VHL
+proteolysis	1	VHL
+negative regulation of cell population proliferation	1	VHL
+negative regulation of signal transduction	1	VHL
+regulation of gene expression	1	VHL
+negative regulation of autophagy	1	VHL
+protein ubiquitination	1	VHL
+negative regulation of transcription elongation by RNA polymerase II	1	VHL
+negative regulation of apoptotic process	1	VHL
+positive regulation of cell differentiation	1	VHL
+negative regulation of receptor signaling pathway via JAK-STAT	1	VHL
+negative regulation of transcription from RNA polymerase II promoter in response to hypoxia	1	VHL
+selective autophagy	1	VHL
+cellular response to hypoxia	1	VHL
+regulation of cellular response to hypoxia	1	VHL
+amyloid fibril formation	1	VHL
+mitochondrion	1	VHL
+endoplasmic reticulum	1	VHL
+membrane	1	VHL
+intracellular non-membrane-bounded organelle	1	VHL

@@ -1,0 +1,452 @@
+Feature	Number of Genes	Genes
+protein binding	41	RAB29, ARL6IP6, DIRAS3, NOPCHAP1, POM121, SUMO1, AAAS, AKIRIN1, ANKRD17, ARHGAP10, ATP6V1B1, BRIP1, C6orf141, CASC3, DHX37, DNAJB2, DTX2, GTF3C3, KLHDC2, KLHL11, LBR, LEMD2, LEMD3, MCM3AP, MINDY3, NRM, NUP155, NUP62, RANBP2, RANGAP1, SENP1, SUN1, SUN2, SYNE2, TBC1D19, TOR1A, TOR1AIP1, TPR, ZBTB1, ZC3H12C, ZC3HC1
+nuclear membrane	31	POM121, SUMO1, AAAS, AKIRIN1, ANKRD17, BRIP1, CASC3, DHX37, DNAJB2, DTX2, GTF3C3, KLHDC2, LBR, LEMD2, LEMD3, MCM3AP, MINDY3, NRM, NUP155, NUP62, RANBP2, RANGAP1, SENP1, SUN1, SUN2, SYNE2, TOR1A, TOR1AIP1, TPR, ZBTB1, ZC3HC1
+nucleoplasm	21	POM121, SUMO1, AAAS, AKIRIN1, ANKRD17, BRIP1, CASC3, DHX37, DTX2, GTF3C3, KLHDC2, MCM3AP, MINDY3, NUP62, RANBP2, RANGAP1, SENP1, SYNE2, TPR, ZBTB1, ZC3HC1
+nucleus	19	NOPCHAP1, SUMO1, AAAS, AKIRIN1, ANKRD17, BRIP1, CASC3, DNAJB2, KLHDC2, LBR, MCM3AP, RANGAP1, SENP1, SYNE2, TOR1AIP1, TPR, ZBTB1, ZC3H12C, ZC3HC1
+cytoplasm	17	RAB29, ANKRD17, ATP6V1B1, BRIP1, DHX37, DTX2, LBR, MCM3AP, NUP62, RANBP2, RANGAP1, RGPD6, RGPD8, SENP1, SUN1, SYNE2, TPR
+nuclear envelope	14	POM121, AAAS, LBR, LEMD2, NRM, NUP155, NUP62, RANBP2, RANGAP1, SUN1, SUN2, SYNE2, TOR1A, TPR
+cytosol	13	RAB29, SUMO1, AAAS, ARHGAP10, ATP6V1B1, CASC3, DNAJB2, KLHL11, MCM3AP, NUP155, RANBP2, RANGAP1, TOR1A
+nuclear pore	10	POM121, SUMO1, AAAS, NUP155, NUP62, RANBP2, RANGAP1, RGPD6, RGPD8, TPR
+nuclear inner membrane	9	ARL6IP6, LBR, LEMD2, LEMD3, NRM, SUN1, SUN2, TMX4, TOR1AIP1
+membrane	9	AAAS, ANKRD17, LBR, LEMD2, LEMD3, NRM, NUP155, RANBP2, TOR1A
+RNA binding	8	SUMO1, ANKRD17, CASC3, DHX37, LBR, RANBP2, RANGAP1, TPR
+nucleocytoplasmic transport	7	POM121, AAAS, NUP155, NUP62, RANBP2, RANGAP1, TPR
+GTPase activator activity	6	ARHGAP10, RANBP2, RANGAP1, RGPD6, RGPD8, TBC1D19
+intracellular membrane-bounded organelle	5	RAB29, RANBP2, RANGAP1, SUN1, TOR1A
+chromatin binding	5	ANKRD17, BRIP1, MCM3AP, NUP62, TPR
+DNA binding	5	BRIP1, GTF3C3, LBR, LEMD3, ZBTB1
+small GTPase binding	4	RAB29, RANBP2, RANGAP1, RGPD8
+plasma membrane	4	RAB29, DIRAS3, SUMO1, ARHGAP10
+perinuclear region of cytoplasm	4	RAB29, ARHGAP10, CASC3, RANGAP1
+extracellular exosome	4	RAB29, ATP6V1B1, SYNE2, TOR1A
+structural constituent of nuclear pore	4	POM121, NUP155, NUP62, TPR
+RNA export from nucleus	4	POM121, NUP155, NUP62, TPR
+protein import into nucleus	4	POM121, NUP155, NUP62, TPR
+mRNA transport	4	POM121, AAAS, NUP62, RANBP2
+protein sumoylation	4	SUMO1, RANBP2, RANGAP1, SENP1
+mitotic spindle	4	AAAS, NUP62, RANGAP1, TPR
+ATP binding	4	ATP6V1B1, BRIP1, DHX37, TOR1A
+metal ion binding	4	BRIP1, RANBP2, ZBTB1, ZC3H12C
+mRNA export from nucleus	4	CASC3, MCM3AP, NUP155, TPR
+lamin binding	4	LBR, SUN1, SUN2, TOR1AIP1
+centrosome localization	4	RANBP2, SUN1, SUN2, SYNE2
+endoplasmic reticulum membrane	3	POM121, DNAJB2, LBR
+ubiquitin protein ligase binding	3	SUMO1, CASC3, RANGAP1
+DNA repair	3	SUMO1, BRIP1, ZBTB1
+nuclear body	3	SUMO1, KLHDC2, ZBTB1
+molecular_function	3	AAAS, NRM, ZC3H12C
+ transcription by RNA polymerase II	3	AKIRIN1, BRIP1, SENP1
+ATP hydrolysis activity	3	BRIP1, DHX37, TOR1A
+negative regulation of cell population proliferation	3	BRIP1, DNAJB2, NUP62
+mRNA binding	3	CASC3, TPR, ZC3H12C
+identical protein binding	3	CASC3, SUN2, TOR1A
+protein ubiquitination	3	DTX2, KLHDC2, ZC3HC1
+nuclear envelope organization	3	LEMD2, NUP155, TOR1A
+nuclear pore nuclear basket	3	MCM3AP, RANBP2, TPR
+biological_process	3	NRM, RGPD8, ZC3H12C
+NLS-bearing protein import into nucleus	3	RANBP2, RGPD6, RGPD8
+protein-membrane adaptor activity	3	SUN1, SUN2, TPR
+cytoskeleton-nuclear membrane anchor activity	3	SUN1, SUN2, SYNE2
+nucleokinesis involved in cell motility in cerebral cortex radial glia guided migration	3	SUN1, SUN2, SYNE2
+meiotic nuclear membrane microtubule tethering complex	3	SUN1, SUN2, SYNE2
+GTPase activity	2	RAB29, DIRAS3
+GTP binding	2	RAB29, DIRAS3
+GDP binding	2	RAB29, DIRAS3
+kinesin binding	2	RAB29, TOR1A
+dynein complex binding	2	RAB29, TPR
+cell differentiation	2	RAB29, NHSL1
+ intracellular protein transport	2	RAB29, TPR
+mitochondrion	2	RAB29, SYNE2
+cytoskeleton	2	RAB29, TOR1A
+endomembrane system	2	RAB29, TMX4
+enzyme binding	2	SUMO1, CASC3
+ proteasomal ubiquitin-dependent protein catabolic process	2	SUMO1, DNAJB2
+ protein localization	2	SUMO1, TPR
+cellular response to heat	2	SUMO1, TPR
+nucleolus	2	SUMO1, DHX37
+nuclear speck	2	SUMO1, CASC3
+protein transport	2	AAAS, MCM3AP
+spindle pole	2	AAAS, NUP62
+centrosome	2	AAAS, NUP62
+chromatin	2	AKIRIN1, ANKRD17
+ I-kappaB kinase/NF-kappaB signaling	2	ANKRD17, NUP62
+innate immune response	2	ANKRD17, ZBTB1
+signal transduction	2	ARHGAP10, RANGAP1
+negative regulation of apoptotic process	2	ARHGAP10, NUP62
+RNA helicase activity	2	BRIP1, DHX37
+dendrite	2	CASC3, RANGAP1
+ATPase activator activity	2	DNAJB2, TOR1AIP1
+Hsp70 protein binding	2	DNAJB2, NUP62
+ubiquitin binding	2	DNAJB2, NUP62
+unfolded protein binding	2	DNAJB2, TOR1A
+ ATP-dependent activity	2	DNAJB2, TOR1AIP1
+chaperone-mediated protein folding	2	DNAJB2, TOR1A
+zinc ion binding	2	DTX2, ZC3HC1
+endoplasmic reticulum	2	LEMD2, TOR1A
+nuclear export	2	RANBP2, RANGAP1
+nuclear inclusion body	2	RANBP2, TPR
+nuclear pore cytoplasmic filaments	2	RANBP2, RANGAP1
+SUMO ligase complex	2	RANBP2, RANGAP1
+kinetochore	2	RANGAP1, TPR
+focal adhesion	2	SENP1, SYNE2
+nuclear matrix anchoring at nuclear membrane	2	SUN1, SUN2
+chromosome, telomeric region	2	SUN1, SUN2
+nuclear migration	2	SUN2, SYNE2
+ cell migration	2	SUN2, SYNE2
+nuclear migration along microfilament	2	SUN2, SYNE2
+ cilium assembly	2	SYNE2, TBC1D19
+cytoskeletal protein binding	2	TOR1A, TOR1AIP1
+protein localization to nucleus	2	TOR1A, TOR1AIP1
+nuclear membrane organization	2	TOR1A, TOR1AIP1
+protein homodimerization activity	2	TPR, ZBTB1
+negative regulation of transcription by RNA polymerase II	2	TPR, ZBTB1
+cell division	2	TPR, ZC3HC1
+ receptor recycling	1	RAB29
+intracellular protein transport	1	RAB29
+endoplasmic reticulum to Golgi vesicle-mediated transport	1	RAB29
+mitochondrion organization	1	RAB29
+Golgi organization	1	RAB29
+synapse assembly	1	RAB29
+response to bacterium	1	RAB29
+negative regulation of neuron projection development	1	RAB29
+melanosome organization	1	RAB29
+T cell activation	1	RAB29
+retrograde transport, endosome to Golgi	1	RAB29
+modulation by host of viral process	1	RAB29
+ T cell receptor signaling pathway	1	RAB29
+protein localization to membrane	1	RAB29
+ neuron death	1	RAB29
+toxin transport	1	RAB29
+protein localization to ciliary membrane	1	RAB29
+ retrograde transport, endosome to Golgi	1	RAB29
+early endosome	1	RAB29
+vacuole	1	RAB29
+Golgi apparatus	1	RAB29
+cis-Golgi network	1	RAB29
+trans-Golgi network	1	RAB29
+melanosome	1	RAB29
+recycling endosome	1	RAB29
+intracellular vesicle	1	RAB29
+ cyclin-dependent protein serine/threonine kinase activity	1	DIRAS3
+ gene expression by genomic imprinting	1	DIRAS3
+small GTPase mediated signal transduction	1	DIRAS3
+box C/D snoRNP complex binding	1	NOPCHAP1
+box C/D snoRNP assembly	1	NOPCHAP1
+nuclear localization sequence binding	1	POM121
+transcription factor binding	1	SUMO1
+potassium channel regulator activity	1	SUMO1
+protein tag	1	SUMO1
+small protein activating enzyme binding	1	SUMO1
+ubiquitin-like protein ligase binding	1	SUMO1
+ubiquitin-specific protease binding	1	SUMO1
+negative regulation of transcription by transcription factor localization	1	SUMO1
+PML body organization	1	SUMO1
+ protein-containing complex assembly	1	SUMO1
+negative regulation of protein import into nucleus	1	SUMO1
+negative regulation of DNA binding	1	SUMO1
+negative regulation of DNA-binding transcription factor activity	1	SUMO1
+negative regulation of action potential	1	SUMO1
+negative regulation of DNA-templated transcription	1	SUMO1
+protein stabilization	1	SUMO1
+roof of mouth development	1	SUMO1
+cellular response to cadmium ion	1	SUMO1
+ cardiac muscle cell contraction	1	SUMO1
+protein localization to nuclear pore	1	SUMO1
+ ATPase-coupled calcium transmembrane transporter activity	1	SUMO1
+negative regulation of delayed rectifier potassium channel activity	1	SUMO1
+XY body	1	SUMO1
+PML body	1	SUMO1
+nuclear stress granule	1	SUMO1
+microtubule bundle formation	1	AAAS
+learning	1	AAAS
+fertilization	1	AAAS
+ nucleocytoplasmic transport	1	AAAS
+mitotic spindle assembly	1	AAAS
+transcription coregulator activity	1	AKIRIN1
+DNA-templated transcription	1	AKIRIN1
+ lamellipodium assembly	1	AKIRIN1
+ macrophage chemotaxis	1	AKIRIN1
+myoblast migration involved in skeletal muscle regeneration	1	AKIRIN1
+ myoblast differentiation	1	AKIRIN1
+negative regulation of skeletal muscle satellite cell proliferation	1	AKIRIN1
+negative regulation of satellite cell differentiation	1	AKIRIN1
+blood vessel maturation	1	ANKRD17
+ DNA replication	1	ANKRD17
+defense response to bacterium	1	ANKRD17
+ cell cycle	1	ANKRD17
+negative regulation of smooth muscle cell differentiation	1	ANKRD17
+ G1/S transition of mitotic cell cycle	1	ANKRD17
+ MDA-5 signaling pathway	1	ANKRD17
+ RIG-I signaling pathway	1	ANKRD17
+male germ cell nucleus	1	ANKRD17
+cytoskeleton organization	1	ARHGAP10
+ small GTPase mediated signal transduction	1	ARHGAP10
+proton transmembrane transporter activity	1	ATP6V1B1
+protein-containing complex binding	1	ATP6V1B1
+proton-transporting ATPase activity, rotational mechanism	1	ATP6V1B1
+ossification	1	ATP6V1B1
+renal water homeostasis	1	ATP6V1B1
+renal sodium ion transport	1	ATP6V1B1
+prostaglandin metabolic process	1	ATP6V1B1
+ pH	1	ATP6V1B1
+vacuolar acidification	1	ATP6V1B1
+sensory perception of sound	1	ATP6V1B1
+ gene expression	1	ATP6V1B1
+ macroautophagy	1	ATP6V1B1
+adult behavior	1	ATP6V1B1
+renal sodium excretion	1	ATP6V1B1
+olfactory behavior	1	ATP6V1B1
+inner ear morphogenesis	1	ATP6V1B1
+pH reduction	1	ATP6V1B1
+ATP metabolic process	1	ATP6V1B1
+chloride ion homeostasis	1	ATP6V1B1
+calcium ion homeostasis	1	ATP6V1B1
+potassium ion homeostasis	1	ATP6V1B1
+vacuolar proton-transporting V-type ATPase complex assembly	1	ATP6V1B1
+renal tubular secretion	1	ATP6V1B1
+synaptic vesicle lumen acidification	1	ATP6V1B1
+proton transmembrane transport	1	ATP6V1B1
+vacuolar proton-transporting V-type ATPase, V1 domain	1	ATP6V1B1
+microvillus	1	ATP6V1B1
+basolateral plasma membrane	1	ATP6V1B1
+apical plasma membrane	1	ATP6V1B1
+lateral plasma membrane	1	ATP6V1B1
+vacuolar proton-transporting V-type ATPase complex	1	ATP6V1B1
+extrinsic component of synaptic vesicle membrane	1	ATP6V1B1
+DNA helicase activity	1	BRIP1
+5'-3' DNA helicase activity	1	BRIP1
+4 iron, 4 sulfur cluster binding	1	BRIP1
+DNA damage checkpoint signaling	1	BRIP1
+nucleotide-excision repair	1	BRIP1
+double-strand break repair	1	BRIP1
+spermatogonial cell division	1	BRIP1
+spermatid development	1	BRIP1
+response to toxic substance	1	BRIP1
+negative regulation of gene expression	1	BRIP1
+meiotic DNA double-strand break processing involved in reciprocal meiotic recombination	1	BRIP1
+DNA duplex unwinding	1	BRIP1
+homologous recombination	1	BRIP1
+chiasma assembly	1	BRIP1
+cellular response to vitamin	1	BRIP1
+cellular response to hypoxia	1	BRIP1
+seminiferous tubule development	1	BRIP1
+cellular response to angiotensin	1	BRIP1
+double-strand break repair involved in meiotic recombination	1	BRIP1
+BRCA1-B complex	1	BRIP1
+nuclear-transcribed mRNA catabolic process, nonsense-mediated decay	1	CASC3
+mRNA splicing, via spliceosome	1	CASC3
+ translation	1	CASC3
+intracellular mRNA localization	1	CASC3
+ nuclear-transcribed mRNA catabolic process, nonsense-mediated decay	1	CASC3
+cytoplasmic stress granule	1	CASC3
+exon-exon junction complex	1	CASC3
+U2-type catalytic step 1 spliceosome	1	CASC3
+helicase activity	1	DHX37
+U3 snoRNA binding	1	DHX37
+maturation of SSU-rRNA from tricistronic rRNA transcript (SSU-rRNA, 5.8S rRNA, LSU-rRNA)	1	DHX37
+brain development	1	DHX37
+ribosome biogenesis	1	DHX37
+ribosome assembly	1	DHX37
+ribosomal small subunit biogenesis	1	DHX37
+ male gonad development	1	DHX37
+intracellular anatomical structure	1	DHX37
+small-subunit processome	1	DHX37
+protein-folding chaperone binding	1	DNAJB2
+ubiquitin-dependent protein binding	1	DNAJB2
+response to unfolded protein	1	DNAJB2
+negative regulation of cell growth	1	DNAJB2
+ubiquitin-dependent ERAD pathway	1	DNAJB2
+ protein ubiquitination	1	DNAJB2
+negative regulation of protein binding	1	DNAJB2
+protein refolding	1	DNAJB2
+neuron cellular homeostasis	1	DNAJB2
+negative regulation of inclusion body assembly	1	DNAJB2
+ chaperone-mediated protein folding	1	DNAJB2
+ubiquitin protein ligase activity	1	DTX2
+Notch signaling pathway	1	DTX2
+RNA polymerase III general transcription initiation factor activity	1	GTF3C3
+transcription by RNA polymerase III	1	GTF3C3
+5S class rRNA transcription by RNA polymerase III	1	GTF3C3
+tRNA transcription by RNA polymerase III	1	GTF3C3
+transcription factor TFIIIC complex	1	GTF3C3
+fibrillar center	1	GTF3C3
+ubiquitin ligase-substrate adaptor activity	1	KLHDC2
+proteasome-mediated ubiquitin-dependent protein catabolic process	1	KLHDC2
+ubiquitin-dependent protein catabolic process via the C-end degron rule pathway	1	KLHDC2
+Cul2-RING ubiquitin ligase complex	1	KLHDC2
+delta14-sterol reductase activity	1	LBR
+chromo shadow domain binding	1	LBR
+NADPH binding	1	LBR
+cholesterol biosynthetic process	1	LBR
+neutrophil differentiation	1	LBR
+neurogenesis	1	LEMD2
+skeletal muscle cell differentiation	1	LEMD2
+negative regulation of MAPK cascade	1	LEMD2
+negative regulation of protein kinase B signaling	1	LEMD2
+heart formation	1	LEMD2
+protein localization to chromatin	1	LEMD2
+spindle	1	LEMD2
+U1 snRNP binding	1	LEMD3
+negative regulation of transforming growth factor beta receptor signaling pathway	1	LEMD3
+negative regulation of BMP signaling pathway	1	LEMD3
+negative regulation of activin receptor signaling pathway	1	LEMD3
+nucleic acid binding	1	MCM3AP
+histone acetyltransferase activity	1	MCM3AP
+histone H3 acetyltransferase activity	1	MCM3AP
+histone binding	1	MCM3AP
+somatic hypermutation of immunoglobulin genes	1	MCM3AP
+poly(A)+ mRNA export from nucleus	1	MCM3AP
+nucleosome organization	1	MCM3AP
+chromosome	1	MCM3AP
+transcription export complex 2	1	MCM3AP
+cysteine-type deubiquitinase activity	1	MINDY3
+K48-linked deubiquitinase activity	1	MINDY3
+apoptotic process	1	MINDY3
+protein K48-linked deubiquitination	1	MINDY3
+transcription-dependent tethering of RNA polymerase II gene DNA at nuclear periphery	1	NUP155
+miRNA processing	1	NUP155
+protein localization to nuclear inner membrane	1	NUP155
+atrial cardiac muscle cell action potential	1	NUP155
+nuclear pore inner ring	1	NUP155
+phospholipid binding	1	NUP62
+signaling receptor complex adaptor activity	1	NUP62
+SH2 domain binding	1	NUP62
+PTB domain binding	1	NUP62
+Hsp90 protein binding	1	NUP62
+mitotic metaphase plate congression	1	NUP62
+centrosome cycle	1	NUP62
+mitotic centrosome separation	1	NUP62
+cell surface receptor signaling pathway	1	NUP62
+ signal transduction	1	NUP62
+negative regulation of epidermal growth factor receptor signaling pathway	1	NUP62
+negative regulation of programmed cell death	1	NUP62
+negative regulation of MAP kinase activity	1	NUP62
+ epidermal growth factor receptor signaling pathway	1	NUP62
+ mitotic nuclear division	1	NUP62
+ DNA-templated transcription	1	NUP62
+ Ras protein signal transduction	1	NUP62
+negative regulation of Ras protein signal transduction	1	NUP62
+ centriole replication	1	NUP62
+ mitotic spindle organization	1	NUP62
+cellular senescence	1	NUP62
+centriole assembly	1	NUP62
+ mitotic cytokinetic process	1	NUP62
+ protein localization to centrosome	1	NUP62
+nuclear pore central transport channel	1	NUP62
+Flemming body	1	NUP62
+ribonucleoprotein complex	1	NUP62
+peptidyl-prolyl cis-trans isomerase activity	1	RANBP2
+cyclosporin A binding	1	RANBP2
+SUMO transferase activity	1	RANBP2
+SUMO ligase activity	1	RANBP2
+protein peptidyl-prolyl isomerization	1	RANBP2
+ gluconeogenesis	1	RANBP2
+protein folding	1	RANBP2
+ glucokinase activity	1	RANBP2
+annulate lamellae	1	RANBP2
+cadherin binding	1	RANGAP1
+negative regulation of protein export from nucleus	1	RANGAP1
+response to axon injury	1	RANGAP1
+activation of GTPase activity	1	RANGAP1
+cellular response to vasopressin	1	RANGAP1
+aggresome	1	RANGAP1
+axon cytoplasm	1	RANGAP1
+cytoplasmic periphery of the nuclear pore complex	1	RANGAP1
+endopeptidase activity	1	SENP1
+deSUMOylase activity	1	SENP1
+SUMO-specific endopeptidase activity	1	SENP1
+proteolysis	1	SENP1
+activation of cysteine-type endopeptidase activity involved in apoptotic process	1	SENP1
+protein desumoylation	1	SENP1
+apoptotic signaling pathway	1	SENP1
+homologous chromosome pairing at meiosis	1	SUN1
+spermatogenesis	1	SUN1
+meiotic attachment of telomere to nuclear envelope	1	SUN1
+microtubule binding	1	SUN2
+mitotic spindle organization	1	SUN2
+meiotic cell cycle	1	SUN2
+condensed nuclear chromosome	1	SUN2
+endosome membrane	1	SUN2
+actin binding	1	SYNE2
+nuclear outer membrane	1	SYNE2
+sarcoplasmic reticulum	1	SYNE2
+Z disc	1	SYNE2
+lamellipodium membrane	1	SYNE2
+filopodium membrane	1	SYNE2
+nuclear lumen	1	SYNE2
+sarcoplasmic reticulum membrane	1	SYNE2
+intermediate filament cytoskeleton	1	SYNE2
+disulfide oxidoreductase activity	1	TMX4
+misfolded protein binding	1	TOR1A
+ATP-dependent protein folding chaperone	1	TOR1A
+protein deneddylation	1	TOR1A
+response to oxidative stress	1	TOR1A
+organelle organization	1	TOR1A
+cell adhesion	1	TOR1A
+neuron projection development	1	TOR1A
+wound healing, spreading of cells	1	TOR1A
+intermediate filament cytoskeleton organization	1	TOR1A
+synaptic vesicle transport	1	TOR1A
+synaptic vesicle membrane organization	1	TOR1A
+chaperone cofactor-dependent protein refolding	1	TOR1A
+ dopamine uptake involved in synaptic transmission	1	TOR1A
+ER-associated misfolded protein catabolic process	1	TOR1A
+ synaptic vesicle endocytosis	1	TOR1A
+ protein localization to cell surface	1	TOR1A
+endoplasmic reticulum lumen	1	TOR1A
+synaptic vesicle	1	TOR1A
+secretory granule	1	TOR1A
+growth cone	1	TOR1A
+cytoplasmic vesicle membrane	1	TOR1A
+extrinsic component of endoplasmic reticulum membrane	1	TOR1A
+ATPase binding	1	TOR1AIP1
+protein localization to nuclear envelope	1	TOR1AIP1
+tubulin binding	1	TPR
+heat shock protein binding	1	TPR
+mitogen-activated protein kinase binding	1	TPR
+RNA import into nucleus	1	TPR
+protein export from nucleus	1	TPR
+nuclear pore organization	1	TPR
+mitotic spindle assembly checkpoint signaling	1	TPR
+ mRNA export from nucleus	1	TPR
+ mitotic sister chromatid separation	1	TPR
+ heterochromatin formation	1	TPR
+ protein stability	1	TPR
+mRNA export from nucleus in response to heat stress	1	TPR
+cellular response to interferon-alpha	1	TPR
+ protein import into nucleus	1	TPR
+nuclear matrix organization	1	TPR
+negative regulation of translational initiation	1	TPR
+ protein export from nucleus	1	TPR
+negative regulation of RNA export from nucleus	1	TPR
+nuclear pore complex assembly	1	TPR
+response to epidermal growth factor	1	TPR
+ mitotic cell cycle spindle assembly checkpoint	1	TPR
+ mitotic spindle assembly	1	TPR
+cytoplasmic dynein complex	1	TPR
+extrinsic component of membrane	1	TPR
+nuclear periphery	1	TPR
+protein heterodimerization activity	1	ZBTB1
+K63-linked polyubiquitin modification-dependent protein binding	1	ZBTB1
+ cytokine production	1	ZBTB1
+ immune system process	1	ZBTB1
+ T cell mediated immunity	1	ZBTB1
+chromatin remodeling	1	ZBTB1
+DNA damage response	1	ZBTB1
+translesion synthesis	1	ZBTB1
+B cell differentiation	1	ZBTB1
+ natural killer cell differentiation	1	ZBTB1
+T cell differentiation in thymus	1	ZBTB1
+cellular response to UV	1	ZBTB1
+mRNA transcription by RNA polymerase II	1	ZBTB1
+ T cell differentiation	1	ZBTB1
+thymus development	1	ZBTB1
+protein homooligomerization	1	ZBTB1
+ pro-T cell differentiation	1	ZBTB1
+RNA endonuclease activity	1	ZC3H12C
+RNA phosphodiester bond hydrolysis, endonucleolytic	1	ZC3H12C
+cellular_component	1	ZC3H12C
+cytoplasmic ribonucleoprotein granule	1	ZC3H12C
+protein kinase binding	1	ZC3HC1
+cell cycle	1	ZC3HC1
+negative regulation of extrinsic apoptotic signaling pathway in absence of ligand	1	ZC3HC1

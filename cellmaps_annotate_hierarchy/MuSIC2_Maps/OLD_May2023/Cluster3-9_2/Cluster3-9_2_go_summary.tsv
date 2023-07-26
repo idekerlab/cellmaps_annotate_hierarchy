@@ -1,0 +1,331 @@
+Feature	Number of Genes	Genes
+protein binding	30	ADPRS, ALOX5, ARIH2, CELF1, CPNE1, GABPB1, GINS3, MAB21L3, MBNL1, MCMBP, MRTFB, NAXE, PAK2, PAPOLA, PEF1, PEX7, PGLS, PNPO, PPP1R8, PTRHD1, RANBP3, RBM12, SEPHS1, SGTA, SMCHD1, SNRNP27, TRIP10, TTC9C, UBE2M, WDHD1
+nucleus	21	YBEY, ADPRS, ARIH2, CELF1, CMPK1, CPNE1, GABPB1, GINS1, GINS3, MBNL1, MCMBP, MRTFB, PAK2, PAPOLA, PPP1R8, RANBP3, SGTA, SNRNP27, SSBP2, UBE2M, ZNF331
+nucleoplasm	19	ADPRS, ALOX5, ARIH2, CELF1, CMPK1, CPNE1, GABPB1, GINS1, GINS3, MBNL1, MCMBP, PAPOLA, PPP1R8, RANBP3, RBM12, SNRNP27, TRIP10, UBE2M, WDHD1
+cytoplasm	17	ADPRS, ARIH2, CELF1, CMPK1, CPNE1, GINS1, MBNL1, PAK2, PAPOLA, PEF1, PPP1R8, RANBP3, SEPHS1, SGTA, SSBP2, TRIP10, WDHD1
+cytosol	12	ALOX5, CMPK1, CPNE1, MBNL1, MCMBP, PAK2, PEX7, PGLS, PNPO, SGTA, TRIP10, UBE2M
+RNA binding	7	CELF1, MBNL1, PAPOLA, PCDHGA9, PEF1, PPP1R8, RBM12
+identical protein binding	7	CPNE1, NAXE, PAK2, PEF1, SEPHS1, SGTA, TRIP10
+ATP binding	6	CMPK1, PAK2, PAPOLA, SEPHS1, SMCHD1, UBE2M
+extracellular exosome	6	CMPK1, CPNE1, NAXE, PEF1, PGLS, TRIP10
+metal ion binding	5	MDP1, YBEY, MBNL1, NAXE, SEPHS1
+plasma membrane	4	CPNE1, PAK2, PCDHGA9, SEPHS1
+nuclear membrane	3	ALOX5, CPNE1, SEPHS1
+perinuclear region of cytoplasm	3	ALOX5, PAK2, TRIP10
+mRNA processing	3	CELF1, MBNL1, PPP1R8
+regulation of RNA splicing	3	CELF1, MBNL1, RBM12
+membrane	3	CELF1, CPNE1, SGTA
+phosphorylation	3	CMPK1, PAK2, SEPHS1
+calcium ion binding	3	CPNE1, PCDHGA9, PEF1
+positive regulation of transcription by RNA polymerase II	3	GABPB1, MRTFB, SSBP2
+protein homodimerization activity	3	PEX7, PNPO, SMCHD1
+DNA binding	3	PPP1R8, SMCHD1, WDHD1
+magnesium ion binding	2	ADPRS, PAPOLA
+DNA repair	2	ADPRS, WDHD1
+mitochondrial matrix	2	ADPRS, NAXE
+negative regulation of angiogenesis	2	ALOX5, NAXE
+regulation of inflammatory response	2	ALOX5, CELF1
+extracellular region	2	ALOX5, NAXE
+extracellular space	2	ALOX5, NAXE
+ubiquitin-protein transferase activity	2	ARIH2, UBE2M
+zinc ion binding	2	ARIH2, ZNF331
+mRNA binding	2	CELF1, PPP1R8
+negative regulation of gene expression	2	CELF1, CPNE1
+cytoplasmic stress granule	2	CELF1, MBNL1
+ribonucleoprotein complex	2	CELF1, RBM12
+DNA unwinding involved in DNA replication	2	GINS1, GINS3
+positive regulation of DNA-directed DNA polymerase activity	2	GINS1, GINS3
+positive regulation of DNA primase activity	2	GINS1, GINS3
+GINS complex	2	GINS1, GINS3
+CMG complex	2	GINS1, GINS3
+nervous system development	2	MBNL1, PCDHGA9
+RNA splicing	2	MBNL1, PPP1R8
+chromatin binding	2	MCMBP, WDHD1
+DNA-templated DNA replication	2	MCMBP, WDHD1
+cadherin binding	2	MRTFB, PAK2
+signal transduction	2	PAK2, TRIP10
+protein modification process	2	SEPHS1, UBE2M
+regulation of DNA-templated transcription	2	SSBP2, ZNF331
+acid phosphatase activity	1	MDP1
+protein tyrosine phosphatase activity	1	MDP1
+metalloendopeptidase activity	1	YBEY
+RNA endonuclease activity	1	YBEY
+rRNA processing	1	YBEY
+RNA phosphodiester bond hydrolysis, endonucleolytic	1	YBEY
+hydrolase activity, hydrolyzing O-glycosyl compounds	1	ADPRS
+poly(ADP-ribose) glycohydrolase activity	1	ADPRS
+O-acetyl-ADP-ribose deacetylase activity	1	ADPRS
+ADP-ribosylserine hydrolase activity	1	ADPRS
+base-excision repair, gap-filling	1	ADPRS
+negative regulation of necroptotic process	1	ADPRS
+cellular response to superoxide	1	ADPRS
+peptidyl-serine ADP-deribosylation	1	ADPRS
+mitochondrion	1	ADPRS
+nuclear body	1	ADPRS
+site of DNA damage	1	ADPRS
+arachidonate 5-lipoxygenase activity	1	ALOX5
+arachidonate 12(S)-lipoxygenase activity	1	ALOX5
+iron ion binding	1	ALOX5
+hydrolase activity	1	ALOX5
+arachidonate 8(S)-lipoxygenase activity	1	ALOX5
+negative regulation of endothelial cell proliferation	1	ALOX5
+leukocyte chemotaxis involved in inflammatory response	1	ALOX5
+leukocyte migration involved in inflammatory response	1	ALOX5
+leukotriene production involved in inflammatory response	1	ALOX5
+leukotriene metabolic process	1	ALOX5
+humoral immune response	1	ALOX5
+leukotriene biosynthetic process	1	ALOX5
+lipoxygenase pathway	1	ALOX5
+positive regulation of bone mineralization	1	ALOX5
+lipid oxidation	1	ALOX5
+dendritic cell migration	1	ALOX5
+glucose homeostasis	1	ALOX5
+long-chain fatty acid biosynthetic process	1	ALOX5
+linoleic acid metabolic process	1	ALOX5
+regulation of fat cell differentiation	1	ALOX5
+negative regulation of inflammatory response	1	ALOX5
+regulation of insulin secretion	1	ALOX5
+negative regulation of vascular wound healing	1	ALOX5
+negative regulation of wound healing	1	ALOX5
+regulation of inflammatory response to wounding	1	ALOX5
+regulation of cytokine production involved in inflammatory response	1	ALOX5
+regulation of cellular response to oxidative stress	1	ALOX5
+leukotriene A4 biosynthetic process	1	ALOX5
+regulation of reactive oxygen species biosynthetic process	1	ALOX5
+negative regulation of response to endoplasmic reticulum stress	1	ALOX5
+negative regulation of sprouting angiogenesis	1	ALOX5
+positive regulation of leukocyte adhesion to arterial endothelial cell	1	ALOX5
+lipoxin biosynthetic process	1	ALOX5
+nuclear envelope	1	ALOX5
+nuclear envelope lumen	1	ALOX5
+nuclear matrix	1	ALOX5
+secretory granule lumen	1	ALOX5
+ficolin-1-rich granule lumen	1	ALOX5
+ubiquitin conjugating enzyme binding	1	ARIH2
+ubiquitin protein ligase activity	1	ARIH2
+protein polyubiquitination	1	ARIH2
+ubiquitin-dependent protein catabolic process	1	ARIH2
+protein ubiquitination	1	ARIH2
+positive regulation of proteasomal ubiquitin-dependent protein catabolic process	1	ARIH2
+developmental cell growth	1	ARIH2
+protein K63-linked ubiquitination	1	ARIH2
+protein K48-linked ubiquitination	1	ARIH2
+hematopoietic stem cell proliferation	1	ARIH2
+positive regulation of protein targeting to mitochondrion	1	ARIH2
+ubiquitin ligase complex	1	ARIH2
+mRNA regulatory element binding translation repressor activity	1	CELF1
+mRNA 3'-UTR binding	1	CELF1
+pre-mRNA binding	1	CELF1
+BRE binding	1	CELF1
+regulation of alternative mRNA splicing, via spliceosome	1	CELF1
+mRNA splice site recognition	1	CELF1
+germ cell development	1	CELF1
+negative regulation of cell population proliferation	1	CELF1
+embryo development ending in birth or egg hatching	1	CELF1
+positive regulation of gene expression	1	CELF1
+post-transcriptional gene silencing	1	CELF1
+ncRNA-mediated post-transcriptional gene silencing	1	CELF1
+mRNA destabilization	1	CELF1
+perinucleolar compartment	1	CELF1
+cytidylate kinase activity	1	CMPK1
+nucleoside diphosphate kinase activity	1	CMPK1
+uridine kinase activity	1	CMPK1
+UMP kinase activity	1	CMPK1
+CMP kinase activity	1	CMPK1
+dCMP kinase activity	1	CMPK1
+nucleoside monophosphate kinase activity	1	CMPK1
+'de novo' pyrimidine nucleobase biosynthetic process	1	CMPK1
+UMP biosynthetic process	1	CMPK1
+UDP biosynthetic process	1	CMPK1
+pyrimidine ribonucleotide biosynthetic process	1	CMPK1
+nucleobase-containing small molecule interconversion	1	CMPK1
+CDP biosynthetic process	1	CMPK1
+nucleoside monophosphate phosphorylation	1	CMPK1
+nucleolus	1	CMPK1
+phosphatidylserine binding	1	CPNE1
+endopeptidase activity	1	CPNE1
+calcium-dependent phospholipid binding	1	CPNE1
+NF-kappaB binding	1	CPNE1
+proteolysis	1	CPNE1
+lipid metabolic process	1	CPNE1
+vesicle-mediated transport	1	CPNE1
+regulation of I-kappaB kinase/NF-kappaB signaling	1	CPNE1
+negative regulation of DNA binding	1	CPNE1
+positive regulation of neuron differentiation	1	CPNE1
+positive regulation of protein kinase B signaling	1	CPNE1
+cellular response to calcium ion	1	CPNE1
+negative regulation of NIK/NF-kappaB signaling	1	CPNE1
+positive regulation of tumor necrosis factor-mediated signaling pathway	1	CPNE1
+neuron projection extension	1	CPNE1
+azurophil granule membrane	1	CPNE1
+transcription cis-regulatory region binding	1	GABPB1
+mitochondrion organization	1	GABPB1
+cytoplasmic ribonucleoprotein granule	1	GABPB1
+inner cell mass cell proliferation	1	GINS1
+DNA strand elongation involved in mitotic DNA replication	1	GINS1
+mitotic DNA replication initiation	1	GINS3
+regulatory region RNA binding	1	MBNL1
+double-stranded RNA binding	1	MBNL1
+in utero embryonic development	1	MBNL1
+embryonic limb morphogenesis	1	MBNL1
+myoblast differentiation	1	MBNL1
+sister chromatid cohesion	1	MCMBP
+cell division	1	MCMBP
+cell junction	1	MCMBP
+transcription coactivator activity	1	MRTFB
+muscle organ development	1	MRTFB
+positive regulation of striated muscle tissue development	1	MRTFB
+smooth muscle cell differentiation	1	MRTFB
+positive regulation of miRNA transcription	1	MRTFB
+nucleotide binding	1	NAXE
+NADHX epimerase activity	1	NAXE
+NADPHX epimerase activity	1	NAXE
+sprouting angiogenesis	1	NAXE
+lipid transport	1	NAXE
+regulation of cholesterol efflux	1	NAXE
+membrane raft distribution	1	NAXE
+nicotinamide nucleotide metabolic process	1	NAXE
+cilium	1	NAXE
+cell body	1	NAXE
+protein kinase activity	1	PAK2
+protein serine/threonine kinase activity	1	PAK2
+protein kinase binding	1	PAK2
+protein tyrosine kinase activator activity	1	PAK2
+small GTPase binding	1	PAK2
+protein serine kinase activity	1	PAK2
+stimulatory C-type lectin receptor signaling pathway	1	PAK2
+cardiac muscle hypertrophy	1	PAK2
+protein phosphorylation	1	PAK2
+negative regulation of protein kinase activity	1	PAK2
+apoptotic process	1	PAK2
+peptidyl-serine phosphorylation	1	PAK2
+adherens junction assembly	1	PAK2
+intracellular signal transduction	1	PAK2
+negative regulation of apoptotic process	1	PAK2
+regulation of MAPK cascade	1	PAK2
+protein autophosphorylation	1	PAK2
+vascular endothelial growth factor receptor signaling pathway	1	PAK2
+positive regulation of peptidyl-tyrosine phosphorylation	1	PAK2
+regulation of axonogenesis	1	PAK2
+localization	1	PAK2
+regulation of cytoskeleton organization	1	PAK2
+negative regulation of stress fiber assembly	1	PAK2
+dendritic spine development	1	PAK2
+bicellular tight junction assembly	1	PAK2
+cellular response to organic cyclic compound	1	PAK2
+cellular response to transforming growth factor beta stimulus	1	PAK2
+protein localization to cell-cell junction	1	PAK2
+positive regulation of extrinsic apoptotic signaling pathway	1	PAK2
+negative regulation of cysteine-type endopeptidase activity involved in execution phase of apoptosis	1	PAK2
+cell-cell junction	1	PAK2
+postsynaptic density	1	PAK2
+secretory granule	1	PAK2
+glutamatergic synapse	1	PAK2
+manganese ion binding	1	PAPOLA
+poly(A) RNA polymerase activity	1	PAPOLA
+mRNA polyadenylation	1	PAPOLA
+mRNA 3'-end processing	1	PAPOLA
+regulation of mRNA 3'-end processing	1	PAPOLA
+RNA polyadenylation	1	PAPOLA
+cell adhesion	1	PCDHGA9
+homophilic cell adhesion via plasma membrane adhesion molecules	1	PCDHGA9
+protein heterodimerization activity	1	PEF1
+protein dimerization activity	1	PEF1
+calcium-dependent protein binding	1	PEF1
+ubiquitin ligase-substrate adaptor activity	1	PEF1
+endoplasmic reticulum to Golgi vesicle-mediated transport	1	PEF1
+neural crest formation	1	PEF1
+neural crest cell development	1	PEF1
+COPII vesicle coating	1	PEF1
+response to calcium ion	1	PEF1
+positive regulation of protein monoubiquitination	1	PEF1
+endoplasmic reticulum	1	PEF1
+COPII vesicle coat	1	PEF1
+Cul3-RING ubiquitin ligase complex	1	PEF1
+peroxisome matrix targeting signal-2 binding	1	PEX7
+enzyme binding	1	PEX7
+neuron migration	1	PEX7
+endochondral ossification	1	PEX7
+fatty acid beta-oxidation	1	PEX7
+peroxisome organization	1	PEX7
+ether lipid biosynthetic process	1	PEX7
+protein import into peroxisome matrix	1	PEX7
+peroxisome	1	PEX7
+peroxisomal membrane	1	PEX7
+peroxisomal matrix	1	PEX7
+6-phosphogluconolactonase activity	1	PGLS
+carbohydrate metabolic process	1	PGLS
+pentose-phosphate shunt	1	PGLS
+pentose-phosphate shunt, oxidative branch	1	PGLS
+pyridoxamine-phosphate oxidase activity	1	PNPO
+FMN binding	1	PNPO
+pyridoxal phosphate binding	1	PNPO
+pyridoxine biosynthetic process	1	PNPO
+pyridoxal phosphate biosynthetic process	1	PNPO
+endonuclease activity	1	PPP1R8
+protein serine/threonine phosphatase inhibitor activity	1	PPP1R8
+ribonuclease E activity	1	PPP1R8
+molecular function inhibitor activity	1	PPP1R8
+RNA catabolic process	1	PPP1R8
+cell population proliferation	1	PPP1R8
+negative regulation of protein dephosphorylation	1	PPP1R8
+RNA phosphodiester bond hydrolysis	1	PPP1R8
+spliceosomal complex	1	PPP1R8
+nuclear speck	1	PPP1R8
+aminoacyl-tRNA hydrolase activity	1	PTRHD1
+GTPase activator activity	1	RANBP3
+R-SMAD binding	1	RANBP3
+protein export from nucleus	1	RANBP3
+nuclear pore	1	RANBP3
+selenide, water dikinase activity	1	SEPHS1
+GTP binding	1	SEPHS1
+selenocysteine biosynthetic process	1	SEPHS1
+protein self-association	1	SGTA
+molecular adaptor activity	1	SGTA
+BAT3 complex binding	1	SGTA
+post-translational protein targeting to endoplasmic reticulum membrane	1	SGTA
+ubiquitin-dependent ERAD pathway	1	SGTA
+tail-anchored membrane protein insertion into ER membrane	1	SGTA
+negative regulation of ER-associated ubiquitin-dependent protein catabolic process	1	SGTA
+positive regulation of ER-associated ubiquitin-dependent protein catabolic process	1	SGTA
+negative regulation of ubiquitin-dependent protein catabolic process	1	SGTA
+TRC complex	1	SGTA
+ATP hydrolysis activity	1	SMCHD1
+double-strand break repair	1	SMCHD1
+dosage compensation by inactivation of X chromosome	1	SMCHD1
+nose development	1	SMCHD1
+positive regulation of DNA repair	1	SMCHD1
+chromosome organization	1	SMCHD1
+inactivation of X chromosome by heterochromatin formation	1	SMCHD1
+negative regulation of double-strand break repair via homologous recombination	1	SMCHD1
+positive regulation of double-strand break repair via nonhomologous end joining	1	SMCHD1
+chromosome, telomeric region	1	SMCHD1
+Barr body	1	SMCHD1
+site of double-strand break	1	SMCHD1
+nucleic acid binding	1	SNRNP27
+mRNA splicing, via spliceosome	1	SNRNP27
+biological_process	1	SNRNP27
+cellular_component	1	SNRNP27
+U4/U6 x U5 tri-snRNP complex	1	SNRNP27
+single-stranded DNA binding	1	SSBP2
+lipid binding	1	TRIP10
+endocytosis	1	TRIP10
+cell communication	1	TRIP10
+actin cytoskeleton organization	1	TRIP10
+phagocytic cup	1	TRIP10
+lysosome	1	TRIP10
+Golgi apparatus	1	TRIP10
+cytoskeleton	1	TRIP10
+cell cortex	1	TRIP10
+cell projection	1	TRIP10
+intracellular membrane-bounded organelle	1	TRIP10
+NEDD8 transferase activity	1	UBE2M
+NEDD8 conjugating enzyme activity	1	UBE2M
+positive regulation of neuron apoptotic process	1	UBE2M
+post-translational protein modification	1	UBE2M
+protein neddylation	1	UBE2M
+mitotic cell cycle	1	WDHD1
+nuclear replication fork	1	WDHD1
+RNA polymerase II cis-regulatory region sequence-specific DNA binding	1	ZNF331
+DNA-binding transcription factor activity, RNA polymerase II-specific	1	ZNF331
+regulation of transcription by RNA polymerase II	1	ZNF331

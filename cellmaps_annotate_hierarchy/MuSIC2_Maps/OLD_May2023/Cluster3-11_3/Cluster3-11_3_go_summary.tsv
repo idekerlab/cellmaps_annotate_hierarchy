@@ -1,0 +1,304 @@
+Feature	Number of Genes	Genes
+cytosol	18	NAA30, HARS1, BIN1, FERMT2, XPNPEP1, EFL1, IST1, PLCG1, GSPT2, CARS1, NARS1, BLVRA, ATXN2L, PPM1A, YKT6, NFKB2, NAGK, FHL1
+protein binding	17	NAA30, MCTS1, BIN1, FERMT2, LCMT2, IST1, PLCG1, GSPT2, CARS1, NARS1, BLVRA, ATXN2L, PPM1A, EEF1A2, NFKB2, NAGK, FHL1
+cytoplasm	13	NAA30, HARS1, BIN1, FERMT2, XPNPEP1, LCMT2, PLCG1, CARS1, NARS1, YKT6, EEF1A2, NFKB2, FHL1
+nucleus	7	NAA30, BIN1, FERMT2, PPM1A, EEF1A2, NFKB2, FHL1
+plasma membrane	6	BIN1, FERMT2, PLCG1, PPM1A, YKT6, FHL1
+extracellular exosome	5	XPNPEP1, IST1, NARS1, BLVRA, NAGK
+ATP binding	4	HARS1, CARS1, NARS1, NAGK
+identical protein binding	3	HARS1, BIN1, CARS1
+translation	3	HARS1, GSPT2, EEF1A2
+RNA binding	3	MCTS1, GSPT2, ATXN2L
+membrane	3	BIN1, ATXN2L, PPM1A
+protein kinase binding	3	FERMT2, PLCG1, EEF1A2
+nucleoplasm	3	FERMT2, PPM1A, NFKB2
+GTPase activity	3	EFL1, GSPT2, EEF1A2
+GTP binding	3	EFL1, GSPT2, EEF1A2
+cadherin binding	3	IST1, ATXN2L, YKT6
+protein homodimerization activity	2	HARS1, XPNPEP1
+tRNA aminoacylation for protein translation	2	HARS1, NARS1
+mitochondrion	2	HARS1, YKT6
+cell cycle	2	MCTS1, GSPT2
+actin filament binding	2	BIN1, FERMT2
+negative regulation of transcription by RNA polymerase II	2	BIN1, PPM1A
+positive regulation of apoptotic process	2	BIN1, EEF1A2
+positive regulation of GTPase activity	2	BIN1, FERMT2
+nuclear envelope	2	BIN1, IST1
+endosome	2	BIN1, YKT6
+I band	2	BIN1, FERMT2
+glutamatergic synapse	2	BIN1, PLCG1
+focal adhesion	2	FERMT2, FHL1
+manganese ion binding	2	XPNPEP1, PPM1A
+translation elongation factor activity	2	EFL1, EEF1A2
+translational elongation	2	EFL1, EEF1A2
+protein transport	2	IST1, YKT6
+cell migration	2	PLCG1, NARS1
+metal ion binding	2	CARS1, FHL1
+peptide alpha-N-acetyltransferase activity	1	NAA30
+N-terminal peptidyl-methionine acetylation	1	NAA30
+NatC complex	1	NAA30
+histidine-tRNA ligase activity	1	HARS1
+histidyl-tRNA aminoacylation	1	HARS1
+mitochondrial translation	1	HARS1
+translation initiation factor activity	1	MCTS1
+formation of translation preinitiation complex	1	MCTS1
+DNA damage response	1	MCTS1
+positive regulation of cell population proliferation	1	MCTS1
+ribosome disassembly	1	MCTS1
+IRES-dependent viral translational initiation	1	MCTS1
+protease binding	1	BIN1
+phospholipid binding	1	BIN1
+aspartic-type endopeptidase inhibitor activity	1	BIN1
+clathrin binding	1	BIN1
+tau protein binding	1	BIN1
+GTPase binding	1	BIN1
+protein-folding chaperone binding	1	BIN1
+RNA polymerase binding	1	BIN1
+endocytosis	1	BIN1
+nucleus organization	1	BIN1
+cytoskeleton organization	1	BIN1
+endosome to lysosome transport	1	BIN1
+regulation of cell cycle process	1	BIN1
+positive regulation of actin filament polymerization	1	BIN1
+T-tubule organization	1	BIN1
+regulation of neuron differentiation	1	BIN1
+positive regulation of endocytosis	1	BIN1
+synaptic vesicle endocytosis	1	BIN1
+positive regulation of astrocyte differentiation	1	BIN1
+nucleus localization	1	BIN1
+lipid tube assembly	1	BIN1
+regulation of heart rate by cardiac conduction	1	BIN1
+negative regulation of potassium ion transmembrane transport	1	BIN1
+negative regulation of amyloid-beta formation	1	BIN1
+negative regulation of aspartic-type endopeptidase activity involved in amyloid precursor protein catabolic process	1	BIN1
+negative regulation of ventricular cardiac muscle cell action potential	1	BIN1
+negative regulation of calcium ion transmembrane transport via high voltage-gated calcium channel	1	BIN1
+cytoskeleton	1	BIN1
+synaptic vesicle	1	BIN1
+actin cytoskeleton	1	BIN1
+Z disc	1	BIN1
+T-tubule	1	BIN1
+axon	1	BIN1
+dendrite	1	BIN1
+vesicle	1	BIN1
+node of Ranvier	1	BIN1
+axon initial segment	1	BIN1
+varicosity	1	BIN1
+axon terminus	1	BIN1
+cerebellar mossy fiber	1	BIN1
+lipid tube	1	BIN1
+RNA polymerase II transcription repressor complex	1	BIN1
+extrinsic component of synaptic vesicle membrane	1	BIN1
+actin binding	1	FERMT2
+integrin binding	1	FERMT2
+phosphatidylinositol-3,4,5-trisphosphate binding	1	FERMT2
+type I transforming growth factor beta receptor binding	1	FERMT2
+SMAD binding	1	FERMT2
+cell adhesion	1	FERMT2
+cell-matrix adhesion	1	FERMT2
+transforming growth factor beta receptor signaling pathway	1	FERMT2
+integrin-mediated signaling pathway	1	FERMT2
+regulation of cell shape	1	FERMT2
+positive regulation of epithelial to mesenchymal transition	1	FERMT2
+Wnt signaling pathway	1	FERMT2
+regulation of cell morphogenesis	1	FERMT2
+positive regulation of cell migration	1	FERMT2
+integrin activation	1	FERMT2
+positive regulation of integrin activation	1	FERMT2
+adherens junction maintenance	1	FERMT2
+substrate adhesion-dependent cell spreading	1	FERMT2
+positive regulation of myosin light chain kinase activity	1	FERMT2
+negative regulation of vascular permeability	1	FERMT2
+negative regulation of fat cell differentiation	1	FERMT2
+positive regulation of osteoblast differentiation	1	FERMT2
+focal adhesion assembly	1	FERMT2
+positive regulation of stress fiber assembly	1	FERMT2
+positive regulation of focal adhesion assembly	1	FERMT2
+positive regulation of protein kinase B signaling	1	FERMT2
+limb development	1	FERMT2
+positive regulation of ERK1 and ERK2 cascade	1	FERMT2
+protein localization to membrane	1	FERMT2
+positive regulation of substrate adhesion-dependent cell spreading	1	FERMT2
+positive regulation of protein localization to nucleus	1	FERMT2
+protein localization to cell junction	1	FERMT2
+positive regulation of mesenchymal stem cell proliferation	1	FERMT2
+positive regulation of wound healing, spreading of epidermal cells	1	FERMT2
+stress fiber	1	FERMT2
+adherens junction	1	FERMT2
+cell cortex	1	FERMT2
+cell surface	1	FERMT2
+cell junction	1	FERMT2
+extrinsic component of cytoplasmic side of plasma membrane	1	FERMT2
+lamellipodium membrane	1	FERMT2
+aminopeptidase activity	1	XPNPEP1
+metalloaminopeptidase activity	1	XPNPEP1
+proteolysis	1	XPNPEP1
+bradykinin catabolic process	1	XPNPEP1
+negative regulation of programmed cell death	1	XPNPEP1
+tRNA methyltransferase activity	1	LCMT2
+tRNA modification	1	LCMT2
+tRNA methylation	1	LCMT2
+wybutosine biosynthetic process	1	LCMT2
+ribosome binding	1	EFL1
+cytosolic ribosome assembly	1	EFL1
+GTP metabolic process	1	EFL1
+ribonucleoprotein complex	1	EFL1
+protein domain specific binding	1	IST1
+protein-containing complex binding	1	IST1
+MIT domain binding	1	IST1
+protein localization	1	IST1
+abscission	1	IST1
+viral release from host cell	1	IST1
+multivesicular body assembly	1	IST1
+establishment of protein localization	1	IST1
+positive regulation of proteolysis	1	IST1
+viral capsid secondary envelopment	1	IST1
+collateral sprouting	1	IST1
+positive regulation of collateral sprouting	1	IST1
+cell division	1	IST1
+cytoskeleton-dependent cytokinesis	1	IST1
+ESCRT III complex disassembly	1	IST1
+extracellular region	1	IST1
+endoplasmic reticulum-Golgi intermediate compartment	1	IST1
+centrosome	1	IST1
+midbody	1	IST1
+azurophil granule lumen	1	IST1
+intracellular membrane-bounded organelle	1	IST1
+Flemming body	1	IST1
+phosphatidylinositol phospholipase C activity	1	PLCG1
+phospholipase C activity	1	PLCG1
+neurotrophin TRKA receptor binding	1	PLCG1
+calcium ion binding	1	PLCG1
+receptor tyrosine kinase binding	1	PLCG1
+glutamate receptor binding	1	PLCG1
+calcium-dependent phospholipase C activity	1	PLCG1
+in utero embryonic development	1	PLCG1
+negative regulation of inflammatory response to antigenic stimulus	1	PLCG1
+epidermal growth factor receptor signaling pathway	1	PLCG1
+phospholipid catabolic process	1	PLCG1
+positive regulation of epithelial cell migration	1	PLCG1
+calcium-mediated signaling	1	PLCG1
+Fc-epsilon receptor signaling pathway	1	PLCG1
+positive regulation of blood vessel endothelial cell migration	1	PLCG1
+positive regulation of angiogenesis	1	PLCG1
+phosphatidylinositol metabolic process	1	PLCG1
+phosphatidylinositol-mediated signaling	1	PLCG1
+modulation of chemical synaptic transmission	1	PLCG1
+T cell receptor signaling pathway	1	PLCG1
+release of sequestered calcium ion into cytosol	1	PLCG1
+positive regulation of release of sequestered calcium ion into cytosol	1	PLCG1
+cellular response to epidermal growth factor stimulus	1	PLCG1
+positive regulation of vascular endothelial cell proliferation	1	PLCG1
+positive regulation of endothelial cell apoptotic process	1	PLCG1
+ruffle	1	PLCG1
+cell-cell junction	1	PLCG1
+COP9 signalosome	1	PLCG1
+lamellipodium	1	PLCG1
+ruffle membrane	1	PLCG1
+cell projection	1	PLCG1
+Schaffer collateral - CA1 synapse	1	PLCG1
+translation release factor activity	1	GSPT2
+nuclear-transcribed mRNA catabolic process, nonsense-mediated decay	1	GSPT2
+translational termination	1	GSPT2
+translation release factor complex	1	GSPT2
+tRNA binding	1	CARS1
+cysteine-tRNA ligase activity	1	CARS1
+cysteinyl-tRNA aminoacylation	1	CARS1
+nucleic acid binding	1	NARS1
+asparagine-tRNA ligase activity	1	NARS1
+CCR3 chemokine receptor binding	1	NARS1
+protein dimerization activity	1	NARS1
+asparaginyl-tRNA aminoacylation	1	NARS1
+cerebral cortex development	1	NARS1
+nucleotide binding	1	BLVRA
+biliverdin reductase (NAD(P)+) activity	1	BLVRA
+zinc ion binding	1	BLVRA
+biliberdin reductase NAD+ activity	1	BLVRA
+biliverdin reductase (NADP+) activity	1	BLVRA
+heme catabolic process	1	BLVRA
+mRNA binding	1	ATXN2L
+mRNA metabolic process	1	ATXN2L
+stress granule assembly	1	ATXN2L
+cytoplasmic stress granule	1	ATXN2L
+nuclear speck	1	ATXN2L
+magnesium ion binding	1	PPM1A
+protein serine/threonine phosphatase activity	1	PPM1A
+myosin phosphatase activity	1	PPM1A
+calmodulin-dependent protein phosphatase activity	1	PPM1A
+R-SMAD binding	1	PPM1A
+protein dephosphorylation	1	PPM1A
+N-terminal protein myristoylation	1	PPM1A
+protein export from nucleus	1	PPM1A
+negative regulation of SMAD protein complex assembly	1	PPM1A
+dephosphorylation	1	PPM1A
+negative regulation of transforming growth factor beta receptor signaling pathway	1	PPM1A
+negative regulation of BMP signaling pathway	1	PPM1A
+peptidyl-threonine dephosphorylation	1	PPM1A
+positive regulation of I-kappaB kinase/NF-kappaB signaling	1	PPM1A
+negative regulation of I-kappaB kinase/NF-kappaB signaling	1	PPM1A
+positive regulation of DNA-templated transcription	1	PPM1A
+positive regulation of protein export from nucleus	1	PPM1A
+regulation of cell cycle	1	PPM1A
+cellular response to transforming growth factor beta stimulus	1	PPM1A
+positive regulation of canonical Wnt signaling pathway	1	PPM1A
+negative regulation of NIK/NF-kappaB signaling	1	PPM1A
+SNAP receptor activity	1	YKT6
+protein-cysteine S-palmitoyltransferase activity	1	YKT6
+endoplasmic reticulum to Golgi vesicle-mediated transport	1	YKT6
+vesicle targeting	1	YKT6
+vesicle docking involved in exocytosis	1	YKT6
+retrograde transport, endosome to Golgi	1	YKT6
+membrane fusion	1	YKT6
+Golgi membrane	1	YKT6
+endoplasmic reticulum	1	YKT6
+Golgi apparatus	1	YKT6
+transport vesicle	1	YKT6
+cytoplasmic vesicle membrane	1	YKT6
+SNARE complex	1	YKT6
+endoplasmic reticulum-Golgi intermediate compartment membrane	1	YKT6
+neuronal cell body	1	YKT6
+apical dendrite	1	YKT6
+basal dendrite	1	YKT6
+translation factor activity, RNA binding	1	EEF1A2
+positive regulation of lipid kinase activity	1	EEF1A2
+regulation of chaperone-mediated autophagy	1	EEF1A2
+eukaryotic translation elongation factor 1 complex	1	EEF1A2
+synapse	1	EEF1A2
+cytoplasmic side of lysosomal membrane	1	EEF1A2
+RNA polymerase II cis-regulatory region sequence-specific DNA binding	1	NFKB2
+DNA-binding transcription factor activity, RNA polymerase II-specific	1	NFKB2
+DNA-binding transcription activator activity, RNA polymerase II-specific	1	NFKB2
+DNA-binding transcription factor activity	1	NFKB2
+sequence-specific double-stranded DNA binding	1	NFKB2
+follicular dendritic cell differentiation	1	NFKB2
+germinal center formation	1	NFKB2
+regulation of DNA-templated transcription	1	NFKB2
+regulation of transcription by RNA polymerase II	1	NFKB2
+inflammatory response	1	NFKB2
+I-kappaB kinase/NF-kappaB signaling	1	NFKB2
+extracellular matrix organization	1	NFKB2
+cellular response to stress	1	NFKB2
+response to cytokine	1	NFKB2
+NIK/NF-kappaB signaling	1	NFKB2
+innate immune response	1	NFKB2
+positive regulation of transcription by RNA polymerase II	1	NFKB2
+rhythmic process	1	NFKB2
+spleen development	1	NFKB2
+chromatin	1	NFKB2
+Bcl3/NF-kappaB2 complex	1	NFKB2
+N-acetylglucosamine kinase activity	1	NAGK
+N-acetylglucosamine metabolic process	1	NAGK
+N-acetylmannosamine metabolic process	1	NAGK
+N-acetylneuraminate catabolic process	1	NAGK
+carbohydrate phosphorylation	1	NAGK
+molecular_function	1	FHL1
+transmembrane transporter binding	1	FHL1
+regulation of membrane depolarization	1	FHL1
+muscle organ development	1	FHL1
+animal organ morphogenesis	1	FHL1
+negative regulation of G2/M transition of mitotic cell cycle	1	FHL1
+cell differentiation	1	FHL1
+negative regulation of cell growth	1	FHL1
+positive regulation of potassium ion transport	1	FHL1
+regulation of potassium ion transmembrane transporter activity	1	FHL1
+negative regulation of G1/S transition of mitotic cell cycle	1	FHL1

@@ -1,0 +1,58 @@
+Feature	Number of Genes	Genes
+protein binding	4	CLDND1, ACOX1, DCXR, LRCH1
+protein homodimerization activity	2	ACOX1, KYAT3
+cytosol	2	ACOX1, DCXR
+cytoplasm	2	KYAT3, LRCH1
+cell surface	1	CLDND1
+apical plasma membrane	1	CLDND1
+acyl-CoA oxidase activity	1	ACOX1
+fatty acid binding	1	ACOX1
+palmitoyl-CoA oxidase activity	1	ACOX1
+PDZ domain binding	1	ACOX1
+flavin adenine dinucleotide binding	1	ACOX1
+FAD binding	1	ACOX1
+very long-chain fatty acid metabolic process	1	ACOX1
+generation of precursor metabolites and energy	1	ACOX1
+lipid metabolic process	1	ACOX1
+prostaglandin metabolic process	1	ACOX1
+spermatogenesis	1	ACOX1
+fatty acid catabolic process	1	ACOX1
+fatty acid oxidation	1	ACOX1
+fatty acid beta-oxidation using acyl-CoA oxidase	1	ACOX1
+hydrogen peroxide biosynthetic process	1	ACOX1
+lipid homeostasis	1	ACOX1
+very long-chain fatty acid beta-oxidation	1	ACOX1
+peroxisome	1	ACOX1
+peroxisomal membrane	1	ACOX1
+peroxisomal matrix	1	ACOX1
+membrane	1	ACOX1
+carbonyl reductase (NADPH) activity	1	DCXR
+oxidoreductase activity, acting on NAD(P)H, quinone or similar compound as acceptor	1	DCXR
+identical protein binding	1	DCXR
+L-xylulose reductase (NADP+) activity	1	DCXR
+xylulose metabolic process	1	DCXR
+glucose metabolic process	1	DCXR
+NADP metabolic process	1	DCXR
+glucuronate catabolic process to xylulose 5-phosphate	1	DCXR
+D-xylose metabolic process	1	DCXR
+positive regulation of reactive oxygen species metabolic process	1	DCXR
+nucleus	1	DCXR
+cytoplasmic microtubule	1	DCXR
+plasma membrane	1	DCXR
+microvillus	1	DCXR
+brush border	1	DCXR
+extracellular exosome	1	DCXR
+RNA binding	1	KYAT3
+kynurenine-oxoglutarate transaminase activity	1	KYAT3
+pyridoxal phosphate binding	1	KYAT3
+kynurenine-glyoxylate transaminase activity	1	KYAT3
+cysteine-S-conjugate beta-lyase activity	1	KYAT3
+2-oxoglutarate metabolic process	1	KYAT3
+amino acid metabolic process	1	KYAT3
+biosynthetic process	1	KYAT3
+kynurenine metabolic process	1	KYAT3
+L-kynurenine catabolic process	1	KYAT3
+mitochondrion	1	KYAT3
+negative regulation of GTPase activity	1	LRCH1
+cellular response to chemokine	1	LRCH1
+negative regulation of T cell migration	1	LRCH1

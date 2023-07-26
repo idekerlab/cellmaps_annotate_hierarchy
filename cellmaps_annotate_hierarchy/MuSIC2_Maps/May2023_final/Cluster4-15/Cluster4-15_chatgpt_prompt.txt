@@ -1,0 +1,106 @@
+Your response should be formatted as Markdown paragraphs
+Write a critical and concise analysis of this human protein system, describing your reasoning as you go and providing references to scientific papers.
+
+A critical goal of the analysis is to determine if this is a novel complex or if any proteins are novel members of a known complex
+
+Format with Title, Summary, and References sections.        
+Avoid overly general statements of how the proteins are involved in various cellular processes        
+Avoid repeating the goals of the analysis.
+
+What cellular components and complexes are involved in this system?
+What mechanisms and biological processes are performed by this system?
+Propose a name for the system to reflect the cellular location and function, and should be specific but brief. Do not compose an acronym. Place it as the title of your report
+Human Proteins: ARVCF, CDH2, CDH4, CDH8, CTNNA1, CTNNB1, CTNND1, EPB41L2, EPHB1, EPHB2, HORMAD2, PCDH7, PCDHA1, PCDHGA2, PCDHGB1, PKP4, TMTC4.
+
+System features from GO terms: 
+plasma membrane: 15 proteins: ARVCF, CDH2, CDH4, CDH8, CTNNA1, CTNNB1, CTNND1, EPB41L2, EPHB1, EPHB2, PCDH7, PCDHA1, PCDHGA2, PCDHGB1, PKP4
+protein binding: 10 proteins: ARVCF, CDH2, CTNNA1, CTNNB1, CTNND1, EPB41L2, EPHB1, EPHB2, HORMAD2, PKP4
+cell adhesion: 10 proteins: ARVCF, CDH2, CDH4, CDH8, CTNNA1, CTNNB1, PCDH7, PCDHA1, PCDHGA2, PCDHGB1
+cadherin binding: 8 proteins: ARVCF, CDH2, CDH4, CDH8, CTNNA1, CTNNB1, CTNND1, PKP4
+adherens junction: 8 proteins: ARVCF, CDH2, CDH4, CDH8, CTNNA1, CTNNB1, CTNND1, PKP4
+calcium ion binding: 7 proteins: CDH2, CDH4, CDH8, PCDH7, PCDHA1, PCDHGA2, PCDHGB1
+homophilic cell adhesion via plasma membrane adhesion molecules: 7 proteins: CDH2, CDH4, CDH8, PCDH7, PCDHA1, PCDHGA2, PCDHGB1
+cytosol: 7 proteins: CTNNA1, CTNNB1, CTNND1, EPB41L2, EPHB1, EPHB2, HORMAD2
+cell-cell junction assembly: 6 proteins: ARVCF, CDH2, CDH4, CDH8, CTNND1, PKP4
+cell-cell adhesion: 6 proteins: ARVCF, CDH2, CTNNA1, CTNNB1, CTNND1, PKP4
+catenin complex: 6 proteins: CDH2, CDH4, CDH8, CTNNA1, CTNNB1, CTNND1
+nucleus: 5 proteins: ARVCF, CTNNB1, CTNND1, HORMAD2, PKP4
+cytoplasm: 5 proteins: ARVCF, CDH2, CTNNB1, CTNND1, PKP4
+cell-cell junction: 5 proteins: CDH2, CTNNA1, CTNNB1, CTNND1, PKP4
+cell junction: 5 proteins: CDH2, CTNNA1, CTNNB1, EPB41L2, PKP4
+glutamatergic synapse: 5 proteins: CDH8, CTNNB1, CTNND1, EPHB1, EPHB2
+identical protein binding: 4 proteins: CDH2, CDH8, CTNNA1, EPHB2
+cell-cell adhesion mediated by cadherin: 4 proteins: CDH2, CDH4, CDH8, CTNND1
+focal adhesion: 4 proteins: CDH2, CTNNA1, CTNNB1, EPB41L2
+lamellipodium: 4 proteins: CDH2, CTNNA1, CTNNB1, CTNND1
+nucleoplasm: 4 proteins: CTNNB1, EPB41L2, EPHB2, HORMAD2
+extracellular exosome: 4 proteins: CTNNB1, CTNND1, EPB41L2, EPHB1
+nervous system development: 4 proteins: EPHB2, PCDHA1, PCDHGA2, PCDHGB1
+beta-catenin binding: 3 proteins: CDH2, CTNNA1, CTNND1
+cell morphogenesis: 3 proteins: CDH2, CDH4, CDH8
+multicellular organism development: 3 proteins: CDH2, CDH4, CDH8
+calcium-dependent cell-cell adhesion via plasma membrane cell adhesion molecules: 3 proteins: CDH2, CDH4, CDH8
+adherens junction organization: 3 proteins: CDH2, CDH4, CDH8
+negative regulation of canonical Wnt signaling pathway: 3 proteins: CDH2, CTNNB1, CTNND1
+cell surface: 3 proteins: CDH2, CTNND1, EPHB2
+axon guidance: 3 proteins: CDH4, EPHB1, EPHB2
+ synapse assembly: 3 proteins: CTNNB1, EPHB1, EPHB2
+extracellular region: 3 proteins: EPHB1, EPHB2, PCDHA1
+endoplasmic reticulum: 3 proteins: EPHB1, PCDHA1, TMTC4
+RNA binding: 2 proteins: CDH2, CTNNA1
+protein kinase binding: 2 proteins: CDH2, CTNNB1
+protein phosphatase binding: 2 proteins: CDH2, CTNNB1
+alpha-catenin binding: 2 proteins: CDH2, CTNNB1
+gamma-catenin binding: 2 proteins: CDH2, CTNNA1
+heterophilic cell-cell adhesion via plasma membrane cell adhesion molecules: 2 proteins: CDH2, CDH4
+brain development: 2 proteins: CDH2, CTNND1
+detection of muscle stretch: 2 proteins: CDH2, CTNNB1
+ MAPK cascade: 2 proteins: CDH2, CTNNB1
+synaptic vesicle clustering: 2 proteins: CDH2, CTNNB1
+fascia adherens: 2 proteins: CDH2, CTNNB1
+postsynaptic density: 2 proteins: CDH2, PKP4
+intercalated disc: 2 proteins: CDH2, CTNNA1
+basolateral plasma membrane: 2 proteins: CDH2, CTNNB1
+apicolateral plasma membrane: 2 proteins: CDH2, CTNNB1
+desmosome: 2 proteins: CDH2, PKP4
+apical part of cell: 2 proteins: CDH2, CTNNB1
+structural molecule activity: 2 proteins: CTNNA1, EPB41L2
+neuroblast proliferation: 2 proteins: CTNNA1, CTNNB1
+odontogenesis of dentin-containing tooth: 2 proteins: CTNNA1, CTNNB1
+cellular response to indole-3-methanol: 2 proteins: CTNNA1, CTNNB1
+zonula adherens: 2 proteins: CTNNA1, CTNND1
+flotillin complex: 2 proteins: CTNNA1, CTNNB1
+ gene expression: 2 proteins: CTNNB1, EPHB2
+ protein localization to cell surface: 2 proteins: CTNNB1, EPHB2
+spindle pole: 2 proteins: CTNNB1, PKP4
+centrosome: 2 proteins: CTNNB1, HORMAD2
+cell cortex: 2 proteins: CTNNB1, EPB41L2
+membrane: 2 proteins: CTNNB1, TMTC4
+presynaptic membrane: 2 proteins: CTNNB1, EPHB2
+postsynaptic membrane: 2 proteins: CTNNB1, EPHB2
+perinuclear region of cytoplasm: 2 proteins: CTNNB1, PKP4
+Schaffer collateral - CA1 synapse: 2 proteins: CTNNB1, CTNND1
+presynaptic active zone cytoplasmic component: 2 proteins: CTNNB1, CTNND1
+postsynaptic density, intracellular component: 2 proteins: CTNNB1, CTNND1
+signaling receptor binding: 2 proteins: CTNND1, EPHB2
+growth cone: 2 proteins: CTNND1, PCDHGB1
+midbody: 2 proteins: CTNND1, PKP4
+dendritic spine: 2 proteins: CTNND1, EPHB2
+hippocampal mossy fiber to CA3 synapse: 2 proteins: CTNND1, EPHB2
+cytoskeleton: 2 proteins: EPB41L2, PKP4
+transmembrane-ephrin receptor activity: 2 proteins: EPHB1, EPHB2
+ATP binding: 2 proteins: EPHB1, EPHB2
+axon guidance receptor activity: 2 proteins: EPHB1, EPHB2
+protein-containing complex binding: 2 proteins: EPHB1, EPHB2
+angiogenesis: 2 proteins: EPHB1, EPHB2
+protein phosphorylation: 2 proteins: EPHB1, EPHB2
+optic nerve morphogenesis: 2 proteins: EPHB1, EPHB2
+hindbrain tangential cell migration: 2 proteins: EPHB1, EPHB2
+central nervous system projection neuron axonogenesis: 2 proteins: EPHB1, EPHB2
+retinal ganglion cell axon guidance: 2 proteins: EPHB1, EPHB2
+ephrin receptor signaling pathway: 2 proteins: EPHB1, EPHB2
+camera-type eye morphogenesis: 2 proteins: EPHB1, EPHB2
+dendritic spine development: 2 proteins: EPHB1, EPHB2
+dendritic spine morphogenesis: 2 proteins: EPHB1, EPHB2
+axon: 2 proteins: EPHB1, EPHB2
+dendrite: 2 proteins: EPHB1, EPHB2

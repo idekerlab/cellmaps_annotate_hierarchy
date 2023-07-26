@@ -1,0 +1,72 @@
+Feature	Number of Genes	Genes
+protein binding	4	CDC42BPG, KIF5B, PTPN21, WDR62
+cytosol	3	CDC42BPG, KIF5B, WDR62
+centriolar satellite	3	CDC42BPG, KIF5B, WDR62
+ATP binding	2	CDC42BPG, KIF5B
+cytoplasm	2	CDC42BPG, PTPN21
+cytoskeleton	2	CDC42BPG, PTPN21
+membrane	2	EHBP1L1, KIF5B
+magnesium ion binding	1	CDC42BPG
+protein serine/threonine kinase activity	1	CDC42BPG
+protein serine kinase activity	1	CDC42BPG
+protein phosphorylation	1	CDC42BPG
+peptidyl-threonine phosphorylation	1	CDC42BPG
+actomyosin structure organization	1	CDC42BPG
+actin cytoskeleton reorganization	1	CDC42BPG
+cell leading edge	1	CDC42BPG
+molecular_function	1	EHBP1L1
+biological_process	1	EHBP1L1
+endosome	1	EHBP1L1
+microtubule motor activity	1	KIF5B
+microtubule binding	1	KIF5B
+plus-end-directed microtubule motor activity	1	KIF5B
+ATP hydrolysis activity	1	KIF5B
+identical protein binding	1	KIF5B
+protein-containing complex binding	1	KIF5B
+cadherin binding	1	KIF5B
+microtubule-based movement	1	KIF5B
+cytoplasm organization	1	KIF5B
+axon guidance	1	KIF5B
+ synaptic transmission, GABAergic	1	KIF5B
+lysosome localization	1	KIF5B
+stress granule disassembly	1	KIF5B
+natural killer cell mediated cytotoxicity	1	KIF5B
+ membrane potential	1	KIF5B
+ potassium ion transport	1	KIF5B
+vesicle transport along microtubule	1	KIF5B
+mitochondrion transport along microtubule	1	KIF5B
+synaptic vesicle transport	1	KIF5B
+centrosome localization	1	KIF5B
+cellular response to type II interferon	1	KIF5B
+plus-end-directed vesicle transport along microtubule	1	KIF5B
+anterograde dendritic transport of neurotransmitter receptor complex	1	KIF5B
+anterograde axonal protein transport	1	KIF5B
+mitocytosis	1	KIF5B
+ protein localization to plasma membrane	1	KIF5B
+anterograde neuronal dense core vesicle transport	1	KIF5B
+retrograde neuronal dense core vesicle transport	1	KIF5B
+mitochondrion	1	KIF5B
+lysosomal membrane	1	KIF5B
+kinesin complex	1	KIF5B
+microtubule	1	KIF5B
+vesicle	1	KIF5B
+dendrite cytoplasm	1	KIF5B
+ciliary rootlet	1	KIF5B
+phagocytic vesicle	1	KIF5B
+perinuclear region of cytoplasm	1	KIF5B
+axon cytoplasm	1	KIF5B
+protein tyrosine phosphatase activity	1	PTPN21
+protein dephosphorylation	1	PTPN21
+ neuroblast proliferation	1	WDR62
+mitotic spindle organization	1	WDR62
+centriole replication	1	WDR62
+cerebral cortex development	1	WDR62
+neurogenesis	1	WDR62
+ neuron differentiation	1	WDR62
+ centrosome cycle	1	WDR62
+ neuron migration	1	WDR62
+spindle pole	1	WDR62
+nucleus	1	WDR62
+centrosome	1	WDR62
+centriole	1	WDR62
+mitotic spindle	1	WDR62

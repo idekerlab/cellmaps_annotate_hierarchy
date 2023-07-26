@@ -1,0 +1,226 @@
+Feature	Number of Genes	Genes
+mitochondrion	23	ECH1, GRPEL2, C1QBP, LIAS, GLRX5, ACAA2, OGDH, DARS2, PDHX, MGME1, COX5B, DBT, MIPEP, ALDH18A1, MRPS36, SARS2, DIABLO, TRMT61B, ACAT1, DHTKD1, DLD, ETHE1, GCSH
+protein binding	18	ECH1, C1QBP, GLRX5, ACAA2, OGDH, DARS2, PDHX, MGME1, COX5B, ALDH18A1, SARS2, DIABLO, RNF115, TRMT61B, DHTKD1, DLD, ETHE1, GCSH
+mitochondrial matrix	16	C1QBP, LIAS, GLRX5, ACAA2, OGDH, DARS2, PDHX, DBT, MIPEP, SARS2, TRMT61B, ACAT1, DHTKD1, DLD, ETHE1, GCSH
+metal ion binding	6	LIAS, GLRX5, OGDH, COX5B, MIPEP, RNF115
+cytosol	5	ECH1, C1QBP, DBT, DIABLO, RNF115
+cytoplasm	5	C1QBP, DBT, RNF115, ETHE1, GCSH
+nucleus	4	C1QBP, GLRX5, OGDH, DLD
+fatty acid beta-oxidation	3	ECH1, ACAA2, ACAT1
+RNA binding	3	ACAA2, ALDH18A1, SARS2
+oxoglutarate dehydrogenase (succinyl-transferring) activity	3	OGDH, MRPS36, DHTKD1
+tricarboxylic acid cycle	3	OGDH, MRPS36, DHTKD1
+ATP binding	3	DARS2, ALDH18A1, SARS2
+mitochondrial inner membrane	3	COX5B, ALDH18A1, MRPS36
+identical protein binding	3	ALDH18A1, ACAT1, ETHE1
+membrane	2	ECH1, C1QBP
+extracellular exosome	2	ECH1, ACAT1
+protein homodimerization activity	2	GRPEL2, DARS2
+protein-folding chaperone binding	2	GRPEL2, OGDH
+apoptotic process	2	C1QBP, DIABLO
+positive regulation of apoptotic process	2	C1QBP, DIABLO
+protein lipoylation	2	LIAS, GCSH
+acetyl-CoA C-acetyltransferase activity	2	ACAA2, ACAT1
+thiamine pyrophosphate binding	2	OGDH, DHTKD1
+generation of precursor metabolites and energy	2	OGDH, DHTKD1
+glycolytic process	2	OGDH, DHTKD1
+2-oxoglutarate metabolic process	2	OGDH, MRPS36
+histone succinylation	2	OGDH, DLD
+oxoglutarate dehydrogenase complex	2	OGDH, DLD
+tRNA binding	2	DARS2, SARS2
+nucleoplasm	2	DARS2, ETHE1
+pyruvate dehydrogenase (NAD+) activity	2	PDHX, DLD
+acetyl-CoA biosynthetic process from pyruvate	2	PDHX, DLD
+mitochondrial pyruvate dehydrogenase complex	2	PDHX, DLD
+pyruvate dehydrogenase complex	2	PDHX, DLD
+branched-chain amino acid catabolic process	2	DBT, DLD
+mitochondrial alpha-ketoglutarate dehydrogenase complex	2	DBT, DLD
+delta(3,5)-delta(2,4)-dienoyl-CoA isomerase activity	1	ECH1
+peroxisome	1	ECH1
+peroxisomal matrix	1	ECH1
+adenyl-nucleotide exchange factor activity	1	GRPEL2
+unfolded protein binding	1	GRPEL2
+protein folding	1	GRPEL2
+intracellular protein transport	1	GRPEL2
+protein import into mitochondrial matrix	1	GRPEL2
+PAM complex, Tim23 associated import motor	1	GRPEL2
+TIM23 mitochondrial import inner membrane translocase complex	1	GRPEL2
+complement component C1q complex binding	1	C1QBP
+transcription corepressor activity	1	C1QBP
+mRNA binding	1	C1QBP
+protein kinase C binding	1	C1QBP
+hyaluronic acid binding	1	C1QBP
+transcription factor binding	1	C1QBP
+kininogen binding	1	C1QBP
+adrenergic receptor binding	1	C1QBP
+mitochondrial ribosome binding	1	C1QBP
+negative regulation of transcription by RNA polymerase II	1	C1QBP
+mRNA processing	1	C1QBP
+immune response	1	C1QBP
+complement activation, classical pathway	1	C1QBP
+RNA splicing	1	C1QBP
+phosphatidylinositol 3-kinase signaling	1	C1QBP
+regulation of complement activation	1	C1QBP
+negative regulation of type II interferon production	1	C1QBP
+negative regulation of interleukin-12 production	1	C1QBP
+negative regulation of MDA-5 signaling pathway	1	C1QBP
+negative regulation of RIG-I signaling pathway	1	C1QBP
+cytosolic ribosome assembly	1	C1QBP
+innate immune response	1	C1QBP
+positive regulation of cell adhesion	1	C1QBP
+negative regulation of mRNA splicing, via spliceosome	1	C1QBP
+negative regulation of defense response to virus	1	C1QBP
+positive regulation of protein kinase B signaling	1	C1QBP
+positive regulation of mitochondrial translation	1	C1QBP
+positive regulation of neutrophil chemotaxis	1	C1QBP
+positive regulation of substrate adhesion-dependent cell spreading	1	C1QBP
+positive regulation of trophoblast cell migration	1	C1QBP
+positive regulation of dendritic cell chemotaxis	1	C1QBP
+extracellular space	1	C1QBP
+nucleolus	1	C1QBP
+plasma membrane	1	C1QBP
+cell surface	1	C1QBP
+presynaptic active zone	1	C1QBP
+glutamatergic synapse	1	C1QBP
+GABA-ergic synapse	1	C1QBP
+lipoate synthase activity	1	LIAS
+4 iron, 4 sulfur cluster binding	1	LIAS
+neural tube closure	1	LIAS
+inflammatory response	1	LIAS
+response to oxidative stress	1	LIAS
+lipoate biosynthetic process	1	LIAS
+response to lipopolysaccharide	1	LIAS
+2 iron, 2 sulfur cluster binding	1	GLRX5
+iron-sulfur cluster assembly	1	GLRX5
+hemopoiesis	1	GLRX5
+[2Fe-2S] cluster assembly	1	GLRX5
+cell redox homeostasis	1	GLRX5
+protein maturation by [2Fe-2S] cluster transfer	1	GLRX5
+protein maturation by [4Fe-4S] cluster transfer	1	GLRX5
+dendrite	1	GLRX5
+neuronal cell body	1	GLRX5
+iron-sulfur cluster assembly complex	1	GLRX5
+acetyl-CoA hydrolase activity	1	ACAA2
+acetyl-CoA C-acyltransferase activity	1	ACAA2
+palmitoyl-CoA hydrolase activity	1	ACAA2
+acyl-CoA hydrolase activity	1	ACAA2
+myristoyl-CoA hydrolase activity	1	ACAA2
+cholesterol biosynthetic process	1	ACAA2
+cellular response to hypoxia	1	ACAA2
+negative regulation of mitochondrial outer membrane permeabilization involved in apoptotic signaling pathway	1	ACAA2
+negative regulation of mitochondrial membrane permeability involved in apoptotic process	1	ACAA2
+heat shock protein binding	1	OGDH
+oxoglutarate dehydrogenase (NAD+) activity	1	OGDH
+succinyl-CoA metabolic process	1	OGDH
+NADH metabolic process	1	OGDH
+cerebellar cortex development	1	OGDH
+striatum development	1	OGDH
+hippocampus development	1	OGDH
+thalamus development	1	OGDH
+pyramidal neuron development	1	OGDH
+tangential migration from the subventricular zone to the olfactory bulb	1	OGDH
+olfactory bulb mitral cell layer development	1	OGDH
+mitochondrial membrane	1	OGDH
+aspartate-tRNA ligase activity	1	DARS2
+aspartate-tRNA(Asn) ligase activity	1	DARS2
+aspartyl-tRNA aminoacylation	1	DARS2
+tRNA aminoacylation	1	DARS2
+mitochondrial asparaginyl-tRNA aminoacylation	1	DARS2
+acyltransferase activity	1	PDHX
+single-stranded DNA exodeoxyribonuclease activity	1	MGME1
+single-stranded DNA 5'-3' DNA exonuclease activity	1	MGME1
+mitochondrial genome maintenance	1	MGME1
+mitochondrial DNA replication	1	MGME1
+mitochondrial DNA repair	1	MGME1
+cytochrome-c oxidase activity	1	COX5B
+mitochondrial electron transport, cytochrome c to oxygen	1	COX5B
+respiratory gaseous exchange by respiratory system	1	COX5B
+cellular respiration	1	COX5B
+proton transmembrane transport	1	COX5B
+mitochondrial respiratory chain complex IV	1	COX5B
+acetyltransferase activity	1	DBT
+lipoic acid binding	1	DBT
+ubiquitin protein ligase binding	1	DBT
+dihydrolipoyllysine-residue (2-methylpropanoyl)transferase activity	1	DBT
+microtubule cytoskeleton	1	DBT
+mitochondrial nucleoid	1	DBT
+metalloendopeptidase activity	1	MIPEP
+peptide metabolic process	1	MIPEP
+protein processing involved in protein targeting to mitochondrion	1	MIPEP
+glutamate 5-kinase activity	1	ALDH18A1
+glutamate-5-semialdehyde dehydrogenase activity	1	ALDH18A1
+glutamate metabolic process	1	ALDH18A1
+proline biosynthetic process	1	ALDH18A1
+ornithine biosynthetic process	1	ALDH18A1
+phosphorylation	1	ALDH18A1
+citrulline biosynthetic process	1	ALDH18A1
+L-proline biosynthetic process	1	ALDH18A1
+mitochondrial oxoglutarate dehydrogenase complex	1	MRPS36
+serine-tRNA ligase activity	1	SARS2
+seryl-tRNA aminoacylation	1	SARS2
+mitochondrial seryl-tRNA aminoacylation	1	SARS2
+activation of cysteine-type endopeptidase activity involved in apoptotic process	1	DIABLO
+extrinsic apoptotic signaling pathway via death domain receptors	1	DIABLO
+intrinsic apoptotic signaling pathway in response to oxidative stress	1	DIABLO
+activation of cysteine-type endopeptidase activity involved in apoptotic process by cytochrome c	1	DIABLO
+neuron apoptotic process	1	DIABLO
+intrinsic apoptotic signaling pathway	1	DIABLO
+mitochondrial intermembrane space	1	DIABLO
+cytoplasmic side of plasma membrane	1	DIABLO
+CD40 receptor complex	1	DIABLO
+ubiquitin-protein transferase activity	1	RNF115
+ubiquitin protein ligase activity	1	RNF115
+protein ubiquitination	1	RNF115
+negative regulation of epidermal growth factor receptor signaling pathway	1	RNF115
+ubiquitin-dependent protein catabolic process via the multivesicular body sorting pathway	1	RNF115
+protein autoubiquitination	1	RNF115
+protein K63-linked ubiquitination	1	RNF115
+protein K48-linked ubiquitination	1	RNF115
+tRNA (adenine-N1-)-methyltransferase activity	1	TRMT61B
+rRNA (adenine) methyltransferase activity	1	TRMT61B
+mRNA (adenine-N1-)-methyltransferase activity	1	TRMT61B
+rRNA methylation	1	TRMT61B
+protein homooligomerization	1	TRMT61B
+mitochondrial tRNA methylation	1	TRMT61B
+mRNA methylation	1	TRMT61B
+tRNA (m1A) methyltransferase complex	1	TRMT61B
+C-acetyltransferase activity	1	ACAT1
+enzyme binding	1	ACAT1
+potassium ion binding	1	ACAT1
+cholesterol O-acyltransferase activity	1	ACAT1
+coenzyme A binding	1	ACAT1
+liver development	1	ACAT1
+acetyl-CoA biosynthetic process	1	ACAT1
+isoleucine catabolic process	1	ACAT1
+brain development	1	ACAT1
+response to hormone	1	ACAT1
+response to organic cyclic compound	1	ACAT1
+coenzyme A metabolic process	1	ACAT1
+coenzyme A biosynthetic process	1	ACAT1
+response to starvation	1	ACAT1
+acetyl-CoA catabolic process	1	ACAT1
+ketone body catabolic process	1	ACAT1
+adipose tissue development	1	ACAT1
+metanephric proximal convoluted tubule development	1	ACAT1
+ketone body metabolic process	1	ACAT1
+propionyl-CoA biosynthetic process	1	ACAT1
+endoplasmic reticulum	1	ACAT1
+hematopoietic progenitor cell differentiation	1	DHTKD1
+dihydrolipoyl dehydrogenase activity	1	DLD
+flavin adenine dinucleotide binding	1	DLD
+mitochondrial electron transport, NADH to ubiquinone	1	DLD
+proteolysis	1	DLD
+gastrulation	1	DLD
+regulation of membrane potential	1	DLD
+sperm capacitation	1	DLD
+motile cilium	1	DLD
+acrosomal matrix	1	DLD
+acetyltransferase complex	1	DLD
+iron ion binding	1	ETHE1
+sulfur dioxygenase activity	1	ETHE1
+glutathione metabolic process	1	ETHE1
+hydrogen sulfide metabolic process	1	ETHE1
+aminomethyltransferase activity	1	GCSH
+glycine catabolic process	1	GCSH
+glycine decarboxylation via glycine cleavage system	1	GCSH
+glycine cleavage complex	1	GCSH

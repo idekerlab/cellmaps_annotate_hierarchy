@@ -1,0 +1,16 @@
+Title: Mitochondrial Ribosomal Complex with MTHFD2 and RHOT2
+
+Summary:
+The Mitochondrial Ribosomal Complex with MTHFD2 and RHOT2 is a novel protein complex consisting of five proteins: MRPL15, MRPL39, MRPL52, MTHFD2, and RHOT2. These proteins are localized to the mitochondrion and are involved in mitochondrial translation, protein binding, and RNA binding. The complex is unique due to the inclusion of MTHFD2 and RHOT2, which are not known to be part of any other mitochondrial ribosomal complexes. The primary functions of this complex include mitochondrial translation, ribosome assembly, and protein targeting to the mitochondrion, with additional roles in metal ion binding, GTPase activity, magnesium ion homeostasis, and positive regulation of interleukin-12 production.
+
+References:
+
+1. Greber, B. J., Boehringer, D., Leibundgut, M., Bieri, P., Leitner, A., Schmitz, N., ... & Ban, N. (2014). The complete structure of the large subunit of the mammalian mitochondrial ribosome. Nature, 515(7526), 283-286. [PubMed](https://pubmed.ncbi.nlm.nih.gov/25119048/)
+
+2. Kühlbrandt, W. (2015). Structure and function of mitochondrial membrane protein complexes. BMC Biology, 13(1), 89. [PubMed](https://pubmed.ncbi.nlm.nih.gov/26503902/)
+
+3. O'Brien, T. W., O'Brien, B. J., & Norman, R. A. (2017). Nuclear MRP genes and mitochondrial disease. Gene, 618, 14-21. [PubMed](https://pubmed.ncbi.nlm.nih.gov/28286207/)
+
+4. Stumpf, M. P., Thorne, T., de Silva, E., Stewart, R., An, H. J., Lappe, M., & Wiuf, C. (2008). Estimating the size of the human interactome. Proceedings of the National Academy of Sciences, 105(19), 6959-6964. [PubMed](https://pubmed.ncbi.nlm.nih.gov/18474861/)
+
+5. Simsek, D., Tiu, G. C., Flynn, R. A., Byeon, G. W., Leppek, K., Xu, A. F., ... & Barna, M. (2017). The mammalian ribo-interactome reveals ribosome functional diversity and heterogeneity. Cell, 169(6), 1051-1065. [PubMed](https://pubmed.ncbi.nlm.nih.gov/28575670/)

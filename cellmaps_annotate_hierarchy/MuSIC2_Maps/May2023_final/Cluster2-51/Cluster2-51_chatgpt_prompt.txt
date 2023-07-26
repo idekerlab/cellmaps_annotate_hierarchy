@@ -1,0 +1,31 @@
+Your response should be formatted as Markdown paragraphs
+Write a critical and concise analysis of this human protein system, describing your reasoning as you go and providing references to scientific papers.
+
+A critical goal of the analysis is to determine if this is a novel complex or if any proteins are novel members of a known complex
+
+Format with Title, Summary, and References sections.        
+Avoid overly general statements of how the proteins are involved in various cellular processes        
+Avoid repeating the goals of the analysis.
+
+What cellular components and complexes are involved in this system?
+What mechanisms and biological processes are performed by this system?
+Propose a name for the system to reflect the cellular location and function, and should be specific but brief. Do not compose an acronym. Place it as the title of your report
+Human Proteins: KIF2C, SLC43A3, PRAME, IFT25, IFT81, CLUAP1, IFT70A, IFT70B.
+
+System features from GO terms: 
+protein binding: 7 proteins: KIF2C, SLC43A3, PRAME, IFT25, IFT81, CLUAP1, IFT70B
+intraciliary transport particle B: 5 proteins: IFT25, IFT81, CLUAP1, IFT70A, IFT70B
+centrosome: 4 proteins: KIF2C, IFT25, IFT81, CLUAP1
+intraciliary anterograde transport: 4 proteins: IFT25, IFT81, CLUAP1, IFT70B
+cilium assembly: 4 proteins: IFT25, IFT81, CLUAP1, IFT70B
+cilium: 4 proteins: IFT25, IFT81, CLUAP1, IFT70B
+ciliary tip: 4 proteins: IFT25, IFT81, CLUAP1, IFT70B
+intraciliary transport: 3 proteins: IFT81, IFT70A, IFT70B
+nucleus: 2 proteins: KIF2C, PRAME
+cell differentiation: 2 proteins: PRAME, IFT25
+nucleoplasm: 2 proteins: PRAME, CLUAP1
+cytoplasm: 2 proteins: PRAME, IFT81
+smoothened signaling pathway: 2 proteins: IFT25, CLUAP1
+spermatogenesis: 2 proteins: IFT25, IFT81
+intraciliary transport particle B binding: 2 proteins: IFT70A, IFT70B
+axonemal microtubule: 2 proteins: IFT70A, IFT70B

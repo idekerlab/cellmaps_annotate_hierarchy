@@ -1,0 +1,35 @@
+Your response should be formatted as Markdown paragraphs
+Write a critical and concise analysis of this human protein system, describing your reasoning as you go and providing references to scientific papers.
+
+A critical goal of the analysis is to determine if this is a novel complex or if any proteins are novel members of a known complex
+
+Format with Title, Summary, and References sections.        
+Avoid overly general statements of how the proteins are involved in various cellular processes        
+Avoid repeating the goals of the analysis.
+
+What cellular components and complexes are involved in this system?
+What mechanisms and biological processes are performed by this system?
+Propose a name for the system to reflect the cellular location and function, and should be specific but brief. Do not compose an acronym. Place it as the title of your report
+Human Proteins: STAT2, DPP9, IRF9, STAT1.
+
+System features from GO terms: 
+protein binding: 4 proteins: STAT2, DPP9, IRF9, STAT1
+nucleus: 4 proteins: STAT2, DPP9, IRF9, STAT1
+cytosol: 4 proteins: STAT2, DPP9, IRF9, STAT1
+RNA polymerase II cis-regulatory region sequence-specific DNA binding: 3 proteins: STAT2, IRF9, STAT1
+DNA-binding transcription factor activity, RNA polymerase II-specific: 3 proteins: STAT2, IRF9, STAT1
+DNA-binding transcription factor activity: 3 proteins: STAT2, IRF9, STAT1
+identical protein binding: 3 proteins: STAT2, DPP9, STAT1
+ transcription by RNA polymerase II: 3 proteins: STAT2, IRF9, STAT1
+defense response to virus: 3 proteins: STAT2, IRF9, STAT1
+chromatin: 3 proteins: STAT2, IRF9, STAT1
+nucleoplasm: 3 proteins: STAT2, IRF9, STAT1
+ISGF3 complex: 3 proteins: STAT2, IRF9, STAT1
+ubiquitin-like protein ligase binding: 2 proteins: STAT2, STAT1
+defense response: 2 proteins: STAT2, STAT1
+receptor signaling pathway via JAK-STAT: 2 proteins: STAT2, STAT1
+ cell population proliferation: 2 proteins: STAT2, STAT1
+response to peptide hormone: 2 proteins: STAT2, STAT1
+type I interferon-mediated signaling pathway: 2 proteins: STAT2, STAT1
+RNA polymerase II transcription regulator complex: 2 proteins: STAT2, STAT1
+cytoplasm: 2 proteins: IRF9, STAT1

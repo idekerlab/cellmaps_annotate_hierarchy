@@ -1,0 +1,389 @@
+Feature	Number of Genes	Genes
+protein binding	31	RAB5C, SNX1, WDTC1, CCDC25, SEC23IP, UBQLN4, AGFG1, RAB1B, RFK, FAM114A1, CD99, TGFBRAP1, OSBPL11, PDCD6IP, UBQLN1, PEX13, PPP5C, BROX, TPK1, AKR1A1, TMEM231, QNG1, PSAP, IRGQ, GGA1, PICALM, C1GALT1C1, SPG21, SNX5, NUCB2, CD68
+cytosol	22	SNX1, WDTC1, SEC23IP, UBQLN4, AGFG1, RAB1B, RFK, FAM114A1, OSBPL11, PDCD6IP, UBQLN1, PEX13, PPP5C, CRYZ, TPK1, AKR1A1, GGA1, PICALM, SPG21, SNX5, NUCB2, PFAS
+intracellular membrane-bounded organelle	11	SNX1, SEC23IP, AGFG1, TGFBRAP1, OSBPL11, PPP5C, PSAP, GGA1, PICALM, SPG21, SNX5
+extracellular exosome	10	RAB5C, RAB1B, PDCD6IP, CRYZ, BROX, AKR1A1, PSAP, C1GALT1C1, NUCB2, PFAS
+cytoplasm	10	SNX1, WDTC1, SEC23IP, UBQLN4, AGFG1, RFK, CD99, TGFBRAP1, UBQLN1, PFAS
+plasma membrane	9	RAB5C, CCDC25, CD99, UBQLN1, PPP5C, PSAP, PICALM, NUCB2, CD68
+Golgi apparatus	9	SNX1, SEC23IP, RAB1B, FAM114A1, OSBPL11, GGA1, PICALM, SPG21, NUCB2
+membrane	8	SNX1, TGFBRAP1, OSBPL11, PDCD6IP, PEX13, GGA1, PICALM, CD68
+intracellular protein transport	7	RAB5C, SNX1, SEC23IP, RAB1B, TGFBRAP1, GGA1, SNX5
+nucleoplasm	7	WDTC1, UBQLN4, FAM114A1, OSBPL11, UBQLN1, PPP5C, GGA1
+identical protein binding	6	SNX1, UBQLN4, UBQLN1, PPP5C, CRYZ, TPK1
+protein-containing complex	5	SNX1, UBQLN4, UBQLN1, PPP5C, GGA1
+metal ion binding	5	SEC23IP, AGFG1, RFK, PPP5C, PFAS
+perinuclear region of cytoplasm	5	UBQLN4, RAB1B, UBQLN1, PICALM, SNX5
+endosome	4	RAB5C, SNX1, PDCD6IP, SNX5
+endosome membrane	4	SNX1, GGA1, SPG21, CD68
+ATP binding	4	RFK, PPP5C, TPK1, PFAS
+GTP binding	3	RAB5C, RAB1B, IRGQ
+endomembrane system	3	RAB5C, CCDC25, RAB1B
+early endosome membrane	3	RAB5C, SNX1, GGA1
+azurophil granule membrane	3	RAB5C, PSAP, CD68
+phosphatidylinositol binding	3	SNX1, GGA1, SNX5
+protein homodimerization activity	3	SNX1, PDCD6IP, PSAP
+cadherin binding	3	SNX1, PICALM, SNX5
+retrograde transport, endosome to Golgi	3	SNX1, GGA1, SNX5
+lysosome	3	SNX1, PSAP, CD68
+DNA binding	3	CCDC25, AGFG1, NUCB2
+RNA binding	3	SEC23IP, AGFG1, PPP5C
+endoplasmic reticulum	3	SEC23IP, UBQLN1, NUCB2
+nucleus	3	UBQLN4, PPP5C, PICALM
+cytoplasmic vesicle	3	UBQLN4, AGFG1, UBQLN1
+early endosome	3	TGFBRAP1, GGA1, PICALM
+extracellular space	3	AKR1A1, PSAP, NUCB2
+GTPase activity	2	RAB5C, RAB1B
+G protein activity	2	RAB5C, RAB1B
+lysosomal membrane	2	RAB5C, PSAP
+melanosome	2	RAB5C, PDCD6IP
+receptor internalization	2	SNX1, PICALM
+positive regulation of protein catabolic process	2	SNX1, GGA1
+retromer complex	2	SNX1, SNX5
+retromer, tubulation complex	2	SNX1, SNX5
+vesicle	2	SNX1, PICALM
+in utero embryonic development	2	WDTC1, TMEM231
+endoplasmic reticulum to Golgi vesicle-mediated transport	2	SEC23IP, RAB1B
+Golgi organization	2	SEC23IP, RAB1B
+endoplasmic reticulum-Golgi intermediate compartment	2	SEC23IP, NUCB2
+polyubiquitin modification-dependent protein binding	2	UBQLN4, UBQLN1
+autophagy	2	UBQLN4, TGFBRAP1
+autophagosome	2	UBQLN4, UBQLN1
+endoplasmic reticulum membrane	2	UBQLN4, RAB1B
+autophagosome assembly	2	RAB1B, UBQLN1
+Golgi membrane	2	RAB1B, C1GALT1C1
+apoptotic process	2	RFK, PDCD6IP
+phosphorylation	2	RFK, TPK1
+focal adhesion	2	CD99, PDCD6IP
+regulation of macroautophagy	2	UBQLN1, SNX5
+tau protein binding	2	PPP5C, PICALM
+nuclear envelope	2	BROX, NUCB2
+regulation of protein localization	2	TMEM231, PICALM
+molecular_function	2	QNG1, GGA1
+small GTPase binding	2	GGA1, PICALM
+positive regulation of DNA-templated transcription	2	PICALM, SNX5
+GDP binding	1	RAB5C
+plasma membrane to endosome transport	1	RAB5C
+lipid droplet	1	RAB5C
+epidermal growth factor receptor binding	1	SNX1
+insulin receptor binding	1	SNX1
+protein heterodimerization activity	1	SNX1
+transferrin receptor binding	1	SNX1
+leptin receptor binding	1	SNX1
+early endosome to Golgi transport	1	SNX1
+lamellipodium morphogenesis	1	SNX1
+lamellipodium	1	SNX1
+enzyme inhibitor activity	1	WDTC1
+histone binding	1	WDTC1
+histone deacetylase binding	1	WDTC1
+negative regulation of transcription by RNA polymerase II	1	WDTC1
+glucose metabolic process	1	WDTC1
+regulation of cell size	1	WDTC1
+protein ubiquitination	1	WDTC1
+cellular response to insulin stimulus	1	WDTC1
+multicellular organism growth	1	WDTC1
+negative regulation of fatty acid biosynthetic process	1	WDTC1
+intracellular chemical homeostasis	1	WDTC1
+Cul4-RING E3 ubiquitin ligase complex	1	WDTC1
+positive regulation of cell motility	1	CCDC25
+ER to Golgi transport vesicle membrane	1	SEC23IP
+COPII-coated ER to Golgi transport vesicle	1	SEC23IP
+K48-linked polyubiquitin modification-dependent protein binding	1	UBQLN4
+DNA repair	1	UBQLN4
+ubiquitin-dependent protein catabolic process	1	UBQLN4
+DNA damage response	1	UBQLN4
+regulation of proteasomal ubiquitin-dependent protein catabolic process	1	UBQLN4
+negative regulation of autophagosome maturation	1	UBQLN4
+negative regulation of double-strand break repair via homologous recombination	1	UBQLN4
+site of DNA damage	1	UBQLN4
+GTPase activator activity	1	AGFG1
+acrosome assembly	1	AGFG1
+mRNA export from nucleus	1	AGFG1
+spermatid nucleus differentiation	1	AGFG1
+intermediate filament organization	1	AGFG1
+nuclear pore	1	AGFG1
+virion assembly	1	RAB1B
+establishment of endothelial intestinal barrier	1	RAB1B
+positive regulation of glycoprotein metabolic process	1	RAB1B
+regulation of autophagosome assembly	1	RAB1B
+transport vesicle	1	RAB1B
+endoplasmic reticulum-Golgi intermediate compartment membrane	1	RAB1B
+phagophore assembly site membrane	1	RAB1B
+riboflavin kinase activity	1	RFK
+riboflavin metabolic process	1	RFK
+riboflavin biosynthetic process	1	RFK
+FMN biosynthetic process	1	RFK
+positive regulation of NAD(P)H oxidase activity	1	RFK
+reactive oxygen species metabolic process	1	RFK
+mitochondrion	1	RFK
+homotypic cell-cell adhesion	1	CD99
+T cell extravasation	1	CD99
+positive regulation of neutrophil extravasation	1	CD99
+transforming growth factor beta receptor binding	1	TGFBRAP1
+SMAD binding	1	TGFBRAP1
+regulation of DNA-templated transcription	1	TGFBRAP1
+signal transduction	1	TGFBRAP1
+transforming growth factor beta receptor signaling pathway	1	TGFBRAP1
+endosome to lysosome transport	1	TGFBRAP1
+endosomal vesicle fusion	1	TGFBRAP1
+regulation of SNARE complex assembly	1	TGFBRAP1
+CORVET complex	1	TGFBRAP1
+sterol transporter activity	1	OSBPL11
+sterol binding	1	OSBPL11
+positive regulation of sequestering of triglyceride	1	OSBPL11
+sterol transport	1	OSBPL11
+fat cell differentiation	1	OSBPL11
+late endosome membrane	1	OSBPL11
+proteinase activated receptor binding	1	PDCD6IP
+calcium-dependent protein binding	1	PDCD6IP
+mitotic cytokinesis	1	PDCD6IP
+actomyosin contractile ring assembly	1	PDCD6IP
+nucleus organization	1	PDCD6IP
+mitotic metaphase plate congression	1	PDCD6IP
+regulation of centrosome duplication	1	PDCD6IP
+protein transport	1	PDCD6IP
+multivesicular body assembly	1	PDCD6IP
+viral budding via host ESCRT complex	1	PDCD6IP
+maintenance of epithelial cell apical/basal polarity	1	PDCD6IP
+viral budding	1	PDCD6IP
+protein homooligomerization	1	PDCD6IP
+midbody abscission	1	PDCD6IP
+bicellular tight junction assembly	1	PDCD6IP
+regulation of membrane permeability	1	PDCD6IP
+ubiquitin-independent protein catabolic process via the multivesicular body sorting pathway	1	PDCD6IP
+regulation of mitotic spindle assembly	1	PDCD6IP
+positive regulation of exosomal secretion	1	PDCD6IP
+regulation of extracellular exosome assembly	1	PDCD6IP
+positive regulation of extracellular exosome assembly	1	PDCD6IP
+immunological synapse	1	PDCD6IP
+microtubule organizing center	1	PDCD6IP
+bicellular tight junction	1	PDCD6IP
+actomyosin	1	PDCD6IP
+endoplasmic reticulum exit site	1	PDCD6IP
+Flemming body	1	PDCD6IP
+extracellular vesicle	1	PDCD6IP
+kinase binding	1	UBQLN1
+macroautophagy	1	UBQLN1
+ubiquitin-dependent ERAD pathway	1	UBQLN1
+regulation of protein ubiquitination	1	UBQLN1
+positive regulation of protein ubiquitination	1	UBQLN1
+negative regulation of toll-like receptor 3 signaling pathway	1	UBQLN1
+response to endoplasmic reticulum stress	1	UBQLN1
+aggrephagy	1	UBQLN1
+cellular response to hypoxia	1	UBQLN1
+autophagosome maturation	1	UBQLN1
+negative regulation of store-operated calcium channel activity	1	UBQLN1
+regulation of oxidative stress-induced intrinsic apoptotic signaling pathway	1	UBQLN1
+positive regulation of ER-associated ubiquitin-dependent protein catabolic process	1	UBQLN1
+proteasome complex	1	UBQLN1
+aggresome	1	UBQLN1
+protein transmembrane transporter activity	1	PEX13
+fatty acid alpha-oxidation	1	PEX13
+neuron migration	1	PEX13
+suckling behavior	1	PEX13
+locomotory behavior	1	PEX13
+protein import into peroxisome matrix, docking	1	PEX13
+protein import into peroxisome matrix, translocation	1	PEX13
+cerebral cortex cell migration	1	PEX13
+cellular response to reactive oxygen species	1	PEX13
+microtubule-based peroxisome localization	1	PEX13
+peroxisome	1	PEX13
+peroxisomal membrane	1	PEX13
+peroxisomal importomer complex	1	PEX13
+phosphoprotein phosphatase activity	1	PPP5C
+protein serine/threonine phosphatase activity	1	PPP5C
+lipid binding	1	PPP5C
+phosphatase activity	1	PPP5C
+myosin phosphatase activity	1	PPP5C
+ADP binding	1	PPP5C
+Hsp90 protein binding	1	PPP5C
+molecular adaptor activity	1	PPP5C
+MAPK cascade	1	PPP5C
+mitotic cell cycle	1	PPP5C
+double-strand break repair	1	PPP5C
+DNA-templated transcription	1	PPP5C
+protein dephosphorylation	1	PPP5C
+response to lead ion	1	PPP5C
+peptidyl-threonine dephosphorylation	1	PPP5C
+positive regulation of I-kappaB kinase/NF-kappaB signaling	1	PPP5C
+response to morphine	1	PPP5C
+peptidyl-serine dephosphorylation	1	PPP5C
+response to arachidonic acid	1	PPP5C
+protein folding chaperone complex	1	PPP5C
+RNA ligase (ATP) activity	1	RLIG1
+response to reactive oxygen species	1	RLIG1
+hematopoietic progenitor cell differentiation	1	RLIG1
+protein adenylylation	1	RLIG1
+mRNA 3'-UTR binding	1	CRYZ
+NADPH:quinone reductase activity	1	CRYZ
+zinc ion binding	1	CRYZ
+NADPH binding	1	CRYZ
+NADH binding	1	CRYZ
+visual perception	1	CRYZ
+xenobiotic catabolic process	1	CRYZ
+protein homotetramerization	1	CRYZ
+mitotic nuclear membrane reassembly	1	BROX
+nuclear membrane	1	BROX
+thiamine diphosphokinase activity	1	TPK1
+kinase activity	1	TPK1
+thiamine binding	1	TPK1
+thiamine metabolic process	1	TPK1
+thiamine diphosphate biosynthetic process	1	TPK1
+alditol:NADP+ 1-oxidoreductase activity	1	AKR1A1
+aldo-keto reductase (NADP) activity	1	AKR1A1
+NAD-retinol dehydrogenase activity	1	AKR1A1
+oxidoreductase activity, acting on NAD(P)H, nitrogenous group as acceptor	1	AKR1A1
+allyl-alcohol dehydrogenase activity	1	AKR1A1
+L-glucuronate reductase activity	1	AKR1A1
+glucuronolactone reductase activity	1	AKR1A1
+glycerol dehydrogenase [NADP+] activity	1	AKR1A1
+methylglyoxal reductase (NADPH-dependent, acetol producing)	1	AKR1A1
+lipid metabolic process	1	AKR1A1
+glucuronate catabolic process to xylulose 5-phosphate	1	AKR1A1
+L-ascorbic acid biosynthetic process	1	AKR1A1
+D-glucuronate catabolic process	1	AKR1A1
+daunorubicin metabolic process	1	AKR1A1
+doxorubicin metabolic process	1	AKR1A1
+aldehyde catabolic process	1	AKR1A1
+cellular detoxification of aldehyde	1	AKR1A1
+glutathione derivative biosynthetic process	1	AKR1A1
+apical plasma membrane	1	AKR1A1
+synapse	1	AKR1A1
+vasculature development	1	TMEM231
+smoothened signaling pathway	1	TMEM231
+embryonic digit morphogenesis	1	TMEM231
+camera-type eye development	1	TMEM231
+cilium assembly	1	TMEM231
+neuroepithelial cell differentiation	1	TMEM231
+ciliary transition zone	1	TMEM231
+MKS complex	1	TMEM231
+ciliary membrane	1	TMEM231
+biological_process	1	QNG1
+nucleoside salvage	1	QNG1
+tRNA-guanine transglycosylation	1	QNG1
+cellular_component	1	QNG1
+protease binding	1	PSAP
+phospholipid binding	1	PSAP
+enzyme activator activity	1	PSAP
+scaffold protein binding	1	PSAP
+ganglioside GM1 binding	1	PSAP
+ganglioside GM2 binding	1	PSAP
+ganglioside GM3 binding	1	PSAP
+ganglioside GT1b binding	1	PSAP
+ganglioside GP1c binding	1	PSAP
+sphingolipid metabolic process	1	PSAP
+lysosomal transport	1	PSAP
+adenylate cyclase-inhibiting G protein-coupled receptor signaling pathway	1	PSAP
+regulation of autophagy	1	PSAP
+regulation of lipid metabolic process	1	PSAP
+prostate gland growth	1	PSAP
+epithelial cell differentiation involved in prostate gland development	1	PSAP
+positive regulation of beta-galactosidase activity	1	PSAP
+ganglioside GM1 transport to membrane	1	PSAP
+extracellular region	1	PSAP
+late endosome	1	PSAP
+lysosomal lumen	1	PSAP
+collagen-containing extracellular matrix	1	PSAP
+ubiquitin binding	1	GGA1
+Golgi to plasma membrane transport	1	GGA1
+protein localization	1	GGA1
+protein catabolic process	1	GGA1
+protein localization to cell surface	1	GGA1
+Golgi to plasma membrane protein transport	1	GGA1
+toxin transport	1	GGA1
+protein localization to ciliary membrane	1	GGA1
+trans-Golgi network	1	GGA1
+SNARE binding	1	PICALM
+amyloid-beta binding	1	PICALM
+1-phosphatidylinositol binding	1	PICALM
+phosphatidylinositol-4,5-bisphosphate binding	1	PICALM
+clathrin binding	1	PICALM
+clathrin heavy chain binding	1	PICALM
+low-density lipoprotein particle receptor binding	1	PICALM
+intracellular iron ion homeostasis	1	PICALM
+endocytosis	1	PICALM
+receptor-mediated endocytosis	1	PICALM
+vesicle budding from membrane	1	PICALM
+axonogenesis	1	PICALM
+learning or memory	1	PICALM
+negative regulation of gene expression	1	PICALM
+synaptic vesicle budding from presynaptic endocytic zone membrane	1	PICALM
+synaptic vesicle maturation	1	PICALM
+vesicle-mediated transport	1	PICALM
+endosomal transport	1	PICALM
+hemopoiesis	1	PICALM
+regulation of endocytosis	1	PICALM
+vesicle cargo loading	1	PICALM
+positive regulation of GTPase activity	1	PICALM
+negative regulation of receptor-mediated endocytosis	1	PICALM
+clathrin coat assembly	1	PICALM
+dendrite morphogenesis	1	PICALM
+multicellular organismal-level iron ion homeostasis	1	PICALM
+protein-containing complex assembly	1	PICALM
+clathrin-dependent endocytosis	1	PICALM
+regulation of vesicle size	1	PICALM
+membrane bending	1	PICALM
+amyloid-beta clearance by transcytosis	1	PICALM
+positive regulation of neuron death	1	PICALM
+regulation of amyloid-beta formation	1	PICALM
+positive regulation of amyloid-beta formation	1	PICALM
+regulation of aspartic-type endopeptidase activity involved in amyloid precursor protein catabolic process	1	PICALM
+positive regulation of aspartic-type endopeptidase activity involved in amyloid precursor protein catabolic process	1	PICALM
+negative regulation of metalloendopeptidase activity involved in amyloid precursor protein catabolic process	1	PICALM
+negative regulation of protein localization to plasma membrane	1	PICALM
+negative regulation of protein localization to cell surface	1	PICALM
+clathrin-coated pit	1	PICALM
+synaptic vesicle	1	PICALM
+cell surface	1	PICALM
+clathrin coat of coated pit	1	PICALM
+clathrin-coated vesicle	1	PICALM
+presynaptic membrane	1	PICALM
+neuronal cell body	1	PICALM
+postsynaptic membrane	1	PICALM
+clathrin-coated endocytic vesicle	1	PICALM
+endosome to plasma membrane transport vesicle	1	PICALM
+neurofibrillary tangle	1	PICALM
+extrinsic component of presynaptic endocytic zone membrane	1	PICALM
+glycoprotein-N-acetylgalactosamine 3-beta-galactosyltransferase activity	1	C1GALT1C1
+protein O-linked glycosylation	1	C1GALT1C1
+O-glycan processing, core 1	1	C1GALT1C1
+platelet activation	1	C1GALT1C1
+platelet morphogenesis	1	C1GALT1C1
+CD4 receptor binding	1	SPG21
+antigen receptor-mediated signaling pathway	1	SPG21
+trans-Golgi network transport vesicle	1	SPG21
+phosphatidylinositol-5-phosphate binding	1	SNX5
+D1 dopamine receptor binding	1	SNX5
+dynactin binding	1	SNX5
+phosphatidylinositol-4-phosphate binding	1	SNX5
+phosphatidylinositol-3,5-bisphosphate binding	1	SNX5
+pinocytosis	1	SNX5
+epidermal growth factor catabolic process	1	SNX5
+positive regulation of renal sodium excretion	1	SNX5
+negative regulation of blood pressure	1	SNX5
+positive regulation of insulin receptor signaling pathway	1	SNX5
+ruffle	1	SNX5
+phagocytic cup	1	SNX5
+brush border	1	SNX5
+cytoplasmic side of plasma membrane	1	SNX5
+macropinocytic cup	1	SNX5
+tubular endosome	1	SNX5
+cytoplasmic side of early endosome membrane	1	SNX5
+G-protein alpha-subunit binding	1	NUCB2
+guanyl-nucleotide exchange factor activity	1	NUCB2
+calcium ion binding	1	NUCB2
+small GTPase mediated signal transduction	1	NUCB2
+phosphoribosylformylglycinamidine synthase activity	1	PFAS
+purine nucleotide biosynthetic process	1	PFAS
+GMP biosynthetic process	1	PFAS
+'de novo' IMP biosynthetic process	1	PFAS
+glutamine metabolic process	1	PFAS
+purine ribonucleoside monophosphate biosynthetic process	1	PFAS
+response to xenobiotic stimulus	1	PFAS
+'de novo' AMP biosynthetic process	1	PFAS
+anterior head development	1	PFAS
+'de novo' XMP biosynthetic process	1	PFAS
+inflammatory response to antigenic stimulus	1	CD68
+negative regulation of dendritic cell antigen processing and presentation	1	CD68
+cellular response to nutrient levels	1	CD68
+cellular response to lipopolysaccharide	1	CD68
+cellular response to oxidised low-density lipoprotein particle stimulus	1	CD68

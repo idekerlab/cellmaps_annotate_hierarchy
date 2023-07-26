@@ -1,0 +1,23 @@
+Your response should be formatted as Markdown paragraphs
+Write a critical and concise analysis of this human protein system, describing your reasoning as you go and providing references to scientific papers.
+
+A critical goal of the analysis is to determine if this is a novel complex or if any proteins are novel members of a known complex
+
+Format with Title, Summary, and References sections.        
+Avoid overly general statements of how the proteins are involved in various cellular processes        
+Avoid repeating the goals of the analysis.
+
+What cellular components and complexes are involved in this system?
+What mechanisms and biological processes are performed by this system?
+Propose a name for the system to reflect the cellular location and function, and should be specific but brief. Do not compose an acronym. Place it as the title of your report
+Human Proteins: ZKSCAN4, ZSCAN9, ZNF496, ZSCAN18, TGIF1, ZSCAN31.
+
+System features from GO terms: 
+RNA polymerase II cis-regulatory region sequence-specific DNA binding: 6 proteins: ZKSCAN4, ZSCAN9, ZNF496, ZSCAN18, TGIF1, ZSCAN31
+DNA-binding transcription factor activity, RNA polymerase II-specific: 6 proteins: ZKSCAN4, ZSCAN9, ZNF496, ZSCAN18, TGIF1, ZSCAN31
+protein binding: 5 proteins: ZKSCAN4, ZSCAN9, ZNF496, ZSCAN18, TGIF1
+metal ion binding: 5 proteins: ZKSCAN4, ZSCAN9, ZNF496, ZSCAN18, ZSCAN31
+ transcription by RNA polymerase II: 5 proteins: ZKSCAN4, ZSCAN9, ZNF496, ZSCAN18, ZSCAN31
+nucleus: 4 proteins: ZSCAN9, ZNF496, ZSCAN18, ZSCAN31
+sequence-specific double-stranded DNA binding: 3 proteins: ZSCAN9, TGIF1, ZSCAN31
+nucleoplasm: 2 proteins: ZKSCAN4, TGIF1

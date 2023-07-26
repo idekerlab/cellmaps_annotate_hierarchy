@@ -1,0 +1,15 @@
+Title: Cytosolic Protein Interaction Network in Cellular Regulation and Signaling
+
+Summary:
+
+The system of proteins analyzed in this study consists of 38 proteins that are involved in protein binding, with 32 of them localized in the cytosol and 31 in the cytoplasm. These proteins are involved in various cellular components and complexes, including the nucleus, plasma membrane, extracellular exosome, nucleoplasm, perinuclear region of cytoplasm, and membrane. The proteins are involved in a wide range of mechanisms and biological processes, such as protein transport, ATP binding, metal ion binding, calcium ion binding, actin cytoskeleton organization, protein homodimerization activity, and regulation of transcription by RNA polymerase II.
+
+The analysis aims to determine if this is a novel complex or if any proteins are novel members of a known complex. Based on the system features from GO terms, it is evident that the proteins have diverse functions and are involved in multiple cellular processes. This suggests that the system may represent a novel complex or a combination of known complexes with novel protein members.
+
+References:
+
+1. Szklarczyk, D., Gable, A. L., Lyon, D., Junge, A., Wyder, S., Huerta-Cepas, J., ... & Mering, C. V. (2019). STRING v11: protein-protein association networks with increased coverage, supporting functional discovery in genome-wide experimental datasets. Nucleic Acids Research, 47(D1), D607-D613. [PubMed](https://pubmed.ncbi.nlm.nih.gov/30476243/)
+
+2. Ashburner, M., Ball, C. A., Blake, J. A., Botstein, D., Butler, H., Cherry, J. M., ... & Sherlock, G. (2000). Gene ontology: tool for the unification of biology. Nature genetics, 25(1), 25-29. [PubMed](https://pubmed.ncbi.nlm.nih.gov/10802651/)
+
+3. The Gene Ontology Consortium. (2019). The Gene Ontology Resource: 20 years and still GOing strong. Nucleic Acids Research, 47(D1), D330-D338. [PubMed](https://pubmed.ncbi.nlm.nih.gov/30395331/)

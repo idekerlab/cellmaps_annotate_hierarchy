@@ -1,0 +1,95 @@
+Your response should be formatted as Markdown paragraphs
+Write a critical and concise analysis of this human protein system, describing your reasoning as you go and providing references to scientific papers.
+
+A critical goal of the analysis is to determine if this is a novel complex or if any proteins are novel members of a known complex
+
+Format with Title, Summary, and References sections.        
+Avoid overly general statements of how the proteins are involved in various cellular processes        
+Avoid repeating the goals of the analysis.
+
+What cellular components and complexes are involved in this system?
+What mechanisms and biological processes are performed by this system?
+Propose a name for the system to reflect the cellular location and function, and should be specific but brief. Do not compose an acronym. Place it as the title of your report
+Human Proteins: SNW1, PPIG, CHTOP, SF3B2, PNN, UNK, SETD2, BCLAF1, RSRC2, ZC3H18, SART1, SF3B4, ZC3H14, BMP2K, SRSF11, SRRM2, LUC7L3, GPATCH8, SRSF4, PRPF40A, SRSF6, WTAP, CDK11A, SFSWAP, SNRPA, CDK11B, BRD2, IK, RBM25, THRAP3, FNBP4, SF3B1, RBM17, PRPF4B, SON, BCAS2, CCDC12, CWC25, CWF19L2, PLRG1, PPIE, PRPF19, SNRPA1, SNRPB2, SYF2.
+
+System features from GO terms: 
+protein binding: 42 proteins: SNW1, PPIG, CHTOP, SF3B2, PNN, SETD2, BCLAF1, RSRC2, ZC3H18, SART1, SF3B4, ZC3H14, SRSF11, SRRM2, LUC7L3, GPATCH8, SRSF4, PRPF40A, SRSF6, WTAP, SFSWAP, SNRPA, CDK11B, BRD2, IK, RBM25, THRAP3, FNBP4, SF3B1, RBM17, PRPF4B, SON, BCAS2, CCDC12, CWC25, CWF19L2, PLRG1, PPIE, PRPF19, SNRPA1, SNRPB2, SYF2
+nucleoplasm: 35 proteins: SNW1, PPIG, CHTOP, SF3B2, PNN, SETD2, BCLAF1, SART1, SF3B4, SRSF11, SRRM2, LUC7L3, SRSF4, PRPF40A, SRSF6, WTAP, SNRPA, BRD2, IK, RBM25, THRAP3, FNBP4, SF3B1, RBM17, PRPF4B, BCAS2, CCDC12, CWC25, CWF19L2, PLRG1, PPIE, PRPF19, SNRPA1, SNRPB2, SYF2
+nucleus: 33 proteins: SNW1, PPIG, CHTOP, SF3B2, SETD2, BCLAF1, SART1, SF3B4, ZC3H14, BMP2K, SRSF11, SRRM2, LUC7L3, GPATCH8, SRSF4, WTAP, CDK11A, SFSWAP, SNRPA, CDK11B, BRD2, IK, THRAP3, SF3B1, PRPF4B, BCAS2, CWC25, PLRG1, PPIE, PRPF19, SNRPA1, SNRPB2, SYF2
+nuclear speck: 32 proteins: SNW1, PPIG, CHTOP, SF3B2, PNN, BCLAF1, ZC3H18, SART1, ZC3H14, BMP2K, SRSF11, SRRM2, LUC7L3, SRSF4, PRPF40A, SRSF6, WTAP, BRD2, IK, RBM25, THRAP3, SF3B1, PRPF4B, SON, BCAS2, CWC25, PLRG1, PPIE, PRPF19, SNRPA1, SNRPB2, SYF2
+RNA binding: 31 proteins: SNW1, PPIG, CHTOP, SF3B2, PNN, UNK, BCLAF1, RSRC2, ZC3H18, SART1, SF3B4, ZC3H14, SRSF11, SRRM2, LUC7L3, GPATCH8, SRSF4, PRPF40A, SRSF6, SFSWAP, SNRPA, CDK11B, RBM25, THRAP3, SF3B1, RBM17, PRPF4B, SON, PPIE, SNRPA1, SYF2
+mRNA splicing, via spliceosome: 22 proteins: SNW1, SF3B2, PNN, SART1, SF3B4, SRRM2, SRSF4, PRPF40A, SRSF6, SNRPA, IK, SF3B1, PRPF4B, BCAS2, CWC25, CWF19L2, PLRG1, PPIE, PRPF19, SNRPA1, SNRPB2, SYF2
+cytoplasm: 15 proteins: PPIG, UNK, SETD2, BCLAF1, SART1, ZC3H14, BMP2K, WTAP, CDK11A, CDK11B, BRD2, IK, RBM25, PPIE, PRPF19
+catalytic step 2 spliceosome: 14 proteins: SNW1, SF3B2, PNN, SART1, SRRM2, SF3B1, PRPF4B, BCAS2, PLRG1, PPIE, PRPF19, SNRPA1, SNRPB2, SYF2
+RNA splicing: 14 proteins: PPIG, SF3B2, SF3B4, SRSF11, LUC7L3, SRSF4, WTAP, RBM25, THRAP3, SF3B1, PRPF4B, SON, BCAS2, SNRPA1
+spliceosomal complex: 11 proteins: SNW1, SF3B2, SF3B4, SNRPA, SF3B1, RBM17, BCAS2, PLRG1, PRPF19, SNRPA1, SNRPB2
+U2-type catalytic step 2 spliceosome: 9 proteins: SNW1, SRRM2, BCAS2, PLRG1, PPIE, PRPF19, SNRPA1, SNRPB2, SYF2
+mRNA processing: 8 proteins: SF3B2, SF3B4, SRSF11, SRSF4, WTAP, RBM25, THRAP3, SON
+U2-type precatalytic spliceosome: 8 proteins: SF3B2, SART1, SF3B4, SRRM2, IK, SF3B1, SNRPA1, SNRPB2
+mRNA binding: 6 proteins: CHTOP, SRRM2, LUC7L3, RBM25, SF3B1, PPIE
+DNA binding: 6 proteins: PNN, BCLAF1, LUC7L3, SNRPA, THRAP3, SON
+ transcription by RNA polymerase II: 5 proteins: SNW1, BCLAF1, BRD2, THRAP3, SF3B1
+ mRNA splicing, via spliceosome: 5 proteins: SNW1, SF3B4, THRAP3, SON, PRPF19
+U2-type prespliceosome assembly: 5 proteins: SF3B2, SF3B4, SF3B1, SNRPA1, SNRPB2
+U2-type spliceosomal complex: 5 proteins: SF3B2, SF3B4, SF3B1, CCDC12, CWC25
+U2 snRNP: 5 proteins: SF3B2, SF3B4, SF3B1, SNRPA1, SNRPB2
+metal ion binding: 5 proteins: UNK, SETD2, ZC3H18, ZC3H14, GPATCH8
+ DNA-templated transcription: 5 proteins: SETD2, CDK11A, CDK11B, THRAP3, PPIE
+ATP binding: 5 proteins: BMP2K, CDK11A, CDK11B, THRAP3, PRPF4B
+protein phosphorylation: 5 proteins: BMP2K, CDK11A, CDK11B, BRD2, PRPF4B
+nucleolus: 4 proteins: CHTOP, ZC3H14, SF3B1, BCAS2
+mRNA cis splicing, via spliceosome: 4 proteins: SART1, PRPF40A, RBM17, PRPF4B
+RNA splicing, via transesterification reactions: 4 proteins: SF3B4, SRSF4, SF3B1, BCAS2
+protein serine/threonine kinase activity: 4 proteins: BMP2K, CDK11A, CDK11B, BRD2
+protein serine kinase activity: 4 proteins: BMP2K, CDK11A, CDK11B, PRPF4B
+U1 snRNP: 4 proteins: LUC7L3, PRPF40A, SNRPA, SNRPB2
+ alternative mRNA splicing, via spliceosome: 4 proteins: SRSF6, WTAP, RBM25, THRAP3
+identical protein binding: 4 proteins: WTAP, SNRPA, IK, PRPF19
+Prp19 complex: 4 proteins: BCAS2, PLRG1, PRPF19, SYF2
+nuclear matrix: 3 proteins: SNW1, PPIG, PRPF40A
+cytosol: 3 proteins: PPIG, SART1, PPIE
+in utero embryonic development: 3 proteins: CHTOP, UNK, SYF2
+U12-type spliceosomal complex: 3 proteins: SF3B2, SF3B4, SF3B1
+membrane: 3 proteins: PNN, PRPF40A, PRPF19
+apoptotic process: 3 proteins: BCLAF1, CDK11A, CDK11B
+U2-type prespliceosome: 3 proteins: LUC7L3, PRPF40A, SF3B1
+negative regulation of mRNA splicing, via spliceosome: 3 proteins: SRSF4, SRSF6, SFSWAP
+alternative mRNA splicing, via spliceosome: 3 proteins: SRSF6, SFSWAP, RBM17
+protein kinase activity: 3 proteins: CDK11A, CDK11B, PRPF4B
+cyclin-dependent protein serine/threonine kinase activity: 3 proteins: CDK11A, CDK11B, PRPF4B
+mitotic cell cycle: 3 proteins: CDK11A, CDK11B, IK
+post-mRNA release spliceosomal complex: 3 proteins: CCDC12, CWF19L2, SYF2
+transcription coactivator activity: 2 proteins: SNW1, THRAP3
+nuclear vitamin D receptor binding: 2 proteins: SNW1, THRAP3
+negative regulation of DNA-templated transcription: 2 proteins: SNW1, BCLAF1
+nuclear body: 2 proteins: SNW1, SNRPA1
+peptidyl-prolyl cis-trans isomerase activity: 2 proteins: PPIG, PPIE
+cyclosporin A binding: 2 proteins: PPIG, PPIE
+protein peptidyl-prolyl isomerization: 2 proteins: PPIG, PPIE
+protein folding: 2 proteins: PPIG, PPIE
+chromatin remodeling: 2 proteins: CHTOP, SF3B1
+neural tube closure: 2 proteins: SETD2, BRD2
+ cytokinesis: 2 proteins: SETD2, PRPF40A
+chromosome: 2 proteins: SETD2, PRPF4B
+transcription coregulator activity: 2 proteins: BCLAF1, THRAP3
+DNA-templated transcription: 2 proteins: BCLAF1, THRAP3
+ apoptotic process: 2 proteins: BCLAF1, RBM25
+mediator complex: 2 proteins: BCLAF1, THRAP3
+ribonucleoprotein complex: 2 proteins: ZC3H18, ZC3H14
+Cajal body: 2 proteins: SART1, SRRM2
+U4/U6 x U5 tri-snRNP complex: 2 proteins: SART1, SNRPA
+splicing factor binding: 2 proteins: SF3B4, SF3B1
+poly(A) binding: 2 proteins: ZC3H14, PPIE
+mRNA splice site recognition: 2 proteins: LUC7L3, SRSF6
+response to insulin: 2 proteins: SRSF4, SRSF6
+cell cycle: 2 proteins: PRPF40A, WTAP
+nuclear membrane: 2 proteins: WTAP, PLRG1
+ cell growth: 2 proteins: CDK11A, CDK11B
+ mitotic cell cycle: 2 proteins: CDK11A, CDK11B
+ mRNA processing: 2 proteins: CDK11A, CDK11B
+U1 snRNA binding: 2 proteins: SNRPA, SNRPB2
+spermatogenesis: 2 proteins: BRD2, SNRPA1
+spliceosomal complex assembly: 2 proteins: SF3B1, PRPF19
+ cell cycle: 2 proteins: PRPF4B, SON
+U2-type catalytic step 1 spliceosome: 2 proteins: CWC25, PRPF19
+fibrillar center: 2 proteins: PLRG1, SNRPB2

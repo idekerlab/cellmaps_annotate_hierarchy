@@ -1,0 +1,3 @@
+### Validated References: 
+[1] Panthu, Baptiste, Denolly, Solène, Faivre-Moskalenko, Cendrine, Ohlmann, Théophile, Cosset, François-Loïc, Jalinot, Pierre. "Unlike for cellular mRNAs and other viral internal ribosome entry sites (IRESs), the eIF3 subunit e is not required for the translational activity of the HCV IRES." The Journal of biological chemistry, 2020, pp. 1843-1856.
+[2] Sadato, Daichi, Ono, Tomio, Gotoh-Saito, Saki, Kajiwara, Naoki, Nomura, Namiko, Ukaji, Masako, Yang, Liying, Sakimura, Kenji, Tajima, Youichi, Oboki, Keisuke, Shibasaki, Futoshi. "Eukaryotic translation initiation factor 3 (eIF3) subunit e is essential for embryonic development and cell proliferation." FEBS open bio, 2018, pp. 1188-1201.

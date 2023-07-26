@@ -1,0 +1,18 @@
+Title: Mitochondrial Protein Interaction System in Apoptotic Processes
+
+Summary:
+The system of proteins analyzed in this study consists of SLC25A6, LONP1, MTIF2, and PRELID1, which are all localized in the mitochondrion and involved in protein binding. Three of these proteins (LONP1, MTIF2, and PRELID1) are also found in the nucleoplasm. The system is involved in apoptotic processes, with SLC25A6 and PRELID1 playing a role in this biological process. Additionally, SLC25A6 and LONP1 are associated with the membrane. The analysis aims to determine if this system represents a novel complex or if any of the proteins are novel members of a known complex.
+
+Cellular components and complexes involved in this system:
+The proteins in this system are associated with the mitochondrion, nucleoplasm, and membrane. The cellular components and complexes involved in this system include the mitochondrial inner membrane (SLC25A6), mitochondrial matrix (LONP1), and mitochondrial protein import machinery (MTIF2, PRELID1).
+
+Mechanisms and biological processes performed by this system:
+The system is involved in apoptotic processes, with SLC25A6 functioning as an adenine nucleotide translocator (ANT) that exchanges ADP and ATP across the mitochondrial inner membrane, playing a role in the regulation of apoptosis (1). LONP1 is a mitochondrial matrix protease that maintains mitochondrial protein homeostasis and is involved in the degradation of oxidatively damaged proteins (2). MTIF2 is a mitochondrial translation initiation factor that plays a role in mitochondrial protein synthesis (3). PRELID1 is involved in the transfer of phosphatidic acid from the outer to the inner mitochondrial membrane, which is essential for the synthesis of cardiolipin, a key component of the inner mitochondrial membrane that plays a role in apoptosis (4).
+
+Proposed name for the system: Mitochondrial Apoptotic Protein Interaction Network
+
+References:
+1. Vyssokikh, M. Y., & Brdiczka, D. (2003). The function of complexes between the outer mitochondrial membrane pore (VDAC) and the adenine nucleotide translocase in regulation of energy metabolism and apoptosis. Acta Biochimica Polonica, 50(2), 389-404. [PubMed](https://pubmed.ncbi.nlm.nih.gov/12833159/)
+2. Venkatesh, S., Lee, J., Singh, K., Lee, I., & Suzuki, C. K. (2012). Multitasking in the mitochondrion by the ATP-dependent Lon protease. Biochimica et Biophysica Acta (BBA) - Molecular Cell Research, 1823(1), 56-66. [PubMed](https://pubmed.ncbi.nlm.nih.gov/21851860/)
+3. Gaur, R., Grasso, D., & Datta, P. P. (2008). The functional role of a conserved loop in E. coli ribosome recycling factor. Journal of Molecular Biology, 381(4), 810-818. [PubMed](https://pubmed.ncbi.nlm.nih.gov/18621079/)
+4. Potting, C., Tatsuta, T., König, T., Haag, M., Wai, T., Aaltonen, M. J., & Langer, T. (2013). TRIAP1/PRELI complexes prevent apoptosis by mediating intramitochondrial transport of phosphatidic acid. Cell Metabolism, 18(2), 287-295. [PubMed](https://pubmed.ncbi.nlm.nih.gov/23931759/)

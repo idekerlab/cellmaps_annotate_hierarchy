@@ -1,0 +1,72 @@
+Feature	Number of Genes	Genes
+protein binding	5	CNNM1, DUSP16, MAPKAPK5, RPS6KA4, RPS6KA5
+nucleus	4	DUSP16, MAPKAPK5, RPS6KA4, RPS6KA5
+nucleoplasm	4	DUSP16, MAPKAPK5, RPS6KA4, RPS6KA5
+cytoplasm	4	DUSP16, MAPKAPK5, RPS6KA4, RPS6KA5
+cytosol	3	DUSP16, MAPKAPK5, RPS6KA4
+protein serine/threonine kinase activity	3	MAPKAPK5, RPS6KA4, RPS6KA5
+ATP binding	3	MAPKAPK5, RPS6KA4, RPS6KA5
+protein serine kinase activity	3	MAPKAPK5, RPS6KA4, RPS6KA5
+mitogen-activated protein kinase binding	2	DUSP16, MAPKAPK5
+magnesium ion binding	2	RPS6KA4, RPS6KA5
+histone H3S10 kinase activity	2	RPS6KA4, RPS6KA5
+histone H3S28 kinase activity	2	RPS6KA4, RPS6KA5
+negative regulation of cytokine production	2	RPS6KA4, RPS6KA5
+chromatin remodeling	2	RPS6KA4, RPS6KA5
+ DNA-templated transcription	2	RPS6KA4, RPS6KA5
+protein phosphorylation	2	RPS6KA4, RPS6KA5
+inflammatory response	2	RPS6KA4, RPS6KA5
+ CREB transcription factor activity	2	RPS6KA4, RPS6KA5
+intracellular signal transduction	2	RPS6KA4, RPS6KA5
+post-translational protein modification	2	RPS6KA4, RPS6KA5
+ transcription by RNA polymerase II	2	RPS6KA4, RPS6KA5
+ NF-kappaB transcription factor activity	2	RPS6KA4, RPS6KA5
+interleukin-1-mediated signaling pathway	2	RPS6KA4, RPS6KA5
+transmembrane transporter activity	1	CNNM1
+transport	1	CNNM1
+monoatomic ion transport	1	CNNM1
+magnesium ion homeostasis	1	CNNM1
+transmembrane transport	1	CNNM1
+plasma membrane	1	CNNM1
+phosphoprotein phosphatase activity	1	DUSP16
+protein tyrosine/threonine phosphatase activity	1	DUSP16
+JUN kinase binding	1	DUSP16
+phosphatase activity	1	DUSP16
+MAP kinase tyrosine/serine/threonine phosphatase activity	1	DUSP16
+myosin phosphatase activity	1	DUSP16
+MAP kinase tyrosine phosphatase activity	1	DUSP16
+mitogen-activated protein kinase p38 binding	1	DUSP16
+protein dephosphorylation	1	DUSP16
+dephosphorylation	1	DUSP16
+negative regulation of MAPK cascade	1	DUSP16
+negative regulation of JUN kinase activity	1	DUSP16
+MAPK export from nucleus	1	DUSP16
+cytoplasmic vesicle	1	DUSP16
+p53 binding	1	MAPKAPK5
+calmodulin-dependent protein kinase activity	1	MAPKAPK5
+MAP kinase kinase activity	1	MAPKAPK5
+calmodulin binding	1	MAPKAPK5
+calcium-dependent protein serine/threonine kinase activity	1	MAPKAPK5
+MAPK cascade	1	MAPKAPK5
+ translation	1	MAPKAPK5
+signal transduction	1	MAPKAPK5
+Ras protein signal transduction	1	MAPKAPK5
+peptidyl-serine phosphorylation	1	MAPKAPK5
+negative regulation of TOR signaling	1	MAPKAPK5
+ telomere maintenance via telomerase	1	MAPKAPK5
+protein autophosphorylation	1	MAPKAPK5
+ telomerase activity	1	MAPKAPK5
+ dendritic spine development	1	MAPKAPK5
+cellular senescence	1	MAPKAPK5
+stress-induced premature senescence	1	MAPKAPK5
+ signal transduction by p53 class mediator	1	MAPKAPK5
+ telomere capping	1	MAPKAPK5
+septin cytoskeleton	1	MAPKAPK5
+protein-containing complex	1	MAPKAPK5
+ribosomal protein S6 kinase activity	1	RPS6KA4
+synapse	1	RPS6KA4
+protein tyrosine kinase activity	1	RPS6KA5
+histone H2AS1 kinase activity	1	RPS6KA5
+axon guidance	1	RPS6KA5
+negative regulation of DNA-templated transcription	1	RPS6KA5
+ postsynapse organization	1	RPS6KA5

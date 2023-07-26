@@ -1,0 +1,364 @@
+Feature	Number of Genes	Genes
+protein binding	9	BMPR1A, EYA3, IFNGR1, IFNLR1, NOTCH1, PIK3CB, PIK3R3, SUSD6, UBASH3B
+ gene expression	5	BMPR1A, IFNGR1, NOTCH1, PIK3CB, PIK3R3
+plasma membrane	5	BMPR1A, IFNGR1, IFNLR1, NOTCH1, PIK3CB
+membrane	5	BMPR1A, IFNGR1, IFNLR1, SUSD6, TMEM94
+nucleus	5	EYA3, MYRF, NOTCH1, PIK3CB, UBASH3B
+nucleoplasm	4	EYA3, MYRF, NOTCH1, PIK3CB
+cytosol	4	MYRF, NOTCH1, PIK3CB, PIK3R3
+immune response	3	BMPR1A, NOTCH1, PIK3R3
+ transcription by RNA polymerase II	3	BMPR1A, MYRF, NOTCH1
+cytoplasm	3	EYA3, PIK3CB, UBASH3B
+ATP binding	2	BMPR1A, PIK3CB
+metal ion binding	2	BMPR1A, EYA3
+in utero embryonic development	2	BMPR1A, NOTCH1
+outflow tract morphogenesis	2	BMPR1A, NOTCH1
+endocardial cushion morphogenesis	2	BMPR1A, NOTCH1
+ventricular trabecula myocardium morphogenesis	2	BMPR1A, NOTCH1
+negative regulation of gene expression	2	BMPR1A, NOTCH1
+lung development	2	BMPR1A, NOTCH1
+epithelial cell proliferation	2	BMPR1A, NOTCH1
+ epithelial cell proliferation	2	BMPR1A, NOTCH1
+negative regulation of neurogenesis	2	BMPR1A, NOTCH1
+ cardiac muscle cell proliferation	2	BMPR1A, NOTCH1
+ventricular septum morphogenesis	2	BMPR1A, NOTCH1
+receptor complex	2	BMPR1A, NOTCH1
+protein tyrosine phosphatase activity	2	EYA3, UBASH3B
+signal transduction	2	IFNGR1, PIK3CB
+type III interferon-mediated signaling pathway	2	IFNGR1, IFNLR1
+cellular response to virus	2	IFNGR1, IFNLR1
+negative regulation of cell population proliferation	2	IFNLR1, NOTCH1
+ DNA-templated transcription	2	MYRF, NOTCH1
+oligodendrocyte differentiation	2	MYRF, NOTCH1
+endoplasmic reticulum membrane	2	MYRF, NOTCH1
+identical protein binding	2	NOTCH1, UBASH3B
+ cell migration	2	NOTCH1, PIK3R3
+negative regulation of anoikis	2	NOTCH1, PIK3R3
+1-phosphatidylinositol-3-kinase activity	2	PIK3CB, PIK3R3
+phosphatidylinositol-3-phosphate biosynthetic process	2	PIK3CB, PIK3R3
+phosphatidylinositol phosphate biosynthetic process	2	PIK3CB, PIK3R3
+platelet aggregation	2	PIK3CB, UBASH3B
+phosphatidylinositol 3-kinase complex	2	PIK3CB, PIK3R3
+phosphatidylinositol 3-kinase complex, class IA	2	PIK3CB, PIK3R3
+protein serine/threonine kinase activity	1	BMPR1A
+transmembrane receptor protein serine/threonine kinase activity	1	BMPR1A
+transforming growth factor beta receptor activity, type I	1	BMPR1A
+BMP binding	1	BMPR1A
+protein homodimerization activity	1	BMPR1A
+SMAD binding	1	BMPR1A
+BMP receptor activity	1	BMPR1A
+angiogenesis	1	BMPR1A
+osteoblast differentiation	1	BMPR1A
+mesoderm formation	1	BMPR1A
+somitogenesis	1	BMPR1A
+Mullerian duct regression	1	BMPR1A
+ mesenchymal cell proliferation	1	BMPR1A
+chondrocyte differentiation	1	BMPR1A
+outflow tract septum morphogenesis	1	BMPR1A
+cardiac conduction system development	1	BMPR1A
+atrioventricular valve development	1	BMPR1A
+mitral valve morphogenesis	1	BMPR1A
+tricuspid valve morphogenesis	1	BMPR1A
+cardiac right ventricle morphogenesis	1	BMPR1A
+ventricular compact myocardium morphogenesis	1	BMPR1A
+endocardial cushion formation	1	BMPR1A
+protein phosphorylation	1	BMPR1A
+transforming growth factor beta receptor signaling pathway	1	BMPR1A
+ectoderm development	1	BMPR1A
+dorsal/ventral axis specification	1	BMPR1A
+dorsal/ventral pattern formation	1	BMPR1A
+ cardiac muscle cell apoptotic process	1	BMPR1A
+ pathway-restricted SMAD protein phosphorylation	1	BMPR1A
+neural crest cell development	1	BMPR1A
+negative regulation of smooth muscle cell migration	1	BMPR1A
+central nervous system neuron differentiation	1	BMPR1A
+pituitary gland development	1	BMPR1A
+neural plate mediolateral regionalization	1	BMPR1A
+ bone mineralization	1	BMPR1A
+BMP signaling pathway	1	BMPR1A
+ transforming growth factor beta2 production	1	BMPR1A
+somatic stem cell population maintenance	1	BMPR1A
+hindlimb morphogenesis	1	BMPR1A
+dorsal aorta morphogenesis	1	BMPR1A
+odontogenesis of dentin-containing tooth	1	BMPR1A
+embryonic digit morphogenesis	1	BMPR1A
+ osteoblast differentiation	1	BMPR1A
+paraxial mesoderm structural organization	1	BMPR1A
+lateral mesoderm development	1	BMPR1A
+ lateral mesodermal cell fate specification	1	BMPR1A
+mesendoderm development	1	BMPR1A
+embryonic organ development	1	BMPR1A
+developmental growth	1	BMPR1A
+negative regulation of muscle cell differentiation	1	BMPR1A
+roof of mouth development	1	BMPR1A
+ SMAD protein signal transduction	1	BMPR1A
+heart formation	1	BMPR1A
+atrioventricular node cell development	1	BMPR1A
+BMP signaling pathway involved in heart development	1	BMPR1A
+pharyngeal arch artery morphogenesis	1	BMPR1A
+cellular response to growth factor stimulus	1	BMPR1A
+cellular response to BMP stimulus	1	BMPR1A
+ miRNA transcription	1	BMPR1A
+ cardiac ventricle development	1	BMPR1A
+ vascular associated smooth muscle cell proliferation	1	BMPR1A
+fibrous ring of heart morphogenesis	1	BMPR1A
+ neural crest cell differentiation	1	BMPR1A
+ cellular senescence	1	BMPR1A
+caveola	1	BMPR1A
+external side of plasma membrane	1	BMPR1A
+dendrite	1	BMPR1A
+neuronal cell body	1	BMPR1A
+HFE-transferrin receptor complex	1	BMPR1A
+histone H2AXY142 phosphatase activity	1	EYA3
+double-strand break repair	1	EYA3
+chromatin remodeling	1	EYA3
+visual perception	1	EYA3
+anatomical structure morphogenesis	1	EYA3
+response to ionizing radiation	1	EYA3
+cell differentiation	1	EYA3
+ DNA repair	1	EYA3
+anatomical structure development	1	EYA3
+negative regulation of extrinsic apoptotic signaling pathway in absence of ligand	1	EYA3
+centrosome	1	EYA3
+type II interferon receptor activity	1	IFNGR1
+cytokine binding	1	IFNGR1
+microglial cell activation	1	IFNGR1
+response to virus	1	IFNGR1
+ tumor necrosis factor production	1	IFNGR1
+astrocyte activation	1	IFNGR1
+type II interferon-mediated signaling pathway	1	IFNGR1
+negative regulation of amyloid-beta clearance	1	IFNGR1
+ amyloid-beta formation	1	IFNGR1
+cytokine receptor activity	1	IFNLR1
+mucosal immune response	1	IFNLR1
+response to type III interferon	1	IFNLR1
+ defense response to virus by host	1	IFNLR1
+defense response to virus	1	IFNLR1
+ cellular respiration	1	IFNLR1
+interleukin-28 receptor complex	1	IFNLR1
+DNA-binding transcription factor activity, RNA polymerase II-specific	1	MYRF
+DNA-binding transcription factor activity	1	MYRF
+peptidase activity	1	MYRF
+sequence-specific DNA binding	1	MYRF
+oligodendrocyte development	1	MYRF
+protein autoprocessing	1	MYRF
+central nervous system myelination	1	MYRF
+ myelination	1	MYRF
+central nervous system myelin maintenance	1	MYRF
+Golgi apparatus	1	MYRF
+transcription coactivator activity	1	NOTCH1
+enzyme inhibitor activity	1	NOTCH1
+transmembrane signaling receptor activity	1	NOTCH1
+Notch binding	1	NOTCH1
+calcium ion binding	1	NOTCH1
+enzyme binding	1	NOTCH1
+chromatin DNA binding	1	NOTCH1
+transcription regulator activator activity	1	NOTCH1
+negative regulation of transcription by RNA polymerase II	1	NOTCH1
+luteolysis	1	NOTCH1
+epithelial to mesenchymal transition	1	NOTCH1
+liver development	1	NOTCH1
+heart looping	1	NOTCH1
+sprouting angiogenesis	1	NOTCH1
+ neuroblast proliferation	1	NOTCH1
+inhibition of neuroepithelial cell differentiation	1	NOTCH1
+inflammatory response to antigenic stimulus	1	NOTCH1
+endocardium development	1	NOTCH1
+endocardium morphogenesis	1	NOTCH1
+atrioventricular node development	1	NOTCH1
+coronary vein morphogenesis	1	NOTCH1
+aortic valve morphogenesis	1	NOTCH1
+atrioventricular valve morphogenesis	1	NOTCH1
+coronary sinus valve morphogenesis	1	NOTCH1
+pulmonary valve morphogenesis	1	NOTCH1
+mitral valve formation	1	NOTCH1
+epithelial to mesenchymal transition involved in endocardial cushion formation	1	NOTCH1
+cardiac chamber formation	1	NOTCH1
+cardiac ventricle morphogenesis	1	NOTCH1
+cardiac atrium morphogenesis	1	NOTCH1
+cardiac right atrium morphogenesis	1	NOTCH1
+cardiac left ventricle morphogenesis	1	NOTCH1
+cardiac right ventricle formation	1	NOTCH1
+growth involved in heart morphogenesis	1	NOTCH1
+negative regulation of cell proliferation involved in heart valve morphogenesis	1	NOTCH1
+Notch signaling pathway involved in regulation of secondary heart field cardioblast proliferation	1	NOTCH1
+cell migration involved in endocardial cushion formation	1	NOTCH1
+negative regulation of extracellular matrix constituent secretion	1	NOTCH1
+pericardium morphogenesis	1	NOTCH1
+transcription by RNA polymerase II	1	NOTCH1
+protein import into nucleus	1	NOTCH1
+humoral immune response	1	NOTCH1
+Notch signaling pathway	1	NOTCH1
+ transcription of Notch receptor target	1	NOTCH1
+spermatogenesis	1	NOTCH1
+determination of left/right symmetry	1	NOTCH1
+compartment pattern specification	1	NOTCH1
+axon guidance	1	NOTCH1
+foregut morphogenesis	1	NOTCH1
+endoderm development	1	NOTCH1
+heart development	1	NOTCH1
+ cell population proliferation	1	NOTCH1
+auditory receptor cell fate commitment	1	NOTCH1
+epidermal cell fate specification	1	NOTCH1
+negative regulation of cardiac muscle hypertrophy	1	NOTCH1
+negative regulation of cell-substrate adhesion	1	NOTCH1
+negative regulation of myotube differentiation	1	NOTCH1
+mesenchymal cell development	1	NOTCH1
+ somitogenesis	1	NOTCH1
+calcium-ion regulated exocytosis	1	NOTCH1
+cell differentiation in spinal cord	1	NOTCH1
+neural tube development	1	NOTCH1
+protein catabolic process	1	NOTCH1
+keratinocyte differentiation	1	NOTCH1
+negative regulation of ossification	1	NOTCH1
+ BMP signaling pathway	1	NOTCH1
+negative regulation of BMP signaling pathway	1	NOTCH1
+forebrain development	1	NOTCH1
+hair follicle morphogenesis	1	NOTCH1
+animal organ regeneration	1	NOTCH1
+response to corticosteroid	1	NOTCH1
+response to muramyl dipeptide	1	NOTCH1
+response to lipopolysaccharide	1	NOTCH1
+negative regulation of collagen biosynthetic process	1	NOTCH1
+embryonic hindlimb morphogenesis	1	NOTCH1
+tube formation	1	NOTCH1
+skeletal muscle cell differentiation	1	NOTCH1
+cellular response to vascular endothelial growth factor stimulus	1	NOTCH1
+tissue regeneration	1	NOTCH1
+retinal cone cell differentiation	1	NOTCH1
+negative regulation of catalytic activity	1	NOTCH1
+ viral genome replication	1	NOTCH1
+ endothelial cell differentiation	1	NOTCH1
+negative regulation of inner ear auditory receptor cell differentiation	1	NOTCH1
+ keratinocyte differentiation	1	NOTCH1
+negative regulation of myoblast differentiation	1	NOTCH1
+negative regulation of osteoblast differentiation	1	NOTCH1
+ Notch signaling pathway	1	NOTCH1
+negative regulation of DNA-templated transcription	1	NOTCH1
+negative regulation of calcium ion-dependent exocytosis	1	NOTCH1
+ receptor signaling pathway via JAK-STAT	1	NOTCH1
+negative regulation of photoreceptor cell differentiation	1	NOTCH1
+ Ras protein signal transduction	1	NOTCH1
+somatic stem cell division	1	NOTCH1
+astrocyte differentiation	1	NOTCH1
+ astrocyte differentiation	1	NOTCH1
+negative regulation of oligodendrocyte differentiation	1	NOTCH1
+branching morphogenesis of an epithelial tube	1	NOTCH1
+homeostasis of number of cells within a tissue	1	NOTCH1
+negative regulation of epithelial cell proliferation	1	NOTCH1
+cardiac muscle tissue morphogenesis	1	NOTCH1
+cardiac muscle cell proliferation	1	NOTCH1
+negative regulation of glial cell proliferation	1	NOTCH1
+cilium assembly	1	NOTCH1
+cardiac epithelial to mesenchymal transition	1	NOTCH1
+negative regulation of cell adhesion molecule production	1	NOTCH1
+cardiac muscle cell myoblast differentiation	1	NOTCH1
+cardiac septum morphogenesis	1	NOTCH1
+secretory columnal luminar epithelial cell differentiation involved in prostate glandular acinus development	1	NOTCH1
+prostate gland epithelium morphogenesis	1	NOTCH1
+ epithelial cell proliferation involved in prostate gland development	1	NOTCH1
+arterial endothelial cell differentiation	1	NOTCH1
+venous endothelial cell differentiation	1	NOTCH1
+cardiac vascular smooth muscle cell development	1	NOTCH1
+endocardial cell differentiation	1	NOTCH1
+vasculogenesis involved in coronary vascular morphogenesis	1	NOTCH1
+coronary artery morphogenesis	1	NOTCH1
+neuroendocrine cell differentiation	1	NOTCH1
+Notch signaling involved in heart development	1	NOTCH1
+heart trabecula morphogenesis	1	NOTCH1
+ cardiac epithelial to mesenchymal transition	1	NOTCH1
+negative regulation of biomineral tissue development	1	NOTCH1
+ ERK1 and ERK2 cascade	1	NOTCH1
+left/right axis specification	1	NOTCH1
+cellular response to tumor cell	1	NOTCH1
+cellular response to follicle-stimulating hormone stimulus	1	NOTCH1
+cellular response to hypoxia	1	NOTCH1
+distal tubule development	1	NOTCH1
+collecting duct development	1	NOTCH1
+ stem cell proliferation	1	NOTCH1
+glomerular mesangial cell development	1	NOTCH1
+epithelial cell fate commitment	1	NOTCH1
+T-helper 17 type immune response	1	NOTCH1
+negative regulation of cell migration involved in sprouting angiogenesis	1	NOTCH1
+negative regulation of canonical Wnt signaling pathway	1	NOTCH1
+neuronal stem cell population maintenance	1	NOTCH1
+interleukin-17-mediated signaling pathway	1	NOTCH1
+negative regulation of cold-induced thermogenesis	1	NOTCH1
+ extracellular matrix assembly	1	NOTCH1
+apoptotic process involved in embryonic digit morphogenesis	1	NOTCH1
+ apoptotic process involved in morphogenesis	1	NOTCH1
+ aorta morphogenesis	1	NOTCH1
+negative regulation of cell-cell adhesion mediated by cadherin	1	NOTCH1
+negative regulation of stem cell differentiation	1	NOTCH1
+negative regulation of pro-B cell differentiation	1	NOTCH1
+negative regulation of endothelial cell chemotaxis	1	NOTCH1
+Golgi membrane	1	NOTCH1
+acrosomal vesicle	1	NOTCH1
+MAML1-RBP-Jkappa- ICN1 complex	1	NOTCH1
+extracellular region	1	NOTCH1
+adherens junction	1	NOTCH1
+cell surface	1	NOTCH1
+apical plasma membrane	1	NOTCH1
+kinase activity	1	PIK3CB
+phosphatidylinositol 3-kinase activity	1	PIK3CB
+1-phosphatidylinositol-4-phosphate 3-kinase activity	1	PIK3CB
+insulin receptor substrate binding	1	PIK3CB
+phosphatidylinositol-4,5-bisphosphate 3-kinase activity	1	PIK3CB
+phosphatidylinositol-3,4-bisphosphate 5-kinase activity	1	PIK3CB
+protein serine kinase activity	1	PIK3CB
+endothelial cell proliferation	1	PIK3CB
+ cell-matrix adhesion	1	PIK3CB
+response to ischemia	1	PIK3CB
+sphingosine-1-phosphate receptor signaling pathway	1	PIK3CB
+intracellular calcium ion homeostasis	1	PIK3CB
+endocytosis	1	PIK3CB
+autophagy	1	PIK3CB
+chemotaxis	1	PIK3CB
+homophilic cell adhesion via plasma membrane adhesion molecules	1	PIK3CB
+transmembrane receptor protein tyrosine kinase signaling pathway	1	PIK3CB
+G protein-coupled receptor signaling pathway	1	PIK3CB
+ autophagy	1	PIK3CB
+ endothelial cell migration	1	PIK3CB
+phosphatidylinositol 3-kinase signaling	1	PIK3CB
+phosphorylation	1	PIK3CB
+cell migration	1	PIK3CB
+platelet activation	1	PIK3CB
+ neutrophil apoptotic process	1	PIK3CB
+ Rac protein signal transduction	1	PIK3CB
+embryonic cleavage	1	PIK3CB
+negative regulation of MAP kinase activity	1	PIK3CB
+ nitric-oxide synthase activity	1	PIK3CB
+ protein kinase B signaling	1	PIK3CB
+negative regulation of protein kinase B signaling	1	PIK3CB
+angiogenesis involved in wound healing	1	PIK3CB
+negative regulation of vascular endothelial growth factor signaling pathway	1	PIK3CB
+negative regulation of hypoxia-induced intrinsic apoptotic signaling pathway	1	PIK3CB
+negative regulation of sprouting angiogenesis	1	PIK3CB
+ clathrin-dependent endocytosis	1	PIK3CB
+nucleolus	1	PIK3CB
+midbody	1	PIK3CB
+intracellular membrane-bounded organelle	1	PIK3CB
+phosphotyrosine residue binding	1	PIK3R3
+1-phosphatidylinositol-3-kinase regulator activity	1	PIK3R3
+ protein phosphorylation	1	PIK3R3
+cell migration involved in sprouting angiogenesis	1	PIK3R3
+insulin receptor signaling pathway	1	PIK3R3
+B cell differentiation	1	PIK3R3
+T cell differentiation	1	PIK3R3
+protein kinase B signaling	1	PIK3R3
+ phosphatidylinositol 3-kinase activity	1	PIK3R3
+molecular_function	1	SUSD6
+DNA damage response	1	SUSD6
+cellular_component	1	SUSD6
+ubiquitin protein ligase binding	1	UBASH3B
+phosphoprotein binding	1	UBASH3B
+negative regulation of protein kinase activity	1	UBASH3B
+negative regulation of signal transduction	1	UBASH3B
+peptidyl-tyrosine dephosphorylation	1	UBASH3B
+collagen-activated tyrosine kinase receptor signaling pathway	1	UBASH3B
+ protein binding	1	UBASH3B
+ osteoclast differentiation	1	UBASH3B
+negative regulation of osteoclast differentiation	1	UBASH3B
+negative regulation of bone resorption	1	UBASH3B
+ release of sequestered calcium ion into cytosol	1	UBASH3B
+negative regulation of platelet aggregation	1	UBASH3B

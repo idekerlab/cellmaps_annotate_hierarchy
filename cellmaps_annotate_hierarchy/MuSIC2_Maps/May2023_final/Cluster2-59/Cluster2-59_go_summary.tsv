@@ -1,0 +1,33 @@
+Feature	Number of Genes	Genes
+protein binding	3	DCAF5, DDAH2, USP54
+nucleoplasm	2	DCAF5, WDR70
+mitochondrion	2	DDAH2, GCDH
+protein ubiquitination	1	DCAF5
+negative regulation of fatty acid biosynthetic process	1	DCAF5
+cytoplasm	1	DCAF5
+Cul4-RING E3 ubiquitin ligase complex	1	DCAF5
+catalytic activity	1	DDAH2
+dimethylargininase activity	1	DDAH2
+amino acid binding	1	DDAH2
+citrulline metabolic process	1	DDAH2
+arginine metabolic process	1	DDAH2
+arginine catabolic process	1	DDAH2
+nitric oxide biosynthetic process	1	DDAH2
+nitric oxide mediated signal transduction	1	DDAH2
+negative regulation of apoptotic process	1	DDAH2
+ nitric oxide biosynthetic process	1	DDAH2
+ nitric-oxide synthase activity	1	DDAH2
+cytosol	1	DDAH2
+extracellular exosome	1	DDAH2
+fatty-acyl-CoA binding	1	GCDH
+glutaryl-CoA dehydrogenase activity	1	GCDH
+flavin adenine dinucleotide binding	1	GCDH
+tryptophan metabolic process	1	GCDH
+fatty acid beta-oxidation using acyl-CoA dehydrogenase	1	GCDH
+fatty-acyl-CoA biosynthetic process	1	GCDH
+mitochondrial matrix	1	GCDH
+cysteine-type deubiquitinase activity	1	USP54
+protein deubiquitination	1	USP54
+enzyme binding	1	WDR70
+nucleus	1	WDR70
+site of double-strand break	1	WDR70

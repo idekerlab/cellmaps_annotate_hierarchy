@@ -1,0 +1,22 @@
+Write a critical and concise analysis of this system, describing your reasoning as you go and providing references to scientific papers.         
+Format with Title, Summary, and References sections.        
+Avoid overly general statements of how the proteins are involved in various cellular processes
+        
+Avoid recapitulating the goals of the analysis. 
+What cellular components and complexes are involved in this system?
+What mechanisms and biological processes are performed by this system?
+Propose a name for the system to reflect the function and location, and should be specific but brief. Do not compose an acronym. Place it as the title of your report
+Provide complete paper references with pubmed link
+Proteins: CEP85, DIABLO, RNF115, TRAF6.
+
+A critical goal of the analysis is to determine if this is a novel complex or if any proteins are novel members of a known complex
+System features from GO terms: 
+protein binding: 4 proteins: CEP85, DIABLO, RNF115, TRAF6
+cytosol: 4 proteins: CEP85, DIABLO, RNF115, TRAF6
+cytoplasmic side of plasma membrane: 2 proteins: DIABLO, TRAF6
+CD40 receptor complex: 2 proteins: DIABLO, TRAF6
+ubiquitin-protein transferase activity: 2 proteins: RNF115, TRAF6
+ubiquitin protein ligase activity: 2 proteins: RNF115, TRAF6
+protein autoubiquitination: 2 proteins: RNF115, TRAF6
+protein K63-linked ubiquitination: 2 proteins: RNF115, TRAF6
+cytoplasm: 2 proteins: RNF115, TRAF6

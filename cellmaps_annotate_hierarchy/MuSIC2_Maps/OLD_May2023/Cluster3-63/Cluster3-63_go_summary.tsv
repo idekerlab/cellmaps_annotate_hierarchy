@@ -1,0 +1,140 @@
+Feature	Number of Genes	Genes
+protein binding	4	AURKA, ABCA12, CPE, DOCK8
+cytosol	3	AURKA, ABCA12, DOCK8
+plasma membrane	3	ABCA12, CPE, DOCK8
+ATP binding	2	AURKA, ABCA12
+molecular function activator activity	2	AURKA, CPE
+nucleoplasm	2	AURKA, DOCK8
+cytoplasm	2	ABCA12, DOCK8
+membrane	2	ABCA12, DOCK8
+transport vesicle membrane	2	ABCA12, CPE
+protein kinase activity	1	AURKA
+protein serine/threonine kinase activity	1	AURKA
+protein serine/threonine/tyrosine kinase activity	1	AURKA
+protein kinase binding	1	AURKA
+ubiquitin protein ligase binding	1	AURKA
+protein heterodimerization activity	1	AURKA
+protein serine kinase activity	1	AURKA
+G2/M transition of mitotic cell cycle	1	AURKA
+mitotic cell cycle	1	AURKA
+protein phosphorylation	1	AURKA
+apoptotic process	1	AURKA
+spindle organization	1	AURKA
+mitotic spindle organization	1	AURKA
+spindle assembly involved in female meiosis I	1	AURKA
+mitotic centrosome separation	1	AURKA
+response to wounding	1	AURKA
+anterior/posterior axis specification	1	AURKA
+regulation of G2/M transition of mitotic cell cycle	1	AURKA
+negative regulation of gene expression	1	AURKA
+peptidyl-serine phosphorylation	1	AURKA
+regulation of protein stability	1	AURKA
+negative regulation of protein binding	1	AURKA
+positive regulation of proteasomal ubiquitin-dependent protein catabolic process	1	AURKA
+regulation of cytokinesis	1	AURKA
+negative regulation of apoptotic process	1	AURKA
+proteasome-mediated ubiquitin-dependent protein catabolic process	1	AURKA
+positive regulation of mitotic nuclear division	1	AURKA
+positive regulation of mitotic cell cycle	1	AURKA
+regulation of centrosome cycle	1	AURKA
+protein autophosphorylation	1	AURKA
+cell division	1	AURKA
+centrosome localization	1	AURKA
+cilium disassembly	1	AURKA
+protein localization to centrosome	1	AURKA
+positive regulation of mitochondrial fission	1	AURKA
+liver regeneration	1	AURKA
+positive regulation of oocyte maturation	1	AURKA
+regulation of signal transduction by p53 class mediator	1	AURKA
+neuron projection extension	1	AURKA
+kinetochore	1	AURKA
+nucleus	1	AURKA
+centrosome	1	AURKA
+centriole	1	AURKA
+spindle	1	AURKA
+spindle microtubule	1	AURKA
+postsynaptic density	1	AURKA
+microtubule cytoskeleton	1	AURKA
+basolateral plasma membrane	1	AURKA
+midbody	1	AURKA
+spindle pole centrosome	1	AURKA
+chromosome passenger complex	1	AURKA
+ciliary basal body	1	AURKA
+germinal vesicle	1	AURKA
+axon hillock	1	AURKA
+pronucleus	1	AURKA
+perinuclear region of cytoplasm	1	AURKA
+spindle midzone	1	AURKA
+mitotic spindle	1	AURKA
+meiotic spindle	1	AURKA
+mitotic spindle pole	1	AURKA
+glutamatergic synapse	1	AURKA
+signaling receptor binding	1	ABCA12
+lipid transporter activity	1	ABCA12
+ATP hydrolysis activity	1	ABCA12
+ATPase-coupled lipid transmembrane transporter activity	1	ABCA12
+apolipoprotein A-I receptor binding	1	ABCA12
+ATPase-coupled transmembrane transporter activity	1	ABCA12
+ATPase-coupled intramembrane lipid transporter activity	1	ABCA12
+ABC-type transporter activity	1	ABCA12
+corneocyte desquamation	1	ABCA12
+ceramide metabolic process	1	ABCA12
+lipid transport	1	ABCA12
+intracellular protein transport	1	ABCA12
+positive regulation of cholesterol efflux	1	ABCA12
+cellular homeostasis	1	ABCA12
+keratinization	1	ABCA12
+positive regulation of intracellular lipid transport	1	ABCA12
+secretion by cell	1	ABCA12
+cholesterol efflux	1	ABCA12
+phospholipid efflux	1	ABCA12
+lipid translocation	1	ABCA12
+ceramide transport	1	ABCA12
+surfactant homeostasis	1	ABCA12
+skin morphogenesis	1	ABCA12
+regulated exocytosis	1	ABCA12
+regulation of keratinocyte differentiation	1	ABCA12
+lung alveolus development	1	ABCA12
+transmembrane transport	1	ABCA12
+lipid homeostasis	1	ABCA12
+regulation of insulin secretion involved in cellular response to glucose stimulus	1	ABCA12
+establishment of skin barrier	1	ABCA12
+protein localization to plasma membrane	1	ABCA12
+positive regulation of protein localization to cell surface	1	ABCA12
+Golgi membrane	1	ABCA12
+intracellular membrane-bounded organelle	1	ABCA12
+epidermal lamellar body	1	ABCA12
+epidermal lamellar body membrane	1	ABCA12
+carboxypeptidase activity	1	CPE
+metallocarboxypeptidase activity	1	CPE
+zinc ion binding	1	CPE
+neurexin family protein binding	1	CPE
+cell adhesion molecule binding	1	CPE
+cardiac left ventricle morphogenesis	1	CPE
+peptide metabolic process	1	CPE
+neuropeptide signaling pathway	1	CPE
+Wnt signaling pathway	1	CPE
+protein processing	1	CPE
+insulin processing	1	CPE
+peptide hormone secretion	1	CPE
+protein localization to secretory granule	1	CPE
+protein modification process	1	CPE
+protein localization to membrane	1	CPE
+extracellular space	1	CPE
+Golgi apparatus	1	CPE
+secretory granule membrane	1	CPE
+extracellular exosome	1	CPE
+guanyl-nucleotide exchange factor activity	1	DOCK8
+immunological synapse formation	1	DOCK8
+small GTPase mediated signal transduction	1	DOCK8
+dendritic cell migration	1	DOCK8
+positive regulation of GTPase activity	1	DOCK8
+regulation of small GTPase mediated signal transduction	1	DOCK8
+memory T cell proliferation	1	DOCK8
+negative regulation of T cell apoptotic process	1	DOCK8
+positive regulation of establishment of T cell polarity	1	DOCK8
+cellular response to chemokine	1	DOCK8
+positive regulation of T cell migration	1	DOCK8
+cell leading edge	1	DOCK8
+leading edge membrane	1	DOCK8
+lamellipodium membrane	1	DOCK8

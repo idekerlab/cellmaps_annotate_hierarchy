@@ -1,0 +1,65 @@
+Feature	Number of Genes	Genes
+protein binding	4	UNG, DYRK4, KCTD12, ELP3
+nucleus	3	UNG, DYRK4, ELP3
+mitochondrion	2	UNG, PUSL1
+metal ion binding	2	DYRK4, ELP3
+cytoplasm	2	DYRK4, ELP3
+intracellular membrane-bounded organelle	2	DYRK4, PUSL1
+cytosol	2	TSR3, ELP3
+RNA binding	2	KCTD12, PUSL1
+damaged DNA binding	1	UNG
+uracil DNA N-glycosylase activity	1	UNG
+ribosomal small subunit binding	1	UNG
+DNA repair	1	UNG
+base-excision repair	1	UNG
+somatic hypermutation of immunoglobulin genes	1	UNG
+negative regulation of apoptotic process	1	UNG
+depyrimidination	1	UNG
+isotype switching	1	UNG
+base-excision repair, AP site formation via deaminated base removal	1	UNG
+nucleoplasm	1	UNG
+protein serine/threonine kinase activity	1	DYRK4
+protein serine/threonine/tyrosine kinase activity	1	DYRK4
+protein tyrosine kinase activity	1	DYRK4
+ATP binding	1	DYRK4
+protein serine kinase activity	1	DYRK4
+peptidyl-serine phosphorylation	1	DYRK4
+peptidyl-threonine phosphorylation	1	DYRK4
+cytoskeleton	1	DYRK4
+transferase activity	1	TSR3
+18S rRNA aminocarboxypropyltransferase activity	1	TSR3
+S-adenosyl-L-methionine binding	1	TSR3
+rRNA modification	1	TSR3
+enzyme-directed rRNA pseudouridine synthesis	1	TSR3
+maturation of SSU-rRNA	1	TSR3
+alpha-N-acetylgalactosaminide alpha-2,6-sialyltransferase activity	1	ST6GALNAC5
+sialyltransferase activity	1	ST6GALNAC5
+ganglioside biosynthetic process	1	ST6GALNAC5
+protein glycosylation	1	ST6GALNAC5
+glycosphingolipid biosynthetic process	1	ST6GALNAC5
+oligosaccharide metabolic process	1	ST6GALNAC5
+oligosaccharide biosynthetic process	1	ST6GALNAC5
+sialylation	1	ST6GALNAC5
+Golgi membrane	1	ST6GALNAC5
+identical protein binding	1	KCTD12
+ G protein-coupled receptor signaling pathway	1	KCTD12
+protein homooligomerization	1	KCTD12
+presynaptic membrane	1	KCTD12
+cell projection	1	KCTD12
+postsynaptic membrane	1	KCTD12
+tRNA binding	1	ELP3
+phosphorylase kinase regulator activity	1	ELP3
+acetyltransferase activity	1	ELP3
+4 iron, 4 sulfur cluster binding	1	ELP3
+tRNA uridine(34) acetyltransferase activity	1	ELP3
+neuron migration	1	ELP3
+tRNA wobble uridine modification	1	ELP3
+tRNA wobble base 5-methoxycarbonylmethyl-2-thiouridinylation	1	ELP3
+ transcription by RNA polymerase II	1	ELP3
+ translation	1	ELP3
+central nervous system development	1	ELP3
+ cell migration	1	ELP3
+nucleolus	1	ELP3
+elongator holoenzyme complex	1	ELP3
+pseudouridine synthase activity	1	PUSL1
+tRNA pseudouridine synthesis	1	PUSL1

@@ -1,0 +1,250 @@
+Feature	Number of Genes	Genes
+protein binding	15	DNM3, EPS15L1, DAB2, REPS1, PICK1, ITSN2, AAK1, AAGAB, AMPH, FCHSD2, RALBP1, FCHO1, AP1B1, AP2A1, AP2A2
+cytosol	14	EPS15L1, DAB2, REPS1, PICK1, ITSN2, AAK1, AAGAB, AMPH, RALBP1, SYNJ1, FCHO1, AP1B1, AP2A1, AP2A2
+plasma membrane	12	DNM3, EPS15L1, DAB2, REPS1, PICK1, ITSN2, AMPH, FCHSD2, RALBP1, FCHO1, AP2A1, AP2A2
+endocytosis	7	DNM3, EPS15L1, REPS1, AMPH, NECAP2, RALBP1, AP2A1
+cytoplasm	7	DNM3, EPS15L1, REPS1, PICK1, ITSN2, AAGAB, FCHO1
+clathrin-coated pit	6	DAB2, REPS1, AAK1, FCHSD2, NECAP2, FCHO1
+perinuclear region of cytoplasm	4	DNM3, DAB2, PICK1, SYNJ1
+protein transport	4	DAB2, AAGAB, FCHSD2, NECAP2
+intracellular protein transport	4	PICK1, AP1B1, AP2A1, AP2A2
+membrane organization	4	AAK1, FCHSD2, SYNJ1, FCHSD1
+clathrin-dependent endocytosis	4	FCHSD2, FCHO1, AP2A1, AP2A2
+vesicle-mediated transport	4	NECAP2, AP1B1, AP2A1, AP2A2
+synaptic vesicle endocytosis	3	DNM3, AMPH, SYNJ1
+postsynaptic neurotransmitter receptor internalization	3	DNM3, AP2A1, AP2A2
+Golgi apparatus	3	DNM3, PICK1, AP1B1
+calcium ion binding	3	EPS15L1, REPS1, ITSN2
+endosomal transport	3	EPS15L1, REPS1, ITSN2
+membrane	3	EPS15L1, RALBP1, AP2A1
+clathrin adaptor activity	3	DAB2, AP2A1, AP2A2
+clathrin-coated vesicle	3	DAB2, AAK1, FCHO1
+intracellular membrane-bounded organelle	3	DAB2, REPS1, AP1B1
+nucleoplasm	3	REPS1, RALBP1, FCHO1
+endocytic vesicle membrane	3	PICK1, AP2A1, AP2A2
+protein kinase binding	3	AP1B1, AP2A1, AP2A2
+microtubule	2	DNM3, SYNJ1
+postsynaptic density	2	DNM3, PICK1
+extracellular exosome	2	DNM3, ITSN2
+presynapse	2	DNM3, SYNJ1
+clathrin coat of coated pit	2	EPS15L1, SYNJ1
+low-density lipoprotein particle receptor binding	2	DAB2, AP2A1
+ protein phosphorylation	2	DAB2, RALBP1
+clathrin coat assembly	2	DAB2, FCHO1
+ clathrin-dependent endocytosis	2	DAB2, AAK1
+lysosomal membrane	2	DAB2, AP1B1
+SH3 domain binding	2	REPS1, SYNJ1
+phospholipid binding	2	PICK1, AMPH
+protein phosphorylation	2	PICK1, AAK1
+ Arp2/3 complex-mediated actin nucleation	2	PICK1, FCHSD2
+synaptic vesicle	2	PICK1, AMPH
+trans-Golgi network membrane	2	PICK1, AP1B1
+presynaptic membrane	2	PICK1, ITSN2
+ATP binding	2	AAK1, RALBP1
+AP-2 adaptor complex binding	2	AAK1, FCHO1
+terminal bouton	2	AAK1, SYNJ1
+neuromuscular synaptic transmission	2	FCHSD2, FCHSD1
+ actin filament polymerization	2	FCHSD2, FCHSD1
+neuromuscular junction	2	FCHSD2, FCHSD1
+recycling endosome	2	FCHSD2, FCHSD1
+cytoplasmic side of plasma membrane	2	AP2A1, AP2A2
+AP-2 adaptor complex	2	AP2A1, AP2A2
+clathrin-coated endocytic vesicle membrane	2	AP2A1, AP2A2
+endolysosome membrane	2	AP2A1, AP2A2
+clathrin-coated endocytic vesicle	2	AP2A1, AP2A2
+postsynapse	2	AP2A1, AP2A2
+lipid binding	2	AP2A2, FCHSD1
+GTPase activity	1	DNM3
+GTP binding	1	DNM3
+microtubule binding	1	DNM3
+type 1 metabotropic glutamate receptor binding	1	DNM3
+type 5 metabotropic glutamate receptor binding	1	DNM3
+nitric-oxide synthase binding	1	DNM3
+structural constituent of postsynapse	1	DNM3
+protein serine/threonine kinase binding	1	DNM3
+synapse assembly	1	DNM3
+receptor internalization	1	DNM3
+filopodium assembly	1	DNM3
+ filopodium assembly	1	DNM3
+negative regulation of dendritic spine morphogenesis	1	DNM3
+postsynapse organization	1	DNM3
+ synaptic vesicle recycling	1	DNM3
+axon	1	DNM3
+synaptic cleft	1	DNM3
+dendritic spine	1	DNM3
+dendritic spine head	1	DNM3
+apical tubulobulbar complex	1	DNM3
+basal tubulobulbar complex	1	DNM3
+postsynaptic endocytic zone membrane	1	DNM3
+glutamatergic synapse	1	DNM3
+cadherin binding	1	EPS15L1
+nucleus	1	EPS15L1
+cargo receptor activity	1	DAB2
+SMAD binding	1	DAB2
+negative regulation of transcription by RNA polymerase II	1	DAB2
+receptor-mediated endocytosis	1	DAB2
+apoptotic process	1	DAB2
+integrin-mediated signaling pathway	1	DAB2
+ epithelial to mesenchymal transition	1	DAB2
+ pathway-restricted SMAD protein phosphorylation	1	DAB2
+negative regulation of neuron projection development	1	DAB2
+Wnt signaling pathway	1	DAB2
+negative regulation of cell growth	1	DAB2
+ cell migration	1	DAB2
+ transforming growth factor beta receptor signaling pathway	1	DAB2
+negative regulation of protein binding	1	DAB2
+ aldosterone biosynthetic process	1	DAB2
+ proteasomal ubiquitin-dependent protein catabolic process	1	DAB2
+leading edge cell differentiation	1	DAB2
+negative regulation of apoptotic process	1	DAB2
+ endocytosis	1	DAB2
+ transcription by RNA polymerase II	1	DAB2
+response to steroid hormone	1	DAB2
+negative regulation of epithelial cell proliferation	1	DAB2
+ SMAD protein signal transduction	1	DAB2
+negative regulation of androgen receptor signaling pathway	1	DAB2
+negative regulation of ERK1 and ERK2 cascade	1	DAB2
+cellular response to epidermal growth factor stimulus	1	DAB2
+cellular response to transforming growth factor beta stimulus	1	DAB2
+negative regulation of canonical Wnt signaling pathway	1	DAB2
+ substrate adhesion-dependent cell spreading	1	DAB2
+response to salt	1	DAB2
+negative regulation of protein localization to plasma membrane	1	DAB2
+ Wnt signaling pathway, planar cell polarity pathway	1	DAB2
+ Rho-dependent protein serine/threonine kinase activity	1	DAB2
+ early endosome to late endosome transport	1	DAB2
+ aldosterone secretion	1	DAB2
+fibrillar center	1	DAB2
+focal adhesion	1	DAB2
+clathrin-coated vesicle membrane	1	DAB2
+G protein-coupled receptor binding	1	PICK1
+protein kinase C binding	1	PICK1
+signaling receptor binding	1	PICK1
+protein domain specific binding	1	PICK1
+identical protein binding	1	PICK1
+metal ion binding	1	PICK1
+actin filament binding	1	PICK1
+Arp2/3 complex binding	1	PICK1
+membrane curvature sensor activity	1	PICK1
+ receptor internalization	1	PICK1
+retrograde vesicle-mediated transport, Golgi to endoplasmic reticulum	1	PICK1
+protein kinase C-activating G protein-coupled receptor signaling pathway	1	PICK1
+monoamine transport	1	PICK1
+glial cell development	1	PICK1
+negative regulation of Arp2/3 complex-mediated actin nucleation	1	PICK1
+cellular response to decreased oxygen levels	1	PICK1
+cellular response to glucose starvation	1	PICK1
+DNA methylation involved in embryo development	1	PICK1
+DNA methylation involved in gamete generation	1	PICK1
+receptor clustering	1	PICK1
+neuronal ion channel clustering	1	PICK1
+ insulin secretion	1	PICK1
+long-term synaptic depression	1	PICK1
+dendritic spine organization	1	PICK1
+dendritic spine maintenance	1	PICK1
+cytoskeleton	1	PICK1
+neuron projection	1	PICK1
+synapse	1	PICK1
+postsynaptic early endosome	1	PICK1
+guanyl-nucleotide exchange factor activity	1	ITSN2
+molecular adaptor activity	1	ITSN2
+cell differentiation	1	ITSN2
+clathrin-dependent synaptic vesicle endocytosis	1	ITSN2
+ dendrite extension	1	ITSN2
+centrosome	1	ITSN2
+intracellular vesicle	1	ITSN2
+protein serine/threonine kinase activity	1	AAK1
+Notch binding	1	AAK1
+protein serine kinase activity	1	AAK1
+ protein localization	1	AAK1
+ Notch signaling pathway	1	AAK1
+protein autophosphorylation	1	AAK1
+protein stabilization	1	AAK1
+presynaptic endocytosis	1	AAK1
+extrinsic component of plasma membrane	1	AAK1
+cell leading edge	1	AAK1
+nuclear speck	1	AAGAB
+chemical synaptic transmission	1	AMPH
+actin cytoskeleton	1	AMPH
+synaptic vesicle membrane	1	AMPH
+leading edge membrane	1	AMPH
+phosphatidylinositol-3,4,5-trisphosphate binding	1	FCHSD2
+phosphatidylinositol-3,4-bisphosphate binding	1	FCHSD2
+anchoring junction	1	FCHSD2
+stereocilium shaft	1	FCHSD2
+clathrin vesicle coat	1	NECAP2
+GTPase activator activity	1	RALBP1
+ABC-type xenobiotic transporter activity	1	RALBP1
+ABC-type glutathione S-conjugate transporter activity	1	RALBP1
+transmembrane transporter activity	1	RALBP1
+small GTPase binding	1	RALBP1
+ATPase-coupled transmembrane transporter activity	1	RALBP1
+xenobiotic transmembrane transporter activity	1	RALBP1
+chemotaxis	1	RALBP1
+small GTPase mediated signal transduction	1	RALBP1
+ Cdc42 protein signal transduction	1	RALBP1
+ GTPase activity	1	RALBP1
+ small GTPase mediated signal transduction	1	RALBP1
+transmembrane transport	1	RALBP1
+ mitochondrial fission	1	RALBP1
+doxorubicin transport	1	RALBP1
+xenobiotic detoxification by transmembrane export across the plasma membrane	1	RALBP1
+spindle pole	1	RALBP1
+mitochondrion	1	RALBP1
+nuclear body	1	RALBP1
+RNA binding	1	SYNJ1
+phosphatidylinositol-3-phosphate phosphatase activity	1	SYNJ1
+phosphatidylinositol-4,5-bisphosphate 5-phosphatase activity	1	SYNJ1
+phosphatidylinositol phosphate 5-phosphatase activity	1	SYNJ1
+phosphatidylinositol phosphate 4-phosphatase activity	1	SYNJ1
+phosphatidylinositol-4-phosphate phosphatase activity	1	SYNJ1
+phosphatidylinositol-3,5-bisphosphate 5-phosphatase activity	1	SYNJ1
+protein-containing complex binding	1	SYNJ1
+phosphatidylinositol-3,5-bisphosphate 3-phosphatase activity	1	SYNJ1
+inositol-1,4,5-trisphosphate 5-phosphatase activity	1	SYNJ1
+EH domain binding	1	SYNJ1
+phosphatidylinositol biosynthetic process	1	SYNJ1
+neurotransmitter transport	1	SYNJ1
+brain development	1	SYNJ1
+learning	1	SYNJ1
+ gliogenesis	1	SYNJ1
+synaptic vesicle priming	1	SYNJ1
+synaptic vesicle uncoating	1	SYNJ1
+response to retinoic acid	1	SYNJ1
+response to cytokine	1	SYNJ1
+phosphatidylinositol-3-phosphate biosynthetic process	1	SYNJ1
+inositol phosphate metabolic process	1	SYNJ1
+phosphatidylinositol metabolic process	1	SYNJ1
+phosphatidylinositol dephosphorylation	1	SYNJ1
+ receptor-mediated endocytosis	1	SYNJ1
+synaptic vesicle transport	1	SYNJ1
+ endosome organization	1	SYNJ1
+vesicle membrane	1	SYNJ1
+membrane coat	1	SYNJ1
+synaptic membrane	1	SYNJ1
+parallel fiber to Purkinje cell synapse	1	SYNJ1
+T cell receptor signaling pathway	1	FCHO1
+ T cell activation	1	FCHO1
+clathrin binding	1	AP1B1
+kidney development	1	AP1B1
+determination of left/right symmetry	1	AP1B1
+heart development	1	AP1B1
+platelet dense granule organization	1	AP1B1
+basolateral protein secretion	1	AP1B1
+melanosome assembly	1	AP1B1
+Golgi membrane	1	AP1B1
+early endosome	1	AP1B1
+AP-1 adaptor complex	1	AP1B1
+cytoplasmic vesicle membrane	1	AP1B1
+Golgi to endosome transport	1	AP2A1
+negative regulation of hyaluronan biosynthetic process	1	AP2A1
+clathrin coat of trans-Golgi network vesicle	1	AP2A1
+filopodium tip	1	AP2A1
+molecular_function	1	AP2A2
+disordered domain specific binding	1	AP2A2
+secretory granule membrane	1	AP2A2
+cytoplasmic vesicle	1	AP2A2
+ficolin-1-rich granule membrane	1	AP2A2
+cuticular plate	1	FCHSD1
+cell projection	1	FCHSD1
+perikaryon	1	FCHSD1

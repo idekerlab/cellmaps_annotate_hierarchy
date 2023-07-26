@@ -1,0 +1,203 @@
+Feature	Number of Genes	Genes
+protein binding	13	GLI4, AURKB, CRYBB3, FAM83D, FKBPL, KIF11, KLHL22, KLK6, KNSTRN, THOC1, TPX2, CEP131, MGAT5B
+cytosol	8	ITFG2, AURKB, FAM83D, FKBPL, KIF11, KLHL22, TPX2, CEP131
+nucleus	7	GLI4, AURKB, KIF11, KLHL22, KNSTRN, THOC1, TPX2
+nucleoplasm	6	ITFG2, AURKB, KLK6, THOC1, TPX2, CEP131
+cell division	5	FAM83D, KIF11, KLHL22, KNSTRN, TPX2
+cytoplasm	5	FAM83D, KLHL22, KLK6, KNSTRN, THOC1
+mitotic spindle	5	FAM83D, KIF11, KLHL22, KNSTRN, TPX2
+spindle	4	AURKB, FAM83D, KIF11, TPX2
+microtubule cytoskeleton	4	AURKB, FAM83D, KLHL22, TPX2
+intercellular bridge	4	FAM83D, KLHL22, KLK6, TPX2
+mitotic cell cycle	3	AURKB, KIF11, TPX2
+spindle organization	3	AURKB, KIF11, KNSTRN
+protein kinase binding	3	FAM83D, KIF11, TPX2
+spindle pole	3	KIF11, KNSTRN, TPX2
+ TOR signaling	2	ITFG2, FAM83D
+ATP binding	2	AURKB, KIF11
+mitotic spindle organization	2	AURKB, KIF11
+cell population proliferation	2	AURKB, FAM83D
+kinetochore	2	AURKB, KNSTRN
+spindle microtubule	2	AURKB, KIF11
+mitotic spindle pole	2	AURKB, FAM83D
+microtubule binding	2	FAM83D, KIF11
+signal transduction	2	FAM83D, THOC1
+cell migration	2	FAM83D, KNSTRN
+extracellular region	2	FKBPL, KLK6
+mitotic spindle assembly	2	KIF11, TPX2
+microtubule	2	KIF11, TPX2
+mitotic sister chromatid segregation	2	KLHL22, KNSTRN
+centrosome	2	KLHL22, CEP131
+nuclear membrane	2	KLK6, CEP131
+protein homodimerization activity	2	KNSTRN, CEP131
+centriolar satellite	2	KNSTRN, CEP131
+apoptotic process	2	THOC1, TPX2
+germinal center B cell differentiation	1	ITFG2
+cellular response to amino acid starvation	1	ITFG2
+cellular response to glucose starvation	1	ITFG2
+negative regulation of TORC1 signaling	1	ITFG2
+lysosomal membrane	1	ITFG2
+KICSTOR complex	1	ITFG2
+RNA polymerase II cis-regulatory region sequence-specific DNA binding	1	GLI4
+DNA-binding transcription factor activity, RNA polymerase II-specific	1	GLI4
+molecular_function	1	GLI4
+metal ion binding	1	GLI4
+ DNA-templated transcription	1	GLI4
+ transcription by RNA polymerase II	1	GLI4
+biological_process	1	GLI4
+protein serine/threonine kinase activity	1	AURKB
+protein serine/threonine/tyrosine kinase activity	1	AURKB
+kinase binding	1	AURKB
+histone H3S28 kinase activity	1	AURKB
+protein serine kinase activity	1	AURKB
+molecular function inhibitor activity	1	AURKB
+negative regulation of transcription by RNA polymerase II	1	AURKB
+mitotic cytokinesis	1	AURKB
+ protein phosphorylation	1	AURKB
+negative regulation of B cell apoptotic process	1	AURKB
+chromatin remodeling	1	AURKB
+protein phosphorylation	1	AURKB
+attachment of spindle microtubules to kinetochore	1	AURKB
+abscission	1	AURKB
+histone modification	1	AURKB
+negative regulation of protein binding	1	AURKB
+ telomere maintenance via telomerase	1	AURKB
+ cytokinesis	1	AURKB
+negative regulation of cytokinesis	1	AURKB
+protein localization to kinetochore	1	AURKB
+cellular response to UV	1	AURKB
+cleavage furrow formation	1	AURKB
+post-translational protein modification	1	AURKB
+cell cycle G2/M phase transition	1	AURKB
+mitotic cytokinesis checkpoint signaling	1	AURKB
+negative regulation of innate immune response	1	AURKB
+protein autophosphorylation	1	AURKB
+mitotic spindle midzone assembly	1	AURKB
+ telomerase activity	1	AURKB
+ chromosome segregation	1	AURKB
+ mitotic sister chromatid segregation	1	AURKB
+ mitotic cell cycle spindle assembly checkpoint	1	AURKB
+ signal transduction by p53 class mediator	1	AURKB
+ mitotic sister chromatid separation	1	AURKB
+ attachment of mitotic spindle microtubules to kinetochore	1	AURKB
+ mitotic cytokinesis	1	AURKB
+ telomere capping	1	AURKB
+ lateral attachment of mitotic spindle microtubules to kinetochore	1	AURKB
+condensed chromosome, centromeric region	1	AURKB
+chromocenter	1	AURKB
+midbody	1	AURKB
+spindle pole centrosome	1	AURKB
+chromosome passenger complex	1	AURKB
+spindle midzone	1	AURKB
+mitotic spindle midzone	1	AURKB
+structural constituent of eye lens	1	CRYBB3
+lens development in camera-type eye	1	CRYBB3
+visual perception	1	CRYBB3
+kinesin binding	1	FAM83D
+epithelial to mesenchymal transition	1	FAM83D
+ protein catabolic process	1	FAM83D
+metaphase plate congression	1	FAM83D
+ ERK1 and ERK2 cascade	1	FAM83D
+protein localization to mitotic spindle	1	FAM83D
+ cell cycle G1/S phase transition	1	FAM83D
+response to radiation	1	FKBPL
+ blood vessel branching	1	FKBPL
+microtubule motor activity	1	KIF11
+plus-end-directed microtubule motor activity	1	KIF11
+microtubule-based movement	1	KIF11
+mitotic centrosome separation	1	KIF11
+ mitotic centrosome separation	1	KIF11
+spindle elongation	1	KIF11
+kinesin complex	1	KIF11
+membrane	1	KIF11
+protein-containing complex	1	KIF11
+14-3-3 protein binding	1	KLHL22
+ubiquitin ligase-substrate adaptor activity	1	KLHL22
+ubiquitin-dependent protein catabolic process	1	KLHL22
+protein monoubiquitination	1	KLHL22
+mitotic spindle assembly checkpoint signaling	1	KLHL22
+negative regulation of autophagy	1	KLHL22
+ cell growth	1	KLHL22
+negative regulation of type I interferon production	1	KLHL22
+proteasome-mediated ubiquitin-dependent protein catabolic process	1	KLHL22
+cellular response to leucine	1	KLHL22
+ TORC1 signaling	1	KLHL22
+lysosome	1	KLHL22
+polar microtubule	1	KLHL22
+Cul3-RING ubiquitin ligase complex	1	KLHL22
+intracellular membrane-bounded organelle	1	KLHL22
+serine-type endopeptidase activity	1	KLK6
+central nervous system development	1	KLK6
+response to wounding	1	KLK6
+ neuron projection development	1	KLK6
+protein autoprocessing	1	KLK6
+collagen catabolic process	1	KLK6
+tissue regeneration	1	KLK6
+hormone metabolic process	1	KLK6
+myelination	1	KLK6
+amyloid precursor protein metabolic process	1	KLK6
+ cell differentiation	1	KLK6
+ G protein-coupled receptor signaling pathway	1	KLK6
+cornified envelope	1	KLK6
+extracellular space	1	KLK6
+nucleolus	1	KLK6
+mitochondrion	1	KLK6
+endoplasmic reticulum	1	KLK6
+microtubule plus-end binding	1	KNSTRN
+microtubule cytoskeleton organization	1	KNSTRN
+chromosome segregation	1	KNSTRN
+ attachment of spindle microtubules to kinetochore	1	KNSTRN
+cellular response to epidermal growth factor stimulus	1	KNSTRN
+ruffle	1	KNSTRN
+microtubule organizing center	1	KNSTRN
+plasma membrane	1	KNSTRN
+microtubule plus-end	1	KNSTRN
+DNA binding	1	THOC1
+RNA binding	1	THOC1
+ DNA recombination	1	THOC1
+RNA processing	1	THOC1
+mRNA processing	1	THOC1
+mRNA export from nucleus	1	THOC1
+RNA splicing	1	THOC1
+replication fork processing	1	THOC1
+ DNA-templated transcription elongation	1	THOC1
+ DNA-templated transcription, elongation	1	THOC1
+viral mRNA export from host cell nucleus	1	THOC1
+negative regulation of isotype switching to IgA isotypes	1	THOC1
+negative regulation of DNA damage checkpoint	1	THOC1
+transcription export complex	1	THOC1
+THO complex	1	THOC1
+THO complex part of transcription export complex	1	THOC1
+chromosome, telomeric region	1	THOC1
+nuclear matrix	1	THOC1
+nuclear speck	1	THOC1
+importin-alpha family protein binding	1	TPX2
+microtubule nucleation	1	TPX2
+negative regulation of microtubule depolymerization	1	TPX2
+activation of protein kinase activity	1	TPX2
+ mitotic spindle organization	1	TPX2
+axon hillock	1	TPX2
+protein-containing complex binding	1	CEP131
+cell cycle	1	CEP131
+sperm axoneme assembly	1	CEP131
+ cell population proliferation	1	CEP131
+ centrosome duplication	1	CEP131
+intraciliary transport involved in cilium assembly	1	CEP131
+cilium assembly	1	CEP131
+protein localization to centrosome	1	CEP131
+ intracellular protein transport	1	CEP131
+manchette assembly	1	CEP131
+non-motile cilium assembly	1	CEP131
+intramanchette transport	1	CEP131
+acrosomal vesicle	1	CEP131
+manchette	1	CEP131
+centriole	1	CEP131
+ciliary transition zone	1	CEP131
+ciliary basal body	1	CEP131
+sperm head-tail coupling apparatus	1	CEP131
+alpha-1,6-mannosylglycoprotein 6-beta-N-acetylglucosaminyltransferase activity	1	MGAT5B
+manganese ion binding	1	MGAT5B
+protein N-linked glycosylation	1	MGAT5B
+protein O-linked glycosylation via serine	1	MGAT5B
+Golgi membrane	1	MGAT5B
+Golgi apparatus	1	MGAT5B

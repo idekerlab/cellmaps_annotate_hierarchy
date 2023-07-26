@@ -1,0 +1,74 @@
+Write a critical and concise analysis of this system, describing your reasoning as you go and providing references to scientific papers. Format the page with Title, Summary, and References sections.
+What cellular components and complexes are involved in this system?
+What mechanisms and biological processes are performed by this system?
+Propose a name for the system to reflect the function and location, and should be specific but brief. Do not compose an acronym. Place it as the title of your report
+Provide complete paper references with pubmed link
+Proteins: DRAP1, PHLPP2, RELA, OLA1, CNPY2, MAP2K1, AARS1, NPPB, CHORDC1, ADSS2, SH3GLB1, TPP2, GRHPR, GSTZ1, YARS1, UROD, MMUT, PPID, GSR, TXNRD2, GLOD4, GSPT1, MEAK7, SH3GL1, LGALS9, RRM1, DRG2, MVD, PLPBP, DNM1L, FTO, ADK, TKFC.
+
+A critical goal of the analysis is to determine if this is a novel complex or if any proteins are novel members of a known complex
+System features from GO terms: 
+cytosol: 27 proteins: RELA, UROD, TPP2, YARS1, TXNRD2, PLPBP, FTO, PHLPP2, GSR, ADK, AARS1, DNM1L, MVD, GSTZ1, SH3GLB1, ADSS2, OLA1, SH3GL1, DRG2, PPID, RRM1, GRHPR, LGALS9, MAP2K1, TKFC, GSPT1, MEAK7
+protein binding: 25 proteins: RELA, UROD, DRAP1, TPP2, YARS1, TXNRD2, CNPY2, PHLPP2, DNM1L, GSTZ1, SH3GLB1, ADSS2, OLA1, SH3GL1, DRG2, PPID, MMUT, RRM1, CHORDC1, NPPB, GRHPR, MAP2K1, TKFC, GSPT1, MEAK7
+cytoplasm: 21 proteins: RELA, TPP2, YARS1, TXNRD2, PLPBP, FTO, PHLPP2, AARS1, DNM1L, SH3GLB1, ADSS2, OLA1, SH3GL1, DRG2, PPID, MMUT, NPPB, GRHPR, LGALS9, GSPT1, MEAK7
+nucleus: 11 proteins: RELA, DRAP1, YARS1, FTO, ADK, DRG2, PPID, NPPB, LGALS9, MAP2K1, TKFC
+mitochondrion: 10 proteins: TXNRD2, GSR, AARS1, DNM1L, GSTZ1, ADSS2, MMUT, RRM1, GLOD4, MAP2K1
+identical protein binding: 9 proteins: RELA, DRAP1, TPP2, DNM1L, GSTZ1, SH3GLB1, SH3GL1, MMUT, RRM1
+nucleoplasm: 9 proteins: RELA, UROD, TPP2, FTO, PHLPP2, ADK, DRG2, PPID, MEAK7
+ATP binding: 9 proteins: YARS1, ADK, AARS1, MVD, OLA1, RRM1, CHORDC1, MAP2K1, TKFC
+protein homodimerization activity: 8 proteins: RELA, TXNRD2, DNM1L, MVD, GSTZ1, SH3GLB1, MMUT, GRHPR
+extracellular exosome: 7 proteins: GSR, AARS1, ADSS2, OLA1, GLOD4, GRHPR, TKFC
+metal ion binding: 6 proteins: PHLPP2, ADK, OLA1, DRG2, MMUT, TKFC
+membrane: 6 proteins: AARS1, DNM1L, SH3GLB1, OLA1, DRG2, MEAK7
+GTP binding: 5 proteins: DNM1L, ADSS2, OLA1, DRG2, GSPT1
+nucleolus: 4 proteins: RELA, OLA1, PPID, MEAK7
+RNA binding: 4 proteins: YARS1, ADK, DRG2, GSPT1
+mitochondrial matrix: 4 proteins: TXNRD2, GSR, GSTZ1, MMUT
+intracellular membrane-bounded organelle: 4 proteins: FTO, PHLPP2, DNM1L, DRG2
+GTPase activity: 4 proteins: DNM1L, DRG2, MMUT, GSPT1
+cadherin binding: 4 proteins: SH3GLB1, OLA1, SH3GL1, GLOD4
+negative regulation of transcription by RNA polymerase II: 3 proteins: RELA, DRAP1, PPID
+positive regulation of gene expression: 3 proteins: RELA, LGALS9, MAP2K1
+apoptotic process: 3 proteins: YARS1, SH3GLB1, PPID
+extracellular space: 3 proteins: YARS1, NPPB, LGALS9
+cellular oxidant detoxification: 3 proteins: TXNRD2, GSR, GSTZ1
+plasma membrane: 3 proteins: FTO, ADK, MAP2K1
+endoplasmic reticulum: 3 proteins: CNPY2, DNM1L, MAP2K1
+lipid binding: 3 proteins: DNM1L, SH3GLB1, SH3GL1
+protein-containing complex: 3 proteins: DNM1L, SH3GLB1, NPPB
+signal transduction: 3 proteins: SH3GL1, DRG2, MAP2K1
+DNA binding: 2 proteins: RELA, DRAP1
+enzyme binding: 2 proteins: RELA, LGALS9
+ubiquitin protein ligase binding: 2 proteins: RELA, DNM1L
+phosphate ion binding: 2 proteins: RELA, ADSS2
+inflammatory response: 2 proteins: RELA, LGALS9
+neuropeptide signaling pathway: 2 proteins: RELA, NPPB
+positive regulation of cell population proliferation: 2 proteins: RELA, MVD
+positive regulation of interleukin-12 production: 2 proteins: RELA, LGALS9
+positive regulation of interleukin-8 production: 2 proteins: RELA, LGALS9
+positive regulation of I-kappaB kinase/NF-kappaB signaling: 2 proteins: RELA, LGALS9
+positive regulation of DNA-templated transcription: 2 proteins: RELA, MAP2K1
+positive regulation of NF-kappaB transcription factor activity: 2 proteins: RELA, LGALS9
+response to interleukin-1: 2 proteins: RELA, LGALS9
+positive regulation of NIK/NF-kappaB signaling: 2 proteins: RELA, LGALS9
+glutamatergic synapse: 2 proteins: RELA, SH3GL1
+nuclear body: 2 proteins: TPP2, YARS1
+tRNA binding: 2 proteins: YARS1, AARS1
+flavin adenine dinucleotide binding: 2 proteins: TXNRD2, GSR
+cell redox homeostasis: 2 proteins: TXNRD2, GSR
+negative regulation of gene expression: 2 proteins: CNPY2, LGALS9
+glutathione metabolic process: 2 proteins: GSR, GSTZ1
+zinc ion binding: 2 proteins: AARS1, CHORDC1
+positive regulation of apoptotic process: 2 proteins: DNM1L, PPID
+positive regulation of protein secretion: 2 proteins: DNM1L, PPID
+protein-containing complex assembly: 2 proteins: DNM1L, PPID
+mitochondrial outer membrane: 2 proteins: DNM1L, SH3GLB1
+peroxisome: 2 proteins: DNM1L, MVD
+Golgi apparatus: 2 proteins: DNM1L, MAP2K1
+Hsp70 protein binding: 2 proteins: MVD, PPID
+extracellular region: 2 proteins: OLA1, NPPB
+Hsp90 protein binding: 2 proteins: PPID, CHORDC1
+protein folding: 2 proteins: PPID, NPPB
+chaperone-mediated protein folding: 2 proteins: PPID, CHORDC1
+chemotaxis: 2 proteins: LGALS9, MAP2K1
+ERK1 and ERK2 cascade: 2 proteins: LGALS9, MAP2K1
+positive regulation of ERK1 and ERK2 cascade: 2 proteins: LGALS9, MAP2K1

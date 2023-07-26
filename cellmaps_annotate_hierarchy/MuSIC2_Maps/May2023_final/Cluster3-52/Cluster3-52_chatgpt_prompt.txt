@@ -1,0 +1,45 @@
+Your response should be formatted as Markdown paragraphs
+Write a critical and concise analysis of this human protein system, describing your reasoning as you go and providing references to scientific papers.
+
+A critical goal of the analysis is to determine if this is a novel complex or if any proteins are novel members of a known complex
+
+Format with Title, Summary, and References sections.        
+Avoid overly general statements of how the proteins are involved in various cellular processes        
+Avoid repeating the goals of the analysis.
+
+What cellular components and complexes are involved in this system?
+What mechanisms and biological processes are performed by this system?
+Propose a name for the system to reflect the cellular location and function, and should be specific but brief. Do not compose an acronym. Place it as the title of your report
+Human Proteins: TADA2A, NEUROG3, TADA2B, ATXN7L3, USP22, TAF5L, TCF12.
+
+System features from GO terms: 
+protein binding: 7 proteins: TADA2A, NEUROG3, TADA2B, ATXN7L3, USP22, TAF5L, TCF12
+ transcription by RNA polymerase II: 7 proteins: TADA2A, NEUROG3, TADA2B, ATXN7L3, USP22, TAF5L, TCF12
+ DNA-templated transcription: 6 proteins: TADA2A, NEUROG3, TADA2B, ATXN7L3, USP22, TAF5L
+nucleus: 6 proteins: TADA2A, NEUROG3, TADA2B, ATXN7L3, TAF5L, TCF12
+transcription coactivator activity: 5 proteins: TADA2A, TADA2B, ATXN7L3, USP22, TAF5L
+histone H3 acetylation: 5 proteins: TADA2A, TADA2B, ATXN7L3, USP22, TAF5L
+SAGA complex: 5 proteins: TADA2A, TADA2B, ATXN7L3, USP22, TAF5L
+zinc ion binding: 4 proteins: TADA2A, TADA2B, ATXN7L3, USP22
+ DNA repair: 4 proteins: TADA2B, ATXN7L3, USP22, TAF5L
+monoubiquitinated histone deubiquitination: 4 proteins: TADA2B, ATXN7L3, USP22, TAF5L
+monoubiquitinated histone H2A deubiquitination: 4 proteins: TADA2B, ATXN7L3, USP22, TAF5L
+ RNA splicing: 4 proteins: TADA2B, ATXN7L3, USP22, TAF5L
+chromatin remodeling: 3 proteins: TADA2A, TADA2B, USP22
+nucleoplasm: 3 proteins: TADA2B, USP22, TCF12
+transcription factor TFTC complex: 3 proteins: ATXN7L3, USP22, TAF5L
+chromatin binding: 2 proteins: TADA2A, TADA2B
+histone acetylation: 2 proteins: TADA2A, TAF5L
+ histone acetylation: 2 proteins: TADA2A, TADA2B
+SAGA-type complex: 2 proteins: TADA2A, TADA2B
+RNA polymerase II cis-regulatory region sequence-specific DNA binding: 2 proteins: NEUROG3, TCF12
+DNA-binding transcription factor activity, RNA polymerase II-specific: 2 proteins: NEUROG3, TCF12
+DNA-binding transcription activator activity, RNA polymerase II-specific: 2 proteins: NEUROG3, TCF12
+DNA-binding transcription factor activity: 2 proteins: NEUROG3, TCF12
+E-box binding: 2 proteins: NEUROG3, TCF12
+nervous system development: 2 proteins: NEUROG3, TCF12
+ neuron differentiation: 2 proteins: NEUROG3, TCF12
+chromatin: 2 proteins: NEUROG3, TCF12
+cytoplasm: 2 proteins: NEUROG3, TCF12
+nuclear receptor coactivator activity: 2 proteins: ATXN7L3, USP22
+nuclear speck: 2 proteins: TAF5L, TCF12

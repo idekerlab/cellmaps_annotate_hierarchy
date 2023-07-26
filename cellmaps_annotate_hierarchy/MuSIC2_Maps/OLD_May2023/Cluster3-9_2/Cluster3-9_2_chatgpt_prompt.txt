@@ -1,0 +1,56 @@
+Write a critical and concise analysis of this system, describing your reasoning as you go and providing references to scientific papers. Format the page with Title, Summary, and References sections.
+What cellular components and complexes are involved in this system?
+What mechanisms and biological processes are performed by this system?
+Propose a name for the system to reflect the function and location, and should be specific but brief. Do not compose an acronym. Place it as the title of your report
+Provide complete paper references with pubmed link
+Proteins: MDP1, YBEY, ADPRS, ALOX5, ARIH2, CELF1, CMPK1, CPNE1, GABPB1, GINS1, GINS3, MAB21L3, MBNL1, MCMBP, MRTFB, NAXE, PAK2, PAPOLA, PCDHGA9, PEF1, PEX7, PGLS, PNPO, PPP1R8, PTRHD1, RANBP3, RBM12, SEPHS1, SGTA, SMCHD1, SNRNP27, SSBP2, TRIP10, TTC9C, UBE2M, WDHD1, ZNF331.
+
+A critical goal of the analysis is to determine if this is a novel complex or if any proteins are novel members of a known complex
+System features from GO terms: 
+protein binding: 30 proteins: ADPRS, ALOX5, ARIH2, CELF1, CPNE1, GABPB1, GINS3, MAB21L3, MBNL1, MCMBP, MRTFB, NAXE, PAK2, PAPOLA, PEF1, PEX7, PGLS, PNPO, PPP1R8, PTRHD1, RANBP3, RBM12, SEPHS1, SGTA, SMCHD1, SNRNP27, TRIP10, TTC9C, UBE2M, WDHD1
+nucleus: 21 proteins: YBEY, ADPRS, ARIH2, CELF1, CMPK1, CPNE1, GABPB1, GINS1, GINS3, MBNL1, MCMBP, MRTFB, PAK2, PAPOLA, PPP1R8, RANBP3, SGTA, SNRNP27, SSBP2, UBE2M, ZNF331
+nucleoplasm: 19 proteins: ADPRS, ALOX5, ARIH2, CELF1, CMPK1, CPNE1, GABPB1, GINS1, GINS3, MBNL1, MCMBP, PAPOLA, PPP1R8, RANBP3, RBM12, SNRNP27, TRIP10, UBE2M, WDHD1
+cytoplasm: 17 proteins: ADPRS, ARIH2, CELF1, CMPK1, CPNE1, GINS1, MBNL1, PAK2, PAPOLA, PEF1, PPP1R8, RANBP3, SEPHS1, SGTA, SSBP2, TRIP10, WDHD1
+cytosol: 12 proteins: ALOX5, CMPK1, CPNE1, MBNL1, MCMBP, PAK2, PEX7, PGLS, PNPO, SGTA, TRIP10, UBE2M
+RNA binding: 7 proteins: CELF1, MBNL1, PAPOLA, PCDHGA9, PEF1, PPP1R8, RBM12
+identical protein binding: 7 proteins: CPNE1, NAXE, PAK2, PEF1, SEPHS1, SGTA, TRIP10
+ATP binding: 6 proteins: CMPK1, PAK2, PAPOLA, SEPHS1, SMCHD1, UBE2M
+extracellular exosome: 6 proteins: CMPK1, CPNE1, NAXE, PEF1, PGLS, TRIP10
+metal ion binding: 5 proteins: MDP1, YBEY, MBNL1, NAXE, SEPHS1
+plasma membrane: 4 proteins: CPNE1, PAK2, PCDHGA9, SEPHS1
+nuclear membrane: 3 proteins: ALOX5, CPNE1, SEPHS1
+perinuclear region of cytoplasm: 3 proteins: ALOX5, PAK2, TRIP10
+mRNA processing: 3 proteins: CELF1, MBNL1, PPP1R8
+regulation of RNA splicing: 3 proteins: CELF1, MBNL1, RBM12
+membrane: 3 proteins: CELF1, CPNE1, SGTA
+phosphorylation: 3 proteins: CMPK1, PAK2, SEPHS1
+calcium ion binding: 3 proteins: CPNE1, PCDHGA9, PEF1
+positive regulation of transcription by RNA polymerase II: 3 proteins: GABPB1, MRTFB, SSBP2
+protein homodimerization activity: 3 proteins: PEX7, PNPO, SMCHD1
+DNA binding: 3 proteins: PPP1R8, SMCHD1, WDHD1
+magnesium ion binding: 2 proteins: ADPRS, PAPOLA
+DNA repair: 2 proteins: ADPRS, WDHD1
+mitochondrial matrix: 2 proteins: ADPRS, NAXE
+negative regulation of angiogenesis: 2 proteins: ALOX5, NAXE
+regulation of inflammatory response: 2 proteins: ALOX5, CELF1
+extracellular region: 2 proteins: ALOX5, NAXE
+extracellular space: 2 proteins: ALOX5, NAXE
+ubiquitin-protein transferase activity: 2 proteins: ARIH2, UBE2M
+zinc ion binding: 2 proteins: ARIH2, ZNF331
+mRNA binding: 2 proteins: CELF1, PPP1R8
+negative regulation of gene expression: 2 proteins: CELF1, CPNE1
+cytoplasmic stress granule: 2 proteins: CELF1, MBNL1
+ribonucleoprotein complex: 2 proteins: CELF1, RBM12
+DNA unwinding involved in DNA replication: 2 proteins: GINS1, GINS3
+positive regulation of DNA-directed DNA polymerase activity: 2 proteins: GINS1, GINS3
+positive regulation of DNA primase activity: 2 proteins: GINS1, GINS3
+GINS complex: 2 proteins: GINS1, GINS3
+CMG complex: 2 proteins: GINS1, GINS3
+nervous system development: 2 proteins: MBNL1, PCDHGA9
+RNA splicing: 2 proteins: MBNL1, PPP1R8
+chromatin binding: 2 proteins: MCMBP, WDHD1
+DNA-templated DNA replication: 2 proteins: MCMBP, WDHD1
+cadherin binding: 2 proteins: MRTFB, PAK2
+signal transduction: 2 proteins: PAK2, TRIP10
+protein modification process: 2 proteins: SEPHS1, UBE2M
+regulation of DNA-templated transcription: 2 proteins: SSBP2, ZNF331

@@ -1,0 +1,107 @@
+Feature	Number of Genes	Genes
+protein binding	11	GPSM2, GNG2, GNAS, RNASEH1, TRO, DIRAS1, PDZD8, GNB1, GNB2, GNB4, MAGED2
+cytosol	7	GPSM2, GNAS, GNB1, RIC8B, GNB2, GNB4, MAGED2
+G protein-coupled receptor signaling pathway	6	GPSM2, GNG2, GNB1, RIC8B, GNB2, GNB4
+cytoplasm	6	GPSM2, RNASEH1, GNB1, RIC8B, GNB2, GNB4
+plasma membrane	6	GNG2, TRO, DIRAS1, GNB1, RIC8B, GNB2
+membrane	6	GNG2, GNAS, PDZD8, GNB1, GNB2, MAGED2
+heterotrimeric G-protein complex	5	GNG2, GNAS, GNB1, GNB2, GNB4
+extracellular exosome	5	GNG2, GNAS, GNB1, GNB2, GNB4
+GTPase activity	4	GNAS, DIRAS1, GNB1, GNB2
+adenylate cyclase-activating dopamine receptor signaling pathway	3	GNG2, GNAS, GNB1
+signaling receptor complex adaptor activity	3	GNB1, GNB2, GNB4
+protein-containing complex binding	3	GNB1, GNB2, GNB4
+lysosomal membrane	3	GNB1, GNB2, GNB4
+G-protein alpha-subunit binding	2	GPSM2, RIC8B
+centrosome	2	GPSM2, RIC8B
+cell cortex	2	GPSM2, RIC8B
+cellular response to prostaglandin E stimulus	2	GNG2, GNB1
+cellular response to catecholamine stimulus	2	GNG2, GNB1
+GTP binding	2	GNAS, DIRAS1
+metal ion binding	2	GNAS, PDZD8
+negative regulation of transcription by RNA polymerase II	2	TRO, MAGED2
+nucleus	2	TRO, MAGED2
+signal transduction	2	DIRAS1, GNB1
+GTPase binding	2	GNB1, GNB2
+nucleotide binding	1	GPSM2
+GDP-dissociation inhibitor activity	1	GPSM2
+protein domain specific binding	1	GPSM2
+identical protein binding	1	GPSM2
+protein self-association	1	GPSM2
+dynein complex binding	1	GPSM2
+establishment of mitotic spindle orientation	1	GPSM2
+mitotic spindle organization	1	GPSM2
+Ran protein signal transduction	1	GPSM2
+cell division	1	GPSM2
+maintenance of centrosome location	1	GPSM2
+ mitotic spindle organization	1	GPSM2
+ protein localization to cell cortex	1	GPSM2
+ spindle assembly	1	GPSM2
+lateral plasma membrane	1	GPSM2
+protein-containing complex	1	GPSM2
+mitotic spindle pole	1	GPSM2
+lateral cell cortex	1	GPSM2
+cell cortex region	1	GPSM2
+G-protein beta-subunit binding	1	GNG2
+fibroblast proliferation	1	GNG2
+insulin-like growth factor receptor binding	1	GNAS
+adenylate cyclase activator activity	1	GNAS
+G-protein beta/gamma-subunit complex binding	1	GNAS
+beta-2 adrenergic receptor binding	1	GNAS
+D1 dopamine receptor binding	1	GNAS
+mu-type opioid receptor binding	1	GNAS
+ionotropic glutamate receptor binding	1	GNAS
+corticotropin-releasing hormone receptor 1 binding	1	GNAS
+adenylate cyclase-activating G protein-coupled receptor signaling pathway	1	GNAS
+sensory perception of chemical stimulus	1	GNAS
+developmental growth	1	GNAS
+bone development	1	GNAS
+platelet aggregation	1	GNAS
+ cold-induced thermogenesis	1	GNAS
+apical plasma membrane	1	GNAS
+magnesium ion binding	1	RNASEH1
+nucleic acid binding	1	RNASEH1
+RNA binding	1	RNASEH1
+RNA-DNA hybrid ribonuclease activity	1	RNASEH1
+RNA nuclease activity	1	RNASEH1
+RNA catabolic process	1	RNASEH1
+DNA replication, removal of RNA primer	1	RNASEH1
+RNA phosphodiester bond hydrolysis, endonucleolytic	1	RNASEH1
+homophilic cell adhesion via plasma membrane adhesion molecules	1	TRO
+embryo implantation	1	TRO
+GDP binding	1	DIRAS1
+mitogen-activated protein kinase binding	1	DIRAS1
+ MAP kinase activity	1	DIRAS1
+lipid binding	1	PDZD8
+lipid transport	1	PDZD8
+cytoskeleton organization	1	PDZD8
+ cell morphogenesis	1	PDZD8
+mitochondrial calcium ion homeostasis	1	PDZD8
+mitochondrion-endoplasmic reticulum membrane tethering	1	PDZD8
+mitochondrion	1	PDZD8
+endoplasmic reticulum membrane	1	PDZD8
+mitochondria-associated endoplasmic reticulum membrane	1	PDZD8
+phospholipase C-activating G protein-coupled receptor signaling pathway	1	GNB1
+G protein-coupled acetylcholine receptor signaling pathway	1	GNB1
+Ras protein signal transduction	1	GNB1
+cell population proliferation	1	GNB1
+sensory perception of taste	1	GNB1
+retina development in camera-type eye	1	GNB1
+synapse	1	GNB1
+photoreceptor disc membrane	1	GNB1
+extracellular vesicle	1	GNB1
+guanyl-nucleotide exchange factor activity	1	RIC8B
+ G protein-coupled receptor signaling pathway	1	RIC8B
+ potassium ion transmembrane transport	1	GNB2
+extracellular space	1	GNB2
+focal adhesion	1	GNB2
+vesicle	1	GNB2
+perinuclear region of cytoplasm	1	GNB2
+substantia nigra development	1	GNB4
+cell body	1	GNB4
+female pregnancy	1	MAGED2
+renal sodium ion absorption	1	MAGED2
+extracellular region	1	MAGED2
+nucleoplasm	1	MAGED2
+nucleolus	1	MAGED2
+platelet alpha granule lumen	1	MAGED2

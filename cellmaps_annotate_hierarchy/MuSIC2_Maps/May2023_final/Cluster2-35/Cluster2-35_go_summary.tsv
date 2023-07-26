@@ -1,0 +1,142 @@
+Feature	Number of Genes	Genes
+protein binding	11	RRAS2, VPS25, AHNAK, GDI1, GDI2, INPP5A, PPP1R16A, RAB27B, RAP1GDS1, SYTL2, SYTL4
+plasma membrane	8	RRAS2, TRIM4, AHNAK, INPP5A, PPP1R16A, RAB27B, SYTL2, SYTL4
+cytoplasm	8	VPS25, TRIM4, AHNAK, GDI1, GDI2, PPP1R16A, PTAR1, SYTL2
+extracellular exosome	6	RRAS2, VPS25, AHNAK, GDI2, RAB27B, RAP1GDS1
+cytosol	6	VPS25, TRIM4, AHNAK, GDI1, GDI2, RAP1GDS1
+membrane	5	RRAS2, AHNAK, GDI2, INPP5A, SYTL2
+small GTPase binding	4	GDI1, GDI2, SYTL2, SYTL4
+vesicle-mediated transport	4	GDI1, GDI2, RAB27B, SYTL2
+focal adhesion	3	RRAS2, AHNAK, GDI2
+nucleus	3	VPS25, AHNAK, RAP1GDS1
+GTPase activity	2	RRAS2, RAB27B
+GTP binding	2	RRAS2, RAB27B
+GDP binding	2	RRAS2, RAB27B
+endoplasmic reticulum	2	RRAS2, RAP1GDS1
+RNA binding	2	AHNAK, GDI2
+ plasma membrane repair	2	AHNAK, SYTL4
+vesicle	2	AHNAK, GDI2
+Rab GDP-dissociation inhibitor activity	2	GDI1, GDI2
+GTPase activator activity	2	GDI1, GDI2
+signal transduction	2	GDI1, GDI2
+protein transport	2	GDI1, GDI2
+Golgi apparatus	2	GDI1, GDI2
+ exocytosis	2	RAB27B, SYTL4
+multivesicular body sorting pathway	2	RAB27B, SYTL4
+melanosome	2	RAB27B, SYTL2
+neurexin family protein binding	2	SYTL2, SYTL4
+intracellular protein transport	2	SYTL2, SYTL4
+exocytosis	2	SYTL2, SYTL4
+exocytic vesicle	2	SYTL2, SYTL4
+osteoblast differentiation	1	RRAS2
+Ras protein signal transduction	1	RRAS2
+Schwann cell migration	1	RRAS2
+ Schwann cell migration	1	RRAS2
+Golgi membrane	1	RRAS2
+structural molecule activity	1	VPS25
+protein homodimerization activity	1	VPS25
+negative regulation of epidermal growth factor-activated receptor activity	1	VPS25
+macroautophagy	1	VPS25
+multivesicular body assembly	1	VPS25
+protein transport to vacuole involved in ubiquitin-dependent protein catabolic process via the multivesicular body sorting pathway	1	VPS25
+membrane fission	1	VPS25
+ESCRT II complex	1	VPS25
+nucleoplasm	1	VPS25
+endosome membrane	1	VPS25
+intracellular membrane-bounded organelle	1	VPS25
+ubiquitin-protein transferase activity	1	TRIM4
+zinc ion binding	1	TRIM4
+identical protein binding	1	TRIM4
+ubiquitin protein ligase activity	1	TRIM4
+ gene expression	1	TRIM4
+protein ubiquitination	1	TRIM4
+innate immune response	1	TRIM4
+S100 protein binding	1	AHNAK
+cadherin binding	1	AHNAK
+structural molecule activity conferring elasticity	1	AHNAK
+ RNA splicing	1	AHNAK
+ voltage-gated calcium channel activity	1	AHNAK
+lysosomal membrane	1	AHNAK
+actin cytoskeleton	1	AHNAK
+T-tubule	1	AHNAK
+sarcolemma	1	AHNAK
+costamere	1	AHNAK
+cell-cell contact zone	1	AHNAK
+membrane raft	1	AHNAK
+plasma membrane protein complex	1	AHNAK
+GDP-dissociation inhibitor activity	1	GDI1
+Rab protein signal transduction	1	GDI1
+ axon extension	1	GDI1
+negative regulation of axonogenesis	1	GDI1
+response to calcium ion	1	GDI1
+negative regulation of protein targeting to membrane	1	GDI1
+axon	1	GDI1
+midbody	1	GDI1
+protein-containing complex	1	GDI1
+neuronal cell body	1	GDI1
+myelin sheath	1	GDI1
+presynaptic cytosol	1	GDI1
+small GTPase mediated signal transduction	1	GDI2
+negative regulation of cilium assembly	1	GDI2
+negative regulation of protein localization to cilium	1	GDI2
+extracellular region	1	GDI2
+secretory granule lumen	1	GDI2
+azurophil granule lumen	1	GDI2
+synapse	1	GDI2
+inositol-polyphosphate 5-phosphatase activity	1	INPP5A
+PH domain binding	1	INPP5A
+inositol-1,4,5-trisphosphate 5-phosphatase activity	1	INPP5A
+inositol-1,3,4,5-tetrakisphosphate 5-phosphatase activity	1	INPP5A
+inositol phosphate metabolic process	1	INPP5A
+phosphatidylinositol dephosphorylation	1	INPP5A
+phosphatidylinositol-mediated signaling	1	INPP5A
+inositol phosphate-mediated signaling	1	INPP5A
+negative regulation of neuron death	1	INPP5A
+dendrite	1	INPP5A
+enzyme inhibitor activity	1	PPP1R16A
+myosin phosphatase regulator activity	1	PPP1R16A
+protein prenyltransferase activity	1	PTAR1
+protein prenylation	1	PTAR1
+G protein activity	1	RAB27B
+protein domain specific binding	1	RAB27B
+myosin V binding	1	RAB27B
+synaptic vesicle endocytosis	1	RAB27B
+anterograde axonal protein transport	1	RAB27B
+late endosome	1	RAB27B
+Golgi stack	1	RAB27B
+apical plasma membrane	1	RAB27B
+trans-Golgi network transport vesicle	1	RAB27B
+synaptic vesicle membrane	1	RAB27B
+platelet dense granule membrane	1	RAB27B
+multivesicular body membrane	1	RAB27B
+zymogen granule membrane	1	RAB27B
+axon cytoplasm	1	RAB27B
+guanyl-nucleotide exchange factor activity	1	RAP1GDS1
+cardiac muscle hypertrophy	1	RAP1GDS1
+ mitochondrion organization	1	RAP1GDS1
+vascular associated smooth muscle contraction	1	RAP1GDS1
+myosin filament assembly	1	RAP1GDS1
+negative regulation of endoplasmic reticulum calcium ion concentration	1	RAP1GDS1
+negative regulation of GTPase activity	1	RAP1GDS1
+protein localization to nucleus	1	RAP1GDS1
+ GTPase activity	1	RAP1GDS1
+ mitochondrial calcium ion concentration	1	RAP1GDS1
+ ERK5 cascade	1	RAP1GDS1
+CAAX-box protein maturation	1	RAP1GDS1
+angiotensin-activated signaling pathway involved in heart process	1	RAP1GDS1
+ matrix metallopeptidase secretion	1	RAP1GDS1
+mitochondrion	1	RAP1GDS1
+phosphatidylserine binding	1	SYTL2
+phosphatidylinositol-4,5-bisphosphate binding	1	SYTL2
+phosphatase binding	1	SYTL2
+vesicle docking involved in exocytosis	1	SYTL2
+phospholipid binding	1	SYTL4
+metal ion binding	1	SYTL4
+plasma membrane repair	1	SYTL4
+insulin secretion	1	SYTL4
+lysosome localization	1	SYTL4
+negative regulation of insulin secretion	1	SYTL4
+ protein secretion	1	SYTL4
+endosome	1	SYTL4
+transport vesicle membrane	1	SYTL4
+platelet alpha granule membrane	1	SYTL4

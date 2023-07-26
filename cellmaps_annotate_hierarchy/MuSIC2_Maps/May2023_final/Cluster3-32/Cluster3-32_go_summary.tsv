@@ -1,0 +1,250 @@
+Feature	Number of Genes	Genes
+protein binding	16	LAPTM4A, RABGEF1, NEDD4, CUEDC1, EPN1, WWP1, RABEP1, RNF216, BIRC2, CLTA, CLTC, LDAF1, MB21D2, TOLLIP, TOM1, ZNF114
+cytosol	11	RABGEF1, URGCP, NEDD4, EPN1, WWP1, RNF216, BIRC2, CLTA, CLTC, TOLLIP, TOM1
+nucleus	7	URGCP, NEDD4, EPN1, WWP1, RNF216, BIRC2, ZNF114
+plasma membrane	6	NEDD4, EPN1, WWP1, CLTA, CLTC, TOM1
+extracellular exosome	6	NEDD4, WWP1, CLTC, TOLLIP, TOM1, ZNF114
+ubiquitin protein ligase activity	5	RABGEF1, NEDD4, WWP1, RNF216, BIRC2
+ubiquitin binding	5	NEDD4, CUEDC1, BIRC2, TOLLIP, TOM1
+cytoplasm	5	NEDD4, WWP1, BIRC2, TOLLIP, TOM1
+early endosome	4	RABGEF1, RABEP1, TOLLIP, TOM1
+protein-containing complex	4	NEDD4, RABEP1, CLTC, TOLLIP
+endosome	4	EPN1, RABEP1, CLTC, TOM1
+signal transduction	4	WWP1, RABEP1, TOLLIP, TOM1
+early endosome membrane	3	RABGEF1, RABEP1, TOM1
+endocytosis	3	EPN1, RABEP1, TOM1
+proteasome-mediated ubiquitin-dependent protein catabolic process	3	WWP1, RNF216, BIRC2
+apoptotic process	3	RABEP1, RNF216, BIRC2
+protein-containing complex binding	3	BIRC2, CLTA, MB21D2
+membrane	3	CLTA, CLTC, TOM1
+Golgi apparatus	2	LAPTM4A, NEDD4
+zinc ion binding	2	RABGEF1, BIRC2
+receptor-mediated endocytosis	2	RABGEF1, CLTC
+endocytic vesicle	2	RABGEF1, RABEP1
+recycling endosome	2	RABGEF1, RABEP1
+cell cycle	2	URGCP, CLTA
+protein domain specific binding	2	NEDD4, RABEP1
+ubiquitin-dependent protein catabolic process	2	NEDD4, TOLLIP
+protein ubiquitination	2	NEDD4, WWP1
+receptor internalization	2	NEDD4, CLTC
+innate immune response	2	NEDD4, TOLLIP
+ubiquitin ligase complex	2	NEDD4, WWP1
+perinuclear region of cytoplasm	2	NEDD4, TOLLIP
+clathrin binding	2	EPN1, TOM1
+clathrin vesicle coat	2	EPN1, CLTA
+ubiquitin-protein transferase activity	2	WWP1, BIRC2
+protein transport	2	RABEP1, TOM1
+metal ion binding	2	RNF216, ZNF114
+identical protein binding	2	BIRC2, ZNF114
+ DNA-templated transcription	2	BIRC2, ZNF114
+molecular_function	2	CLTA, ZNF114
+structural molecule activity	2	CLTA, CLTC
+clathrin heavy chain binding	2	CLTA, TOM1
+intracellular protein transport	2	CLTA, CLTC
+clathrin coat assembly	2	CLTA, CLTC
+cell division	2	CLTA, CLTC
+clathrin-dependent endocytosis	2	CLTA, CLTC
+spindle	2	CLTA, CLTC
+clathrin coat	2	CLTA, CLTC
+clathrin coat of trans-Golgi network vesicle	2	CLTA, CLTC
+clathrin coat of coated pit	2	CLTA, CLTC
+trans-Golgi network membrane	2	CLTA, CLTC
+endolysosome membrane	2	CLTA, CLTC
+clathrin-coated endocytic vesicle	2	CLTA, CLTC
+clathrin complex	2	CLTA, CLTC
+autophagy	2	CLTC, TOLLIP
+lysosomal membrane	1	LAPTM4A
+late endosome membrane	1	LAPTM4A
+DNA binding	1	RABGEF1
+guanyl-nucleotide exchange factor activity	1	RABGEF1
+small GTPase binding	1	RABGEF1
+negative regulation of protein phosphorylation	1	RABGEF1
+negative regulation of leukocyte migration	1	RABGEF1
+protein phosphorylation	1	RABGEF1
+protein targeting to membrane	1	RABGEF1
+Ras protein signal transduction	1	RABGEF1
+negative regulation of interleukin-6 production	1	RABGEF1
+negative regulation of mast cell cytokine production	1	RABGEF1
+Kit signaling pathway	1	RABGEF1
+mast cell degranulation	1	RABGEF1
+negative regulation of mast cell degranulation	1	RABGEF1
+negative regulation of Ras protein signal transduction	1	RABGEF1
+negative regulation of receptor-mediated endocytosis	1	RABGEF1
+negative regulation of inflammatory response	1	RABGEF1
+ Fc receptor mediated stimulatory signaling pathway	1	RABGEF1
+mast cell migration	1	RABGEF1
+dendritic transport	1	RABGEF1
+negative regulation of Kit signaling pathway	1	RABGEF1
+nucleolus	1	RABGEF1
+dendrite	1	RABGEF1
+GTP binding	1	URGCP
+sodium channel inhibitor activity	1	NEDD4
+enzyme binding	1	NEDD4
+beta-2 adrenergic receptor binding	1	NEDD4
+phosphoserine residue binding	1	NEDD4
+phosphothreonine residue binding	1	NEDD4
+RNA polymerase binding	1	NEDD4
+proline-rich region binding	1	NEDD4
+molecular function activator activity	1	NEDD4
+protein targeting to lysosome	1	NEDD4
+lysosomal transport	1	NEDD4
+neuromuscular junction development	1	NEDD4
+negative regulation of sodium ion transport	1	NEDD4
+ phosphatidylinositol 3-kinase signaling	1	NEDD4
+ macroautophagy	1	NEDD4
+negative regulation of vascular endothelial growth factor receptor signaling pathway	1	NEDD4
+neuron projection development	1	NEDD4
+receptor catabolic process	1	NEDD4
+cellular response to UV	1	NEDD4
+ monoatomic ion transmembrane transport	1	NEDD4
+ membrane potential	1	NEDD4
+glucocorticoid receptor signaling pathway	1	NEDD4
+ubiquitin-dependent protein catabolic process via the multivesicular body sorting pathway	1	NEDD4
+formation of structure involved in a symbiotic process	1	NEDD4
+ protein catabolic process	1	NEDD4
+viral budding	1	NEDD4
+ nucleocytoplasmic transport	1	NEDD4
+ dendrite morphogenesis	1	NEDD4
+ synapse organization	1	NEDD4
+progesterone receptor signaling pathway	1	NEDD4
+response to calcium ion	1	NEDD4
+protein K63-linked ubiquitination	1	NEDD4
+ potassium ion transmembrane transporter activity	1	NEDD4
+negative regulation of sodium ion transmembrane transporter activity	1	NEDD4
+chromatin	1	NEDD4
+cell cortex	1	NEDD4
+apicolateral plasma membrane	1	NEDD4
+dendritic spine	1	NEDD4
+phospholipid binding	1	EPN1
+molecular sequestering activity	1	EPN1
+in utero embryonic development	1	EPN1
+Notch signaling pathway	1	EPN1
+female pregnancy	1	EPN1
+embryonic organ development	1	EPN1
+negative regulation of sprouting angiogenesis	1	EPN1
+clathrin-coated pit	1	EPN1
+central nervous system development	1	WWP1
+monoatomic ion transmembrane transport	1	WWP1
+negative regulation of DNA-templated transcription	1	WWP1
+viral entry into host cell	1	WWP1
+GTPase activator activity	1	RABEP1
+growth factor activity	1	RABEP1
+protein homodimerization activity	1	RABEP1
+Golgi to plasma membrane transport	1	RABEP1
+vesicle-mediated transport	1	RABEP1
+membrane fusion	1	RABEP1
+protein localization to ciliary membrane	1	RABEP1
+intracellular membrane-bounded organelle	1	RABEP1
+negative regulation of type I interferon production	1	RNF216
+ interferon-beta production	1	RNF216
+ defense response to virus by host	1	RNF216
+protein K48-linked ubiquitination	1	RNF216
+nucleoplasm	1	RNF216
+transcription coactivator activity	1	BIRC2
+transferase activity	1	BIRC2
+cysteine-type endopeptidase inhibitor activity involved in apoptotic process	1	BIRC2
+protein-folding chaperone binding	1	BIRC2
+FBXO family protein binding	1	BIRC2
+protein polyubiquitination	1	BIRC2
+response to hypoxia	1	BIRC2
+placenta development	1	BIRC2
+cell surface receptor signaling pathway	1	BIRC2
+I-kappaB kinase/NF-kappaB signaling	1	BIRC2
+ protein ubiquitination	1	BIRC2
+tumor necrosis factor-mediated signaling pathway	1	BIRC2
+ toll-like receptor signaling pathway	1	BIRC2
+NIK/NF-kappaB signaling	1	BIRC2
+ RIG-I signaling pathway	1	BIRC2
+ cell population proliferation	1	BIRC2
+ apoptotic process	1	BIRC2
+negative regulation of apoptotic process	1	BIRC2
+ I-kappaB kinase/NF-kappaB signaling	1	BIRC2
+ innate immune response	1	BIRC2
+response to ethanol	1	BIRC2
+ cell differentiation	1	BIRC2
+ inflammatory response	1	BIRC2
+response to cAMP	1	BIRC2
+ cell cycle	1	BIRC2
+ necroptotic process	1	BIRC2
+negative regulation of necroptotic process	1	BIRC2
+necroptotic process	1	BIRC2
+ nucleotide-binding oligomerization domain containing signaling pathway	1	BIRC2
+ NIK/NF-kappaB signaling	1	BIRC2
+negative regulation of ripoptosome assembly involved in necroptotic process	1	BIRC2
+ protein K63-linked ubiquitination	1	BIRC2
+ protein K48-linked ubiquitination	1	BIRC2
+ protein monoubiquitination	1	BIRC2
+ cysteine-type endopeptidase activity	1	BIRC2
+ reactive oxygen species metabolic process	1	BIRC2
+XY body	1	BIRC2
+cytoplasmic side of plasma membrane	1	BIRC2
+CD40 receptor complex	1	BIRC2
+membrane raft	1	BIRC2
+peptide binding	1	CLTA
+GTPase binding	1	CLTA
+synaptic vesicle membrane	1	CLTA
+cytoplasmic vesicle	1	CLTA
+presynaptic endocytic zone membrane	1	CLTA
+postsynaptic endocytic zone cytoplasmic component	1	CLTA
+RNA binding	1	CLTC
+double-stranded RNA binding	1	CLTC
+protein kinase binding	1	CLTC
+clathrin light chain binding	1	CLTC
+low-density lipoprotein particle receptor binding	1	CLTC
+disordered domain specific binding	1	CLTC
+ubiquitin-specific protease binding	1	CLTC
+mitotic cell cycle	1	CLTC
+osteoblast differentiation	1	CLTC
+transferrin transport	1	CLTC
+retrograde transport, endosome to Golgi	1	CLTC
+ mitotic spindle organization	1	CLTC
+amyloid-beta clearance by transcytosis	1	CLTC
+negative regulation of hyaluronan biosynthetic process	1	CLTC
+negative regulation of protein localization to plasma membrane	1	CLTC
+lysosome	1	CLTC
+focal adhesion	1	CLTC
+clathrin-coated vesicle	1	CLTC
+clathrin-coated endocytic vesicle membrane	1	CLTC
+melanosome	1	CLTC
+mitotic spindle	1	CLTC
+extracellular vesicle	1	CLTC
+mitotic spindle microtubule	1	CLTC
+lipid droplet formation	1	LDAF1
+endoplasmic reticulum membrane	1	LDAF1
+lipid droplet	1	LDAF1
+nucleotidyltransferase activity	1	MB21D2
+cadherin binding	1	MB21D2
+interleukin-1, type I receptor binding	1	TOLLIP
+kinase binding	1	TOLLIP
+ubiquitin conjugating enzyme binding	1	TOLLIP
+ubiquitin protein ligase binding	1	TOLLIP
+SUMO binding	1	TOLLIP
+Toll-like receptor binding	1	TOLLIP
+molecular adaptor activity	1	TOLLIP
+inflammatory response	1	TOLLIP
+phosphorylation	1	TOLLIP
+epithelial cell differentiation	1	TOLLIP
+ protein sumoylation	1	TOLLIP
+protein localization to endosome	1	TOLLIP
+leukocyte activation	1	TOLLIP
+interleukin-1-mediated signaling pathway	1	TOLLIP
+extracellular region	1	TOLLIP
+nuclear body	1	TOLLIP
+extrinsic component of plasma membrane	1	TOLLIP
+azurophil granule lumen	1	TOLLIP
+specific granule lumen	1	TOLLIP
+phosphatidylinositol-5-phosphate binding	1	TOM1
+polyubiquitin modification-dependent protein binding	1	TOM1
+myosin VI binding	1	TOM1
+endosomal transport	1	TOM1
+substrate localization to autophagosome	1	TOM1
+autophagosome-lysosome fusion	1	TOM1
+ autophagosome maturation	1	TOM1
+ endosome organization	1	TOM1
+endosome membrane	1	TOM1
+azurophil granule membrane	1	TOM1
+specific granule membrane	1	TOM1
+RNA polymerase II cis-regulatory region sequence-specific DNA binding	1	ZNF114
+DNA-binding transcription factor activity, RNA polymerase II-specific	1	ZNF114
+ transcription by RNA polymerase II	1	ZNF114
+biological_process	1	ZNF114

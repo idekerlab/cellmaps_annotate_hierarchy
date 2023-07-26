@@ -1,0 +1,72 @@
+Feature	Number of Genes	Genes
+plasma membrane	3	RAB25, CPM, SPTBN2
+protein binding	2	RAB25, TSN
+extracellular exosome	2	RAB25, CPM
+extracellular space	2	CPM, SPTBN2
+cytosol	2	SPTBN2, TSN
+GTPase activity	1	RAB25
+GTP binding	1	RAB25
+myosin V binding	1	RAB25
+epithelial cell morphogenesis	1	RAB25
+exocytosis	1	RAB25
+ cell population proliferation	1	RAB25
+ epithelial cell migration	1	RAB25
+protein transport	1	RAB25
+pseudopodium organization	1	RAB25
+ vesicle-mediated transport	1	RAB25
+Golgi apparatus	1	RAB25
+pseudopodium	1	RAB25
+pseudopodium membrane	1	RAB25
+cytoplasmic vesicle	1	RAB25
+recycling endosome	1	RAB25
+carboxypeptidase activity	1	CPM
+metallocarboxypeptidase activity	1	CPM
+zinc ion binding	1	CPM
+peptide metabolic process	1	CPM
+anatomical structure morphogenesis	1	CPM
+protein processing	1	CPM
+extracellular region	1	CPM
+cell surface	1	CPM
+actin binding	1	SPTBN2
+structural constituent of cytoskeleton	1	SPTBN2
+phospholipid binding	1	SPTBN2
+cadherin binding	1	SPTBN2
+actin filament binding	1	SPTBN2
+structural constituent of synapse	1	SPTBN2
+structural constituent of postsynapse	1	SPTBN2
+synapse assembly	1	SPTBN2
+vesicle-mediated transport	1	SPTBN2
+cerebellar Purkinje cell layer morphogenesis	1	SPTBN2
+actin cytoskeleton organization	1	SPTBN2
+adult behavior	1	SPTBN2
+multicellular organism growth	1	SPTBN2
+actin filament capping	1	SPTBN2
+ postsynaptic specialization assembly	1	SPTBN2
+postsynapse organization	1	SPTBN2
+spectrin	1	SPTBN2
+apical plasma membrane	1	SPTBN2
+cell junction	1	SPTBN2
+cortical actin cytoskeleton	1	SPTBN2
+paranodal junction	1	SPTBN2
+cell projection	1	SPTBN2
+neuronal cell body	1	SPTBN2
+intracellular membrane-bounded organelle	1	SPTBN2
+parallel fiber to Purkinje cell synapse	1	SPTBN2
+presynapse	1	SPTBN2
+glutamatergic synapse	1	SPTBN2
+postsynaptic spectrin-associated cytoskeleton	1	SPTBN2
+DNA binding	1	TSN
+single-stranded DNA binding	1	TSN
+RNA binding	1	TSN
+mRNA binding	1	TSN
+endonuclease activity	1	TSN
+identical protein binding	1	TSN
+sequence-specific DNA binding	1	TSN
+DNA recombination	1	TSN
+siRNA processing	1	TSN
+male germ cell nucleus	1	TSN
+nucleus	1	TSN
+nucleoplasm	1	TSN
+cytoplasm	1	TSN
+endoplasmic reticulum	1	TSN
+endoribonuclease complex	1	TSN

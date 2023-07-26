@@ -1,0 +1,61 @@
+Your response should be formatted as Markdown paragraphs
+Write a critical and concise analysis of this human protein system, describing your reasoning as you go and providing references to scientific papers.
+
+A critical goal of the analysis is to determine if this is a novel complex or if any proteins are novel members of a known complex
+
+Format with Title, Summary, and References sections.        
+Avoid overly general statements of how the proteins are involved in various cellular processes        
+Avoid repeating the goals of the analysis.
+
+What cellular components and complexes are involved in this system?
+What mechanisms and biological processes are performed by this system?
+Propose a name for the system to reflect the cellular location and function, and should be specific but brief. Do not compose an acronym. Place it as the title of your report
+Human Proteins: CTC1, GTF2H4, EAF1, DBF4, ELL2, TEN1, ANKRD11, HDGFL2, ERCC2, ERCC3, ERCC5, GTF2H1, GTF2H3, MNAT1.
+
+System features from GO terms: 
+protein binding: 13 proteins: CTC1, GTF2H4, EAF1, DBF4, ELL2, TEN1, HDGFL2, ERCC2, ERCC3, ERCC5, GTF2H1, GTF2H3, MNAT1
+nucleoplasm: 13 proteins: CTC1, GTF2H4, EAF1, DBF4, ELL2, TEN1, ANKRD11, ERCC2, ERCC3, ERCC5, GTF2H1, GTF2H3, MNAT1
+nucleus: 9 proteins: CTC1, GTF2H4, TEN1, ANKRD11, HDGFL2, ERCC2, ERCC3, ERCC5, GTF2H3
+nucleotide-excision repair: 7 proteins: GTF2H4, ERCC2, ERCC3, ERCC5, GTF2H1, GTF2H3, MNAT1
+DNA repair: 6 proteins: GTF2H4, HDGFL2, ERCC3, GTF2H1, GTF2H3, MNAT1
+transcription by RNA polymerase II: 6 proteins: GTF2H4, ERCC2, ERCC3, GTF2H1, GTF2H3, MNAT1
+transcription factor TFIIH core complex: 6 proteins: GTF2H4, ERCC2, ERCC3, GTF2H1, GTF2H3, MNAT1
+transcription factor TFIIH holo complex: 6 proteins: GTF2H4, ERCC2, ERCC3, GTF2H1, GTF2H3, MNAT1
+transcription factor TFIID complex: 4 proteins: GTF2H4, ERCC2, ERCC3, GTF2H3
+single-stranded DNA binding: 3 proteins: CTC1, TEN1, ERCC5
+cytosol: 3 proteins: CTC1, ANKRD11, ERCC2
+transcription elongation by RNA polymerase II: 3 proteins: EAF1, ELL2, ERCC3
+damaged DNA binding: 3 proteins: ERCC2, ERCC3, ERCC5
+metal ion binding: 3 proteins: ERCC2, ERCC5, GTF2H3
+transcription-coupled nucleotide-excision repair: 3 proteins: ERCC2, ERCC3, ERCC5
+telomeric DNA binding: 2 proteins: CTC1, TEN1
+telomere capping: 2 proteins: CTC1, TEN1
+negative regulation of telomere maintenance via telomerase: 2 proteins: CTC1, TEN1
+multicellular organism growth: 2 proteins: CTC1, ERCC2
+hematopoietic stem cell proliferation: 2 proteins: CTC1, ERCC2
+chromosome, telomeric region: 2 proteins: CTC1, TEN1
+CST complex: 2 proteins: CTC1, TEN1
+double-stranded DNA binding: 2 proteins: GTF2H4, ERCC5
+RNA polymerase II general transcription initiation factor activity: 2 proteins: GTF2H4, GTF2H3
+core TFIIH complex portion of holo TFIIH complex: 2 proteins: GTF2H4, GTF2H3
+nuclear speck: 2 proteins: GTF2H4, EAF1
+ transcription elongation by RNA polymerase II: 2 proteins: EAF1, ELL2
+transcription elongation factor complex: 2 proteins: EAF1, ELL2
+nuclear body: 2 proteins: EAF1, DBF4
+enzyme activator activity: 2 proteins: DBF4, ERCC5
+zinc ion binding: 2 proteins: DBF4, MNAT1
+G1/S transition of mitotic cell cycle: 2 proteins: DBF4, MNAT1
+cytoplasm: 2 proteins: HDGFL2, ERCC2
+ATP binding: 2 proteins: ERCC2, ERCC3
+ATP hydrolysis activity: 2 proteins: ERCC2, ERCC3
+apoptotic process: 2 proteins: ERCC2, ERCC3
+response to oxidative stress: 2 proteins: ERCC2, ERCC3
+UV protection: 2 proteins: ERCC2, ERCC3
+hair cell differentiation: 2 proteins: ERCC2, ERCC3
+ mitotic cell cycle phase transition: 2 proteins: ERCC2, ERCC3
+CAK-ERCC2 complex: 2 proteins: ERCC2, MNAT1
+response to UV: 2 proteins: ERCC3, ERCC5
+transcription preinitiation complex: 2 proteins: ERCC3, GTF2H3
+negative regulation of apoptotic process: 2 proteins: ERCC5, MNAT1
+ cyclin-dependent protein serine/threonine kinase activity: 2 proteins: GTF2H1, MNAT1
+ DNA-templated transcription: 2 proteins: GTF2H1, GTF2H3

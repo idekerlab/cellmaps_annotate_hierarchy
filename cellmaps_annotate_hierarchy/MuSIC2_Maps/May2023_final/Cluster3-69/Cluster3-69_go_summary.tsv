@@ -1,0 +1,81 @@
+Feature	Number of Genes	Genes
+protein binding	3	ID1, NEUROG3, TCF3
+negative regulation of transcription by RNA polymerase II	3	ID1, NEUROG3, TCF3
+nucleus	3	ID1, NEUROG3, TCF3
+protein dimerization activity	2	ID1, NEUROG3
+nucleoplasm	2	ID1, TCF3
+RNA polymerase II cis-regulatory region sequence-specific DNA binding	2	NEUROG3, TCF3
+DNA-binding transcription factor activity, RNA polymerase II-specific	2	NEUROG3, TCF3
+DNA-binding transcription repressor activity, RNA polymerase II-specific	2	NEUROG3, TCF3
+DNA-binding transcription activator activity, RNA polymerase II-specific	2	NEUROG3, TCF3
+DNA-binding transcription factor activity	2	NEUROG3, TCF3
+E-box binding	2	NEUROG3, TCF3
+nervous system development	2	NEUROG3, TCF3
+ neuron differentiation	2	NEUROG3, TCF3
+ DNA-templated transcription	2	NEUROG3, TCF3
+ transcription by RNA polymerase II	2	NEUROG3, TCF3
+chromatin	2	NEUROG3, TCF3
+cytoplasm	2	NEUROG3, TCF3
+UDP-xylosyltransferase activity	1	GXYLT2
+UDP-D-xylose:beta-D-glucoside alpha-1,3-D-xylosyltransferase activity	1	GXYLT2
+O-glycan processing	1	GXYLT2
+membrane	1	GXYLT2
+identical protein binding	1	ID1
+proteasome binding	1	ID1
+transcription regulator activity	1	ID1
+transcription regulator inhibitor activity	1	ID1
+angiogenesis	1	ID1
+transforming growth factor beta receptor signaling pathway	1	ID1
+brain development	1	ID1
+negative regulation of transcription by transcription factor localization	1	ID1
+ gene expression	1	ID1
+cell differentiation	1	ID1
+neuron differentiation	1	ID1
+negative regulation of protein binding	1	ID1
+ actin filament bundle assembly	1	ID1
+circadian regulation of gene expression	1	ID1
+cell-abiotic substrate adhesion	1	ID1
+negative regulation of apoptotic process	1	ID1
+negative regulation of DNA binding	1	ID1
+negative regulation of DNA-binding transcription factor activity	1	ID1
+blood vessel endothelial cell migration	1	ID1
+negative regulation of endothelial cell differentiation	1	ID1
+negative regulation of DNA-templated transcription	1	ID1
+blood vessel morphogenesis	1	ID1
+ epithelial cell proliferation	1	ID1
+negative regulation of dendrite morphogenesis	1	ID1
+cellular response to epidermal growth factor stimulus	1	ID1
+negative regulation of cold-induced thermogenesis	1	ID1
+ vasculature development	1	ID1
+cellular response to peptide	1	ID1
+cellular response to dopamine	1	ID1
+cellular response to nerve growth factor stimulus	1	ID1
+Golgi apparatus	1	ID1
+centrosome	1	ID1
+chromatin DNA binding	1	NEUROG3
+central nervous system development	1	NEUROG3
+peripheral nervous system development	1	NEUROG3
+sensory organ development	1	NEUROG3
+spinal cord development	1	NEUROG3
+epithelial cell differentiation	1	NEUROG3
+forebrain development	1	NEUROG3
+hindbrain development	1	NEUROG3
+ dendrite morphogenesis	1	NEUROG3
+transdifferentiation	1	NEUROG3
+axon development	1	NEUROG3
+cis-regulatory region sequence-specific DNA binding	1	TCF3
+DNA binding	1	TCF3
+mitogen-activated protein kinase kinase kinase binding	1	TCF3
+protein homodimerization activity	1	TCF3
+bHLH transcription factor binding	1	TCF3
+protein heterodimerization activity	1	TCF3
+RNA polymerase II-specific DNA-binding transcription factor binding	1	TCF3
+vitamin D response element binding	1	TCF3
+DNA-binding transcription factor binding	1	TCF3
+B cell lineage commitment	1	TCF3
+B cell differentiation	1	TCF3
+immunoglobulin V(D)J recombination	1	TCF3
+ DNA-binding transcription factor activity	1	TCF3
+euchromatin	1	TCF3
+transcription regulator complex	1	TCF3
+RNA polymerase II transcription regulator complex	1	TCF3

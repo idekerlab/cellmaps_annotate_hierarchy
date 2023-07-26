@@ -1,0 +1,25 @@
+Your response should be formatted as Markdown paragraphs
+This is a human protein system high in a cell hierarchy and has child systems connect to it as well as residual proteins only belong to this system. From the protein list and the knowledge of how these proteins cluster, write a critical and concise analysis of this human protein system. Describe your reasoning as you go and providing references to scientific papers.
+
+A critical goal of the analysis is to determine if this is a novel complex or if any proteins are novel members of a known complex
+
+Format with Title, Summary, and References sections.        
+Avoid overly general statements of how the proteins are involved in various cellular processes        
+Avoid recapitulating the goals of the analysis.
+
+What cellular components and complexes are involved in this system?
+What mechanisms and biological processes are performed by this system?
+Propose a name for the system to reflect the function and location, and should be specific but brief. Do not compose an acronym. Place it as the title of your report
+Human Protein List: 
+proteins only in this high level system: ANKRD13A, SUMF2, SLC2A14, ZNF407, LAIR1, ANKLE2, CTDSPL, ERBIN, CDCA4, FCHSD2, VASP, STAMBP, ADCK5, GPRIN1, ASPM, PKN1, STX18, EIF4G2, USP20, PPP1R16A, DTX3L, HAUS7, AIFM2, FLCN, ADGRL2, RASSF3, DHRS7B, YIPF4, FBXW11, PAK1, DOK1, PANX1, GAS2L1, SLC7A14, CELA3A, DOK2, PER1, SLC30A1, SLC41A3, MADD, TTC17, SLC2A3, CST6, DIS3L, CDC42EP4, RHOA, SPINT1, TBC1D10A, EPHA2, BCORL1, SNAP25, STOML2, RAPH1, LSR, CTSF, KLC1, RNF149, ARHGAP19, METTL15, VCPIP1, XAGE1B, NRAS, HAPLN3, HSPB1, ZNG1F, EHD4, AKAP11, DIAPH3, SYNPO, SH3PXD2B, CCNYL1, FAM171A1, C3orf38, PALM2AKAP2, ITPRID2, ATG7, CLUAP1, CHRND, PDGFRA, TGFBR2, KATNB1, DIRAS1, USP4, PPP3R1, COPRS, ZDHHC5, FMNL3, NAPG, DCHS2, NMT1, EXOC3L2, STXBP4, IQSEC1, ANKFY1, RALBP1, SAMD1, METAP2, NHSL2, SCRIB, ASPSCR1, UBQLN2, ZSWIM8, CEMIP2, ENC1, RASAL2, PPP1R13B, CBFB, OCLN, S100A2, PPP1R18, ENG, TRIML2, ZDHHC8, TPRN, PDLIM1, TRPM4, SLC12A2, TMEM63B, MYO9A, MISP, TMEM245, FKBP5, DOCK5, HTRA1, KIAA1522, AMIGO2, PRX, PLXNA4, IQGAP1, NCKIPSD, MYO5B, TXNDC11, FBLN5, CKAP5, UTRN, STX4, ATP6V0A2, CYBC1, TRMT2A, IL13, BAIAP2, BFSP1, CRLF3, FAM210B, ZNG1B, STK17B, FZD6, FZD1, ZNF503, FOSL2, SRPRB, AURKA, CYTH2, ILDR2, NOTCH2, RDX, TRAT1, B3GALT2, HSPG2, RAB13, SLC33A1, BCL2L12, MYL4, PALM, DNAJA4, ASAP1, ARHGEF12, LRP12, GNB1, LGALS8, MKLN1, CAMK2G, HRH1, ATP6V0C, DMAP1, LINGO1, SAMHD1, PRRT2, SSH1, NECTIN3, ADAM10, INSR, PTPRM, DCAF16, CSNK1G1, ARL14EP, LPL, ABCB4, TUBGCP5, DCBLD2, IL12RB1, RNF5, RAB27B, RTCB, ABCB1, ACKR3, ELOC, TCHP, RHOBTB2, ROBO1, ODR4, ATP2B4, TRAF7, TMEM101, SMIM8, IFFO2, PALS1, ANK3, PITPNM3, EGFL8, TTLL5, PLEKHH2, LDB2, RTN4R, CARMIL1, DBN1, ANKIB1, GPR156, CCDC106, RNF169, NPTN, DDI2, PCMTD1, HOMER1, HUNK, PXDC1, DDX60L, SPECC1, PPP3CC, B2M, RCCD1, TRO, MSN, GLRX, SWAP70, TNK2, ITSN1, HEBP1, DDAH1, KMT2D, RGS3, SMPD2, MPZL1, TMEM131, CX3CL1, LZTS2, TTYH1, FAM120B, MYO10, BAIAP2L1, KIF5A, CRK, MAPK8IP1, SLC7A2, SLC39A10, PIGW, ELMO2, PTPRS, HCFC2, APBB1, NUDC, BRPF1, CCDC22, HMOX1, MCAM, NUDT16L1, NF2, DAG1, DCAF6, PIK3AP1, VBP1, EFR3A, FLRT3, DPY19L4, BMPR2, ABCC1, OTULIN, EVA1A, COL6A1, L1CAM, ABI1, NOS1, CEP295, SNAP23, GTSE1, AHNAK, ZNF688, OBSCN, CSPG4, ARHGAP17, YES1, MACF1, RNF8, ADAMTSL4, BORCS5, MAP7, NQO2, FABP3, HEG1, NFX1, WASF2, NHERF2, MEX3C, CD47, PRKAB1, MIB1, LHFPL2, STAMBPL1, TGFBR1, PDGFRB, GRAMD1A, RIF1, SYTL2, PACSIN3, TWF2, KANSL2, ZBTB33, PRELP, PPP4C, CORO1B, LZTS1, FBXO16, CDAN1, SCLT1, NCAM1, SPPL3, MAT2B, AKAP12, XIAP, ITPR2, DHPS, ISLR, CLCN5, ANXA2, UBAC1, NEO1, CEP55, GRAMD1B, VSIG4, SCIN, INTS11, ITGA3, ABCA12, RALA, SYNC, PDLIM5, CDC25B, IL6ST, UQCC3, LDHB, DDR2, PROSER2, GPRC5A, PIGB, PDZD8, EZR, TOR2A.
+proteins in child system Cluster4-14: SAP18, SRPK1, ACIN1, ARRB2, CCNT2, ELL, EPB41L3, EPB41L5, GPATCH1, GTPBP1, KIF17, NKTR, PDCD7, PIP4K2A, PIP5K1A, PNISR, RAP1GAP2, TRMT1.
+proteins in child system Cluster4-15: ARVCF, CDH2, CDH4, CDH8, CTNNA1, CTNNB1, CTNND1, EPB41L2, EPHB1, EPHB2, HORMAD2, PCDH7, PCDHA1, PCDHGA2, PCDHGB1, PKP4, TMTC4.
+proteins in child system Cluster4-25: PDPK1, AGRN, CAVIN2, CD44, GRAMD1C, IL7R, SDC2, SDC4.
+proteins in child system Cluster4-42: CDK7, DIP2B, PLCD3, SMOC1, VANGL1.
+proteins in child system Cluster4-45: ADD1, ADD2, ADD3, CRCP.
+proteins in child system Cluster4-48: CCDC8, FOXN3, MYBL2, SIN3B.
+proteins in child system Cluster4-51: BRCC3, ARHGEF26, GFOD1, RALGAPA2.
+proteins in child system Cluster4-55: ACTR10, MTPN, PLEKHO2, TNKS1BP1.
+proteins in child system Cluster4-57: GPSM2, GNG2, GNB2, GNB4.
+proteins in child system Cluster4-60: ARRB2, EPB41L3, SMOC1, VANGL1.
+proteins in child system Cluster4-62: ACOT9, NUP35, SUCLG2, UQCC1.

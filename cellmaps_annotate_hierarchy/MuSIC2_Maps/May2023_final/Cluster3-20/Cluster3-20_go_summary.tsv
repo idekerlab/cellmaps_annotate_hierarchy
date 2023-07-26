@@ -1,0 +1,417 @@
+Feature	Number of Genes	Genes
+protein binding	23	NCAPH2, IL13RA2, HOXD4, DDB2, SNX7, CDK5, METTL9, SCAMP1, TJP1, TMEM186, SAMD4A, SSX2IP, PRKCI, MAGI1, DDR1, ELOC, MRPS18B, PARD3, TJP2, CGN, AFDN, CADM1, COLEC12
+plasma membrane	12	CDK5, SCAMP1, TJP1, PRKCI, MAGI1, DDR1, PARD3, TJP2, CGN, AFDN, CADM1, COLEC12
+cell junction	11	NCAPH2, HOXD4, DDB2, CDK5, TJP1, SAMD4A, MAGI1, MRPS18B, PARD3, CGN, AFDN
+nucleoplasm	10	NCAPH2, HOXD4, DDB2, CDK5, PRKCI, MAGI1, ELOC, MRPS18B, TJP2, AFDN
+nucleus	8	NCAPH2, HOXD4, DDB2, CDK5, SSX2IP, PRKCI, PURG, TJP2
+cytosol	8	CDK5, TJP1, SAMD4A, PRKCI, ELOC, PARD3, TJP2, AFDN
+adherens junction	7	TJP1, SSX2IP, MAGI1, CCDC85C, PARD3, TJP2, AFDN
+bicellular tight junction	7	TJP1, PRKCI, MAGI1, CCDC85C, PARD3, TJP2, CGN
+cytoplasm	5	CDK5, TJP1, SSX2IP, MAGI1, KANK3
+cell adhesion	5	SSX2IP, MAGI1, DDR1, PARD3, AFDN
+membrane	4	NCAPH2, CDK5, SCAMP1, COLEC12
+ATP binding	4	CDK5, PRKCI, MAGI1, DDR1
+cadherin binding	4	TJP1, TJP2, CGN, AFDN
+cell adhesion molecule binding	4	TJP1, TJP2, AFDN, CADM1
+tight junction	4	TJP1, PRKCI, PARD3, AFDN
+cell-cell junction	4	MAGI1, PARD3, AFDN, CADM1
+extracellular space	3	IL13RA2, DDR1, COLEC12
+ transcription by RNA polymerase II	3	HOXD4, PURG, ELOC
+protein-containing complex	3	DDB2, TJP1, SSX2IP
+microtubule cytoskeleton organization	3	CDK5, PARD3, CGN
+dendrite	3	CDK5, SAMD4A, CADM1
+mitochondrion	3	METTL9, TMEM186, MRPS18B
+protein domain specific binding	3	SCAMP1, SSX2IP, TJP2
+cell-cell junction organization	3	TJP1, PRKCI, TJP2
+establishment of endothelial intestinal barrier	3	TJP1, TJP2, AFDN
+apical junction complex	3	TJP1, CCDC85C, PARD3
+synapse	3	SAMD4A, PURG, CADM1
+metal ion binding	3	PRKCI, DDR1, COLEC12
+intercellular bridge	2	NCAPH2, PRKCI
+receptor complex	2	IL13RA2, DDR1
+RNA polymerase II transcription regulatory region sequence-specific DNA binding	2	HOXD4, PURG
+DNA-binding transcription factor activity, RNA polymerase II-specific	2	HOXD4, PURG
+chromatin	2	HOXD4, DDB2
+phosphatidylinositol binding	2	SNX7, PARD3
+protein transport	2	SNX7, SCAMP1
+early endosome membrane	2	SNX7, VPS13B
+protein kinase activity	2	CDK5, PRKCI
+protein serine/threonine kinase activity	2	CDK5, PRKCI
+microtubule binding	2	CDK5, CGN
+protein serine kinase activity	2	CDK5, PRKCI
+protein phosphorylation	2	CDK5, PRKCI
+axonogenesis	2	CDK5, PARD3
+peptidyl-serine phosphorylation	2	CDK5, PRKCI
+ cell migration	2	CDK5, TJP1
+neuron projection development	2	CDK5, VPS13B
+protein autophosphorylation	2	CDK5, DDR1
+ protein localization to plasma membrane	2	CDK5, PRKCI
+postsynaptic density	2	CDK5, CADM1
+neuron projection	2	CDK5, CADM1
+Schaffer collateral - CA1 synapse	2	CDK5, PRKCI
+glutamatergic synapse	2	CDK5, PRKCI
+recycling endosome membrane	2	SCAMP1, VPS13B
+maintenance of blood-brain barrier	2	TJP1, TJP2
+negative regulation of apoptotic process	2	TJP1, PRKCI
+cell-cell adhesion	2	TJP1, TJP2
+protein localization to cell-cell junction	2	TJP1, TJP2
+ blood-brain barrier permeability	2	TJP1, TJP2
+ cell-cell adhesion mediated by cadherin	2	TJP1, AFDN
+basolateral plasma membrane	2	TJP1, CADM1
+cell projection	2	TJP1, MAGI1
+mitochondrial inner membrane	2	TMEM186, MRPS18B
+phosphatidylinositol-3-phosphate binding	2	VPS13B, PARD3
+vesicle-mediated transport	2	VPS13B, PRKCI
+Golgi membrane	2	VPS13B, PRKCI
+RNA binding	2	SAMD4A, PURG
+cell leading edge	2	SSX2IP, PRKCI
+protein targeting to membrane	2	PRKCI, PARD3
+ neuron projection development	2	PRKCI, DDR1
+establishment or maintenance of epithelial cell apical/basal polarity	2	PRKCI, PARD3
+apical plasma membrane	2	PRKCI, PARD3
+extracellular exosome	2	PRKCI, DDR1
+PAR polarity complex	2	PRKCI, PARD3
+signal transduction	2	MAGI1, AFDN
+ cell-cell adhesion	2	MAGI1, AFDN
+protein-containing complex assembly	2	MAGI1, PARD3
+protein-macromolecule adaptor activity	2	ELOC, TJP2
+bicellular tight junction assembly	2	PARD3, AFDN
+cytoskeleton	2	PARD3, KANK3
+cell-cell contact zone	2	TJP2, AFDN
+chromatin binding	1	NCAPH2
+mitotic chromosome condensation	1	NCAPH2
+meiotic chromosome condensation	1	NCAPH2
+T cell differentiation in thymus	1	NCAPH2
+mitotic sister chromatid separation	1	NCAPH2
+female meiosis chromosome separation	1	NCAPH2
+ chromosome segregation	1	NCAPH2
+ chromosome separation	1	NCAPH2
+ chromosome condensation	1	NCAPH2
+condensed nuclear chromosome	1	NCAPH2
+condensin complex	1	NCAPH2
+cytokine receptor activity	1	IL13RA2
+cytokine binding	1	IL13RA2
+negative regulation of immunoglobulin production	1	IL13RA2
+immunoglobulin mediated immune response	1	IL13RA2
+cytokine-mediated signaling pathway	1	IL13RA2
+negative regulation of mast cell degranulation	1	IL13RA2
+extracellular region	1	IL13RA2
+external side of plasma membrane	1	IL13RA2
+RNA polymerase II cis-regulatory region sequence-specific DNA binding	1	HOXD4
+DNA-binding transcription activator activity, RNA polymerase II-specific	1	HOXD4
+sequence-specific double-stranded DNA binding	1	HOXD4
+anterior/posterior pattern specification	1	HOXD4
+embryonic organ development	1	HOXD4
+embryonic skeletal system morphogenesis	1	HOXD4
+stem cell differentiation	1	HOXD4
+DNA binding	1	DDB2
+damaged DNA binding	1	DDB2
+ubiquitin-protein transferase activity	1	DDB2
+protein-containing complex binding	1	DDB2
+protein polyubiquitination	1	DDB2
+DNA repair	1	DDB2
+nucleotide-excision repair	1	DDB2
+pyrimidine dimer repair	1	DDB2
+DNA damage response	1	DDB2
+response to UV	1	DDB2
+cellular response to UV	1	DDB2
+protein autoubiquitination	1	DDB2
+UV-damage excision repair	1	DDB2
+Cul4A-RING E3 ubiquitin ligase complex	1	DDB2
+Cul4B-RING E3 ubiquitin ligase complex	1	DDB2
+Cul4-RING E3 ubiquitin ligase complex	1	DDB2
+site of DNA damage	1	DDB2
+autophagy of mitochondrion	1	SNX7
+endocytic recycling	1	SNX7
+piecemeal microautophagy of the nucleus	1	SNX7
+reticulophagy	1	SNX7
+ autophagosome assembly	1	SNX7
+phagophore assembly site	1	SNX7
+early endosome	1	SNX7
+p53 binding	1	CDK5
+cyclin-dependent protein serine/threonine kinase activity	1	CDK5
+ErbB-2 class receptor binding	1	CDK5
+kinase activity	1	CDK5
+protein kinase binding	1	CDK5
+acetylcholine receptor activator activity	1	CDK5
+histone kinase activity	1	CDK5
+ErbB-3 class receptor binding	1	CDK5
+ephrin receptor binding	1	CDK5
+tau protein binding	1	CDK5
+tau-protein kinase activity	1	CDK5
+Hsp90 protein binding	1	CDK5
+ transcription involved in G1/S transition of mitotic cell cycle	1	CDK5
+neuron migration	1	CDK5
+synaptic transmission, dopaminergic	1	CDK5
+chromatin remodeling	1	CDK5
+intracellular protein transport	1	CDK5
+nucleocytoplasmic transport	1	CDK5
+mitochondrion organization	1	CDK5
+cell-matrix adhesion	1	CDK5
+chemical synaptic transmission	1	CDK5
+synapse assembly	1	CDK5
+skeletal muscle tissue development	1	CDK5
+motor neuron axon guidance	1	CDK5
+visual learning	1	CDK5
+response to wounding	1	CDK5
+Schwann cell development	1	CDK5
+synaptic vesicle exocytosis	1	CDK5
+ macroautophagy	1	CDK5
+phosphorylation	1	CDK5
+peptidyl-threonine phosphorylation	1	CDK5
+sensory perception of pain	1	CDK5
+cerebellar cortex formation	1	CDK5
+hippocampus development	1	CDK5
+layer formation in cerebral cortex	1	CDK5
+central nervous system neuron development	1	CDK5
+corpus callosum development	1	CDK5
+neuron differentiation	1	CDK5
+negative regulation of axon extension	1	CDK5
+cortical actin cytoskeleton organization	1	CDK5
+negative regulation of protein ubiquitination	1	CDK5
+negative regulation of synaptic plasticity	1	CDK5
+ protein binding	1	CDK5
+receptor catabolic process	1	CDK5
+ glial cell apoptotic process	1	CDK5
+synaptic transmission, glutamatergic	1	CDK5
+protein localization to synapse	1	CDK5
+serine phosphorylation of STAT protein	1	CDK5
+ apoptotic process	1	CDK5
+receptor clustering	1	CDK5
+ neuron apoptotic process	1	CDK5
+negative regulation of cell cycle	1	CDK5
+ protein kinase activity	1	CDK5
+negative regulation of proteolysis	1	CDK5
+negative regulation of DNA-templated transcription	1	CDK5
+ calcium ion-dependent exocytosis	1	CDK5
+negative regulation of protein export from nucleus	1	CDK5
+behavioral response to cocaine	1	CDK5
+ synaptic plasticity	1	CDK5
+synaptic vesicle endocytosis	1	CDK5
+synaptic vesicle transport	1	CDK5
+rhythmic process	1	CDK5
+axon extension	1	CDK5
+oligodendrocyte differentiation	1	CDK5
+dendrite morphogenesis	1	CDK5
+cell division	1	CDK5
+neuron apoptotic process	1	CDK5
+ cell cycle	1	CDK5
+ synaptic transmission, glutamatergic	1	CDK5
+excitatory postsynaptic potential	1	CDK5
+ dendritic spine morphogenesis	1	CDK5
+calcium ion import	1	CDK5
+ protein targeting to membrane	1	CDK5
+ presynaptic cytosolic calcium ion concentration	1	CDK5
+ presynaptic cytosolic calcium concentration	1	CDK5
+negative regulation of neuron death	1	CDK5
+ voltage-gated calcium channel activity	1	CDK5
+ synaptic vesicle recycling	1	CDK5
+cellular response to amyloid-beta	1	CDK5
+ synapse pruning	1	CDK5
+ actin cytoskeleton reorganization	1	CDK5
+cyclin-dependent protein kinase holoenzyme complex	1	CDK5
+microtubule	1	CDK5
+protein kinase 5 complex	1	CDK5
+lamellipodium	1	CDK5
+filopodium	1	CDK5
+axon	1	CDK5
+growth cone	1	CDK5
+neuromuscular junction	1	CDK5
+neuronal cell body	1	CDK5
+perikaryon	1	CDK5
+presynapse	1	CDK5
+protein-L-histidine N-pros-methyltransferase activity	1	METTL9
+methylation	1	METTL9
+endoplasmic reticulum	1	METTL9
+exocytosis	1	SCAMP1
+post-Golgi vesicle-mediated transport	1	SCAMP1
+endocytosis	1	SCAMP1
+establishment of localization in cell	1	SCAMP1
+trans-Golgi network	1	SCAMP1
+clathrin-coated vesicle	1	SCAMP1
+synaptic vesicle membrane	1	SCAMP1
+trans-Golgi network membrane	1	SCAMP1
+specific granule membrane	1	SCAMP1
+zymogen granule membrane	1	SCAMP1
+calmodulin binding	1	TJP1
+cell-cell junction assembly	1	TJP1
+ cell population proliferation	1	TJP1
+actin cytoskeleton organization	1	TJP1
+actomyosin structure organization	1	TJP1
+adherens junction maintenance	1	TJP1
+ cytoskeleton organization	1	TJP1
+negative regulation of stress fiber assembly	1	TJP1
+protein localization to adherens junction	1	TJP1
+ cell junction assembly	1	TJP1
+protein localization to bicellular tight junction	1	TJP1
+ sprouting angiogenesis	1	TJP1
+ bicellular tight junction assembly	1	TJP1
+podosome	1	TJP1
+gap junction	1	TJP1
+apical part of cell	1	TJP1
+mitochondrial respiratory chain complex I assembly	1	TMEM186
+acrosome assembly	1	VPS13B
+lipid transport	1	VPS13B
+Golgi organization	1	VPS13B
+nervous system development	1	VPS13B
+central nervous system development	1	VPS13B
+slow endocytic recycling	1	VPS13B
+maintenance of lens transparency	1	VPS13B
+adipose tissue development	1	VPS13B
+acrosomal membrane	1	VPS13B
+lysosomal membrane	1	VPS13B
+endoplasmic reticulum-Golgi intermediate compartment membrane	1	VPS13B
+mRNA binding	1	SAMD4A
+translation repressor activity	1	SAMD4A
+nuclear-transcribed mRNA poly(A) tail shortening	1	SAMD4A
+ translation	1	SAMD4A
+P-body	1	SAMD4A
+fibrillar center	1	SAMD4A
+centrosome cycle	1	SSX2IP
+ Rac protein signal transduction	1	SSX2IP
+intraciliary transport involved in cilium assembly	1	SSX2IP
+cilium assembly	1	SSX2IP
+ cell motility	1	SSX2IP
+centriolar satellite	1	SSX2IP
+ciliary basal body	1	SSX2IP
+protein kinase C activity	1	PRKCI
+calcium-dependent protein kinase C activity	1	PRKCI
+phospholipid binding	1	PRKCI
+cytoskeleton organization	1	PRKCI
+actin filament organization	1	PRKCI
+cell migration	1	PRKCI
+cellular response to insulin stimulus	1	PRKCI
+negative regulation of glial cell apoptotic process	1	PRKCI
+establishment of apical/basal cell polarity	1	PRKCI
+intracellular signal transduction	1	PRKCI
+eye photoreceptor cell development	1	PRKCI
+negative regulation of neuron apoptotic process	1	PRKCI
+ Notch signaling pathway	1	PRKCI
+ glucose import	1	PRKCI
+secretion	1	PRKCI
+Golgi vesicle budding	1	PRKCI
+ NF-kappaB transcription factor activity	1	PRKCI
+ glial cell proliferation	1	PRKCI
+membrane organization	1	PRKCI
+response to interleukin-1	1	PRKCI
+ postsynaptic membrane neurotransmitter receptor levels	1	PRKCI
+ endothelial cell apoptotic process	1	PRKCI
+endosome	1	PRKCI
+brush border	1	PRKCI
+microtubule cytoskeleton	1	PRKCI
+Schmidt-Lanterman incisure	1	PRKCI
+alpha-actinin binding	1	MAGI1
+cell surface receptor signaling pathway	1	MAGI1
+nucleolus	1	MAGI1
+cell periphery	1	MAGI1
+transmembrane receptor protein tyrosine kinase activity	1	DDR1
+collagen binding	1	DDR1
+protein tyrosine kinase collagen receptor activity	1	DDR1
+ cell growth	1	DDR1
+ cell-matrix adhesion	1	DDR1
+transmembrane receptor protein tyrosine kinase signaling pathway	1	DDR1
+multicellular organism development	1	DDR1
+embryo implantation	1	DDR1
+lactation	1	DDR1
+cell population proliferation	1	DDR1
+negative regulation of cell population proliferation	1	DDR1
+ extracellular matrix disassembly	1	DDR1
+ phosphatidylinositol 3-kinase signaling	1	DDR1
+smooth muscle cell migration	1	DDR1
+ kinase activity	1	DDR1
+collagen-activated tyrosine kinase receptor signaling pathway	1	DDR1
+peptidyl-tyrosine autophosphorylation	1	DDR1
+ear development	1	DDR1
+wound healing, spreading of cells	1	DDR1
+branching involved in mammary gland duct morphogenesis	1	DDR1
+mammary gland alveolus development	1	DDR1
+smooth muscle cell-matrix adhesion	1	DDR1
+axon development	1	DDR1
+ ERK1 and ERK2 cascade	1	DDR1
+neuron projection extension	1	DDR1
+cerebral cortex development	1	CCDC85C
+purine-rich negative regulatory element binding	1	PURG
+transcription corepressor binding	1	ELOC
+transcription initiation at RNA polymerase II promoter	1	ELOC
+ubiquitin-dependent protein catabolic process	1	ELOC
+protein ubiquitination	1	ELOC
+target-directed miRNA degradation	1	ELOC
+Cul2-RING ubiquitin ligase complex	1	ELOC
+Cul5-RING ubiquitin ligase complex	1	ELOC
+elongin complex	1	ELOC
+structural constituent of ribosome	1	MRPS18B
+translation	1	MRPS18B
+mitochondrial translation	1	MRPS18B
+mitochondrial small ribosomal subunit	1	MRPS18B
+phosphatidylinositol-4,5-bisphosphate binding	1	PARD3
+phosphatidylinositol-3,4,5-trisphosphate binding	1	PARD3
+cell cycle	1	PARD3
+establishment or maintenance of cell polarity	1	PARD3
+protein kinase C-activating G protein-coupled receptor signaling pathway	1	PARD3
+protein localization	1	PARD3
+asymmetric cell division	1	PARD3
+negative regulation of peptidyl-threonine phosphorylation	1	PARD3
+myelination in peripheral nervous system	1	PARD3
+establishment of cell polarity	1	PARD3
+ myelination	1	PARD3
+establishment of centrosome localization	1	PARD3
+establishment of epithelial cell polarity	1	PARD3
+cell cortex	1	PARD3
+endomembrane system	1	PARD3
+internode region of axon	1	PARD3
+negative regulation of actin filament polymerization	1	KANK3
+guanylate kinase activity	1	TJP2
+protein tyrosine kinase binding	1	TJP2
+homotypic cell-cell adhesion	1	TJP2
+GMP metabolic process	1	TJP2
+GDP metabolic process	1	TJP2
+intestinal absorption	1	TJP2
+ membrane permeability	1	TJP2
+actin binding	1	CGN
+biological_process	1	CGN
+myosin complex	1	CGN
+small GTPase binding	1	AFDN
+actin filament binding	1	AFDN
+cell-cell signaling	1	AFDN
+ gene expression	1	AFDN
+negative regulation of cell migration	1	AFDN
+ protein localization	1	AFDN
+cell-cell adhesion mediated by cadherin	1	AFDN
+pore complex assembly	1	AFDN
+establishment of protein localization to plasma membrane	1	AFDN
+nuclear speck	1	AFDN
+pore complex	1	AFDN
+signaling receptor binding	1	CADM1
+PDZ domain binding	1	CADM1
+protein homodimerization activity	1	CADM1
+ cytokine production	1	CADM1
+liver development	1	CADM1
+T cell mediated cytotoxicity	1	CADM1
+negative regulation of protein phosphorylation	1	CADM1
+apoptotic process	1	CADM1
+homophilic cell adhesion via plasma membrane adhesion molecules	1	CADM1
+heterophilic cell-cell adhesion via plasma membrane cell adhesion molecules	1	CADM1
+spermatogenesis	1	CADM1
+brain development	1	CADM1
+cell recognition	1	CADM1
+cell differentiation	1	CADM1
+susceptibility to natural killer cell mediated cytotoxicity	1	CADM1
+ natural killer cell mediated cytotoxicity	1	CADM1
+activated T cell proliferation	1	CADM1
+detection of stimulus	1	CADM1
+negative regulation of ERBB4 signaling pathway	1	CADM1
+scavenger receptor activity	1	COLEC12
+galactose binding	1	COLEC12
+low-density lipoprotein particle binding	1	COLEC12
+pattern recognition receptor activity	1	COLEC12
+phagocytosis, recognition	1	COLEC12
+defense response	1	COLEC12
+carbohydrate mediated signaling	1	COLEC12
+toll-like receptor 3 signaling pathway	1	COLEC12
+defense response to bacterium	1	COLEC12
+plasma membrane raft organization	1	COLEC12
+innate immune response	1	COLEC12
+cellular response to exogenous dsRNA	1	COLEC12
+collagen trimer	1	COLEC12
+endocytic vesicle membrane	1	COLEC12
+extracellular matrix	1	COLEC12

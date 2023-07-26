@@ -1,0 +1,110 @@
+Feature	Number of Genes	Genes
+protein binding	11	WDR5, KMT2B, ASH2L, ATN1, KANSL1, KAT8, MCRS1, MSL1, MSL3, PHF20, SETD1B
+nucleoplasm	11	WDR5, KMT2B, ASH2L, ATN1, KANSL1, KAT8, MCRS1, MSL1, MSL3, PHF20, SETD1B
+ DNA-templated transcription	9	WDR5, KMT2B, ATN1, KANSL1, KAT8, MCRS1, MSL1, MSL3, PHF20
+nucleus	9	WDR5, KMT2B, ASH2L, ATN1, KANSL1, KAT8, MCRS1, MSL1, MSL3
+histone H4-K16 acetylation	7	WDR5, KANSL1, KAT8, MCRS1, MSL1, MSL3, PHF20
+ dosage compensation by inactivation of X chromosome	7	WDR5, KANSL1, KAT8, MCRS1, MSL1, MSL3, PHF20
+MLL1 complex	6	WDR5, ASH2L, KANSL1, KAT8, MCRS1, PHF20
+chromatin remodeling	6	KMT2B, KAT8, MCRS1, MSL1, MSL3, SETD1B
+histone H4-K5 acetylation	5	WDR5, KANSL1, KAT8, MCRS1, PHF20
+histone H4-K8 acetylation	5	WDR5, KANSL1, KAT8, MCRS1, PHF20
+ histone H3-K4 methylation	5	WDR5, KANSL1, KAT8, MCRS1, PHF20
+histone acetyltransferase complex	5	WDR5, KANSL1, KAT8, MCRS1, PHF20
+NSL complex	5	WDR5, KANSL1, KAT8, MCRS1, PHF20
+ transcription by RNA polymerase II	4	WDR5, ASH2L, MCRS1, PHF20
+histone H3-K4 methylation	4	WDR5, KMT2B, ASH2L, SETD1B
+histone methyltransferase complex	4	WDR5, KMT2B, ASH2L, SETD1B
+histone H3K4 methyltransferase activity	3	WDR5, KMT2B, SETD1B
+MLL1/2 complex	3	WDR5, KMT2B, ASH2L
+Set1C/COMPASS complex	3	WDR5, ASH2L, SETD1B
+metal ion binding	3	ASH2L, KAT8, PHF20
+MSL complex	3	KAT8, MSL1, MSL3
+methylated histone binding	2	WDR5, MSL3
+transcription initiation-coupled chromatin remodeling	2	WDR5, ASH2L
+ embryonic development	2	WDR5, MCRS1
+ cell cycle	2	WDR5, MCRS1
+MLL3/4 complex	2	WDR5, ASH2L
+histone H3K4 monomethyltransferase activity	2	KMT2B, SETD1B
+histone H3K4 trimethyltransferase activity	2	KMT2B, SETD1B
+transcription coactivator activity	2	ATN1, KAT8
+cytoplasm	2	ATN1, MCRS1
+nuclear matrix	2	ATN1, KAT8
+chromatin organization	2	KANSL1, PHF20
+kinetochore	2	KANSL1, KAT8
+histone H4K16 acetyltransferase activity	2	KAT8, MSL3
+nuclear speck	2	MSL1, SETD1B
+DNA binding	2	MSL3, PHF20
+histone binding	1	WDR5
+skeletal system development	1	WDR5
+gluconeogenesis	1	WDR5
+ histone deacetylation	1	WDR5
+neuron projection development	1	WDR5
+histone H3 acetylation	1	WDR5
+histone H3-K14 acetylation	1	WDR5
+ gluconeogenesis	1	WDR5
+ cell division	1	WDR5
+ tubulin deacetylation	1	WDR5
+mitotic spindle	1	WDR5
+ATAC complex	1	WDR5
+zinc ion binding	1	KMT2B
+unmethylated CpG binding	1	KMT2B
+transcription cis-regulatory region binding	1	ASH2L
+beta-catenin binding	1	ASH2L
+DNA damage response	1	ASH2L
+ cell population proliferation	1	ASH2L
+hemopoiesis	1	ASH2L
+response to estrogen	1	ASH2L
+euchromatin	1	ASH2L
+transcription corepressor activity	1	ATN1
+protein domain specific binding	1	ATN1
+negative regulation of transcription by RNA polymerase II	1	ATN1
+cell killing	1	ATN1
+spermatogenesis	1	ATN1
+central nervous system development	1	ATN1
+determination of adult lifespan	1	ATN1
+male gonad development	1	ATN1
+post-embryonic development	1	ATN1
+cell migration	1	ATN1
+maintenance of cell polarity	1	ATN1
+response to food	1	ATN1
+multicellular organism growth	1	ATN1
+neuron apoptotic process	1	ATN1
+perinuclear region of cytoplasm	1	ATN1
+anchoring junction	1	ATN1
+histone acetyltransferase binding	1	KANSL1
+enzyme binding	1	KAT8
+histone H4K5 acetyltransferase activity	1	KAT8
+histone H4K8 acetyltransferase activity	1	KAT8
+RNA polymerase II-specific DNA-binding transcription factor binding	1	KAT8
+ autophagy	1	KAT8
+neurogenesis	1	KAT8
+myeloid cell differentiation	1	KAT8
+negative regulation of DNA-templated transcription	1	KAT8
+G-quadruplex RNA binding	1	MCRS1
+poly(U) RNA binding	1	MCRS1
+poly(G) binding	1	MCRS1
+telomere maintenance	1	MCRS1
+ DNA replication	1	MCRS1
+DNA repair	1	MCRS1
+ DNA repair	1	MCRS1
+DNA recombination	1	MCRS1
+ chromosome organization	1	MCRS1
+protein modification process	1	MCRS1
+ DNA strand elongation	1	MCRS1
+ telomere maintenance in response to DNA damage	1	MCRS1
+ protein localization to nucleolus	1	MCRS1
+nucleolus	1	MCRS1
+endoplasmic reticulum	1	MCRS1
+polysome	1	MCRS1
+dendrite	1	MCRS1
+Ino80 complex	1	MCRS1
+perikaryon	1	MCRS1
+chromatin binding	1	MSL1
+histone deacetylation	1	MSL3
+histone H2A acetylation	1	MSL3
+NuA4 histone acetyltransferase complex	1	MSL3
+cytosol	1	PHF20
+nuclear membrane	1	PHF20
+RNA binding	1	SETD1B
+chromosome	1	SETD1B

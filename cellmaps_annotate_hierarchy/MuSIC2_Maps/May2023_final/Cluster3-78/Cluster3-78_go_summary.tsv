@@ -1,0 +1,32 @@
+Feature	Number of Genes	Genes
+protein binding	2	CIAO2A, PDP1
+metal ion binding	2	CIAO2A, PDP1
+actin binding	2	GMFB, GMFG
+protein kinase inhibitor activity	2	GMFB, GMFG
+enzyme activator activity	2	GMFB, GMFG
+growth factor activity	2	GMFB, GMFG
+Arp2/3 complex binding	2	GMFB, GMFG
+protein phosphorylation	2	GMFB, GMFG
+signal transduction	2	GMFB, GMFG
+negative regulation of Arp2/3 complex-mediated actin nucleation	2	GMFB, GMFG
+actin filament debranching	2	GMFB, GMFG
+chromosome segregation	1	CIAO2A
+iron-sulfur cluster assembly	1	CIAO2A
+protein maturation by iron-sulfur cluster transfer	1	CIAO2A
+protein maturation by [4Fe-4S] cluster transfer	1	CIAO2A
+nucleoplasm	1	CIAO2A
+cytosol	1	CIAO2A
+CIA complex	1	CIAO2A
+nervous system development	1	GMFB
+extracellular region	1	GMFG
+secretory granule lumen	1	GMFG
+ficolin-1-rich granule lumen	1	GMFG
+protein serine/threonine phosphatase activity	1	PDP1
+[pyruvate dehydrogenase (lipoamide)] phosphatase activity	1	PDP1
+[pyruvate dehydrogenase (lipoamide)] phosphatase regulator activity	1	PDP1
+protein dephosphorylation	1	PDP1
+peptidyl-threonine dephosphorylation	1	PDP1
+ pyruvate dehydrogenase activity	1	PDP1
+mitochondrion	1	PDP1
+mitochondrial matrix	1	PDP1
+pyruvate dehydrogenase (lipoamide) phosphatase complex	1	PDP1

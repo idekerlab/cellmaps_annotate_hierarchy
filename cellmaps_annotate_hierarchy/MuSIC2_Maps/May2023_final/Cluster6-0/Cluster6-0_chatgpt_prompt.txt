@@ -1,0 +1,35 @@
+Your response should be formatted as Markdown paragraphs
+Write a critical and concise analysis of this human protein system, describing your reasoning as you go and providing references to scientific papers.
+
+A critical goal of the analysis is to determine if this is a novel complex or if any proteins are novel members of a known complex
+
+Format with Title, Summary, and References sections.        
+Avoid overly general statements of how the proteins are involved in various cellular processes        
+Avoid repeating the goals of the analysis.
+
+What cellular components and complexes are involved in this system?
+What mechanisms and biological processes are performed by this system?
+Propose a name for the system to reflect the cellular location and function, and should be specific but brief. Do not compose an acronym. Place it as the title of your report
+Human Proteins: EIF3B, EIF3C, EIF3D, EIF3H, EIF3J, EIF3K, EIF3M.
+
+System features from GO terms: 
+translation initiation factor activity: 7 proteins: EIF3B, EIF3C, EIF3D, EIF3H, EIF3J, EIF3K, EIF3M
+protein binding: 7 proteins: EIF3B, EIF3C, EIF3D, EIF3H, EIF3J, EIF3K, EIF3M
+formation of cytoplasmic translation initiation complex: 7 proteins: EIF3B, EIF3C, EIF3D, EIF3H, EIF3J, EIF3K, EIF3M
+translational initiation: 7 proteins: EIF3B, EIF3C, EIF3D, EIF3H, EIF3J, EIF3K, EIF3M
+cytosol: 7 proteins: EIF3B, EIF3C, EIF3D, EIF3H, EIF3J, EIF3K, EIF3M
+eukaryotic translation initiation factor 3 complex: 7 proteins: EIF3B, EIF3C, EIF3D, EIF3H, EIF3J, EIF3K, EIF3M
+eukaryotic 43S preinitiation complex: 7 proteins: EIF3B, EIF3C, EIF3D, EIF3H, EIF3J, EIF3K, EIF3M
+eukaryotic 48S preinitiation complex: 7 proteins: EIF3B, EIF3C, EIF3D, EIF3H, EIF3J, EIF3K, EIF3M
+RNA binding: 5 proteins: EIF3B, EIF3C, EIF3D, EIF3H, EIF3K
+eukaryotic translation initiation factor 3 complex, eIF3m: 4 proteins: EIF3B, EIF3D, EIF3H, EIF3M
+translation initiation factor binding: 3 proteins: EIF3B, EIF3C, EIF3M
+ translational initiation: 3 proteins: EIF3B, EIF3H, EIF3K
+membrane: 3 proteins: EIF3D, EIF3H, EIF3K
+IRES-dependent viral translational initiation: 2 proteins: EIF3B, EIF3D
+viral translational termination-reinitiation: 2 proteins: EIF3B, EIF3D
+synapse: 2 proteins: EIF3B, EIF3D
+extracellular exosome: 2 proteins: EIF3B, EIF3H
+ribosome binding: 2 proteins: EIF3C, EIF3K
+ translation: 2 proteins: EIF3C, EIF3D
+ mRNA binding: 2 proteins: EIF3C, EIF3D

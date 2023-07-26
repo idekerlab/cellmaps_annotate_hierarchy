@@ -1,0 +1,33 @@
+Feature	Number of Genes	Genes
+protein binding	4	DSN1, SPC25, SYCE1, ZFYVE9
+cell division	3	DSN1, SPC25, SYCE1
+cytosol	3	DSN1, SPC25, ZFYVE9
+kinetochore	2	DSN1, SPC25
+mitotic sister chromatid segregation	1	DSN1
+MIS12/MIND type complex	1	DSN1
+fibrillar center	1	DSN1
+extracellular region	1	DSN1
+nucleoplasm	1	DSN1
+nucleolus	1	DSN1
+nuclear body	1	DSN1
+azurophil granule lumen	1	DSN1
+mitotic spindle organization	1	SPC25
+chromosome segregation	1	SPC25
+mitotic spindle assembly checkpoint signaling	1	SPC25
+attachment of spindle microtubules to kinetochore	1	SPC25
+nucleus	1	SPC25
+Ndc80 complex	1	SPC25
+synaptonemal complex assembly	1	SYCE1
+synaptonemal complex	1	SYCE1
+central element	1	SYCE1
+chromosome	1	SYCE1
+1-phosphatidylinositol binding	1	ZFYVE9
+protein domain specific binding	1	ZFYVE9
+metal ion binding	1	ZFYVE9
+endocytosis	1	ZFYVE9
+transforming growth factor beta receptor signaling pathway	1	ZFYVE9
+endosomal transport	1	ZFYVE9
+early endosome	1	ZFYVE9
+early endosome membrane	1	ZFYVE9
+protein-containing complex	1	ZFYVE9
+intracellular membrane-bounded organelle	1	ZFYVE9

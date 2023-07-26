@@ -1,0 +1,103 @@
+Feature	Number of Genes	Genes
+protein binding	5	BAG6, MPG, RAD23A, RAD23B, UBR5
+nucleoplasm	5	BAG6, MPG, RAD23A, RAD23B, UBR5
+cytosol	5	BAG6, MPG, RAD23A, RAD23B, UBR5
+nucleus	4	BAG6, RAD23A, RAD23B, UBR5
+cytoplasm	4	BAG6, BTBD9, RAD23A, UBR5
+polyubiquitin modification-dependent protein binding	3	BAG6, RAD23A, RAD23B
+proteasome binding	3	BAG6, RAD23A, RAD23B
+damaged DNA binding	3	MPG, RAD23A, RAD23B
+ubiquitin binding	3	RAD23A, RAD23B, UBR5
+ubiquitin-specific protease binding	2	BAG6, RAD23A
+spermatogenesis	2	BAG6, RAD23B
+membrane	2	BAG6, UBR5
+intracellular membrane-bounded organelle	2	BAG6, RAD23A
+single-stranded DNA binding	2	RAD23A, RAD23B
+nucleotide-excision repair	2	RAD23A, RAD23B
+ proteasomal ubiquitin-dependent protein catabolic process	2	RAD23A, RAD23B
+proteasome-mediated ubiquitin-dependent protein catabolic process	2	RAD23A, RAD23B
+proteasome complex	2	RAD23A, RAD23B
+protein-containing complex	2	RAD23A, UBR5
+signaling receptor binding	1	BAG6
+Hsp70 protein binding	1	BAG6
+ubiquitin protein ligase binding	1	BAG6
+ribosome binding	1	BAG6
+misfolded protein binding	1	BAG6
+kidney development	1	BAG6
+immune response-activating cell surface receptor signaling pathway	1	BAG6
+chromatin organization	1	BAG6
+ubiquitin-dependent protein catabolic process	1	BAG6
+post-translational protein targeting to endoplasmic reticulum membrane	1	BAG6
+apoptotic process	1	BAG6
+synaptonemal complex assembly	1	BAG6
+brain development	1	BAG6
+proteasomal protein catabolic process	1	BAG6
+internal peptidyl-lysine acetylation	1	BAG6
+natural killer cell activation	1	BAG6
+cell differentiation	1	BAG6
+lung development	1	BAG6
+ubiquitin-dependent ERAD pathway	1	BAG6
+ protein stability	1	BAG6
+negative regulation of proteasomal ubiquitin-dependent protein catabolic process	1	BAG6
+intrinsic apoptotic signaling pathway in response to DNA damage by p53 class mediator	1	BAG6
+negative regulation of apoptotic process	1	BAG6
+negative regulation of proteolysis	1	BAG6
+ embryonic development	1	BAG6
+protein stabilization	1	BAG6
+endoplasmic reticulum stress-induced pre-emptive quality control	1	BAG6
+intrinsic apoptotic signaling pathway in response to endoplasmic reticulum stress	1	BAG6
+ER-associated misfolded protein catabolic process	1	BAG6
+tail-anchored membrane protein insertion into ER membrane	1	BAG6
+ ERAD pathway	1	BAG6
+maintenance of unfolded protein involved in ERAD pathway	1	BAG6
+protein localization to cytosolic proteasome complex involved in ERAD pathway	1	BAG6
+extracellular exosome	1	BAG6
+BAT3 complex	1	BAG6
+alkylbase DNA N-glycosylase activity	1	MPG
+DNA-3-methyladenine glycosylase activity	1	MPG
+DNA N-glycosylase activity	1	MPG
+DNA-7-methylguanine glycosylase activity	1	MPG
+DNA-7-methyladenine glycosylase activity	1	MPG
+DNA-3-methylguanine glycosylase activity	1	MPG
+base-excision repair	1	MPG
+DNA dealkylation involved in DNA repair	1	MPG
+depurination	1	MPG
+mitochondrial nucleoid	1	MPG
+long-term memory	1	BTBD9
+adult locomotory behavior	1	BTBD9
+serotonin metabolic process	1	BTBD9
+circadian sleep/wake cycle, non-REM sleep	1	BTBD9
+circadian behavior	1	BTBD9
+modulation of chemical synaptic transmission	1	BTBD9
+sensory perception of temperature stimulus	1	BTBD9
+multicellular organismal-level iron ion homeostasis	1	BTBD9
+ synaptic vesicle endocytosis	1	BTBD9
+glutamatergic synapse	1	BTBD9
+kinase binding	1	RAD23A
+protein destabilization	1	RAD23A
+ viral genome replication	1	RAD23A
+ cell cycle	1	RAD23A
+Golgi apparatus	1	RAD23A
+RNA polymerase II cis-regulatory region sequence-specific DNA binding	1	RAD23B
+RNA polymerase II-specific DNA-binding transcription factor binding	1	RAD23B
+DNA damage sensor activity	1	RAD23B
+embryonic organ development	1	RAD23B
+cellular response to interleukin-7	1	RAD23B
+XPC complex	1	RAD23B
+RNA binding	1	UBR5
+zinc ion binding	1	UBR5
+ubiquitin-ubiquitin ligase activity	1	UBR5
+ubiquitin protein ligase activity	1	UBR5
+protein polyubiquitination	1	UBR5
+DNA repair	1	UBR5
+DNA damage response	1	UBR5
+ gene expression	1	UBR5
+heterochromatin boundary formation	1	UBR5
+ protein import into nucleus	1	UBR5
+progesterone receptor signaling pathway	1	UBR5
+protein K48-linked ubiquitination	1	UBR5
+ canonical Wnt signaling pathway	1	UBR5
+DNA repair-dependent chromatin remodeling	1	UBR5
+negative regulation of histone H2A K63-linked ubiquitination	1	UBR5
+ double-strand break repair	1	UBR5
+perinuclear region of cytoplasm	1	UBR5

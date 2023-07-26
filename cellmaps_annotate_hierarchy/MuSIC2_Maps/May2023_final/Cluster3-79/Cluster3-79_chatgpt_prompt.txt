@@ -1,0 +1,25 @@
+Your response should be formatted as Markdown paragraphs
+Write a critical and concise analysis of this human protein system, describing your reasoning as you go and providing references to scientific papers.
+
+A critical goal of the analysis is to determine if this is a novel complex or if any proteins are novel members of a known complex
+
+Format with Title, Summary, and References sections.        
+Avoid overly general statements of how the proteins are involved in various cellular processes        
+Avoid repeating the goals of the analysis.
+
+What cellular components and complexes are involved in this system?
+What mechanisms and biological processes are performed by this system?
+Propose a name for the system to reflect the cellular location and function, and should be specific but brief. Do not compose an acronym. Place it as the title of your report
+Human Proteins: VHL, ARL14EP, ATF7IP, SETDB1.
+
+System features from GO terms: 
+protein binding: 4 proteins: VHL, ARL14EP, ATF7IP, SETDB1
+nucleoplasm: 4 proteins: VHL, ARL14EP, ATF7IP, SETDB1
+nucleus: 3 proteins: VHL, ATF7IP, SETDB1
+cytosol: 3 proteins: VHL, ARL14EP, ATF7IP
+DNA-templated transcription: 2 proteins: VHL, ATF7IP
+ DNA-templated transcription: 2 proteins: VHL, ATF7IP
+negative regulation of gene expression: 2 proteins: VHL, SETDB1
+protein stabilization: 2 proteins: VHL, ATF7IP
+intracellular membrane-bounded organelle: 2 proteins: ARL14EP, SETDB1
+ DNA methylation-dependent heterochromatin formation: 2 proteins: ATF7IP, SETDB1

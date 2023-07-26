@@ -1,0 +1,253 @@
+Feature	Number of Genes	Genes
+protein binding	22	USO1, CD99, AGFG1, AKR1A1, BROX, CCDC25, CWF19L1, FAM114A1, GGA1, GORASP2, NUCB2, OSBP, OSBPL11, OSBPL9, PDCD6IP, PPP5C, QNG1, RAB1B, RFK, SNX5, TPK1, UBQLN1
+cytosol	17	USO1, AGFG1, AKR1A1, CRYZ, FAM114A1, GGA1, NUCB2, OSBP, OSBPL11, OSBPL9, PDCD6IP, PPP5C, RAB1B, RFK, SNX5, TPK1, UBQLN1
+Golgi apparatus	9	USO1, FAM114A1, GGA1, GORASP2, NUCB2, OSBP, OSBPL11, OSBPL9, RAB1B
+membrane	7	USO1, GGA1, GORASP2, OSBP, OSBPL11, OSBPL9, PDCD6IP
+intracellular membrane-bounded organelle	7	AGFG1, GGA1, OSBP, OSBPL11, OSBPL9, PPP5C, SNX5
+extracellular exosome	7	AKR1A1, BROX, CRYZ, NUCB2, PDCD6IP, RAB1B, RNPEP
+plasma membrane	6	CD99, CCDC25, NUCB2, PPP5C, RNPEP, UBQLN1
+nucleoplasm	6	FAM114A1, GGA1, OSBP, OSBPL11, PPP5C, UBQLN1
+perinuclear region of cytoplasm	5	USO1, OSBP, RAB1B, SNX5, UBQLN1
+cytoplasm	5	CD99, AGFG1, OSBP, RFK, UBQLN1
+intracellular protein transport	4	USO1, GGA1, RAB1B, SNX5
+Golgi membrane	4	USO1, GORASP2, OSBP, RAB1B
+identical protein binding	4	CRYZ, PPP5C, TPK1, UBQLN1
+RNA binding	3	USO1, AGFG1, PPP5C
+endoplasmic reticulum	3	USO1, NUCB2, UBQLN1
+DNA binding	3	AGFG1, CCDC25, NUCB2
+metal ion binding	3	AGFG1, PPP5C, RFK
+extracellular space	3	AKR1A1, NUCB2, RNPEP
+molecular_function	3	CWF19L1, GGA1, QNG1
+protein-containing complex	3	GGA1, PPP5C, UBQLN1
+endoplasmic reticulum membrane	3	GORASP2, OSBP, RAB1B
+sterol transporter activity	3	OSBP, OSBPL11, OSBPL9
+sterol binding	3	OSBP, OSBPL11, OSBPL9
+sterol transport	3	OSBP, OSBPL11, OSBPL9
+ATP binding	3	PPP5C, RFK, TPK1
+cadherin binding	2	USO1, SNX5
+endoplasmic reticulum to Golgi vesicle-mediated transport	2	USO1, RAB1B
+small GTPase mediated signal transduction	2	USO1, NUCB2
+microtubule organizing center	2	USO1, PDCD6IP
+transport vesicle	2	USO1, RAB1B
+focal adhesion	2	CD99, PDCD6IP
+cytoplasmic vesicle	2	AGFG1, UBQLN1
+nuclear envelope	2	BROX, NUCB2
+endomembrane system	2	CCDC25, RAB1B
+zinc ion binding	2	CRYZ, RNPEP
+biological_process	2	CWF19L1, QNG1
+cellular_component	2	CWF19L1, QNG1
+phosphatidylinositol binding	2	GGA1, SNX5
+retrograde transport, endosome to Golgi	2	GGA1, SNX5
+trans-Golgi network	2	GGA1, OSBP
+Golgi organization	2	GORASP2, RAB1B
+response to endoplasmic reticulum stress	2	GORASP2, UBQLN1
+phosphatidylinositol-4-phosphate binding	2	OSBP, SNX5
+bile acid biosynthetic process	2	OSBP, OSBPL9
+late endosome membrane	2	OSBPL11, OSBPL9
+apoptotic process	2	PDCD6IP, RFK
+endosome	2	PDCD6IP, SNX5
+autophagosome assembly	2	RAB1B, UBQLN1
+phosphorylation	2	RFK, TPK1
+ macroautophagy	2	SNX5, UBQLN1
+secretory granule localization	1	USO1
+transcytosis	1	USO1
+Golgi vesicle docking	1	USO1
+vesicle fusion with Golgi apparatus	1	USO1
+membrane fusion	1	USO1
+ cellular response to insulin stimulus	1	USO1
+fibrillar center	1	USO1
+Golgi stack	1	USO1
+ER to Golgi transport vesicle membrane	1	USO1
+homotypic cell-cell adhesion	1	CD99
+T cell extravasation	1	CD99
+ neutrophil extravasation	1	CD99
+GTPase activator activity	1	AGFG1
+acrosome assembly	1	AGFG1
+mRNA export from nucleus	1	AGFG1
+spermatid nucleus differentiation	1	AGFG1
+intermediate filament organization	1	AGFG1
+nuclear pore	1	AGFG1
+alditol:NADP+ 1-oxidoreductase activity	1	AKR1A1
+aldo-keto reductase (NADP) activity	1	AKR1A1
+NAD-retinol dehydrogenase activity	1	AKR1A1
+oxidoreductase activity, acting on NAD(P)H, nitrogenous group as acceptor	1	AKR1A1
+allyl-alcohol dehydrogenase activity	1	AKR1A1
+L-glucuronate reductase activity	1	AKR1A1
+glucuronolactone reductase activity	1	AKR1A1
+glycerol dehydrogenase [NADP+] activity	1	AKR1A1
+methylglyoxal reductase (NADPH-dependent, acetol producing)	1	AKR1A1
+lipid metabolic process	1	AKR1A1
+glucuronate catabolic process to xylulose 5-phosphate	1	AKR1A1
+L-ascorbic acid biosynthetic process	1	AKR1A1
+D-glucuronate catabolic process	1	AKR1A1
+daunorubicin metabolic process	1	AKR1A1
+doxorubicin metabolic process	1	AKR1A1
+aldehyde catabolic process	1	AKR1A1
+cellular detoxification of aldehyde	1	AKR1A1
+glutathione derivative biosynthetic process	1	AKR1A1
+apical plasma membrane	1	AKR1A1
+synapse	1	AKR1A1
+mitotic nuclear membrane reassembly	1	BROX
+nuclear membrane	1	BROX
+ cell motility	1	CCDC25
+mRNA 3'-UTR binding	1	CRYZ
+NADPH:quinone reductase activity	1	CRYZ
+NADPH binding	1	CRYZ
+NADH binding	1	CRYZ
+visual perception	1	CRYZ
+xenobiotic catabolic process	1	CRYZ
+protein homotetramerization	1	CRYZ
+RNA lariat debranching enzyme activator activity	1	CWF19L1
+mRNA splicing, via spliceosome	1	CWF19L1
+post-mRNA release spliceosomal complex	1	CWF19L1
+small GTPase binding	1	GGA1
+ubiquitin binding	1	GGA1
+Golgi to plasma membrane transport	1	GGA1
+protein localization	1	GGA1
+protein catabolic process	1	GGA1
+protein localization to cell surface	1	GGA1
+Golgi to plasma membrane protein transport	1	GGA1
+ protein catabolic process	1	GGA1
+toxin transport	1	GGA1
+protein localization to ciliary membrane	1	GGA1
+early endosome	1	GGA1
+endosome membrane	1	GGA1
+early endosome membrane	1	GGA1
+organelle organization	1	GORASP2
+spermatogenesis	1	GORASP2
+cell differentiation	1	GORASP2
+establishment of protein localization to plasma membrane	1	GORASP2
+organelle assembly	1	GORASP2
+cis-Golgi network	1	GORASP2
+G-protein alpha-subunit binding	1	NUCB2
+guanyl-nucleotide exchange factor activity	1	NUCB2
+calcium ion binding	1	NUCB2
+endoplasmic reticulum-Golgi intermediate compartment	1	NUCB2
+oxysterol binding	1	OSBP
+protein domain specific binding	1	OSBP
+sterol transfer activity	1	OSBP
+sphingomyelin biosynthetic process	1	OSBP
+phospholipid transport	1	OSBP
+intracellular cholesterol transport	1	OSBP
+ceramide transport	1	OSBP
+ insulin secretion involved in cellular response to glucose stimulus	1	OSBP
+ tyrosine phosphorylation of STAT protein	1	OSBP
+intermembrane lipid transfer	1	OSBP
+ secretory granule organization	1	OSBP
+nucleolus	1	OSBP
+cell junction	1	OSBP
+ sequestering of triglyceride	1	OSBPL11
+fat cell differentiation	1	OSBPL11
+proteinase activated receptor binding	1	PDCD6IP
+protein homodimerization activity	1	PDCD6IP
+calcium-dependent protein binding	1	PDCD6IP
+mitotic cytokinesis	1	PDCD6IP
+actomyosin contractile ring assembly	1	PDCD6IP
+nucleus organization	1	PDCD6IP
+mitotic metaphase plate congression	1	PDCD6IP
+ centrosome duplication	1	PDCD6IP
+protein transport	1	PDCD6IP
+multivesicular body assembly	1	PDCD6IP
+viral budding via host ESCRT complex	1	PDCD6IP
+maintenance of epithelial cell apical/basal polarity	1	PDCD6IP
+viral budding	1	PDCD6IP
+protein homooligomerization	1	PDCD6IP
+midbody abscission	1	PDCD6IP
+bicellular tight junction assembly	1	PDCD6IP
+ membrane permeability	1	PDCD6IP
+ubiquitin-independent protein catabolic process via the multivesicular body sorting pathway	1	PDCD6IP
+ mitotic spindle assembly	1	PDCD6IP
+ exosomal secretion	1	PDCD6IP
+ extracellular exosome assembly	1	PDCD6IP
+immunological synapse	1	PDCD6IP
+bicellular tight junction	1	PDCD6IP
+melanosome	1	PDCD6IP
+actomyosin	1	PDCD6IP
+endoplasmic reticulum exit site	1	PDCD6IP
+Flemming body	1	PDCD6IP
+extracellular vesicle	1	PDCD6IP
+phosphoprotein phosphatase activity	1	PPP5C
+protein serine/threonine phosphatase activity	1	PPP5C
+lipid binding	1	PPP5C
+phosphatase activity	1	PPP5C
+myosin phosphatase activity	1	PPP5C
+ADP binding	1	PPP5C
+tau protein binding	1	PPP5C
+Hsp90 protein binding	1	PPP5C
+molecular adaptor activity	1	PPP5C
+MAPK cascade	1	PPP5C
+mitotic cell cycle	1	PPP5C
+double-strand break repair	1	PPP5C
+DNA-templated transcription	1	PPP5C
+protein dephosphorylation	1	PPP5C
+response to lead ion	1	PPP5C
+peptidyl-threonine dephosphorylation	1	PPP5C
+ I-kappaB kinase/NF-kappaB signaling	1	PPP5C
+response to morphine	1	PPP5C
+peptidyl-serine dephosphorylation	1	PPP5C
+response to arachidonic acid	1	PPP5C
+nucleus	1	PPP5C
+protein folding chaperone complex	1	PPP5C
+nucleoside salvage	1	QNG1
+tRNA-guanine transglycosylation	1	QNG1
+GTPase activity	1	RAB1B
+G protein activity	1	RAB1B
+GTP binding	1	RAB1B
+virion assembly	1	RAB1B
+establishment of endothelial intestinal barrier	1	RAB1B
+ glycoprotein metabolic process	1	RAB1B
+ autophagosome assembly	1	RAB1B
+endoplasmic reticulum-Golgi intermediate compartment membrane	1	RAB1B
+phagophore assembly site membrane	1	RAB1B
+riboflavin kinase activity	1	RFK
+riboflavin metabolic process	1	RFK
+riboflavin biosynthetic process	1	RFK
+FMN biosynthetic process	1	RFK
+ NAD(P)H oxidase activity	1	RFK
+reactive oxygen species metabolic process	1	RFK
+mitochondrion	1	RFK
+aminopeptidase activity	1	RNPEP
+epoxide hydrolase activity	1	RNPEP
+metalloexopeptidase activity	1	RNPEP
+metalloaminopeptidase activity	1	RNPEP
+proteolysis	1	RNPEP
+extracellular region	1	RNPEP
+phosphatidylinositol-5-phosphate binding	1	SNX5
+D1 dopamine receptor binding	1	SNX5
+dynactin binding	1	SNX5
+phosphatidylinositol-3,5-bisphosphate binding	1	SNX5
+pinocytosis	1	SNX5
+epidermal growth factor catabolic process	1	SNX5
+ renal sodium excretion	1	SNX5
+negative regulation of blood pressure	1	SNX5
+ DNA-templated transcription	1	SNX5
+ insulin receptor signaling pathway	1	SNX5
+ruffle	1	SNX5
+phagocytic cup	1	SNX5
+brush border	1	SNX5
+cytoplasmic side of plasma membrane	1	SNX5
+retromer complex	1	SNX5
+retromer, tubulation complex	1	SNX5
+macropinocytic cup	1	SNX5
+tubular endosome	1	SNX5
+cytoplasmic side of early endosome membrane	1	SNX5
+thiamine diphosphokinase activity	1	TPK1
+kinase activity	1	TPK1
+thiamine binding	1	TPK1
+thiamine metabolic process	1	TPK1
+thiamine diphosphate biosynthetic process	1	TPK1
+kinase binding	1	UBQLN1
+polyubiquitin modification-dependent protein binding	1	UBQLN1
+macroautophagy	1	UBQLN1
+ubiquitin-dependent ERAD pathway	1	UBQLN1
+ protein ubiquitination	1	UBQLN1
+negative regulation of toll-like receptor 3 signaling pathway	1	UBQLN1
+aggrephagy	1	UBQLN1
+cellular response to hypoxia	1	UBQLN1
+autophagosome maturation	1	UBQLN1
+negative regulation of store-operated calcium channel activity	1	UBQLN1
+ oxidative stress-induced intrinsic apoptotic signaling pathway	1	UBQLN1
+ ER-associated ubiquitin-dependent protein catabolic process	1	UBQLN1
+proteasome complex	1	UBQLN1
+autophagosome	1	UBQLN1
+aggresome	1	UBQLN1

@@ -1,0 +1,21 @@
+Title: Cytoplasmic Protein Interaction Network: GPT2, ANKRD52, EIF4E2, KIAA0232, NFKB1, RSAD1, TM2D3
+
+Summary:
+
+The system of proteins GPT2, ANKRD52, EIF4E2, KIAA0232, NFKB1, RSAD1, and TM2D3 is a potential novel protein complex involved in various cellular processes. The proteins are physically close to each other and/or interact with each other, and are predominantly localized in the cytoplasm and mitochondria. The system is involved in protein binding, translation initiation, and immune response regulation. The proposed name for this system is "Cytoplasmic Protein Interaction Network," reflecting its function and location.
+
+The cellular components and complexes involved in this system include the cytoplasm, cytosol, and mitochondria. Three proteins (EIF4E2, NFKB1, and RSAD1) are localized in the cytoplasm, while two proteins (EIF4E2 and NFKB1) are found in the cytosol. Additionally, two proteins (NFKB1 and RSAD1) are found in the mitochondria.
+
+The mechanisms and biological processes performed by this system are diverse. ANKRD52, EIF4E2, and NFKB1 are involved in protein binding, which is essential for various cellular processes (1). EIF4E2 is a translation initiation factor that plays a role in mRNA translation and ribosome assembly (2). NFKB1 is a transcription factor that regulates immune response, cell growth, and apoptosis (3). RSAD1 is an antiviral protein that inhibits viral replication (4). The functions of GPT2, KIAA0232, and TM2D3 are less well-characterized, but they may play roles in metabolic processes, protein-protein interactions, and signal transduction, respectively.
+
+Based on the analysis, it is possible that this system represents a novel protein complex or that some proteins are novel members of a known complex. Further experimental validation is required to confirm the existence and function of this protein interaction network.
+
+References:
+
+1. Stelzl U, Worm U, Lalowski M, et al. A human protein-protein interaction network: a resource for annotating the proteome. Cell. 2005 Sep 23;122(6):957-68. [PubMed](https://pubmed.ncbi.nlm.nih.gov/16169070/)
+
+2. Joshi B, Cameron A, Jagus R. Characterization of mammalian eIF4E-family members. Eur J Biochem. 2004 Jun;271(11):2189-203. [PubMed](https://pubmed.ncbi.nlm.nih.gov/15153109/)
+
+3. Hayden MS, Ghosh S. Shared principles in NF-kappaB signaling. Cell. 2008 Feb 8;132(3):344-62. [PubMed](https://pubmed.ncbi.nlm.nih.gov/18267068/)
+
+4. Zhao C, Denison C, Huibregtse JM, Gygi S, Krug RM. Human ISG15 conjugation targets both IFN-induced and constitutively expressed proteins functioning in diverse cellular pathways. Proc Natl Acad Sci U S A. 2005 Jul 26;102(30):10200-5. [PubMed](https://pubmed.ncbi.nlm.nih.gov/16009939/)

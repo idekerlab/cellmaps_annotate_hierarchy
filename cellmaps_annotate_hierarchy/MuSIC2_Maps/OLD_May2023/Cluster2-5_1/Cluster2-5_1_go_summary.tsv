@@ -1,0 +1,408 @@
+Feature	Number of Genes	Genes
+protein binding	22	ACOT2, AKR7A2, AKR7A3, ARG2, BID, CPNE3, DCPS, ECHS1, ECI2, FH, GCLM, ICAM3, MPST, PPIF, RAB14, RAB7A, SPRYD4, TAGLN, UCHL3, LMO4, RBP1, GCA
+mitochondrion	21	ACO2, ACOT2, AKR7A2, ARG2, BID, CPNE3, CPOX, DCPS, DDX28, ECHS1, ECI2, FH, GPD2, HADH, HIBCH, IARS2, MPST, OXCT1, PPA2, PPIF, RAB7A
+cytosol	21	ACO2, ACOT2, AKR7A2, AKR7A3, BID, CPNE3, CPOX, DCPS, DDX28, ECI2, FH, GALE, GCLM, MPST, NLN, PPCS, RAB14, RAB7A, UCHL3, RBP1, GCA
+cytoplasm	13	AKR7A2, AKR7A3, ARG2, CPNE3, CPOX, DCPS, FH, HADH, PPCS, PPIF, TAGLN, UCHL3, GCA
+mitochondrial matrix	12	ACO2, ACOT2, ARG2, ECHS1, FH, HADH, HIBCH, IARS2, MPST, OXCT1, PPA2, PPIF
+extracellular exosome	10	AKR7A2, AKR7A3, CPNE3, FH, GAA, ICAM3, MPST, RAB14, RAB7A, GCA
+identical protein binding	7	AKR7A3, DCPS, GALE, HADH, MPST, OXCT1, PPCS
+plasma membrane	7	CPNE3, GAA, ICAM3, NLN, RAB14, RAB7A, GCA
+nucleus	6	CPNE3, DCPS, FH, PPCS, SPRYD4, RBP1
+nucleoplasm	6	CPNE3, DCPS, DDX28, HADH, UCHL3, RBP1
+membrane	4	BID, ECI2, GAA, PPIF
+protein homodimerization activity	4	CPOX, GALE, PPCS, GCA
+Golgi apparatus	3	AKR7A2, AKR7A3, RAB7A
+apoptotic mitochondrial changes	3	BID, GCLM, PPIF
+metal ion binding	3	CPNE3, NLN, LMO4
+ATP binding	3	DDX28, IARS2, PPCS
+fatty acid beta-oxidation	3	ECHS1, ECI2, HADH
+intracellular membrane-bounded organelle	3	ECI2, GAA, RAB14
+lysosome	3	GAA, RAB14, RAB7A
+lysosomal membrane	3	GAA, RAB14, RAB7A
+response to xenobiotic stimulus	3	GCLM, HADH, OXCT1
+response to activity	3	GCLM, HADH, OXCT1
+liver development	2	ACO2, MPST
+tricarboxylic acid cycle	2	ACO2, FH
+peroxisomal matrix	2	ACOT2, ECI2
+aldo-keto reductase (NADP) activity	2	AKR7A2, AKR7A3
+electron transfer activity	2	AKR7A2, AKR7A3
+cellular aldehyde metabolic process	2	AKR7A2, AKR7A3
+electron transport chain	2	AKR7A2, AKR7A3
+positive regulation of release of cytochrome c from mitochondria	2	BID, PPIF
+RNA binding	2	CPNE3, DDX28
+cellular response to calcium ion	2	CPNE3, PPIF
+nucleolus	2	CPNE3, DDX28
+azurophil granule membrane	2	CPNE3, GAA
+mitochondrial inner membrane	2	CPOX, GPD2
+mitochondrial intermembrane space	2	CPOX, NLN
+delta(3)-delta(2)-enoyl-CoA isomerase activity	2	ECHS1, ECI2
+branched-chain amino acid catabolic process	2	ECHS1, HIBCH
+positive regulation of cold-induced thermogenesis	2	FH, HADH
+tertiary granule membrane	2	GAA, RAB14
+response to nutrient	2	GCLM, OXCT1
+calcium ion binding	2	GPD2, GCA
+synapse	2	MPST, PPA2
+extracellular region	2	NLN, GCA
+GTPase activity	2	RAB14, RAB7A
+GTP binding	2	RAB14, RAB7A
+GDP binding	2	RAB14, RAB7A
+intracellular transport	2	RAB14, RAB7A
+phagosome maturation	2	RAB14, RAB7A
+late endosome	2	RAB14, RAB7A
+phagocytic vesicle	2	RAB14, RAB7A
+lipid droplet	2	RAB7A, RBP1
+aconitate hydratase activity	1	ACO2
+iron ion binding	1	ACO2
+citrate dehydratase activity	1	ACO2
+3 iron, 4 sulfur cluster binding	1	ACO2
+4 iron, 4 sulfur cluster binding	1	ACO2
+generation of precursor metabolites and energy	1	ACO2
+citrate metabolic process	1	ACO2
+isocitrate metabolic process	1	ACO2
+response to isolation stress	1	ACO2
+palmitoyl-CoA hydrolase activity	1	ACOT2
+acyl-CoA hydrolase activity	1	ACOT2
+carboxylic ester hydrolase activity	1	ACOT2
+myristoyl-CoA hydrolase activity	1	ACOT2
+very long-chain fatty acid metabolic process	1	ACOT2
+long-chain fatty acid metabolic process	1	ACOT2
+fatty acid metabolic process	1	ACOT2
+acyl-CoA metabolic process	1	ACOT2
+alditol:NADP+ 1-oxidoreductase activity	1	AKR7A2
+phenanthrene-9,10-epoxide hydrolase activity	1	AKR7A2
+carbohydrate metabolic process	1	AKR7A2
+lipid metabolic process	1	AKR7A2
+daunorubicin metabolic process	1	AKR7A2
+doxorubicin metabolic process	1	AKR7A2
+aflatoxin catabolic process	1	AKR7A3
+arginase activity	1	ARG2
+manganese ion binding	1	ARG2
+urea cycle	1	ARG2
+ureteric bud development	1	ARG2
+adaptive immune response	1	ARG2
+negative regulation of type 2 immune response	1	ARG2
+nitric oxide biosynthetic process	1	ARG2
+striated muscle contraction	1	ARG2
+arginine catabolic process to ornithine	1	ARG2
+regulation of interleukin-1 beta production	1	ARG2
+negative regulation of interleukin-13 production	1	ARG2
+negative regulation of interleukin-17 production	1	ARG2
+negative regulation of tumor necrosis factor production	1	ARG2
+innate immune response	1	ARG2
+negative regulation of macrophage inflammatory protein 1 alpha production	1	ARG2
+negative regulation of chemokine (C-C motif) ligand 4 production	1	ARG2
+negative regulation of chemokine (C-C motif) ligand 5 production	1	ARG2
+negative regulation of defense response to bacterium	1	ARG2
+regulation of reactive oxygen species biosynthetic process	1	ARG2
+negative regulation of activated CD8-positive, alpha-beta T cell apoptotic process	1	ARG2
+negative regulation of CD4-positive, alpha-beta T cell proliferation	1	ARG2
+positive regulation of cellular senescence	1	ARG2
+death receptor binding	1	BID
+ubiquitin protein ligase binding	1	BID
+release of cytochrome c from mitochondria	1	BID
+protein targeting to mitochondrion	1	BID
+activation of cysteine-type endopeptidase activity involved in apoptotic process	1	BID
+extrinsic apoptotic signaling pathway via death domain receptors	1	BID
+positive regulation of mitochondrial membrane potential	1	BID
+positive regulation of protein-containing complex assembly	1	BID
+regulation of T cell proliferation	1	BID
+signal transduction in response to DNA damage	1	BID
+mitochondrial ATP synthesis coupled electron transport	1	BID
+positive regulation of apoptotic process	1	BID
+regulation of epithelial cell proliferation	1	BID
+neuron apoptotic process	1	BID
+protein-containing complex assembly	1	BID
+establishment of protein localization to membrane	1	BID
+hepatocyte apoptotic process	1	BID
+mitochondrial outer membrane permeabilization	1	BID
+supramolecular fiber organization	1	BID
+negative regulation of intrinsic apoptotic signaling pathway in response to DNA damage	1	BID
+regulation of G1/S transition of mitotic cell cycle	1	BID
+positive regulation of fibroblast apoptotic process	1	BID
+positive regulation of extrinsic apoptotic signaling pathway	1	BID
+positive regulation of intrinsic apoptotic signaling pathway	1	BID
+mitochondrial outer membrane	1	BID
+protein serine/threonine kinase activity	1	CPNE3
+calcium-dependent phospholipid binding	1	CPNE3
+receptor tyrosine kinase binding	1	CPNE3
+calcium-dependent protein binding	1	CPNE3
+positive regulation of cell migration	1	CPNE3
+ERBB2 signaling pathway	1	CPNE3
+cellular response to growth factor stimulus	1	CPNE3
+focal adhesion	1	CPNE3
+cell junction	1	CPNE3
+coproporphyrinogen oxidase activity	1	CPOX
+structural constituent of eye lens	1	CPOX
+protoporphyrinogen IX biosynthetic process	1	CPOX
+heme biosynthetic process	1	CPOX
+response to iron ion	1	CPOX
+response to lead ion	1	CPOX
+response to insecticide	1	CPOX
+response to arsenic-containing substance	1	CPOX
+response to methylmercury	1	CPOX
+RNA 7-methylguanosine cap binding	1	DCPS
+RNA exonuclease activity	1	DCPS
+5'-(N(7)-methyl 5'-triphosphoguanosine)-[mRNA] diphosphatase activity	1	DCPS
+nuclear-transcribed mRNA catabolic process, deadenylation-dependent decay	1	DCPS
+deadenylation-dependent decapping of nuclear-transcribed mRNA	1	DCPS
+exonucleolytic catabolism of deadenylated mRNA	1	DCPS
+mRNA cis splicing, via spliceosome	1	DCPS
+RNA phosphodiester bond hydrolysis, exonucleolytic	1	DCPS
+methylguanosine-cap decapping	1	DCPS
+P-body	1	DCPS
+RNA helicase activity	1	DDX28
+ATP hydrolysis activity	1	DDX28
+rRNA binding	1	DDX28
+mitochondrial large ribosomal subunit assembly	1	DDX28
+ribonucleoprotein granule	1	DDX28
+mitochondrial nucleoid	1	DDX28
+enoyl-CoA hydratase activity	1	ECHS1
+3-hydroxypropionyl-CoA dehydratase activity	1	ECHS1
+crotonyl-CoA hydratase activity	1	ECHS1
+fatty-acyl-CoA binding	1	ECI2
+peroxisome	1	ECI2
+fumarate hydratase activity	1	FH
+fumarate metabolic process	1	FH
+malate metabolic process	1	FH
+DNA repair	1	FH
+homeostasis of number of cells within a tissue	1	FH
+chromosome	1	FH
+tricarboxylic acid cycle enzyme complex	1	FH
+alpha-1,4-glucosidase activity	1	GAA
+carbohydrate binding	1	GAA
+maltose alpha-glucosidase activity	1	GAA
+alpha-glucosidase activity	1	GAA
+maltose metabolic process	1	GAA
+regulation of the force of heart contraction	1	GAA
+diaphragm contraction	1	GAA
+heart morphogenesis	1	GAA
+glycogen catabolic process	1	GAA
+sucrose metabolic process	1	GAA
+glucose metabolic process	1	GAA
+lysosome organization	1	GAA
+locomotory behavior	1	GAA
+tissue development	1	GAA
+aorta development	1	GAA
+vacuolar sequestering	1	GAA
+muscle cell cellular homeostasis	1	GAA
+neuromuscular process controlling posture	1	GAA
+neuromuscular process controlling balance	1	GAA
+cardiac muscle contraction	1	GAA
+glycophagy	1	GAA
+lysosomal lumen	1	GAA
+ficolin-1-rich granule membrane	1	GAA
+autolysosome lumen	1	GAA
+UDP-N-acetylglucosamine 4-epimerase activity	1	GALE
+UDP-glucose 4-epimerase activity	1	GALE
+galactose catabolic process	1	GALE
+galactose catabolic process via UDP-galactose	1	GALE
+glutamate-cysteine ligase activity	1	GCLM
+enzyme regulator activity	1	GCLM
+glutamate-cysteine ligase catalytic subunit binding	1	GCLM
+protein-containing complex binding	1	GCLM
+cysteine metabolic process	1	GCLM
+glutamate metabolic process	1	GCLM
+glutathione biosynthetic process	1	GCLM
+response to oxidative stress	1	GCLM
+positive regulation of glutamate-cysteine ligase activity	1	GCLM
+cellular response to hepatocyte growth factor stimulus	1	GCLM
+hepatic stellate cell activation	1	GCLM
+negative regulation of neuron apoptotic process	1	GCLM
+cellular response to fibroblast growth factor stimulus	1	GCLM
+response to human chorionic gonadotropin	1	GCLM
+response to nitrosative stress	1	GCLM
+regulation of mitochondrial depolarization	1	GCLM
+cellular response to glucose stimulus	1	GCLM
+cellular response to follicle-stimulating hormone stimulus	1	GCLM
+cellular response to thyroxine stimulus	1	GCLM
+blood vessel diameter maintenance	1	GCLM
+cellular response to leukemia inhibitory factor	1	GCLM
+negative regulation of extrinsic apoptotic signaling pathway	1	GCLM
+glutamate-cysteine ligase complex	1	GCLM
+glycerol-3-phosphate dehydrogenase (quinone) activity	1	GPD2
+sn-glycerol-3-phosphate:ubiquinone-8 oxidoreductase activity	1	GPD2
+glycerol-3-phosphate metabolic process	1	GPD2
+glycerophosphate shuttle	1	GPD2
+glycerol catabolic process	1	GPD2
+glycerol-3-phosphate dehydrogenase complex	1	GPD2
+3-hydroxyacyl-CoA dehydrogenase activity	1	HADH
+transferase activity	1	HADH
+NAD+ binding	1	HADH
+response to insulin	1	HADH
+negative regulation of insulin secretion	1	HADH
+regulation of insulin secretion	1	HADH
+3-hydroxyisobutyryl-CoA hydrolase activity	1	HIBCH
+valine catabolic process	1	HIBCH
+tRNA binding	1	IARS2
+aminoacyl-tRNA editing activity	1	IARS2
+isoleucine-tRNA ligase activity	1	IARS2
+tRNA aminoacylation for protein translation	1	IARS2
+isoleucyl-tRNA aminoacylation	1	IARS2
+mitochondrial translation	1	IARS2
+aminoacyl-tRNA metabolism involved in translational fidelity	1	IARS2
+signaling receptor binding	1	ICAM3
+integrin binding	1	ICAM3
+phagocytosis	1	ICAM3
+cell adhesion	1	ICAM3
+cell-cell adhesion	1	ICAM3
+thiosulfate sulfurtransferase activity	1	MPST
+3-mercaptopyruvate sulfurtransferase activity	1	MPST
+sulfur amino acid catabolic process	1	MPST
+kidney development	1	MPST
+cyanate catabolic process	1	MPST
+response to toxic substance	1	MPST
+transsulfuration	1	MPST
+spinal cord development	1	MPST
+hydrogen sulfide biosynthetic process	1	MPST
+neuron projection	1	MPST
+metalloendopeptidase activity	1	NLN
+peptide binding	1	NLN
+regulation of gluconeogenesis	1	NLN
+proteolysis	1	NLN
+peptide metabolic process	1	NLN
+G protein-coupled receptor signaling pathway	1	NLN
+regulation of skeletal muscle fiber differentiation	1	NLN
+succinyl-CoA:3-oxo-acid CoA-transferase activity	1	OXCT1
+brain development	1	OXCT1
+heart development	1	OXCT1
+response to hormone	1	OXCT1
+positive regulation of insulin secretion involved in cellular response to glucose stimulus	1	OXCT1
+ketone catabolic process	1	OXCT1
+response to starvation	1	OXCT1
+response to ethanol	1	OXCT1
+cellular ketone body metabolic process	1	OXCT1
+ketone body catabolic process	1	OXCT1
+adipose tissue development	1	OXCT1
+magnesium ion binding	1	PPA2
+inorganic diphosphate phosphatase activity	1	PPA2
+protein serine/threonine phosphatase activity	1	PPA2
+phosphate-containing compound metabolic process	1	PPA2
+regulation of mitochondrial membrane potential	1	PPA2
+diphosphate metabolic process	1	PPA2
+phosphopantothenate--cysteine ligase activity	1	PPCS
+heart process	1	PPCS
+acetyl-CoA biosynthetic process	1	PPCS
+coenzyme A biosynthetic process	1	PPCS
+peptidyl-prolyl cis-trans isomerase activity	1	PPIF
+cyclosporin A binding	1	PPIF
+protein peptidyl-prolyl isomerization	1	PPIF
+response to ischemia	1	PPIF
+protein folding	1	PPIF
+regulation of proton-transporting ATPase activity, rotational mechanism	1	PPIF
+regulation of necrotic cell death	1	PPIF
+negative regulation of ATP-dependent activity	1	PPIF
+negative regulation of apoptotic process	1	PPIF
+regulation of mitochondrial membrane permeability	1	PPIF
+necroptotic process	1	PPIF
+cellular response to hydrogen peroxide	1	PPIF
+cellular response to arsenic-containing substance	1	PPIF
+negative regulation of release of cytochrome c from mitochondria	1	PPIF
+negative regulation of oxidative phosphorylation	1	PPIF
+regulation of mitochondrial membrane permeability involved in programmed necrotic cell death	1	PPIF
+mitochondrial outer membrane permeabilization involved in programmed cell death	1	PPIF
+negative regulation of oxidative phosphorylation uncoupler activity	1	PPIF
+negative regulation of intrinsic apoptotic signaling pathway	1	PPIF
+mitochondrial permeability transition pore complex	1	PPIF
+myosin V binding	1	RAB14
+intracellular protein transport	1	RAB14
+Golgi to endosome transport	1	RAB14
+fibroblast growth factor receptor signaling pathway	1	RAB14
+vesicle-mediated transport	1	RAB14
+endocytic recycling	1	RAB14
+regulation of protein localization	1	RAB14
+defense response to bacterium	1	RAB14
+regulation of embryonic development	1	RAB14
+phagolysosome assembly involved in apoptotic cell clearance	1	RAB14
+Golgi membrane	1	RAB14
+early endosome	1	RAB14
+rough endoplasmic reticulum	1	RAB14
+Golgi stack	1	RAB14
+trans-Golgi network	1	RAB14
+cilium	1	RAB14
+endomembrane system	1	RAB14
+trans-Golgi network transport vesicle	1	RAB14
+early endosome membrane	1	RAB14
+nuclear outer membrane-endoplasmic reticulum membrane network	1	RAB14
+perinuclear region of cytoplasm	1	RAB14
+recycling endosome	1	RAB14
+recycling endosome membrane	1	RAB14
+G protein activity	1	RAB7A
+small GTPase binding	1	RAB7A
+retromer complex binding	1	RAB7A
+autophagosome assembly	1	RAB7A
+protein targeting to lysosome	1	RAB7A
+endocytosis	1	RAB7A
+epidermal growth factor catabolic process	1	RAB7A
+endosome to lysosome transport	1	RAB7A
+response to bacterium	1	RAB7A
+protein transport	1	RAB7A
+lipid catabolic process	1	RAB7A
+viral release from host cell	1	RAB7A
+protein to membrane docking	1	RAB7A
+retrograde transport, endosome to Golgi	1	RAB7A
+early endosome to late endosome transport	1	RAB7A
+bone resorption	1	RAB7A
+positive regulation of protein catabolic process	1	RAB7A
+positive regulation of viral process	1	RAB7A
+establishment of vesicle localization	1	RAB7A
+lipophagy	1	RAB7A
+phagosome acidification	1	RAB7A
+phagosome-lysosome fusion	1	RAB7A
+endosome to plasma membrane protein transport	1	RAB7A
+negative regulation of exosomal secretion	1	RAB7A
+positive regulation of exosomal secretion	1	RAB7A
+negative regulation of intralumenal vesicle formation	1	RAB7A
+autophagosome membrane	1	RAB7A
+endosome membrane	1	RAB7A
+secretory granule membrane	1	RAB7A
+phagocytic vesicle membrane	1	RAB7A
+synaptic vesicle membrane	1	RAB7A
+late endosome membrane	1	RAB7A
+mitochondrial membrane	1	RAB7A
+melanosome membrane	1	RAB7A
+phagophore assembly site membrane	1	RAB7A
+alveolar lamellar body	1	RAB7A
+molecular_function	1	SPRYD4
+biological_process	1	SPRYD4
+actin binding	1	TAGLN
+muscle organ development	1	TAGLN
+epithelial cell differentiation	1	TAGLN
+cysteine-type deubiquitinase activity	1	UCHL3
+peptidase activity	1	UCHL3
+deNEDDylase activity	1	UCHL3
+ubiquitin binding	1	UCHL3
+ubiquitin-dependent protein catabolic process	1	UCHL3
+protein ubiquitination	1	UCHL3
+protein deubiquitination	1	UCHL3
+protein catabolic process	1	UCHL3
+post-translational protein modification	1	UCHL3
+transcription corepressor activity	1	LMO4
+DNA-binding transcription factor binding	1	LMO4
+negative regulation of transcription by RNA polymerase II	1	LMO4
+neural tube closure	1	LMO4
+ventricular septum development	1	LMO4
+motor neuron axon guidance	1	LMO4
+ventral spinal cord interneuron differentiation	1	LMO4
+spinal cord motor neuron cell fate specification	1	LMO4
+spinal cord association neuron differentiation	1	LMO4
+regulation of cell migration	1	LMO4
+negative regulation of protein-containing complex assembly	1	LMO4
+positive regulation of kinase activity	1	LMO4
+regulation of cell fate specification	1	LMO4
+positive regulation of transcription by RNA polymerase II	1	LMO4
+thymus development	1	LMO4
+regulation of cell activation	1	LMO4
+transcription regulator complex	1	LMO4
+cell leading edge	1	LMO4
+RNA polymerase II transcription regulator complex	1	LMO4
+retinoid binding	1	RBP1
+fatty acid binding	1	RBP1
+retinal binding	1	RBP1
+all-trans-retinol binding	1	RBP1
+retinoic acid biosynthetic process	1	RBP1
+vitamin A metabolic process	1	RBP1
+fatty acid transport	1	RBP1
+lipid homeostasis	1	RBP1
+protein heterodimerization activity	1	GCA
+membrane fusion	1	GCA
+azurophil granule lumen	1	GCA

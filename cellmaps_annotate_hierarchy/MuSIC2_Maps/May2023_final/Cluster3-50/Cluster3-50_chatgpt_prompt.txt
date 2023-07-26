@@ -1,0 +1,26 @@
+Your response should be formatted as Markdown paragraphs
+Write a critical and concise analysis of this human protein system, describing your reasoning as you go and providing references to scientific papers.
+
+A critical goal of the analysis is to determine if this is a novel complex or if any proteins are novel members of a known complex
+
+Format with Title, Summary, and References sections.        
+Avoid overly general statements of how the proteins are involved in various cellular processes        
+Avoid repeating the goals of the analysis.
+
+What cellular components and complexes are involved in this system?
+What mechanisms and biological processes are performed by this system?
+Propose a name for the system to reflect the cellular location and function, and should be specific but brief. Do not compose an acronym. Place it as the title of your report
+Human Proteins: AIFM1, COX7A2L, GFER, HTRA2, MIX23, PDHA1, STK38, UQCRC1.
+
+System features from GO terms: 
+mitochondrion: 7 proteins: AIFM1, COX7A2L, GFER, HTRA2, MIX23, PDHA1, UQCRC1
+protein binding: 6 proteins: AIFM1, GFER, HTRA2, PDHA1, STK38, UQCRC1
+nucleus: 4 proteins: AIFM1, HTRA2, PDHA1, STK38
+mitochondrial intermembrane space: 4 proteins: AIFM1, GFER, HTRA2, MIX23
+cytosol: 4 proteins: AIFM1, GFER, HTRA2, STK38
+mitochondrial inner membrane: 3 proteins: AIFM1, COX7A2L, UQCRC1
+ apoptotic process: 2 proteins: AIFM1, HTRA2
+cytoplasm: 2 proteins: AIFM1, STK38
+proton transmembrane transport: 2 proteins: COX7A2L, UQCRC1
+nucleolus: 2 proteins: COX7A2L, PDHA1
+mitochondrial respirasome: 2 proteins: COX7A2L, UQCRC1

@@ -1,0 +1,265 @@
+Feature	Number of Genes	Genes
+protein binding	11	MALT1, CTPS2, CHP1, CTPS1, DNAAF2, HMGB1, MEIS2, PBX1, PBX2, SPIDR, SWSAP1
+nucleus	9	MALT1, CHP1, HMGB1, MEIS2, PBX1, PBX2, PBX3, SWSAP1, ZSCAN20
+cytoplasm	6	MALT1, CTPS2, CHP1, CTPS1, DNAAF2, PBX1
+ transcription by RNA polymerase II	6	HMGB1, MEIS2, PBX1, PBX2, PBX3, ZSCAN20
+RNA polymerase II cis-regulatory region sequence-specific DNA binding	5	MEIS2, PBX1, PBX2, PBX3, ZSCAN20
+DNA-binding transcription factor activity, RNA polymerase II-specific	5	MEIS2, PBX1, PBX2, PBX3, ZSCAN20
+cytosol	4	MALT1, CTPS2, CTPS1, DNAAF2
+DNA-binding transcription activator activity, RNA polymerase II-specific	4	MEIS2, PBX1, PBX2, PBX3
+eye development	4	MEIS2, PBX1, PBX2, PBX3
+brain development	4	MEIS2, PBX1, PBX2, PBX3
+animal organ morphogenesis	4	MEIS2, PBX1, PBX2, PBX3
+chromatin	4	MEIS2, PBX1, PBX2, PBX3
+identical protein binding	3	MALT1, CTPS2, CTPS1
+protein stabilization	3	CHP1, DNAAF2, SWSAP1
+DNA-binding transcription factor binding	3	HMGB1, PBX1, PBX2
+nucleoplasm	3	HMGB1, PBX1, SPIDR
+embryonic organ development	3	PBX1, PBX2, PBX3
+neuron development	3	PBX1, PBX2, PBX3
+T cell proliferation	2	MALT1, CTPS1
+ apoptotic process	2	MALT1, HMGB1
+ cysteine-type endopeptidase activity involved in apoptotic process	2	MALT1, HMGB1
+innate immune response	2	MALT1, HMGB1
+perinuclear region of cytoplasm	2	MALT1, MEIS2
+CTP synthase activity	2	CTPS2, CTPS1
+ATP binding	2	CTPS2, CTPS1
+CTP biosynthetic process	2	CTPS2, CTPS1
+glutamine metabolic process	2	CTPS2, CTPS1
+pyrimidine nucleobase biosynthetic process	2	CTPS2, CTPS1
+'de novo' CTP biosynthetic process	2	CTPS2, CTPS1
+cytoophidium	2	CTPS2, CTPS1
+endoplasmic reticulum	2	CHP1, HMGB1
+endoplasmic reticulum-Golgi intermediate compartment	2	CHP1, HMGB1
+plasma membrane	2	CHP1, CPNE5
+extracellular exosome	2	CHP1, CPNE5
+metal ion binding	2	CPNE5, ZSCAN20
+extracellular region	2	DNAAF2, HMGB1
+transcription cis-regulatory region binding	2	HMGB1, PBX1
+single-stranded DNA binding	2	HMGB1, SWSAP1
+negative regulation of transcription by RNA polymerase II	2	HMGB1, MEIS2
+DNA binding	2	MEIS2, PBX1
+sequence-specific double-stranded DNA binding	2	MEIS2, PBX1
+RNA polymerase II transcription regulatory region sequence-specific DNA binding	2	PBX1, PBX2
+proximal/distal pattern formation	2	PBX1, PBX2
+embryonic limb morphogenesis	2	PBX1, PBX2
+transcription regulator complex	2	PBX2, PBX3
+double-strand break repair via homologous recombination	2	SPIDR, SWSAP1
+protease binding	1	MALT1
+endopeptidase activity	1	MALT1
+cysteine-type endopeptidase activity	1	MALT1
+ubiquitin-protein transferase activity	1	MALT1
+peptidase activity	1	MALT1
+kinase activator activity	1	MALT1
+small molecule binding	1	MALT1
+protein self-association	1	MALT1
+B-1 B cell differentiation	1	MALT1
+ T cell cytokine production	1	MALT1
+proteolysis	1	MALT1
+defense response	1	MALT1
+activation of NF-kappaB-inducing kinase activity	1	MALT1
+response to fungus	1	MALT1
+ protein ubiquitination	1	MALT1
+lipopolysaccharide-mediated signaling pathway	1	MALT1
+ interleukin-1 beta production	1	MALT1
+ interleukin-2 production	1	MALT1
+B cell activation	1	MALT1
+negative regulation of apoptotic process	1	MALT1
+ I-kappaB kinase/NF-kappaB signaling	1	MALT1
+T cell receptor signaling pathway	1	MALT1
+ T cell receptor signaling pathway	1	MALT1
+ NF-kappaB transcription factor activity	1	MALT1
+nuclear export	1	MALT1
+proteolysis involved in protein catabolic process	1	MALT1
+ T-helper 17 cell differentiation	1	MALT1
+fibrillar center	1	MALT1
+polkadots	1	MALT1
+CBM complex	1	MALT1
+protein-containing complex	1	MALT1
+pyrimidine nucleotide metabolic process	1	CTPS2
+protein kinase inhibitor activity	1	CHP1
+calcium ion binding	1	CHP1
+microtubule binding	1	CHP1
+sodium:proton antiporter activity	1	CHP1
+potassium channel regulator activity	1	CHP1
+kinase binding	1	CHP1
+calcium-dependent protein binding	1	CHP1
+microtubule bundle formation	1	CHP1
+negative regulation of protein phosphorylation	1	CHP1
+negative regulation of protein kinase activity	1	CHP1
+protein export from nucleus	1	CHP1
+potassium ion transport	1	CHP1
+small GTPase mediated signal transduction	1	CHP1
+negative regulation of phosphatase activity	1	CHP1
+membrane docking	1	CHP1
+cytoplasmic microtubule organization	1	CHP1
+negative regulation of protein ubiquitination	1	CHP1
+negative regulation of protein autophosphorylation	1	CHP1
+negative regulation of NF-kappaB transcription factor activity	1	CHP1
+ sodium:proton antiporter activity	1	CHP1
+sodium ion transmembrane transport	1	CHP1
+negative regulation of protein import into nucleus	1	CHP1
+ protein transport	1	CHP1
+ intracellular pH	1	CHP1
+ protein glycosylation	1	CHP1
+membrane organization	1	CHP1
+membrane fusion	1	CHP1
+negative regulation of calcineurin-NFAT signaling cascade	1	CHP1
+ phospholipid biosynthetic process	1	CHP1
+cellular response to acidic pH	1	CHP1
+ protein targeting to membrane	1	CHP1
+Golgi membrane	1	CHP1
+focal adhesion	1	CHP1
+microtubule cytoskeleton	1	CHP1
+transport vesicle	1	CHP1
+membrane raft	1	CHP1
+transporter complex	1	CHP1
+molecular_function	1	CPNE5
+calcium-dependent phospholipid binding	1	CPNE5
+cell differentiation	1	CPNE5
+cellular response to calcium ion	1	CPNE5
+ dendrite extension	1	CPNE5
+neuron projection	1	CPNE5
+perikaryon	1	CPNE5
+nucleobase-containing compound metabolic process	1	CTPS1
+response to xenobiotic stimulus	1	CTPS1
+B cell proliferation	1	CTPS1
+membrane	1	CTPS1
+in utero embryonic development	1	DNAAF2
+epithelial cilium movement involved in extracellular fluid movement	1	DNAAF2
+response to retinoic acid	1	DNAAF2
+outer dynein arm assembly	1	DNAAF2
+inner dynein arm assembly	1	DNAAF2
+establishment of localization in cell	1	DNAAF2
+cilium-dependent cell motility	1	DNAAF2
+establishment of left/right asymmetry	1	DNAAF2
+axonemal dynein complex assembly	1	DNAAF2
+protein folding chaperone complex	1	DNAAF2
+dynein axonemal particle	1	DNAAF2
+four-way junction DNA binding	1	HMGB1
+bubble DNA binding	1	HMGB1
+lipopolysaccharide binding	1	HMGB1
+phosphatidylserine binding	1	HMGB1
+damaged DNA binding	1	HMGB1
+double-stranded DNA binding	1	HMGB1
+transcription coactivator activity	1	HMGB1
+transcription corepressor activity	1	HMGB1
+RNA binding	1	HMGB1
+cytokine activity	1	HMGB1
+integrin binding	1	HMGB1
+DNA binding, bending	1	HMGB1
+lyase activity	1	HMGB1
+C-X-C chemokine binding	1	HMGB1
+chemoattractant activity	1	HMGB1
+receptor ligand activity	1	HMGB1
+RAGE receptor binding	1	HMGB1
+RNA polymerase II-specific DNA-binding transcription factor binding	1	HMGB1
+DNA polymerase binding	1	HMGB1
+supercoiled DNA binding	1	HMGB1
+myeloid dendritic cell activation	1	HMGB1
+activation of innate immune response	1	HMGB1
+dendritic cell chemotaxis	1	HMGB1
+inflammatory response to antigenic stimulus	1	HMGB1
+ tolerance induction	1	HMGB1
+ T cell mediated immune response to tumor cell	1	HMGB1
+DNA topological change	1	HMGB1
+double-strand break repair via nonhomologous end joining	1	HMGB1
+DNA recombination	1	HMGB1
+autophagy	1	HMGB1
+inflammatory response	1	HMGB1
+signal transduction	1	HMGB1
+ cytosolic calcium ion concentration	1	HMGB1
+ autophagy	1	HMGB1
+negative regulation of RNA polymerase II transcription preinitiation complex assembly	1	HMGB1
+neuron projection development	1	HMGB1
+heterochromatin formation	1	HMGB1
+ restriction endodeoxyribonuclease activity	1	HMGB1
+DNA geometric change	1	HMGB1
+ mismatch repair	1	HMGB1
+negative regulation of type II interferon production	1	HMGB1
+ interleukin-1 production	1	HMGB1
+ interleukin-10 production	1	HMGB1
+ interleukin-12 production	1	HMGB1
+ interleukin-6 production	1	HMGB1
+ interleukin-8 production	1	HMGB1
+ tumor necrosis factor production	1	HMGB1
+V(D)J recombination	1	HMGB1
+ toll-like receptor 9 signaling pathway	1	HMGB1
+T-helper 1 cell activation	1	HMGB1
+ activated T cell proliferation	1	HMGB1
+apoptotic cell clearance	1	HMGB1
+negative regulation of CD4-positive, alpha-beta T cell differentiation	1	HMGB1
+ DNA binding	1	HMGB1
+ MAPK cascade	1	HMGB1
+ blood vessel endothelial cell migration	1	HMGB1
+negative regulation of blood vessel endothelial cell migration	1	HMGB1
+T-helper 1 cell differentiation	1	HMGB1
+ JNK cascade	1	HMGB1
+ viral entry into host cell	1	HMGB1
+positive chemotaxis	1	HMGB1
+ DNA ligation	1	HMGB1
+ ERK1 and ERK2 cascade	1	HMGB1
+cellular response to lipopolysaccharide	1	HMGB1
+ monocyte chemotaxis	1	HMGB1
+neutrophil clearance	1	HMGB1
+ vascular endothelial cell proliferation	1	HMGB1
+ chemokine (C-X-C motif) ligand 2 production	1	HMGB1
+negative regulation of apoptotic cell clearance	1	HMGB1
+ dendritic cell differentiation	1	HMGB1
+condensed chromosome	1	HMGB1
+extracellular space	1	HMGB1
+endosome	1	HMGB1
+cell surface	1	HMGB1
+transcription repressor complex	1	HMGB1
+secretory granule lumen	1	HMGB1
+alphav-beta3 integrin-HMGB1 complex	1	HMGB1
+ficolin-1-rich granule lumen	1	HMGB1
+transcription factor binding	1	MEIS2
+ cell population proliferation	1	MEIS2
+visual learning	1	MEIS2
+response to mechanical stimulus	1	MEIS2
+embryonic pattern specification	1	MEIS2
+pancreas development	1	MEIS2
+negative regulation of myeloid cell differentiation	1	MEIS2
+ mitotic cell cycle	1	MEIS2
+response to growth factor	1	MEIS2
+ cardiac muscle myoblast proliferation	1	MEIS2
+transcription coregulator binding	1	PBX1
+transcription corepressor binding	1	PBX1
+DNA-binding transcription factor activity	1	PBX1
+G2/M transition of mitotic cell cycle	1	PBX1
+urogenital system development	1	PBX1
+branching involved in ureteric bud morphogenesis	1	PBX1
+natural killer cell differentiation	1	PBX1
+steroid biosynthetic process	1	PBX1
+sex differentiation	1	PBX1
+anterior/posterior pattern specification	1	PBX1
+ G2/M transition of mitotic cell cycle	1	PBX1
+ ossification	1	PBX1
+adrenal gland development	1	PBX1
+embryonic hemopoiesis	1	PBX1
+negative regulation of neuron differentiation	1	PBX1
+spleen development	1	PBX1
+thymus development	1	PBX1
+embryonic skeletal system development	1	PBX1
+stem cell proliferation	1	PBX1
+ stem cell proliferation	1	PBX1
+RNA polymerase II transcription regulator complex	1	PBX1
+chromatin binding	1	PBX2
+ respiratory gaseous exchange by nervous system process	1	PBX3
+anterior compartment pattern formation	1	PBX3
+posterior compartment specification	1	PBX3
+respiratory gaseous exchange by respiratory system	1	PBX3
+adult locomotory behavior	1	PBX3
+dorsal spinal cord development	1	PBX3
+DNA damage response	1	SPIDR
+ double-strand break repair via homologous recombination	1	SPIDR
+ protein-containing complex assembly	1	SPIDR
+ establishment of protein localization to chromosome	1	SPIDR
+cellular response to ionizing radiation	1	SPIDR
+cellular response to hydroxyurea	1	SPIDR
+cellular response to camptothecin	1	SPIDR
+ double-strand break repair	1	SPIDR
+nuclear chromosome	1	SPIDR
+ATP hydrolysis activity	1	SWSAP1
+Shu complex	1	SWSAP1

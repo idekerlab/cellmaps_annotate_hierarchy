@@ -1,0 +1,914 @@
+{
+    "BCLAF1": {
+        "UniProtKB_ID": "BCLF1_HUMAN",
+        "Description": "Bcl-2-associated transcription factor 1",
+        "GO": [
+            "cytoplasm",
+            "mediator complex",
+            "nuclear speck",
+            "nucleoplasm",
+            "nucleus",
+            "DNA binding",
+            "RNA binding",
+            "transcription coregulator activity",
+            "apoptotic process",
+            "cellular response to leukemia inhibitory factor",
+            "negative regulation of DNA-templated transcription",
+            "positive regulation of apoptotic process",
+            "positive regulation of DNA-templated transcription initiation",
+            "positive regulation of intrinsic apoptotic signaling pathway",
+            "positive regulation of response to DNA damage stimulus",
+            "positive regulation of transcription by RNA polymerase II",
+            "regulation of DNA-templated transcription in response to stress"
+        ],
+        "Location": [
+            "cytoplasm",
+            "nucleus",
+            "nucleus speckle",
+            "nucleoplasm"
+        ],
+        "Disease": [],
+        "Disease_description": [],
+        "Complexes": [
+            "Interacts with Bcl-2 related proteins, EMD, with the adenovirus E1B 19 kDa protein and with DNA. Component of the SNARP complex which consists at least of SNIP1, SNW1, THRAP3, BCLAF1 and PNN. Component of a MACOM-like complex, named WTAP complex, composed of WTAP, ZC3H13, CBLL1, KIAA1429, RBM15, BCLAF1 and THRAP3"
+        ]
+    },
+    "BMP2K": {
+        "UniProtKB_ID": "BMP2K_HUMAN",
+        "Description": "BMP-2-inducible protein kinase",
+        "GO": [
+            "cytoplasm",
+            "nuclear speck",
+            "nucleus",
+            "AP-2 adaptor complex binding",
+            "ATP binding",
+            "phosphatase regulator activity",
+            "protein serine kinase activity",
+            "protein serine/threonine kinase activity",
+            "positive regulation of Notch signaling pathway",
+            "protein phosphorylation",
+            "regulation of bone mineralization",
+            "regulation of clathrin-dependent endocytosis"
+        ],
+        "Location": [
+            "nucleus"
+        ],
+        "Disease": [],
+        "Disease_description": [],
+        "Complexes": []
+    },
+    "BRD2": {
+        "UniProtKB_ID": "BRD2_HUMAN",
+        "Description": "Bromodomain-containing protein 2",
+        "GO": [
+            "chromatin",
+            "cytoplasm",
+            "nuclear speck",
+            "nucleoplasm",
+            "nucleus",
+            "chromatin binding",
+            "lysine-acetylated histone binding",
+            "protein serine/threonine kinase activity",
+            "chromatin remodeling",
+            "neural tube closure",
+            "nucleosome assembly",
+            "protein phosphorylation",
+            "regulation of DNA-templated transcription",
+            "regulation of transcription by RNA polymerase II",
+            "spermatogenesis"
+        ],
+        "Location": [
+            "nucleus"
+        ],
+        "Disease": [],
+        "Disease_description": [],
+        "Complexes": [
+            "Homodimer. Interacts with E2F1 and with histone H4 acetylated at 'Lys-13'",
+            "(Microbial infection) Interacts with herpes virus 8 protein LANA1"
+        ]
+    },
+    "CDK11A": {
+        "UniProtKB_ID": "CD11A_HUMAN",
+        "Description": "Cyclin-dependent kinase 11A",
+        "GO": [
+            "cyclin-dependent protein kinase holoenzyme complex",
+            "cytoplasm",
+            "nucleus",
+            "ATP binding",
+            "cyclin-dependent protein serine/threonine kinase activity",
+            "protein kinase activity",
+            "protein serine kinase activity",
+            "protein serine/threonine kinase activity",
+            "apoptotic process",
+            "mitotic cell cycle",
+            "protein phosphorylation",
+            "regulation of apoptotic process",
+            "regulation of cell cycle",
+            "regulation of cell growth",
+            "regulation of centrosome cycle",
+            "regulation of DNA-templated transcription",
+            "regulation of mitotic cell cycle",
+            "regulation of mRNA processing",
+            "regulation of RNA splicing"
+        ],
+        "Location": [
+            "cytoplasm",
+            "nucleus"
+        ],
+        "Disease": [],
+        "Disease_description": [],
+        "Complexes": [
+            "The cleaved p110 isoform, p110C, binds to the serine/threonine kinase PAK1. The p58 isoform but not the p110 isoform or p110C interacts with CCND3. The p110 isoforms are found in large molecular weight complexes containing CCNL1 and SFRS7"
+        ]
+    },
+    "CDK11B": {
+        "UniProtKB_ID": "CD11B_HUMAN",
+        "Description": "Cyclin-dependent kinase 11B",
+        "GO": [
+            "cyclin-dependent protein kinase holoenzyme complex",
+            "cytoplasm",
+            "nucleus",
+            "ATP binding",
+            "cyclin-dependent protein serine/threonine kinase activity",
+            "protein kinase activity",
+            "protein serine kinase activity",
+            "protein serine/threonine kinase activity",
+            "RNA binding",
+            "apoptotic process",
+            "mitotic cell cycle",
+            "protein phosphorylation",
+            "regulation of apoptotic process",
+            "regulation of cell cycle",
+            "regulation of cell growth",
+            "regulation of centrosome cycle",
+            "regulation of DNA-templated transcription",
+            "regulation of mitotic cell cycle",
+            "regulation of mRNA processing",
+            "regulation of RNA splicing"
+        ],
+        "Location": [
+            "cytoplasm",
+            "nucleus"
+        ],
+        "Disease": [],
+        "Disease_description": [],
+        "Complexes": [
+            "Cleaved isoform SV9 (p110C) binds to the serine/threonine kinase PAK1 and RANBP9. p110C interacts with RNPS1. Isoform 7, but not isoform SV9, nor its cleavage product p110C, interacts with CCND3. Interacts with CCNL1 and CCNL2. Forms complexes with pre-mRNA-splicing factors, including at least SRSF1, SRSF2 and SRSF7/SLU7. Interacts with isoform 5 of MYO18A (PubMed:25965346)",
+            "(Microbial infection) Interacts with human herpes virus 1 (HHV-1) transcriptional regulator ICP22"
+        ]
+    },
+    "CHTOP": {
+        "UniProtKB_ID": "CHTOP_HUMAN",
+        "Description": "Chromatin target of PRMT1 protein",
+        "GO": [
+            "cytoplasmic ribonucleoprotein granule",
+            "nuclear speck",
+            "nucleolus",
+            "nucleoplasm",
+            "nucleus",
+            "transcription export complex",
+            "methyl-CpG binding",
+            "mRNA binding",
+            "RNA binding",
+            "in utero embryonic development",
+            "mRNA export from nucleus",
+            "positive regulation of ATP-dependent activity",
+            "positive regulation of cell population proliferation",
+            "positive regulation of helicase activity",
+            "positive regulation of histone methylation"
+        ],
+        "Location": [
+            "nucleolus",
+            "nucleus",
+            "nucleus speckle",
+            "nucleoplasm"
+        ],
+        "Disease": [],
+        "Disease_description": [],
+        "Complexes": [
+            "Interacts with PRMT1 and PRMT5 (PubMed:25284789). Interacts with the 5FMC complex; the interaction is methylation-dependent. Interacts with FYTTD1, SET and PRC1 complex members CBX4, RNF2 and PHC2; the interactions are methylation-independent. Interacts with ZNF148 (By similarity). Component of the transcription/export (TREX) complex at least composed of ALYREF/THOC4, DDX39B, SARNP/CIP29, CHTOP and the THO subcomplex; TREX seems to have dynamic structure involving ATP-dependent remodeling; in the complex interacts (methylated) with ALYREF/THOC4 and with DDX39B in a methylation-independent manner. Interacts (methylated) with NXF1; the interaction is mutually exclusive with the NXF1:THOC5 interaction (PubMed:23299939, PubMed:23826332). Interacts with WDR77 and ERH (PubMed:25284789)"
+        ]
+    },
+    "CWC25": {
+        "UniProtKB_ID": "CWC25_HUMAN",
+        "Description": "Pre-mRNA-splicing factor CWC25 homolog",
+        "GO": [
+            "nuclear speck",
+            "nucleoplasm",
+            "nucleus",
+            "U2-type catalytic step 1 spliceosome",
+            "U2-type spliceosomal complex",
+            "mRNA splicing, via spliceosome"
+        ],
+        "Location": [
+            "nucleus",
+            "spliceosome"
+        ],
+        "Disease": [],
+        "Disease_description": [],
+        "Complexes": [
+            "Identified in the spliceosome C complex"
+        ]
+    },
+    "GPATCH8": {
+        "UniProtKB_ID": "GPTC8_HUMAN",
+        "Description": "G patch domain-containing protein 8",
+        "GO": [
+            "nucleus",
+            "metal ion binding",
+            "RNA binding"
+        ],
+        "Location": [],
+        "Disease": [],
+        "Disease_description": [],
+        "Complexes": []
+    },
+    "HBP1": {
+        "UniProtKB_ID": "HBP1_HUMAN",
+        "Description": "HMG box-containing protein 1",
+        "GO": [
+            "chromatin",
+            "nuclear speck",
+            "nucleoplasm",
+            "nucleus",
+            "DNA-binding transcription factor activity, RNA polymerase II-specific",
+            "RNA binding",
+            "RNA polymerase II cis-regulatory region sequence-specific DNA binding",
+            "regulation of cell cycle",
+            "regulation of transcription by RNA polymerase II",
+            "Wnt signaling pathway"
+        ],
+        "Location": [
+            "nucleus"
+        ],
+        "Disease": [],
+        "Disease_description": [],
+        "Complexes": [
+            "Binds the second PAH repeat of SIN3A (Probable). Binds TCF4 (PubMed:11500377). Binds RB1 (PubMed:10958660)"
+        ]
+    },
+    "IK": {
+        "UniProtKB_ID": "RED_HUMAN",
+        "Description": "Protein Red",
+        "GO": [
+            "chromosome",
+            "cytoplasm",
+            "nuclear speck",
+            "nucleoplasm",
+            "nucleus",
+            "spindle pole",
+            "U2-type precatalytic spliceosome",
+            "identical protein binding",
+            "mitotic cell cycle",
+            "mitotic spindle assembly checkpoint signaling",
+            "mRNA splicing, via spliceosome",
+            "protein localization to kinetochore"
+        ],
+        "Location": [
+            "nucleus",
+            "chromosome",
+            "spliceosome",
+            "spindle pole",
+            "cytoplasm",
+            "nucleoplasm",
+            "cytoskeleton"
+        ],
+        "Disease": [],
+        "Disease_description": [],
+        "Complexes": [
+            "(Microbial infection) Identified in a complex with SMU1 and influenza A virus RNA polymerase subunits PB1 and PB2. Directly interacts with SMU1 and with influenza A virus RNA polymerase subunits PB1 and PB2",
+            "Component of the spliceosome B complex (PubMed:22365833, PubMed:28781166). Interacts with SMU1 (PubMed:22365833, PubMed:24945353). Interacts with MAD1L1 (PubMed:22351768). May interact with DHX15 (PubMed:24252166)"
+        ]
+    },
+    "NCBP3": {
+        "UniProtKB_ID": "NCBP3_HUMAN",
+        "Description": "Nuclear cap-binding protein subunit 3",
+        "GO": [
+            "cytoplasm",
+            "mRNA cap binding complex",
+            "nuclear cap binding complex",
+            "nuclear speck",
+            "nucleus",
+            "RNA cap binding complex",
+            "mRNA binding",
+            "RNA 7-methylguanosine cap binding",
+            "RNA binding",
+            "RNA cap binding",
+            "7-methylguanosine mRNA capping",
+            "defense response to virus",
+            "mRNA export from nucleus",
+            "mRNA transcription by RNA polymerase II",
+            "snRNA export from nucleus"
+        ],
+        "Location": [
+            "cytoplasm",
+            "nucleus"
+        ],
+        "Disease": [],
+        "Disease_description": [],
+        "Complexes": [
+            "Component of an alternative cap-binding complex (CBC) composed of NCBP1/CBP80 and NCBP3. Interacts with SRRT, KPNA3, THOC5 and EIF4A3"
+        ]
+    },
+    "PNN": {
+        "UniProtKB_ID": "PININ_HUMAN",
+        "Description": "Pinin",
+        "GO": [
+            "catalytic step 2 spliceosome",
+            "cell-cell junction",
+            "desmosome",
+            "intermediate filament",
+            "membrane",
+            "nuclear speck",
+            "plasma membrane",
+            "DNA binding",
+            "RNA binding",
+            "structural molecule activity",
+            "cell adhesion",
+            "mRNA splicing, via spliceosome"
+        ],
+        "Location": [
+            "nucleus",
+            "spliceosome",
+            "cell junction",
+            "desmosome",
+            "nucleus speckle"
+        ],
+        "Disease": [
+            "Tumor suppressor"
+        ],
+        "Disease_description": [],
+        "Complexes": [
+            "Found in a mRNA splicing-dependent exon junction complex (EJC). Found in a complex with SR proteins. Found in a mRNP complex with RNPS1. Component of the PSAP complex consisting of RNPS1, SAP18 and PNN. Interacts with PNISR, CTBP1, CTBP2, KRT8, KRT18, KRT19, PS1D/PNO40, PPIG, RNPS1, SFRS4 and SRRM2. Identified in the spliceosome C complex"
+        ]
+    },
+    "PPIG": {
+        "UniProtKB_ID": "PPIG_HUMAN",
+        "Description": "Peptidyl-prolyl cis-trans isomerase G",
+        "GO": [
+            "cytoplasm",
+            "cytosol",
+            "intracellular membrane-bounded organelle",
+            "nuclear matrix",
+            "nuclear speck",
+            "nucleoplasm",
+            "nucleus",
+            "cyclosporin A binding",
+            "peptidyl-prolyl cis-trans isomerase activity",
+            "RNA binding",
+            "protein folding",
+            "protein peptidyl-prolyl isomerization",
+            "RNA splicing"
+        ],
+        "Location": [
+            "nucleus matrix",
+            "nucleus",
+            "nucleus speckle"
+        ],
+        "Disease": [],
+        "Disease_description": [],
+        "Complexes": [
+            "Interacts with CLK1, PNN and with the phosphorylated C-terminal domain of RNA polymerase II"
+        ]
+    },
+    "PRPF40A": {
+        "UniProtKB_ID": "PR40A_HUMAN",
+        "Description": "Pre-mRNA-processing factor 40 homolog A",
+        "GO": [
+            "membrane",
+            "nuclear matrix",
+            "nuclear speck",
+            "nucleoplasm",
+            "U1 snRNP",
+            "U2-type prespliceosome",
+            "RNA binding",
+            "cell cycle",
+            "cell division",
+            "cell migration",
+            "cytoskeleton organization",
+            "mRNA cis splicing, via spliceosome",
+            "mRNA splicing, via spliceosome",
+            "regulation of cell shape",
+            "regulation of cytokinesis"
+        ],
+        "Location": [
+            "nucleus matrix",
+            "nucleus",
+            "nucleus speckle"
+        ],
+        "Disease": [],
+        "Disease_description": [],
+        "Complexes": [
+            "Interacts with the N-terminus of HTT. Interacts with the phosphorylated C-terminal domain of POLR2A. Interacts with AKAP8L, SF1, SRPK1, ENAH, ATBF1 and MECP2 (By similarity). Interacts through the WW domains with formin proline-rich regions and with WASL/N-WASP (By similarity)"
+        ]
+    },
+    "PRPF4B": {
+        "UniProtKB_ID": "PRP4B_HUMAN",
+        "Description": "Serine/threonine-protein kinase PRP4 homolog",
+        "GO": [
+            "catalytic step 2 spliceosome",
+            "chromosome",
+            "nuclear speck",
+            "nucleus",
+            "ATP binding",
+            "protein kinase activity",
+            "protein serine kinase activity",
+            "protein serine/threonine kinase activity",
+            "RNA binding",
+            "mRNA cis splicing, via spliceosome",
+            "mRNA splicing, via spliceosome",
+            "protein phosphorylation",
+            "RNA splicing"
+        ],
+        "Location": [
+            "nucleus",
+            "spliceosome"
+        ],
+        "Disease": [],
+        "Disease_description": [],
+        "Complexes": [
+            "Identified in the spliceosome C complex. Interacts with Clk1 C-terminus"
+        ]
+    },
+    "RBBP6": {
+        "UniProtKB_ID": "RBBP6_HUMAN",
+        "Description": "E3 ubiquitin-protein ligase RBBP6",
+        "GO": [
+            "chromosome",
+            "cytosol",
+            "microtubule organizing center",
+            "nuclear speck",
+            "nucleolus",
+            "nucleus",
+            "protein-containing complex",
+            "protein kinase binding",
+            "RNA binding",
+            "ubiquitin protein ligase activity",
+            "ubiquitin-protein transferase activity",
+            "zinc ion binding",
+            "cellular response to DNA damage stimulus",
+            "DNA replication",
+            "embryonic organ development",
+            "in utero embryonic development",
+            "mRNA processing",
+            "multicellular organism growth",
+            "protein ubiquitination",
+            "regulation of DNA replication",
+            "somite development",
+            "ubiquitin-dependent protein catabolic process"
+        ],
+        "Location": [
+            "nucleus",
+            "chromosome",
+            "centrosome",
+            "microtubule organizing center",
+            "cytoplasm",
+            "nucleolus",
+            "cytoskeleton"
+        ],
+        "Disease": [],
+        "Disease_description": [],
+        "Complexes": [
+            "Interacts with p53/TP53 and RB1 (By similarity). Interacts also with MDM2 and YBX1 (PubMed:17470788). Interacts also with MDM2 and YBX1 (PubMed:18851979). Interacts with NEK6 (PubMed:20873783). Interacts with ZBTB38 (PubMed:24726359)",
+            "(Microbial infection) [Isoform 1]: Interacts with ebolavirus VP30"
+        ]
+    },
+    "RBM15B": {
+        "UniProtKB_ID": "RB15B_HUMAN",
+        "Description": "Putative RNA-binding protein 15B",
+        "GO": [
+            "nuclear envelope",
+            "nuclear speck",
+            "nucleoplasm",
+            "nucleus",
+            "RNA N6-methyladenosine methyltransferase complex",
+            "mRNA binding",
+            "RNA binding",
+            "dosage compensation by inactivation of X chromosome",
+            "mRNA export from nucleus",
+            "mRNA processing",
+            "regulation of alternative mRNA splicing, via spliceosome",
+            "RNA methylation",
+            "RNA splicing"
+        ],
+        "Location": [
+            "nucleus envelope",
+            "nucleus",
+            "nucleus speckle",
+            "nucleoplasm"
+        ],
+        "Disease": [],
+        "Disease_description": [],
+        "Complexes": [
+            "Component of the WMM complex, a N6-methyltransferase complex composed of a catalytic subcomplex, named MAC, and of an associated subcomplex, named MACOM (PubMed:27602518). The MAC subcomplex is composed of METTL3 and METTL14 (PubMed:27602518). The MACOM subcomplex is composed of WTAP, ZC3H13, CBLL1/HAKAI, VIRMA, and, in some cases of RBM15 (RBM15 or RBM15B) (PubMed:27602518). May interact with NCOR2 (PubMed:16129689). Interacts with NXF1, the interaction is required to promote mRNA export (PubMed:19586903)",
+            "(Microbial infection) Interacts (via the SPOC domain) with Epstein-Barr virus BMLF1 (via the N-terminus); the interaction is direct"
+        ]
+    },
+    "RBM25": {
+        "UniProtKB_ID": "RBM25_HUMAN",
+        "Description": "RNA-binding protein 25",
+        "GO": [
+            "cytoplasm",
+            "nuclear speck",
+            "mRNA binding",
+            "RNA binding",
+            "mRNA processing",
+            "regulation of alternative mRNA splicing, via spliceosome",
+            "regulation of apoptotic process",
+            "RNA splicing"
+        ],
+        "Location": [
+            "cytoplasm",
+            "nucleus",
+            "nucleus speckle"
+        ],
+        "Disease": [],
+        "Disease_description": [],
+        "Complexes": [
+            "Interacts with LUC7L3 and SRRM1. Specifically associates with functional splicing complexes, including Sm proteins and U1, U2, U4, U5 and U6 snRNAs. Associates with exon junction complex (EJC) proteins, including APEX1, DDX39B, NCBP1, RBM8A and RNPS1. Interaction with NCBP1 is RNA-dependent"
+        ]
+    },
+    "RSRC2": {
+        "UniProtKB_ID": "RSRC2_HUMAN",
+        "Description": "Arginine/serine-rich coiled-coil protein 2",
+        "GO": [
+            "RNA binding"
+        ],
+        "Location": [],
+        "Disease": [],
+        "Disease_description": [],
+        "Complexes": []
+    },
+    "SETD2": {
+        "UniProtKB_ID": "SETD2_HUMAN",
+        "Description": "Histone-lysine N-methyltransferase SETD2",
+        "GO": [
+            "chromosome",
+            "nucleoplasm",
+            "nucleus",
+            "alpha-tubulin binding",
+            "histone H3K36 methyltransferase activity",
+            "histone H3K36 trimethyltransferase activity",
+            "histone lysine N-methyltransferase activity",
+            "metal ion binding",
+            "protein-lysine N-methyltransferase activity",
+            "angiogenesis",
+            "cell migration involved in vasculogenesis",
+            "coronary vasculature morphogenesis",
+            "defense response to virus",
+            "embryonic cranial skeleton morphogenesis",
+            "embryonic placenta morphogenesis",
+            "endodermal cell differentiation",
+            "forebrain development",
+            "histone H3-K36 dimethylation",
+            "histone H3-K36 trimethylation",
+            "mesoderm morphogenesis",
+            "microtubule cytoskeleton organization involved in mitosis",
+            "mismatch repair",
+            "morphogenesis of a branching structure",
+            "neural tube closure",
+            "nucleosome organization",
+            "peptidyl-lysine trimethylation",
+            "pericardium development",
+            "positive regulation of interferon-alpha production",
+            "regulation of cytokinesis",
+            "regulation of DNA-templated transcription",
+            "regulation of double-strand break repair via homologous recombination",
+            "regulation of gene expression",
+            "regulation of mRNA export from nucleus",
+            "regulation of protein localization to chromatin",
+            "response to type I interferon",
+            "stem cell development",
+            "stem cell differentiation",
+            "transcription elongation by RNA polymerase II promoter"
+        ],
+        "Location": [
+            "nucleus",
+            "chromosome"
+        ],
+        "Disease": [
+            "Renal cell carcinoma",
+            "Luscan-Lumish syndrome",
+            "Leukemia",
+            "Leukemia",
+            "Autism spectrum disorder",
+            "Disease variant",
+            "Intellectual disability",
+            "Tumor suppressor"
+        ],
+        "Disease_description": [
+            "Renal cell carcinoma: Renal cell carcinoma is a heterogeneous group of sporadic or hereditary carcinoma derived from cells of the proximal renal tubular epithelium. It is subclassified into clear cell renal carcinoma (non-papillary carcinoma), papillary renal cell carcinoma, chromophobe renal cell carcinoma, collecting duct carcinoma with medullary carcinoma of the kidney, and unclassified renal cell carcinoma. Clear cell renal cell carcinoma is the most common subtype.",
+            "Luscan-Lumish syndrome: An autosomal dominant syndrome with a variable phenotype. Clinical features include macrocephaly, distinctive facial appearance, postnatal overgrowth, various degrees of learning difficulties, autism spectrum disorder, and intellectual disability.",
+            "Leukemia: A subtype of acute leukemia, a cancer of the white blood cells. ALL is a malignant disease of bone marrow and the most common malignancy diagnosed in children. The malignant cells are lymphoid precursor cells (lymphoblasts) that are arrested in an early stage of development. The lymphoblasts replace the normal marrow elements, resulting in a marked decrease in the production of normal blood cells. Consequently, anemia, thrombocytopenia, and neutropenia occur to varying degrees. The lymphoblasts also proliferate in organs other than the marrow, particularly the liver, spleen, and lymphnodes.",
+            "Leukemia: A subtype of acute leukemia, a cancer of the white blood cells. AML is a malignant disease of bone marrow characterized by maturational arrest of hematopoietic precursors at an early stage of development. Clonal expansion of myeloid blasts occurs in bone marrow, blood, and other tissue. Myelogenous leukemias develop from changes in cells that normally produce neutrophils, basophils, eosinophils and monocytes."
+        ],
+        "Complexes": [
+            "Specifically interacts with hyperphosphorylated C-terminal domain (CTD) of RNA polymerase II large subunit (POLR2A): binds to CTD heptad repeats doubly phosphorylated on 'Ser-2' and 'Ser-5' of each heptad (PubMed:16118227, PubMed:16314571). Interacts with HTT (PubMed:11461154, PubMed:9700202, PubMed:10958656). Interacts with IWS1 (PubMed:19141475). Interacts with p53/TP53; leading to regulate p53/TP53 target genes (PubMed:18585004). Component of a complex with HNRNPL (PubMed:19332550). Interacts with TUBA1A; the interaction is independent on alpha-tubulin acetylation on 'Lys-40' (PubMed:27518565). Interacts with STAT1 (PubMed:28753426)"
+        ]
+    },
+    "SFSWAP": {
+        "UniProtKB_ID": "SFSWA_HUMAN",
+        "Description": "Splicing factor, suppressor of white-apricot homolog",
+        "GO": [
+            "nucleus",
+            "RNA binding",
+            "alternative mRNA splicing, via spliceosome",
+            "mRNA 5'-splice site recognition",
+            "negative regulation of mRNA splicing, via spliceosome"
+        ],
+        "Location": [
+            "nucleus"
+        ],
+        "Disease": [],
+        "Disease_description": [],
+        "Complexes": []
+    },
+    "SON": {
+        "UniProtKB_ID": "SON_HUMAN",
+        "Description": "Protein SON",
+        "GO": [
+            "nuclear speck",
+            "DNA binding",
+            "RNA binding",
+            "microtubule cytoskeleton organization",
+            "mitotic cytokinesis",
+            "mRNA processing",
+            "negative regulation of apoptotic process",
+            "regulation of cell cycle",
+            "regulation of mRNA splicing, via spliceosome",
+            "regulation of RNA splicing",
+            "RNA splicing"
+        ],
+        "Location": [
+            "nucleus",
+            "nucleus speckle"
+        ],
+        "Disease": [
+            "ZTTK syndrome",
+            "Disease variant",
+            "Intellectual disability"
+        ],
+        "Disease_description": [
+            "ZTTK syndrome: An autosomal dominant syndrome characterized by intellectual disability, developmental delay, malformations of the cerebral cortex, epilepsy, vision problems, musculo-skeletal abnormalities, and congenital malformations."
+        ],
+        "Complexes": [
+            "Interacts with SRSF2. Associates with the spliceosome. Interacts with the AML1-MTG8 (AML1-ETO) fusion protein, possibly leading to trigger signals inhibiting leukemogenesis. Interacts with USH1G (PubMed:34023904)"
+        ]
+    },
+    "SRRM2": {
+        "UniProtKB_ID": "SRRM2_HUMAN",
+        "Description": "Serine/arginine repetitive matrix protein 2",
+        "GO": [
+            "Cajal body",
+            "catalytic step 2 spliceosome",
+            "nuclear speck",
+            "nucleoplasm",
+            "nucleus",
+            "U2-type catalytic step 2 spliceosome",
+            "U2-type precatalytic spliceosome",
+            "C2H2 zinc finger domain binding",
+            "mRNA binding",
+            "protein N-terminus binding",
+            "RNA binding",
+            "mRNA splicing, via spliceosome"
+        ],
+        "Location": [
+            "nucleus",
+            "nucleus speckle",
+            "spliceosome"
+        ],
+        "Disease": [],
+        "Disease_description": [],
+        "Complexes": [
+            "Component of pre-catalytic, catalytic and post-catalytic spliceosome complexes (PubMed:11991638, PubMed:28502770, PubMed:28076346, PubMed:29361316, PubMed:29360106, PubMed:29301961, PubMed:30705154). Found in a pre-mRNA splicing complex with SFRS4, SFRS5, SNRP70, SNRPA1, SRRM1 and SRRM2 (PubMed:9531537). Interacts with DHX8 (PubMed:28062851). Interacts with CACTIN (PubMed:28062851)"
+        ]
+    },
+    "SRSF11": {
+        "UniProtKB_ID": "SRS11_HUMAN",
+        "Description": "Serine/arginine-rich splicing factor 11",
+        "GO": [
+            "nuclear speck",
+            "nucleoplasm",
+            "nucleus",
+            "identical protein binding",
+            "RNA binding",
+            "mRNA processing",
+            "RNA splicing"
+        ],
+        "Location": [
+            "nucleus"
+        ],
+        "Disease": [],
+        "Disease_description": [],
+        "Complexes": [
+            "Interacts with PUF60"
+        ]
+    },
+    "SRSF4": {
+        "UniProtKB_ID": "SRSF4_HUMAN",
+        "Description": "Serine/arginine-rich splicing factor 4",
+        "GO": [
+            "nuclear speck",
+            "nucleoplasm",
+            "nucleus",
+            "mRNA binding",
+            "RNA binding",
+            "sequence-specific mRNA binding",
+            "mRNA processing",
+            "mRNA splicing, via spliceosome",
+            "negative regulation of mRNA splicing, via spliceosome",
+            "response to insulin",
+            "RNA splicing",
+            "RNA splicing, via transesterification reactions"
+        ],
+        "Location": [
+            "nucleus",
+            "nucleus speckle"
+        ],
+        "Disease": [],
+        "Disease_description": [],
+        "Complexes": [
+            "Found in a pre-mRNA splicing complex with SRSF4/SFRS4, SRSF5/SFRS5, SNRNP70, SNRPA1, SRRM1 and SRRM2. Interacts with PNN"
+        ]
+    },
+    "SRSF6": {
+        "UniProtKB_ID": "SRSF6_HUMAN",
+        "Description": "Serine/arginine-rich splicing factor 6",
+        "GO": [
+            "nuclear speck",
+            "nucleoplasm",
+            "mRNA binding",
+            "pre-mRNA binding",
+            "RNA binding",
+            "alternative mRNA splicing, via spliceosome",
+            "mRNA splice site selection",
+            "mRNA splicing, via spliceosome",
+            "negative regulation of cell death",
+            "negative regulation of keratinocyte differentiation",
+            "negative regulation of mRNA splicing, via spliceosome",
+            "negative regulation of type B pancreatic cell apoptotic process",
+            "positive regulation of epithelial cell proliferation involved in lung morphogenesis",
+            "regulation of alternative mRNA splicing, via spliceosome",
+            "regulation of keratinocyte proliferation",
+            "regulation of wound healing",
+            "response to insulin"
+        ],
+        "Location": [
+            "nucleus",
+            "nucleus speckle"
+        ],
+        "Disease": [],
+        "Disease_description": [],
+        "Complexes": [
+            "Binds SREK1/SFRS12. Interacts with DYRK1A"
+        ]
+    },
+    "THRAP3": {
+        "UniProtKB_ID": "TR150_HUMAN",
+        "Description": "Thyroid hormone receptor-associated protein 3",
+        "GO": [
+            "extracellular exosome",
+            "mediator complex",
+            "nuclear speck",
+            "nucleoplasm",
+            "nucleus",
+            "ATP binding",
+            "DNA binding",
+            "nuclear receptor coactivator activity",
+            "nuclear thyroid hormone receptor binding",
+            "nuclear vitamin D receptor binding",
+            "phosphoprotein binding",
+            "RNA binding",
+            "RNA polymerase II cis-regulatory region sequence-specific DNA binding",
+            "transcription coactivator activity",
+            "transcription coregulator activity",
+            "circadian rhythm",
+            "mRNA processing",
+            "mRNA stabilization",
+            "nuclear-transcribed mRNA catabolic process",
+            "positive regulation of circadian rhythm",
+            "positive regulation of DNA-templated transcription",
+            "positive regulation of mRNA splicing, via spliceosome",
+            "positive regulation of transcription by RNA polymerase II",
+            "regulation of alternative mRNA splicing, via spliceosome",
+            "RNA splicing"
+        ],
+        "Location": [
+            "nucleus",
+            "nucleus speckle",
+            "nucleoplasm"
+        ],
+        "Disease": [],
+        "Disease_description": [],
+        "Complexes": [
+            "Associated with the large multiprotein complex TRAP (Mediator complex-like). Interacts with SFPQ; the interaction is dependent on SFPQ phosphorylation at 'Thr-687' and inhibits binding of SFPQ to an ESS1 exonic splicing silencer element-containing RNA. Interacts with NXF1. Component of the SNARP complex which consists at least of SNIP1, SNW1, THRAP3, BCLAF1 and PNN. Associated with spliced mRNP complexes. Interacts with HELZ2 and PPARG. Interacts with CLOCK and BMAL1 (By similarity). Component of a MACOM-like complex, named WTAP complex, composed of WTAP, ZC3H13, CBLL1, KIAA1429, RBM15, BCLAF1 and THRAP3"
+        ]
+    },
+    "UNK": {
+        "UniProtKB_ID": "UNK_HUMAN",
+        "Description": "RING finger protein unkempt homolog",
+        "GO": [
+            "cytoplasm",
+            "polysome",
+            "metal ion binding",
+            "mRNA CDS binding",
+            "polysome binding",
+            "RNA binding",
+            "cell morphogenesis involved in neuron differentiation",
+            "in utero embryonic development",
+            "negative regulation of cytoplasmic translation",
+            "neuron migration"
+        ],
+        "Location": [
+            "cytoplasm"
+        ],
+        "Disease": [],
+        "Disease_description": [],
+        "Complexes": []
+    },
+    "WBP11": {
+        "UniProtKB_ID": "WBP11_HUMAN",
+        "Description": "WW domain-binding protein 11",
+        "GO": [
+            "cytosol",
+            "intracellular membrane-bounded organelle",
+            "nucleoplasm",
+            "nucleus",
+            "spliceosomal complex",
+            "RNA binding",
+            "single-stranded DNA binding",
+            "WW domain binding",
+            "mRNA cis splicing, via spliceosome",
+            "rRNA processing"
+        ],
+        "Location": [
+            "cytoplasm",
+            "nucleus"
+        ],
+        "Disease": [
+            "Vertebral",
+            "Disease variant"
+        ],
+        "Disease_description": [
+            "Vertebral: An autosomal dominant disorder with incomplete penetrance and variable expressivity, characterized by cardiac, vertebral, tracheo-esophageal, renal and limb defects. Some patients also exhibit craniofacial abnormalities."
+        ],
+        "Complexes": [
+            "Interacts with PPP1CA, PPP1CB and PPP1CC (By similarity). Interacts via the PGR motif with PQBP1 in the nucleus. Interacts with the WW domains of WBP4"
+        ]
+    },
+    "ZC3H14": {
+        "UniProtKB_ID": "ZC3HE_HUMAN",
+        "Description": "Zinc finger CCCH domain-containing protein 14",
+        "GO": [
+            "axon cytoplasm",
+            "cytoplasm",
+            "dendrite cytoplasm",
+            "nuclear speck",
+            "nucleolus",
+            "nucleus",
+            "ribonucleoprotein complex",
+            "metal ion binding",
+            "poly(A) binding",
+            "RNA binding",
+            "negative regulation of mRNA polyadenylation",
+            "regulation of mRNA stability"
+        ],
+        "Location": [
+            "cytoplasm",
+            "nucleus",
+            "nucleus speckle"
+        ],
+        "Disease": [
+            "Intellectual developmental disorder",
+            "Intellectual disability"
+        ],
+        "Disease_description": [
+            "Intellectual developmental disorder: A disorder characterized by significantly below average general intellectual functioning associated with impairments in adaptive behavior and manifested during the developmental period."
+        ],
+        "Complexes": [
+            "Interacts with HOOK2 (PubMed:19273536). Interacts with ZFC3H1 in a RNase-sensitive manner (PubMed:27871484)"
+        ]
+    },
+    "ZC3H18": {
+        "UniProtKB_ID": "ZCH18_HUMAN",
+        "Description": "Zinc finger CCCH domain-containing protein 18",
+        "GO": [
+            "nuclear speck",
+            "protein-containing complex",
+            "ribonucleoprotein complex",
+            "metal ion binding",
+            "mRNA cap binding complex binding",
+            "protein-macromolecule adaptor activity",
+            "RNA binding",
+            "RNA destabilization"
+        ],
+        "Location": [
+            "nucleus"
+        ],
+        "Disease": [],
+        "Disease_description": [],
+        "Complexes": [
+            "Interacts with ZFC3H1 in a RNase-insensitive manner"
+        ]
+    }
+}

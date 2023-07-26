@@ -1,0 +1,19 @@
+Your response should be formatted as Markdown paragraphs
+This is a human protein system high in a cell hierarchy and has child systems connect to it as well as residual proteins only belong to this system. From the protein list and the knowledge of how these proteins cluster, write a critical and concise analysis of this human protein system. Describe your reasoning as you go and providing references to scientific papers.
+
+A critical goal of the analysis is to determine if this is a novel complex or if any proteins are novel members of a known complex
+
+Format with Title, Summary, and References sections.        
+Avoid overly general statements of how the proteins are involved in various cellular processes        
+Avoid recapitulating the goals of the analysis.
+
+What cellular components and complexes are involved in this system?
+What mechanisms and biological processes are performed by this system?
+Propose a name for the system to reflect the function and location, and should be specific but brief. Do not compose an acronym. Place it as the title of your report
+Human Protein List: 
+proteins only in this high level system: CYTH1, IQGAP3, RBM19, AQR, RRP8, MAK16, SNAPC1, ZNF771, SPC24, AGTPBP1, RSL1D1, RIOX2, SPTY2D1, IFI16, EIF3L, NUP153, PHF2, MKRN2, DHX33, ZNF16, CENPH, SRFBP1, RPF1, NLE1, NPM1, RPL3, UTP11, BMS1, RRP1B, MPHOSPH6, DDX10, UTP14A, REXO4, RRP7A, TNFAIP1, MKI67, NSUN5, ADAR, ZNF787, SLBP, RRS1, PHF6, STON2, RBM28, CDCA8, TOP2A, H1-2, DDA1, PARP2, CENATAC, USP36, SPATS2L, RPL18A, ZFP91, UTP3, RBMX2, FAM133A, RBM45, NUSAP1, ZNF358, LARP4B, NOL7, CENPP, ZNF689, MCM10, NOL12, ZCCHC7, JADE3, NIN, GON7, TARBP2, ZKSCAN8, SMG6, WDR12, WDR3, GPALPP1, PES1, UTP15, LRRC40, UTP23, NIFK, UBR7, NGDN, RECQL4, NPM3, KRI1, URB2, DDX27, DNTTIP2, TBL3, ESF1, IMP4, SENP3, GLE1, ZCCHC9, DDX49, NVL, NOP53, NUFIP1, RRP36, ZNF106, ELL3, PARP12, NOM1, PPP1R7, GNL2, ZNF865, KNOP1, ZCCHC10, NEPRO, NOL11, DNTTIP1, NKRF, SURF6, HMGA1, SRP14, RIOX1, TTF1, SDAD1, GTPBP4, RPL19, GZF1, KDM6A, NOL6, TNNI1, BOP1, SETMAR, DDX56, ZNF397, FAM32A, NOLC1, CCDC137, MECP2, DDX51, TSPYL1, NOL8, LIN28B, NAT10, RPS3A, DNAJC21, SETD7, KRR1, LYAR, ZNF696, C12orf43, DDX52, UTP18, XPC, C1D, NOP14, PDGFRL, SFRP1, NOP2, NKIRAS2, VSX1, ZSCAN25, NMD3, NOC4L, B3GNTL1, RPP38, MPHOSPH10, ASXL1, RBM34, CDCA7L, DDX23, DUSP11, BCAS3, ARL6IP4, FIZ1, CCDC59, ZNF668, TAF1B, DDX55, RPS19BP1, THAP7, EXOSC5, DDX31, XDH, DDX47, SRSF5, TMA16, DDX21, ILF3, ZNF593.
+proteins in child system Cluster4-30: AATF, FBXL19, MTUS1, NOL10, UBE2R2, USP37.
+proteins in child system Cluster3-65: POP4, C18orf21, POP1, POP5, RPP30.
+proteins in child system Cluster4-44: ZFAND2B, SURF2, TP53TG5, UCHL5.
+proteins in child system Cluster4-54: PJA1, COIL, LSM3, PCDH1.
+proteins in child system Cluster4-59: NUDT8, CPS1, LRWD1, MCEE.

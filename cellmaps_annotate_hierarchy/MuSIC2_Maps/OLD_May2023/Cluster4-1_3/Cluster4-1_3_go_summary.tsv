@@ -1,0 +1,386 @@
+Feature	Number of Genes	Genes
+protein binding	33	UBE2H, TIMM50, PLEKHO1, P4HA1, S100A10, DNA2, MTG1, HSPBAP1, KLHL29, USP54, NIPSNAP2, DTNB, FBXL12, JADE1, RNF138, CCM2, TMCO6, ZNF223, CNKSR3, GTPBP8, MTFR1, MRPS23, ADNP2, RTKN, PPP3CB, GNG12, COX6C, DDAH2, BCKDK, RICTOR, MCL1, DCAF5, COA7
+mitochondrion	21	TIMM50, LARS2, DNA2, MTG1, GCDH, L2HGDH, NIPSNAP2, CCM2, PDPR, GTPBP8, MTFR1, MRPS23, LACTB, ARMCX2, NARS2, COX6C, DDAH2, BCKDK, MCL1, SLC25A25, COA7
+cytoplasm	13	PLEKHO1, S100A10, DNA2, HSPBAP1, DTNB, JADE1, CCM2, PDPR, CNKSR3, PPP3CB, MCL1, RCAN2, DCAF5
+nucleus	11	UBE2H, PLEKHO1, DNA2, DTNB, JADE1, RNF138, ZNF223, ADNP2, MCL1, WDR70, RCAN2
+cytosol	11	UBE2H, GART, FBXL12, MTFR1, RTKN, PPP3CB, LACTB, NARS2, DDAH2, RICTOR, MCL1
+nucleoplasm	9	TIMM50, DNA2, JADE1, PPP3CB, NARS2, MCL1, WDR70, DCAF5, COA7
+metal ion binding	7	DNA2, GART, JADE1, RNF138, ZNF223, GTPBP8, ADNP2
+ATP binding	6	UBE2H, LARS2, DNA2, GART, NARS2, BCKDK
+mitochondrial inner membrane	6	TIMM50, MTG1, L2HGDH, MRPS23, COX6C, SLC25A25
+mitochondrial matrix	6	LARS2, MTG1, GCDH, PDPR, NARS2, BCKDK
+plasma membrane	5	DTNB, JADE1, MTFR1, PPP3CB, GNG12
+RNA binding	4	TIMM50, DNA2, ZNFX1, MRPS23
+membrane	4	P4HA1, L2HGDH, TMCO6, MCL1
+extracellular exosome	4	S100A10, GART, GNG12, DDAH2
+mitochondrial outer membrane	4	NIPSNAP2, ZNFX1, ARMCX2, MCL1
+signal transduction	4	RTKN, PPP3CB, GNG12, RASSF8
+protein dephosphorylation	3	TIMM50, PDPR, PPP3CB
+calcium ion binding	3	FKBP9, PPP3CB, SLC25A25
+mitochondrial translation	3	LARS2, MTG1, MRPS23
+DNA binding	3	DNA2, ZNF223, ADNP2
+GTP binding	3	MTG1, GTPBP8, RTKN
+protein ubiquitination	3	FBXL12, RNF138, DCAF5
+cellular_component	3	ADNP2, RTKN, RCAN2
+negative regulation of apoptotic process	3	DDAH2, RICTOR, MCL1
+protein serine/threonine phosphatase activity	2	TIMM50, PPP3CB
+release of cytochrome c from mitochondria	2	TIMM50, MCL1
+nuclear speck	2	TIMM50, JADE1
+endoplasmic reticulum	2	FKBP9, P4HA1
+identical protein binding	2	P4HA1, LACTB
+protein homodimerization activity	2	S100A10, MCL1
+positive regulation of transcription by RNA polymerase II	2	S100A10, PPP3CB
+helicase activity	2	DNA2, ZNFX1
+mitochondrion organization	2	NIPSNAP2, MTFR1
+zinc ion binding	2	DTNB, ZNFX1
+regulation of DNA-templated transcription	2	JADE1, ZNF223
+regulation of transcription by RNA polymerase II	2	JADE1, ADNP2
+apoptotic process	2	JADE1, RTKN
+positive regulation of DNA-templated transcription	2	JADE1, PPP3CB
+protein kinase binding	2	RNF138, RICTOR
+site of double-strand break	2	RNF138, WDR70
+heart development	2	CCM2, PPP3CB
+multicellular organism growth	2	CCM2, SLC25A25
+regulation of gene expression	2	ADNP2, RICTOR
+enzyme binding	2	PPP3CB, WDR70
+protein phosphorylation	2	PPP3CB, BCKDK
+response to cytokine	2	PPP3CB, MCL1
+nucleic acid binding	2	NARS2, RCAN2
+cellular respiration	2	COX6C, SLC25A25
+phosphorylation	2	BCKDK, RICTOR
+ubiquitin-protein transferase activity	1	UBE2H
+ubiquitin conjugating enzyme activity	1	UBE2H
+protein polyubiquitination	1	UBE2H
+ubiquitin-dependent protein catabolic process	1	UBE2H
+proteasome-mediated ubiquitin-dependent protein catabolic process	1	UBE2H
+protein K48-linked ubiquitination	1	UBE2H
+protein K11-linked ubiquitination	1	UBE2H
+phosphoprotein phosphatase activity	1	TIMM50
+protein tyrosine phosphatase activity	1	TIMM50
+interleukin-2 receptor binding	1	TIMM50
+ribonucleoprotein complex binding	1	TIMM50
+intracellular protein transport	1	TIMM50
+mitochondrial membrane organization	1	TIMM50
+protein import into mitochondrial matrix	1	TIMM50
+TIM23 mitochondrial import inner membrane translocase complex	1	TIMM50
+myoblast fusion	1	PLEKHO1
+regulation of cell shape	1	PLEKHO1
+myoblast migration	1	PLEKHO1
+lamellipodium morphogenesis	1	PLEKHO1
+regulation of myoblast fusion	1	PLEKHO1
+ruffle membrane	1	PLEKHO1
+muscle cell projection membrane	1	PLEKHO1
+peptidyl-prolyl cis-trans isomerase activity	1	FKBP9
+protein folding	1	FKBP9
+procollagen-proline 4-dioxygenase activity	1	P4HA1
+iron ion binding	1	P4HA1
+L-ascorbic acid binding	1	P4HA1
+peptidyl-proline hydroxylation to 4-hydroxy-L-proline	1	P4HA1
+collagen fibril organization	1	P4HA1
+endoplasmic reticulum lumen	1	P4HA1
+procollagen-proline 4-dioxygenase complex	1	P4HA1
+intracellular membrane-bounded organelle	1	P4HA1
+lipid binding	1	S100A10
+transmembrane transporter binding	1	S100A10
+membrane raft assembly	1	S100A10
+vesicle budding from membrane	1	S100A10
+positive regulation of plasminogen activation	1	S100A10
+mRNA transcription by RNA polymerase II	1	S100A10
+positive regulation of GTPase activity	1	S100A10
+positive regulation of exocytosis	1	S100A10
+regulation of neurogenesis	1	S100A10
+positive regulation of binding	1	S100A10
+positive regulation of stress fiber assembly	1	S100A10
+positive regulation of focal adhesion assembly	1	S100A10
+protein localization to plasma membrane	1	S100A10
+positive regulation of substrate adhesion-dependent cell spreading	1	S100A10
+positive regulation of plasma membrane repair	1	S100A10
+extracellular region	1	S100A10
+extracellular space	1	S100A10
+cell surface	1	S100A10
+nuclear matrix	1	S100A10
+membrane raft	1	S100A10
+collagen-containing extracellular matrix	1	S100A10
+RNA polymerase II transcription regulator complex	1	S100A10
+plasma membrane protein complex	1	S100A10
+AnxA2-p11 complex	1	S100A10
+aminoacyl-tRNA editing activity	1	LARS2
+leucine-tRNA ligase activity	1	LARS2
+tRNA aminoacylation for protein translation	1	LARS2
+leucyl-tRNA aminoacylation	1	LARS2
+aminoacyl-tRNA metabolism involved in translational fidelity	1	LARS2
+DNA helicase activity	1	DNA2
+nuclease activity	1	DNA2
+ATP hydrolysis activity	1	DNA2
+site-specific endodeoxyribonuclease activity, specific for altered base	1	DNA2
+5'-flap endonuclease activity	1	DNA2
+single-stranded DNA helicase activity	1	DNA2
+5'-3' DNA helicase activity	1	DNA2
+4 iron, 4 sulfur cluster binding	1	DNA2
+DNA replication checkpoint signaling	1	DNA2
+telomere maintenance	1	DNA2
+DNA double-strand break processing	1	DNA2
+DNA replication	1	DNA2
+mitochondrial DNA replication	1	DNA2
+base-excision repair	1	DNA2
+telomere maintenance via semi-conservative replication	1	DNA2
+DNA duplex unwinding	1	DNA2
+DNA replication, Okazaki fragment processing	1	DNA2
+DNA replication, removal of RNA primer	1	DNA2
+mitochondrial DNA repair	1	DNA2
+G-quadruplex DNA unwinding	1	DNA2
+positive regulation of DNA replication	1	DNA2
+replication fork reversal	1	DNA2
+nucleic acid phosphodiester bond hydrolysis	1	DNA2
+t-circle formation	1	DNA2
+mitotic telomere maintenance via semi-conservative replication	1	DNA2
+chromosome, telomeric region	1	DNA2
+mitochondrial nucleoid	1	DNA2
+GTPase activity	1	MTG1
+regulation of respiratory system process	1	MTG1
+regulation of mitochondrial translation	1	MTG1
+mitochondrial ribosome	1	MTG1
+2-oxoglutarate-dependent dioxygenase activity	1	HSPBAP1
+fatty-acyl-CoA binding	1	GCDH
+glutaryl-CoA dehydrogenase activity	1	GCDH
+flavin adenine dinucleotide binding	1	GCDH
+tryptophan metabolic process	1	GCDH
+fatty acid beta-oxidation using acyl-CoA dehydrogenase	1	GCDH
+fatty-acyl-CoA biosynthetic process	1	GCDH
+2-hydroxyglutarate dehydrogenase activity	1	L2HGDH
+2-oxoglutarate metabolic process	1	L2HGDH
+small molecule metabolic process	1	L2HGDH
+cysteine-type deubiquitinase activity	1	USP54
+protein deubiquitination	1	USP54
+oxidative phosphorylation	1	NIPSNAP2
+positive regulation of high voltage-gated calcium channel activity	1	NIPSNAP2
+phosphoribosylamine-glycine ligase activity	1	GART
+phosphoribosylformylglycinamidine cyclo-ligase activity	1	GART
+phosphoribosylglycinamide formyltransferase activity	1	GART
+brainstem development	1	GART
+purine nucleotide biosynthetic process	1	GART
+GMP biosynthetic process	1	GART
+'de novo' IMP biosynthetic process	1	GART
+glycine metabolic process	1	GART
+purine ribonucleoside monophosphate biosynthetic process	1	GART
+response to organic substance	1	GART
+response to inorganic substance	1	GART
+cerebellum development	1	GART
+cerebral cortex development	1	GART
+'de novo' AMP biosynthetic process	1	GART
+adenine biosynthetic process	1	GART
+tetrahydrofolate biosynthetic process	1	GART
+'de novo' XMP biosynthetic process	1	GART
+neuron differentiation	1	DTNB
+synaptic signaling	1	DTNB
+basal plasma membrane	1	DTNB
+postsynaptic density	1	DTNB
+dendrite	1	DTNB
+synapse	1	DTNB
+inhibitory synapse	1	DTNB
+SCF-dependent proteasomal ubiquitin-dependent protein catabolic process	1	FBXL12
+SCF ubiquitin ligase complex	1	FBXL12
+transcription coactivator activity	1	JADE1
+histone H3K14 acetyltransferase activity	1	JADE1
+histone H4K5 acetyltransferase activity	1	JADE1
+histone H4K8 acetyltransferase activity	1	JADE1
+histone H4K12 acetyltransferase activity	1	JADE1
+histone H4K16 acetyltransferase activity	1	JADE1
+regulation of cell growth	1	JADE1
+regulation of DNA replication	1	JADE1
+chromatin remodeling	1	JADE1
+histone modification	1	JADE1
+negative regulation of cell growth	1	JADE1
+histone H4-K5 acetylation	1	JADE1
+histone H4-K8 acetylation	1	JADE1
+histone H4-K12 acetylation	1	JADE1
+regulation of cell cycle	1	JADE1
+negative regulation of canonical Wnt signaling pathway	1	JADE1
+negative regulation of G1/S transition of mitotic cell cycle	1	JADE1
+regulation of DNA biosynthetic process	1	JADE1
+histone acetyltransferase complex	1	JADE1
+centrosome	1	JADE1
+ciliary basal body	1	JADE1
+single-stranded DNA binding	1	RNF138
+ubiquitin protein ligase activity	1	RNF138
+double-strand break repair via homologous recombination	1	RNF138
+DNA double-strand break processing involved in repair via single-strand annealing	1	RNF138
+Wnt signaling pathway	1	RNF138
+cellular response to leukemia inhibitory factor	1	RNF138
+vasculogenesis	1	CCM2
+in utero embryonic development	1	CCM2
+endothelial cell development	1	CCM2
+endothelium development	1	CCM2
+integrin-mediated signaling pathway	1	CCM2
+cell-cell junction organization	1	CCM2
+regulation of angiogenesis	1	CCM2
+inner ear development	1	CCM2
+venous blood vessel morphogenesis	1	CCM2
+stress-activated MAPK cascade	1	CCM2
+pericardium development	1	CCM2
+blood vessel endothelial cell differentiation	1	CCM2
+endothelial tube morphogenesis	1	CCM2
+protein-containing complex	1	CCM2
+nuclear import signal receptor activity	1	TMCO6
+protein import into nucleus	1	TMCO6
+biological_process	1	ZNF223
+activation of innate immune response	1	ZNFX1
+small ncRNA-mediated heterochromatin formation	1	ZNFX1
+defense response to bacterium	1	ZNFX1
+negative regulation of viral genome replication	1	ZNFX1
+innate immune response	1	ZNFX1
+defense response to virus	1	ZNFX1
+cytoplasmic stress granule	1	ZNFX1
+nuclear RNA-directed RNA polymerase complex	1	ZNFX1
+oxidoreductase activity	1	PDPR
+positive regulation of pyruvate dehydrogenase activity	1	PDPR
+pyruvate dehydrogenase (lipoamide) phosphatase complex	1	PDPR
+positive regulation of sodium ion transport	1	CNKSR3
+negative regulation of peptidyl-serine phosphorylation	1	CNKSR3
+negative regulation of ERK1 and ERK2 cascade	1	CNKSR3
+positive regulation of sodium ion transmembrane transporter activity	1	CNKSR3
+apical plasma membrane	1	CNKSR3
+mitochondrial fission	1	MTFR1
+aerobic respiration	1	MTFR1
+structural constituent of ribosome	1	MRPS23
+mitochondrial small ribosomal subunit	1	MRPS23
+nuclear membrane	1	MRPS23
+DNA-binding transcription factor activity, RNA polymerase II-specific	1	ADNP2
+molecular_function	1	ADNP2
+nervous system development	1	ADNP2
+chromatin	1	ADNP2
+GTPase inhibitor activity	1	RTKN
+small GTPase binding	1	RTKN
+mitotic cytokinesis	1	RTKN
+actomyosin contractile ring assembly	1	RTKN
+Rho protein signal transduction	1	RTKN
+septin ring organization	1	RTKN
+regulation of apoptotic process	1	RTKN
+actomyosin contractile ring	1	RTKN
+calmodulin binding	1	PPP3CB
+myosin phosphatase activity	1	PPP3CB
+protein phosphatase 2B binding	1	PPP3CB
+calmodulin-dependent protein phosphatase activity	1	PPP3CB
+protein dimerization activity	1	PPP3CB
+T cell mediated cytotoxicity	1	PPP3CB
+negative regulation of T cell mediated cytotoxicity	1	PPP3CB
+lymphangiogenesis	1	PPP3CB
+learning	1	PPP3CB
+memory	1	PPP3CB
+dephosphorylation	1	PPP3CB
+calcium-ion regulated exocytosis	1	PPP3CB
+negative regulation of signaling	1	PPP3CB
+T cell differentiation	1	PPP3CB
+locomotion involved in locomotory behavior	1	PPP3CB
+calcineurin-NFAT signaling cascade	1	PPP3CB
+positive regulation of insulin secretion involved in cellular response to glucose stimulus	1	PPP3CB
+T cell proliferation	1	PPP3CB
+T cell activation	1	PPP3CB
+T cell homeostasis	1	PPP3CB
+regulation of synaptic plasticity	1	PPP3CB
+axon extension	1	PPP3CB
+skeletal muscle fiber development	1	PPP3CB
+regulation of insulin secretion	1	PPP3CB
+positive regulation of calcineurin-NFAT signaling cascade	1	PPP3CB
+calcineurin-mediated signaling	1	PPP3CB
+positive regulation of protein localization to nucleus	1	PPP3CB
+regulation of synaptic vesicle endocytosis	1	PPP3CB
+negative regulation of voltage-gated calcium channel activity	1	PPP3CB
+positive regulation of voltage-gated calcium channel activity	1	PPP3CB
+positive regulation of calcium ion import across plasma membrane	1	PPP3CB
+positive regulation of lysosome organization	1	PPP3CB
+negative regulation of calcium ion import across plasma membrane	1	PPP3CB
+calcineurin complex	1	PPP3CB
+protein serine/threonine phosphatase complex	1	PPP3CB
+Z disc	1	PPP3CB
+T-tubule	1	PPP3CB
+glutamatergic synapse	1	PPP3CB
+peptidase activity	1	LACTB
+proteolysis	1	LACTB
+lipid metabolic process	1	LACTB
+regulation of lipid metabolic process	1	LACTB
+PDZ domain binding	1	GNG12
+G-protein beta-subunit binding	1	GNG12
+G protein-coupled receptor signaling pathway	1	GNG12
+heterotrimeric G-protein complex	1	GNG12
+asparagine-tRNA ligase activity	1	NARS2
+asparaginyl-tRNA aminoacylation	1	NARS2
+generation of precursor metabolites and energy	1	COX6C
+mitochondrial electron transport, cytochrome c to oxygen	1	COX6C
+mitochondrial respiratory chain complex IV	1	COX6C
+catalytic activity	1	DDAH2
+dimethylargininase activity	1	DDAH2
+amino acid binding	1	DDAH2
+citrulline metabolic process	1	DDAH2
+arginine metabolic process	1	DDAH2
+arginine catabolic process	1	DDAH2
+nitric oxide biosynthetic process	1	DDAH2
+nitric oxide mediated signal transduction	1	DDAH2
+positive regulation of nitric oxide biosynthetic process	1	DDAH2
+regulation of nitric-oxide synthase activity	1	DDAH2
+protein serine/threonine kinase activity	1	BCKDK
+pyruvate dehydrogenase (acetyl-transferring) kinase activity	1	BCKDK
+kinase activity	1	BCKDK
+[3-methyl-2-oxobutanoate dehydrogenase (acetyl-transferring)] kinase activity	1	BCKDK
+amino acid catabolic process	1	BCKDK
+branched-chain amino acid catabolic process	1	BCKDK
+regulation of glucose metabolic process	1	BCKDK
+negative regulation of cellular amino acid metabolic process	1	BCKDK
+mitochondrial alpha-ketoglutarate dehydrogenase complex	1	BCKDK
+ribosome binding	1	RICTOR
+protein serine/threonine kinase activator activity	1	RICTOR
+molecular adaptor activity	1	RICTOR
+cytoskeleton organization	1	RICTOR
+embryo development ending in birth or egg hatching	1	RICTOR
+peptidyl-serine phosphorylation	1	RICTOR
+positive regulation of cell growth	1	RICTOR
+positive regulation of actin filament polymerization	1	RICTOR
+actin cytoskeleton reorganization	1	RICTOR
+cellular response to nutrient levels	1	RICTOR
+positive regulation of TOR signaling	1	RICTOR
+regulation of actin cytoskeleton organization	1	RICTOR
+regulation of peptidyl-serine phosphorylation	1	RICTOR
+TORC2 signaling	1	RICTOR
+regulation of GTPase activity	1	RICTOR
+regulation of inflammatory response	1	RICTOR
+positive regulation of peptidyl-tyrosine phosphorylation	1	RICTOR
+regulation of protein kinase B signaling	1	RICTOR
+positive regulation of protein kinase B signaling	1	RICTOR
+regulation of establishment of cell polarity	1	RICTOR
+Golgi apparatus	1	RICTOR
+TORC2 complex	1	RICTOR
+snRNA 3'-end processing	1	INTS6L
+integrator complex	1	INTS6L
+protein transmembrane transporter activity	1	MCL1
+channel activity	1	MCL1
+protein heterodimerization activity	1	MCL1
+BH3 domain binding	1	MCL1
+cell fate determination	1	MCL1
+DNA damage response	1	MCL1
+mitochondrial fusion	1	MCL1
+intrinsic apoptotic signaling pathway in response to DNA damage	1	MCL1
+negative regulation of autophagy	1	MCL1
+cellular homeostasis	1	MCL1
+positive regulation of apoptotic process	1	MCL1
+protein transmembrane transport	1	MCL1
+extrinsic apoptotic signaling pathway in absence of ligand	1	MCL1
+positive regulation of oxidative stress-induced neuron intrinsic apoptotic signaling pathway	1	MCL1
+negative regulation of anoikis	1	MCL1
+negative regulation of extrinsic apoptotic signaling pathway in absence of ligand	1	MCL1
+Bcl-2 family protein complex	1	MCL1
+ATP transmembrane transporter activity	1	SLC25A25
+ATP:inorganic phosphate antiporter activity	1	SLC25A25
+response to dietary excess	1	SLC25A25
+response to activity	1	SLC25A25
+ADP transport	1	SLC25A25
+ATP transport	1	SLC25A25
+response to food	1	SLC25A25
+camera-type eye development	1	SLC25A25
+ATP metabolic process	1	SLC25A25
+adipose tissue development	1	SLC25A25
+calcium ion transmembrane transport	1	SLC25A25
+calcium-dependent protein serine/threonine phosphatase regulator activity	1	RCAN2
+calcium-mediated signaling	1	RCAN2
+negative regulation of fatty acid biosynthetic process	1	DCAF5
+Cul4-RING E3 ubiquitin ligase complex	1	DCAF5
+mitochondrial intermembrane space	1	COA7

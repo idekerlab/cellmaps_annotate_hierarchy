@@ -1,0 +1,105 @@
+Feature	Number of Genes	Genes
+protein binding	4	CLTCL1, CAMLG, DDX11, PACSIN1
+cytoplasm	3	CAMLG, DDX11, PACSIN1
+cytosol	2	CLTCL1, PACSIN1
+plasma membrane	2	CLTCL1, PACSIN1
+membrane	2	CLTCL1, CAMLG
+extracellular exosome	2	CLTCL1, DDX11
+structural molecule activity	1	CLTCL1
+clathrin light chain binding	1	CLTCL1
+mitotic cell cycle	1	CLTCL1
+intracellular protein transport	1	CLTCL1
+receptor-mediated endocytosis	1	CLTCL1
+anatomical structure morphogenesis	1	CLTCL1
+retrograde transport, endosome to Golgi	1	CLTCL1
+ glucose import	1	CLTCL1
+early endosome	1	CLTCL1
+late endosome	1	CLTCL1
+trans-Golgi network	1	CLTCL1
+spindle	1	CLTCL1
+clathrin-coated pit	1	CLTCL1
+clathrin coat of trans-Golgi network vesicle	1	CLTCL1
+coated vesicle	1	CLTCL1
+clathrin-coated vesicle	1	CLTCL1
+clathrin-coated endocytic vesicle	1	CLTCL1
+recycling endosome	1	CLTCL1
+clathrin complex	1	CLTCL1
+sorting endosome	1	CLTCL1
+ubiquitin protein ligase binding	1	CAMLG
+B cell homeostasis	1	CAMLG
+receptor recycling	1	CAMLG
+defense response	1	CAMLG
+signal transduction	1	CAMLG
+epidermal growth factor receptor signaling pathway	1	CAMLG
+vesicle-mediated transport	1	CAMLG
+negative regulation of protein ubiquitination	1	CAMLG
+negative regulation of proteasomal ubiquitin-dependent protein catabolic process	1	CAMLG
+protein insertion into ER membrane	1	CAMLG
+protein stabilization	1	CAMLG
+tail-anchored membrane protein insertion into ER membrane	1	CAMLG
+endoplasmic reticulum	1	CAMLG
+endoplasmic reticulum membrane	1	CAMLG
+GET complex	1	CAMLG
+DNA binding	1	DDX11
+DNA helicase activity	1	DDX11
+chromatin binding	1	DDX11
+DNA replication origin binding	1	DDX11
+double-stranded DNA binding	1	DDX11
+single-stranded DNA binding	1	DDX11
+single-stranded RNA binding	1	DDX11
+helicase activity	1	DDX11
+ATP binding	1	DDX11
+ATP-dependent activity, acting on DNA	1	DDX11
+ATP-dependent activity, acting on RNA	1	DDX11
+ATP hydrolysis activity	1	DDX11
+5'-3' DNA helicase activity	1	DDX11
+triplex DNA binding	1	DDX11
+metal ion binding	1	DDX11
+4 iron, 4 sulfur cluster binding	1	DDX11
+G-quadruplex DNA binding	1	DDX11
+DNA repair	1	DDX11
+DNA damage response	1	DDX11
+sister chromatid cohesion	1	DDX11
+replication fork processing	1	DDX11
+ endodeoxyribonuclease activity	1	DDX11
+negative regulation of protein binding	1	DDX11
+DNA duplex unwinding	1	DDX11
+establishment of sister chromatid cohesion	1	DDX11
+ chromatin binding	1	DDX11
+G-quadruplex DNA unwinding	1	DDX11
+ sister chromatid cohesion	1	DDX11
+cellular response to hydroxyurea	1	DDX11
+cellular response to cisplatin	1	DDX11
+ transcription of nucleolar large rRNA by RNA polymerase I	1	DDX11
+cellular response to bleomycin	1	DDX11
+nucleolar chromatin organization	1	DDX11
+ double-strand break repair	1	DDX11
+chromatin	1	DDX11
+spindle pole	1	DDX11
+nucleus	1	DDX11
+nucleoplasm	1	DDX11
+nucleolus	1	DDX11
+centrosome	1	DDX11
+midbody	1	DDX11
+phospholipid binding	1	PACSIN1
+cytoskeletal protein binding	1	PACSIN1
+identical protein binding	1	PACSIN1
+cytoskeleton organization	1	PACSIN1
+actin filament organization	1	PACSIN1
+ endocytosis	1	PACSIN1
+negative regulation of endocytosis	1	PACSIN1
+synaptic vesicle endocytosis	1	PACSIN1
+neuron projection morphogenesis	1	PACSIN1
+protein localization to membrane	1	PACSIN1
+protein localization to plasma membrane	1	PACSIN1
+plasma membrane tubulation	1	PACSIN1
+ dendrite development	1	PACSIN1
+endosome	1	PACSIN1
+COPI-coated vesicle	1	PACSIN1
+cytoplasmic vesicle membrane	1	PACSIN1
+ruffle membrane	1	PACSIN1
+axon terminus	1	PACSIN1
+synapse	1	PACSIN1
+perinuclear region of cytoplasm	1	PACSIN1
+photoreceptor ribbon synapse	1	PACSIN1
+presynaptic endocytic zone	1	PACSIN1

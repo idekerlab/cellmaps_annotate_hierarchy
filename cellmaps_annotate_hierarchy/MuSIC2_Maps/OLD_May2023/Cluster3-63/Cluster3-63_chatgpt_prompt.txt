@@ -1,0 +1,18 @@
+Write a critical and concise analysis of this system, describing your reasoning as you go and providing references to scientific papers. Format the page with Title, Summary, and References sections.
+What cellular components and complexes are involved in this system?
+What mechanisms and biological processes are performed by this system?
+Propose a name for the system to reflect the function and location, and should be specific but brief. Do not compose an acronym. Place it as the title of your report
+Provide complete paper references with pubmed link
+Proteins: AURKA, ABCA12, CPE, DOCK8.
+
+A critical goal of the analysis is to determine if this is a novel complex or if any proteins are novel members of a known complex
+System features from GO terms: 
+protein binding: 4 proteins: AURKA, ABCA12, CPE, DOCK8
+cytosol: 3 proteins: AURKA, ABCA12, DOCK8
+plasma membrane: 3 proteins: ABCA12, CPE, DOCK8
+ATP binding: 2 proteins: AURKA, ABCA12
+molecular function activator activity: 2 proteins: AURKA, CPE
+nucleoplasm: 2 proteins: AURKA, DOCK8
+cytoplasm: 2 proteins: ABCA12, DOCK8
+membrane: 2 proteins: ABCA12, DOCK8
+transport vesicle membrane: 2 proteins: ABCA12, CPE

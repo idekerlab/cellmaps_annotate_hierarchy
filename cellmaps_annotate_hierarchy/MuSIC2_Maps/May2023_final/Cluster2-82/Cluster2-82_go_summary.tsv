@@ -1,0 +1,108 @@
+Feature	Number of Genes	Genes
+protein binding	3	CEP85, RNF115, TRAF6
+cytosol	3	CEP85, RNF115, TRAF6
+cytoplasm	3	RNF115, TRAF6, TTLL1
+ubiquitin-protein transferase activity	2	RNF115, TRAF6
+metal ion binding	2	RNF115, TTLL1
+ubiquitin protein ligase activity	2	RNF115, TRAF6
+protein autoubiquitination	2	RNF115, TRAF6
+protein K63-linked ubiquitination	2	RNF115, TRAF6
+negative regulation of protein kinase activity	1	CEP85
+chromosome segregation	1	CEP85
+ mitotic centrosome separation	1	CEP85
+pericentriolar material	1	CEP85
+spindle pole	1	CEP85
+nucleolus	1	CEP85
+Golgi apparatus	1	CEP85
+centrosome	1	CEP85
+protein ubiquitination	1	RNF115
+negative regulation of epidermal growth factor receptor signaling pathway	1	RNF115
+ubiquitin-dependent protein catabolic process via the multivesicular body sorting pathway	1	RNF115
+protein K48-linked ubiquitination	1	RNF115
+tumor necrosis factor receptor binding	1	TRAF6
+zinc ion binding	1	TRAF6
+ubiquitin conjugating enzyme binding	1	TRAF6
+ubiquitin protein ligase binding	1	TRAF6
+thioesterase binding	1	TRAF6
+tumor necrosis factor receptor superfamily binding	1	TRAF6
+ubiquitin-ubiquitin ligase activity	1	TRAF6
+identical protein binding	1	TRAF6
+histone deacetylase binding	1	TRAF6
+protein kinase B binding	1	TRAF6
+protein serine/threonine kinase activator activity	1	TRAF6
+negative regulation of transcription by RNA polymerase II	1	TRAF6
+protein polyubiquitination	1	TRAF6
+ossification	1	TRAF6
+in utero embryonic development	1	TRAF6
+neural tube closure	1	TRAF6
+stimulatory C-type lectin receptor signaling pathway	1	TRAF6
+ immunoglobulin production	1	TRAF6
+ T cell cytokine production	1	TRAF6
+cytosolic pattern recognition receptor signaling pathway	1	TRAF6
+MyD88-dependent toll-like receptor signaling pathway	1	TRAF6
+DNA damage response	1	TRAF6
+I-kappaB kinase/NF-kappaB signaling	1	TRAF6
+activation of NF-kappaB-inducing kinase activity	1	TRAF6
+antigen processing and presentation of exogenous peptide antigen via MHC class II	1	TRAF6
+osteoclast differentiation	1	TRAF6
+ protein ubiquitination	1	TRAF6
+lipopolysaccharide-mediated signaling pathway	1	TRAF6
+ lipopolysaccharide-mediated signaling pathway	1	TRAF6
+activation of protein kinase activity	1	TRAF6
+ interleukin-12 production	1	TRAF6
+ interleukin-2 production	1	TRAF6
+ interleukin-6 production	1	TRAF6
+tumor necrosis factor-mediated signaling pathway	1	TRAF6
+NIK/NF-kappaB signaling	1	TRAF6
+Fc-epsilon receptor signaling pathway	1	TRAF6
+interleukin-17A-mediated signaling pathway	1	TRAF6
+T-helper 1 type immune response	1	TRAF6
+ T cell proliferation	1	TRAF6
+odontogenesis of dentin-containing tooth	1	TRAF6
+ apoptotic process	1	TRAF6
+myeloid dendritic cell differentiation	1	TRAF6
+ I-kappaB kinase/NF-kappaB signaling	1	TRAF6
+ JUN kinase activity	1	TRAF6
+bone resorption	1	TRAF6
+ osteoclast differentiation	1	TRAF6
+negative regulation of DNA-templated transcription	1	TRAF6
+ transcription by RNA polymerase II	1	TRAF6
+ JNK cascade	1	TRAF6
+T cell receptor signaling pathway	1	TRAF6
+ DNA-binding transcription factor activity	1	TRAF6
+ NF-kappaB transcription factor activity	1	TRAF6
+interleukin-1-mediated signaling pathway	1	TRAF6
+response to interleukin-1	1	TRAF6
+cellular response to lipopolysaccharide	1	TRAF6
+cellular response to cytokine stimulus	1	TRAF6
+interleukin-17-mediated signaling pathway	1	TRAF6
+antiviral innate immune response	1	TRAF6
+ NIK/NF-kappaB signaling	1	TRAF6
+ leukocyte adhesion to vascular endothelial cell	1	TRAF6
+ transcription regulatory region DNA binding	1	TRAF6
+nucleus	1	TRAF6
+lipid droplet	1	TRAF6
+plasma membrane	1	TRAF6
+cell cortex	1	TRAF6
+cytoplasmic side of plasma membrane	1	TRAF6
+endosome membrane	1	TRAF6
+extrinsic component of cytoplasmic side of plasma membrane	1	TRAF6
+protein-containing complex	1	TRAF6
+CD40 receptor complex	1	TRAF6
+perinuclear region of cytoplasm	1	TRAF6
+plasma membrane signaling receptor complex	1	TRAF6
+ATP binding	1	TTLL1
+tubulin binding	1	TTLL1
+tubulin-glutamic acid ligase activity	1	TTLL1
+microtubule cytoskeleton organization	1	TTLL1
+immune response in nasopharyngeal-associated lymphoid tissue	1	TTLL1
+sperm axoneme assembly	1	TTLL1
+protein polyglutamylation	1	TTLL1
+cerebellar Purkinje cell differentiation	1	TTLL1
+mucociliary clearance	1	TTLL1
+ blastocyst development	1	TTLL1
+extracellular region	1	TTLL1
+microtubule	1	TTLL1
+cilium	1	TTLL1
+motile cilium	1	TTLL1
+ciliary basal body	1	TTLL1

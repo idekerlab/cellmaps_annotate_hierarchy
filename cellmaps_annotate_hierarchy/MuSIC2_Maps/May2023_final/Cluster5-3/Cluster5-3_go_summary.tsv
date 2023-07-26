@@ -1,0 +1,136 @@
+Feature	Number of Genes	Genes
+protein binding	13	CRELD1, GSTM3, TTK, EIF4G1, NFU1, RPL13, RPL14, RPL18, RPL30, RPL5, RPS10, RPS11, RPS8
+membrane	13	CRELD1, TTK, RPL35, RPL10L, EIF4G1, RPL13, RPL14, RPL18, RPL30, RPL5, RPS10, RPS11, RPS8
+cytosol	13	GSTM3, RPL35, RPL10L, EIF4G1, NFU1, RPL13, RPL14, RPL18, RPL30, RPL5, RPS10, RPS11, RPS8
+cytoplasm	12	GSTM3, TTK, RPL35, EIF4G1, RPL13, RPL14, RPL18, RPL30, RPL5, RPS10, RPS11, RPS8
+translation	11	RPL35, RPL10L, EIF4G1, RPL13, RPL14, RPL18, RPL30, RPL5, RPS10, RPS11, RPS8
+nucleus	10	GSTM3, TTK, RPL10L, EIF4G1, NFU1, RPL13, RPL18, RPL30, RPL5, RPS8
+RNA binding	10	RPL35, EIF4G1, RPL13, RPL14, RPL18, RPL30, RPL5, RPS10, RPS11, RPS8
+structural constituent of ribosome	10	RPL35, RPL10L, RPL13, RPL14, RPL18, RPL30, RPL5, RPS10, RPS11, RPS8
+cytoplasmic translation	9	RPL35, RPL13, RPL14, RPL18, RPL30, RPL5, RPS10, RPS11, RPS8
+cytosolic ribosome	9	RPL35, RPL13, RPL14, RPL18, RPL30, RPL5, RPS10, RPS11, RPS8
+nucleolus	7	RPL35, RPL13, RPL18, RPL5, RPS10, RPS11, RPS8
+cytosolic large ribosomal subunit	7	RPL35, RPL10L, RPL13, RPL14, RPL18, RPL30, RPL5
+extracellular exosome	6	GSTM3, RPL14, RPL30, RPL5, RPS11, RPS8
+focal adhesion	6	RPL18, RPL30, RPL5, RPS10, RPS11, RPS8
+endoplasmic reticulum	5	RPL10L, RPL13, RPL18, RPL5, RPS8
+nucleoplasm	5	NFU1, RPL5, RPS10, RPS11, RPS8
+identical protein binding	3	GSTM3, TTK, EIF4G1
+ribosome	3	RPL10L, RPS10, RPS11
+cytosolic small ribosomal subunit	3	RPS10, RPS11, RPS8
+ATP binding	2	TTK, EIF4G1
+mRNA binding	2	RPL35, EIF4G1
+ribosomal large subunit assembly	2	RPL10L, RPL5
+polysome	2	RPL10L, EIF4G1
+synapse	2	RPL13, RPS11
+rRNA processing	2	RPL14, RPL5
+ribosomal large subunit biogenesis	2	RPL14, RPL5
+postsynaptic density	2	RPL14, RPL30
+polysomal ribosome	2	RPL18, RPL30
+ribonucleoprotein complex	2	RPL5, RPS8
+ribosomal small subunit biogenesis	2	RPS11, RPS8
+small-subunit processome	2	RPS11, RPS8
+protein disulfide isomerase activity	1	CRELD1
+extracellular matrix structural constituent	1	CRELD1
+calcium ion binding	1	CRELD1
+endocardial cushion development	1	CRELD1
+cardiac septum development	1	CRELD1
+collagen-containing extracellular matrix	1	CRELD1
+glutathione transferase activity	1	GSTM3
+enzyme binding	1	GSTM3
+protein homodimerization activity	1	GSTM3
+glutathione binding	1	GSTM3
+glutathione metabolic process	1	GSTM3
+establishment of blood-nerve barrier	1	GSTM3
+nitrobenzene metabolic process	1	GSTM3
+xenobiotic catabolic process	1	GSTM3
+response to estrogen	1	GSTM3
+cellular detoxification of nitrogen compound	1	GSTM3
+sperm fibrous sheath	1	GSTM3
+intercellular bridge	1	GSTM3
+protein serine/threonine kinase activity	1	TTK
+protein serine/threonine/tyrosine kinase activity	1	TTK
+protein tyrosine kinase activity	1	TTK
+kinetochore binding	1	TTK
+protein serine kinase activity	1	TTK
+spindle organization	1	TTK
+mitotic spindle organization	1	TTK
+chromosome segregation	1	TTK
+mitotic spindle assembly checkpoint signaling	1	TTK
+ cell population proliferation	1	TTK
+ pathway-restricted SMAD protein phosphorylation	1	TTK
+female meiosis chromosome segregation	1	TTK
+peptidyl-serine phosphorylation	1	TTK
+peptidyl-threonine phosphorylation	1	TTK
+peptidyl-tyrosine phosphorylation	1	TTK
+meiotic spindle assembly checkpoint signaling	1	TTK
+protein localization to kinetochore	1	TTK
+protein autophosphorylation	1	TTK
+protein localization to meiotic spindle midzone	1	TTK
+kinetochore	1	TTK
+spindle	1	TTK
+maturation of LSU-rRNA from tricistronic rRNA transcript (SSU-rRNA, 5.8S rRNA, LSU-rRNA)	1	RPL35
+male meiosis I	1	RPL10L
+spermatogenesis	1	RPL10L
+cell differentiation	1	RPL10L
+translation initiation factor activity	1	EIF4G1
+translation factor activity, RNA binding	1	EIF4G1
+eukaryotic initiation factor 4E binding	1	EIF4G1
+translation initiation factor binding	1	EIF4G1
+molecular adaptor activity	1	EIF4G1
+behavioral fear response	1	EIF4G1
+cap-dependent translational initiation	1	EIF4G1
+translational initiation	1	EIF4G1
+ translational initiation	1	EIF4G1
+macromolecule biosynthetic process	1	EIF4G1
+negative regulation of autophagy	1	EIF4G1
+negative regulation of peptidyl-threonine phosphorylation	1	EIF4G1
+ cell death	1	EIF4G1
+neuron differentiation	1	EIF4G1
+ cell growth	1	EIF4G1
+lung development	1	EIF4G1
+cellular response to nutrient levels	1	EIF4G1
+ peptidyl-serine phosphorylation	1	EIF4G1
+miRNA-mediated gene silencing by inhibition of translation	1	EIF4G1
+ translation in response to endoplasmic reticulum stress	1	EIF4G1
+response to ethanol	1	EIF4G1
+ neuron differentiation	1	EIF4G1
+ protein metabolic process	1	EIF4G1
+ miRNA-mediated gene silencing	1	EIF4G1
+ cellular response to stress	1	EIF4G1
+energy homeostasis	1	EIF4G1
+ G1/S transition of mitotic cell cycle	1	EIF4G1
+negative regulation of neuron death	1	EIF4G1
+ eukaryotic translation initiation factor 4F complex assembly	1	EIF4G1
+ presynapse assembly	1	EIF4G1
+ mRNA cap binding	1	EIF4G1
+ polysome binding	1	EIF4G1
+cytoplasmic stress granule	1	EIF4G1
+eukaryotic translation initiation factor 4F complex	1	EIF4G1
+postsynapse	1	EIF4G1
+iron ion binding	1	NFU1
+4 iron, 4 sulfur cluster binding	1	NFU1
+iron-sulfur cluster assembly	1	NFU1
+mitochondrion	1	NFU1
+blastocyst development	1	RPL13
+bone development	1	RPL13
+cadherin binding	1	RPL14
+rough endoplasmic reticulum	1	RPL18
+killing of cells of another organism	1	RPL30
+defense response to Gram-negative bacterium	1	RPL30
+antimicrobial humoral immune response mediated by antimicrobial peptide	1	RPL30
+mRNA 3'-UTR binding	1	RPL5
+5S rRNA binding	1	RPL5
+ubiquitin protein ligase binding	1	RPL5
+mRNA 5'-UTR binding	1	RPL5
+ubiquitin ligase inhibitor activity	1	RPL5
+ gene expression	1	RPL5
+ translation	1	RPL5
+protein stabilization	1	RPL5
+ signal transduction by p53 class mediator	1	RPL5
+negative regulation of ubiquitin protein ligase activity	1	RPL5
+negative regulation of ubiquitin-dependent protein catabolic process	1	RPL5
+negative regulation of protein neddylation	1	RPL5
+protein-containing complex	1	RPL5
+rRNA binding	1	RPS11
+maturation of SSU-rRNA from tricistronic rRNA transcript (SSU-rRNA, 5.8S rRNA, LSU-rRNA)	1	RPS8

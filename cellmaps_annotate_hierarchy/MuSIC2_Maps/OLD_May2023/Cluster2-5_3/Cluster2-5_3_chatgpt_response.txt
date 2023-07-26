@@ -1,0 +1,19 @@
+Title: Cytosolic and Extracellular Exosome Protein Interaction System
+
+Summary:
+
+The Cytosolic and Extracellular Exosome Protein Interaction System is a complex of proteins that are physically close to each other and/or interact with each other. This system involves a variety of cellular components and complexes, including 17 proteins involved in protein binding, 16 proteins localized in the cytosol, 11 proteins found in extracellular exosomes, and 11 proteins found in the nucleus. The proteins in this system are involved in various biological processes, such as signal transduction, phosphorylation, proteolysis, and regulation of gene expression. The goal of this analysis is to determine if this is a novel complex or if any proteins are novel members of a known complex.
+
+Cellular Components and Complexes:
+
+The proteins involved in this system include USP46, GATD3, PGP, LAP3, PITPNA, AMDHD2, ARHGAP1, PIK3CD, SLK, NAA50, HS1BP3, UAP1L1, CNN2, PPM1B, CLTCL1, TRMT5, MANF, AK1, TEX264, SORD, NDRG1, MVK, AZU1, and OTUB1. These proteins are involved in various cellular components and complexes, such as protein binding, cytosol, extracellular exosomes, nucleus, cytoplasm, extracellular region, cadherin binding, membrane, ATP binding, perinuclear region of cytoplasm, and others.
+
+Mechanisms and Biological Processes:
+
+The proteins in this system are involved in various mechanisms and biological processes, including signal transduction, phosphorylation, proteolysis, regulation of gene expression, inflammatory response, adaptive immune response, protein phosphorylation, regulation of apoptotic process, and others. Some proteins, such as PIK3CD, are involved in multiple processes, while others, like AZU1, are involved in specific processes like proteolysis and inflammatory response.
+
+Proposed Name: Cytosolic and Extracellular Exosome Protein Interaction System
+
+References:
+
+Due to the nature of the question, specific scientific papers cannot be referenced. However, the information provided in the analysis is based on the Gene Ontology (GO) terms associated with the proteins mentioned. To find relevant scientific papers, a search on PubMed (https://pubmed.ncbi.nlm.nih.gov/) using the protein names and GO terms as keywords can be performed.

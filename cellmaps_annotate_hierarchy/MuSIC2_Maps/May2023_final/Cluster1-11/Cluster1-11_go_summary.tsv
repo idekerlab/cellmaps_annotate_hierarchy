@@ -1,0 +1,184 @@
+Feature	Number of Genes	Genes
+protein binding	9	LRP4, EFEMP1, ITGB5, TXNDC16, EMC8, SUCLA2, FBN2, FKBP14, TSPAN15
+extracellular exosome	6	EFEMP1, ITGB5, TMEM132A, TXNDC16, SUCLA2, DNAJC3
+calcium ion binding	5	LRP4, EFEMP1, DNASE1L2, FBN2, FKBP14
+plasma membrane	5	LRP4, ITGB5, TMEM132A, UGT8, TSPAN15
+extracellular region	5	EFEMP1, DNASE1L2, DNAJC3, FBN2, PCYOX1L
+endoplasmic reticulum lumen	5	TMEM132A, TXNDC16, DNAJC3, FKBP14, TSPAN15
+membrane	5	EMC8, PLD5, ANKRD46, DNAJC3, PCYOX1L
+cytosol	5	NARS2, FBXO21, DHFR2, DNAJC3, TSPAN15
+endoplasmic reticulum	4	TMEM132A, EMC8, UGT8, DNAJC3
+cytoplasm	4	EMC8, PLD5, DNASE1L2, DNAJC3
+mitochondrion	4	NARS2, SUCLA2, DHFR2, PDF
+cell surface	3	LRP4, ITGB5, TSPAN15
+mitochondrial matrix	3	NARS2, SUCLA2, DHFR2
+protein homodimerization activity	2	LRP4, TMEM132A
+hair follicle development	2	LRP4, DNASE1L2
+extracellular matrix structural constituent	2	EFEMP1, FBN2
+camera-type eye development	2	EFEMP1, FBN2
+embryonic eye morphogenesis	2	EFEMP1, FBN2
+collagen-containing extracellular matrix	2	EFEMP1, FBN2
+biological_process	2	TMEM132A, TXNDC16
+Golgi apparatus	2	TMEM132A, EMC8
+ATP binding	2	NARS2, SUCLA2
+DNA binding	2	DNASE1L2, FBXO21
+receptor tyrosine kinase binding	1	LRP4
+apolipoprotein binding	1	LRP4
+scaffold protein binding	1	LRP4
+kidney development	1	LRP4
+endocytosis	1	LRP4
+dorsal/ventral pattern formation	1	LRP4
+proximal/distal pattern formation	1	LRP4
+Wnt signaling pathway	1	LRP4
+negative regulation of ossification	1	LRP4
+odontogenesis of dentin-containing tooth	1	LRP4
+embryonic digit morphogenesis	1	LRP4
+generation of neurons	1	LRP4
+dendrite morphogenesis	1	LRP4
+ peptidyl-tyrosine phosphorylation	1	LRP4
+negative regulation of axonogenesis	1	LRP4
+synapse organization	1	LRP4
+synaptic assembly at neuromuscular junction	1	LRP4
+limb development	1	LRP4
+skeletal muscle acetylcholine-gated channel clustering	1	LRP4
+negative regulation of canonical Wnt signaling pathway	1	LRP4
+postsynaptic membrane assembly	1	LRP4
+presynaptic membrane assembly	1	LRP4
+amyloid-beta clearance by cellular catabolic process	1	LRP4
+ presynaptic membrane organization	1	LRP4
+ skeletal muscle acetylcholine-gated channel clustering	1	LRP4
+postsynaptic density	1	LRP4
+dendrite	1	LRP4
+neuromuscular junction	1	LRP4
+neuronal cell body	1	LRP4
+plasma membrane raft	1	LRP4
+synaptic membrane	1	LRP4
+epidermal growth factor receptor activity	1	EFEMP1
+epidermal growth factor receptor binding	1	EFEMP1
+growth factor activity	1	EFEMP1
+ DNA-templated transcription	1	EFEMP1
+epidermal growth factor receptor signaling pathway	1	EFEMP1
+visual perception	1	EFEMP1
+peptidyl-tyrosine phosphorylation	1	EFEMP1
+negative regulation of chondrocyte differentiation	1	EFEMP1
+post-embryonic eye morphogenesis	1	EFEMP1
+extracellular space	1	EFEMP1
+extracellular matrix	1	EFEMP1
+virus receptor activity	1	ITGB5
+integrin binding	1	ITGB5
+cell-matrix adhesion	1	ITGB5
+transforming growth factor beta receptor signaling pathway	1	ITGB5
+integrin-mediated signaling pathway	1	ITGB5
+cell migration	1	ITGB5
+cell adhesion mediated by integrin	1	ITGB5
+endodermal cell differentiation	1	ITGB5
+stress fiber assembly	1	ITGB5
+viral entry into host cell	1	ITGB5
+epithelial cell-cell adhesion	1	ITGB5
+focal adhesion	1	ITGB5
+integrin complex	1	ITGB5
+integrin alphav-beta5 complex	1	ITGB5
+receptor complex	1	ITGB5
+phagocytic vesicle	1	ITGB5
+molecular_function	1	TMEM132A
+ Wnt signaling pathway	1	TMEM132A
+ protein binding	1	TMEM132A
+negative regulation of protein catabolic process	1	TMEM132A
+ Wnt protein secretion	1	TMEM132A
+Golgi membrane	1	TMEM132A
+endoplasmic reticulum membrane	1	TMEM132A
+membrane insertase activity	1	EMC8
+protein insertion into ER membrane by stop-transfer membrane-anchor sequence	1	EMC8
+tail-anchored membrane protein insertion into ER membrane	1	EMC8
+EMC complex	1	EMC8
+catalytic activity	1	PLD5
+intracellular organelle	1	PLD5
+2-hydroxyacylsphingosine 1-beta-galactosyltransferase activity	1	UGT8
+UDP-galactose:glucosylceramide beta-1,4-galactosyltransferase activity	1	UGT8
+N-acylsphingosine galactosyltransferase activity	1	UGT8
+protein localization to paranode region of axon	1	UGT8
+galactosylceramide biosynthetic process	1	UGT8
+glycosphingolipid metabolic process	1	UGT8
+cytoskeleton organization	1	UGT8
+central nervous system development	1	UGT8
+peripheral nervous system development	1	UGT8
+paranodal junction assembly	1	UGT8
+neuron projection morphogenesis	1	UGT8
+nucleic acid binding	1	NARS2
+asparagine-tRNA ligase activity	1	NARS2
+asparaginyl-tRNA aminoacylation	1	NARS2
+nucleoplasm	1	NARS2
+endonuclease activity	1	DNASE1L2
+DNA nuclease activity	1	DNASE1L2
+corneocyte development	1	DNASE1L2
+DNA metabolic process	1	DNASE1L2
+DNA catabolic process	1	DNASE1L2
+nucleus	1	DNASE1L2
+magnesium ion binding	1	SUCLA2
+succinate-CoA ligase (ADP-forming) activity	1	SUCLA2
+tricarboxylic acid cycle	1	SUCLA2
+succinyl-CoA metabolic process	1	SUCLA2
+succinate metabolic process	1	SUCLA2
+succinyl-CoA pathway	1	SUCLA2
+succinyl-CoA catabolic process	1	SUCLA2
+succinate-CoA ligase complex (ADP-forming)	1	SUCLA2
+succinate-CoA ligase complex	1	SUCLA2
+ubiquitin-protein transferase activity	1	FBXO21
+ubiquitin-dependent protein catabolic process	1	FBXO21
+ubiquitin ligase complex	1	FBXO21
+mRNA binding	1	DHFR2
+dihydrofolate reductase activity	1	DHFR2
+folate reductase activity	1	DHFR2
+NADP binding	1	DHFR2
+glycine biosynthetic process	1	DHFR2
+one-carbon metabolic process	1	DHFR2
+thymidine biosynthetic process	1	DHFR2
+dihydrofolate metabolic process	1	DHFR2
+tetrahydrofolate metabolic process	1	DHFR2
+tetrahydrofolate biosynthetic process	1	DHFR2
+folic acid metabolic process	1	DHFR2
+mitochondrial inner membrane	1	DHFR2
+protein kinase inhibitor activity	1	DNAJC3
+protein kinase binding	1	DNAJC3
+protein-folding chaperone binding	1	DNAJC3
+misfolded protein binding	1	DNAJC3
+response to unfolded protein	1	DNAJC3
+protein folding in endoplasmic reticulum	1	DNAJC3
+ translation initiation in response to endoplasmic reticulum stress	1	DNAJC3
+negative regulation of apoptotic process	1	DNAJC3
+proteolysis involved in protein catabolic process	1	DNAJC3
+defense response to virus	1	DNAJC3
+cellular response to cold	1	DNAJC3
+negative regulation of endoplasmic reticulum stress-induced eIF2 alpha phosphorylation	1	DNAJC3
+smooth endoplasmic reticulum	1	DNAJC3
+azurophil granule lumen	1	DNAJC3
+extracellular vesicle	1	DNAJC3
+extracellular matrix constituent conferring elasticity	1	FBN2
+embryonic limb morphogenesis	1	FBN2
+ bone mineralization	1	FBN2
+sequestering of TGFbeta in extracellular matrix	1	FBN2
+ osteoblast differentiation	1	FBN2
+bone trabecula formation	1	FBN2
+microfibril	1	FBN2
+peptidyl-prolyl cis-trans isomerase activity	1	FKBP14
+prenylcysteine oxidase activity	1	PCYOX1L
+prenylated protein catabolic process	1	PCYOX1L
+prenylcysteine catabolic process	1	PCYOX1L
+platelet alpha granule lumen	1	PCYOX1L
+peptide deformylase activity	1	PDF
+metal ion binding	1	PDF
+translation	1	PDF
+ cell population proliferation	1	PDF
+peptidyl-methionine modification	1	PDF
+N-terminal protein amino acid modification	1	PDF
+co-translational protein modification	1	PDF
+enzyme binding	1	TSPAN15
+ Notch signaling pathway	1	TSPAN15
+negative regulation of Notch signaling pathway	1	TSPAN15
+protein maturation	1	TSPAN15
+protein localization to plasma membrane	1	TSPAN15
+nuclear body	1	TSPAN15
+cell junction	1	TSPAN15
+late endosome membrane	1	TSPAN15
+intracellular membrane-bounded organelle	1	TSPAN15
+tetraspanin-enriched microdomain	1	TSPAN15

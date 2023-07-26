@@ -1,0 +1,258 @@
+Feature	Number of Genes	Genes
+nucleus	8	BAG1, BCL9L, HSF1, HSF2, SF1, SKI, SKIL, SMAD4
+nucleoplasm	8	BAG1, BCL9L, HSF1, HSF2, SF1, SKI, SKIL, SMAD4
+protein binding	7	BAG1, HSF1, HSF2, SF1, SKI, SKIL, SMAD4
+cytoplasm	5	BAG1, HSF1, HSF2, SKI, SMAD4
+ transcription by RNA polymerase II	5	BCL9L, HSF1, HSF2, SKI, SMAD4
+RNA polymerase II cis-regulatory region sequence-specific DNA binding	5	HSF1, HSF2, SKI, SKIL, SMAD4
+DNA-binding transcription factor activity, RNA polymerase II-specific	5	HSF1, HSF2, SKI, SKIL, SMAD4
+identical protein binding	5	HSF1, HSF2, SF1, SKI, SMAD4
+negative regulation of transcription by RNA polymerase II	4	HSF1, SKI, SKIL, SMAD4
+cytosol	3	BAG1, HSF1, SMAD4
+negative regulation of transforming growth factor beta receptor signaling pathway	3	BCL9L, SKI, SKIL
+DNA-binding transcription repressor activity, RNA polymerase II-specific	3	HSF1, SKI, SKIL
+DNA-binding transcription activator activity, RNA polymerase II-specific	3	HSF1, HSF2, SMAD4
+DNA-binding transcription factor activity	3	HSF1, HSF2, SMAD4
+chromatin	3	HSF1, HSF2, SMAD4
+centrosome	3	HSF1, SKI, SMAD4
+spermatogenesis	3	HSF2, SKIL, SMAD4
+transforming growth factor beta receptor signaling pathway	3	SKI, SKIL, SMAD4
+ubiquitin protein ligase binding	2	BAG1, SKI
+transcription by RNA polymerase II	2	BCL9L, SMAD4
+ epithelial to mesenchymal transition	2	BCL9L, SMAD4
+somatic stem cell population maintenance	2	BCL9L, SKI
+transcription cis-regulatory region binding	2	HSF1, SMAD4
+RNA polymerase II intronic transcription regulatory region sequence-specific DNA binding	2	HSF1, HSF2
+DNA binding	2	HSF1, SMAD4
+protein kinase binding	2	HSF1, SKI
+sequence-specific DNA binding	2	HSF1, SMAD4
+sequence-specific double-stranded DNA binding	2	HSF1, HSF2
+PML body	2	HSF1, SKI
+zinc ion binding	2	SF1, SKI
+negative regulation of DNA-templated transcription	2	SF1, SMAD4
+nuclear body	2	SF1, SKI
+SMAD binding	2	SKI, SKIL
+negative regulation of cell population proliferation	2	SKI, SMAD4
+negative regulation of BMP signaling pathway	2	SKI, SKIL
+SMAD protein signal transduction	2	SKI, SMAD4
+transcription regulator complex	2	SKI, SMAD4
+protein-containing complex	2	SKI, SKIL
+chromatin binding	2	SKIL, SMAD4
+adenyl-nucleotide exchange factor activity	1	BAG1
+protein-folding chaperone binding	1	BAG1
+apoptotic process	1	BAG1
+cell surface receptor signaling pathway	1	BAG1
+negative regulation of apoptotic process	1	BAG1
+protein stabilization	1	BAG1
+chaperone cofactor-dependent protein refolding	1	BAG1
+membrane	1	BAG1
+transcription coactivator activity	1	BCL9L
+beta-catenin binding	1	BCL9L
+ cell morphogenesis	1	BCL9L
+skeletal muscle cell differentiation	1	BCL9L
+myoblast differentiation	1	BCL9L
+canonical Wnt signaling pathway	1	BCL9L
+fibrillar center	1	BCL9L
+beta-catenin-TCF complex	1	BCL9L
+heat shock protein binding	1	HSF1
+chromatin DNA binding	1	HSF1
+protein self-association	1	HSF1
+protein heterodimerization activity	1	HSF1
+Hsp90 protein binding	1	HSF1
+translation elongation factor binding	1	HSF1
+STAT family protein binding	1	HSF1
+sequence-specific single stranded DNA binding	1	HSF1
+general transcription initiation factor binding	1	HSF1
+promoter-specific chromatin binding	1	HSF1
+MAPK cascade	1	HSF1
+DNA repair	1	HSF1
+mRNA processing	1	HSF1
+defense response	1	HSF1
+response to nutrient	1	HSF1
+mRNA transcription	1	HSF1
+ gene expression	1	HSF1
+negative regulation of gene expression	1	HSF1
+negative regulation of cardiac muscle cell apoptotic process	1	HSF1
+response to activity	1	HSF1
+negative regulation of protein-containing complex assembly	1	HSF1
+response to testosterone	1	HSF1
+cellular response to heat	1	HSF1
+cellular response to unfolded protein	1	HSF1
+cellular response to potassium ion	1	HSF1
+ tyrosine phosphorylation of STAT protein	1	HSF1
+ cysteine-type endopeptidase activity involved in apoptotic process	1	HSF1
+ macrophage differentiation	1	HSF1
+ mitotic cell cycle	1	HSF1
+mRNA transport	1	HSF1
+ DNA-binding transcription factor activity	1	HSF1
+protein-containing complex assembly	1	HSF1
+cellular response to hydrogen peroxide	1	HSF1
+cellular response to lipopolysaccharide	1	HSF1
+cellular response to cadmium ion	1	HSF1
+cellular response to copper ion	1	HSF1
+cellular response to estradiol stimulus	1	HSF1
+cellular response to xenobiotic stimulus	1	HSF1
+cellular response to gamma radiation	1	HSF1
+cellular response to diamide	1	HSF1
+negative regulation of inclusion body assembly	1	HSF1
+ inclusion body assembly	1	HSF1
+ cold-induced thermogenesis	1	HSF1
+ cellular response to heat	1	HSF1
+ mRNA polyadenylation	1	HSF1
+negative regulation of neuron death	1	HSF1
+ apoptotic DNA fragmentation	1	HSF1
+cellular response to sodium arsenite	1	HSF1
+cellular response to angiotensin	1	HSF1
+ microtubule binding	1	HSF1
+cellular response to nitroglycerin	1	HSF1
+cellular response to L-glutamine	1	HSF1
+response to hypobaric hypoxia	1	HSF1
+response to psychosocial stress	1	HSF1
+negative regulation of double-strand break repair via nonhomologous end joining	1	HSF1
+kinetochore	1	HSF1
+euchromatin	1	HSF1
+heterochromatin	1	HSF1
+perinuclear region of cytoplasm	1	HSF1
+nuclear stress granule	1	HSF1
+mitotic spindle pole	1	HSF1
+protein folding chaperone complex	1	HSF1
+ribonucleoprotein complex	1	HSF1
+RNA polymerase II transcription regulatory region sequence-specific DNA binding	1	HSF2
+transcription corepressor activity	1	SF1
+RNA binding	1	SF1
+mRNA binding	1	SF1
+spliceosomal complex assembly	1	SF1
+mRNA 3'-splice site recognition	1	SF1
+mRNA splicing, via spliceosome	1	SF1
+male sex determination	1	SF1
+nuclear body organization	1	SF1
+Leydig cell differentiation	1	SF1
+ mRNA splicing, via spliceosome	1	SF1
+negative regulation of smooth muscle cell proliferation	1	SF1
+ steroid biosynthetic process	1	SF1
+spliceosomal complex	1	SF1
+ribosome	1	SF1
+U2AF complex	1	SF1
+protein domain specific binding	1	SKI
+histone deacetylase inhibitor activity	1	SKI
+DNA-binding transcription factor binding	1	SKI
+neural tube closure	1	SKI
+lens morphogenesis in camera-type eye	1	SKI
+anterior/posterior axis specification	1	SKI
+negative regulation of Schwann cell proliferation	1	SKI
+myotube differentiation	1	SKI
+olfactory bulb development	1	SKI
+myelination in peripheral nervous system	1	SKI
+ Wnt signaling pathway	1	SKI
+embryonic limb morphogenesis	1	SKI
+negative regulation of activin receptor signaling pathway	1	SKI
+camera-type eye development	1	SKI
+ DNA binding	1	SKI
+nose morphogenesis	1	SKI
+negative regulation of osteoblast differentiation	1	SKI
+negative regulation of fibroblast proliferation	1	SKI
+camera-type eye morphogenesis	1	SKI
+skeletal muscle fiber development	1	SKI
+cell motility	1	SKI
+roof of mouth development	1	SKI
+cardiac muscle cell proliferation	1	SKI
+retina development in camera-type eye	1	SKI
+face morphogenesis	1	SKI
+bone morphogenesis	1	SKI
+transcription repressor complex	1	SKI
+blastocyst formation	1	SKIL
+lymphocyte homeostasis	1	SKIL
+extrinsic apoptotic signaling pathway via death domain receptors	1	SKIL
+intrinsic apoptotic signaling pathway in response to DNA damage	1	SKIL
+response to cytokine	1	SKIL
+negative regulation of cell differentiation	1	SKIL
+ axonogenesis	1	SKIL
+ cell cycle	1	SKIL
+lens fiber cell differentiation	1	SKIL
+ extrinsic apoptotic signaling pathway via death domain receptors	1	SKIL
+ intrinsic apoptotic signaling pathway in response to DNA damage	1	SKIL
+acrosomal vesicle	1	SKIL
+transcription coactivator binding	1	SMAD4
+collagen binding	1	SMAD4
+filamin binding	1	SMAD4
+protein homodimerization activity	1	SMAD4
+sulfate binding	1	SMAD4
+metal ion binding	1	SMAD4
+RNA polymerase II-specific DNA-binding transcription factor binding	1	SMAD4
+I-SMAD binding	1	SMAD4
+R-SMAD binding	1	SMAD4
+ovarian follicle development	1	SMAD4
+osteoblast differentiation	1	SMAD4
+branching involved in ureteric bud morphogenesis	1	SMAD4
+response to hypoxia	1	SMAD4
+in utero embryonic development	1	SMAD4
+gastrulation with mouth forming second	1	SMAD4
+epithelial to mesenchymal transition	1	SMAD4
+outflow tract septum morphogenesis	1	SMAD4
+cardiac conduction system development	1	SMAD4
+atrioventricular valve formation	1	SMAD4
+epithelial to mesenchymal transition involved in endocardial cushion formation	1	SMAD4
+left ventricular cardiac muscle tissue morphogenesis	1	SMAD4
+ cell proliferation involved in heart valve morphogenesis	1	SMAD4
+brainstem development	1	SMAD4
+DNA-templated transcription	1	SMAD4
+intracellular iron ion homeostasis	1	SMAD4
+SMAD protein complex assembly	1	SMAD4
+single fertilization	1	SMAD4
+axon guidance	1	SMAD4
+endoderm development	1	SMAD4
+mesoderm development	1	SMAD4
+cell population proliferation	1	SMAD4
+anatomical structure morphogenesis	1	SMAD4
+negative regulation of cardiac muscle hypertrophy	1	SMAD4
+epithelial cell migration	1	SMAD4
+ cardiac muscle cell apoptotic process	1	SMAD4
+ pathway-restricted SMAD protein phosphorylation	1	SMAD4
+neural crest cell differentiation	1	SMAD4
+ transforming growth factor beta receptor signaling pathway	1	SMAD4
+cell differentiation	1	SMAD4
+negative regulation of cell growth	1	SMAD4
+adrenal gland development	1	SMAD4
+BMP signaling pathway	1	SMAD4
+ BMP signaling pathway	1	SMAD4
+somite rostral/caudal axis specification	1	SMAD4
+ transforming growth factor beta2 production	1	SMAD4
+activin receptor signaling pathway	1	SMAD4
+ luteinizing hormone secretion	1	SMAD4
+intracellular signal transduction	1	SMAD4
+atrioventricular canal development	1	SMAD4
+wound healing	1	SMAD4
+endothelial cell activation	1	SMAD4
+negative regulation of protein catabolic process	1	SMAD4
+embryonic digit morphogenesis	1	SMAD4
+ DNA-templated transcription	1	SMAD4
+ follicle-stimulating hormone secretion	1	SMAD4
+developmental growth	1	SMAD4
+neuron fate commitment	1	SMAD4
+sebaceous gland development	1	SMAD4
+formation of anatomical boundary	1	SMAD4
+ binding	1	SMAD4
+ histone H3-K4 methylation	1	SMAD4
+ hair follicle development	1	SMAD4
+uterus development	1	SMAD4
+ SMAD protein signal transduction	1	SMAD4
+ventricular septum morphogenesis	1	SMAD4
+endocardial cell differentiation	1	SMAD4
+female gonad morphogenesis	1	SMAD4
+secondary palate development	1	SMAD4
+interleukin-6-mediated signaling pathway	1	SMAD4
+ERK1 and ERK2 cascade	1	SMAD4
+negative regulation of ERK1 and ERK2 cascade	1	SMAD4
+cellular response to glucose stimulus	1	SMAD4
+response to transforming growth factor beta	1	SMAD4
+cellular response to BMP stimulus	1	SMAD4
+metanephric mesenchyme morphogenesis	1	SMAD4
+nephrogenic mesenchyme morphogenesis	1	SMAD4
+seminiferous tubule development	1	SMAD4
+ transcription from RNA polymerase II promoter involved in cellular response to chemical stimulus	1	SMAD4
+ miRNA transcription	1	SMAD4
+negative regulation of cardiac myofibril assembly	1	SMAD4
+ histone H3-K9 acetylation	1	SMAD4
+activin responsive factor complex	1	SMAD4
+SMAD protein complex	1	SMAD4
+heteromeric SMAD protein complex	1	SMAD4

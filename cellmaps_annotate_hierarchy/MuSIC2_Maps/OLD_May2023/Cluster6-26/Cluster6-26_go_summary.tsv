@@ -1,0 +1,73 @@
+Feature	Number of Genes	Genes
+protein binding	4	AIFM1, GFER, PDHA1, STK38
+nucleus	3	AIFM1, PDHA1, STK38
+mitochondrion	3	AIFM1, GFER, PDHA1
+cytosol	3	AIFM1, GFER, STK38
+cytoplasm	2	AIFM1, STK38
+mitochondrial intermembrane space	2	AIFM1, GFER
+DNA binding	1	AIFM1
+NADH dehydrogenase activity	1	AIFM1
+NAD(P)H oxidase H2O2-forming activity	1	AIFM1
+oxidoreductase activity, acting on NAD(P)H	1	AIFM1
+protein dimerization activity	1	AIFM1
+FAD binding	1	AIFM1
+poly-ADP-D-ribose binding	1	AIFM1
+response to ischemia	1	AIFM1
+apoptotic process	1	AIFM1
+activation of cysteine-type endopeptidase activity involved in apoptotic process	1	AIFM1
+response to toxic substance	1	AIFM1
+chromosome condensation	1	AIFM1
+mitochondrial respiratory chain complex assembly	1	AIFM1
+positive regulation of apoptotic process	1	AIFM1
+positive regulation of neuron apoptotic process	1	AIFM1
+protein import into mitochondrial intermembrane space	1	AIFM1
+neuron apoptotic process	1	AIFM1
+positive regulation of necroptotic process	1	AIFM1
+intrinsic apoptotic signaling pathway in response to endoplasmic reticulum stress	1	AIFM1
+cellular response to hydrogen peroxide	1	AIFM1
+cellular response to estradiol stimulus	1	AIFM1
+cellular response to nitric oxide	1	AIFM1
+cellular response to oxygen-glucose deprivation	1	AIFM1
+response to L-glutamate	1	AIFM1
+regulation of apoptotic DNA fragmentation	1	AIFM1
+cellular response to aldosterone	1	AIFM1
+mitochondrial inner membrane	1	AIFM1
+perinuclear region of cytoplasm	1	AIFM1
+growth factor activity	1	GFER
+protein-disulfide reductase activity	1	GFER
+flavin-linked sulfhydryl oxidase activity	1	GFER
+flavin adenine dinucleotide binding	1	GFER
+liver development	1	GFER
+signal transduction	1	GFER
+negative regulation of apoptotic process	1	GFER
+negative regulation of natural killer cell mediated cytotoxicity	1	GFER
+cellular response to lipopolysaccharide	1	GFER
+cellular response to tumor necrosis factor	1	GFER
+cellular response to actinomycin D	1	GFER
+cellular response to toxic substance	1	GFER
+liver regeneration	1	GFER
+negative regulation of oxidative stress-induced neuron death	1	GFER
+positive regulation of DNA biosynthetic process	1	GFER
+extracellular space	1	GFER
+pyruvate dehydrogenase (acetyl-transferring) activity	1	PDHA1
+pyruvate dehydrogenase (NAD+) activity	1	PDHA1
+glucose metabolic process	1	PDHA1
+acetyl-CoA biosynthetic process from pyruvate	1	PDHA1
+tricarboxylic acid cycle	1	PDHA1
+nucleolus	1	PDHA1
+mitochondrial matrix	1	PDHA1
+mitochondrial pyruvate dehydrogenase complex	1	PDHA1
+pyruvate dehydrogenase complex	1	PDHA1
+magnesium ion binding	1	STK38
+protein serine/threonine kinase activity	1	STK38
+ATP binding	1	STK38
+mitogen-activated protein kinase kinase kinase binding	1	STK38
+cadherin binding	1	STK38
+protein serine kinase activity	1	STK38
+protein phosphorylation	1	STK38
+peptidyl-serine phosphorylation	1	STK38
+intracellular signal transduction	1	STK38
+protein modification process	1	STK38
+negative regulation of MAP kinase activity	1	STK38
+postsynapse organization	1	STK38
+glutamatergic synapse	1	STK38

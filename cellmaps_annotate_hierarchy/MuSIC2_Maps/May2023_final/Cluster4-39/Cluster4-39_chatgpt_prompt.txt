@@ -1,0 +1,38 @@
+Your response should be formatted as Markdown paragraphs
+Write a critical and concise analysis of this human protein system, describing your reasoning as you go and providing references to scientific papers.
+
+A critical goal of the analysis is to determine if this is a novel complex or if any proteins are novel members of a known complex
+
+Format with Title, Summary, and References sections.        
+Avoid overly general statements of how the proteins are involved in various cellular processes        
+Avoid repeating the goals of the analysis.
+
+What cellular components and complexes are involved in this system?
+What mechanisms and biological processes are performed by this system?
+Propose a name for the system to reflect the cellular location and function, and should be specific but brief. Do not compose an acronym. Place it as the title of your report
+Human Proteins: CNNM1, DUSP16, MAPKAPK5, RPS6KA4, RPS6KA5.
+
+System features from GO terms: 
+protein binding: 5 proteins: CNNM1, DUSP16, MAPKAPK5, RPS6KA4, RPS6KA5
+nucleus: 4 proteins: DUSP16, MAPKAPK5, RPS6KA4, RPS6KA5
+nucleoplasm: 4 proteins: DUSP16, MAPKAPK5, RPS6KA4, RPS6KA5
+cytoplasm: 4 proteins: DUSP16, MAPKAPK5, RPS6KA4, RPS6KA5
+cytosol: 3 proteins: DUSP16, MAPKAPK5, RPS6KA4
+protein serine/threonine kinase activity: 3 proteins: MAPKAPK5, RPS6KA4, RPS6KA5
+ATP binding: 3 proteins: MAPKAPK5, RPS6KA4, RPS6KA5
+protein serine kinase activity: 3 proteins: MAPKAPK5, RPS6KA4, RPS6KA5
+mitogen-activated protein kinase binding: 2 proteins: DUSP16, MAPKAPK5
+magnesium ion binding: 2 proteins: RPS6KA4, RPS6KA5
+histone H3S10 kinase activity: 2 proteins: RPS6KA4, RPS6KA5
+histone H3S28 kinase activity: 2 proteins: RPS6KA4, RPS6KA5
+negative regulation of cytokine production: 2 proteins: RPS6KA4, RPS6KA5
+chromatin remodeling: 2 proteins: RPS6KA4, RPS6KA5
+ DNA-templated transcription: 2 proteins: RPS6KA4, RPS6KA5
+protein phosphorylation: 2 proteins: RPS6KA4, RPS6KA5
+inflammatory response: 2 proteins: RPS6KA4, RPS6KA5
+ CREB transcription factor activity: 2 proteins: RPS6KA4, RPS6KA5
+intracellular signal transduction: 2 proteins: RPS6KA4, RPS6KA5
+post-translational protein modification: 2 proteins: RPS6KA4, RPS6KA5
+ transcription by RNA polymerase II: 2 proteins: RPS6KA4, RPS6KA5
+ NF-kappaB transcription factor activity: 2 proteins: RPS6KA4, RPS6KA5
+interleukin-1-mediated signaling pathway: 2 proteins: RPS6KA4, RPS6KA5

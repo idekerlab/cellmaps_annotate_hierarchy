@@ -1,0 +1,468 @@
+Feature	Number of Genes	Genes
+protein binding	21	GTF2A1, TUFT1, EEA1, HMOX2, SULT2B1, TFAP2D, AP1M2, ECM1, CTSL, SLC35F6, RPL7L1, CTSH, GLUL, CST3, NAPRT, ZG16B, APOA1, PYCARD, MYCBP, TALDO1, TYMP
+cytosol	15	GTF2A1, EEA1, SULT2B1, AP1M2, SLC35F6, PPA1, CTSH, NLRP10, GLUL, NAPRT, APOA1, PYCARD, TALDO1, HSD17B4, TYMP
+extracellular exosome	14	EEA1, SULT2B1, ECM1, CTSL, SLC35F6, PPA1, CTSH, GLUL, CST3, NAPRT, ZG16B, CPM, APOA1, TALDO1
+cytoplasm	10	TUFT1, EEA1, SULT2B1, PPA1, NLRP10, GLUL, CST3, PYCARD, MYCBP, TALDO1
+extracellular region	9	TUFT1, ECM1, CTSL, CTSH, CST3, NAPRT, CPM, APOA1, PYCARD
+nucleus	8	GTF2A1, SULT2B1, TFAP2D, CTSL, GLUL, PYCARD, MYCBP, TALDO1
+extracellular space	7	ECM1, CTSL, CTSH, CST3, ZG16B, CPM, APOA1
+plasma membrane	6	HMOX2, CTSL, GLUL, CST3, CPM, APOA1
+nucleoplasm	5	GTF2A1, SLC35F6, NLRP10, PYCARD, MYCBP
+protein homodimerization activity	5	EEA1, APOA1, PYCARD, HSD17B4, TYMP
+membrane	5	EEA1, HMOX2, SLC35F6, MAN1B1, HSD17B4
+intracellular membrane-bounded organelle	5	SULT2B1, AP1M2, CTSL, SLC35F6, CTSH
+endoplasmic reticulum	4	SULT2B1, MAN1B1, CST3, PYCARD
+collagen-containing extracellular matrix	4	ECM1, CTSL, CTSH, APOA1
+mitochondrion	4	SLC35F6, GLUL, PYCARD, MYCBP
+identical protein binding	4	GLUL, CST3, APOA1, PYCARD
+protease binding	3	ECM1, CST3, PYCARD
+angiogenesis	3	ECM1, GLUL, TYMP
+inflammatory response	3	ECM1, NLRP10, PYCARD
+signal transduction	3	ECM1, PYCARD, TYMP
+cysteine-type endopeptidase activator activity involved in apoptotic process	3	CTSL, CTSH, PYCARD
+adaptive immune response	3	CTSL, CTSH, NLRP10
+Golgi apparatus	3	CTSL, MAN1B1, CST3
+secretory granule lumen	3	CTSH, APOA1, PYCARD
+transcription by RNA polymerase II	2	GTF2A1, TFAP2D
+positive regulation of transcription by RNA polymerase II	2	GTF2A1, TFAP2D
+intracellular anatomical structure	2	TUFT1, TALDO1
+zinc ion binding	2	EEA1, CPM
+early endosome	2	EEA1, APOA1
+extrinsic component of plasma membrane	2	EEA1, NLRP10
+metal ion binding	2	HMOX2, NAPRT
+response to oxidative stress	2	HMOX2, NAPRT
+endoplasmic reticulum membrane	2	HMOX2, MAN1B1
+cholesterol binding	2	SULT2B1, APOA1
+cholesterol metabolic process	2	SULT2B1, APOA1
+regulation of transcription by RNA polymerase II	2	TFAP2D, ECM1
+Golgi membrane	2	AP1M2, PYCARD
+lysosomal membrane	2	AP1M2, SLC35F6
+negative regulation of peptidase activity	2	ECM1, CST3
+positive regulation of angiogenesis	2	ECM1, CTSH
+cysteine-type endopeptidase activity	2	CTSL, CTSH
+cysteine-type peptidase activity	2	CTSL, CTSH
+proteolysis	2	CTSL, CTSH
+immune response	2	CTSL, CTSH
+positive regulation of peptidase activity	2	CTSL, CTSH
+antigen processing and presentation	2	CTSL, CTSH
+zymogen activation	2	CTSL, CTSH
+proteolysis involved in protein catabolic process	2	CTSL, CTSH
+cellular response to thyroid hormone stimulus	2	CTSL, CTSH
+positive regulation of apoptotic signaling pathway	2	CTSL, CTSH
+lysosome	2	CTSL, CTSH
+endocytic vesicle lumen	2	CTSL, APOA1
+positive regulation of cell population proliferation	2	SLC35F6, CTSH
+nucleolus	2	RPL7L1, PYCARD
+cytoplasmic vesicle	2	MAN1B1, APOA1
+extracellular vesicle	2	MAN1B1, APOA1
+magnesium ion binding	2	PPA1, GLUL
+apoptotic process	2	CTSH, PYCARD
+ERK1 and ERK2 cascade	2	CTSH, APOA1
+tertiary granule lumen	2	CTSH, CST3
+ficolin-1-rich granule lumen	2	CTSH, CST3
+ATP binding	2	NLRP10, GLUL
+positive regulation of interleukin-6 production	2	NLRP10, PYCARD
+positive regulation of interleukin-8 production	2	NLRP10, PYCARD
+innate immune response	2	NLRP10, PYCARD
+positive regulation of inflammatory response	2	NLRP10, PYCARD
+defense response to Gram-negative bacterium	2	NLRP10, PYCARD
+protein-containing complex	2	GLUL, PYCARD
+amyloid-beta binding	2	CST3, APOA1
+endoplasmic reticulum lumen	2	CST3, APOA1
+azurophil granule lumen	2	NAPRT, PYCARD
+enzyme binding	2	APOA1, PYCARD
+positive regulation of phagocytosis	2	APOA1, PYCARD
+RNA polymerase II core promoter sequence-specific DNA binding	1	GTF2A1
+RNA polymerase II general transcription initiation factor binding	1	GTF2A1
+DNA binding	1	GTF2A1
+RNA polymerase II general transcription initiation factor activity	1	GTF2A1
+TBP-class protein binding	1	GTF2A1
+protein heterodimerization activity	1	GTF2A1
+RNA polymerase II-specific DNA-binding transcription factor binding	1	GTF2A1
+RNA polymerase II preinitiation complex assembly	1	GTF2A1
+positive regulation of transcription initiation by RNA polymerase II	1	GTF2A1
+transcription factor TFIID complex	1	GTF2A1
+transcription factor TFIIA complex	1	GTF2A1
+transcription preinitiation complex	1	GTF2A1
+structural constituent of tooth enamel	1	TUFT1
+bone mineralization	1	TUFT1
+intracellular signal transduction	1	TUFT1
+odontogenesis	1	TUFT1
+calmodulin binding	1	EEA1
+1-phosphatidylinositol binding	1	EEA1
+GTP-dependent protein binding	1	EEA1
+endocytosis	1	EEA1
+vesicle fusion	1	EEA1
+synaptic vesicle to endosome fusion	1	EEA1
+modulation by host of viral process	1	EEA1
+early endosome to late endosome transport	1	EEA1
+chemical synaptic transmission, postsynaptic	1	EEA1
+serine-pyruvate aminotransferase complex	1	EEA1
+early endosome membrane	1	EEA1
+axonal spine	1	EEA1
+Schaffer collateral - CA1 synapse	1	EEA1
+postsynapse	1	EEA1
+glutamatergic synapse	1	EEA1
+nucleotide binding	1	DHDH
+trans-1,2-dihydrobenzene-1,2-diol dehydrogenase activity	1	DHDH
+D-xylose 1-dehydrogenase (NADP+) activity	1	DHDH
+D-xylose catabolic process	1	DHDH
+heme oxygenase (decyclizing) activity	1	HMOX2
+heme binding	1	HMOX2
+response to hypoxia	1	HMOX2
+heme oxidation	1	HMOX2
+heme catabolic process	1	HMOX2
+specific granule membrane	1	HMOX2
+nucleic acid binding	1	SULT2B1
+sulfotransferase activity	1	SULT2B1
+small molecule binding	1	SULT2B1
+steroid sulfotransferase activity	1	SULT2B1
+cholesterol sulfotransferase activity	1	SULT2B1
+steroid hormone binding	1	SULT2B1
+steroid metabolic process	1	SULT2B1
+negative regulation of cell population proliferation	1	SULT2B1
+positive regulation of epidermal cell differentiation	1	SULT2B1
+3'-phosphoadenosine 5'-phosphosulfate metabolic process	1	SULT2B1
+sulfation	1	SULT2B1
+RNA polymerase II transcription regulatory region sequence-specific DNA binding	1	TFAP2D
+DNA-binding transcription factor activity, RNA polymerase II-specific	1	TFAP2D
+regulation of cell population proliferation	1	TFAP2D
+negative regulation of neuron apoptotic process	1	TFAP2D
+anatomical structure development	1	TFAP2D
+inferior colliculus development	1	TFAP2D
+chromatin	1	TFAP2D
+transcription regulator complex	1	TFAP2D
+clathrin adaptor activity	1	AP1M2
+protein targeting	1	AP1M2
+vesicle targeting	1	AP1M2
+vesicle-mediated transport	1	AP1M2
+basolateral protein secretion	1	AP1M2
+AP-1 adaptor complex	1	AP1M2
+clathrin-coated vesicle	1	AP1M2
+cytoplasmic vesicle membrane	1	AP1M2
+trans-Golgi network membrane	1	AP1M2
+interleukin-2 receptor binding	1	ECM1
+extracellular matrix structural constituent	1	ECM1
+ossification	1	ECM1
+positive regulation of endothelial cell proliferation	1	ECM1
+negative regulation of cytokine-mediated signaling pathway	1	ECM1
+chondrocyte development	1	ECM1
+regulation of type 2 immune response	1	ECM1
+endochondral bone growth	1	ECM1
+regulation of bone mineralization	1	ECM1
+negative regulation of bone mineralization	1	ECM1
+biomineral tissue development	1	ECM1
+positive regulation of I-kappaB kinase/NF-kappaB signaling	1	ECM1
+regulation of T cell migration	1	ECM1
+extracellular matrix	1	ECM1
+platelet dense granule lumen	1	ECM1
+fibronectin binding	1	CTSL
+collagen binding	1	CTSL
+histone binding	1	CTSL
+proteoglycan binding	1	CTSL
+serpin family protein binding	1	CTSL
+protein autoprocessing	1	CTSL
+fusion of virus membrane with host plasma membrane	1	CTSL
+receptor-mediated endocytosis of virus by host cell	1	CTSL
+antigen processing and presentation of exogenous peptide antigen via MHC class II	1	CTSL
+collagen catabolic process	1	CTSL
+enkephalin processing	1	CTSL
+fusion of virus membrane with host endosome membrane	1	CTSL
+CD4-positive, alpha-beta T cell lineage commitment	1	CTSL
+viral entry into host cell	1	CTSL
+antigen processing and presentation of peptide antigen	1	CTSL
+elastin catabolic process	1	CTSL
+macrophage apoptotic process	1	CTSL
+multivesicular body	1	CTSL
+apical plasma membrane	1	CTSL
+endolysosome lumen	1	CTSL
+chromaffin granule	1	CTSL
+lysosomal lumen	1	CTSL
+actin filament binding	1	POF1B
+epithelial cell morphogenesis	1	POF1B
+actin filament organization	1	POF1B
+actin cytoskeleton organization	1	POF1B
+bicellular tight junction assembly	1	POF1B
+actin filament	1	POF1B
+adherens junction	1	POF1B
+bicellular tight junction	1	POF1B
+desmosome	1	POF1B
+transmembrane transporter activity	1	SLC35F6
+transmembrane transport	1	SLC35F6
+negative regulation of mitochondrial outer membrane permeabilization involved in apoptotic signaling pathway	1	SLC35F6
+RNA binding	1	RPL7L1
+structural constituent of ribosome	1	RPL7L1
+maturation of LSU-rRNA from tricistronic rRNA transcript (SSU-rRNA, 5.8S rRNA, LSU-rRNA)	1	RPL7L1
+blastocyst formation	1	RPL7L1
+cytosolic large ribosomal subunit	1	RPL7L1
+mannosyl-oligosaccharide 1,2-alpha-mannosidase activity	1	MAN1B1
+calcium ion binding	1	MAN1B1
+protein glycosylation	1	MAN1B1
+N-glycan processing	1	MAN1B1
+oligosaccharide metabolic process	1	MAN1B1
+viral protein processing	1	MAN1B1
+ubiquitin-dependent ERAD pathway	1	MAN1B1
+protein alpha-1,2-demannosylation	1	MAN1B1
+trimming of terminal mannose on B branch	1	MAN1B1
+trimming of terminal mannose on C branch	1	MAN1B1
+trimming of first mannose on A branch	1	MAN1B1
+trimming of second mannose on A branch	1	MAN1B1
+endoplasmic reticulum mannose trimming	1	MAN1B1
+mannose trimming involved in glycoprotein ERAD pathway	1	MAN1B1
+endoplasmic reticulum quality control compartment	1	MAN1B1
+inorganic diphosphate phosphatase activity	1	PPA1
+phosphate-containing compound metabolic process	1	PPA1
+endopeptidase activity	1	CTSH
+aminopeptidase activity	1	CTSH
+serine-type endopeptidase activity	1	CTSH
+peptidase activity	1	CTSH
+HLA-A specific activating MHC class I receptor activity	1	CTSH
+thyroid hormone binding	1	CTSH
+metanephros development	1	CTSH
+T cell mediated cytotoxicity	1	CTSH
+immune response-regulating signaling pathway	1	CTSH
+positive regulation of gene expression	1	CTSH
+positive regulation of epithelial cell migration	1	CTSH
+neuropeptide catabolic process	1	CTSH
+bradykinin catabolic process	1	CTSH
+positive regulation of cell migration	1	CTSH
+protein destabilization	1	CTSH
+response to retinoic acid	1	CTSH
+membrane protein proteolysis	1	CTSH
+negative regulation of apoptotic process	1	CTSH
+surfactant homeostasis	1	CTSH
+dichotomous subdivision of terminal units involved in lung branching	1	CTSH
+cytoplasmic ribonucleoprotein granule	1	CTSH
+alveolar lamellar body	1	CTSH
+multivesicular body lumen	1	CTSH
+GTPase activity	1	NLRP10
+ATP hydrolysis activity	1	NLRP10
+positive regulation of T-helper 1 type immune response	1	NLRP10
+positive regulation of interleukin-1 alpha production	1	NLRP10
+defense response to fungus	1	NLRP10
+positive regulation of defense response to bacterium	1	NLRP10
+positive regulation of T-helper 17 type immune response	1	NLRP10
+nuclear membrane	1	NLRP10
+glutamate-ammonia ligase activity	1	GLUL
+glutamate binding	1	GLUL
+protein-cysteine S-palmitoyltransferase activity	1	GLUL
+manganese ion binding	1	GLUL
+dynein light chain binding	1	GLUL
+glutamate catabolic process	1	GLUL
+glutamine biosynthetic process	1	GLUL
+cell population proliferation	1	GLUL
+cellular response to starvation	1	GLUL
+response to glucose	1	GLUL
+regulation of endothelial cell migration	1	GLUL
+protein palmitoylation	1	GLUL
+ammonia assimilation cycle	1	GLUL
+positive regulation of insulin secretion	1	GLUL
+ribosome biogenesis	1	GLUL
+positive regulation of epithelial cell proliferation	1	GLUL
+positive regulation of synaptic transmission, glutamatergic	1	GLUL
+regulation of sprouting angiogenesis	1	GLUL
+regulation of protein localization to nucleolus	1	GLUL
+rough endoplasmic reticulum	1	GLUL
+perikaryon	1	GLUL
+myelin sheath	1	GLUL
+axon terminus	1	GLUL
+glial cell projection	1	GLUL
+endopeptidase inhibitor activity	1	CST3
+cysteine-type endopeptidase inhibitor activity	1	CST3
+peptidase inhibitor activity	1	CST3
+defense response	1	CST3
+negative regulation of collagen catabolic process	1	CST3
+negative regulation of extracellular matrix disassembly	1	CST3
+regulation of tissue remodeling	1	CST3
+negative regulation of proteolysis	1	CST3
+negative regulation of elastin catabolic process	1	CST3
+negative regulation of blood vessel remodeling	1	CST3
+supramolecular fiber organization	1	CST3
+negative regulation of cysteine-type endopeptidase activity	1	CST3
+vesicle	1	CST3
+nicotinate phosphoribosyltransferase activity	1	NAPRT
+transferase activity	1	NAPRT
+NAD salvage	1	NAPRT
+molecular_function	1	ZG16B
+carbohydrate binding	1	ZG16B
+retina homeostasis	1	ZG16B
+carboxypeptidase activity	1	CPM
+metallocarboxypeptidase activity	1	CPM
+peptide metabolic process	1	CPM
+anatomical structure morphogenesis	1	CPM
+protein processing	1	CPM
+cell surface	1	CPM
+signaling receptor binding	1	APOA1
+phospholipid binding	1	APOA1
+high-density lipoprotein particle binding	1	APOA1
+heat shock protein binding	1	APOA1
+apolipoprotein receptor binding	1	APOA1
+apolipoprotein A-I receptor binding	1	APOA1
+chemorepellent activity	1	APOA1
+phosphatidylcholine-sterol O-acyltransferase activator activity	1	APOA1
+high-density lipoprotein particle receptor binding	1	APOA1
+cholesterol transfer activity	1	APOA1
+regulation of protein phosphorylation	1	APOA1
+endothelial cell proliferation	1	APOA1
+negative regulation of cytokine production involved in immune response	1	APOA1
+phosphatidylcholine biosynthetic process	1	APOA1
+cholesterol biosynthetic process	1	APOA1
+transforming growth factor beta receptor signaling pathway	1	APOA1
+G protein-coupled receptor signaling pathway	1	APOA1
+integrin-mediated signaling pathway	1	APOA1
+glucocorticoid metabolic process	1	APOA1
+negative regulation of tumor necrosis factor-mediated signaling pathway	1	APOA1
+positive regulation of cholesterol efflux	1	APOA1
+negative regulation of very-low-density lipoprotein particle remodeling	1	APOA1
+protein oxidation	1	APOA1
+peptidyl-methionine modification	1	APOA1
+lipid storage	1	APOA1
+regulation of intestinal cholesterol absorption	1	APOA1
+cholesterol transport	1	APOA1
+adrenal gland development	1	APOA1
+regulation of Cdc42 protein signal transduction	1	APOA1
+negative regulation of interleukin-1 beta production	1	APOA1
+cholesterol efflux	1	APOA1
+phospholipid efflux	1	APOA1
+negative regulation of heterotypic cell-cell adhesion	1	APOA1
+high-density lipoprotein particle remodeling	1	APOA1
+high-density lipoprotein particle assembly	1	APOA1
+high-density lipoprotein particle clearance	1	APOA1
+positive regulation of Rho protein signal transduction	1	APOA1
+lipoprotein biosynthetic process	1	APOA1
+cholesterol homeostasis	1	APOA1
+blood vessel endothelial cell migration	1	APOA1
+reverse cholesterol transport	1	APOA1
+phosphatidylcholine metabolic process	1	APOA1
+negative regulation of inflammatory response	1	APOA1
+protein stabilization	1	APOA1
+negative chemotaxis	1	APOA1
+vitamin transport	1	APOA1
+positive regulation of hydrolase activity	1	APOA1
+negative regulation of hydrolase activity	1	APOA1
+positive regulation of stress fiber assembly	1	APOA1
+phospholipid homeostasis	1	APOA1
+negative regulation of cell adhesion molecule production	1	APOA1
+negative regulation of response to cytokine stimulus	1	APOA1
+triglyceride homeostasis	1	APOA1
+cholesterol import	1	APOA1
+positive regulation of cholesterol metabolic process	1	APOA1
+intermembrane lipid transfer	1	APOA1
+positive regulation of substrate adhesion-dependent cell spreading	1	APOA1
+positive regulation of phospholipid efflux	1	APOA1
+positive regulation of CoA-transferase activity	1	APOA1
+endocytic vesicle	1	APOA1
+very-low-density lipoprotein particle	1	APOA1
+high-density lipoprotein particle	1	APOA1
+spherical high-density lipoprotein particle	1	APOA1
+blood microparticle	1	APOA1
+interleukin-6 receptor binding	1	PYCARD
+tropomyosin binding	1	PYCARD
+myosin I binding	1	PYCARD
+Pyrin domain binding	1	PYCARD
+transmembrane transporter binding	1	PYCARD
+protein dimerization activity	1	PYCARD
+BMP receptor binding	1	PYCARD
+myeloid dendritic cell activation	1	PYCARD
+activation of innate immune response	1	PYCARD
+pattern recognition receptor signaling pathway	1	PYCARD
+positive regulation of defense response to virus by host	1	PYCARD
+myeloid dendritic cell activation involved in immune response	1	PYCARD
+positive regulation of antigen processing and presentation of peptide antigen via MHC class II	1	PYCARD
+positive regulation of adaptive immune response	1	PYCARD
+activation of cysteine-type endopeptidase activity involved in apoptotic process	1	PYCARD
+osmosensory signaling pathway	1	PYCARD
+regulation of autophagy	1	PYCARD
+regulation of tumor necrosis factor-mediated signaling pathway	1	PYCARD
+positive regulation of actin filament polymerization	1	PYCARD
+regulation of protein stability	1	PYCARD
+negative regulation of NF-kappaB transcription factor activity	1	PYCARD
+negative regulation of interferon-beta production	1	PYCARD
+positive regulation of chemokine production	1	PYCARD
+positive regulation of type II interferon production	1	PYCARD
+positive regulation of interleukin-1 beta production	1	PYCARD
+positive regulation of interleukin-10 production	1	PYCARD
+positive regulation of tumor necrosis factor production	1	PYCARD
+tumor necrosis factor-mediated signaling pathway	1	PYCARD
+positive regulation of activated T cell proliferation	1	PYCARD
+intrinsic apoptotic signaling pathway in response to DNA damage by p53 class mediator	1	PYCARD
+positive regulation of apoptotic process	1	PYCARD
+regulation of GTPase activity	1	PYCARD
+negative regulation of I-kappaB kinase/NF-kappaB signaling	1	PYCARD
+positive regulation of cysteine-type endopeptidase activity involved in apoptotic process	1	PYCARD
+macropinocytosis	1	PYCARD
+NLRP3 inflammasome complex assembly	1	PYCARD
+positive regulation of JNK cascade	1	PYCARD
+icosanoid biosynthetic process	1	PYCARD
+defense response to Gram-positive bacterium	1	PYCARD
+positive regulation of T cell activation	1	PYCARD
+positive regulation of DNA-binding transcription factor activity	1	PYCARD
+positive regulation of NF-kappaB transcription factor activity	1	PYCARD
+protein homooligomerization	1	PYCARD
+defense response to virus	1	PYCARD
+positive regulation of macrophage cytokine production	1	PYCARD
+pyroptosis	1	PYCARD
+positive regulation of ERK1 and ERK2 cascade	1	PYCARD
+cellular response to lipopolysaccharide	1	PYCARD
+cellular response to interleukin-1	1	PYCARD
+cellular response to tumor necrosis factor	1	PYCARD
+negative regulation of protein serine/threonine kinase activity	1	PYCARD
+intrinsic apoptotic signaling pathway by p53 class mediator	1	PYCARD
+positive regulation of release of cytochrome c from mitochondria	1	PYCARD
+activation of cysteine-type endopeptidase activity	1	PYCARD
+negative regulation of cytokine production involved in inflammatory response	1	PYCARD
+positive regulation of NIK/NF-kappaB signaling	1	PYCARD
+positive regulation of T cell migration	1	PYCARD
+positive regulation of cysteine-type endopeptidase activity	1	PYCARD
+positive regulation of extrinsic apoptotic signaling pathway	1	PYCARD
+regulation of intrinsic apoptotic signaling pathway	1	PYCARD
+microtubule	1	PYCARD
+IkappaB kinase complex	1	PYCARD
+neuronal cell body	1	PYCARD
+canonical inflammasome complex	1	PYCARD
+NLRP1 inflammasome complex	1	PYCARD
+NLRP3 inflammasome complex	1	PYCARD
+AIM2 inflammasome complex	1	PYCARD
+NLRP6 inflammasome complex	1	PYCARD
+transcription coactivator activity	1	MYCBP
+regulation of DNA-templated transcription	1	MYCBP
+spermatogenesis	1	MYCBP
+positive regulation of DNA-templated transcription	1	MYCBP
+transaldolase activity	1	TALDO1
+monosaccharide binding	1	TALDO1
+carbohydrate metabolic process	1	TALDO1
+fructose 6-phosphate metabolic process	1	TALDO1
+pentose-phosphate shunt, non-oxidative branch	1	TALDO1
+glyceraldehyde-3-phosphate metabolic process	1	TALDO1
+3-hydroxyacyl-CoA dehydrogenase activity	1	HSD17B4
+enoyl-CoA hydratase activity	1	HSD17B4
+estradiol 17-beta-dehydrogenase [NAD(P)] activity	1	HSD17B4
+isomerase activity	1	HSD17B4
+3-hydroxyacyl-CoA dehydratase activity	1	HSD17B4
+3alpha,7alpha,12alpha-trihydroxy-5beta-cholest-24-enoyl-CoA hydratase activity	1	HSD17B4
+17-beta-hydroxysteroid dehydrogenase (NAD+) activity	1	HSD17B4
+(3R)-hydroxyacyl-CoA dehydrogenase (NAD) activity	1	HSD17B4
+very long-chain fatty acid metabolic process	1	HSD17B4
+osteoblast differentiation	1	HSD17B4
+fatty acid beta-oxidation	1	HSD17B4
+androgen metabolic process	1	HSD17B4
+estrogen metabolic process	1	HSD17B4
+very long-chain fatty-acyl-CoA metabolic process	1	HSD17B4
+medium-chain fatty-acyl-CoA metabolic process	1	HSD17B4
+Sertoli cell development	1	HSD17B4
+peroxisome	1	HSD17B4
+peroxisomal membrane	1	HSD17B4
+peroxisomal matrix	1	HSD17B4
+1,4-alpha-oligoglucan phosphorylase activity	1	TYMP
+growth factor activity	1	TYMP
+thymidine phosphorylase activity	1	TYMP
+pyrimidine-nucleoside phosphorylase activity	1	TYMP
+mitochondrial genome maintenance	1	TYMP
+pyrimidine nucleobase metabolic process	1	TYMP
+pyrimidine nucleoside metabolic process	1	TYMP
+chemotaxis	1	TYMP
+cell differentiation	1	TYMP
+regulation of myelination	1	TYMP
+dTMP catabolic process	1	TYMP
+regulation of transmission of nerve impulse	1	TYMP
+regulation of gastric motility	1	TYMP

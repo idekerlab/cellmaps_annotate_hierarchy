@@ -1,0 +1,3 @@
+### Validated References: 
+[1] de Almeida-Bizzo, Janayna Hammes, Alves, Lysangela Ronalte, Castro, Felipe F, Garcia, Juliana Bório Ferreira, Goldenberg, Samuel, Cruz, Angela Kaysel. "Characterization of the pattern of ribosomal protein L19 production during the lifecycle of Leishmania spp." Experimental parasitology, 2014, pp. 60-6.
+[2] Gould, Sven B, Sommer, Maik S, Kroth, Peter G, Gile, Gillian H, Keeling, Patrick J, Maier, Uwe-G. "Nucleus-to-nucleus gene transfer and protein retargeting into a remnant cytoplasm of cryptophytes and diatoms." Molecular biology and evolution, 2006, pp. 2413-22.

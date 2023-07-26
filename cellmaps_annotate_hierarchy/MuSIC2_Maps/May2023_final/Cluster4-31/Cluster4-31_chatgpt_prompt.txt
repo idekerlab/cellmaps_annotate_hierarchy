@@ -1,0 +1,21 @@
+Your response should be formatted as Markdown paragraphs
+Write a critical and concise analysis of this human protein system, describing your reasoning as you go and providing references to scientific papers.
+
+A critical goal of the analysis is to determine if this is a novel complex or if any proteins are novel members of a known complex
+
+Format with Title, Summary, and References sections.        
+Avoid overly general statements of how the proteins are involved in various cellular processes        
+Avoid repeating the goals of the analysis.
+
+What cellular components and complexes are involved in this system?
+What mechanisms and biological processes are performed by this system?
+Propose a name for the system to reflect the cellular location and function, and should be specific but brief. Do not compose an acronym. Place it as the title of your report
+Human Proteins: TNNC2, MYH14, PHKA2, SH3BGRL2, CAMK2N2, PDE1C.
+
+System features from GO terms: 
+cytosol: 5 proteins: TNNC2, MYH14, PHKA2, CAMK2N2, PDE1C
+calmodulin binding: 3 proteins: MYH14, PHKA2, PDE1C
+protein binding: 2 proteins: TNNC2, PHKA2
+skeletal muscle contraction: 2 proteins: TNNC2, MYH14
+cytoplasm: 2 proteins: MYH14, SH3BGRL2
+nucleoplasm: 2 proteins: SH3BGRL2, CAMK2N2

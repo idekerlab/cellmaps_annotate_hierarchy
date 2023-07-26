@@ -1,0 +1,28 @@
+Your response should be formatted as Markdown paragraphs
+Write a critical and concise analysis of this human protein system, describing your reasoning as you go and providing references to scientific papers.
+
+A critical goal of the analysis is to determine if this is a novel complex or if any proteins are novel members of a known complex
+
+Format with Title, Summary, and References sections.        
+Avoid overly general statements of how the proteins are involved in various cellular processes        
+Avoid repeating the goals of the analysis.
+
+What cellular components and complexes are involved in this system?
+What mechanisms and biological processes are performed by this system?
+Propose a name for the system to reflect the cellular location and function, and should be specific but brief. Do not compose an acronym. Place it as the title of your report
+Human Proteins: RPP25L, RPP14, RPP40, POP7, RPP25.
+
+System features from GO terms: 
+protein binding: 5 proteins: RPP25L, RPP14, RPP40, POP7, RPP25
+tRNA 5'-leader removal: 5 proteins: RPP25L, RPP14, RPP40, POP7, RPP25
+ribonuclease MRP complex: 4 proteins: RPP25L, RPP40, POP7, RPP25
+ribonuclease P activity: 4 proteins: RPP14, RPP40, POP7, RPP25
+ribonuclease P RNA binding: 4 proteins: RPP14, RPP40, POP7, RPP25
+nucleoplasm: 4 proteins: RPP14, RPP40, POP7, RPP25
+multimeric ribonuclease P complex: 4 proteins: RPP14, RPP40, POP7, RPP25
+RNA binding: 3 proteins: RPP25L, POP7, RPP25
+nucleus: 3 proteins: RPP25L, RPP40, POP7
+RNA phosphodiester bond hydrolysis, endonucleolytic: 3 proteins: RPP14, POP7, RPP25
+nucleolus: 3 proteins: RPP14, POP7, RPP25
+nucleolar ribonuclease P complex: 2 proteins: RPP40, POP7
+rRNA processing: 2 proteins: POP7, RPP25

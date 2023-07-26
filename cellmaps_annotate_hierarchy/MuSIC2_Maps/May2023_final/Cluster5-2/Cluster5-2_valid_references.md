@@ -1,0 +1,4 @@
+### Validated References: 
+[1] Caretti, Giuseppina, Schiltz, R Louis, Dilworth, F Jeffrey, Di Padova, Monica, Zhao, Po, Ogryzko, Vasily, Fuller-Pace, Frances V, Hoffman, Eric P, Tapscott, Stephen J, Sartorelli, Vittorio. "The RNA helicases p68/p72 and the noncoding RNA SRA are coregulators of MyoD and skeletal muscle differentiation." Developmental cell, 2006, pp. 547-60.
+[2] Wang, Jie, Yan, Hai-Bo, Zhang, Qian, Liu, Wei-Yan, Jiang, Ying-Hua, Peng, Gang, Wu, Fei-Zhen, Liu, Xin, Yang, Peng-Yuan, Liu, Feng. "Enhancement of E-cadherin expression and processing and driving of cancer cell metastasis by ARID1A deficiency." Oncogene, 2021, pp. 5468-5481.
+[3] Mazina, M Yu, Nikolenko, Yu V, Krasnov, A N, Vorobyeva, N E. "[SWI/SNF Protein Complexes Participate in the Initiation and Elongation Stages of Drosophila hsp70 Gene Transcription]." Genetika, 2016, pp. 164-9.

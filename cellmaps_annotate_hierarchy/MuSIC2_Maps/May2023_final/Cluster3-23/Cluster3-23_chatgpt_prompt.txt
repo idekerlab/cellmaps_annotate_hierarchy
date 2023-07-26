@@ -1,0 +1,115 @@
+Your response should be formatted as Markdown paragraphs
+Write a critical and concise analysis of this human protein system, describing your reasoning as you go and providing references to scientific papers.
+
+A critical goal of the analysis is to determine if this is a novel complex or if any proteins are novel members of a known complex
+
+Format with Title, Summary, and References sections.        
+Avoid overly general statements of how the proteins are involved in various cellular processes        
+Avoid repeating the goals of the analysis.
+
+What cellular components and complexes are involved in this system?
+What mechanisms and biological processes are performed by this system?
+Propose a name for the system to reflect the cellular location and function, and should be specific but brief. Do not compose an acronym. Place it as the title of your report
+Human Proteins: CKS2, CKS1B, ANAPC1, ANAPC7, BORA, CCNA2, CDC26, FZR1, CUEDC2, CDC27, ANAPC10, C1orf226, CDKN1C, PHF23, CDKN1A, ANAPC5, CDK2, CCND1, CCNA1, L3MBTL1, CCNE1, CDK1, NUBP2, CDC20, CDKN3, CTSA.
+
+System features from GO terms: 
+protein binding: 21 proteins: CKS2, CKS1B, BORA, CCNA2, CDC26, FZR1, CUEDC2, CDC27, ANAPC10, CDKN1C, PHF23, CDKN1A, CDK2, CCND1, CCNA1, L3MBTL1, CCNE1, CDK1, NUBP2, CDC20, CDKN3
+nucleoplasm: 19 proteins: CKS1B, ANAPC1, ANAPC7, CCNA2, CDC26, FZR1, CUEDC2, CDC27, ANAPC10, PHF23, CDKN1A, ANAPC5, CDK2, CCND1, CCNA1, L3MBTL1, CCNE1, CDK1, CDC20
+cytosol: 19 proteins: ANAPC1, ANAPC7, BORA, CCNA2, CDC26, FZR1, CUEDC2, CDC27, ANAPC10, CDKN1A, ANAPC5, CDK2, CCND1, CCNA1, CCNE1, CDK1, NUBP2, CDC20, CDKN3
+cell division: 17 proteins: CKS2, CKS1B, ANAPC1, ANAPC7, BORA, CCNA2, CDC26, FZR1, CDC27, ANAPC10, ANAPC5, CDK2, CCND1, CCNA1, CCNE1, CDK1, CDC20
+nucleus: 17 proteins: ANAPC7, BORA, CCNA2, FZR1, CDC27, CDKN1C, PHF23, CDKN1A, ANAPC5, CDK2, CCND1, CCNA1, L3MBTL1, CCNE1, CDK1, NUBP2, CDKN3
+ mitotic cell cycle: 10 proteins: CKS2, CKS1B, ANAPC1, ANAPC7, CDC26, FZR1, CDC27, ANAPC10, ANAPC5, CDC20
+cytoplasm: 10 proteins: BORA, CCNA2, CDC27, CDKN1C, PHF23, CDK2, CCND1, CCNA1, CCNE1, CDK1
+anaphase-promoting complex-dependent catabolic process: 8 proteins: ANAPC1, ANAPC7, CDC26, FZR1, CDC27, ANAPC10, ANAPC5, CDC20
+ meiotic cell cycle: 8 proteins: ANAPC1, ANAPC7, CDC26, FZR1, CDC27, ANAPC10, ANAPC5, CDC20
+anaphase-promoting complex: 8 proteins: ANAPC1, ANAPC7, CDC26, FZR1, CDC27, ANAPC10, ANAPC5, CDC20
+protein kinase binding: 7 proteins: CKS2, CKS1B, BORA, CCNA2, CDKN1A, CCND1, CCNE1
+cyclin-dependent protein kinase holoenzyme complex: 7 proteins: CKS2, CKS1B, CCNA2, CDKN1A, CDK2, CCND1, CDK1
+protein K11-linked ubiquitination: 7 proteins: ANAPC1, ANAPC7, CDC26, FZR1, CDC27, ANAPC10, ANAPC5
+cell cycle: 6 proteins: ANAPC7, BORA, CDC26, ANAPC10, CDKN1C, ANAPC5
+ cyclin-dependent protein serine/threonine kinase activity: 6 proteins: CCNA2, CDKN1A, CCND1, CCNA1, CCNE1, CDKN3
+mitotic cell cycle phase transition: 5 proteins: CKS2, CKS1B, CCNA2, CCND1, CCNA1
+centrosome: 5 proteins: CDC27, CDK2, CCNE1, CDK1, CDC20
+G1/S transition of mitotic cell cycle: 5 proteins: CDKN1A, CDK2, CCND1, CCNE1, CDKN3
+ DNA-templated transcription: 4 proteins: CKS1B, CCNA2, CDKN1C, CDK2
+ mitotic metaphase/anaphase transition: 4 proteins: ANAPC7, CDC26, ANAPC5, CDC20
+spindle: 4 proteins: ANAPC7, CDC27, ANAPC5, CDC20
+cyclin-dependent protein serine/threonine kinase regulator activity: 4 proteins: CCNA2, CCND1, CCNA1, CCNE1
+negative regulation of transcription by RNA polymerase II: 4 proteins: CDKN1C, CDK2, CCND1, CCNE1
+ G2/M transition of mitotic cell cycle: 4 proteins: CDKN1A, CDK2, CCND1, CDK1
+protein phosphorylation: 4 proteins: CDK2, CCND1, CCNE1, CDK1
+chromatin binding: 3 proteins: CKS2, L3MBTL1, CDK1
+histone binding: 3 proteins: CKS2, CKS1B, L3MBTL1
+ubiquitin binding: 3 proteins: CKS2, CKS1B, CUEDC2
+cyclin-dependent protein serine/threonine kinase activator activity: 3 proteins: CKS2, CKS1B, CCND1
+fibroblast proliferation: 3 proteins: CKS2, CKS1B, CDK1
+protein phosphatase binding: 3 proteins: ANAPC7, CDC27, ANAPC5
+G2/M transition of mitotic cell cycle: 3 proteins: CCNA2, CDK2, CDK1
+Ras protein signal transduction: 3 proteins: CCNA2, CDKN1A, CDK2
+cyclin A2-CDK2 complex: 3 proteins: CCNA2, CDK2, CCNA1
+DNA repair: 3 proteins: FZR1, CDK2, CDK1
+mitotic G2 DNA damage checkpoint signaling: 3 proteins: FZR1, CDKN1A, CDK1
+ cell population proliferation: 3 proteins: FZR1, CDK2, CDC20
+ anaphase-promoting complex-dependent catabolic process: 3 proteins: FZR1, CDK2, CDC20
+nuclear membrane: 3 proteins: FZR1, CUEDC2, CCND1
+protein-containing complex binding: 3 proteins: CDKN1C, CDKN1A, CCND1
+metal ion binding: 3 proteins: PHF23, CDKN1A, NUBP2
+cyclin binding: 3 proteins: CDKN1A, CDK2, CDK1
+ cell cycle: 3 proteins: CDKN1A, L3MBTL1, CDKN3
+ATP binding: 3 proteins: CDK2, CDK1, NUBP2
+ transcription by RNA polymerase II: 2 proteins: CKS2, CDK1
+SCF ubiquitin ligase complex: 2 proteins: CKS2, CKS1B
+metaphase/anaphase transition of mitotic cell cycle: 2 proteins: ANAPC1, CDC27
+protein ubiquitination: 2 proteins: ANAPC7, CDC20
+microtubule cytoskeleton: 2 proteins: ANAPC7, CCNA1
+ mitotic nuclear division: 2 proteins: BORA, L3MBTL1
+ protein localization: 2 proteins: BORA, CCNE1
+protein domain specific binding: 2 proteins: CCNA2, CDK2
+ DNA replication: 2 proteins: CCNA2, CDK1
+DNA-templated transcription: 2 proteins: CCNA2, CDK2
+animal organ regeneration: 2 proteins: CCNA2, CDK1
+post-translational protein modification: 2 proteins: CCNA2, CDK2
+ fibroblast proliferation: 2 proteins: CCNA2, CDKN1A
+cellular response to nitric oxide: 2 proteins: CCNA2, CDK2
+anaphase-promoting complex binding: 2 proteins: FZR1, CDC20
+kinase inhibitor activity: 2 proteins: FZR1, CDK1
+ubiquitin ligase activator activity: 2 proteins: FZR1, CDC20
+ meiotic nuclear division: 2 proteins: FZR1, CDC20
+ ubiquitin protein ligase activity: 2 proteins: FZR1, CDC20
+mitotic spindle: 2 proteins: CDC27, CDK1
+protein kinase inhibitor activity: 2 proteins: CDKN1C, CDKN1A
+cyclin-dependent protein serine/threonine kinase inhibitor activity: 2 proteins: CDKN1C, CDKN1A
+molecular function inhibitor activity: 2 proteins: CDKN1C, CDKN1A
+negative regulation of phosphorylation: 2 proteins: CDKN1C, CDKN1A
+negative regulation of DNA-templated transcription: 2 proteins: CDKN1C, L3MBTL1
+negative regulation of cyclin-dependent protein kinase activity: 2 proteins: CDKN1C, CDKN1A
+ protein phosphorylation: 2 proteins: CDKN1A, CCND1
+DNA damage response: 2 proteins: CDKN1A, CCND1
+negative regulation of cell population proliferation: 2 proteins: CDKN1A, CDKN3
+negative regulation of gene expression: 2 proteins: CDKN1A, CDK1
+cellular senescence: 2 proteins: CDKN1A, CDK2
+nucleolus: 2 proteins: CDKN1A, L3MBTL1
+protein serine/threonine kinase activity: 2 proteins: CDK2, CDK1
+cyclin-dependent protein serine/threonine kinase activity: 2 proteins: CDK2, CDK1
+histone kinase activity: 2 proteins: CDK2, CDK1
+cyclin-dependent protein kinase activity: 2 proteins: CDK2, CDK1
+protein serine kinase activity: 2 proteins: CDK2, CDK1
+DNA replication: 2 proteins: CDK2, CDK1
+chromatin remodeling: 2 proteins: CDK2, CDK1
+ gene expression: 2 proteins: CDK2, CDK1
+peptidyl-serine phosphorylation: 2 proteins: CDK2, CDK1
+mitotic G1 DNA damage checkpoint signaling: 2 proteins: CDK2, CCND1
+chromosome, telomeric region: 2 proteins: CDK2, CDK1
+condensed chromosome: 2 proteins: CDK2, L3MBTL1
+cyclin A1-CDK2 complex: 2 proteins: CDK2, CCNA1
+cyclin E1-CDK2 complex: 2 proteins: CDK2, CCNE1
+protein kinase activity: 2 proteins: CCND1, CDK1
+histone deacetylase binding: 2 proteins: CCND1, CDC20
+response to xenobiotic stimulus: 2 proteins: CCND1, CDK1
+Wnt signaling pathway: 2 proteins: CCND1, CCNE1
+response to ethanol: 2 proteins: CCND1, CDK1
+kinase activity: 2 proteins: CCNE1, CDK1
+enzyme activator activity: 2 proteins: CDK1, CTSA
+membrane: 2 proteins: CDK1, CTSA
+extracellular exosome: 2 proteins: CDK1, CTSA
+perinuclear region of cytoplasm: 2 proteins: CDC20, CDKN3

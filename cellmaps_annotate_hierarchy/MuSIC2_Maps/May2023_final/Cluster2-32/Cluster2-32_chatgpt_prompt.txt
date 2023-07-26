@@ -1,0 +1,53 @@
+Your response should be formatted as Markdown paragraphs
+Write a critical and concise analysis of this human protein system, describing your reasoning as you go and providing references to scientific papers.
+
+A critical goal of the analysis is to determine if this is a novel complex or if any proteins are novel members of a known complex
+
+Format with Title, Summary, and References sections.        
+Avoid overly general statements of how the proteins are involved in various cellular processes        
+Avoid repeating the goals of the analysis.
+
+What cellular components and complexes are involved in this system?
+What mechanisms and biological processes are performed by this system?
+Propose a name for the system to reflect the cellular location and function, and should be specific but brief. Do not compose an acronym. Place it as the title of your report
+Human Proteins: PPP3CA, MYO1E, TNNC2, SYN2, POC5, PRKAG2, HYPK, MYH14, PRKAB2, PHKA2, SH3BGRL2, CETN1, CETN2, PTPN4, CAMK2N2, PDE1C.
+
+System features from GO terms: 
+protein binding: 12 proteins: PPP3CA, MYO1E, TNNC2, SYN2, POC5, PRKAG2, HYPK, PRKAB2, PHKA2, CETN1, CETN2, PTPN4
+cytosol: 12 proteins: PPP3CA, TNNC2, POC5, PRKAG2, MYH14, PRKAB2, PHKA2, CETN1, CETN2, PTPN4, CAMK2N2, PDE1C
+nucleoplasm: 9 proteins: PPP3CA, POC5, PRKAG2, HYPK, PRKAB2, SH3BGRL2, CETN2, PTPN4, CAMK2N2
+cytoplasm: 7 proteins: PPP3CA, MYO1E, HYPK, MYH14, PRKAB2, SH3BGRL2, PTPN4
+calmodulin binding: 5 proteins: PPP3CA, MYO1E, MYH14, PHKA2, PDE1C
+calcium ion binding: 4 proteins: PPP3CA, TNNC2, CETN1, CETN2
+plasma membrane: 4 proteins: PPP3CA, MYO1E, SYN2, PHKA2
+ATP binding: 4 proteins: MYO1E, SYN2, PRKAG2, MYH14
+centrosome: 4 proteins: POC5, CETN1, CETN2, CAMK2N2
+centriole: 3 proteins: POC5, CETN1, CETN2
+protein kinase binding: 3 proteins: PRKAG2, PRKAB2, CAMK2N2
+protein dephosphorylation: 2 proteins: PPP3CA, PTPN4
+cytoplasmic side of plasma membrane: 2 proteins: PPP3CA, PTPN4
+Schaffer collateral - CA1 synapse: 2 proteins: PPP3CA, SYN2
+glutamatergic synapse: 2 proteins: PPP3CA, SYN2
+microfilament motor activity: 2 proteins: MYO1E, MYH14
+actin filament binding: 2 proteins: MYO1E, MYH14
+cytoskeleton: 2 proteins: MYO1E, PTPN4
+brush border: 2 proteins: MYO1E, MYH14
+extracellular exosome: 2 proteins: MYO1E, MYH14
+skeletal muscle contraction: 2 proteins: TNNC2, MYH14
+synapse: 2 proteins: SYN2, CAMK2N2
+AMP-activated protein kinase activity: 2 proteins: PRKAG2, PRKAB2
+glycogen metabolic process: 2 proteins: PRKAG2, PHKA2
+negative regulation of protein kinase activity: 2 proteins: PRKAG2, CAMK2N2
+fatty acid biosynthetic process: 2 proteins: PRKAG2, PRKAB2
+cellular response to nutrient levels: 2 proteins: PRKAG2, PRKAB2
+nucleotide-activated protein kinase complex: 2 proteins: PRKAG2, PRKAB2
+nucleus: 2 proteins: HYPK, PRKAB2
+signal transduction: 2 proteins: PRKAB2, PDE1C
+microtubule binding: 2 proteins: CETN1, CETN2
+G-protein beta/gamma-subunit complex binding: 2 proteins: CETN1, CETN2
+heterotrimeric G-protein binding: 2 proteins: CETN1, CETN2
+mitotic cell cycle: 2 proteins: CETN1, CETN2
+nucleotide-excision repair: 2 proteins: CETN1, CETN2
+centriole replication: 2 proteins: CETN1, CETN2
+cell division: 2 proteins: CETN1, CETN2
+photoreceptor connecting cilium: 2 proteins: CETN1, CETN2

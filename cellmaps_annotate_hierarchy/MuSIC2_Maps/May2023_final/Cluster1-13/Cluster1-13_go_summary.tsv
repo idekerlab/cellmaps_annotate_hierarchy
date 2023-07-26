@@ -1,0 +1,201 @@
+Feature	Number of Genes	Genes
+protein binding	11	UHMK1, TARS2, ERBB2, INTS6, VPS54, ALG2, SETD6, NACC1, TTC5, WDR81, ZNF281
+nucleoplasm	8	UHMK1, ERBB2, INTS6, VPS54, SETD6, NACC1, TTC5, ZNF281
+nucleus	7	UHMK1, ERBB2, INTS6, ALG2, SETD6, NACC1, ZNF281
+cytosol	5	ERBB2, VPS54, SETD6, TTC5, WDR81
+membrane	4	TMEM263, ERBB2, VPS54, ALG2
+ATP binding	3	UHMK1, TARS2, ERBB2
+cytoplasm	3	MROH1, ALG2, NACC1
+perinuclear region of cytoplasm	3	ERBB2, VPS54, ALG2
+mitochondrion	3	VPS54, TTC5, WDR81
+protein autophosphorylation	2	UHMK1, ERBB2
+intracellular membrane-bounded organelle	2	UHMK1, NACC1
+mitochondrial matrix	2	TARS2, TTC5
+transmembrane signaling receptor activity	2	ERBB2, INTS6
+protein heterodimerization activity	2	ERBB2, ALG2
+ cell population proliferation	2	ERBB2, NACC1
+mitochondrion organization	2	VPS54, WDR81
+response to calcium ion	2	VPS54, ALG2
+Golgi apparatus	2	VPS54, WDR81
+endoplasmic reticulum membrane	2	ALG2, WDR81
+stem cell differentiation	2	SETD6, ZNF281
+RNA polymerase II cis-regulatory region sequence-specific DNA binding	2	NACC1, ZNF281
+DNA-binding transcription factor activity, RNA polymerase II-specific	2	NACC1, ZNF281
+DNA-binding transcription repressor activity, RNA polymerase II-specific	2	NACC1, ZNF281
+negative regulation of transcription by RNA polymerase II	2	NACC1, ZNF281
+ transcription by RNA polymerase II	2	NACC1, TTC5
+negative regulation of DNA-templated transcription	2	NACC1, ZNF281
+RNA binding	1	UHMK1
+protein serine/threonine kinase activity	1	UHMK1
+transferase activity	1	UHMK1
+enzyme binding	1	UHMK1
+ribonucleoprotein complex binding	1	UHMK1
+protein serine kinase activity	1	UHMK1
+splicing factor binding	1	UHMK1
+peptidyl-serine phosphorylation	1	UHMK1
+neuron projection development	1	UHMK1
+ translational initiation	1	UHMK1
+ protein export from nucleus	1	UHMK1
+ cell cycle	1	UHMK1
+nuclear speck	1	UHMK1
+axon	1	UHMK1
+dendrite cytoplasm	1	UHMK1
+neuronal ribonucleoprotein granule	1	UHMK1
+aminoacyl-tRNA editing activity	1	TARS2
+threonine-tRNA ligase activity	1	TARS2
+protein homodimerization activity	1	TARS2
+threonyl-tRNA aminoacylation	1	TARS2
+mitochondrial threonyl-tRNA aminoacylation	1	TARS2
+aminoacyl-tRNA metabolism involved in translational fidelity	1	TARS2
+cellular_component	1	TARS2
+RNA polymerase I core binding	1	ERBB2
+protein tyrosine kinase activity	1	ERBB2
+transmembrane receptor protein tyrosine kinase activity	1	ERBB2
+growth factor binding	1	ERBB2
+identical protein binding	1	ERBB2
+ErbB-3 class receptor binding	1	ERBB2
+ protein phosphorylation	1	ERBB2
+protein phosphorylation	1	ERBB2
+signal transduction	1	ERBB2
+cell surface receptor signaling pathway	1	ERBB2
+enzyme-linked receptor protein signaling pathway	1	ERBB2
+transmembrane receptor protein tyrosine kinase signaling pathway	1	ERBB2
+multicellular organism development	1	ERBB2
+peripheral nervous system development	1	ERBB2
+heart development	1	ERBB2
+neuromuscular junction development	1	ERBB2
+motor neuron axon guidance	1	ERBB2
+phosphatidylinositol 3-kinase signaling	1	ERBB2
+peptidyl-tyrosine phosphorylation	1	ERBB2
+neurogenesis	1	ERBB2
+neuron differentiation	1	ERBB2
+ cell growth	1	ERBB2
+ microtubule-based process	1	ERBB2
+immature T cell proliferation in thymus	1	ERBB2
+negative regulation of immature T cell proliferation in thymus	1	ERBB2
+ kinase activity	1	ERBB2
+intracellular signal transduction	1	ERBB2
+ERBB2-ERBB3 signaling pathway	1	ERBB2
+ERBB2-EGFR signaling pathway	1	ERBB2
+ERBB2-ERBB4 signaling pathway	1	ERBB2
+wound healing	1	ERBB2
+myelination	1	ERBB2
+negative regulation of apoptotic process	1	ERBB2
+ MAP kinase activity	1	ERBB2
+ MAPK cascade	1	ERBB2
+ GTPase activity	1	ERBB2
+ translation	1	ERBB2
+ angiogenesis	1	ERBB2
+ cell adhesion	1	ERBB2
+ transcription by RNA polymerase I	1	ERBB2
+oligodendrocyte differentiation	1	ERBB2
+ epithelial cell proliferation	1	ERBB2
+ ERK1 and ERK2 cascade	1	ERBB2
+cellular response to growth factor stimulus	1	ERBB2
+cellular response to epidermal growth factor stimulus	1	ERBB2
+ protein targeting to membrane	1	ERBB2
+neurotransmitter receptor localization to postsynaptic specialization membrane	1	ERBB2
+early endosome	1	ERBB2
+plasma membrane	1	ERBB2
+basal plasma membrane	1	ERBB2
+endosome membrane	1	ERBB2
+basolateral plasma membrane	1	ERBB2
+apical plasma membrane	1	ERBB2
+neuromuscular junction	1	ERBB2
+ruffle membrane	1	ERBB2
+ERBB3:ERBB2 complex	1	ERBB2
+presynaptic membrane	1	ERBB2
+myelin sheath	1	ERBB2
+receptor complex	1	ERBB2
+snRNA processing	1	INTS6
+ transcription elongation by RNA polymerase II	1	INTS6
+snRNA 3'-end processing	1	INTS6
+actin cytoskeleton	1	INTS6
+integrator complex	1	INTS6
+syntaxin binding	1	VPS54
+in utero embryonic development	1	VPS54
+apoptotic DNA fragmentation	1	VPS54
+protein targeting to lysosome	1	VPS54
+intracellular calcium ion homeostasis	1	VPS54
+Golgi to vacuole transport	1	VPS54
+striated muscle contraction	1	VPS54
+vacuole organization	1	VPS54
+lysosomal transport	1	VPS54
+neuromuscular synaptic transmission	1	VPS54
+gene expression	1	VPS54
+ubiquitin recycling	1	VPS54
+microglia differentiation	1	VPS54
+respiratory electron transport chain	1	VPS54
+sphingolipid catabolic process	1	VPS54
+protein localization to cell surface	1	VPS54
+post-embryonic forelimb morphogenesis	1	VPS54
+synaptic transmission, glutamatergic	1	VPS54
+ growth	1	VPS54
+retrograde transport, endosome to Golgi	1	VPS54
+protein targeting to ER	1	VPS54
+response to antibiotic	1	VPS54
+spermatid differentiation	1	VPS54
+skeletal muscle tissue growth	1	VPS54
+astrocyte differentiation	1	VPS54
+neuron projection morphogenesis	1	VPS54
+homeostasis of number of cells within a tissue	1	VPS54
+musculoskeletal movement	1	VPS54
+synaptic transmission, GABAergic	1	VPS54
+L-glutamate import	1	VPS54
+neurofilament cytoskeleton organization	1	VPS54
+motor behavior	1	VPS54
+thrombin-activated receptor signaling pathway	1	VPS54
+cellular response to progesterone stimulus	1	VPS54
+vesicle-mediated cholesterol transport	1	VPS54
+motor neuron apoptotic process	1	VPS54
+neural tissue regeneration	1	VPS54
+neuroinflammatory response	1	VPS54
+negative regulation of motor neuron apoptotic process	1	VPS54
+GARP complex	1	VPS54
+trans-Golgi network	1	VPS54
+trans-Golgi network membrane	1	VPS54
+synapse	1	VPS54
+alpha-1,3-mannosyltransferase activity	1	ALG2
+GDP-Man:Man1GlcNAc2-PP-Dol alpha-1,3-mannosyltransferase activity	1	ALG2
+calcium-dependent protein binding	1	ALG2
+GDP-Man:Man2GlcNAc2-PP-dolichol alpha-1,6-mannosyltransferase activity	1	ALG2
+protein glycosylation	1	ALG2
+dolichol-linked oligosaccharide biosynthetic process	1	ALG2
+oligosaccharide-lipid intermediate biosynthetic process	1	ALG2
+protein-lysine N-methyltransferase activity	1	SETD6
+NF-kappaB binding	1	SETD6
+S-adenosyl-L-methionine binding	1	SETD6
+peptidyl-lysine monomethylation	1	SETD6
+stem cell population maintenance	1	SETD6
+negative regulation of NF-kappaB transcription factor activity	1	SETD6
+ inflammatory response	1	SETD6
+histone deacetylase binding	1	NACC1
+cell junction	1	NACC1
+DNA binding	1	TTC5
+chromatin binding	1	TTC5
+ribosome binding	1	TTC5
+DNA repair	1	TTC5
+DNA damage response	1	TTC5
+cellular response to starvation	1	TTC5
+ mRNA catabolic process	1	TTC5
+cytoplasmic vesicle	1	TTC5
+phosphatidylinositol 3-kinase regulator activity	1	WDR81
+K63-linked polyubiquitin modification-dependent protein binding	1	WDR81
+ubiquitin-dependent protein catabolic process	1	WDR81
+aggrephagy	1	WDR81
+ phosphatidylinositol 3-kinase activity	1	WDR81
+early endosome to late endosome transport	1	WDR81
+protein stabilization	1	WDR81
+autophagosome membrane	1	WDR81
+lysosomal membrane	1	WDR81
+extrinsic component of endosome membrane	1	WDR81
+early endosome membrane	1	WDR81
+late endosome membrane	1	WDR81
+transcription cis-regulatory region binding	1	ZNF281
+DNA-binding transcription factor activity	1	ZNF281
+sequence-specific DNA binding	1	ZNF281
+metal ion binding	1	ZNF281
+sequence-specific double-stranded DNA binding	1	ZNF281
+ DNA-templated transcription	1	ZNF281
+embryonic body morphogenesis	1	ZNF281
+negative regulation of gene expression	1	ZNF281

@@ -1,0 +1,173 @@
+Feature	Number of Genes	Genes
+protein binding	11	TTC39B, PRKAR1A, PITPNM1, PRKACB, PRKACA, SCRN1, OSBP2, ARHGEF12, TACC1, AKAP11, PITPNM3
+cytosol	10	PRKAR1A, PITPNM1, LSG1, PRKACB, PRKACA, OSBP2, ARHGEF12, TACC1, AKAP11, PITPNM3
+cytoplasm	8	PRKAR1A, PITPNM1, PRKACA, SCRN1, ARHGEF12, TACC1, AKAP11, PITPNM3
+membrane	7	PRKAR1A, PITPNM1, LSG1, OSBP2, ARHGEF12, TACC1, PITPNM3
+nucleus	4	PRKACB, PRKACA, SCRN1, TACC1
+ubiquitin protein ligase binding	3	PRKAR1A, PRKACB, PRKACA
+centrosome	3	PRKAR1A, PRKACB, PRKACA
+cAMP-dependent protein kinase complex	3	PRKAR1A, PRKACB, PRKACA
+ciliary base	3	PRKAR1A, PRKACB, PRKACA
+nucleoplasm	3	LSG1, PRKACB, PRKACA
+renal water homeostasis	3	PRKACB, PRKACA, AKAP11
+plasma membrane	3	PRKACB, PRKACA, AKAP11
+extracellular exosome	3	PRKACB, PRKACA, ARHGEF12
+lipid metabolic process	2	TTC39B, PITPNM1
+protein domain specific binding	2	PRKAR1A, PRKACA
+mesoderm formation	2	PRKAR1A, PRKACA
+adenylate cyclase-activating G protein-coupled receptor signaling pathway	2	PRKAR1A, PRKACA
+ insulin secretion	2	PRKAR1A, PRKACA
+intracellular signal transduction	2	PRKAR1A, AKAP11
+cellular response to glucagon stimulus	2	PRKAR1A, PRKACA
+axoneme	2	PRKAR1A, PRKACA
+neuromuscular junction	2	PRKAR1A, PRKACA
+plasma membrane raft	2	PRKAR1A, PRKACA
+glutamatergic synapse	2	PRKAR1A, PRKACA
+calcium ion binding	2	PITPNM1, PITPNM3
+phosphatidylinositol transfer activity	2	PITPNM1, PITPNM3
+receptor tyrosine kinase binding	2	PITPNM1, PITPNM3
+phosphatidylinositol biosynthetic process	2	PITPNM1, PITPNM3
+protein transport	2	PITPNM1, LSG1
+phospholipid transport	2	PITPNM1, PITPNM3
+intermembrane lipid transfer	2	PITPNM1, PITPNM3
+midbody	2	PITPNM1, TACC1
+intracellular membrane-bounded organelle	2	PITPNM1, OSBP2
+cell body	2	PITPNM1, PITPNM3
+magnesium ion binding	2	PRKACB, PRKACA
+protein serine/threonine kinase activity	2	PRKACB, PRKACA
+AMP-activated protein kinase activity	2	PRKACB, PRKACA
+cAMP-dependent protein kinase activity	2	PRKACB, PRKACA
+ATP binding	2	PRKACB, PRKACA
+protein serine kinase activity	2	PRKACB, PRKACA
+neural tube closure	2	PRKACB, PRKACA
+protein phosphorylation	2	PRKACB, PRKACA
+protein kinase A signaling	2	PRKACB, PRKACA
+peptidyl-serine phosphorylation	2	PRKACB, PRKACA
+high-density lipoprotein particle assembly	2	PRKACB, PRKACA
+ protein processing	2	PRKACB, PRKACA
+negative regulation of smoothened signaling pathway involved in dorsal/ventral neural tube patterning	2	PRKACB, PRKACA
+protein kinase A regulatory subunit binding	2	PRKACA, AKAP11
+microtubule organizing center	2	TACC1, AKAP11
+ cholesterol efflux	1	TTC39B
+negative regulation of cholesterol storage	1	TTC39B
+cholesterol homeostasis	1	TTC39B
+ cholesterol metabolic process	1	TTC39B
+cAMP-dependent protein kinase inhibitor activity	1	PRKAR1A
+cAMP-dependent protein kinase regulator activity	1	PRKAR1A
+cAMP binding	1	PRKAR1A
+protein kinase A catalytic subunit binding	1	PRKAR1A
+ transcription by RNA polymerase II	1	PRKAR1A
+negative regulation of gene expression	1	PRKAR1A
+sarcomere organization	1	PRKAR1A
+negative regulation of activated T cell proliferation	1	PRKAR1A
+cardiac muscle cell proliferation	1	PRKAR1A
+negative regulation of cAMP-dependent protein kinase activity	1	PRKAR1A
+immunological synapse	1	PRKAR1A
+multivesicular body	1	PRKAR1A
+nucleotide-activated protein kinase complex	1	PRKAR1A
+protein-containing complex	1	PRKAR1A
+sperm connecting piece	1	PRKAR1A
+phosphatidylcholine transporter activity	1	PITPNM1
+phosphatidylcholine binding	1	PITPNM1
+phosphatidylinositol binding	1	PITPNM1
+phosphatidic acid binding	1	PITPNM1
+brain development	1	PITPNM1
+phototransduction	1	PITPNM1
+endoplasmic reticulum membrane	1	PITPNM1
+lipid droplet	1	PITPNM1
+cleavage furrow	1	PITPNM1
+Golgi cisterna membrane	1	PITPNM1
+GTPase activity	1	LSG1
+GTP binding	1	LSG1
+ribosomal subunit export from nucleus	1	LSG1
+nuclear export	1	LSG1
+endoplasmic reticulum	1	LSG1
+Cajal body	1	LSG1
+nuclear body	1	LSG1
+signal transduction	1	PRKACB
+adenylate cyclase-modulating G protein-coupled receptor signaling pathway	1	PRKACB
+protein kinase activity	1	PRKACA
+protein serine/threonine/tyrosine kinase activity	1	PRKACA
+phosphatase activator activity	1	PRKACA
+protein kinase binding	1	PRKACA
+manganese ion binding	1	PRKACA
+ heart rate	1	PRKACA
+mRNA processing	1	PRKACA
+protein export from nucleus	1	PRKACA
+ cardiac muscle contraction by regulation of the release of sequestered calcium ion	1	PRKACA
+ macroautophagy	1	PRKACA
+peptidyl-threonine phosphorylation	1	PRKACA
+cytokine-mediated signaling pathway	1	PRKACA
+cellular response to heat	1	PRKACA
+calcium-mediated signaling using intracellular calcium source	1	PRKACA
+ protein binding	1	PRKACA
+ osteoblast differentiation	1	PRKACA
+ gluconeogenesis	1	PRKACA
+protein autophosphorylation	1	PRKACA
+ protein export from nucleus	1	PRKACA
+sperm capacitation	1	PRKACA
+ cytosolic calcium ion concentration	1	PRKACA
+ cell cycle	1	PRKACA
+ cardiac muscle contraction	1	PRKACA
+ ryanodine-sensitive calcium-release channel activity	1	PRKACA
+ proteasomal protein catabolic process	1	PRKACA
+cellular response to cold	1	PRKACA
+cellular response to glucose stimulus	1	PRKACA
+cellular response to parathyroid hormone stimulus	1	PRKACA
+cellular response to epinephrine stimulus	1	PRKACA
+cell communication by electrical coupling involved in cardiac conduction	1	PRKACA
+postsynaptic modulation of chemical synaptic transmission	1	PRKACA
+ cardiac conduction	1	PRKACA
+negative regulation of glycolytic process through fructose-6-phosphate	1	PRKACA
+protein localization to lipid droplet	1	PRKACA
+ bicellular tight junction assembly	1	PRKACA
+acrosomal vesicle	1	PRKACA
+mitochondrion	1	PRKACA
+nuclear speck	1	PRKACA
+calcium channel complex	1	PRKACA
+sperm flagellum	1	PRKACA
+dendritic spine	1	PRKACA
+perinuclear region of cytoplasm	1	PRKACA
+molecular_function	1	SCRN1
+dipeptidase activity	1	SCRN1
+cysteine-type exopeptidase activity	1	SCRN1
+proteolysis	1	SCRN1
+exocytosis	1	SCRN1
+ synaptic vesicle cycle	1	SCRN1
+nuclear membrane	1	SCRN1
+presynapse	1	SCRN1
+sterol transporter activity	1	OSBP2
+cholesterol binding	1	OSBP2
+spermatid development	1	OSBP2
+sterol transport	1	OSBP2
+apical dendrite	1	OSBP2
+G protein-coupled receptor binding	1	ARHGEF12
+guanyl-nucleotide exchange factor activity	1	ARHGEF12
+GTPase activator activity	1	ARHGEF12
+G protein-coupled receptor signaling pathway	1	ARHGEF12
+Rho protein signal transduction	1	ARHGEF12
+ small GTPase mediated signal transduction	1	ARHGEF12
+nuclear receptor binding	1	TACC1
+nuclear estrogen receptor binding	1	TACC1
+nuclear receptor coactivator activity	1	TACC1
+nuclear glucocorticoid receptor binding	1	TACC1
+nuclear retinoic acid receptor binding	1	TACC1
+peroxisome proliferator activated receptor binding	1	TACC1
+nuclear retinoid X receptor binding	1	TACC1
+nuclear thyroid hormone receptor binding	1	TACC1
+microtubule cytoskeleton organization	1	TACC1
+mitotic spindle organization	1	TACC1
+cell population proliferation	1	TACC1
+cerebral cortex development	1	TACC1
+ DNA-templated transcription	1	TACC1
+cell division	1	TACC1
+protein phosphatase 1 binding	1	AKAP11
+protein kinase A binding	1	AKAP11
+protein localization	1	AKAP11
+cortical actin cytoskeleton organization	1	AKAP11
+protein localization to endosome	1	AKAP11
+nucleolus	1	AKAP11
+phospholipase activity	1	PITPNM3
+lipid binding	1	PITPNM3
+endomembrane system	1	PITPNM3
+cell projection	1	PITPNM3

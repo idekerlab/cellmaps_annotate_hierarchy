@@ -1,0 +1,22 @@
+Your response should be formatted as Markdown paragraphs
+Write a critical and concise analysis of this human protein system, describing your reasoning as you go and providing references to scientific papers.
+
+A critical goal of the analysis is to determine if this is a novel complex or if any proteins are novel members of a known complex
+
+Format with Title, Summary, and References sections.        
+Avoid overly general statements of how the proteins are involved in various cellular processes        
+Avoid repeating the goals of the analysis.
+
+What cellular components and complexes are involved in this system?
+What mechanisms and biological processes are performed by this system?
+Propose a name for the system to reflect the cellular location and function, and should be specific but brief. Do not compose an acronym. Place it as the title of your report
+Human Proteins: CDC42BPG, EHBP1L1, KIF5B, PTPN21, WDR62.
+
+System features from GO terms: 
+protein binding: 4 proteins: CDC42BPG, KIF5B, PTPN21, WDR62
+cytosol: 3 proteins: CDC42BPG, KIF5B, WDR62
+centriolar satellite: 3 proteins: CDC42BPG, KIF5B, WDR62
+ATP binding: 2 proteins: CDC42BPG, KIF5B
+cytoplasm: 2 proteins: CDC42BPG, PTPN21
+cytoskeleton: 2 proteins: CDC42BPG, PTPN21
+membrane: 2 proteins: EHBP1L1, KIF5B

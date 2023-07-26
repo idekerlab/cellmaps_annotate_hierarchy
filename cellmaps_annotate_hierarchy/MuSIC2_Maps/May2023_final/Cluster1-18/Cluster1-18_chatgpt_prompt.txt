@@ -1,0 +1,28 @@
+Your response should be formatted as Markdown paragraphs
+Write a critical and concise analysis of this human protein system, describing your reasoning as you go and providing references to scientific papers.
+
+A critical goal of the analysis is to determine if this is a novel complex or if any proteins are novel members of a known complex
+
+Format with Title, Summary, and References sections.        
+Avoid overly general statements of how the proteins are involved in various cellular processes        
+Avoid repeating the goals of the analysis.
+
+What cellular components and complexes are involved in this system?
+What mechanisms and biological processes are performed by this system?
+Propose a name for the system to reflect the cellular location and function, and should be specific but brief. Do not compose an acronym. Place it as the title of your report
+Human Proteins: GTF3C4, ZNF688, CENPH, CENPI, CENPO, CENPQ, CENPT, DHRS12, ITGB3BP, CENPN.
+
+System features from GO terms: 
+protein binding: 8 proteins: GTF3C4, ZNF688, CENPH, CENPI, CENPO, CENPQ, CENPT, ITGB3BP
+nucleoplasm: 8 proteins: GTF3C4, CENPH, CENPI, CENPO, CENPQ, CENPT, ITGB3BP, CENPN
+cytosol: 7 proteins: CENPH, CENPI, CENPO, CENPQ, CENPT, ITGB3BP, CENPN
+kinetochore: 5 proteins: CENPH, CENPI, CENPT, ITGB3BP, CENPN
+nucleus: 4 proteins: ZNF688, CENPH, CENPQ, ITGB3BP
+DNA binding: 3 proteins: GTF3C4, ZNF688, CENPT
+chromosome segregation: 3 proteins: CENPH, CENPT, CENPN
+CENP-A containing chromatin assembly: 3 proteins: CENPI, ITGB3BP, CENPN
+nuclear body: 3 proteins: CENPI, CENPO, CENPT
+ DNA-templated transcription: 2 proteins: ZNF688, ITGB3BP
+kinetochore assembly: 2 proteins: CENPH, CENPT
+chromosome, centromeric region: 2 proteins: CENPQ, CENPT
+cell division: 2 proteins: CENPT, ITGB3BP

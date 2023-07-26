@@ -1,0 +1,47 @@
+Feature	Number of Genes	Genes
+protein binding	3	BRCC3, GFOD1, RALGAPA2
+cytosol	3	BRCC3, ARHGEF26, RALGAPA2
+nucleus	2	BRCC3, RALGAPA2
+cytoplasm	2	BRCC3, RALGAPA2
+activation of GTPase activity	2	ARHGEF26, RALGAPA2
+cysteine-type deubiquitinase activity	1	BRCC3
+metallopeptidase activity	1	BRCC3
+enzyme regulator activity	1	BRCC3
+polyubiquitin modification-dependent protein binding	1	BRCC3
+metal ion binding	1	BRCC3
+K63-linked deubiquitinase activity	1	BRCC3
+metal-dependent deubiquitinase activity	1	BRCC3
+ DNA repair	1	BRCC3
+double-strand break repair	1	BRCC3
+mitotic G2 DNA damage checkpoint signaling	1	BRCC3
+response to X-ray	1	BRCC3
+response to ionizing radiation	1	BRCC3
+protein deubiquitination	1	BRCC3
+histone H2A monoubiquitination	1	BRCC3
+mitotic G2/M transition checkpoint	1	BRCC3
+cell division	1	BRCC3
+protein autoubiquitination	1	BRCC3
+protein K63-linked deubiquitination	1	BRCC3
+histone H2A K63-linked deubiquitination	1	BRCC3
+cellular response to ionizing radiation	1	BRCC3
+DNA repair-dependent chromatin remodeling	1	BRCC3
+ NLRP3 inflammasome complex assembly	1	BRCC3
+ DNA damage checkpoint	1	BRCC3
+ubiquitin ligase complex	1	BRCC3
+nuclear ubiquitin ligase complex	1	BRCC3
+spindle pole	1	BRCC3
+nucleoplasm	1	BRCC3
+BRCA1-A complex	1	BRCC3
+BRISC complex	1	BRCC3
+guanyl-nucleotide exchange factor activity	1	ARHGEF26
+endothelial cell morphogenesis	1	ARHGEF26
+ruffle assembly	1	ARHGEF26
+ruffle	1	ARHGEF26
+nucleotide binding	1	GFOD1
+oxidoreductase activity	1	GFOD1
+extracellular region	1	GFOD1
+GTPase activator activity	1	RALGAPA2
+protein heterodimerization activity	1	RALGAPA2
+ small GTPase mediated signal transduction	1	RALGAPA2
+extracellular space	1	RALGAPA2
+plasma membrane	1	RALGAPA2

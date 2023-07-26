@@ -1,0 +1,225 @@
+Feature	Number of Genes	Genes
+protein binding	12	RFXANK, POP4, SIRT1, GNAS, RPP25L, RPP14, RNASEH1, RPP40, POP7, RPP25, TRO, MAGED2
+nucleoplasm	8	RFXANK, POP4, SIRT1, RPP14, RPP40, POP7, RPP25, MAGED2
+nucleus	7	RFXANK, SIRT1, RPP25L, RPP40, POP7, TRO, MAGED2
+tRNA 5'-leader removal	6	POP4, RPP25L, RPP14, RPP40, POP7, RPP25
+nucleolus	6	POP4, SIRT1, RPP14, POP7, RPP25, MAGED2
+cytosol	5	RFXANK, SIRT1, GNAS, RIC8B, MAGED2
+ribonuclease P activity	5	POP4, RPP14, RPP40, POP7, RPP25
+ribonuclease P RNA binding	5	POP4, RPP14, RPP40, POP7, RPP25
+RNA phosphodiester bond hydrolysis, endonucleolytic	5	POP4, RPP14, RNASEH1, POP7, RPP25
+ribonuclease MRP complex	5	POP4, RPP25L, RPP40, POP7, RPP25
+multimeric ribonuclease P complex	5	POP4, RPP14, RPP40, POP7, RPP25
+cytoplasm	4	SIRT1, RNASEH1, POP7, RIC8B
+RNA binding	4	RPP25L, RNASEH1, POP7, RPP25
+rRNA processing	3	POP4, POP7, RPP25
+negative regulation of transcription by RNA polymerase II	3	SIRT1, TRO, MAGED2
+ transcription by RNA polymerase II	2	RFXANK, SIRT1
+ MHC class II biosynthetic process	2	RFXANK, SIRT1
+metal ion binding	2	SIRT1, GNAS
+membrane	2	GNAS, MAGED2
+nucleolar ribonuclease P complex	2	RPP40, POP7
+plasma membrane	2	TRO, RIC8B
+RNA polymerase II transcription regulatory region sequence-specific DNA binding	1	RFXANK
+DNA-binding transcription activator activity, RNA polymerase II-specific	1	RFXANK
+histone deacetylase binding	1	RFXANK
+Ras protein signal transduction	1	RFXANK
+intercellular bridge	1	RFXANK
+RNA polymerase II transcription regulator complex	1	RFXANK
+ribonuclease P complex	1	POP4
+RNA polymerase II cis-regulatory region sequence-specific DNA binding	1	SIRT1
+p53 binding	1	SIRT1
+transcription coactivator activity	1	SIRT1
+transcription corepressor activity	1	SIRT1
+NAD+ ADP-ribosyltransferase activity	1	SIRT1
+histone deacetylase activity	1	SIRT1
+enzyme inhibitor activity	1	SIRT1
+enzyme activator activity	1	SIRT1
+nuclear receptor binding	1	SIRT1
+NAD-dependent histone deacetylase activity	1	SIRT1
+phosphatase inhibitor activity	1	SIRT1
+deacetylase activity	1	SIRT1
+enzyme binding	1	SIRT1
+protein lysine deacetylase activity	1	SIRT1
+NAD-dependent protein deacetylase activity	1	SIRT1
+histone binding	1	SIRT1
+identical protein binding	1	SIRT1
+HLH domain binding	1	SIRT1
+bHLH transcription factor binding	1	SIRT1
+NAD-dependent histone H3K9 deacetylase activity	1	SIRT1
+mitogen-activated protein kinase binding	1	SIRT1
+NAD+ binding	1	SIRT1
+protein-propionyllysine depropionylase activity	1	SIRT1
+DNA-binding transcription factor binding	1	SIRT1
+transcription regulator activator activity	1	SIRT1
+molecular function activator activity	1	SIRT1
+NAD-dependent histone decrotonylase activity	1	SIRT1
+keratin filament binding	1	SIRT1
+NAD+-protein ADP-ribosyltransferase activity	1	SIRT1
+promoter-specific chromatin binding	1	SIRT1
+single strand break repair	1	SIRT1
+rDNA heterochromatin formation	1	SIRT1
+pyrimidine dimer repair by nucleotide-excision repair	1	SIRT1
+DNA synthesis involved in DNA repair	1	SIRT1
+angiogenesis	1	SIRT1
+ovulation from ovarian follicle	1	SIRT1
+intracellular glucose homeostasis	1	SIRT1
+ protein phosphorylation	1	SIRT1
+ endothelial cell proliferation	1	SIRT1
+ adaptive immune response	1	SIRT1
+chromatin organization	1	SIRT1
+DNA methylation-dependent heterochromatin formation	1	SIRT1
+protein deacetylation	1	SIRT1
+triglyceride mobilization	1	SIRT1
+DNA damage response	1	SIRT1
+response to oxidative stress	1	SIRT1
+transforming growth factor beta receptor signaling pathway	1	SIRT1
+spermatogenesis	1	SIRT1
+ mitotic cell cycle	1	SIRT1
+muscle organ development	1	SIRT1
+ cell population proliferation	1	SIRT1
+cellular response to starvation	1	SIRT1
+negative regulation of gene expression	1	SIRT1
+ centrosome duplication	1	SIRT1
+negative regulation of triglyceride biosynthetic process	1	SIRT1
+ cholesterol efflux	1	SIRT1
+ lipid storage	1	SIRT1
+ glucose metabolic process	1	SIRT1
+ phosphatidylinositol 3-kinase signaling	1	SIRT1
+ macroautophagy	1	SIRT1
+protein ubiquitination	1	SIRT1
+histone deacetylation	1	SIRT1
+peptidyl-lysine acetylation	1	SIRT1
+macrophage differentiation	1	SIRT1
+negative regulation of cell growth	1	SIRT1
+negative regulation of transforming growth factor beta receptor signaling pathway	1	SIRT1
+ histone methylation	1	SIRT1
+ histone deacetylation	1	SIRT1
+negative regulation of prostaglandin biosynthetic process	1	SIRT1
+heterochromatin formation	1	SIRT1
+protein destabilization	1	SIRT1
+negative regulation of TOR signaling	1	SIRT1
+ endodeoxyribonuclease activity	1	SIRT1
+negative regulation of NF-kappaB transcription factor activity	1	SIRT1
+response to insulin	1	SIRT1
+circadian regulation of gene expression	1	SIRT1
+leptin-mediated signaling pathway	1	SIRT1
+ smooth muscle cell apoptotic process	1	SIRT1
+peptidyl-lysine deacetylation	1	SIRT1
+intracellular triglyceride homeostasis	1	SIRT1
+ peroxisome proliferator activated receptor signaling pathway	1	SIRT1
+cellular response to glucose starvation	1	SIRT1
+negative regulation of phosphorylation	1	SIRT1
+response to hydrogen peroxide	1	SIRT1
+behavioral response to starvation	1	SIRT1
+cholesterol homeostasis	1	SIRT1
+intrinsic apoptotic signaling pathway in response to DNA damage by p53 class mediator	1	SIRT1
+ apoptotic process	1	SIRT1
+negative regulation of apoptotic process	1	SIRT1
+negative regulation of I-kappaB kinase/NF-kappaB signaling	1	SIRT1
+proteasome-mediated ubiquitin-dependent protein catabolic process	1	SIRT1
+ cysteine-type endopeptidase activity involved in apoptotic process	1	SIRT1
+negative regulation of DNA-binding transcription factor activity	1	SIRT1
+negative regulation of DNA damage response, signal transduction by p53 class mediator	1	SIRT1
+negative regulation of neuron apoptotic process	1	SIRT1
+ blood vessel endothelial cell migration	1	SIRT1
+response to leptin	1	SIRT1
+negative regulation of fat cell differentiation	1	SIRT1
+ gluconeogenesis	1	SIRT1
+ DNA repair	1	SIRT1
+ angiogenesis	1	SIRT1
+negative regulation of cell cycle	1	SIRT1
+negative regulation of DNA-templated transcription	1	SIRT1
+ transcription by glucose	1	SIRT1
+ insulin receptor signaling pathway	1	SIRT1
+white fat cell differentiation	1	SIRT1
+negative regulation of helicase activity	1	SIRT1
+ smooth muscle cell differentiation	1	SIRT1
+maintenance of nucleus location	1	SIRT1
+negative regulation of protein kinase B signaling	1	SIRT1
+fatty acid homeostasis	1	SIRT1
+negative regulation of androgen receptor signaling pathway	1	SIRT1
+ macrophage cytokine production	1	SIRT1
+cellular response to hydrogen peroxide	1	SIRT1
+ bile acid biosynthetic process	1	SIRT1
+UV-damage excision repair	1	SIRT1
+histone H3 deacetylation	1	SIRT1
+cellular response to tumor necrosis factor	1	SIRT1
+cellular response to hypoxia	1	SIRT1
+cellular response to ionizing radiation	1	SIRT1
+ protein serine/threonine kinase activity	1	SIRT1
+ brown fat cell differentiation	1	SIRT1
+stress-induced premature senescence	1	SIRT1
+energy homeostasis	1	SIRT1
+protein depropionylation	1	SIRT1
+ cellular response to heat	1	SIRT1
+negative regulation of histone H3-K9 trimethylation	1	SIRT1
+negative regulation of protein acetylation	1	SIRT1
+negative regulation of intrinsic apoptotic signaling pathway in response to DNA damage by p53 class mediator	1	SIRT1
+negative regulation of oxidative stress-induced intrinsic apoptotic signaling pathway	1	SIRT1
+ endoplasmic reticulum stress-induced intrinsic apoptotic signaling pathway	1	SIRT1
+ adipose tissue development	1	SIRT1
+cellular response to leukemia inhibitory factor	1	SIRT1
+ macrophage apoptotic process	1	SIRT1
+negative regulation of cAMP-dependent protein kinase activity	1	SIRT1
+ cAMP-dependent protein kinase activity	1	SIRT1
+negative regulation of cellular response to testosterone stimulus	1	SIRT1
+negative regulation of peptidyl-lysine acetylation	1	SIRT1
+negative regulation of cellular senescence	1	SIRT1
+ cellular senescence	1	SIRT1
+ double-strand break repair	1	SIRT1
+chromatin	1	SIRT1
+euchromatin	1	SIRT1
+heterochromatin	1	SIRT1
+fibrillar center	1	SIRT1
+nuclear envelope	1	SIRT1
+nuclear inner membrane	1	SIRT1
+chromatin silencing complex	1	SIRT1
+mitochondrion	1	SIRT1
+PML body	1	SIRT1
+rDNA heterochromatin	1	SIRT1
+eNoSc complex	1	SIRT1
+GTPase activity	1	GNAS
+insulin-like growth factor receptor binding	1	GNAS
+GTP binding	1	GNAS
+adenylate cyclase activator activity	1	GNAS
+G-protein beta/gamma-subunit complex binding	1	GNAS
+beta-2 adrenergic receptor binding	1	GNAS
+D1 dopamine receptor binding	1	GNAS
+mu-type opioid receptor binding	1	GNAS
+ionotropic glutamate receptor binding	1	GNAS
+corticotropin-releasing hormone receptor 1 binding	1	GNAS
+adenylate cyclase-activating G protein-coupled receptor signaling pathway	1	GNAS
+adenylate cyclase-activating dopamine receptor signaling pathway	1	GNAS
+sensory perception of chemical stimulus	1	GNAS
+developmental growth	1	GNAS
+bone development	1	GNAS
+platelet aggregation	1	GNAS
+ cold-induced thermogenesis	1	GNAS
+heterotrimeric G-protein complex	1	GNAS
+apical plasma membrane	1	GNAS
+extracellular exosome	1	GNAS
+magnesium ion binding	1	RNASEH1
+nucleic acid binding	1	RNASEH1
+RNA-DNA hybrid ribonuclease activity	1	RNASEH1
+RNA nuclease activity	1	RNASEH1
+RNA catabolic process	1	RNASEH1
+DNA replication, removal of RNA primer	1	RNASEH1
+ribonuclease MRP activity	1	RPP40
+endonucleolytic cleavage in ITS1 to separate SSU-rRNA from 5.8S rRNA and LSU-rRNA from tricistronic rRNA transcript (SSU-rRNA, 5.8S rRNA, LSU-rRNA)	1	RPP40
+endonucleolytic cleavage involved in tRNA processing	1	RPP40
+tRNA processing	1	POP7
+intracellular membrane-bounded organelle	1	POP7
+centriolar satellite	1	RPP25
+homophilic cell adhesion via plasma membrane adhesion molecules	1	TRO
+embryo implantation	1	TRO
+G-protein alpha-subunit binding	1	RIC8B
+guanyl-nucleotide exchange factor activity	1	RIC8B
+G protein-coupled receptor signaling pathway	1	RIC8B
+ G protein-coupled receptor signaling pathway	1	RIC8B
+centrosome	1	RIC8B
+cell cortex	1	RIC8B
+female pregnancy	1	MAGED2
+renal sodium ion absorption	1	MAGED2
+extracellular region	1	MAGED2
+platelet alpha granule lumen	1	MAGED2

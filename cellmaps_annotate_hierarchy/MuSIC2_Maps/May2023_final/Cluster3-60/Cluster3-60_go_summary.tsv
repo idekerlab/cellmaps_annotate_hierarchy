@@ -1,0 +1,38 @@
+Feature	Number of Genes	Genes
+protein binding	4	ZNF446, SCAND1, CHTOP, RCL1
+nucleus	4	ZNF446, TGIF2, SCAND1, CHTOP
+nucleoplasm	3	TGIF2, CHTOP, RCL1
+RNA polymerase II cis-regulatory region sequence-specific DNA binding	2	ZNF446, TGIF2
+DNA-binding transcription factor activity, RNA polymerase II-specific	2	ZNF446, TGIF2
+chromatin	2	ZNF446, TGIF2
+ DNA-templated transcription	2	TGIF2, SCAND1
+nucleolus	2	CHTOP, RCL1
+metal ion binding	1	ZNF446
+ transcription by RNA polymerase II	1	ZNF446
+extracellular space	1	ZNF446
+DNA-binding transcription repressor activity, RNA polymerase II-specific	1	TGIF2
+DNA-binding transcription factor activity	1	TGIF2
+sequence-specific double-stranded DNA binding	1	TGIF2
+negative regulation of transcription by RNA polymerase II	1	TGIF2
+ gastrulation	1	TGIF2
+amacrine cell differentiation	1	TGIF2
+nodal signaling pathway	1	TGIF2
+ amacrine cell differentiation	1	TGIF2
+centrosome	1	TGIF2
+RNA binding	1	CHTOP
+mRNA binding	1	CHTOP
+methyl-CpG binding	1	CHTOP
+in utero embryonic development	1	CHTOP
+chromatin remodeling	1	CHTOP
+mRNA export from nucleus	1	CHTOP
+ ATP-dependent activity	1	CHTOP
+ helicase activity	1	CHTOP
+transcription export complex	1	CHTOP
+nuclear speck	1	CHTOP
+RNA endonuclease activity	1	RCL1
+endonucleolytic cleavage in ITS1 to separate SSU-rRNA from 5.8S rRNA and LSU-rRNA from tricistronic rRNA transcript (SSU-rRNA, 5.8S rRNA, LSU-rRNA)	1	RCL1
+endonucleolytic cleavage of tricistronic rRNA transcript (SSU-rRNA, 5.8S rRNA, LSU-rRNA)	1	RCL1
+endonucleolytic cleavage in 5'-ETS of tricistronic rRNA transcript (SSU-rRNA, 5.8S rRNA, LSU-rRNA)	1	RCL1
+biological_process	1	RCL1
+ribosomal small subunit biogenesis	1	RCL1
+small-subunit processome	1	RCL1

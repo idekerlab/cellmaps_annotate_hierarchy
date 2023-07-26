@@ -1,0 +1,88 @@
+Feature	Number of Genes	Genes
+protein binding	7	KIF2C, SLC43A3, PRAME, IFT25, IFT81, CLUAP1, IFT70B
+intraciliary transport particle B	5	IFT25, IFT81, CLUAP1, IFT70A, IFT70B
+centrosome	4	KIF2C, IFT25, IFT81, CLUAP1
+intraciliary anterograde transport	4	IFT25, IFT81, CLUAP1, IFT70B
+cilium assembly	4	IFT25, IFT81, CLUAP1, IFT70B
+cilium	4	IFT25, IFT81, CLUAP1, IFT70B
+ciliary tip	4	IFT25, IFT81, CLUAP1, IFT70B
+intraciliary transport	3	IFT81, IFT70A, IFT70B
+nucleus	2	KIF2C, PRAME
+cell differentiation	2	PRAME, IFT25
+nucleoplasm	2	PRAME, CLUAP1
+cytoplasm	2	PRAME, IFT81
+smoothened signaling pathway	2	IFT25, CLUAP1
+spermatogenesis	2	IFT25, IFT81
+intraciliary transport particle B binding	2	IFT70A, IFT70B
+axonemal microtubule	2	IFT70A, IFT70B
+microtubule motor activity	1	KIF2C
+ATP binding	1	KIF2C
+microtubule binding	1	KIF2C
+ATP hydrolysis activity	1	KIF2C
+centromeric DNA binding	1	KIF2C
+microtubule plus-end binding	1	KIF2C
+microtubule-based movement	1	KIF2C
+microtubule depolymerization	1	KIF2C
+mitotic metaphase plate congression	1	KIF2C
+establishment or maintenance of microtubule cytoskeleton polarity	1	KIF2C
+cell division	1	KIF2C
+metaphase plate congression	1	KIF2C
+attachment of mitotic spindle microtubules to kinetochore	1	KIF2C
+ chromosome segregation	1	KIF2C
+chromosome, centromeric region	1	KIF2C
+kinetochore	1	KIF2C
+spindle	1	KIF2C
+cytosol	1	KIF2C
+kinesin complex	1	KIF2C
+microtubule	1	KIF2C
+cytoplasmic microtubule	1	KIF2C
+microtubule cytoskeleton	1	KIF2C
+membrane	1	KIF2C
+microtubule plus-end	1	KIF2C
+adenine transmembrane transporter activity	1	SLC43A3
+guanine transmembrane transporter activity	1	SLC43A3
+fatty acid transmembrane transporter activity	1	SLC43A3
+xenobiotic transmembrane transporter activity	1	SLC43A3
+adenine transport	1	SLC43A3
+fatty acid transport	1	SLC43A3
+hypoxanthine transport	1	SLC43A3
+xenobiotic transport	1	SLC43A3
+guanine transmembrane transport	1	SLC43A3
+basolateral plasma membrane	1	SLC43A3
+nuclear retinoic acid receptor binding	1	PRAME
+ubiquitin ligase-substrate adaptor activity	1	PRAME
+protein polyubiquitination	1	PRAME
+apoptotic process	1	PRAME
+ cell population proliferation	1	PRAME
+negative regulation of apoptotic process	1	PRAME
+proteasome-mediated ubiquitin-dependent protein catabolic process	1	PRAME
+negative regulation of cell differentiation	1	PRAME
+negative regulation of DNA-templated transcription	1	PRAME
+negative regulation of retinoic acid receptor signaling pathway	1	PRAME
+chromatin	1	PRAME
+Golgi apparatus	1	PRAME
+plasma membrane	1	PRAME
+Cul2-RING ubiquitin ligase complex	1	PRAME
+metal ion binding	1	IFT25
+skeletal system development	1	IFT25
+kidney development	1	IFT25
+heart development	1	IFT25
+protein transport	1	IFT25
+lung development	1	IFT25
+left/right axis specification	1	IFT25
+tubulin binding	1	IFT81
+ smoothened signaling pathway	1	IFT81
+intraciliary transport involved in cilium assembly	1	IFT81
+sperm flagellum assembly	1	IFT81
+centriole	1	IFT81
+motile cilium	1	IFT81
+ciliary basal body	1	IFT81
+sperm midpiece	1	IFT81
+sperm principal piece	1	IFT81
+neural tube closure	1	CLUAP1
+heart looping	1	CLUAP1
+floor plate formation	1	CLUAP1
+axoneme assembly	1	CLUAP1
+intraciliary transport particle A	1	CLUAP1
+intracellular membrane-bounded organelle	1	CLUAP1
+ciliary base	1	CLUAP1

@@ -1,0 +1,48 @@
+Feature	Number of Genes	Genes
+protein binding	4	GPSM2, GNG2, GNB2, GNB4
+G protein-coupled receptor signaling pathway	4	GPSM2, GNG2, GNB2, GNB4
+cytoplasm	3	GPSM2, GNB2, GNB4
+cytosol	3	GPSM2, GNB2, GNB4
+heterotrimeric G-protein complex	3	GNG2, GNB2, GNB4
+extracellular exosome	3	GNG2, GNB2, GNB4
+plasma membrane	2	GNG2, GNB2
+membrane	2	GNG2, GNB2
+signaling receptor complex adaptor activity	2	GNB2, GNB4
+protein-containing complex binding	2	GNB2, GNB4
+lysosomal membrane	2	GNB2, GNB4
+nucleotide binding	1	GPSM2
+G-protein alpha-subunit binding	1	GPSM2
+GDP-dissociation inhibitor activity	1	GPSM2
+protein domain specific binding	1	GPSM2
+identical protein binding	1	GPSM2
+protein self-association	1	GPSM2
+dynein complex binding	1	GPSM2
+establishment of mitotic spindle orientation	1	GPSM2
+mitotic spindle organization	1	GPSM2
+Ran protein signal transduction	1	GPSM2
+cell division	1	GPSM2
+maintenance of centrosome location	1	GPSM2
+ mitotic spindle organization	1	GPSM2
+ protein localization to cell cortex	1	GPSM2
+ spindle assembly	1	GPSM2
+centrosome	1	GPSM2
+cell cortex	1	GPSM2
+lateral plasma membrane	1	GPSM2
+protein-containing complex	1	GPSM2
+mitotic spindle pole	1	GPSM2
+lateral cell cortex	1	GPSM2
+cell cortex region	1	GPSM2
+G-protein beta-subunit binding	1	GNG2
+adenylate cyclase-activating dopamine receptor signaling pathway	1	GNG2
+fibroblast proliferation	1	GNG2
+cellular response to prostaglandin E stimulus	1	GNG2
+cellular response to catecholamine stimulus	1	GNG2
+GTPase activity	1	GNB2
+GTPase binding	1	GNB2
+ potassium ion transmembrane transport	1	GNB2
+extracellular space	1	GNB2
+focal adhesion	1	GNB2
+vesicle	1	GNB2
+perinuclear region of cytoplasm	1	GNB2
+substantia nigra development	1	GNB4
+cell body	1	GNB4

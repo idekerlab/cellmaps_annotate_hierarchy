@@ -1,0 +1,318 @@
+Feature	Number of Genes	Genes
+protein binding	31	STAG2, MPLKIP, STN1, RNF220, MTMR7, CLP1, TBP, HIRIP3, NEIL2, CHAMP1, IWS1, CDC7, PDS5B, RAD21, SMC1A, CTC1, GTF2H4, EAF1, DBF4, ELL2, TEN1, HDGFL2, CDCA5, SMC3, STAG1, ERCC2, ERCC3, ERCC5, GTF2H1, GTF2H3, MNAT1
+nucleoplasm	31	STAG2, RANGRF, MPLKIP, STN1, CLP1, TBP, HIRIP3, NEIL2, CHAMP1, IWS1, CDC7, PDS5B, RAD21, SMC1A, DBR1, CTC1, GTF2H4, EAF1, DBF4, ELL2, TEN1, ANKRD11, CDCA5, SMC3, STAG1, ERCC2, ERCC3, ERCC5, GTF2H1, GTF2H3, MNAT1
+nucleus	28	STAG2, RANGRF, MPLKIP, STN1, RNF220, CLP1, TBP, HIRIP3, NEIL2, CHAMP1, IWS1, CDC7, PDS5B, RAD21, SMC1A, DBR1, CTC1, GTF2H4, TEN1, ANKRD11, HDGFL2, CDCA5, SMC3, STAG1, ERCC2, ERCC3, ERCC5, GTF2H3
+cytosol	13	STAG2, RANGRF, MTMR7, CLP1, PDS5B, RAD21, SMC1A, CTC1, ANKRD11, CDCA5, SMC3, STAG1, ERCC2
+cytoplasm	11	RANGRF, MPLKIP, RNF220, MTMR7, TBP, NEIL2, CHAMP1, CDC7, HDGFL2, CDCA5, ERCC2
+cell division	9	STAG2, MPLKIP, CDC7, PDS5B, RAD21, SMC1A, CDCA5, SMC3, STAG1
+DNA repair	9	PDS5B, SMC1A, GTF2H4, HDGFL2, SMC3, ERCC3, GTF2H1, GTF2H3, MNAT1
+nucleotide-excision repair	8	STN1, GTF2H4, ERCC2, ERCC3, ERCC5, GTF2H1, GTF2H3, MNAT1
+chromatin binding	7	STAG2, RAD21, SMC1A, CDCA5, SMC3, STAG1, GTF2H1
+chromosome, centromeric region	7	STAG2, PDS5B, RAD21, SMC1A, CDCA5, SMC3, STAG1
+chromatin	7	STAG2, TBP, PDS5B, RAD21, CDCA5, SMC3, STAG1
+chromosome	7	STAG2, PDS5B, RAD21, SMC1A, CDCA5, SMC3, STAG1
+metal ion binding	7	RNF220, CHAMP1, CDC7, DBR1, ERCC2, ERCC5, GTF2H3
+transcription by RNA polymerase II	7	TBP, GTF2H4, ERCC2, ERCC3, GTF2H1, GTF2H3, MNAT1
+ATP binding	6	CLP1, CDC7, SMC1A, SMC3, ERCC2, ERCC3
+transcription factor TFIIH core complex	6	GTF2H4, ERCC2, ERCC3, GTF2H1, GTF2H3, MNAT1
+transcription factor TFIIH holo complex	6	GTF2H4, ERCC2, ERCC3, GTF2H1, GTF2H3, MNAT1
+sister chromatid cohesion	5	STAG2, RAD21, SMC1A, SMC3, STAG1
+establishment of mitotic sister chromatid cohesion	5	STAG2, RAD21, SMC1A, SMC3, STAG1
+cohesin complex	5	STAG2, RAD21, SMC1A, SMC3, STAG1
+nuclear matrix	5	STAG2, RAD21, SMC1A, SMC3, STAG1
+transcription factor TFIID complex	5	TBP, GTF2H4, ERCC2, ERCC3, GTF2H3
+mitotic spindle assembly	4	STAG2, SMC1A, SMC3, STAG1
+mitotic spindle pole	4	STAG2, SMC1A, SMC3, STAG1
+intracellular membrane-bounded organelle	4	MPLKIP, STN1, NEIL2, EAF1
+single-stranded DNA binding	4	STN1, CTC1, TEN1, ERCC5
+damaged DNA binding	4	NEIL2, ERCC2, ERCC3, ERCC5
+nuclear body	4	CHAMP1, EAF1, DBF4, STAG1
+DNA binding	4	PDS5B, RAD21, SMC1A, ERCC3
+mitotic sister chromatid cohesion	4	PDS5B, SMC1A, CDCA5, SMC3
+ATP hydrolysis activity	4	SMC1A, SMC3, ERCC2, ERCC3
+meiotic cell cycle	3	STAG2, SMC1A, SMC3
+membrane	3	STAG2, MTMR7, RAD21
+telomeric DNA binding	3	STN1, CTC1, TEN1
+telomere capping	3	STN1, CTC1, TEN1
+negative regulation of telomere maintenance via telomerase	3	STN1, CTC1, TEN1
+ DNA replication	3	STN1, CTC1, SMC3
+chromosome, telomeric region	3	STN1, CTC1, TEN1
+CST complex	3	STN1, CTC1, TEN1
+protein-containing complex	3	RNF220, TBP, ERCC5
+RNA polymerase II general transcription initiation factor activity	3	TBP, GTF2H4, GTF2H3
+zinc ion binding	3	NEIL2, DBF4, MNAT1
+G1/S transition of mitotic cell cycle	3	CDC7, DBF4, MNAT1
+apoptotic process	3	RAD21, ERCC2, ERCC3
+establishment of meiotic sister chromatid cohesion	3	RAD21, SMC1A, SMC3
+double-stranded DNA binding	3	GTF2H4, SMC3, ERCC5
+transcription elongation by RNA polymerase II	3	EAF1, ELL2, ERCC3
+transcription-coupled nucleotide-excision repair	3	ERCC2, ERCC3, ERCC5
+fibrillar center	2	STAG2, STN1
+nucleolus	2	STAG2, HIRIP3
+midbody	2	MPLKIP, RAD21
+telomere maintenance	2	STN1, CTC1
+double-strand break repair via homologous recombination	2	STN1, ERCC5
+DNA replication	2	STN1, DBF4
+telomere maintenance via telomere lengthening	2	STN1, CTC1
+transcription initiation at RNA polymerase II promoter	2	TBP, ERCC3
+mitotic spindle	2	NEIL2, CDC7
+kinetochore	2	CHAMP1, SMC1A
+spindle	2	CHAMP1, ERCC2
+chromatin remodeling	2	IWS1, HDGFL2
+ cell population proliferation	2	CDC7, PDS5B
+ nuclear cell cycle DNA replication	2	CDC7, DBF4
+ G2/M transition of mitotic cell cycle	2	CDC7, CTC1
+intercellular bridge	2	CDC7, EAF1
+double-strand break repair	2	RAD21, CDCA5
+DNA recombination	2	RAD21, HDGFL2
+ transcription by RNA polymerase II	2	RAD21, MNAT1
+chromosome segregation	2	RAD21, ERCC2
+condensed nuclear chromosome	2	RAD21, SMC1A
+RNA binding	2	SMC1A, DBR1
+mediator complex binding	2	SMC1A, SMC3
+protein heterodimerization activity	2	SMC1A, SMC3
+meiotic cohesin complex	2	SMC1A, SMC3
+multicellular organism growth	2	CTC1, ERCC2
+hematopoietic stem cell proliferation	2	CTC1, ERCC2
+core TFIIH complex portion of holo TFIIH complex	2	GTF2H4, GTF2H3
+nuclear speck	2	GTF2H4, EAF1
+ transcription elongation by RNA polymerase II	2	EAF1, ELL2
+transcription elongation factor complex	2	EAF1, ELL2
+enzyme activator activity	2	DBF4, ERCC5
+protein-containing complex binding	2	CDCA5, ERCC5
+mitotic cell cycle	2	CDCA5, SMC3
+response to oxidative stress	2	ERCC2, ERCC3
+UV protection	2	ERCC2, ERCC3
+hair cell differentiation	2	ERCC2, ERCC3
+ mitotic cell cycle phase transition	2	ERCC2, ERCC3
+CAK-ERCC2 complex	2	ERCC2, MNAT1
+response to UV	2	ERCC3, ERCC5
+transcription preinitiation complex	2	ERCC3, GTF2H3
+negative regulation of apoptotic process	2	ERCC5, MNAT1
+ cyclin-dependent protein serine/threonine kinase activity	2	GTF2H1, MNAT1
+ DNA-templated transcription	2	GTF2H1, GTF2H3
+guanyl-nucleotide exchange factor activity	1	RANGRF
+sodium channel regulator activity	1	RANGRF
+small GTPase binding	1	RANGRF
+transmembrane transporter binding	1	RANGRF
+ heart rate	1	RANGRF
+ membrane depolarization	1	RANGRF
+protein import into nucleus	1	RANGRF
+endoplasmic reticulum to Golgi vesicle-mediated transport	1	RANGRF
+protein exit from endoplasmic reticulum	1	RANGRF
+ membrane potential	1	RANGRF
+heart contraction	1	RANGRF
+ microtubule nucleation by Ran protein signal transduction	1	RANGRF
+ bundle of His cell action potential	1	RANGRF
+ cardiac muscle cell action potential involved in regulation of contraction	1	RANGRF
+ membrane depolarization during cardiac muscle cell action potential	1	RANGRF
+ sodium ion transmembrane transport	1	RANGRF
+ protein localization to plasma membrane	1	RANGRF
+ protein localization to cell surface	1	RANGRF
+ sodium ion transmembrane transporter activity	1	RANGRF
+rough endoplasmic reticulum	1	RANGRF
+plasma membrane	1	RANGRF
+caveola	1	RANGRF
+intercalated disc	1	RANGRF
+perinuclear region of cytoplasm	1	RANGRF
+cell cycle	1	MPLKIP
+Golgi apparatus	1	MPLKIP
+centrosome	1	MPLKIP
+single-stranded telomeric DNA binding	1	STN1
+DNA replication factor A complex	1	STN1
+site of double-strand break	1	STN1
+intermediate filament cytoskeleton	1	STN1
+ubiquitin-protein transferase activity	1	RNF220
+beta-catenin binding	1	RNF220
+ubiquitin protein ligase activity	1	RNF220
+noradrenergic neuron development	1	RNF220
+protein monoubiquitination	1	RNF220
+protein ubiquitination	1	RNF220
+dorsal/ventral neural tube patterning	1	RNF220
+ DNA-binding transcription factor activity	1	RNF220
+protein autoubiquitination	1	RNF220
+ canonical Wnt signaling pathway	1	RNF220
+ transcription regulatory region DNA binding	1	RNF220
+nuclear lamina	1	RNF220
+phosphatidylinositol-3-phosphate phosphatase activity	1	MTMR7
+protein tyrosine phosphatase activity	1	MTMR7
+inositol bisphosphate phosphatase activity	1	MTMR7
+phosphatidylinositol-3,5-bisphosphate 3-phosphatase activity	1	MTMR7
+protein dephosphorylation	1	MTMR7
+phosphatidylinositol biosynthetic process	1	MTMR7
+phosphatidylinositol dephosphorylation	1	MTMR7
+endomembrane system	1	MTMR7
+ATP-dependent polydeoxyribonucleotide 5'-hydroxyl-kinase activity	1	CLP1
+polynucleotide 5'-hydroxyl-kinase activity	1	CLP1
+ATP-dependent polyribonucleotide 5'-hydroxyl-kinase activity	1	CLP1
+mRNA polyadenylation	1	CLP1
+tRNA splicing, via endonucleolytic cleavage and ligation	1	CLP1
+phosphorylation	1	CLP1
+cerebellar cortex development	1	CLP1
+mRNA 3'-end processing	1	CLP1
+RISC complex assembly	1	CLP1
+global gene silencing by mRNA cleavage	1	CLP1
+tRNA-intron endonuclease complex	1	CLP1
+mRNA cleavage factor complex	1	CLP1
+transcription cis-regulatory region binding	1	TBP
+RNA polymerase II cis-regulatory region sequence-specific DNA binding	1	TBP
+RNA polymerase II core promoter sequence-specific DNA binding	1	TBP
+RNA polymerase III general transcription initiation factor activity	1	TBP
+core promoter sequence-specific DNA binding	1	TBP
+RNA polymerase II general transcription initiation factor binding	1	TBP
+TFIIB-class transcription factor binding	1	TBP
+aryl hydrocarbon receptor binding	1	TBP
+enzyme binding	1	TBP
+DNA-binding transcription factor binding	1	TBP
+DNA-templated transcription initiation	1	TBP
+transcription by RNA polymerase III	1	TBP
+protein phosphorylation	1	TBP
+mRNA transcription by RNA polymerase II	1	TBP
+RNA polymerase II preinitiation complex assembly	1	TBP
+ transcription initiation by RNA polymerase II	1	TBP
+euchromatin	1	TBP
+male germ cell nucleus	1	TBP
+female germ cell nucleus	1	TBP
+female pronucleus	1	TBP
+male pronucleus	1	TBP
+RNA polymerase transcription factor SL1 complex	1	TBP
+transcription factor TFIIA complex	1	TBP
+chromatin organization	1	HIRIP3
+DNA-(apurinic or apyrimidinic site) endonuclease activity	1	NEIL2
+microtubule binding	1	NEIL2
+DNA N-glycosylase activity	1	NEIL2
+class I DNA-(apurinic or apyrimidinic site) endonuclease activity	1	NEIL2
+base-excision repair	1	NEIL2
+depyrimidination	1	NEIL2
+sister chromatid biorientation	1	CHAMP1
+protein localization to kinetochore	1	CHAMP1
+protein localization to microtubule	1	CHAMP1
+attachment of mitotic spindle microtubules to kinetochore	1	CHAMP1
+condensed chromosome	1	CHAMP1
+mRNA processing	1	IWS1
+RNA splicing	1	IWS1
+ mRNA export from nucleus	1	IWS1
+poly(A)+ mRNA export from nucleus	1	IWS1
+ mRNA processing	1	IWS1
+transcription elongation-coupled chromatin remodeling	1	IWS1
+protein kinase activity	1	CDC7
+protein serine/threonine kinase activity	1	CDC7
+kinase activity	1	CDC7
+protein serine kinase activity	1	CDC7
+double-strand break repair via break-induced replication	1	CDC7
+signal transduction	1	CDC7
+peptidyl-serine phosphorylation	1	CDC7
+cell cycle phase transition	1	CDC7
+cell population proliferation	1	PDS5B
+negative regulation of cell population proliferation	1	PDS5B
+reciprocal meiotic recombination	1	RAD21
+negative regulation of G2/M transition of mitotic cell cycle	1	RAD21
+negative regulation of mitotic metaphase/anaphase transition	1	RAD21
+ sister chromatid cohesion	1	RAD21
+protein localization to chromatin	1	RAD21
+chromatin looping	1	RAD21
+replication-born double-strand break repair via sister chromatid exchange	1	RAD21
+spindle pole	1	RAD21
+mitotic sister chromatid segregation	1	SMC1A
+response to radiation	1	SMC1A
+somatic stem cell population maintenance	1	SMC1A
+response to DNA damage checkpoint signaling	1	SMC1A
+RNA lariat debranching enzyme activity	1	DBR1
+RNA splicing, via transesterification reactions	1	DBR1
+mRNA splicing, via spliceosome	1	DBR1
+RNA phosphodiester bond hydrolysis, endonucleolytic	1	DBR1
+G-rich strand telomeric DNA binding	1	CTC1
+DNA damage response	1	CTC1
+ fibroblast proliferation	1	CTC1
+spleen development	1	CTC1
+thymus development	1	CTC1
+bone marrow development	1	CTC1
+replicative senescence	1	CTC1
+ATPase activator activity	1	GTF2H4
+transcription elongation factor activity	1	EAF1
+Cajal body	1	EAF1
+super elongation complex	1	EAF1
+nucleic acid binding	1	DBF4
+protein serine/threonine kinase activator activity	1	DBF4
+ cell cycle phase transition	1	DBF4
+Dbf4-dependent protein kinase complex	1	DBF4
+cis-regulatory region sequence-specific DNA binding	1	ELL2
+snRNA transcription by RNA polymerase II	1	ELL2
+telomerase inhibitor activity	1	TEN1
+odontogenesis of dentin-containing tooth	1	ANKRD11
+skeletal system morphogenesis	1	ANKRD11
+face morphogenesis	1	ANKRD11
+methylated histone binding	1	HDGFL2
+H3K27me3 modified histone binding	1	HDGFL2
+H3K9me3 modified histone binding	1	HDGFL2
+histone reader activity	1	HDGFL2
+muscle organ development	1	HDGFL2
+ cell growth	1	HDGFL2
+muscle cell differentiation	1	HDGFL2
+skeletal muscle tissue regeneration	1	HDGFL2
+DNA repair-dependent chromatin remodeling	1	HDGFL2
+ double-strand break repair via homologous recombination	1	HDGFL2
+mitotic chromosome condensation	1	CDCA5
+mitotic metaphase plate congression	1	CDCA5
+ exit from mitosis	1	CDCA5
+microtubule motor activity	1	SMC3
+beta-tubulin binding	1	SMC3
+cohesin loader activity	1	SMC3
+dynein complex binding	1	SMC3
+stem cell population maintenance	1	SMC3
+lateral element	1	SMC3
+localization	1	STAG1
+DNA helicase activity	1	ERCC2
+protein-macromolecule adaptor activity	1	ERCC2
+5'-3' DNA helicase activity	1	ERCC2
+4 iron, 4 sulfur cluster binding	1	ERCC2
+maturation of SSU-rRNA from tricistronic rRNA transcript (SSU-rRNA, 5.8S rRNA, LSU-rRNA)	1	ERCC2
+in utero embryonic development	1	ERCC2
+transcription elongation by RNA polymerase I	1	ERCC2
+determination of adult lifespan	1	ERCC2
+post-embryonic development	1	ERCC2
+spinal cord development	1	ERCC2
+extracellular matrix organization	1	ERCC2
+bone mineralization	1	ERCC2
+central nervous system myelin formation	1	ERCC2
+DNA duplex unwinding	1	ERCC2
+embryonic cleavage	1	ERCC2
+erythrocyte maturation	1	ERCC2
+ DNA binding	1	ERCC2
+ mitotic recombination	1	ERCC2
+insulin-like growth factor receptor signaling pathway	1	ERCC2
+hair follicle maturation	1	ERCC2
+hematopoietic stem cell differentiation	1	ERCC2
+intrinsic apoptotic signaling pathway by p53 class mediator	1	ERCC2
+MMXD complex	1	ERCC2
+3'-5' DNA helicase activity	1	ERCC3
+promoter-specific chromatin binding	1	ERCC3
+nucleotide-excision repair, DNA duplex unwinding	1	ERCC3
+response to hypoxia	1	ERCC3
+DNA topological change	1	ERCC3
+protein localization	1	ERCC3
+ apoptotic process	1	ERCC3
+embryonic organ development	1	ERCC3
+nucleotide-excision repair factor 3 complex	1	ERCC3
+bubble DNA binding	1	ERCC5
+RNA polymerase II complex binding	1	ERCC5
+endonuclease activity	1	ERCC5
+DNA endonuclease activity	1	ERCC5
+protein homodimerization activity	1	ERCC5
+base-excision repair, AP site formation	1	ERCC5
+response to UV-C	1	ERCC5
+ catalytic activity	1	ERCC5
+nucleotide-excision repair complex	1	ERCC5
+nuclear thyroid hormone receptor binding	1	GTF2H1
+transcription by RNA polymerase I	1	GTF2H1
+hormone-mediated signaling pathway	1	GTF2H1
+cyclin-dependent protein serine/threonine kinase activator activity	1	MNAT1
+adult heart development	1	MNAT1
+ventricular system development	1	MNAT1
+ smooth muscle cell proliferation	1	MNAT1
+response to calcium ion	1	MNAT1
+protein-containing complex assembly	1	MNAT1
+negative regulation of DNA helicase activity	1	MNAT1
+ G1/S transition of mitotic cell cycle	1	MNAT1
+cyclin-dependent protein kinase activating kinase holoenzyme complex	1	MNAT1
+transcription factor TFIIK complex	1	MNAT1

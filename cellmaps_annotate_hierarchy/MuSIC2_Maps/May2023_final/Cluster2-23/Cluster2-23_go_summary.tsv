@@ -1,0 +1,353 @@
+Feature	Number of Genes	Genes
+protein binding	25	TBPL1, FBXO10, FBXO33, SMCR8, ZRANB3, RBM43, TRIM33, CGAS, RAC1, MPG, PPM1D, ZBTB9, ALKBH2, GTF3C5, KLHDC10, KMT5C, PHIP, PLEKHG2, PRIM2, SLF1, SLX1A, SMARCAL1, TAF6L, TASOR, WDR90
+nucleoplasm	19	SMCR8, ZRANB3, TRIM33, CGAS, MPG, PPM1D, ALKBH2, B4GALT2, GTF3C5, KLHDC10, KMT5C, PIF1, PRIM2, SLF1, SLX1A, SMARCAL1, TAF6L, TASOR, TSEN34
+nucleus	12	TRIM33, CGAS, RAC1, PPM1D, ZBTB9, ALKBH2, KMT5C, PHIP, SLF1, SMARCAL1, TAF6L, ZC3H3
+metal ion binding	9	ZRANB3, CGAS, PPM1D, ZBTB9, B4GALT2, KMT5C, PRIM2, SLX1A, ZC3H3
+cytoplasm	8	TBPL1, FBXO10, SMCR8, CGAS, RAC1, KLHDC10, SLF1, WDR90
+cytosol	6	FBXO10, CGAS, RAC1, MPG, PPM1D, PLEKHG2
+DNA repair	6	ZRANB3, CGAS, KMT5C, PIF1, SLX1A, SMARCAL1
+DNA binding	6	TRIM33, CGAS, GTF3C5, PRIM2, TAF6L, ZC3H3
+protein ubiquitination	4	FBXO10, FBXO33, TRIM33, KLHDC10
+ATP binding	4	ZRANB3, CGAS, PIF1, SMARCAL1
+chromatin remodeling	4	ZRANB3, KMT5C, SMARCAL1, TAF6L
+DNA damage response	4	ZRANB3, CGAS, SLF1, SMARCAL1
+ transcription by RNA polymerase II	4	ZBTB9, PHIP, SMARCAL1, TAF6L
+ubiquitin-protein transferase activity	3	FBXO10, TRIM33, FBXL6
+chromatin binding	3	CGAS, KMT5C, TASOR
+site of double-strand break	3	CGAS, SLF1, SMARCAL1
+nucleolus	3	PPM1D, ALKBH2, TSEN34
+RNA polymerase II general transcription initiation factor activity	2	TBPL1, TAF6L
+SCF-dependent proteasomal ubiquitin-dependent protein catabolic process	2	FBXO33, FBXL6
+SCF ubiquitin ligase complex	2	FBXO33, FBXL6
+guanyl-nucleotide exchange factor activity	2	SMCR8, PLEKHG2
+protein kinase binding	2	SMCR8, RAC1
+postsynapse	2	SMCR8, RAC1
+ATP-dependent DNA/DNA annealing activity	2	ZRANB3, SMARCAL1
+ATP-dependent chromatin remodeler activity	2	ZRANB3, SMARCAL1
+replication fork processing	2	ZRANB3, SMARCAL1
+nuclear replication fork	2	ZRANB3, SMARCAL1
+RNA binding	2	RBM43, TASOR
+R-SMAD binding	2	TRIM33, ZC3H3
+GTP binding	2	CGAS, RAC1
+plasma membrane	2	CGAS, RAC1
+protein-containing complex binding	2	RAC1, SLF1
+ protein phosphorylation	2	RAC1, PHIP
+ cell shape	2	RAC1, PHIP
+extracellular exosome	2	RAC1, TAF6L
+DNA dealkylation involved in DNA repair	2	MPG, ALKBH2
+negative regulation of gene expression, epigenetic	2	PPM1D, TASOR
+heterochromatin	2	KMT5C, TASOR
+ DNA-templated transcription	2	PHIP, TAF6L
+ telomere maintenance	2	PIF1, SLF1
+chromosome, telomeric region	2	PIF1, SLF1
+double-strand break repair via homologous recombination	2	SLF1, SLX1A
+centrosome	2	SLF1, WDR90
+t-circle formation	2	SLX1A, SMARCAL1
+RNA polymerase II core promoter sequence-specific DNA binding	1	TBPL1
+general transcription initiation factor activity	1	TBPL1
+acrosome assembly	1	TBPL1
+dTTP biosynthetic process	1	TBPL1
+DNA-templated transcription initiation	1	TBPL1
+transcription by RNA polymerase II	1	TBPL1
+spermatid nucleus differentiation	1	TBPL1
+male germ cell nucleus	1	TBPL1
+transcription factor TFIIA complex	1	TBPL1
+ubiquitin-dependent protein catabolic process	1	FBXO10
+apoptotic process	1	FBXO10
+ apoptotic process	1	FBXO10
+ubiquitin ligase complex	1	FBXO10
+ protein ubiquitination	1	FBXO33
+protein kinase inhibitor activity	1	SMCR8
+GTPase activator activity	1	SMCR8
+negative regulation of protein kinase activity	1	SMCR8
+autophagy	1	SMCR8
+ autophagy	1	SMCR8
+negative regulation of gene expression	1	SMCR8
+negative regulation of macroautophagy	1	SMCR8
+ TOR signaling	1	SMCR8
+ GTPase activity	1	SMCR8
+negative regulation of exocytosis	1	SMCR8
+negative regulation of immune response	1	SMCR8
+ autophagosome maturation	1	SMCR8
+negative regulation of autophagosome assembly	1	SMCR8
+ TORC1 signaling	1	SMCR8
+chromatin	1	SMCR8
+guanyl-nucleotide exchange factor complex	1	SMCR8
+cell projection	1	SMCR8
+presynapse	1	SMCR8
+Atg1/ULK1 kinase complex	1	SMCR8
+DNA helicase activity	1	ZRANB3
+DNA endonuclease activity	1	ZRANB3
+K63-linked polyubiquitin modification-dependent protein binding	1	ZRANB3
+response to UV	1	ZRANB3
+DNA rewinding	1	ZRANB3
+negative regulation of DNA recombination	1	ZRANB3
+replication fork reversal	1	ZRANB3
+zinc ion binding	1	TRIM33
+co-SMAD binding	1	TRIM33
+negative regulation of transcription by RNA polymerase II	1	TRIM33
+ transforming growth factor beta receptor signaling pathway	1	TRIM33
+negative regulation of BMP signaling pathway	1	TRIM33
+negative regulation of DNA-templated transcription	1	TRIM33
+double-stranded DNA binding	1	CGAS
+phosphatidylinositol-4,5-bisphosphate binding	1	CGAS
+enzyme activator activity	1	CGAS
+nucleosome binding	1	CGAS
+protein homodimerization activity	1	CGAS
+2',3'-cyclic GMP-AMP synthase activity	1	CGAS
+molecular function activator activity	1	CGAS
+molecular function inhibitor activity	1	CGAS
+molecular condensate scaffold activity	1	CGAS
+poly-ADP-D-ribose modification-dependent protein binding	1	CGAS
+activation of innate immune response	1	CGAS
+pattern recognition receptor signaling pathway	1	CGAS
+ defense response to virus by host	1	CGAS
+ immunoglobulin production	1	CGAS
+cytosolic pattern recognition receptor signaling pathway	1	CGAS
+determination of adult lifespan	1	CGAS
+cAMP-mediated signaling	1	CGAS
+cGMP-mediated signaling	1	CGAS
+ type I interferon production	1	CGAS
+paracrine signaling	1	CGAS
+innate immune response	1	CGAS
+ innate immune response	1	CGAS
+negative regulation of innate immune response	1	CGAS
+ T cell activation	1	CGAS
+defense response to virus	1	CGAS
+cellular response to exogenous dsRNA	1	CGAS
+negative regulation of double-strand break repair via homologous recombination	1	CGAS
+ cellular senescence	1	CGAS
+nuclear body	1	CGAS
+GTPase activity	1	RAC1
+G protein activity	1	RAC1
+enzyme binding	1	RAC1
+thioesterase binding	1	RAC1
+Rho GDP-dissociation inhibitor binding	1	RAC1
+molecular adaptor activity	1	RAC1
+neuron migration	1	RAC1
+sphingosine-1-phosphate receptor signaling pathway	1	RAC1
+inflammatory response	1	RAC1
+actin filament organization	1	RAC1
+cell adhesion	1	RAC1
+cell-matrix adhesion	1	RAC1
+establishment or maintenance of cell polarity	1	RAC1
+small GTPase mediated signal transduction	1	RAC1
+motor neuron axon guidance	1	RAC1
+ cell size	1	RAC1
+response to wounding	1	RAC1
+anatomical structure morphogenesis	1	RAC1
+ hydrogen peroxide metabolic process	1	RAC1
+ lamellipodium assembly	1	RAC1
+ endothelial cell migration	1	RAC1
+negative regulation of fibroblast migration	1	RAC1
+ cell-substrate adhesion	1	RAC1
+cell migration	1	RAC1
+Rac protein signal transduction	1	RAC1
+lamellipodium assembly	1	RAC1
+actin cytoskeleton organization	1	RAC1
+actin filament polymerization	1	RAC1
+ cell migration	1	RAC1
+cortical cytoskeleton organization	1	RAC1
+ microtubule polymerization	1	RAC1
+ruffle organization	1	RAC1
+negative regulation of interleukin-23 production	1	RAC1
+ actin cytoskeleton organization	1	RAC1
+substrate adhesion-dependent cell spreading	1	RAC1
+ Rho protein signal transduction	1	RAC1
+intracellular signal transduction	1	RAC1
+engulfment of apoptotic cell	1	RAC1
+ nitric oxide biosynthetic process	1	RAC1
+respiratory burst	1	RAC1
+hepatocyte growth factor receptor signaling pathway	1	RAC1
+negative regulation of receptor-mediated endocytosis	1	RAC1
+cell motility	1	RAC1
+localization	1	RAC1
+ stress fiber assembly	1	RAC1
+localization within membrane	1	RAC1
+ focal adhesion assembly	1	RAC1
+Wnt signaling pathway, planar cell polarity pathway	1	RAC1
+ respiratory burst	1	RAC1
+semaphorin-plexin signaling pathway	1	RAC1
+ neutrophil chemotaxis	1	RAC1
+ruffle assembly	1	RAC1
+ substrate adhesion-dependent cell spreading	1	RAC1
+endoplasmic reticulum membrane	1	RAC1
+trans-Golgi network	1	RAC1
+cytoskeleton	1	RAC1
+actin filament	1	RAC1
+focal adhesion	1	RAC1
+cell cortex	1	RAC1
+membrane	1	RAC1
+lamellipodium	1	RAC1
+secretory granule membrane	1	RAC1
+cytoplasmic vesicle	1	RAC1
+ruffle membrane	1	RAC1
+cytoplasmic ribonucleoprotein granule	1	RAC1
+melanosome	1	RAC1
+NADPH oxidase complex	1	RAC1
+dendritic spine	1	RAC1
+recycling endosome membrane	1	RAC1
+glutamatergic synapse	1	RAC1
+ficolin-1-rich granule membrane	1	RAC1
+damaged DNA binding	1	MPG
+alkylbase DNA N-glycosylase activity	1	MPG
+DNA-3-methyladenine glycosylase activity	1	MPG
+DNA N-glycosylase activity	1	MPG
+DNA-7-methylguanine glycosylase activity	1	MPG
+DNA-7-methyladenine glycosylase activity	1	MPG
+DNA-3-methylguanine glycosylase activity	1	MPG
+base-excision repair	1	MPG
+depurination	1	MPG
+mitochondrial nucleoid	1	MPG
+protein serine/threonine kinase activity	1	PPM1D
+protein serine/threonine phosphatase activity	1	PPM1D
+myosin phosphatase activity	1	PPM1D
+mitogen-activated protein kinase binding	1	PPM1D
+G2/M transition of mitotic cell cycle	1	PPM1D
+DNA methylation	1	PPM1D
+protein dephosphorylation	1	PPM1D
+negative regulation of cell population proliferation	1	PPM1D
+cellular response to starvation	1	PPM1D
+response to radiation	1	PPM1D
+response to bacterium	1	PPM1D
+DNA damage response, signal transduction by p53 class mediator	1	PPM1D
+heterochromatin formation	1	PPM1D
+peptidyl-threonine dephosphorylation	1	PPM1D
+ transcription initiation by RNA polymerase II	1	PPM1D
+RNA polymerase II cis-regulatory region sequence-specific DNA binding	1	ZBTB9
+DNA-binding transcription factor activity, RNA polymerase II-specific	1	ZBTB9
+identical protein binding	1	ZBTB9
+rDNA binding	1	ALKBH2
+ferrous iron binding	1	ALKBH2
+oxidative DNA demethylase activity	1	ALKBH2
+DNA-N1-methyladenine dioxygenase activity	1	ALKBH2
+cytosine C-5 DNA demethylase activity	1	ALKBH2
+oxidative demethylation	1	ALKBH2
+DNA demethylation	1	ALKBH2
+beta-N-acetylglucosaminylglycopeptide beta-1,4-galactosyltransferase activity	1	B4GALT2
+N-acetyllactosamine synthase activity	1	B4GALT2
+lactose synthase activity	1	B4GALT2
+galactosyltransferase activity	1	B4GALT2
+carbohydrate metabolic process	1	B4GALT2
+protein glycosylation	1	B4GALT2
+memory	1	B4GALT2
+locomotory behavior	1	B4GALT2
+visual learning	1	B4GALT2
+cerebellar Purkinje cell layer development	1	B4GALT2
+Golgi membrane	1	B4GALT2
+Golgi apparatus	1	B4GALT2
+Golgi cisterna membrane	1	B4GALT2
+intracellular membrane-bounded organelle	1	B4GALT2
+proteolysis	1	FBXL6
+RNA polymerase III general transcription initiation factor activity	1	GTF3C5
+RNA polymerase III type 1 promoter sequence-specific DNA binding	1	GTF3C5
+RNA polymerase III type 2 promoter sequence-specific DNA binding	1	GTF3C5
+transcription by RNA polymerase III	1	GTF3C5
+transcription initiation at RNA polymerase III promoter	1	GTF3C5
+skeletal muscle cell differentiation	1	GTF3C5
+5S class rRNA transcription by RNA polymerase III	1	GTF3C5
+tRNA transcription by RNA polymerase III	1	GTF3C5
+transcription factor TFIIIC complex	1	GTF3C5
+ubiquitin ligase-substrate adaptor activity	1	KLHDC10
+ stress-activated MAPK cascade	1	KLHDC10
+rescue of stalled ribosome	1	KLHDC10
+ubiquitin-dependent protein catabolic process via the C-end degron rule pathway	1	KLHDC10
+Cul2-RING ubiquitin ligase complex	1	KLHDC10
+histone binding	1	KMT5C
+histone H4K20 methyltransferase activity	1	KMT5C
+histone H4K20me methyltransferase activity	1	KMT5C
+histone H4K20 monomethyltransferase activity	1	KMT5C
+S-adenosyl-L-methionine binding	1	KMT5C
+histone H4-K20 dimethylation	1	KMT5C
+ isotype switching	1	KMT5C
+ double-strand break repair via nonhomologous end joining	1	KMT5C
+condensed chromosome, centromeric region	1	KMT5C
+pericentric heterochromatin	1	KMT5C
+insulin receptor binding	1	PHIP
+lysine-acetylated histone binding	1	PHIP
+cytoskeleton organization	1	PHIP
+ cell population proliferation	1	PHIP
+insulin receptor signaling pathway	1	PHIP
+ cell morphogenesis	1	PHIP
+negative regulation of apoptotic process	1	PHIP
+ insulin-like growth factor receptor signaling pathway	1	PHIP
+ mitotic nuclear division	1	PHIP
+negative regulation of extrinsic apoptotic signaling pathway	1	PHIP
+magnesium ion binding	1	PIF1
+telomerase inhibitor activity	1	PIF1
+ATP hydrolysis activity	1	PIF1
+single-stranded DNA helicase activity	1	PIF1
+5'-3' DNA/RNA helicase activity	1	PIF1
+telomeric DNA binding	1	PIF1
+5'-3' DNA helicase activity	1	PIF1
+G-quadruplex DNA binding	1	PIF1
+mitochondrial genome maintenance	1	PIF1
+DNA recombination	1	PIF1
+telomere maintenance via telomerase	1	PIF1
+negative regulation of telomere maintenance via telomerase	1	PIF1
+DNA duplex unwinding	1	PIF1
+negative regulation of telomerase activity	1	PIF1
+mitochondrion	1	PIF1
+small GTPase binding	1	PLEKHG2
+ actin filament polymerization	1	PLEKHG2
+DNA primase activity	1	PRIM2
+4 iron, 4 sulfur cluster binding	1	PRIM2
+DNA/RNA hybrid binding	1	PRIM2
+DNA replication, synthesis of RNA primer	1	PRIM2
+DNA replication initiation	1	PRIM2
+ DNA primase activity	1	PRIM2
+alpha DNA polymerase:primase complex	1	PRIM2
+ubiquitin protein ligase binding	1	SLF1
+protein sumoylation	1	SLF1
+ protein-containing complex assembly	1	SLF1
+ maintenance of mitotic sister chromatid cohesion	1	SLF1
+protein localization to site of double-strand break	1	SLF1
+ double-strand break repair	1	SLF1
+nucleosome	1	SLF1
+Smc5-Smc6 complex	1	SLF1
+nuclear inclusion body	1	SLF1
+crossover junction DNA endonuclease activity	1	SLX1A
+5'-flap endonuclease activity	1	SLX1A
+DNA double-strand break processing involved in repair via single-strand annealing	1	SLX1A
+telomere maintenance via telomere lengthening	1	SLX1A
+telomeric D-loop disassembly	1	SLX1A
+negative regulation of telomere maintenance via telomere lengthening	1	SLX1A
+ t-circle formation	1	SLX1A
+Slx1-Slx4 complex	1	SLX1A
+helicase activity	1	SMARCAL1
+hydrolase activity	1	SMARCAL1
+double-strand break repair via nonhomologous end joining	1	SMARCAL1
+transcription coactivator activity	1	TAF6L
+protein heterodimerization activity	1	TAF6L
+ DNA repair	1	TAF6L
+histone acetylation	1	TAF6L
+monoubiquitinated histone deubiquitination	1	TAF6L
+monoubiquitinated histone H2A deubiquitination	1	TAF6L
+ RNA splicing	1	TAF6L
+histone H3 acetylation	1	TAF6L
+RNA polymerase II preinitiation complex assembly	1	TAF6L
+ somatic stem cell population maintenance	1	TAF6L
+histone deacetylase complex	1	TAF6L
+SAGA complex	1	TAF6L
+transcription factor TFIID complex	1	TAF6L
+SLIK (SAGA-like) complex	1	TAF6L
+anterior/posterior axis specification, embryo	1	TASOR
+negative regulation of single stranded viral RNA replication via double stranded DNA intermediate	1	TASOR
+mesodermal to mesenchymal transition involved in gastrulation	1	TASOR
+ DNA methylation-dependent heterochromatin formation	1	TASOR
+protein localization to heterochromatin	1	TASOR
+tRNA-intron endonuclease activity	1	TSEN34
+nucleic acid binding	1	TSEN34
+lyase activity	1	TSEN34
+tRNA-type intron splice site recognition and cleavage	1	TSEN34
+mRNA processing	1	TSEN34
+RNA phosphodiester bond hydrolysis, endonucleolytic	1	TSEN34
+tRNA-intron endonuclease complex	1	TSEN34
+cilium assembly	1	WDR90
+centriole	1	WDR90
+molecular_function	1	ZC3H3
+mRNA 3'-end processing	1	ZC3H3
+ activin receptor signaling pathway	1	ZC3H3
+mRNA transport	1	ZC3H3
+ mRNA polyadenylation	1	ZC3H3
+mRNA cleavage and polyadenylation specificity factor complex	1	ZC3H3

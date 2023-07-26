@@ -1,0 +1,280 @@
+Feature	Number of Genes	Genes
+protein binding	35	KPNA6, C17orf49, KPNA2, DPF2, BRD9, CHD8, PDIK1L, NUP50, SRRT, SRCAP, BOD1L1, SS18L1, NIPBL, PHAX, INTS9, RAMAC, CTDSPL2, ACTL6A, ARID1A, ARID1B, ARID2, BCL7A, BCL7B, BICRA, BICRAL, CDCA7, PBRM1, SMARCA2, SMARCA4, SMARCB1, SMARCC1, SMARCC2, SMARCD1, SMARCD2, SMARCE1
+nucleoplasm	31	KPNA6, C17orf49, KPNA2, DPF2, BRD9, CHD8, PDIK1L, NUP50, SRRT, SRCAP, BOD1L1, SS18L1, NIPBL, PHAX, INTS9, CTDSPL2, ACTL6A, ARID1A, ARID1B, ARID2, CDCA7, PBRM1, SMARCA2, SMARCA4, SMARCB1, SMARCC1, SMARCC2, SMARCD1, SMARCD2, SMARCD3, SMARCE1
+ transcription by RNA polymerase II	28	KPNA6, DPF2, BRD9, CHD8, SRCAP, SS18L1, NIPBL, BCL7C, CTDSPL2, ACTL6A, ARID1A, ARID1B, ARID2, BCL7A, BCL7B, BICRA, BICRAL, DPF1, PBRM1, SMARCA2, SMARCA4, SMARCB1, SMARCC1, SMARCC2, SMARCD1, SMARCD2, SMARCD3, SMARCE1
+nucleus	24	KPNA6, KPNA2, DPF2, BRD9, CHD8, SRCAP, SS18L1, NIPBL, PHAX, INTS9, RAMAC, ACTL6A, ARID1A, BICRA, CDCA7, PBRM1, SMARCA2, SMARCA4, SMARCB1, SMARCC1, SMARCD1, SMARCD2, SMARCD3, SMARCE1
+chromatin remodeling	24	DPF2, BRD9, CHD8, SRCAP, BCL7C, ACTL6A, ARID1A, ARID1B, ARID2, BCL7A, BCL7B, BICRA, BICRAL, DPF1, PBRM1, SMARCA2, SMARCA4, SMARCB1, SMARCC1, SMARCC2, SMARCD1, SMARCD2, SMARCD3, SMARCE1
+chromatin	24	DPF2, BRD9, CHD8, NIPBL, BCL7C, ACTL6A, ARID1A, ARID1B, ARID2, BCL7A, BCL7B, BICRA, BICRAL, DPF1, PBRM1, SMARCA2, SMARCA4, SMARCB1, SMARCC1, SMARCC2, SMARCD1, SMARCD2, SMARCD3, SMARCE1
+SWI/SNF complex	21	DPF2, BRD9, BCL7C, ACTL6A, ARID1A, ARID1B, ARID2, BCL7A, BCL7B, BICRA, BICRAL, PBRM1, SMARCA2, SMARCA4, SMARCB1, SMARCC1, SMARCC2, SMARCD1, SMARCD2, SMARCD3, SMARCE1
+ mitotic metaphase/anaphase transition	19	DPF2, BCL7C, ACTL6A, ARID1A, ARID1B, ARID2, BCL7A, BCL7B, DPF1, PBRM1, SMARCA2, SMARCA4, SMARCB1, SMARCC1, SMARCC2, SMARCD1, SMARCD2, SMARCD3, SMARCE1
+ G0 to G1 transition	19	DPF2, BCL7C, ACTL6A, ARID1A, ARID1B, ARID2, BCL7A, BCL7B, DPF1, PBRM1, SMARCA2, SMARCA4, SMARCB1, SMARCC1, SMARCC2, SMARCD1, SMARCD2, SMARCD3, SMARCE1
+ G1/S transition of mitotic cell cycle	19	DPF2, BCL7C, ACTL6A, ARID1A, ARID1B, ARID2, BCL7A, BCL7B, DPF1, PBRM1, SMARCA2, SMARCA4, SMARCB1, SMARCC1, SMARCC2, SMARCD1, SMARCD2, SMARCD3, SMARCE1
+ double-strand break repair	19	DPF2, BCL7C, ACTL6A, ARID1A, ARID1B, ARID2, BCL7A, BCL7B, DPF1, PBRM1, SMARCA2, SMARCA4, SMARCB1, SMARCC1, SMARCC2, SMARCD1, SMARCD2, SMARCD3, SMARCE1
+ nucleotide-excision repair	19	DPF2, BCL7C, ACTL6A, ARID1A, ARID1B, ARID2, BCL7A, BCL7B, DPF1, PBRM1, SMARCA2, SMARCA4, SMARCB1, SMARCC1, SMARCC2, SMARCD1, SMARCD2, SMARCD3, SMARCE1
+ DNA-templated transcription	18	CHD8, SRRT, SRCAP, SS18L1, ACTL6A, ARID1A, ARID1B, BICRA, BICRAL, CDCA7, SMARCA2, SMARCA4, SMARCC1, SMARCC2, SMARCD1, SMARCD2, SMARCD3, SMARCE1
+ stem cell population maintenance	15	DPF2, BRD9, BCL7C, ACTL6A, ARID1A, BCL7A, BCL7B, BICRA, BICRAL, SMARCA2, SMARCA4, SMARCB1, SMARCC1, SMARCD1, SMARCE1
+ cell differentiation	15	ACTL6A, ARID1A, ARID1B, ARID2, DPF1, PBRM1, SMARCA2, SMARCA4, SMARCB1, SMARCC1, SMARCC2, SMARCD1, SMARCD2, SMARCD3, SMARCE1
+transcription coactivator activity	14	SRCAP, SS18L1, ACTL6A, ARID1A, ARID1B, SMARCA2, SMARCA4, SMARCB1, SMARCC1, SMARCC2, SMARCD1, SMARCD2, SMARCD3, SMARCE1
+ T cell differentiation	14	ACTL6A, ARID1A, ARID1B, ARID2, PBRM1, SMARCA2, SMARCA4, SMARCB1, SMARCC1, SMARCC2, SMARCD1, SMARCD2, SMARCD3, SMARCE1
+ myoblast differentiation	14	ACTL6A, ARID1A, ARID1B, ARID2, PBRM1, SMARCA2, SMARCA4, SMARCB1, SMARCC1, SMARCC2, SMARCD1, SMARCD2, SMARCD3, SMARCE1
+nBAF complex	13	DPF2, SS18L1, ARID1A, ARID1B, DPF1, SMARCA2, SMARCA4, SMARCB1, SMARCC1, SMARCC2, SMARCD1, SMARCD3, SMARCE1
+nervous system development	12	DPF2, ACTL6A, ARID1A, ARID1B, DPF1, SMARCA2, SMARCA4, SMARCB1, SMARCC1, SMARCC2, SMARCD1, SMARCD3
+ cell population proliferation	12	BRD9, BCL7C, ACTL6A, BCL7A, BCL7B, BICRA, BICRAL, CDCA7, SMARCA2, SMARCA4, SMARCC1, SMARCD1
+DNA binding	11	C17orf49, CHD8, SRRT, SRCAP, ARID1A, ARID1B, ARID2, PBRM1, SMARCA2, SMARCA4, SMARCB1
+negative regulation of cell differentiation	11	BRD9, BCL7C, ACTL6A, BCL7A, BCL7B, BICRA, BICRAL, SMARCA2, SMARCA4, SMARCC1, SMARCD1
+GBAF complex	11	BRD9, BCL7C, ACTL6A, BCL7A, BCL7B, BICRA, BICRAL, SMARCA2, SMARCA4, SMARCC1, SMARCD1
+kinetochore	11	SS18L1, ACTL6A, ARID2, PBRM1, SMARCA4, SMARCB1, SMARCC1, SMARCC2, SMARCD1, SMARCD2, SMARCE1
+brahma complex	11	ACTL6A, ARID1A, ARID1B, SMARCA2, SMARCB1, SMARCC1, SMARCC2, SMARCD1, SMARCD2, SMARCD3, SMARCE1
+npBAF complex	11	ACTL6A, ARID1A, ARID1B, SMARCA2, SMARCA4, SMARCB1, SMARCC1, SMARCC2, SMARCD1, SMARCD3, SMARCE1
+cytosol	10	KPNA6, C17orf49, KPNA2, DPF2, SS18L1, NIPBL, PHAX, INTS9, ARID1B, CDCA7
+protein-containing complex	10	CHD8, SRRT, SRCAP, ACTL6A, SMARCA4, SMARCB1, SMARCC1, SMARCC2, SMARCD2, SMARCE1
+nuclear matrix	10	ACTL6A, ARID2, PBRM1, SMARCA4, SMARCB1, SMARCC1, SMARCC2, SMARCD1, SMARCD2, SMARCE1
+RSC-type complex	10	ACTL6A, ARID2, PBRM1, SMARCA4, SMARCB1, SMARCC1, SMARCC2, SMARCD1, SMARCD2, SMARCE1
+nucleosome disassembly	10	ARID1A, ARID2, SMARCA4, SMARCB1, SMARCC1, SMARCC2, SMARCD1, SMARCD2, SMARCD3, SMARCE1
+bBAF complex	8	ARID1A, ARID1B, SMARCA2, SMARCA4, SMARCB1, SMARCC2, SMARCD2, SMARCE1
+chromatin binding	7	CHD8, NIPBL, ACTL6A, PBRM1, SMARCA2, SMARCD1, SMARCE1
+negative regulation of DNA-templated transcription	7	CHD8, NIPBL, BCL7A, SMARCA2, SMARCA4, SMARCC2, SMARCE1
+nucleosomal DNA binding	7	ACTL6A, SMARCA4, SMARCB1, SMARCC1, SMARCC2, SMARCD2, SMARCE1
+RNA binding	6	KPNA2, SRRT, PHAX, RAMAC, SMARCA4, SMARCE1
+negative regulation of transcription by RNA polymerase II	5	DPF2, CHD8, NIPBL, SMARCA2, SMARCA4
+apoptotic process	5	DPF2, BCL7C, BCL7B, CDCA7, DPF1
+intracellular membrane-bounded organelle	5	DPF2, NIPBL, SMARCA2, SMARCB1, SMARCD1
+ATP binding	5	CHD8, PDIK1L, SRCAP, SMARCA2, SMARCA4
+histone binding	5	CHD8, SRCAP, SMARCA2, SMARCC1, SMARCC2
+transcription initiation-coupled chromatin remodeling	5	ARID1A, ARID1B, SMARCA4, SMARCB1, SMARCD1
+cytoplasm	4	KPNA2, SRRT, DPF1, SMARCC1
+ATP-dependent chromatin remodeler activity	4	CHD8, SRCAP, SMARCA2, SMARCA4
+negative regulation of cell population proliferation	4	ARID2, PBRM1, SMARCA2, SMARCB1
+protein import into nucleus	3	KPNA6, KPNA2, NUP50
+membrane	3	KPNA6, KPNA2, SMARCA4
+metal ion binding	3	DPF2, ARID2, DPF1
+lysine-acetylated histone binding	3	DPF2, BRD9, SMARCA4
+p53 binding	3	CHD8, SMARCA4, SMARCB1
+helicase activity	3	SRCAP, SMARCA2, SMARCA4
+neural retina development	3	ACTL6A, SMARCA4, SMARCD3
+plasma membrane	3	ACTL6A, ARID1B, ARID2
+nuclear receptor binding	3	ARID1A, SMARCD3, SMARCE1
+nuclear chromosome	3	PBRM1, SMARCB1, SMARCE1
+transcription coregulator activity	3	SMARCD1, SMARCD2, SMARCD3
+DNA-templated transcription	3	SMARCD1, SMARCD2, SMARCD3
+nuclear localization sequence binding	2	KPNA6, KPNA2
+nuclear import signal receptor activity	2	KPNA6, KPNA2
+NLS-bearing protein import into nucleus	2	KPNA6, KPNA2
+entry of viral genome into host nucleus through nuclear pore complex via importin	2	KPNA6, KPNA2
+ viral life cycle	2	KPNA6, KPNA2
+NLS-dependent protein nuclear import complex	2	KPNA6, KPNA2
+host cell	2	KPNA6, KPNA2
+identical protein binding	2	C17orf49, SMARCB1
+chromatin organization	2	C17orf49, SS18L1
+MLL1 complex	2	C17orf49, CHD8
+histone deacetylase binding	2	KPNA2, NIPBL
+nuclear membrane	2	KPNA2, NUP50
+transcription corepressor activity	2	DPF2, SMARCA4
+biological_process	2	BRD9, BCL7B
+ATP hydrolysis activity	2	CHD8, SRCAP
+brain development	2	CHD8, NIPBL
+Wnt signaling pathway	2	CHD8, BCL7B
+digestive tract development	2	CHD8, NIPBL
+mRNA cap binding complex binding	2	SRRT, PHAX
+nuclear body	2	SRRT, SRCAP
+ribonucleoprotein complex	2	SRRT, PHAX
+nucleosome	2	SRCAP, ACTL6A
+DNA repair	2	BOD1L1, ACTL6A
+DNA damage response	2	BOD1L1, NIPBL
+heart morphogenesis	2	NIPBL, ARID2
+ embryonic development	2	NIPBL, ACTL6A
+integrator complex	2	NIPBL, INTS9
+ double-strand break repair via homologous recombination	2	ACTL6A, ARID2
+nucleosome binding	2	ARID1A, ARID1B
+ATP-dependent activity, acting on DNA	2	SMARCA2, SMARCA4
+hydrolase activity	2	SMARCA2, SMARCA4
+negative regulation of cell growth	2	SMARCA2, SMARCA4
+RNA polymerase I core promoter sequence-specific DNA binding	2	SMARCA4, SMARCB1
+transcription coregulator binding	2	SMARCA4, SMARCD3
+Tat protein binding	2	SMARCA4, SMARCB1
+RNA polymerase I preinitiation complex assembly	2	SMARCA4, SMARCB1
+positive regulation by host of viral transcription	2	SMARCA4, SMARCB1
+ DNA-binding transcription factor activity	2	SMARCA4, SMARCB1
+ transcription of nucleolar large rRNA by RNA polymerase I	2	SMARCA4, SMARCB1
+ glucose mediated signaling pathway	2	SMARCA4, SMARCB1
+fibrillar center	2	SMARCA4, SMARCB1
+nucleolus	2	SMARCA4, SMARCB1
+XY body	2	SMARCB1, SMARCC1
+signaling receptor binding	2	SMARCD1, SMARCD3
+transcription by RNA polymerase II	1	KPNA6
+viral genome replication	1	KPNA6
+maternal process involved in female pregnancy	1	KPNA6
+ cytokine production involved in inflammatory response	1	KPNA6
+NURF complex	1	C17orf49
+ DNA recombination	1	KPNA2
+DNA metabolic process	1	KPNA2
+Golgi membrane	1	KPNA2
+endoplasmic reticulum membrane	1	KPNA2
+H3K9me3 modified histone binding	1	DPF2
+apoptotic signaling pathway	1	DPF2
+negative regulation of myeloid progenitor cell differentiation	1	DPF2
+centrosome	1	DPF2
+nucleic acid binding	1	BRD9
+DNA helicase activity	1	CHD8
+beta-catenin binding	1	CHD8
+methylated histone binding	1	CHD8
+armadillo repeat domain binding	1	CHD8
+in utero embryonic development	1	CHD8
+DNA duplex unwinding	1	CHD8
+social behavior	1	CHD8
+ transcription by RNA polymerase III	1	CHD8
+prepulse inhibition	1	CHD8
+negative regulation of canonical Wnt signaling pathway	1	CHD8
+negative regulation of fibroblast apoptotic process	1	CHD8
+protein kinase activity	1	PDIK1L
+protein serine/threonine kinase activity	1	PDIK1L
+protein serine kinase activity	1	PDIK1L
+protein phosphorylation	1	PDIK1L
+nucleocytoplasmic transport	1	NUP50
+mRNA transport	1	NUP50
+nuclear envelope	1	NUP50
+nuclear pore	1	NUP50
+protein-macromolecule adaptor activity	1	SRRT
+mRNA processing	1	SRRT
+primary miRNA processing	1	SRRT
+response to arsenic-containing substance	1	SRRT
+ neurogenesis	1	SRRT
+neuronal stem cell population maintenance	1	SRRT
+histone acetyltransferase activity	1	SRCAP
+Swr1 complex	1	SRCAP
+Golgi apparatus	1	SRCAP
+perinuclear region of cytoplasm	1	SRCAP
+replication fork processing	1	BOD1L1
+histone H3-K4 methylation	1	BOD1L1
+chromosome	1	BOD1L1
+Set1C/COMPASS complex	1	BOD1L1
+dendrite development	1	SS18L1
+ dendrite morphogenesis	1	SS18L1
+mediator complex binding	1	NIPBL
+cohesin loader activity	1	NIPBL
+chromo shadow domain binding	1	NIPBL
+promoter-specific chromatin binding	1	NIPBL
+mitotic sister chromatid segregation	1	NIPBL
+metanephros development	1	NIPBL
+outflow tract morphogenesis	1	NIPBL
+mitotic sister chromatid cohesion	1	NIPBL
+sensory perception of sound	1	NIPBL
+protein localization	1	NIPBL
+ histone deacetylation	1	NIPBL
+establishment of mitotic sister chromatid cohesion	1	NIPBL
+maintenance of mitotic sister chromatid cohesion	1	NIPBL
+somatic stem cell population maintenance	1	NIPBL
+embryonic forelimb morphogenesis	1	NIPBL
+forelimb morphogenesis	1	NIPBL
+external genitalia morphogenesis	1	NIPBL
+ multicellular organism growth	1	NIPBL
+ear morphogenesis	1	NIPBL
+ hair cycle	1	NIPBL
+fat cell differentiation	1	NIPBL
+ ossification	1	NIPBL
+embryonic digestive tract morphogenesis	1	NIPBL
+developmental growth	1	NIPBL
+eye morphogenesis	1	NIPBL
+ developmental growth	1	NIPBL
+embryonic viscerocranium morphogenesis	1	NIPBL
+cognition	1	NIPBL
+face morphogenesis	1	NIPBL
+gallbladder development	1	NIPBL
+uterus morphogenesis	1	NIPBL
+mitotic cohesin loading	1	NIPBL
+establishment of protein localization to chromatin	1	NIPBL
+cellular response to X-ray	1	NIPBL
+replication-born double-strand break repair via sister chromatid exchange	1	NIPBL
+ neuron migration	1	NIPBL
+SMC loading complex	1	NIPBL
+extracellular exosome	1	NIPBL
+Scc2-Scc4 cohesin loading complex	1	NIPBL
+toxic substance binding	1	PHAX
+snRNA export from nucleus	1	PHAX
+protein transport	1	PHAX
+RNA stabilization	1	PHAX
+Cajal body	1	PHAX
+neuronal cell body	1	PHAX
+snRNA processing	1	INTS9
+ transcription elongation by RNA polymerase II	1	INTS9
+snRNA 3'-end processing	1	INTS9
+enzyme activator activity	1	RAMAC
+molecular function activator activity	1	RAMAC
+7-methylguanosine mRNA capping	1	RAMAC
+methylation	1	RAMAC
+recruitment of mRNA capping enzyme to RNA polymerase II holoenzyme complex	1	RAMAC
+RNA 5'-cap (guanine-N7)-methylation	1	RAMAC
+mRNA cap binding complex	1	RAMAC
+mRNA cap methyltransferase complex	1	RAMAC
+phosphoprotein phosphatase activity	1	CTDSPL2
+RNA polymerase II CTD heptapeptide repeat phosphatase activity	1	CTDSPL2
+protein dephosphorylation	1	CTDSPL2
+protein export from nucleus	1	CTDSPL2
+negative regulation of BMP signaling pathway	1	CTDSPL2
+ protein export from nucleus	1	CTDSPL2
+telomere maintenance	1	ACTL6A
+blastocyst formation	1	ACTL6A
+ DNA replication	1	ACTL6A
+ DNA repair	1	ACTL6A
+DNA recombination	1	ACTL6A
+signal transduction	1	ACTL6A
+histone acetylation	1	ACTL6A
+spinal cord development	1	ACTL6A
+ chromosome organization	1	ACTL6A
+ apoptotic process	1	ACTL6A
+histone H4 acetylation	1	ACTL6A
+histone H2A acetylation	1	ACTL6A
+ cell cycle	1	ACTL6A
+ DNA strand elongation	1	ACTL6A
+ telomere maintenance in response to DNA damage	1	ACTL6A
+Ino80 complex	1	ACTL6A
+NuA4 histone acetyltransferase complex	1	ACTL6A
+intracellular estrogen receptor signaling pathway	1	ARID1A
+androgen receptor signaling pathway	1	ARID1A
+glucocorticoid receptor signaling pathway	1	ARID1A
+response to ischemia	1	ARID1B
+cellular response to angiotensin	1	ARID1B
+negative regulation of cell migration	1	ARID2
+homeostatic process	1	ARID2
+embryonic organ development	1	ARID2
+cardiac muscle cell proliferation	1	ARID2
+coronary artery morphogenesis	1	ARID2
+molecular_function	1	BCL7A
+actin binding	1	BCL7B
+cell differentiation	1	BCL7B
+transcription regulator activator activity	1	BICRA
+sequence-specific double-stranded DNA binding	1	DPF1
+mitotic cell cycle	1	PBRM1
+transcription elongation by RNA polymerase II	1	PBRM1
+transcription cis-regulatory region binding	1	SMARCA2
+spermatid development	1	SMARCA2
+intermediate filament cytoskeleton	1	SMARCA2
+transcription factor binding	1	SMARCA4
+nuclear androgen receptor binding	1	SMARCA4
+DNA polymerase binding	1	SMARCA4
+ Wnt signaling pathway	1	SMARCA4
+negative regulation of androgen receptor signaling pathway	1	SMARCA4
+ cold-induced thermogenesis	1	SMARCA4
+ miRNA transcription	1	SMARCA4
+extracellular space	1	SMARCA4
+blastocyst hatching	1	SMARCB1
+cell cycle	1	SMARCB1
+DNA integration	1	SMARCB1
+single stranded viral RNA replication via double stranded DNA intermediate	1	SMARCB1
+hepatocyte differentiation	1	SMARCB1
+ pseudohyphal growth by positive regulation of transcription from RNA polymerase II promoter	1	SMARCB1
+germ cell nucleus	1	SMARCB1
+insulin receptor signaling pathway	1	SMARCC1
+animal organ morphogenesis	1	SMARCC1
+negative regulation of proteasomal ubiquitin-dependent protein catabolic process	1	SMARCC1
+male germ cell nucleus	1	SMARCC1
+molecular adaptor activity	1	SMARCD1
+cellular response to fatty acid	1	SMARCD1
+DNA-binding transcription factor binding	1	SMARCD3
+ neuroblast proliferation	1	SMARCD3
+secondary heart field specification	1	SMARCD3
+cardiac right ventricle formation	1	SMARCD3
+muscle cell differentiation	1	SMARCD3
+ protein binding	1	SMARCD3
+N-acetyltransferase activity	1	SMARCE1
+neurogenesis	1	SMARCE1

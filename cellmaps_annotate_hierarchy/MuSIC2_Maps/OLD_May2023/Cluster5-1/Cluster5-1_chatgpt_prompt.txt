@@ -1,0 +1,20 @@
+Write a critical and concise analysis of this system based on the child systems summary, describing your reasoning as you go.        
+Format with Title, Summary, and References sections.        
+Avoid overly general statements of how the proteins are involved in various cellular processes
+        
+Avoid recapitulating the goals of the analysis. 
+What cellular components and complexes are involved in this system?
+What mechanisms and biological processes are performed by this system?
+Discuss potential names for the system. Names should reflect the function and location, and should be specific not general. Select the best name and place it as the title of your report
+Provide complete paper references with pubmed link, if any
+A critical goal of the analysis is to determine if this is a novel complex or if any proteins are novel members of a known complex
+ Here are the summaries of the child nodes directly branched from this parent system: 
+
+Child cluster with Genes: RO60, IREB2, FAM120A, CNNM3, ELAVL2, MTIF2, PMPCA, MTERF3, MRPL53, MRPL37, MRPL58, MRPL28, BCAT2, MRPL14, MRPL23, MRPL42, MAPK11, CNNM2, MALSU1, MRPL48, YARS2, HSPD1, PMPCB, MRPL47, MRPL12, MRPL51, GADD45GIP1, MRPL10, MTFR1L, MRPL40, MRPL9, MRPL46, MRPL19, GTPBP3, COQ3, MRPL41, MRPL50, MRPL44, MRPL22, PARP9, MRPL57, NGRN, MRPL15, MRPL39, MRPL52, MTHFD2, RHOT2
+The Mitochondrial Ribosomal Complex with MTHFD2 and RHOT2 is a novel protein complex consisting of five proteins: MRPL15, MRPL39, MRPL52, MTHFD2, and RHOT2. These proteins are localized to the mitochondrion and are involved in mitochondrial translation, protein binding, and RNA binding. The complex is unique due to the inclusion of MTHFD2 and RHOT2, which are not known to be part of any other mitochondrial ribosomal complexes. The primary functions of this complex include mitochondrial translation, ribosome assembly, and protein targeting to the mitochondrion, with additional roles in metal ion binding, GTPase activity, magnesium ion homeostasis, and positive regulation of interleukin-12 production.
+
+Child cluster with Genes: MRPS11, DAP3, MRPS22, MRPS7, MRPS9, LRP2, MRPS10, MRPS14, MRPS15, MRPS2, MRPS21, MRPS26, MRPS27, MRPS34, MRPS5, SMG5
+The system of proteins analyzed in this study consists of LRP2, MRPS10, MRPS14, MRPS15, MRPS2, MRPS21, MRPS26, MRPS27, MRPS34, MRPS5, and SMG5. The majority of these proteins (9 out of 11) are involved in mitochondrial translation, mitochondrial inner membrane, and mitochondrial small ribosomal subunit, suggesting that this system is primarily associated with the mitochondrial small ribosomal subunit complex. The two remaining proteins, LRP2 and SMG5, are involved in protein binding and may interact with the mitochondrial small ribosomal subunit complex. This system is involved in various biological processes, including translation, RNA binding, and cell population proliferation. The proposed name for this system is the "Mitochondrial Small Ribosomal Subunit Complex with LRP2 and SMG5."
+
+Child cluster with Genes: AGK, OAT, PPM1K, OGDH, LIAS, DBT, SELENOO, CYCS, SARS2, LYRM2, NDUFAB1, MRPS25, TIMM10, MMAB, FASTKD2, COX4I1, TTC19, LRRC15, FBXW5, DARS2, TTLL4, NOA1, GRPEL2, MGME1, XPNPEP3, UQCC2, MRPS18B, TIMM9, SCLT1, COX5B, MOCOS, MIPEP, C1QBP, ACAA2, RNF151, ALDH18A1, PDHX, TMLHE, S100A4, FAHD1, MRPS36, UQCRFS1, GLRX5, NME4
+The analyzed system of proteins is primarily involved in mitochondrial processes, protein binding, and cellular respiration. A majority of the proteins are localized in the mitochondrion (36 proteins) and are involved in protein binding (33 proteins). Key biological processes performed by this system include mitochondrial matrix functions, mitochondrial inner membrane processes, and metal ion binding. The system also plays a role in ATP binding, RNA binding, and apoptotic processes. The proposed name for this system is "Mitochondrial Protein Interaction Network in Cellular Respiration and Protein Binding." This analysis aims to determine if this is a novel complex or if any proteins are novel members of a known complex.

@@ -1,0 +1,17 @@
+Your response should be formatted as Markdown paragraphs
+This is a human protein system high in a cell hierarchy and has child systems connect to it as well as residual proteins only belong to this system. From the protein list and the knowledge of how these proteins cluster, write a critical and concise analysis of this human protein system. Describe your reasoning as you go and providing references to scientific papers.
+
+A critical goal of the analysis is to determine if this is a novel complex or if any proteins are novel members of a known complex
+
+Format with Title, Summary, and References sections.        
+Avoid overly general statements of how the proteins are involved in various cellular processes        
+Avoid recapitulating the goals of the analysis.
+
+What cellular components and complexes are involved in this system?
+What mechanisms and biological processes are performed by this system?
+Propose a name for the system to reflect the function and location, and should be specific but brief. Do not compose an acronym. Place it as the title of your report
+Human Protein List: 
+proteins only in this high level system: TRIM25, STAM2, SPRYD4, NUCB2, BIN1, SAE1, HGS, PTAR1, UCHL3, TPP2, PGP, RPIA, PI15, STAT3, MANSC1, GALE, SH3GL1, SORD, PFAS, SMS, DDX28, FTO, C1GALT1C1, STMN3, NPPB, RAB14, PLS3, AKR1A1, IST1, LGALS9, BLVRA, RRM1, TAGLN, BROX, GABPA, GCA, NAGK, YARS1, IDH1, LOC102724560, MPST, TPD52, ECI2, GGA1, LRRFIP1, CNPY2, PRKCA, NAA15, CNOT9, MVD, NLN, AKR7A2, HDHD2, ISL2, UBXN1, SPG21, GSPT2, MYOF, ASNS, GLOD4, CHORDC1, SH3GLB1, DRAP1, ARG2, SEC23IP, MEAK7, FSTL1, IREB2, AAGAB, SUGT1, NRSN2, NAA30, GSPT1, UBQLN4, AKR7A3, RAB1B, ATP6V1C1, ADK, NFKB2, THOP1, MAP2K1, RLIG1, LAP3, CRYZ, LMO4, NARS1, RELA, PDLIM2, AARS1, GRHPR, PTGES3L-AARSD1, RNF25, NUDCD3, NHERF1, SH3GLB2, UBE2D2, MANF, PPID, GAA, EHD3, GSR, DNM1L, TGFBRAP1, RPS6KA1, NT5C, PREP, CYB5A, TPK1, MCTS1, RAE1, ATG3, TIGAR, PLCG1, HARS1, PLPBP, HS1BP3, USP46, TTC1, S100A13, CALB2, FERMT2, QNG1, EHD1, PDCD6IP, EEA1, MMUT, PHLPP2, PEX13, AK1, TPD52L1, PPA1, RFK, PITPNA, PHPT1, AGFG1, GATD3, SNX1, MIF, EEF1B2, PIK3CD, LCMT2, RPEL1, TKFC, ZC3H15, PRRC1, DFFA, DCXR, TRMT5, OSBPL11, FHL1, ARHGAP1, PSPH, BID, SLK, SBDS, SAR1A, QPRT, OLA1, FAM185A, TSN, OGA, CNOT3, PPM1B, WDTC1, ZNF185, PACSIN2, VPS26A, TXNRD2, GSTZ1, OTUB1, AMDHD2, SSBP2, CD68, PICALM, RBMS3, DNAJC11, PPM1A, TPM4, IRGQ, IFT25, TMEM231, THUMPD1, GCLM, RAB7A, DRG2, RAB5C, SNX5, ADSS2, ANXA4, GABPB1, KANSL3, CSK, PSAP, UBQLN1, MVK, NIBAN2, TTLL12, TPD52L2, EFL1, CKB, LMCD1, XPNPEP1, TEX264.
+proteins in child system Cluster4-1: GINS3, NTMT1, FAM114A1, CHMP1B, VTA1, KANSL1, AAMDC, ACAT2, ADISSP, ADPRS, AIDA, ALOX5, ANXA11, ARIH2, ARL2, BLVRB, C11orf68, CAPG, CELF1, CMPK1, CNOT10, CPNE1, CYRIB, DCPS, DDX19B, EEF1D, EIF4EBP1, ENO2, FAF1, FARSB, GCLC, GINS1, GINS2, GINS4, GNPDA1, GNPDA2, HSPA12B, ILKAP, IRF2BP1, IRF2BP2, IRF2BPL, ITGA2, KIAA1191, KIN, LRRC20, MBNL1, MCMBP, MDP1, MRTFB, NAA38, NAA50, NAE1, NANS, NAXE, NFYA, NHLRC2, NSFL1C, NSUN2, NT5DC1, NUDCD2, OGFR, PAK2, PAPOLA, PAPSS1, PCDHGA9, PDCD4, PEF1, PEX7, PGLS, PMM2, PNPO, PPAT, PPP1R8, PSME2, PTPA, PTPN11, PTPN23, PTRHD1, RAB8A, RANBP3, RBM12, RBP1, RECQL, SCP2, SEPHS1, SGTA, SGTB, SLC15A1, SLC25A30, SMCHD1, SNRNP27, SPR, TMSB4X, TRIP10, TSNAX, TTC9C, UBA2, UBE2M, UBE2Z, UBLCP1, UPP1, USP5, VENTX, VGLL4, WDHD1, ZNF331.
+proteins in child system Cluster4-43: DPYSL4, MAP4K2, DPYSL2, DPYSL3.
+proteins in child system Cluster4-52: ABTB1, CARS1, EEF1A2, VARS1.

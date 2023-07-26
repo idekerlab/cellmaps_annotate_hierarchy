@@ -1,0 +1,174 @@
+Your response should be formatted as Markdown paragraphs
+Write a critical and concise analysis of this human protein system, describing your reasoning as you go and providing references to scientific papers.
+
+A critical goal of the analysis is to determine if this is a novel complex or if any proteins are novel members of a known complex
+
+Format with Title, Summary, and References sections.        
+Avoid overly general statements of how the proteins are involved in various cellular processes        
+Avoid repeating the goals of the analysis.
+
+What cellular components and complexes are involved in this system?
+What mechanisms and biological processes are performed by this system?
+Propose a name for the system to reflect the cellular location and function, and should be specific but brief. Do not compose an acronym. Place it as the title of your report
+Human Proteins: CRY1, DZIP1L, ANKRD54, ARHGEF28, AURKB, CDK16, CEP57, CHFR, COPS2, CRACDL, CREG1, CRYBB3, DCTN1, DPY19L3, DTNBP1, EHD2, EML4, ERP29, FAM83D, FAM91A1, FBXL20, FBXO30, FKBPL, GIGYF1, GYS1, IFT22, IQCB1, KANK4, KIAA1671, KIF11, KIF18A, KIFAP3, KLHL22, KLK6, KNSTRN, LANCL1, MYL2, NAP1L1, NISCH, NUAK1, OCRL, OFD1, PACS1, PLCD1, RELL1, RPL6, SCYL3, SKA1, SPTLC3, SYTL5, THOC1, TMEM25, TMT1B, TNKS2, TPX2, TRMT112, TTC4, TUBA1A, TUBA1B, TUBA4A, TUBA8, TUBB, TUBB1, TUBB2A, TUBB3, TUBB8, VPS13C, VPS45, WDR11, WWC2, ZDHHC18.
+
+System features from GO terms: 
+protein binding: 58 proteins: CRY1, DZIP1L, ANKRD54, AURKB, CDK16, CEP57, CHFR, COPS2, CRYBB3, DCTN1, DTNBP1, EHD2, EML4, ERP29, FAM83D, FAM91A1, FBXL20, FKBPL, GIGYF1, GYS1, IQCB1, KANK4, KIF11, KIF18A, KIFAP3, KLHL22, KLK6, KNSTRN, LANCL1, MYL2, NAP1L1, NISCH, NUAK1, OCRL, OFD1, PACS1, PLCD1, RELL1, RPL6, SCYL3, SKA1, SPTLC3, SYTL5, THOC1, TMEM25, TNKS2, TPX2, TRMT112, TTC4, TUBA1A, TUBA1B, TUBA4A, TUBA8, TUBB, TUBB2A, TUBB3, VPS45, WDR11
+cytoplasm: 40 proteins: CRY1, DZIP1L, ANKRD54, CDK16, COPS2, DCTN1, DTNBP1, EHD2, EML4, FAM83D, GYS1, KANK4, KIF18A, KLHL22, KLK6, KNSTRN, LANCL1, MYL2, NAP1L1, NISCH, NUAK1, OCRL, PLCD1, RPL6, SCYL3, THOC1, TNKS2, TTC4, TUBA1A, TUBA1B, TUBA4A, TUBA8, TUBB, TUBB1, TUBB2A, TUBB3, TUBB8, VPS13C, WDR11, WWC2
+cytosol: 37 proteins: ARHGEF28, AURKB, CDK16, CEP57, COPS2, DCTN1, DTNBP1, EHD2, EML4, FAM83D, FBXL20, FBXO30, FKBPL, GIGYF1, GYS1, IQCB1, KANK4, KIF11, KIF18A, KIFAP3, KLHL22, MYL2, NISCH, OCRL, OFD1, PACS1, RPL6, SKA1, TNKS2, TPX2, TRMT112, TUBA1A, TUBA4A, TUBB, VPS13C, WDR11, WWC2
+microtubule cytoskeleton: 28 proteins: AURKB, CDK16, DCTN1, DTNBP1, EHD2, EML4, FAM83D, IQCB1, KANK4, KIF18A, KIFAP3, KLHL22, NISCH, NUAK1, OFD1, RELL1, SKA1, TPX2, TUBA1A, TUBA1B, TUBA4A, TUBA8, TUBB, TUBB1, TUBB2A, TUBB3, TUBB8, WDR11
+nucleus: 27 proteins: CRY1, ANKRD54, AURKB, CDK16, CEP57, CHFR, COPS2, DTNBP1, EHD2, KIF11, KIF18A, KLHL22, KNSTRN, NAP1L1, NUAK1, OCRL, OFD1, RPL6, THOC1, TNKS2, TPX2, TTC4, TUBA1A, TUBB, TUBB2A, TUBB3, WDR11
+mitotic cell cycle: 16 proteins: AURKB, DCTN1, EML4, KIF11, OFD1, SKA1, TPX2, TUBA1A, TUBA1B, TUBA4A, TUBA8, TUBB, TUBB1, TUBB2A, TUBB3, TUBB8
+metal ion binding: 14 proteins: DZIP1L, ARHGEF28, CHFR, NUAK1, SYTL5, TNKS2, TUBA1A, TUBA4A, TUBA8, TUBB, TUBB1, TUBB2A, TUBB3, TUBB8
+microtubule: 14 proteins: CEP57, DCTN1, EML4, KIF11, TPX2, TUBA1A, TUBA1B, TUBA4A, TUBA8, TUBB, TUBB1, TUBB2A, TUBB3, TUBB8
+intercellular bridge: 14 proteins: DCTN1, EHD2, FAM83D, IQCB1, KLHL22, KLK6, NISCH, SKA1, TPX2, TUBB, TUBB1, TUBB2A, TUBB3, TUBB8
+mitotic spindle: 14 proteins: DCTN1, EML4, FAM83D, IQCB1, KIF11, KLHL22, KNSTRN, SKA1, TPX2, TUBB, TUBB1, TUBB2A, TUBB3, TUBB8
+plasma membrane: 13 proteins: ARHGEF28, CDK16, DTNBP1, EHD2, KNSTRN, LANCL1, NISCH, OCRL, PLCD1, RELL1, SYTL5, TMEM25, TUBA1A
+cell division: 12 proteins: CHFR, DCTN1, EML4, FAM83D, KIF11, KLHL22, KNSTRN, SKA1, TPX2, TUBA1A, TUBA1B, TUBB
+extracellular exosome: 12 proteins: CREG1, EHD2, IQCB1, PLCD1, TUBA1A, TUBA4A, TUBB, TUBB1, TUBB2A, TUBB3, TUBB8, VPS13C
+membrane: 12 proteins: DCTN1, EML4, ERP29, GYS1, KIF11, NAP1L1, NISCH, OCRL, OFD1, RPL6, VPS45, WDR11
+GTP binding: 11 proteins: EHD2, IFT22, TUBA1A, TUBA1B, TUBA4A, TUBA8, TUBB, TUBB1, TUBB2A, TUBB3, TUBB8
+microtubule cytoskeleton organization: 11 proteins: EML4, KNSTRN, TUBA1A, TUBA1B, TUBA4A, TUBA8, TUBB, TUBB1, TUBB2A, TUBB3, TUBB8
+nucleoplasm: 10 proteins: AURKB, COPS2, IQCB1, KLK6, NISCH, NUAK1, THOC1, TPX2, TRMT112, TTC4
+structural constituent of cytoskeleton: 9 proteins: TUBA1A, TUBA1B, TUBA4A, TUBA8, TUBB, TUBB1, TUBB2A, TUBB3, TUBB8
+protein kinase binding: 7 proteins: CRY1, DCTN1, FAM83D, GYS1, KIF11, TPX2, TUBA4A
+cilium assembly: 7 proteins: DZIP1L, EHD2, IFT22, IQCB1, OCRL, OFD1, WDR11
+ATP binding: 7 proteins: AURKB, CDK16, EHD2, KIF11, KIF18A, NUAK1, SCYL3
+microtubule binding: 7 proteins: CEP57, DCTN1, EML4, FAM83D, KIF11, KIF18A, SKA1
+centrosome: 7 proteins: CEP57, DCTN1, IFT22, IQCB1, KIFAP3, KLHL22, OFD1
+extracellular region: 7 proteins: CREG1, FKBPL, KLK6, OFD1, TMEM25, TUBA4A, TUBB
+intracellular protein transport: 7 proteins: ERP29, FAM91A1, IFT22, SYTL5, TUBA1A, VPS45, WDR11
+GTPase activity: 7 proteins: IFT22, TUBA1B, TUBB, TUBB1, TUBB2A, TUBB3, TUBB8
+Golgi apparatus: 6 proteins: CEP57, KIFAP3, PACS1, SCYL3, VPS45, ZDHHC18
+ciliary basal body: 5 proteins: DZIP1L, DCTN1, KIFAP3, OFD1, WDR11
+protein phosphorylation: 5 proteins: AURKB, CDK16, COPS2, NUAK1, SCYL3
+kinetochore: 5 proteins: AURKB, DCTN1, KIF18A, KNSTRN, SKA1
+spindle: 5 proteins: AURKB, DCTN1, FAM83D, KIF11, TPX2
+signal transduction: 5 proteins: COPS2, FAM83D, KIFAP3, OCRL, THOC1
+identical protein binding: 5 proteins: EHD2, NISCH, OFD1, SCYL3, TUBA1A
+microtubule-based process: 5 proteins: EML4, KIFAP3, TUBA1A, TUBA1B, TUBB
+negative regulation of transcription by RNA polymerase II: 4 proteins: CRY1, AURKB, COPS2, WWC2
+centriole: 4 proteins: DZIP1L, DCTN1, IQCB1, OFD1
+midbody: 4 proteins: ANKRD54, AURKB, DTNBP1, EML4
+RNA binding: 4 proteins: ARHGEF28, NAP1L1, RPL6, THOC1
+spindle microtubule: 4 proteins: AURKB, KIF11, KIFAP3, SKA1
+centriolar satellite: 4 proteins: CEP57, KNSTRN, OFD1, SKA1
+spindle pole: 4 proteins: DCTN1, KIF11, KNSTRN, TPX2
+endoplasmic reticulum membrane: 4 proteins: DTNBP1, SPTLC3, TMT1B, VPS13C
+hydrolase activity: 4 proteins: EHD2, TUBA1A, TUBA4A, TUBA8
+endoplasmic reticulum: 4 proteins: ERP29, KIFAP3, KLK6, ZDHHC18
+cell migration: 4 proteins: FAM83D, KNSTRN, SCYL3, WWC2
+protein-containing complex: 4 proteins: GIGYF1, KIF11, TRMT112, TUBB
+cilium: 4 proteins: IFT22, IQCB1, KIFAP3, OFD1
+cytoskeleton: 4 proteins: KANK4, MYL2, TUBA4A, TUBB
+lysosome: 4 proteins: KLHL22, OCRL, TMEM25, VPS13C
+Golgi membrane: 4 proteins: SCYL3, TNKS2, VPS45, ZDHHC18
+DNA binding: 3 proteins: CRY1, RPL6, THOC1
+axoneme: 3 proteins: DZIP1L, KIFAP3, WDR11
+protein-containing complex binding: 3 proteins: ANKRD54, TUBA1A, TUBB
+protein serine/threonine kinase activity: 3 proteins: AURKB, CDK16, NUAK1
+protein serine kinase activity: 3 proteins: AURKB, CDK16, NUAK1
+ protein phosphorylation: 3 proteins: AURKB, DTNBP1, ERP29
+spindle organization: 3 proteins: AURKB, KIF11, KNSTRN
+neuron projection: 3 proteins: CDK16, DCTN1, DTNBP1
+protein homodimerization activity: 3 proteins: CEP57, ERP29, KNSTRN
+axon: 3 proteins: DCTN1, DTNBP1, TUBB3
+neuronal cell body: 3 proteins: DCTN1, DTNBP1, TUBB3
+endosome membrane: 3 proteins: DTNBP1, EHD2, VPS45
+calcium ion binding: 3 proteins: EHD2, MYL2, PLCD1
+early endosome: 3 proteins: EHD2, NISCH, OCRL
+perinuclear region of cytoplasm: 3 proteins: EHD2, TNKS2, TRMT112
+molecular_function: 3 proteins: EML4, TUBB8, VPS45
+alpha-tubulin binding: 3 proteins: EML4, NISCH, OFD1
+microtubule organizing center: 3 proteins: EML4, KIF18A, KNSTRN
+trans-Golgi network: 3 proteins: FAM91A1, OCRL, WDR11
+heart development: 3 proteins: GYS1, MYL2, WDR11
+photoreceptor outer segment: 3 proteins: IQCB1, KIFAP3, OCRL
+microtubule-based movement: 3 proteins: KIF11, KIF18A, KIFAP3
+mitotic spindle assembly: 3 proteins: KIF11, OFD1, TPX2
+mitotic sister chromatid segregation: 3 proteins: KIF18A, KLHL22, KNSTRN
+apoptotic process: 3 proteins: NISCH, THOC1, TPX2
+cytoplasmic ribonucleoprotein granule: 3 proteins: RPL6, TUBA1A, TUBB
+structural molecule activity: 3 proteins: TUBA1A, TUBA1B, TUBB
+cytoskeleton-dependent intracellular transport: 3 proteins: TUBA1A, TUBA1B, TUBB
+ protein ubiquitination: 2 proteins: CRY1, CHFR
+response to insulin: 2 proteins: CRY1, VPS13C
+negative regulation of DNA-templated transcription: 2 proteins: CRY1, CREG1
+mitochondrion: 2 proteins: CRY1, KLK6
+smoothened signaling pathway: 2 proteins: DZIP1L, TUBA1A
+kinase binding: 2 proteins: AURKB, WWC2
+mitotic spindle organization: 2 proteins: AURKB, KIF11
+cell population proliferation: 2 proteins: AURKB, FAM83D
+attachment of spindle microtubules to kinetochore: 2 proteins: AURKB, EML4
+negative regulation of protein binding: 2 proteins: AURKB, DTNBP1
+ telomere maintenance via telomerase: 2 proteins: AURKB, TNKS2
+negative regulation of innate immune response: 2 proteins: AURKB, ZDHHC18
+ signal transduction by p53 class mediator: 2 proteins: AURKB, NUAK1
+ telomere capping: 2 proteins: AURKB, TNKS2
+mitotic spindle pole: 2 proteins: AURKB, FAM83D
+mitotic spindle midzone: 2 proteins: AURKB, KIF18A
+exocytosis: 2 proteins: CDK16, SYTL5
+neuron projection development: 2 proteins: CDK16, DTNBP1
+synaptic vesicle: 2 proteins: CDK16, VPS45
+gamma-tubulin binding: 2 proteins: CEP57, OFD1
+spermatid development: 2 proteins: CEP57, TUBA8
+ubiquitin protein ligase activity: 2 proteins: CHFR, FBXO30
+protein polyubiquitination: 2 proteins: CHFR, TNKS2
+ubiquitin-dependent protein catabolic process: 2 proteins: CHFR, KLHL22
+protein ubiquitination: 2 proteins: CHFR, FBXO30
+transcription corepressor activity: 2 proteins: COPS2, CREG1
+endocytosis: 2 proteins: CREG1, EHD2
+extracellular space: 2 proteins: CREG1, KLK6
+azurophil granule lumen: 2 proteins: CREG1, TUBB
+nervous system development: 2 proteins: DCTN1, NAP1L1
+ mitotic spindle organization: 2 proteins: DCTN1, TPX2
+motor behavior: 2 proteins: DCTN1, TUBA1A
+nuclear envelope: 2 proteins: DCTN1, TNKS2
+microtubule plus-end: 2 proteins: DCTN1, KNSTRN
+ gene expression: 2 proteins: DTNBP1, ERP29
+ synaptic vesicle exocytosis: 2 proteins: DTNBP1, FBXL20
+postsynaptic density: 2 proteins: DTNBP1, RPL6
+growth cone: 2 proteins: DTNBP1, TUBB3
+Schaffer collateral - CA1 synapse: 2 proteins: DTNBP1, FBXL20
+glutamatergic synapse: 2 proteins: DTNBP1, FBXL20
+protein domain specific binding: 2 proteins: EHD2, TUBB
+protein localization to plasma membrane: 2 proteins: EHD2, PACS1
+caveola: 2 proteins: EHD2, KIF18A
+extrinsic component of membrane: 2 proteins: EHD2, VPS13C
+mitotic metaphase plate congression: 2 proteins: EML4, KIF18A
+protein folding: 2 proteins: ERP29, TTC4
+melanosome: 2 proteins: ERP29, NAP1L1
+kinesin binding: 2 proteins: FAM83D, KIFAP3
+vesicle tethering to Golgi: 2 proteins: FAM91A1, WDR11
+cytoplasmic vesicle: 2 proteins: FAM91A1, WDR11
+zinc ion binding: 2 proteins: FBXO30, LANCL1
+ciliary tip: 2 proteins: IFT22, KIFAP3
+enzyme binding: 2 proteins: IQCB1, TNKS2
+photoreceptor connecting cilium: 2 proteins: IQCB1, KIFAP3
+plus-end-directed microtubule motor activity: 2 proteins: KIF11, KIF18A
+kinesin complex: 2 proteins: KIF11, KIF18A
+microtubule plus-end binding: 2 proteins: KIF18A, KNSTRN
+ruffle: 2 proteins: KIF18A, KNSTRN
+protein localization: 2 proteins: KIFAP3, SCYL3
+intracellular membrane-bounded organelle: 2 proteins: KLHL22, NISCH
+chromosome segregation: 2 proteins: KNSTRN, SKA1
+ cell population proliferation: 2 proteins: NAP1L1, NUAK1
+recycling endosome: 2 proteins: NISCH, TUBA1A
+small GTPase binding: 2 proteins: OCRL, SYTL5
+molecular adaptor activity: 2 proteins: OFD1, WWC2
+GTPase activating protein binding: 2 proteins: PLCD1, TUBB
+ DNA-templated transcription: 2 proteins: RPL6, WWC2
+lamellipodium: 2 proteins: SCYL3, TUBB3
+chromosome, telomeric region: 2 proteins: THOC1, TNKS2
+late endosome: 2 proteins: TMEM25, VPS13C
+lipid droplet: 2 proteins: TMT1B, VPS13C
+multicellular organism growth: 2 proteins: TNKS2, WDR11
+protein heterodimerization activity: 2 proteins: TRMT112, TUBA1A
+innate immune response: 2 proteins: TTC4, ZDHHC18
+cerebral cortex development: 2 proteins: TUBA1A, TUBB2A
+microtubule polymerization: 2 proteins: TUBA1A, TUBB1
+ synapse organization: 2 proteins: TUBA1A, TUBB
+cytoplasmic microtubule: 2 proteins: TUBA1A, TUBA1B
+ubiquitin protein ligase binding: 2 proteins: TUBA1B, TUBB
+spindle assembly: 2 proteins: TUBB, TUBB1
+lysosomal membrane: 2 proteins: VPS13C, WDR11

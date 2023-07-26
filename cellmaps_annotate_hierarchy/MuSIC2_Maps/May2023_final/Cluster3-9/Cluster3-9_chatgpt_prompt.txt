@@ -1,0 +1,119 @@
+Your response should be formatted as Markdown paragraphs
+Write a critical and concise analysis of this human protein system, describing your reasoning as you go and providing references to scientific papers.
+
+A critical goal of the analysis is to determine if this is a novel complex or if any proteins are novel members of a known complex
+
+Format with Title, Summary, and References sections.        
+Avoid overly general statements of how the proteins are involved in various cellular processes        
+Avoid repeating the goals of the analysis.
+
+What cellular components and complexes are involved in this system?
+What mechanisms and biological processes are performed by this system?
+Propose a name for the system to reflect the cellular location and function, and should be specific but brief. Do not compose an acronym. Place it as the title of your report
+Human Proteins: TMCC3, RETREG2, PTRH2, INF2, SEC63, TACC1, P3H4, PAM, ITGB1, DERL2, FNDC3B, SCARA3, PREB, LOXL1, ABLIM1, IRAK1, RHBDD1, CYB5B, BNIP1, RTN3, DDOST, SEC62, CLCC1, ORMDL3, REEP4, EDEM3, CERS2, LRRN2, STT3B, CHMP2A, CDS2, P4HA2, TP53I11, RCN3, SARAF, UFL1, ATL2, SYVN1, COPB2, FKBP7, AMFR, REEP5, C6orf47, LAT2, HSP90B1, GNPTG, CANX, LRPAP1, MXRA7, ELOVL5, CLPTM1, CYP51A1, SELENOS, CLGN, CLPTM1L, PTPN1, FAM234B, DDRGK1, DGAT1, TMX1, HM13, SCARF2, SGPL1, CSGALNACT2, FDFT1, QPCT, ASPH, ATP2A1, BCAP31, CALR, CALU, CHM, CYFIP2, DNAJB11, ESYT1, FKBP8, GCG, GDAP2, IKBIP, KCTD20, KTN1, LRRC59, MOGS, NSDHL, P4HB, PDIA6, RCN1, SLC39A7, SMAP2, SOAT1, STC2, VAPA, VAPB, VIP, ZSCAN21.
+
+System features from GO terms: 
+protein binding: 81 proteins: TMCC3, RETREG2, PTRH2, INF2, SEC63, TACC1, PAM, ITGB1, DERL2, SCARA3, PREB, LOXL1, ABLIM1, IRAK1, RHBDD1, CYB5B, BNIP1, RTN3, DDOST, CLCC1, ORMDL3, REEP4, CERS2, STT3B, CHMP2A, CDS2, RCN3, SARAF, UFL1, ATL2, SYVN1, COPB2, FKBP7, AMFR, REEP5, C6orf47, LAT2, HSP90B1, GNPTG, CANX, LRPAP1, ELOVL5, CLPTM1, SELENOS, CLPTM1L, PTPN1, DDRGK1, DGAT1, TMX1, HM13, SCARF2, SGPL1, CSGALNACT2, FDFT1, QPCT, ASPH, ATP2A1, BCAP31, CALR, CALU, CHM, CYFIP2, DNAJB11, ESYT1, FKBP8, GCG, GDAP2, IKBIP, KTN1, LRRC59, NSDHL, P4HB, PDIA6, RCN1, SLC39A7, SMAP2, SOAT1, VAPA, VAPB, VIP, ZSCAN21
+endoplasmic reticulum: 59 proteins: TMCC3, SEC63, P3H4, DERL2, SCARA3, RHBDD1, BNIP1, RTN3, DDOST, SEC62, CLCC1, ORMDL3, REEP4, EDEM3, CERS2, STT3B, CDS2, P4HA2, RCN3, SARAF, UFL1, ATL2, SYVN1, FKBP7, AMFR, REEP5, HSP90B1, CANX, LRPAP1, MXRA7, ELOVL5, CYP51A1, SELENOS, CLGN, PTPN1, DDRGK1, HM13, SGPL1, FDFT1, ASPH, BCAP31, CALR, CALU, DNAJB11, ESYT1, FKBP8, IKBIP, KTN1, LRRC59, MOGS, NSDHL, P4HB, PDIA6, RCN1, SLC39A7, SOAT1, STC2, VAPA, VAPB
+endoplasmic reticulum membrane: 51 proteins: TMCC3, RETREG2, DERL2, SCARA3, PREB, RHBDD1, BNIP1, RTN3, DDOST, SEC62, CLCC1, ORMDL3, REEP4, CERS2, STT3B, CDS2, SARAF, UFL1, SYVN1, COPB2, AMFR, HSP90B1, CANX, ELOVL5, CYP51A1, SELENOS, CLGN, CLPTM1L, DDRGK1, DGAT1, TMX1, HM13, SGPL1, FDFT1, ASPH, ATP2A1, BCAP31, CALR, CALU, ESYT1, FKBP8, IKBIP, KTN1, LRRC59, MOGS, NSDHL, PDIA6, SLC39A7, SOAT1, VAPA, VAPB
+membrane: 50 proteins: PTRH2, SEC63, TACC1, PAM, ITGB1, DERL2, FNDC3B, PREB, CYB5B, DDOST, SEC62, CLCC1, EDEM3, CERS2, LRRN2, STT3B, CHMP2A, CDS2, TP53I11, UFL1, ATL2, SYVN1, AMFR, HSP90B1, CANX, MXRA7, ELOVL5, CLPTM1, CYP51A1, CLPTM1L, FAM234B, DGAT1, HM13, SCARF2, CSGALNACT2, FDFT1, ATP2A1, BCAP31, CALR, CALU, CYFIP2, DNAJB11, ESYT1, FKBP8, IKBIP, KTN1, LRRC59, MOGS, SLC39A7, SOAT1
+plasma membrane: 22 proteins: PAM, ITGB1, IRAK1, RTN3, DDOST, ORMDL3, CHMP2A, LAT2, LRPAP1, CLPTM1, SELENOS, PTPN1, DGAT1, HM13, ASPH, BCAP31, ESYT1, GCG, KTN1, PDIA6, VAPA, VAPB
+cytosol: 19 proteins: PTRH2, TACC1, IRAK1, CHMP2A, P4HA2, UFL1, COPB2, AMFR, HSP90B1, PTPN1, BCAP31, CALR, CHM, CYFIP2, FKBP8, P4HB, PDIA6, SMAP2, VAPA
+cytoplasm: 16 proteins: TACC1, ITGB1, ABLIM1, IRAK1, BNIP1, UFL1, SYVN1, PTPN1, DDRGK1, CALR, CHM, CYFIP2, KCTD20, LRRC59, SMAP2, VAPB
+endoplasmic reticulum lumen: 15 proteins: EDEM3, P4HA2, RCN3, FKBP7, HSP90B1, CANX, CALR, CALU, DNAJB11, GCG, KTN1, P4HB, PDIA6, RCN1, STC2
+calcium ion binding: 14 proteins: PAM, ITGB1, EDEM3, RCN3, FKBP7, HSP90B1, CANX, CLGN, ASPH, ATP2A1, CALR, CALU, ESYT1, RCN1
+extracellular exosome: 13 proteins: PAM, ITGB1, CHMP2A, LAT2, HSP90B1, GNPTG, CANX, QPCT, CALR, CYFIP2, MOGS, P4HB, PDIA6
+nucleus: 11 proteins: TACC1, PREB, IRAK1, UFL1, AMFR, HSP90B1, CALR, CHM, CYFIP2, DNAJB11, ZSCAN21
+extracellular region: 10 proteins: PAM, LOXL1, HSP90B1, LRPAP1, QPCT, CALR, CALU, GCG, P4HB, VIP
+metal ion binding: 10 proteins: ABLIM1, CYB5B, STT3B, SYVN1, AMFR, CSGALNACT2, FDFT1, FKBP8, SMAP2, ZSCAN21
+Golgi apparatus: 10 proteins: RTN3, AMFR, GNPTG, LRPAP1, FAM234B, CALR, CALU, SLC39A7, STC2, VAPB
+identical protein binding: 9 proteins: TMCC3, PAM, IRAK1, ATL2, AMFR, DGAT1, ESYT1, FKBP8, GCG
+perinuclear region of cytoplasm: 9 proteins: INF2, PAM, ITGB1, AMFR, HSP90B1, CALR, CYFIP2, STC2, VAPA
+RNA binding: 9 proteins: SEC63, FNDC3B, HSP90B1, CANX, PTPN1, CALR, KTN1, LRRC59, P4HB
+ubiquitin-dependent ERAD pathway: 9 proteins: DERL2, STT3B, SYVN1, AMFR, HSP90B1, CANX, SELENOS, CLGN, CALR
+protein-containing complex: 9 proteins: IRAK1, STT3B, UFL1, AMFR, HSP90B1, CANX, PTPN1, FKBP8, P4HB
+protein folding: 9 proteins: HSP90B1, CANX, CLGN, CALR, DNAJB11, FKBP8, MOGS, P4HB, PDIA6
+apoptotic process: 8 proteins: PTRH2, RHBDD1, BNIP1, RTN3, CLPTM1L, BCAP31, CYFIP2, FKBP8
+intracellular membrane-bounded organelle: 8 proteins: P3H4, CYB5B, BNIP1, DDOST, CLCC1, P4HA2, RCN3, LRRC59
+Golgi membrane: 8 proteins: SCARA3, RTN3, CLCC1, COPB2, GNPTG, CSGALNACT2, BCAP31, VAPA
+extracellular space: 8 proteins: LOXL1, RTN3, LRRN2, CALR, DNAJB11, GCG, PDIA6, STC2
+negative regulation of apoptotic process: 8 proteins: RHBDD1, BNIP1, UFL1, HSP90B1, DDRGK1, FKBP8, GCG, VIP
+response to endoplasmic reticulum stress: 8 proteins: UFL1, HSP90B1, DDRGK1, TMX1, ATP2A1, BCAP31, P4HB, PDIA6
+endoplasmic reticulum to Golgi vesicle-mediated transport: 7 proteins: PREB, ATL2, COPB2, BCAP31, P4HB, VAPA, VAPB
+endomembrane system: 6 proteins: TMCC3, LRPAP1, CLPTM1, CLPTM1L, TMX1, FKBP8
+endoplasmic reticulum organization: 6 proteins: RETREG2, BNIP1, ATL2, REEP5, VAPA, VAPB
+cell surface: 6 proteins: PAM, ITGB1, IRAK1, LRPAP1, HM13, CALR
+cadherin binding: 6 proteins: ITGB1, PTPN1, KTN1, LRRC59, VAPA, VAPB
+melanosome: 6 proteins: ITGB1, HSP90B1, CANX, CALU, P4HB, PDIA6
+endoplasmic reticulum unfolded protein response: 6 proteins: DERL2, AMFR, SELENOS, PTPN1, STC2, VAPB
+protein homodimerization activity: 6 proteins: IRAK1, GNPTG, HM13, ATP2A1, STC2, VAPB
+endoplasmic reticulum quality control compartment: 6 proteins: RHBDD1, EDEM3, SYVN1, AMFR, CANX, CALR
+unfolded protein binding: 6 proteins: SYVN1, HSP90B1, CANX, CLGN, CALR, DNAJB11
+signaling receptor activity: 5 proteins: SEC63, SEC62, LRRN2, AMFR, SELENOS
+neuron projection: 5 proteins: PAM, RTN3, UFL1, CYFIP2, VIP
+protein heterodimerization activity: 5 proteins: ITGB1, IRAK1, P4HB, VAPA, VAPB
+focal adhesion: 5 proteins: ITGB1, HSP90B1, SCARF2, CALR, P4HB
+ cell population proliferation: 5 proteins: DERL2, UFL1, DDRGK1, CALR, VIP
+nucleoplasm: 5 proteins: IRAK1, P4HA2, SYVN1, SLC39A7, SMAP2
+protein folding in endoplasmic reticulum: 5 proteins: HSP90B1, CANX, CALR, P4HB, VAPA
+enzyme binding: 5 proteins: SELENOS, PTPN1, P4HB, STC2, VAPB
+mitochondrion: 4 proteins: PTRH2, ATP2A1, BCAP31, FKBP8
+actin binding: 4 proteins: INF2, ITGB1, ABLIM1, P4HB
+zinc ion binding: 4 proteins: PAM, PTPN1, QPCT, CALR
+protein kinase binding: 4 proteins: PAM, IRAK1, UFL1, PTPN1
+external side of plasma membrane: 4 proteins: ITGB1, CLPTM1, CALR, P4HB
+ubiquitin-specific protease binding: 4 proteins: DERL2, SYVN1, AMFR, SELENOS
+retrograde protein transport, ER to cytosol: 4 proteins: DERL2, SYVN1, HSP90B1, SELENOS
+collagen-containing extracellular matrix: 4 proteins: LOXL1, HSP90B1, MXRA7, CALR
+nuclear envelope: 4 proteins: BNIP1, CHMP2A, CALR, LRRC59
+sphingolipid biosynthetic process: 4 proteins: ORMDL3, CERS2, ELOVL5, SGPL1
+protein transport: 4 proteins: CHMP2A, RCN3, HSP90B1, KTN1
+Derlin-1 retrotranslocation complex: 4 proteins: SYVN1, AMFR, SELENOS, HM13
+endoplasmic reticulum chaperone complex: 4 proteins: HSP90B1, DNAJB11, P4HB, PDIA6
+lumenal side of endoplasmic reticulum membrane: 4 proteins: CANX, HM13, BCAP31, CALR
+spermatogenesis: 4 proteins: SGPL1, BCAP31, CALR, ZSCAN21
+intracellular calcium ion homeostasis: 4 proteins: ATP2A1, CALR, STC2, VAPB
+reticulophagy: 3 proteins: RETREG2, UFL1, DDRGK1
+negative regulation of gene expression: 3 proteins: PTRH2, DDRGK1, STC2
+small GTPase binding: 3 proteins: INF2, CHM, CYFIP2
+ DNA-templated transcription: 3 proteins: TACC1, CALR, ZSCAN21
+midbody: 3 proteins: TACC1, CHMP2A, HSP90B1
+ transcription by RNA polymerase II: 3 proteins: PAM, DDRGK1, ZSCAN21
+integrin binding: 3 proteins: ITGB1, CALR, P4HB
+protein-containing complex binding: 3 proteins: ITGB1, DERL2, BCAP31
+in utero embryonic development: 3 proteins: ITGB1, HM13, RCN1
+lamellipodium: 3 proteins: ITGB1, ABLIM1, P4HB
+response to oxidative stress: 3 proteins: SCARA3, CYB5B, STC2
+DNA binding: 3 proteins: PREB, CERS2, CALR
+GTPase activator activity: 3 proteins: PREB, CHM, SMAP2
+protein secretion: 3 proteins: PREB, RCN3, CANX
+endoplasmic reticulum exit site: 3 proteins: PREB, VAPA, VAPB
+ATP binding: 3 proteins: IRAK1, HSP90B1, ATP2A1
+intracellular signal transduction: 3 proteins: IRAK1, LAT2, FKBP8
+ I-kappaB kinase/NF-kappaB signaling: 3 proteins: IRAK1, UFL1, VAPA
+cellular response to hypoxia: 3 proteins: IRAK1, P4HB, STC2
+lipid droplet: 3 proteins: IRAK1, BCAP31, NSDHL
+ERAD pathway: 3 proteins: RHBDD1, RCN3, SYVN1
+mitochondrial membrane: 3 proteins: RHBDD1, BNIP1, FKBP8
+heme binding: 3 proteins: CYB5B, CYP51A1, STC2
+protein N-linked glycosylation: 3 proteins: DDOST, STT3B, MOGS
+ protein stability: 3 proteins: DDOST, DDRGK1, ASPH
+rough endoplasmic reticulum: 3 proteins: SEC62, CANX, HM13
+nuclear membrane: 3 proteins: CLCC1, CANX, VAPA
+mitochondria-associated endoplasmic reticulum membrane: 3 proteins: CLCC1, CANX, BCAP31
+microtubule binding: 3 proteins: REEP4, VAPA, VAPB
+endoplasmic reticulum mannose trimming: 3 proteins: EDEM3, SYVN1, AMFR
+signal transduction: 3 proteins: LRRN2, AMFR, LRPAP1
+iron ion binding: 3 proteins: P4HA2, CYP51A1, CALR
+protein-folding chaperone binding: 3 proteins: SYVN1, AMFR, CALR
+negative regulation of endoplasmic reticulum stress-induced intrinsic apoptotic signaling pathway: 3 proteins: SYVN1, SELENOS, PTPN1
+smooth endoplasmic reticulum: 3 proteins: SYVN1, CANX, CALR
+neuronal cell body: 3 proteins: AMFR, CANX, ELOVL5
+sarcoplasmic reticulum membrane: 3 proteins: REEP5, ASPH, ATP2A1
+sarcoplasmic reticulum lumen: 3 proteins: HSP90B1, CALR, CALU
+signaling receptor binding: 3 proteins: LRPAP1, DNAJB11, GCG
+endoplasmic reticulum-Golgi intermediate compartment: 3 proteins: LRPAP1, P4HB, PDIA6
+cholesterol biosynthetic process: 3 proteins: CYP51A1, FDFT1, NSDHL
+protein folding chaperone: 3 proteins: CLGN, CALR, FKBP8
+ gene expression: 3 proteins: DDRGK1, CALR, FKBP8
+hormone activity: 3 proteins: GCG, STC2, VIP

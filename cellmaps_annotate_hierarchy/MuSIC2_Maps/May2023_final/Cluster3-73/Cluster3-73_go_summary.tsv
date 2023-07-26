@@ -1,0 +1,59 @@
+Feature	Number of Genes	Genes
+protein binding	4	ENY2, ATXN7, SF3B5, TADA3
+ DNA repair	4	ENY2, ATXN7, SF3B5, TADA3
+monoubiquitinated histone deubiquitination	4	ENY2, ATXN7, SF3B5, TADA3
+monoubiquitinated histone H2A deubiquitination	4	ENY2, ATXN7, SF3B5, TADA3
+ RNA splicing	4	ENY2, ATXN7, SF3B5, TADA3
+histone H3 acetylation	4	ENY2, ATXN7, SF3B5, TADA3
+ DNA-templated transcription	4	ENY2, ATXN7, SF3B5, TADA3
+SAGA complex	4	ENY2, ATXN7, SF3B5, TADA3
+nucleoplasm	4	ENY2, ATXN7, SF3B5, TADA3
+ transcription by RNA polymerase II	3	ENY2, ATXN7, TADA3
+transcription factor TFTC complex	3	ENY2, ATXN7, TADA3
+nucleus	3	ATXN7, SF3B5, TADA3
+transcription coactivator activity	2	ENY2, TADA3
+nuclear receptor coactivator activity	2	ENY2, TADA3
+chromatin organization	2	ENY2, TADA3
+chromatin binding	1	ENY2
+transcription elongation by RNA polymerase II	1	ENY2
+protein transport	1	ENY2
+histone deubiquitination	1	ENY2
+poly(A)+ mRNA export from nucleus	1	ENY2
+mitochondrion	1	ENY2
+nuclear pore nuclear basket	1	ENY2
+transcription export complex 2	1	ENY2
+DUBm complex	1	ENY2
+microtubule cytoskeleton organization	1	ATXN7
+nucleus organization	1	ATXN7
+negative regulation of microtubule depolymerization	1	ATXN7
+visual perception	1	ATXN7
+nucleolus	1	ATXN7
+cytosol	1	ATXN7
+microtubule cytoskeleton	1	ATXN7
+nuclear matrix	1	ATXN7
+RNA binding	1	SF3B5
+splicing factor binding	1	SF3B5
+mRNA splicing, via spliceosome	1	SF3B5
+U2-type prespliceosome assembly	1	SF3B5
+spliceosomal complex	1	SF3B5
+U2-type spliceosomal complex	1	SF3B5
+U2 snRNP	1	SF3B5
+U12-type spliceosomal complex	1	SF3B5
+U2-type precatalytic spliceosome	1	SF3B5
+precatalytic spliceosome	1	SF3B5
+nuclear receptor binding	1	TADA3
+protein domain specific binding	1	TADA3
+mitotic cell cycle	1	TADA3
+ protein phosphorylation	1	TADA3
+ gene expression	1	TADA3
+histone acetylation	1	TADA3
+intracellular estrogen receptor signaling pathway	1	TADA3
+ histone deacetylation	1	TADA3
+ protein stability	1	TADA3
+histone H3-K14 acetylation	1	TADA3
+ embryonic development	1	TADA3
+ cell division	1	TADA3
+ cell cycle	1	TADA3
+ tubulin deacetylation	1	TADA3
+mitotic spindle	1	TADA3
+ATAC complex	1	TADA3

@@ -1,0 +1,17 @@
+Title: Mitochondrial Large Ribosomal Subunit and Associated Proteins
+
+Summary:
+The system of proteins analyzed in this report is primarily involved in the mitochondrial large ribosomal subunit and its associated processes. The majority of the proteins are localized to the mitochondrion and mitochondrial inner membrane, with a significant number involved in mitochondrial translation and RNA binding. The system appears to be involved in various cellular processes, including translation, ribosome assembly, and protein targeting to the mitochondrion. The proposed name for this system is "Mitochondrial Large Ribosomal Subunit and Associated Proteins."
+
+Cellular Components and Complexes:
+The main cellular components and complexes involved in this system are the mitochondrial large ribosomal subunit, mitochondrial inner membrane, and mitochondrial matrix. Several proteins are also found in the nucleoplasm, cytosol, plasma membrane, and extracellular space.
+
+Mechanisms and Biological Processes:
+The primary biological processes performed by this system are mitochondrial translation, ribosome assembly, and protein targeting to the mitochondrion. Other processes include metal ion binding, GTPase activity, magnesium ion homeostasis, and positive regulation of interleukin-12 production.
+
+References:
+1. Greber, B. J., & Ban, N. (2016). Structure and function of the mitochondrial ribosome. Annual Review of Biochemistry, 85, 103-132. [PubMed](https://pubmed.ncbi.nlm.nih.gov/27023846/)
+2. Koc, E. C., & Koc, H. (2012). Regulation of mammalian mitochondrial translation by post-translational modifications. Biochimica et Biophysica Acta (BBA) - Gene Regulatory Mechanisms, 1819(9-10), 1055-1066. [PubMed](https://pubmed.ncbi.nlm.nih.gov/22366165/)
+3. Ott, M., Amunts, A., & Brown, A. (2016). Organization and regulation of mitochondrial protein synthesis. Annual Review of Biochemistry, 85, 77-101. [PubMed](https://pubmed.ncbi.nlm.nih.gov/27023845/)
+4. Richter, R., Rorbach, J., & Pajak, A. (2010). A functional peptidyl-tRNA hydrolase, ICT1, has been recruited into the human mitochondrial ribosome. The EMBO Journal, 29(6), 1116-1125. [PubMed](https://pubmed.ncbi.nlm.nih.gov/20150899/)
+5. Sharma, M. R., Koc, E. C., Datta, P. P., Booth, T. M., Spremulli, L. L., & Agrawal, R. K. (2003). Structure of the mammalian mitochondrial ribosome reveals an expanded functional role for its component proteins. Cell, 115(1), 97-108. [PubMed](https://pubmed.ncbi.nlm.nih.gov/14532004/)

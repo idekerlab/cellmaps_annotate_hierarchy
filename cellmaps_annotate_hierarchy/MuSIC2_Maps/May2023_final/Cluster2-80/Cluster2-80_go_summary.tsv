@@ -1,0 +1,38 @@
+Feature	Number of Genes	Genes
+protein binding	3	LYRM2, CNNM3, IREB2
+mitochondrion	2	LYRM2, IREB2
+cytosol	2	IREB2, SCLT1
+mitochondrial respiratory chain complex I assembly	1	LYRM2
+transmembrane transporter activity	1	CNNM3
+transport	1	CNNM3
+monoatomic ion transport	1	CNNM3
+magnesium ion homeostasis	1	CNNM3
+transmembrane transport	1	CNNM3
+plasma membrane	1	CNNM3
+membrane	1	CNNM3
+RNA binding	1	IREB2
+aconitate hydratase activity	1	IREB2
+iron-responsive element binding	1	IREB2
+metal ion binding	1	IREB2
+4 iron, 4 sulfur cluster binding	1	IREB2
+tricarboxylic acid cycle	1	IREB2
+citrate metabolic process	1	IREB2
+ translation	1	IREB2
+protoporphyrinogen IX biosynthetic process	1	IREB2
+intracellular iron ion homeostasis	1	IREB2
+post-embryonic development	1	IREB2
+osteoclast differentiation	1	IREB2
+erythrocyte homeostasis	1	IREB2
+mRNA stabilization	1	IREB2
+intestinal absorption	1	IREB2
+establishment of localization in cell	1	IREB2
+multicellular organismal-level iron ion homeostasis	1	IREB2
+cytoplasm	1	IREB2
+sodium channel regulator activity	1	SCLT1
+clathrin binding	1	SCLT1
+clustering of voltage-gated sodium channels	1	SCLT1
+cilium assembly	1	SCLT1
+centrosome	1	SCLT1
+centriole	1	SCLT1
+clathrin complex	1	SCLT1
+ciliary transition fiber	1	SCLT1

@@ -1,0 +1,57 @@
+Feature	Number of Genes	Genes
+protein binding	4	USP28, ARMCX3, EIF2AK1, INIP
+nucleus	3	USP28, ARMCX3, INIP
+DNA repair	2	USP28, INIP
+DNA damage response	2	USP28, INIP
+response to ionizing radiation	2	USP28, INIP
+nucleoplasm	2	USP28, INIP
+cytosol	2	USP28, ARMCX3
+cysteine-type endopeptidase activity	1	USP28
+cysteine-type deubiquitinase activity	1	USP28
+deubiquitinase activity	1	USP28
+DNA damage checkpoint signaling	1	USP28
+cell population proliferation	1	USP28
+protein deubiquitination	1	USP28
+ protein stability	1	USP28
+cellular response to UV	1	USP28
+intrinsic apoptotic signaling pathway in response to DNA damage by p53 class mediator	1	USP28
+protein deubiquitination involved in ubiquitin-dependent protein catabolic process	1	USP28
+nuclear body	1	USP28
+protein-containing complex	1	USP28
+mitochondrion organization	1	ARMCX3
+protein localization	1	ARMCX3
+axonal transport of mitochondrion	1	ARMCX3
+ transcription by RNA polymerase II	1	ARMCX3
+mitochondrion	1	ARMCX3
+mitochondrial outer membrane	1	ARMCX3
+axon cytoplasm	1	ARMCX3
+protein kinase activity	1	EIF2AK1
+eukaryotic translation initiation factor 2alpha kinase activity	1	EIF2AK1
+ATP binding	1	EIF2AK1
+heme binding	1	EIF2AK1
+protein homodimerization activity	1	EIF2AK1
+protein serine kinase activity	1	EIF2AK1
+acute inflammatory response	1	EIF2AK1
+phagocytosis	1	EIF2AK1
+negative regulation of cell population proliferation	1	EIF2AK1
+ translational initiation by eIF2 alpha phosphorylation	1	EIF2AK1
+ eIF2 alpha phosphorylation by heme	1	EIF2AK1
+macrophage differentiation	1	EIF2AK1
+negative regulation of translational initiation by iron	1	EIF2AK1
+protoporphyrinogen IX metabolic process	1	EIF2AK1
+protein autophosphorylation	1	EIF2AK1
+negative regulation of hemoglobin biosynthetic process	1	EIF2AK1
+establishment of localization in cell	1	EIF2AK1
+multicellular organismal-level iron ion homeostasis	1	EIF2AK1
+integrated stress response signaling	1	EIF2AK1
+HRI-mediated signaling	1	EIF2AK1
+response to iron ion starvation	1	EIF2AK1
+cytoplasm	1	EIF2AK1
+double-strand break repair via homologous recombination	1	INIP
+mitotic G2/M transition checkpoint	1	INIP
+site of double-strand break	1	INIP
+SOSS complex	1	INIP
+carbohydrate metabolic process	1	SPATA20
+spermatogenesis	1	SPATA20
+cell differentiation	1	SPATA20
+extracellular region	1	SPATA20

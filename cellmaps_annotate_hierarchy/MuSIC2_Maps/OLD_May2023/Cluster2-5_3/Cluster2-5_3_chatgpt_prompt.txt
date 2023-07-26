@@ -1,0 +1,44 @@
+Write a critical and concise analysis of this system, describing your reasoning as you go and providing references to scientific papers. Format the page with Title, Summary, and References sections.
+What cellular components and complexes are involved in this system?
+What mechanisms and biological processes are performed by this system?
+Propose a name for the system to reflect the function and location, and should be specific but brief. Do not compose an acronym. Place it as the title of your report
+Provide complete paper references with pubmed link
+Proteins: USP46, GATD3, PGP, LAP3, PITPNA, AMDHD2, ARHGAP1, PIK3CD, SLK, NAA50, HS1BP3, UAP1L1, CNN2, PPM1B, CLTCL1, TRMT5, MANF, AK1, TEX264, SORD, NDRG1, MVK, AZU1, OTUB1.
+
+A critical goal of the analysis is to determine if this is a novel complex or if any proteins are novel members of a known complex
+System features from GO terms: 
+protein binding: 17 proteins: AZU1, TEX264, USP46, PIK3CD, PPM1B, MVK, AMDHD2, NDRG1, OTUB1, SLK, HS1BP3, ARHGAP1, MANF, NAA50, PITPNA, LAP3, CLTCL1
+cytosol: 16 proteins: TEX264, USP46, PIK3CD, PPM1B, MVK, AMDHD2, NDRG1, AK1, OTUB1, SORD, SLK, ARHGAP1, MANF, NAA50, PITPNA, CLTCL1
+extracellular exosome: 11 proteins: AZU1, NDRG1, AK1, OTUB1, SORD, SLK, ARHGAP1, NAA50, PITPNA, LAP3, CLTCL1
+nucleus: 11 proteins: TEX264, USP46, PPM1B, AMDHD2, NDRG1, OTUB1, MANF, NAA50, PITPNA, LAP3, TRMT5
+cytoplasm: 10 proteins: PIK3CD, NDRG1, AK1, SLK, ARHGAP1, PGP, NAA50, PITPNA, LAP3, TRMT5
+extracellular region: 4 proteins: AZU1, CNN2, TEX264, MANF
+cadherin binding: 4 proteins: CNN2, NDRG1, SLK, ARHGAP1
+membrane: 4 proteins: CNN2, PPM1B, SORD, CLTCL1
+ATP binding: 4 proteins: PIK3CD, MVK, AK1, SLK
+perinuclear region of cytoplasm: 4 proteins: NDRG1, SLK, ARHGAP1, MANF
+positive regulation of gene expression: 3 proteins: AZU1, CNN2, PIK3CD
+extracellular space: 3 proteins: AZU1, SORD, MANF
+endoplasmic reticulum: 3 proteins: TEX264, HS1BP3, MANF
+signal transduction: 3 proteins: PIK3CD, NDRG1, MANF
+phosphorylation: 3 proteins: PIK3CD, MVK, AK1
+plasma membrane: 3 proteins: PIK3CD, NDRG1, CLTCL1
+magnesium ion binding: 3 proteins: PPM1B, MVK, PGP
+identical protein binding: 3 proteins: MVK, SORD, SLK
+peptidase activity: 2 proteins: AZU1, LAP3
+proteolysis: 2 proteins: AZU1, LAP3
+inflammatory response: 2 proteins: AZU1, PIK3CD
+intracellular membrane-bounded organelle: 2 proteins: AZU1, MVK
+UDP-N-acetylglucosamine biosynthetic process: 2 proteins: UAP1L1, AMDHD2
+focal adhesion: 2 proteins: CNN2, LAP3
+cysteine-type deubiquitinase activity: 2 proteins: USP46, OTUB1
+metal ion binding: 2 proteins: USP46, AMDHD2
+adaptive immune response: 2 proteins: PIK3CD, OTUB1
+protein phosphorylation: 2 proteins: PIK3CD, SLK
+manganese ion binding: 2 proteins: PPM1B, LAP3
+nucleolus: 2 proteins: PPM1B, NAA50
+small GTPase binding: 2 proteins: NDRG1, ARHGAP1
+regulation of apoptotic process: 2 proteins: SLK, HS1BP3
+phosphatidylinositol binding: 2 proteins: HS1BP3, PITPNA
+mitochondrion: 2 proteins: HS1BP3, GATD3
+sorting endosome: 2 proteins: ARHGAP1, CLTCL1

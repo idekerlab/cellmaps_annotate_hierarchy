@@ -1,0 +1,71 @@
+Write a critical and concise analysis of this system, describing your reasoning as you go and providing references to scientific papers. Format the page with Title, Summary, and References sections.
+What cellular components and complexes are involved in this system?
+What mechanisms and biological processes are performed by this system?
+Propose a name for the system to reflect the function and location, and should be specific but brief. Do not compose an acronym. Place it as the title of your report
+Provide complete paper references with pubmed link
+Proteins: C1GALT1C1, CD68, NUCB2, GGA1, UBQLN4, RLIG1, AKR1A1, OSBPL11, SEC23IP, RAB5C, TGFBRAP1, QNG1, IRGQ, PEX13, SNX1, PDCD6IP, PPP5C, UBQLN1, CRYZ, RFK, PFAS, FAM114A1, PSAP, TMEM231, PICALM, CCDC25, SNX5, CD99, BROX, SPG21, TPK1, WDTC1, AGFG1, RAB1B.
+
+A critical goal of the analysis is to determine if this is a novel complex or if any proteins are novel members of a known complex
+System features from GO terms: 
+protein binding: 31 proteins: RAB5C, SNX1, WDTC1, CCDC25, SEC23IP, UBQLN4, AGFG1, RAB1B, RFK, FAM114A1, CD99, TGFBRAP1, OSBPL11, PDCD6IP, UBQLN1, PEX13, PPP5C, BROX, TPK1, AKR1A1, TMEM231, QNG1, PSAP, IRGQ, GGA1, PICALM, C1GALT1C1, SPG21, SNX5, NUCB2, CD68
+cytosol: 22 proteins: SNX1, WDTC1, SEC23IP, UBQLN4, AGFG1, RAB1B, RFK, FAM114A1, OSBPL11, PDCD6IP, UBQLN1, PEX13, PPP5C, CRYZ, TPK1, AKR1A1, GGA1, PICALM, SPG21, SNX5, NUCB2, PFAS
+intracellular membrane-bounded organelle: 11 proteins: SNX1, SEC23IP, AGFG1, TGFBRAP1, OSBPL11, PPP5C, PSAP, GGA1, PICALM, SPG21, SNX5
+extracellular exosome: 10 proteins: RAB5C, RAB1B, PDCD6IP, CRYZ, BROX, AKR1A1, PSAP, C1GALT1C1, NUCB2, PFAS
+cytoplasm: 10 proteins: SNX1, WDTC1, SEC23IP, UBQLN4, AGFG1, RFK, CD99, TGFBRAP1, UBQLN1, PFAS
+plasma membrane: 9 proteins: RAB5C, CCDC25, CD99, UBQLN1, PPP5C, PSAP, PICALM, NUCB2, CD68
+Golgi apparatus: 9 proteins: SNX1, SEC23IP, RAB1B, FAM114A1, OSBPL11, GGA1, PICALM, SPG21, NUCB2
+membrane: 8 proteins: SNX1, TGFBRAP1, OSBPL11, PDCD6IP, PEX13, GGA1, PICALM, CD68
+intracellular protein transport: 7 proteins: RAB5C, SNX1, SEC23IP, RAB1B, TGFBRAP1, GGA1, SNX5
+nucleoplasm: 7 proteins: WDTC1, UBQLN4, FAM114A1, OSBPL11, UBQLN1, PPP5C, GGA1
+identical protein binding: 6 proteins: SNX1, UBQLN4, UBQLN1, PPP5C, CRYZ, TPK1
+protein-containing complex: 5 proteins: SNX1, UBQLN4, UBQLN1, PPP5C, GGA1
+metal ion binding: 5 proteins: SEC23IP, AGFG1, RFK, PPP5C, PFAS
+perinuclear region of cytoplasm: 5 proteins: UBQLN4, RAB1B, UBQLN1, PICALM, SNX5
+endosome: 4 proteins: RAB5C, SNX1, PDCD6IP, SNX5
+endosome membrane: 4 proteins: SNX1, GGA1, SPG21, CD68
+ATP binding: 4 proteins: RFK, PPP5C, TPK1, PFAS
+GTP binding: 3 proteins: RAB5C, RAB1B, IRGQ
+endomembrane system: 3 proteins: RAB5C, CCDC25, RAB1B
+early endosome membrane: 3 proteins: RAB5C, SNX1, GGA1
+azurophil granule membrane: 3 proteins: RAB5C, PSAP, CD68
+phosphatidylinositol binding: 3 proteins: SNX1, GGA1, SNX5
+protein homodimerization activity: 3 proteins: SNX1, PDCD6IP, PSAP
+cadherin binding: 3 proteins: SNX1, PICALM, SNX5
+retrograde transport, endosome to Golgi: 3 proteins: SNX1, GGA1, SNX5
+lysosome: 3 proteins: SNX1, PSAP, CD68
+DNA binding: 3 proteins: CCDC25, AGFG1, NUCB2
+RNA binding: 3 proteins: SEC23IP, AGFG1, PPP5C
+endoplasmic reticulum: 3 proteins: SEC23IP, UBQLN1, NUCB2
+nucleus: 3 proteins: UBQLN4, PPP5C, PICALM
+cytoplasmic vesicle: 3 proteins: UBQLN4, AGFG1, UBQLN1
+early endosome: 3 proteins: TGFBRAP1, GGA1, PICALM
+extracellular space: 3 proteins: AKR1A1, PSAP, NUCB2
+GTPase activity: 2 proteins: RAB5C, RAB1B
+G protein activity: 2 proteins: RAB5C, RAB1B
+lysosomal membrane: 2 proteins: RAB5C, PSAP
+melanosome: 2 proteins: RAB5C, PDCD6IP
+receptor internalization: 2 proteins: SNX1, PICALM
+positive regulation of protein catabolic process: 2 proteins: SNX1, GGA1
+retromer complex: 2 proteins: SNX1, SNX5
+retromer, tubulation complex: 2 proteins: SNX1, SNX5
+vesicle: 2 proteins: SNX1, PICALM
+in utero embryonic development: 2 proteins: WDTC1, TMEM231
+endoplasmic reticulum to Golgi vesicle-mediated transport: 2 proteins: SEC23IP, RAB1B
+Golgi organization: 2 proteins: SEC23IP, RAB1B
+endoplasmic reticulum-Golgi intermediate compartment: 2 proteins: SEC23IP, NUCB2
+polyubiquitin modification-dependent protein binding: 2 proteins: UBQLN4, UBQLN1
+autophagy: 2 proteins: UBQLN4, TGFBRAP1
+autophagosome: 2 proteins: UBQLN4, UBQLN1
+endoplasmic reticulum membrane: 2 proteins: UBQLN4, RAB1B
+autophagosome assembly: 2 proteins: RAB1B, UBQLN1
+Golgi membrane: 2 proteins: RAB1B, C1GALT1C1
+apoptotic process: 2 proteins: RFK, PDCD6IP
+phosphorylation: 2 proteins: RFK, TPK1
+focal adhesion: 2 proteins: CD99, PDCD6IP
+regulation of macroautophagy: 2 proteins: UBQLN1, SNX5
+tau protein binding: 2 proteins: PPP5C, PICALM
+nuclear envelope: 2 proteins: BROX, NUCB2
+regulation of protein localization: 2 proteins: TMEM231, PICALM
+molecular_function: 2 proteins: QNG1, GGA1
+small GTPase binding: 2 proteins: GGA1, PICALM
+positive regulation of DNA-templated transcription: 2 proteins: PICALM, SNX5

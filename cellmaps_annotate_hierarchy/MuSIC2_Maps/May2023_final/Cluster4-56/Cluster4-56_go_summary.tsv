@@ -1,0 +1,65 @@
+Feature	Number of Genes	Genes
+protein binding	4	TTC39B, PRKAR1A, TACC1, AKAP11
+cytoplasm	3	PRKAR1A, TACC1, AKAP11
+cytosol	3	PRKAR1A, TACC1, AKAP11
+intracellular signal transduction	2	PRKAR1A, AKAP11
+membrane	2	PRKAR1A, TACC1
+microtubule organizing center	2	TACC1, AKAP11
+lipid metabolic process	1	TTC39B
+ cholesterol efflux	1	TTC39B
+negative regulation of cholesterol storage	1	TTC39B
+cholesterol homeostasis	1	TTC39B
+ cholesterol metabolic process	1	TTC39B
+cAMP-dependent protein kinase inhibitor activity	1	PRKAR1A
+cAMP-dependent protein kinase regulator activity	1	PRKAR1A
+protein domain specific binding	1	PRKAR1A
+cAMP binding	1	PRKAR1A
+ubiquitin protein ligase binding	1	PRKAR1A
+protein kinase A catalytic subunit binding	1	PRKAR1A
+mesoderm formation	1	PRKAR1A
+ transcription by RNA polymerase II	1	PRKAR1A
+adenylate cyclase-activating G protein-coupled receptor signaling pathway	1	PRKAR1A
+negative regulation of gene expression	1	PRKAR1A
+ insulin secretion	1	PRKAR1A
+sarcomere organization	1	PRKAR1A
+negative regulation of activated T cell proliferation	1	PRKAR1A
+cardiac muscle cell proliferation	1	PRKAR1A
+cellular response to glucagon stimulus	1	PRKAR1A
+negative regulation of cAMP-dependent protein kinase activity	1	PRKAR1A
+immunological synapse	1	PRKAR1A
+multivesicular body	1	PRKAR1A
+centrosome	1	PRKAR1A
+axoneme	1	PRKAR1A
+cAMP-dependent protein kinase complex	1	PRKAR1A
+nucleotide-activated protein kinase complex	1	PRKAR1A
+neuromuscular junction	1	PRKAR1A
+protein-containing complex	1	PRKAR1A
+plasma membrane raft	1	PRKAR1A
+sperm connecting piece	1	PRKAR1A
+ciliary base	1	PRKAR1A
+glutamatergic synapse	1	PRKAR1A
+nuclear receptor binding	1	TACC1
+nuclear estrogen receptor binding	1	TACC1
+nuclear receptor coactivator activity	1	TACC1
+nuclear glucocorticoid receptor binding	1	TACC1
+nuclear retinoic acid receptor binding	1	TACC1
+peroxisome proliferator activated receptor binding	1	TACC1
+nuclear retinoid X receptor binding	1	TACC1
+nuclear thyroid hormone receptor binding	1	TACC1
+microtubule cytoskeleton organization	1	TACC1
+mitotic spindle organization	1	TACC1
+cell population proliferation	1	TACC1
+cerebral cortex development	1	TACC1
+ DNA-templated transcription	1	TACC1
+cell division	1	TACC1
+nucleus	1	TACC1
+midbody	1	TACC1
+protein phosphatase 1 binding	1	AKAP11
+protein kinase A regulatory subunit binding	1	AKAP11
+protein kinase A binding	1	AKAP11
+renal water homeostasis	1	AKAP11
+protein localization	1	AKAP11
+cortical actin cytoskeleton organization	1	AKAP11
+protein localization to endosome	1	AKAP11
+nucleolus	1	AKAP11
+plasma membrane	1	AKAP11

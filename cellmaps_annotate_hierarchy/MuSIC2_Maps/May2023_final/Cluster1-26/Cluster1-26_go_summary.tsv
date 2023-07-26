@@ -1,0 +1,36 @@
+Feature	Number of Genes	Genes
+protein binding	3	KSR1, MIS18A, MIS18BP1
+nucleus	2	DTWD1, MIS18A
+metal ion binding	2	KSR1, MIS18A
+cytosol	2	KSR1, MIS18A
+cell division	2	MIS18A, MIS18BP1
+chromosome, centromeric region	2	MIS18A, MIS18BP1
+nucleoplasm	2	MIS18A, MIS18BP1
+tRNA-uridine aminocarboxypropyltransferase activity	1	DTWD1
+tRNA modification	1	DTWD1
+protein kinase activity	1	KSR1
+protein serine/threonine kinase activity	1	KSR1
+MAP-kinase scaffold activity	1	KSR1
+ATP binding	1	KSR1
+14-3-3 protein binding	1	KSR1
+protein serine kinase activity	1	KSR1
+protein phosphorylation	1	KSR1
+Ras protein signal transduction	1	KSR1
+cAMP-mediated signaling	1	KSR1
+ cell population proliferation	1	KSR1
+ MAP kinase activity	1	KSR1
+ MAPK cascade	1	KSR1
+cytoplasm	1	KSR1
+endoplasmic reticulum	1	KSR1
+endoplasmic reticulum membrane	1	KSR1
+membrane	1	KSR1
+ruffle membrane	1	KSR1
+protein-containing complex	1	KSR1
+intracellular membrane-bounded organelle	1	KSR1
+identical protein binding	1	MIS18A
+chromosome segregation	1	MIS18A
+CENP-A containing chromatin assembly	1	MIS18A
+ DNA methylation	1	MIS18A
+chromatin	1	MIS18A
+DNA binding	1	MIS18BP1
+cell cycle	1	MIS18BP1

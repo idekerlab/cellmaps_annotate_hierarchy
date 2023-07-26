@@ -1,0 +1,42 @@
+Your response should be formatted as Markdown paragraphs
+Write a critical and concise analysis of this human protein system, describing your reasoning as you go and providing references to scientific papers.
+
+A critical goal of the analysis is to determine if this is a novel complex or if any proteins are novel members of a known complex
+
+Format with Title, Summary, and References sections.        
+Avoid overly general statements of how the proteins are involved in various cellular processes        
+Avoid repeating the goals of the analysis.
+
+What cellular components and complexes are involved in this system?
+What mechanisms and biological processes are performed by this system?
+Propose a name for the system to reflect the cellular location and function, and should be specific but brief. Do not compose an acronym. Place it as the title of your report
+Human Proteins: ATAD5, CHTF18, DSCC1, RAD17, RAD9A, RFC1, RFC2, RFC3, RFC4, RFC5.
+
+System features from GO terms: 
+protein binding: 10 proteins: ATAD5, CHTF18, DSCC1, RAD17, RAD9A, RFC1, RFC2, RFC3, RFC4, RFC5
+nucleus: 9 proteins: ATAD5, CHTF18, RAD17, RAD9A, RFC1, RFC2, RFC3, RFC4, RFC5
+nucleoplasm: 9 proteins: CHTF18, DSCC1, RAD17, RAD9A, RFC1, RFC2, RFC3, RFC4, RFC5
+DNA binding: 8 proteins: ATAD5, CHTF18, DSCC1, RFC1, RFC2, RFC3, RFC4, RFC5
+DNA clamp loader activity: 8 proteins: CHTF18, DSCC1, RAD17, RFC1, RFC2, RFC3, RFC4, RFC5
+ATP binding: 7 proteins: ATAD5, CHTF18, RAD17, RFC1, RFC2, RFC4, RFC5
+DNA repair: 7 proteins: RAD17, RAD9A, RFC1, RFC2, RFC3, RFC4, RFC5
+ATP hydrolysis activity: 6 proteins: ATAD5, CHTF18, RFC1, RFC2, RFC4, RFC5
+single-stranded DNA helicase activity: 6 proteins: CHTF18, DSCC1, RFC2, RFC3, RFC4, RFC5
+DNA duplex unwinding: 6 proteins: CHTF18, DSCC1, RFC2, RFC3, RFC4, RFC5
+ DNA-directed DNA polymerase activity: 6 proteins: CHTF18, DSCC1, RFC2, RFC3, RFC4, RFC5
+Ctf18 RFC-like complex: 6 proteins: CHTF18, DSCC1, RFC2, RFC3, RFC4, RFC5
+DNA-templated DNA replication: 5 proteins: RFC1, RFC2, RFC3, RFC4, RFC5
+DNA replication factor C complex: 5 proteins: RFC1, RFC2, RFC3, RFC4, RFC5
+DNA replication: 4 proteins: CHTF18, DSCC1, RFC3, RFC5
+Elg1 RFC-like complex: 3 proteins: ATAD5, RFC1, RFC4
+enzyme binding: 3 proteins: RAD9A, RFC2, RFC5
+DNA clamp unloader activity: 2 proteins: ATAD5, RFC1
+ DNA replication: 2 proteins: ATAD5, DSCC1
+DNA clamp unloading: 2 proteins: ATAD5, RFC1
+DNA replication checkpoint signaling: 2 proteins: RAD17, RAD9A
+DNA damage checkpoint signaling: 2 proteins: RAD17, RAD9A
+DNA damage response: 2 proteins: RAD17, RAD9A
+mitotic intra-S DNA damage checkpoint signaling: 2 proteins: RAD17, RAD9A
+nucleolus: 2 proteins: RAD17, RFC1
+cytoplasm: 2 proteins: RAD9A, RFC1
+DNA strand elongation involved in DNA replication: 2 proteins: RFC3, RFC4

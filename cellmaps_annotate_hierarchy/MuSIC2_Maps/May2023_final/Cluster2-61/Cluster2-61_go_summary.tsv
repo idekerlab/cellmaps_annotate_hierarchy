@@ -1,0 +1,21 @@
+Feature	Number of Genes	Genes
+protein binding	5	RPP25L, RPP14, RPP40, POP7, RPP25
+tRNA 5'-leader removal	5	RPP25L, RPP14, RPP40, POP7, RPP25
+ribonuclease MRP complex	4	RPP25L, RPP40, POP7, RPP25
+ribonuclease P activity	4	RPP14, RPP40, POP7, RPP25
+ribonuclease P RNA binding	4	RPP14, RPP40, POP7, RPP25
+nucleoplasm	4	RPP14, RPP40, POP7, RPP25
+multimeric ribonuclease P complex	4	RPP14, RPP40, POP7, RPP25
+RNA binding	3	RPP25L, POP7, RPP25
+nucleus	3	RPP25L, RPP40, POP7
+RNA phosphodiester bond hydrolysis, endonucleolytic	3	RPP14, POP7, RPP25
+nucleolus	3	RPP14, POP7, RPP25
+nucleolar ribonuclease P complex	2	RPP40, POP7
+rRNA processing	2	POP7, RPP25
+ribonuclease MRP activity	1	RPP40
+endonucleolytic cleavage in ITS1 to separate SSU-rRNA from 5.8S rRNA and LSU-rRNA from tricistronic rRNA transcript (SSU-rRNA, 5.8S rRNA, LSU-rRNA)	1	RPP40
+endonucleolytic cleavage involved in tRNA processing	1	RPP40
+tRNA processing	1	POP7
+cytoplasm	1	POP7
+intracellular membrane-bounded organelle	1	POP7
+centriolar satellite	1	RPP25

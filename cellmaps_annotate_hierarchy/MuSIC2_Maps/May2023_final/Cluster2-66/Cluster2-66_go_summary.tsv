@@ -1,0 +1,76 @@
+Feature	Number of Genes	Genes
+protein binding	3	UBASH3B, PRMT1, SYNCRIP
+nucleus	3	UBASH3B, PRMT1, SYNCRIP
+cytosol	3	CRYZL1, PRMT1, SYNCRIP
+identical protein binding	2	UBASH3B, PRMT1
+cytoplasm	2	UBASH3B, PRMT1
+RNA binding	2	PRMT1, SYNCRIP
+RNA splicing	2	PRMT1, SYNCRIP
+nucleoplasm	2	PRMT1, SYNCRIP
+protein tyrosine phosphatase activity	1	UBASH3B
+ubiquitin protein ligase binding	1	UBASH3B
+phosphoprotein binding	1	UBASH3B
+negative regulation of protein kinase activity	1	UBASH3B
+negative regulation of signal transduction	1	UBASH3B
+peptidyl-tyrosine dephosphorylation	1	UBASH3B
+collagen-activated tyrosine kinase receptor signaling pathway	1	UBASH3B
+ protein binding	1	UBASH3B
+ osteoclast differentiation	1	UBASH3B
+negative regulation of osteoclast differentiation	1	UBASH3B
+negative regulation of bone resorption	1	UBASH3B
+ release of sequestered calcium ion into cytosol	1	UBASH3B
+platelet aggregation	1	UBASH3B
+negative regulation of platelet aggregation	1	UBASH3B
+NADPH:quinone reductase activity	1	CRYZL1
+NADP binding	1	CRYZL1
+quinone metabolic process	1	CRYZL1
+methyltransferase activity	1	PRMT1
+N-methyltransferase activity	1	PRMT1
+protein methyltransferase activity	1	PRMT1
+methyl-CpG binding	1	PRMT1
+protein-arginine N-methyltransferase activity	1	PRMT1
+enzyme binding	1	PRMT1
+protein-arginine omega-N monomethyltransferase activity	1	PRMT1
+protein-arginine omega-N asymmetric methyltransferase activity	1	PRMT1
+histone methyltransferase activity	1	PRMT1
+histone H4R3 methyltransferase activity	1	PRMT1
+translation regulator activity	1	PRMT1
+mitogen-activated protein kinase p38 binding	1	PRMT1
+S-adenosyl-L-methionine binding	1	PRMT1
+in utero embryonic development	1	PRMT1
+chromatin remodeling	1	PRMT1
+protein methylation	1	PRMT1
+cell surface receptor signaling pathway	1	PRMT1
+ cell population proliferation	1	PRMT1
+histone modification	1	PRMT1
+peptidyl-arginine methylation	1	PRMT1
+viral protein processing	1	PRMT1
+neuron projection development	1	PRMT1
+ erythrocyte differentiation	1	PRMT1
+ megakaryocyte differentiation	1	PRMT1
+negative regulation of megakaryocyte differentiation	1	PRMT1
+ translation	1	PRMT1
+negative regulation of JNK cascade	1	PRMT1
+ hemoglobin biosynthetic process	1	PRMT1
+cardiac muscle tissue development	1	PRMT1
+protein homooligomerization	1	PRMT1
+ p38MAPK cascade	1	PRMT1
+methylosome	1	PRMT1
+poly(A) binding	1	SYNCRIP
+mRNA 5'-UTR binding	1	SYNCRIP
+mRNA splicing, via spliceosome	1	SYNCRIP
+osteoblast differentiation	1	SYNCRIP
+RNA processing	1	SYNCRIP
+negative regulation of translation	1	SYNCRIP
+CRD-mediated mRNA stabilization	1	SYNCRIP
+cellular response to type II interferon	1	SYNCRIP
+negative regulation of nuclear-transcribed mRNA catabolic process, deadenylation-dependent decay	1	SYNCRIP
+ cytoplasmic translation	1	SYNCRIP
+endoplasmic reticulum	1	SYNCRIP
+membrane	1	SYNCRIP
+CRD-mediated mRNA stability complex	1	SYNCRIP
+catalytic step 2 spliceosome	1	SYNCRIP
+histone pre-mRNA 3'end processing complex	1	SYNCRIP
+GAIT complex	1	SYNCRIP
+mCRD-mediated mRNA stability complex	1	SYNCRIP
+ribonucleoprotein complex	1	SYNCRIP

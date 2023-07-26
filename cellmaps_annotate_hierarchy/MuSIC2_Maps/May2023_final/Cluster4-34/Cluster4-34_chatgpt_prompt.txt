@@ -1,0 +1,40 @@
+Your response should be formatted as Markdown paragraphs
+Write a critical and concise analysis of this human protein system, describing your reasoning as you go and providing references to scientific papers.
+
+A critical goal of the analysis is to determine if this is a novel complex or if any proteins are novel members of a known complex
+
+Format with Title, Summary, and References sections.        
+Avoid overly general statements of how the proteins are involved in various cellular processes        
+Avoid repeating the goals of the analysis.
+
+What cellular components and complexes are involved in this system?
+What mechanisms and biological processes are performed by this system?
+Propose a name for the system to reflect the cellular location and function, and should be specific but brief. Do not compose an acronym. Place it as the title of your report
+Human Proteins: APBA2, APBA3, APLP2, APP, TJAP1.
+
+System features from GO terms: 
+protein binding: 5 proteins: APBA2, APBA3, APLP2, APP, TJAP1
+plasma membrane: 5 proteins: APBA2, APBA3, APLP2, APP, TJAP1
+identical protein binding: 3 proteins: APBA2, APLP2, APP
+ gene expression: 3 proteins: APBA2, APBA3, APP
+cytoplasm: 3 proteins: APBA2, APBA3, APP
+dendritic spine: 3 proteins: APBA2, APBA3, APP
+amyloid-beta binding: 2 proteins: APBA2, APBA3
+in utero embryonic development: 2 proteins: APBA2, APBA3
+chemical synaptic transmission: 2 proteins: APBA2, APBA3
+locomotory behavior: 2 proteins: APBA2, APP
+protein transport: 2 proteins: APBA2, APBA3
+enzyme binding: 2 proteins: APBA3, APP
+perinuclear region of cytoplasm: 2 proteins: APBA3, APP
+DNA binding: 2 proteins: APLP2, APP
+serine-type endopeptidase inhibitor activity: 2 proteins: APLP2, APP
+heparin binding: 2 proteins: APLP2, APP
+transition metal ion binding: 2 proteins: APLP2, APP
+axonogenesis: 2 proteins: APLP2, APP
+central nervous system development: 2 proteins: APLP2, APP
+negative regulation of peptidase activity: 2 proteins: APLP2, APP
+endoplasmic reticulum lumen: 2 proteins: APLP2, APP
+membrane: 2 proteins: APLP2, APP
+extracellular exosome: 2 proteins: APLP2, APP
+endosome: 2 proteins: APP, TJAP1
+Golgi apparatus: 2 proteins: APP, TJAP1

@@ -1,0 +1,101 @@
+Feature	Number of Genes	Genes
+protein binding	6	ERCC2, ERCC3, ERCC5, GTF2H1, GTF2H3, MNAT1
+nucleotide-excision repair	6	ERCC2, ERCC3, ERCC5, GTF2H1, GTF2H3, MNAT1
+nucleoplasm	6	ERCC2, ERCC3, ERCC5, GTF2H1, GTF2H3, MNAT1
+transcription by RNA polymerase II	5	ERCC2, ERCC3, GTF2H1, GTF2H3, MNAT1
+transcription factor TFIIH core complex	5	ERCC2, ERCC3, GTF2H1, GTF2H3, MNAT1
+transcription factor TFIIH holo complex	5	ERCC2, ERCC3, GTF2H1, GTF2H3, MNAT1
+nucleus	4	ERCC2, ERCC3, ERCC5, GTF2H3
+DNA repair	4	ERCC3, GTF2H1, GTF2H3, MNAT1
+damaged DNA binding	3	ERCC2, ERCC3, ERCC5
+metal ion binding	3	ERCC2, ERCC5, GTF2H3
+transcription-coupled nucleotide-excision repair	3	ERCC2, ERCC3, ERCC5
+transcription factor TFIID complex	3	ERCC2, ERCC3, GTF2H3
+ATP binding	2	ERCC2, ERCC3
+ATP hydrolysis activity	2	ERCC2, ERCC3
+apoptotic process	2	ERCC2, ERCC3
+response to oxidative stress	2	ERCC2, ERCC3
+UV protection	2	ERCC2, ERCC3
+hair cell differentiation	2	ERCC2, ERCC3
+ mitotic cell cycle phase transition	2	ERCC2, ERCC3
+CAK-ERCC2 complex	2	ERCC2, MNAT1
+response to UV	2	ERCC3, ERCC5
+transcription preinitiation complex	2	ERCC3, GTF2H3
+negative regulation of apoptotic process	2	ERCC5, MNAT1
+ cyclin-dependent protein serine/threonine kinase activity	2	GTF2H1, MNAT1
+ DNA-templated transcription	2	GTF2H1, GTF2H3
+DNA helicase activity	1	ERCC2
+protein-macromolecule adaptor activity	1	ERCC2
+5'-3' DNA helicase activity	1	ERCC2
+4 iron, 4 sulfur cluster binding	1	ERCC2
+maturation of SSU-rRNA from tricistronic rRNA transcript (SSU-rRNA, 5.8S rRNA, LSU-rRNA)	1	ERCC2
+in utero embryonic development	1	ERCC2
+transcription elongation by RNA polymerase I	1	ERCC2
+chromosome segregation	1	ERCC2
+determination of adult lifespan	1	ERCC2
+post-embryonic development	1	ERCC2
+spinal cord development	1	ERCC2
+extracellular matrix organization	1	ERCC2
+bone mineralization	1	ERCC2
+central nervous system myelin formation	1	ERCC2
+DNA duplex unwinding	1	ERCC2
+multicellular organism growth	1	ERCC2
+embryonic cleavage	1	ERCC2
+erythrocyte maturation	1	ERCC2
+ DNA binding	1	ERCC2
+ mitotic recombination	1	ERCC2
+insulin-like growth factor receptor signaling pathway	1	ERCC2
+hair follicle maturation	1	ERCC2
+hematopoietic stem cell differentiation	1	ERCC2
+hematopoietic stem cell proliferation	1	ERCC2
+intrinsic apoptotic signaling pathway by p53 class mediator	1	ERCC2
+cytoplasm	1	ERCC2
+spindle	1	ERCC2
+cytosol	1	ERCC2
+MMXD complex	1	ERCC2
+DNA binding	1	ERCC3
+3'-5' DNA helicase activity	1	ERCC3
+promoter-specific chromatin binding	1	ERCC3
+nucleotide-excision repair, DNA duplex unwinding	1	ERCC3
+response to hypoxia	1	ERCC3
+DNA topological change	1	ERCC3
+transcription initiation at RNA polymerase II promoter	1	ERCC3
+transcription elongation by RNA polymerase II	1	ERCC3
+protein localization	1	ERCC3
+ apoptotic process	1	ERCC3
+embryonic organ development	1	ERCC3
+nucleotide-excision repair factor 3 complex	1	ERCC3
+bubble DNA binding	1	ERCC5
+RNA polymerase II complex binding	1	ERCC5
+double-stranded DNA binding	1	ERCC5
+single-stranded DNA binding	1	ERCC5
+endonuclease activity	1	ERCC5
+DNA endonuclease activity	1	ERCC5
+enzyme activator activity	1	ERCC5
+protein homodimerization activity	1	ERCC5
+protein-containing complex binding	1	ERCC5
+double-strand break repair via homologous recombination	1	ERCC5
+base-excision repair, AP site formation	1	ERCC5
+response to UV-C	1	ERCC5
+ catalytic activity	1	ERCC5
+nucleotide-excision repair complex	1	ERCC5
+protein-containing complex	1	ERCC5
+chromatin binding	1	GTF2H1
+nuclear thyroid hormone receptor binding	1	GTF2H1
+transcription by RNA polymerase I	1	GTF2H1
+hormone-mediated signaling pathway	1	GTF2H1
+RNA polymerase II general transcription initiation factor activity	1	GTF2H3
+core TFIIH complex portion of holo TFIIH complex	1	GTF2H3
+zinc ion binding	1	MNAT1
+cyclin-dependent protein serine/threonine kinase activator activity	1	MNAT1
+G1/S transition of mitotic cell cycle	1	MNAT1
+ transcription by RNA polymerase II	1	MNAT1
+adult heart development	1	MNAT1
+ventricular system development	1	MNAT1
+ smooth muscle cell proliferation	1	MNAT1
+response to calcium ion	1	MNAT1
+protein-containing complex assembly	1	MNAT1
+negative regulation of DNA helicase activity	1	MNAT1
+ G1/S transition of mitotic cell cycle	1	MNAT1
+cyclin-dependent protein kinase activating kinase holoenzyme complex	1	MNAT1
+transcription factor TFIIK complex	1	MNAT1

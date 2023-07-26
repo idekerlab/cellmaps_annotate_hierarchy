@@ -1,0 +1,60 @@
+Your response should be formatted as Markdown paragraphs
+Write a critical and concise analysis of this human protein system, describing your reasoning as you go and providing references to scientific papers.
+
+A critical goal of the analysis is to determine if this is a novel complex or if any proteins are novel members of a known complex
+
+Format with Title, Summary, and References sections.        
+Avoid overly general statements of how the proteins are involved in various cellular processes        
+Avoid repeating the goals of the analysis.
+
+What cellular components and complexes are involved in this system?
+What mechanisms and biological processes are performed by this system?
+Propose a name for the system to reflect the cellular location and function, and should be specific but brief. Do not compose an acronym. Place it as the title of your report
+Human Proteins: CREB5, FOSL2, ATF7, ATF2, FOSL1, JUN, JUNB, JUND.
+
+System features from GO terms: 
+DNA-binding transcription factor activity, RNA polymerase II-specific: 8 proteins: CREB5, FOSL2, ATF7, ATF2, FOSL1, JUN, JUNB, JUND
+protein binding: 8 proteins: CREB5, FOSL2, ATF7, ATF2, FOSL1, JUN, JUNB, JUND
+ transcription by RNA polymerase II: 8 proteins: CREB5, FOSL2, ATF7, ATF2, FOSL1, JUN, JUNB, JUND
+chromatin: 8 proteins: CREB5, FOSL2, ATF7, ATF2, FOSL1, JUN, JUNB, JUND
+nucleus: 8 proteins: CREB5, FOSL2, ATF7, ATF2, FOSL1, JUN, JUNB, JUND
+sequence-specific double-stranded DNA binding: 7 proteins: CREB5, ATF7, ATF2, FOSL1, JUN, JUNB, JUND
+nucleoplasm: 7 proteins: FOSL2, ATF7, ATF2, FOSL1, JUN, JUNB, JUND
+RNA polymerase II transcription regulator complex: 7 proteins: FOSL2, ATF7, ATF2, FOSL1, JUN, JUNB, JUND
+DNA-binding transcription factor activity: 6 proteins: CREB5, FOSL2, ATF7, ATF2, FOSL1, JUN
+RNA polymerase II cis-regulatory region sequence-specific DNA binding: 6 proteins: FOSL2, ATF2, FOSL1, JUN, JUNB, JUND
+DNA-binding transcription activator activity, RNA polymerase II-specific: 6 proteins: FOSL2, ATF2, FOSL1, JUN, JUNB, JUND
+cAMP response element binding: 4 proteins: CREB5, ATF7, ATF2, JUN
+ DNA-templated transcription: 4 proteins: CREB5, ATF7, ATF2, JUN
+ cell population proliferation: 4 proteins: FOSL1, JUN, JUNB, JUND
+ cell cycle: 4 proteins: FOSL1, JUN, JUNB, JUND
+metal ion binding: 3 proteins: CREB5, ATF7, ATF2
+transcription cis-regulatory region binding: 3 proteins: ATF7, JUN, JUND
+enzyme binding: 3 proteins: ATF7, JUN, JUND
+negative regulation of transcription by RNA polymerase II: 3 proteins: ATF2, JUN, JUND
+ DNA-binding transcription factor activity: 3 proteins: ATF2, FOSL1, JUND
+integrated stress response signaling: 3 proteins: FOSL1, JUN, JUNB
+transcription factor binding: 3 proteins: JUN, JUNB, JUND
+cellular response to calcium ion: 3 proteins: JUN, JUNB, JUND
+transcription regulator complex: 3 proteins: JUN, JUNB, JUND
+transcription factor AP-1 complex: 3 proteins: JUN, JUNB, JUND
+RNA polymerase II transcription regulatory region sequence-specific DNA binding: 2 proteins: FOSL2, ATF2
+chromatin binding: 2 proteins: FOSL2, JUN
+ fibroblast proliferation: 2 proteins: FOSL2, JUN
+cytoplasm: 2 proteins: ATF7, ATF2
+identical protein binding: 2 proteins: ATF2, JUN
+RNA polymerase II-specific DNA-binding transcription factor binding: 2 proteins: ATF2, JUN
+in utero embryonic development: 2 proteins: ATF2, FOSL1
+liver development: 2 proteins: ATF2, JUN
+outflow tract morphogenesis: 2 proteins: ATF2, JUN
+response to organic cyclic compound: 2 proteins: ATF2, JUND
+cellular response to anisomycin: 2 proteins: ATF2, JUN
+ transcription from RNA polymerase II promoter involved in cellular response to chemical stimulus: 2 proteins: ATF2, JUN
+negative regulation of cell population proliferation: 2 proteins: FOSL1, JUN
+response to xenobiotic stimulus: 2 proteins: FOSL1, JUN
+response to mechanical stimulus: 2 proteins: FOSL1, JUND
+ apoptotic process: 2 proteins: FOSL1, JUN
+ miRNA transcription: 2 proteins: FOSL1, JUN
+ DNA-templated transcription initiation: 2 proteins: FOSL1, JUN
+DNA binding: 2 proteins: JUN, JUNB
+transcription repressor complex: 2 proteins: JUN, JUND

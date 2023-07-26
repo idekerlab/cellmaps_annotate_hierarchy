@@ -1,0 +1,168 @@
+Feature	Number of Genes	Genes
+nucleoplasm	25	ARMC5, CTDP1, GPN1, PCF11, POLR2A, POLR2B, POLR2C, POLR2D, POLR2E, POLR2G, POLR2H, POLR2I, POLR2L, POLR3A, POLR3C, POLR3D, POLR3E, POLR3F, POLR3G, POLR3H, POLR3K, RECQL5, SKAP1, URI1, UXT
+protein binding	23	ARMC5, CTDP1, GPN1, GPN3, POLR1D, POLR2A, POLR2B, POLR2C, POLR2D, POLR2E, POLR2G, POLR2I, POLR2L, POLR3A, POLR3C, POLR3F, POLR3G, POLR3H, POLR3K, RPAP1, SKAP1, URI1, UXT
+cytosol	18	ARMC5, GPN1, POLR2C, POLR2D, POLR2E, POLR2H, POLR2L, POLR3A, POLR3C, POLR3D, POLR3E, POLR3F, POLR3G, POLR3H, POLR3K, RECQL5, SKAP1, URI1
+nucleus	16	CTDP1, POLR2A, POLR2B, POLR2C, POLR2D, POLR2E, POLR2G, POLR2H, POLR2I, POLR2L, POLR3A, POLR3G, RECQL5, RPAP1, URI1, UXT
+RNA polymerase III complex	12	POLR1D, POLR2E, POLR2H, POLR2L, POLR3A, POLR3C, POLR3D, POLR3E, POLR3F, POLR3G, POLR3H, POLR3K
+RNA polymerase III activity	11	POLR1D, POLR2E, POLR2H, POLR2L, POLR3A, POLR3C, POLR3D, POLR3E, POLR3F, POLR3H, POLR3K
+transcription by RNA polymerase III	11	POLR1D, POLR2E, POLR2H, POLR3A, POLR3C, POLR3D, POLR3E, POLR3F, POLR3G, POLR3H, POLR3K
+DNA binding	10	POLR1D, POLR2A, POLR2B, POLR2C, POLR2E, POLR2L, POLR3A, POLR3D, POLR3H, RPAP1
+DNA-directed 5'-3' RNA polymerase activity	10	POLR2A, POLR2E, POLR2I, POLR2L, POLR3A, POLR3C, POLR3F, POLR3G, POLR3H, POLR3K
+transcription by RNA polymerase II	10	POLR2A, POLR2B, POLR2C, POLR2D, POLR2E, POLR2G, POLR2H, POLR2I, POLR2L, RPAP1
+defense response to virus	9	ARMC5, POLR3A, POLR3C, POLR3D, POLR3E, POLR3F, POLR3G, POLR3H, POLR3K
+RNA polymerase II, core complex	9	POLR2A, POLR2B, POLR2C, POLR2D, POLR2E, POLR2G, POLR2H, POLR2I, POLR2L
+cytoplasm	8	ARMC5, CTDP1, PCF11, POLR2A, RECQL5, SKAP1, URI1, UXT
+innate immune response	8	POLR3A, POLR3C, POLR3D, POLR3E, POLR3F, POLR3G, POLR3H, POLR3K
+RNA polymerase II activity	6	POLR2A, POLR2B, POLR2C, POLR2E, POLR2H, POLR2L
+chromatin binding	6	POLR2B, POLR3A, POLR3D, POLR3G, URI1, UXT
+ interferon-beta production	5	POLR3A, POLR3C, POLR3D, POLR3F, POLR3G
+RNA polymerase I activity	4	POLR1D, POLR2E, POLR2H, POLR2L
+transcription by RNA polymerase I	4	POLR1D, POLR2E, POLR2H, POLR2L
+RNA polymerase I complex	4	POLR1D, POLR2E, POLR2H, POLR2L
+ innate immune response	4	POLR3C, POLR3D, POLR3F, POLR3G
+membrane	3	ARMC5, POLR2B, POLR3A
+ transcription by RNA polymerase II	3	CTDP1, SKAP1, URI1
+centrosome	3	CTDP1, POLR3H, UXT
+mitochondrion	3	GPN1, PCF11, URI1
+RNA polymerase II complex binding	3	PCF11, RECQL5, URI1
+metal ion binding	3	POLR2A, POLR2B, POLR3A
+nucleolus	3	POLR2A, POLR2I, POLR3K
+transcription initiation at RNA polymerase II promoter	3	POLR2D, POLR2G, POLR2I
+protein stabilization	3	POLR2E, URI1, UXT
+RPAP3/R2TP/prefoldin-like complex	3	POLR2E, URI1, UXT
+single-stranded DNA binding	3	POLR2G, POLR2H, POLR3C
+nucleic acid binding	3	POLR2I, POLR3K, RECQL5
+zinc ion binding	3	POLR2I, POLR2L, POLR3K
+ transcription by RNA polymerase III	3	POLR3C, POLR3F, POLR3G
+cell division	2	CTDP1, RECQL5
+spindle pole	2	CTDP1, UXT
+protein-containing complex	2	CTDP1, GPN3
+intracellular membrane-bounded organelle	2	CTDP1, POLR3H
+GTPase activity	2	GPN1, GPN3
+GTP binding	2	GPN1, GPN3
+mRNA cleavage	2	PCF11, POLR2I
+protein dimerization activity	2	POLR1D, POLR2C
+RNA binding	2	POLR2A, POLR2B
+ DNA-templated transcription	2	POLR2A, SKAP1
+chromosome	2	POLR2A, RECQL5
+translation initiation factor binding	2	POLR2D, POLR2G
+transcription corepressor activity	2	URI1, UXT
+negative regulation of transcription by RNA polymerase II	2	URI1, UXT
+protein folding chaperone complex	2	URI1, UXT
+in utero embryonic development	1	ARMC5
+mesoderm formation	1	ARMC5
+anatomical structure morphogenesis	1	ARMC5
+adrenal cortex development	1	ARMC5
+T cell proliferation	1	ARMC5
+CD4-positive, alpha-beta T cell differentiation	1	ARMC5
+ steroid biosynthetic process	1	ARMC5
+focal adhesion	1	ARMC5
+TFIIF-class transcription factor complex binding	1	CTDP1
+phosphoprotein phosphatase activity	1	CTDP1
+RNA polymerase II CTD heptapeptide repeat phosphatase activity	1	CTDP1
+myosin phosphatase activity	1	CTDP1
+Tat protein binding	1	CTDP1
+transcription elongation by RNA polymerase II	1	CTDP1
+protein dephosphorylation	1	CTDP1
+exit from mitosis	1	CTDP1
+positive regulation by host of viral transcription	1	CTDP1
+negative regulation of cell growth involved in cardiac muscle cell development	1	CTDP1
+spindle	1	CTDP1
+midbody	1	CTDP1
+spindle midzone	1	CTDP1
+mRNA binding	1	PCF11
+termination of RNA polymerase II transcription	1	PCF11
+mRNA polyadenylation	1	PCF11
+mRNA cleavage factor complex	1	PCF11
+RNA-dependent RNA polymerase activity	1	POLR2A
+kinase binding	1	POLR2A
+ubiquitin protein ligase binding	1	POLR2A
+promoter-specific chromatin binding	1	POLR2A
+RNA-templated transcription	1	POLR2A
+DNA-templated transcription termination	1	POLR2A
+ RNA splicing	1	POLR2A
+ribonucleoside binding	1	POLR2B
+chromosome, telomeric region	1	POLR2B
+nucleotide binding	1	POLR2D
+recruitment of 3'-end processing factors to RNA polymerase II holoenzyme complex	1	POLR2D
+nuclear speck	1	POLR2D
+single-stranded RNA binding	1	POLR2G
+nuclear-transcribed mRNA catabolic process, exonucleolytic	1	POLR2G
+ translational initiation	1	POLR2G
+ nuclear-transcribed mRNA poly(A) tail shortening	1	POLR2G
+P-body	1	POLR2G
+protein-DNA complex	1	POLR2H
+maintenance of transcriptional fidelity during transcription elongation by RNA polymerase II	1	POLR2I
+transcription-coupled nucleotide-excision repair	1	POLR2I
+ transcription by RNA polymerase I	1	POLR2L
+tRNA transcription by RNA polymerase III	1	POLR2L
+DNA-templated transcription	1	POLR3A
+double-stranded DNA binding	1	POLR3F
+cell population proliferation	1	POLR3G
+nuclear body	1	POLR3G
+nucleobase-containing compound metabolic process	1	POLR3H
+transcription initiation at RNA polymerase III promoter	1	POLR3H
+termination of RNA polymerase III transcription	1	POLR3K
+tRNA 3'-trailer cleavage	1	POLR3K
+DNA helicase activity	1	RECQL5
+helicase activity	1	RECQL5
+ATP binding	1	RECQL5
+enzyme activator activity	1	RECQL5
+four-way junction helicase activity	1	RECQL5
+ATP hydrolysis activity	1	RECQL5
+3'-5' DNA helicase activity	1	RECQL5
+molecular function inhibitor activity	1	RECQL5
+mitotic cell cycle	1	RECQL5
+double-strand break repair via homologous recombination	1	RECQL5
+DNA metabolic process	1	RECQL5
+DNA replication	1	RECQL5
+DNA unwinding involved in DNA replication	1	RECQL5
+DNA repair	1	RECQL5
+negative regulation of transcription elongation by RNA polymerase II	1	RECQL5
+chromosome separation	1	RECQL5
+cellular response to xenobiotic stimulus	1	RECQL5
+cellular response to camptothecin	1	RECQL5
+cellular response to ketone	1	RECQL5
+replication-born double-strand break repair via sister chromatid exchange	1	RECQL5
+mitotic DNA-templated DNA replication	1	RECQL5
+negative regulation of double-strand break repair via homologous recombination	1	RECQL5
+replication fork	1	RECQL5
+transcription preinitiation complex	1	RECQL5
+nucleotidyltransferase activity	1	RPAP1
+DNA-directed RNA polymerase complex	1	RPAP1
+SH3 domain binding	1	SKAP1
+protein kinase binding	1	SKAP1
+protein phosphatase binding	1	SKAP1
+SH2 domain binding	1	SKAP1
+ cell-matrix adhesion	1	SKAP1
+adaptive immune response	1	SKAP1
+ adaptive immune response	1	SKAP1
+ integrin activation	1	SKAP1
+ cell-cell adhesion mediated by integrin	1	SKAP1
+ heterotypic cell-cell adhesion	1	SKAP1
+T cell receptor signaling pathway	1	SKAP1
+protein localization to plasma membrane	1	SKAP1
+ leukocyte cell-cell adhesion	1	SKAP1
+immunological synapse	1	SKAP1
+plasma membrane	1	SKAP1
+cell-cell junction	1	SKAP1
+T cell receptor complex	1	SKAP1
+plasma membrane raft	1	SKAP1
+protein phosphatase inhibitor activity	1	URI1
+phosphatase inhibitor activity	1	URI1
+phosphoprotein binding	1	URI1
+ cell growth	1	URI1
+response to virus	1	URI1
+negative regulation of phosphatase activity	1	URI1
+cellular response to growth factor stimulus	1	URI1
+cellular response to steroid hormone stimulus	1	URI1
+negative regulation of intrinsic apoptotic signaling pathway	1	URI1
+dendrite	1	URI1
+microtubule binding	1	UXT
+beta-tubulin binding	1	UXT
+actin filament binding	1	UXT
+microtubule cytoskeleton organization	1	UXT
+apoptotic process	1	UXT
+centrosome cycle	1	UXT
+mitochondrion transport along microtubule	1	UXT
+cytoskeleton	1	UXT

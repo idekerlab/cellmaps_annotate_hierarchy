@@ -1,0 +1,38 @@
+Your response should be formatted as Markdown paragraphs
+Write a critical and concise analysis of this human protein system, describing your reasoning as you go and providing references to scientific papers.
+
+A critical goal of the analysis is to determine if this is a novel complex or if any proteins are novel members of a known complex
+
+Format with Title, Summary, and References sections.        
+Avoid overly general statements of how the proteins are involved in various cellular processes        
+Avoid repeating the goals of the analysis.
+
+What cellular components and complexes are involved in this system?
+What mechanisms and biological processes are performed by this system?
+Propose a name for the system to reflect the cellular location and function, and should be specific but brief. Do not compose an acronym. Place it as the title of your report
+Human Proteins: TRABD, LRP4, EFEMP1, ITGB5, TMEM132A, TXNDC16, EMC8, PLD5, UGT8, NARS2, DNASE1L2, SUCLA2, FBXO21, ANKRD46, DHFR2, DNAJC3, FBN2, FKBP14, PCYOX1L, PDF, TSPAN15.
+
+System features from GO terms: 
+protein binding: 9 proteins: LRP4, EFEMP1, ITGB5, TXNDC16, EMC8, SUCLA2, FBN2, FKBP14, TSPAN15
+extracellular exosome: 6 proteins: EFEMP1, ITGB5, TMEM132A, TXNDC16, SUCLA2, DNAJC3
+calcium ion binding: 5 proteins: LRP4, EFEMP1, DNASE1L2, FBN2, FKBP14
+plasma membrane: 5 proteins: LRP4, ITGB5, TMEM132A, UGT8, TSPAN15
+extracellular region: 5 proteins: EFEMP1, DNASE1L2, DNAJC3, FBN2, PCYOX1L
+endoplasmic reticulum lumen: 5 proteins: TMEM132A, TXNDC16, DNAJC3, FKBP14, TSPAN15
+membrane: 5 proteins: EMC8, PLD5, ANKRD46, DNAJC3, PCYOX1L
+cytosol: 5 proteins: NARS2, FBXO21, DHFR2, DNAJC3, TSPAN15
+endoplasmic reticulum: 4 proteins: TMEM132A, EMC8, UGT8, DNAJC3
+cytoplasm: 4 proteins: EMC8, PLD5, DNASE1L2, DNAJC3
+mitochondrion: 4 proteins: NARS2, SUCLA2, DHFR2, PDF
+cell surface: 3 proteins: LRP4, ITGB5, TSPAN15
+mitochondrial matrix: 3 proteins: NARS2, SUCLA2, DHFR2
+protein homodimerization activity: 2 proteins: LRP4, TMEM132A
+hair follicle development: 2 proteins: LRP4, DNASE1L2
+extracellular matrix structural constituent: 2 proteins: EFEMP1, FBN2
+camera-type eye development: 2 proteins: EFEMP1, FBN2
+embryonic eye morphogenesis: 2 proteins: EFEMP1, FBN2
+collagen-containing extracellular matrix: 2 proteins: EFEMP1, FBN2
+biological_process: 2 proteins: TMEM132A, TXNDC16
+Golgi apparatus: 2 proteins: TMEM132A, EMC8
+ATP binding: 2 proteins: NARS2, SUCLA2
+DNA binding: 2 proteins: DNASE1L2, FBXO21

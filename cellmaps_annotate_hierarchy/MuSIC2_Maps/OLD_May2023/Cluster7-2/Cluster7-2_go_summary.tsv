@@ -1,0 +1,93 @@
+Feature	Number of Genes	Genes
+mitochondrial translation	9	MRPS10, MRPS14, MRPS15, MRPS2, MRPS21, MRPS26, MRPS27, MRPS34, MRPS5
+mitochondrial inner membrane	9	MRPS10, MRPS14, MRPS15, MRPS2, MRPS21, MRPS26, MRPS27, MRPS34, MRPS5
+mitochondrial small ribosomal subunit	9	MRPS10, MRPS14, MRPS15, MRPS2, MRPS21, MRPS26, MRPS27, MRPS34, MRPS5
+mitochondrion	8	MRPS10, MRPS14, MRPS15, MRPS2, MRPS26, MRPS27, MRPS34, MRPS5
+structural constituent of ribosome	6	MRPS14, MRPS15, MRPS2, MRPS21, MRPS34, MRPS5
+RNA binding	5	MRPS14, MRPS15, MRPS21, MRPS26, MRPS5
+protein binding	4	LRP2, MRPS14, MRPS27, SMG5
+translation	4	MRPS14, MRPS15, MRPS21, MRPS5
+cell population proliferation	2	LRP2, MRPS27
+nucleoplasm	2	MRPS15, MRPS26
+nucleolus	2	MRPS15, MRPS27
+cytoplasm	2	MRPS27, SMG5
+low-density lipoprotein particle receptor activity	1	LRP2
+calcium ion binding	1	LRP2
+SH3 domain binding	1	LRP2
+insulin-like growth factor I binding	1	LRP2
+cargo receptor activity	1	LRP2
+hormone binding	1	LRP2
+protein-folding chaperone binding	1	LRP2
+protein transporter activity	1	LRP2
+retinoid metabolic process	1	LRP2
+kidney development	1	LRP2
+neural tube closure	1	LRP2
+secondary heart field specification	1	LRP2
+outflow tract septum morphogenesis	1	LRP2
+ventricular compact myocardium morphogenesis	1	LRP2
+ventricular septum development	1	LRP2
+lipid metabolic process	1	LRP2
+endocytosis	1	LRP2
+receptor-mediated endocytosis	1	LRP2
+sensory perception of sound	1	LRP2
+male gonad development	1	LRP2
+protein transport	1	LRP2
+cobalamin transport	1	LRP2
+metal ion transport	1	LRP2
+negative regulation of BMP signaling pathway	1	LRP2
+forebrain development	1	LRP2
+diol metabolic process	1	LRP2
+aorta development	1	LRP2
+vitamin D metabolic process	1	LRP2
+negative regulation of apoptotic process	1	LRP2
+response to leptin	1	LRP2
+transcytosis	1	LRP2
+positive regulation of neurogenesis	1	LRP2
+positive regulation of protein kinase B signaling	1	LRP2
+vagina development	1	LRP2
+coronary artery morphogenesis	1	LRP2
+pulmonary artery morphogenesis	1	LRP2
+positive regulation of oligodendrocyte progenitor proliferation	1	LRP2
+cellular response to growth factor stimulus	1	LRP2
+amyloid-beta clearance	1	LRP2
+neuron projection arborization	1	LRP2
+transport across blood-brain barrier	1	LRP2
+folate import across plasma membrane	1	LRP2
+positive regulation of lysosomal protein catabolic process	1	LRP2
+lysosome	1	LRP2
+lysosomal membrane	1	LRP2
+endoplasmic reticulum	1	LRP2
+Golgi apparatus	1	LRP2
+plasma membrane	1	LRP2
+clathrin-coated pit	1	LRP2
+external side of plasma membrane	1	LRP2
+apical plasma membrane	1	LRP2
+axon	1	LRP2
+dendrite	1	LRP2
+clathrin-coated endocytic vesicle membrane	1	LRP2
+brush border membrane	1	LRP2
+endosome lumen	1	LRP2
+receptor complex	1	LRP2
+extracellular exosome	1	LRP2
+molecular_function	1	MRPS10
+biological_process	1	MRPS10
+mitochondrial ribosome	1	MRPS14
+nuclear membrane	1	MRPS14
+mitochondrial ribosome assembly	1	MRPS2
+tRNA binding	1	MRPS27
+rRNA binding	1	MRPS27
+mitochondrial ribosome binding	1	MRPS27
+positive regulation of mitochondrial translation	1	MRPS27
+ubiquitin protein ligase binding	1	SMG5
+telomeric DNA binding	1	SMG5
+histone deacetylase binding	1	SMG5
+protein phosphatase 2A binding	1	SMG5
+telomerase RNA binding	1	SMG5
+nuclear-transcribed mRNA catabolic process, nonsense-mediated decay	1	SMG5
+mRNA export from nucleus	1	SMG5
+regulation of telomere maintenance	1	SMG5
+regulation of telomere maintenance via telomerase	1	SMG5
+regulation of dephosphorylation	1	SMG5
+nucleus	1	SMG5
+telomerase holoenzyme complex	1	SMG5
+cytosol	1	SMG5

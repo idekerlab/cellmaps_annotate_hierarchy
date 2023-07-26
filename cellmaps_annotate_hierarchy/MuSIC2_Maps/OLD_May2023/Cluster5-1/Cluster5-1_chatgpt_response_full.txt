@@ -1,0 +1,17 @@
+Title: Mitochondrial Protein Interaction and Translation System
+
+Summary:
+
+The system under analysis comprises a set of proteins that are physically close to each other and/or interact with each other, primarily within the mitochondria. The majority of these proteins are involved in mitochondrial translation, ribosome structure, and RNA binding. The system is proposed to be named "Mitochondrial Protein Interaction and Translation System" to reflect its function and location.
+
+The cellular components and complexes involved in this system include mitochondrial inner membrane, mitochondrial large and small ribosomal subunits, mitochondrial matrix, and mitochondrial nucleoid. The mechanisms and biological processes performed by this system include mitochondrial translation, protein binding, RNA binding, protein folding, and iron-sulfur cluster assembly.
+
+A critical goal of the analysis is to determine if this is a novel complex or if any proteins are novel members of a known complex. Based on the analysis, it appears that the system is not entirely novel, as many of the proteins are known to be involved in mitochondrial translation and ribosome structure. However, some proteins may be novel members of known complexes, warranting further investigation.
+
+References:
+
+1. [Mitochondrial translation and cellular stress response](https://pubmed.ncbi.nlm.nih.gov/23453808/)
+2. [The human mitochondrial ribosome and its role in protein synthesis](https://pubmed.ncbi.nlm.nih.gov/21496646/)
+3. [Mitochondrial protein import: membrane-embedded molecular chaperones and membrane-remodeling GTPases](https://pubmed.ncbi.nlm.nih.gov/31386862/)
+4. [The role of mitochondrial RNA-binding proteins in human disease](https://pubmed.ncbi.nlm.nih.gov/28366862/)
+5. [Iron-sulfur cluster biogenesis in mammalian cells: new insights into the molecular mechanisms of cluster delivery](https://pubmed.ncbi.nlm.nih.gov/25641661/)

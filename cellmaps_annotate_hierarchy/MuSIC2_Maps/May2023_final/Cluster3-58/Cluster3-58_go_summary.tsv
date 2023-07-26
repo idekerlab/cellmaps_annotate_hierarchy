@@ -1,0 +1,91 @@
+Feature	Number of Genes	Genes
+protein binding	6	FHIP1B, NPC1, CD63, PMEPA1, SCAMP4, STARD3NL
+protein transport	3	FHIP1B, CD63, SCAMP4
+lysosomal membrane	3	NPC1, CD63, STARD3NL
+plasma membrane	3	NPC1, CD63, PMEPA1
+membrane	3	NPC1, PMEPA1, STARD3NL
+late endosome membrane	3	NPC1, CD63, STARD3NL
+intracellular membrane-bounded organelle	3	CD63, PMEPA1, STARD3NL
+cytosol	2	FHIP1B, STARD3NL
+cholesterol binding	2	NPC1, STARD3NL
+cholesterol transport	2	NPC1, STARD3NL
+extracellular exosome	2	NPC1, CD63
+endosome membrane	2	CD63, PMEPA1
+endosome organization	1	FHIP1B
+lysosome organization	1	FHIP1B
+endosome to lysosome transport	1	FHIP1B
+early endosome to late endosome transport	1	FHIP1B
+protein localization to perinuclear region of cytoplasm	1	FHIP1B
+FHF complex	1	FHIP1B
+virus receptor activity	1	NPC1
+transmembrane signaling receptor activity	1	NPC1
+sterol transporter activity	1	NPC1
+signaling receptor activity	1	NPC1
+liver development	1	NPC1
+protein glycosylation	1	NPC1
+endocytosis	1	NPC1
+autophagy	1	NPC1
+lysosomal transport	1	NPC1
+adult walking behavior	1	NPC1
+cholesterol metabolic process	1	NPC1
+bile acid metabolic process	1	NPC1
+response to xenobiotic stimulus	1	NPC1
+gene expression	1	NPC1
+cholesterol storage	1	NPC1
+programmed cell death	1	NPC1
+macroautophagy	1	NPC1
+negative regulation of macroautophagy	1	NPC1
+neurogenesis	1	NPC1
+intestinal cholesterol absorption	1	NPC1
+membrane raft organization	1	NPC1
+intracellular cholesterol transport	1	NPC1
+cholesterol efflux	1	NPC1
+cholesterol homeostasis	1	NPC1
+response to cadmium ion	1	NPC1
+viral entry into host cell	1	NPC1
+negative regulation of cell death	1	NPC1
+cellular response to steroid hormone stimulus	1	NPC1
+cellular response to low-density lipoprotein particle stimulus	1	NPC1
+establishment of protein localization to membrane	1	NPC1
+negative regulation of TORC1 signaling	1	NPC1
+cyclodextrin metabolic process	1	NPC1
+extracellular region	1	NPC1
+nuclear envelope	1	NPC1
+lysosome	1	NPC1
+endoplasmic reticulum	1	NPC1
+Golgi apparatus	1	NPC1
+membrane raft	1	NPC1
+perinuclear region of cytoplasm	1	NPC1
+ receptor internalization	1	CD63
+cell-matrix adhesion	1	CD63
+cell migration	1	CD63
+endosome to melanosome transport	1	CD63
+pigment granule maturation	1	CD63
+ vascular endothelial growth factor signaling pathway	1	CD63
+ potassium ion transmembrane transport	1	CD63
+ integrin-mediated signaling pathway	1	CD63
+extracellular space	1	CD63
+nucleoplasm	1	CD63
+cell surface	1	CD63
+platelet dense granule membrane	1	CD63
+endosome lumen	1	CD63
+multivesicular body membrane	1	CD63
+azurophil granule membrane	1	CD63
+melanosome	1	CD63
+multivesicular body, internal vesicle	1	CD63
+WW domain binding	1	PMEPA1
+R-SMAD binding	1	PMEPA1
+negative regulation of SMAD protein complex assembly	1	PMEPA1
+negative regulation of transforming growth factor beta receptor signaling pathway	1	PMEPA1
+androgen receptor signaling pathway	1	PMEPA1
+negative regulation of pathway-restricted SMAD protein phosphorylation	1	PMEPA1
+Golgi membrane	1	PMEPA1
+early endosome membrane	1	PMEPA1
+trans-Golgi network membrane	1	SCAMP4
+recycling endosome membrane	1	SCAMP4
+protein homodimerization activity	1	STARD3NL
+vesicle tethering to endoplasmic reticulum	1	STARD3NL
+endosome	1	STARD3NL
+endoplasmic reticulum membrane	1	STARD3NL
+organelle membrane contact site	1	STARD3NL
+endoplasmic reticulum-endosome membrane contact site	1	STARD3NL

@@ -1,0 +1,32 @@
+Feature	Number of Genes	Genes
+calcium ion binding	12	PCDHA6, PCDHGA10, PCDHGA11, PCDHGA4, PCDHGA5, PCDHGA6, PCDHGB2, PCDHGB4, PCDHGB5, PCDHGB7, PCDHGC3, PCDHGC4
+cell adhesion	12	PCDHA6, PCDHGA10, PCDHGA11, PCDHGA4, PCDHGA5, PCDHGA6, PCDHGB2, PCDHGB4, PCDHGB5, PCDHGB7, PCDHGC3, PCDHGC4
+homophilic cell adhesion via plasma membrane adhesion molecules	12	PCDHA6, PCDHGA10, PCDHGA11, PCDHGA4, PCDHGA5, PCDHGA6, PCDHGB2, PCDHGB4, PCDHGB5, PCDHGB7, PCDHGC3, PCDHGC4
+nervous system development	12	PCDHA6, PCDHGA10, PCDHGA11, PCDHGA4, PCDHGA5, PCDHGA6, PCDHGB2, PCDHGB4, PCDHGB5, PCDHGB7, PCDHGC3, PCDHGC4
+plasma membrane	12	PCDHA6, PCDHGA10, PCDHGA11, PCDHGA4, PCDHGA5, PCDHGA6, PCDHGB2, PCDHGB4, PCDHGB5, PCDHGB7, PCDHGC3, PCDHGC4
+protein binding	3	TOP3B, TDRD3, PCDHGA4
+RNA binding	2	TOP3B, TDRD3
+nucleus	2	TOP3B, TDRD3
+calcium-dependent cell-cell adhesion via plasma membrane cell adhesion molecules	2	PCDHGB4, PCDHGC3
+membrane	2	PCDHGB4, PCDHGC3
+negative regulation of neuron apoptotic process	2	PCDHGC3, PCDHGC4
+synapse organization	2	PCDHGC3, PCDHGC4
+DNA binding	1	TOP3B
+DNA topoisomerase activity	1	TOP3B
+DNA topoisomerase type I (single strand cut, ATP-independent) activity	1	TOP3B
+DNA topological change	1	TOP3B
+chromosome segregation	1	TOP3B
+condensed chromosome	1	TOP3B
+DNA topoisomerase III-beta-TDRD3 complex	1	TOP3B
+chromatin binding	1	TDRD3
+transcription coactivator activity	1	TDRD3
+methylated histone binding	1	TDRD3
+chromatin organization	1	TDRD3
+ DNA-templated transcription	1	TDRD3
+nucleoplasm	1	TDRD3
+Golgi apparatus	1	TDRD3
+cytosol	1	TDRD3
+extracellular region	1	PCDHA6
+molecular_function	1	PCDHGB5
+biological_process	1	PCDHGB5
+extracellular exosome	1	PCDHGB5

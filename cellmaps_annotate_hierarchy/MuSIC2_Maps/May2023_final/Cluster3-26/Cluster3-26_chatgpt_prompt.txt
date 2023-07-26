@@ -1,0 +1,73 @@
+Your response should be formatted as Markdown paragraphs
+Write a critical and concise analysis of this human protein system, describing your reasoning as you go and providing references to scientific papers.
+
+A critical goal of the analysis is to determine if this is a novel complex or if any proteins are novel members of a known complex
+
+Format with Title, Summary, and References sections.        
+Avoid overly general statements of how the proteins are involved in various cellular processes        
+Avoid repeating the goals of the analysis.
+
+What cellular components and complexes are involved in this system?
+What mechanisms and biological processes are performed by this system?
+Propose a name for the system to reflect the cellular location and function, and should be specific but brief. Do not compose an acronym. Place it as the title of your report
+Human Proteins: XRCC2, FAAP100, RNF20, TLNRD1, CENPF, BANP, ATG16L2, BABAM1, GTF2E1, UBXN7, CLOCK, MAFK, CC2D1B, ATG12, BEGAIN, CEP63, GTF2E2, NAV2, NUMA1, TECPR1, TRAK2.
+
+System features from GO terms: 
+protein binding: 20 proteins: XRCC2, FAAP100, RNF20, TLNRD1, CENPF, BANP, BABAM1, GTF2E1, UBXN7, CLOCK, MAFK, CC2D1B, ATG12, BEGAIN, CEP63, GTF2E2, NAV2, NUMA1, TECPR1, TRAK2
+nucleoplasm: 17 proteins: XRCC2, FAAP100, RNF20, CENPF, BANP, ATG16L2, BABAM1, GTF2E1, UBXN7, CLOCK, MAFK, CC2D1B, ATG12, GTF2E2, NAV2, NUMA1, TECPR1
+cytosol: 12 proteins: FAAP100, CENPF, ATG16L2, BABAM1, GTF2E1, UBXN7, CLOCK, ATG12, CEP63, GTF2E2, NUMA1, TRAK2
+nucleus: 9 proteins: RNF20, CENPF, BABAM1, GTF2E1, UBXN7, CLOCK, MAFK, CC2D1B, NUMA1
+cytoplasm: 5 proteins: XRCC2, CENPF, BABAM1, BEGAIN, TRAK2
+intracellular membrane-bounded organelle: 5 proteins: XRCC2, CLOCK, CC2D1B, ATG12, TECPR1
+centrosome: 4 proteins: XRCC2, CENPF, CEP63, NUMA1
+DNA binding: 4 proteins: FAAP100, BANP, CLOCK, GTF2E2
+ transcription by RNA polymerase II: 4 proteins: RNF20, CLOCK, MAFK, CC2D1B
+cell division: 4 proteins: CENPF, BABAM1, CEP63, NUMA1
+neurogenesis: 3 proteins: XRCC2, NAV2, TRAK2
+chromatin: 3 proteins: FAAP100, CLOCK, MAFK
+spindle pole: 3 proteins: CENPF, CEP63, NUMA1
+macroautophagy: 3 proteins: ATG16L2, ATG12, TECPR1
+RNA polymerase II cis-regulatory region sequence-specific DNA binding: 3 proteins: CLOCK, MAFK, CC2D1B
+DNA-binding transcription factor activity, RNA polymerase II-specific: 3 proteins: CLOCK, MAFK, CC2D1B
+protein-containing complex: 3 proteins: ATG12, NUMA1, TECPR1
+ATP binding: 2 proteins: XRCC2, NAV2
+mitotic cell cycle: 2 proteins: XRCC2, CENPF
+meiotic cell cycle: 2 proteins: XRCC2, NUMA1
+chromatin binding: 2 proteins: RNF20, CENPF
+ubiquitin protein ligase binding: 2 proteins: RNF20, UBXN7
+identical protein binding: 2 proteins: RNF20, TLNRD1
+metal ion binding: 2 proteins: RNF20, GTF2E1
+chromatin remodeling: 2 proteins: RNF20, CLOCK
+ DNA-templated transcription: 2 proteins: RNF20, CLOCK
+microtubule binding: 2 proteins: CENPF, NUMA1
+dynein complex binding: 2 proteins: CENPF, NUMA1
+protein transport: 2 proteins: CENPF, ATG16L2
+negative regulation of DNA-templated transcription: 2 proteins: CENPF, CLOCK
+nuclear envelope: 2 proteins: CENPF, CC2D1B
+spindle: 2 proteins: CENPF, NUMA1
+nuclear matrix: 2 proteins: CENPF, NUMA1
+nuclear body: 2 proteins: BANP, BABAM1
+autophagosome assembly: 2 proteins: ATG16L2, ATG12
+protein lipidation: 2 proteins: ATG16L2, ATG12
+autophagy: 2 proteins: ATG16L2, TECPR1
+autophagosome membrane: 2 proteins: ATG16L2, TECPR1
+autophagosome: 2 proteins: ATG16L2, ATG12
+phagophore assembly site membrane: 2 proteins: ATG16L2, ATG12
+Atg12-Atg5-Atg16 complex: 2 proteins: ATG16L2, ATG12
+RNA polymerase II general transcription initiation factor activity: 2 proteins: GTF2E1, GTF2E2
+molecular adaptor activity: 2 proteins: GTF2E1, CEP63
+transcription by RNA polymerase II: 2 proteins: GTF2E1, GTF2E2
+transcription initiation at RNA polymerase II promoter: 2 proteins: GTF2E1, GTF2E2
+transcription factor TFIID complex: 2 proteins: GTF2E1, GTF2E2
+transcription factor TFIIE complex: 2 proteins: GTF2E1, GTF2E2
+proteasome-mediated ubiquitin-dependent protein catabolic process: 2 proteins: UBXN7, CLOCK
+DNA-binding transcription factor activity: 2 proteins: CLOCK, MAFK
+sequence-specific DNA binding: 2 proteins: CLOCK, MAFK
+DNA damage checkpoint signaling: 2 proteins: CLOCK, CEP63
+chromosome: 2 proteins: CLOCK, NUMA1
+DNA-binding transcription repressor activity, RNA polymerase II-specific: 2 proteins: MAFK, CC2D1B
+negative regulation of transcription by RNA polymerase II: 2 proteins: MAFK, CC2D1B
+negative regulation of innate immune response: 2 proteins: ATG12, CEP63
+ autophagosome maturation: 2 proteins: ATG12, TECPR1
+plasma membrane: 2 proteins: CEP63, TRAK2
+dendrite: 2 proteins: NUMA1, TRAK2

@@ -1,0 +1,46 @@
+Feature	Number of Genes	Genes
+protein binding	3	KIF2C, SLC43A3, IFT70B
+intraciliary transport particle B binding	2	IFT70A, IFT70B
+intraciliary transport	2	IFT70A, IFT70B
+axonemal microtubule	2	IFT70A, IFT70B
+intraciliary transport particle B	2	IFT70A, IFT70B
+microtubule motor activity	1	KIF2C
+ATP binding	1	KIF2C
+microtubule binding	1	KIF2C
+ATP hydrolysis activity	1	KIF2C
+centromeric DNA binding	1	KIF2C
+microtubule plus-end binding	1	KIF2C
+microtubule-based movement	1	KIF2C
+microtubule depolymerization	1	KIF2C
+mitotic metaphase plate congression	1	KIF2C
+establishment or maintenance of microtubule cytoskeleton polarity	1	KIF2C
+cell division	1	KIF2C
+metaphase plate congression	1	KIF2C
+attachment of mitotic spindle microtubules to kinetochore	1	KIF2C
+ chromosome segregation	1	KIF2C
+chromosome, centromeric region	1	KIF2C
+kinetochore	1	KIF2C
+nucleus	1	KIF2C
+centrosome	1	KIF2C
+spindle	1	KIF2C
+cytosol	1	KIF2C
+kinesin complex	1	KIF2C
+microtubule	1	KIF2C
+cytoplasmic microtubule	1	KIF2C
+microtubule cytoskeleton	1	KIF2C
+membrane	1	KIF2C
+microtubule plus-end	1	KIF2C
+adenine transmembrane transporter activity	1	SLC43A3
+guanine transmembrane transporter activity	1	SLC43A3
+fatty acid transmembrane transporter activity	1	SLC43A3
+xenobiotic transmembrane transporter activity	1	SLC43A3
+adenine transport	1	SLC43A3
+fatty acid transport	1	SLC43A3
+hypoxanthine transport	1	SLC43A3
+xenobiotic transport	1	SLC43A3
+guanine transmembrane transport	1	SLC43A3
+basolateral plasma membrane	1	SLC43A3
+intraciliary anterograde transport	1	IFT70B
+cilium assembly	1	IFT70B
+cilium	1	IFT70B
+ciliary tip	1	IFT70B

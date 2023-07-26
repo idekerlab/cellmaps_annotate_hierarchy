@@ -1,0 +1,124 @@
+Your response should be formatted as Markdown paragraphs
+Write a critical and concise analysis of this human protein system, describing your reasoning as you go and providing references to scientific papers.
+
+A critical goal of the analysis is to determine if this is a novel complex or if any proteins are novel members of a known complex
+
+Format with Title, Summary, and References sections.        
+Avoid overly general statements of how the proteins are involved in various cellular processes        
+Avoid repeating the goals of the analysis.
+
+What cellular components and complexes are involved in this system?
+What mechanisms and biological processes are performed by this system?
+Propose a name for the system to reflect the cellular location and function, and should be specific but brief. Do not compose an acronym. Place it as the title of your report
+Human Proteins: OBSL1, TAF1D, LMF2, MZT2A, ARL3, CROCC, MZT2B, DENND10, RAB15, SPICE1, EEF1AKMT3, CPE, FCHO2, RMDN1, ENKD1, RAB11FIP5, TUBG2, CEP43, PCNT, SNX21, CEP350, CEP290, ZNF747, CRMP1, COQ9, KLHL21, CEP170B, CEP20, DNAH14, PLEKHG3, CEP250, KLHL12, CLEC11A, PSMB5, CEP170, PLEKHA6, MTMR9, NUP107, CDK5RAP2, DMBT1, TUBGCP2, RRAGD, CETN3, FNDC3A, MAP4K3, MAP7D3, RAB11B, ZBED1, RAB11FIP3, CEP152, DYNC2I1, ERCC6L, RABL2B.
+
+System features from GO terms: 
+protein binding: 44 proteins: OBSL1, TAF1D, LMF2, MZT2A, ARL3, CROCC, MZT2B, RAB15, SPICE1, EEF1AKMT3, CPE, FCHO2, ENKD1, RAB11FIP5, CEP43, PCNT, CEP350, CEP290, ZNF747, CRMP1, COQ9, KLHL21, CEP20, CEP250, KLHL12, CLEC11A, PSMB5, CEP170, PLEKHA6, MTMR9, NUP107, CDK5RAP2, DMBT1, TUBGCP2, RRAGD, CETN3, MAP4K3, RAB11B, ZBED1, RAB11FIP3, CEP152, DYNC2I1, ERCC6L, RABL2B
+cytosol: 28 proteins: OBSL1, TAF1D, MZT2A, CROCC, MZT2B, EEF1AKMT3, FCHO2, TUBG2, CEP43, PCNT, CEP290, CRMP1, KLHL21, PLEKHG3, CEP250, KLHL12, PSMB5, CEP170, MTMR9, NUP107, CDK5RAP2, TUBGCP2, RRAGD, FNDC3A, RAB11B, RAB11FIP3, CEP152, ERCC6L
+centrosome: 26 proteins: OBSL1, MZT2A, ARL3, CROCC, MZT2B, SPICE1, EEF1AKMT3, ENKD1, TUBG2, CEP43, PCNT, CEP350, CEP290, CRMP1, CEP20, CEP250, PSMB5, CEP170, CDK5RAP2, TUBGCP2, RRAGD, CETN3, ZBED1, RAB11FIP3, CEP152, DYNC2I1
+cytoplasm: 25 proteins: OBSL1, ARL3, RAB15, SPICE1, EEF1AKMT3, FCHO2, RMDN1, TUBG2, CEP350, CEP290, CEP170B, CEP20, DNAH14, CLEC11A, PSMB5, MTMR9, CDK5RAP2, DMBT1, RRAGD, CETN3, FNDC3A, MAP4K3, MAP7D3, DYNC2I1, RABL2B
+centriole: 13 proteins: CROCC, SPICE1, ENKD1, CEP43, PCNT, CEP350, CEP290, CEP20, CEP250, CEP170, CETN3, CEP152, RABL2B
+nucleoplasm: 12 proteins: TAF1D, MZT2A, ARL3, MZT2B, EEF1AKMT3, CEP20, PSMB5, TUBGCP2, RRAGD, ZBED1, RAB11FIP3, CEP152
+membrane: 9 proteins: LMF2, PCNT, CEP350, CEP290, NUP107, TUBGCP2, FNDC3A, MAP7D3, ERCC6L
+extracellular exosome: 9 proteins: ARL3, CROCC, RAB15, CPE, CEP250, PSMB5, CDK5RAP2, DMBT1, RAB11B
+spindle: 8 proteins: MZT2A, MZT2B, SPICE1, TUBG2, CEP350, CRMP1, CEP170, MAP7D3
+nucleus: 8 proteins: ARL3, TUBG2, CEP43, CEP350, CEP290, PSMB5, RRAGD, ZBED1
+Golgi apparatus: 7 proteins: OBSL1, ARL3, CPE, RAB11FIP5, CDK5RAP2, FNDC3A, RAB11B
+identical protein binding: 7 proteins: TAF1D, FCHO2, CEP290, CRMP1, CEP20, KLHL12, ZBED1
+centriolar satellite: 7 proteins: TAF1D, RAB11FIP5, PCNT, CEP290, CEP20, KLHL12, RAB11FIP3
+microtubule binding: 7 proteins: ARL3, RMDN1, ENKD1, CEP350, CDK5RAP2, CETN3, MAP7D3
+protein transport: 7 proteins: ARL3, DENND10, RAB15, SNX21, CEP290, DMBT1, CETN3
+cilium assembly: 7 proteins: ARL3, PCNT, CEP290, CEP20, CEP250, DYNC2I1, RABL2B
+perinuclear region of cytoplasm: 6 proteins: OBSL1, RAB15, CEP43, CEP250, MTMR9, CDK5RAP2
+GTP binding: 6 proteins: ARL3, RAB15, TUBG2, RRAGD, RAB11B, RABL2B
+ciliary basal body: 6 proteins: ENKD1, CEP290, CEP20, CEP250, CETN3, RABL2B
+microtubule: 6 proteins: TUBG2, PCNT, CEP170B, DNAH14, CEP170, CDK5RAP2
+ DNA-templated transcription: 5 proteins: TAF1D, CEP290, ZNF747, CDK5RAP2, ZBED1
+GTPase activity: 5 proteins: ARL3, RAB15, RRAGD, RAB11B, RABL2B
+cell division: 5 proteins: SPICE1, KLHL21, CETN3, RAB11FIP3, ERCC6L
+intracellular membrane-bounded organelle: 5 proteins: RAB11FIP5, KLHL12, RRAGD, FNDC3A, RAB11FIP3
+pericentriolar material: 5 proteins: TUBG2, CDK5RAP2, CEP152, DYNC2I1, RABL2B
+microtubule cytoskeleton organization: 4 proteins: OBSL1, PCNT, CDK5RAP2, MAP7D3
+cytoplasmic microtubule: 4 proteins: ARL3, ENKD1, TUBG2, TUBGCP2
+cilium: 4 proteins: ARL3, RAB15, DNAH14, DYNC2I1
+microtubule cytoskeleton: 4 proteins: ARL3, ENKD1, TUBG2, MAP7D3
+plasma membrane: 4 proteins: CROCC, RAB15, CPE, FCHO2
+small GTPase binding: 4 proteins: DENND10, RAB11FIP5, PLEKHG3, RAB11FIP3
+protein-containing complex: 4 proteins: EEF1AKMT3, CEP290, CEP250, MTMR9
+extracellular space: 4 proteins: CPE, CLEC11A, DMBT1, DYNC2I1
+mitochondrion: 4 proteins: RMDN1, RAB11FIP5, COQ9, RAB11FIP3
+spindle pole: 4 proteins: ENKD1, CDK5RAP2, TUBGCP2, DYNC2I1
+GDP binding: 3 proteins: ARL3, RRAGD, RAB11B
+Golgi membrane: 3 proteins: ARL3, RAB11FIP5, FNDC3A
+spindle microtubule: 3 proteins: ARL3, RMDN1, TUBG2
+midbody: 3 proteins: ARL3, CRMP1, RAB11FIP3
+photoreceptor connecting cilium: 3 proteins: ARL3, CEP290, CETN3
+centrosome cycle: 3 proteins: CROCC, CDK5RAP2, CETN3
+protein localization: 3 proteins: CROCC, CEP250, RRAGD
+mitotic spindle organization: 3 proteins: RMDN1, TUBG2, PCNT
+non-motile cilium assembly: 3 proteins: ENKD1, CEP350, CEP250
+gamma-tubulin binding: 3 proteins: RAB11FIP5, CDK5RAP2, TUBGCP2
+recycling endosome: 3 proteins: RAB11FIP5, RAB11B, RAB11FIP3
+recycling endosome membrane: 3 proteins: RAB11FIP5, RAB11B, RAB11FIP3
+mitotic cell cycle: 3 proteins: TUBG2, CEP250, TUBGCP2
+protein kinase binding: 3 proteins: CEP43, CDK5RAP2, CEP152
+protein homodimerization activity: 3 proteins: CEP43, COQ9, RAB11FIP3
+microtubule anchoring: 3 proteins: CEP43, CEP350, CEP20
+extracellular region: 3 proteins: CEP290, CLEC11A, DMBT1
+cell cycle: 3 proteins: KLHL21, RAB11FIP3, ERCC6L
+ATP binding: 3 proteins: DNAH14, MAP4K3, ERCC6L
+microtubule organizing center: 3 proteins: CEP250, TUBGCP2, CETN3
+DNA binding: 2 proteins: TAF1D, ERCC6L
+nucleolus: 2 proteins: TAF1D, CETN3
+gamma-tubulin ring complex: 2 proteins: MZT2A, MZT2B
+kidney development: 2 proteins: ARL3, CEP290
+intraciliary transport: 2 proteins: ARL3, RABL2B
+protein localization to cilium: 2 proteins: ARL3, RAB11FIP3
+actin binding: 2 proteins: CROCC, PLEKHG3
+structural molecule activity: 2 proteins: CROCC, TUBG2
+structural constituent of cytoskeleton: 2 proteins: CROCC, TUBG2
+centriole-centriole cohesion: 2 proteins: CROCC, CEP250
+protein localization to organelle: 2 proteins: CROCC, CEP250
+photoreceptor inner segment: 2 proteins: CROCC, CEP250
+guanyl-nucleotide exchange factor activity: 2 proteins: DENND10, PLEKHG3
+chromatin remodeling: 2 proteins: EEF1AKMT3, ERCC6L
+Wnt signaling pathway: 2 proteins: CPE, KLHL12
+transport vesicle membrane: 2 proteins: CPE, RAB11FIP5
+phosphatidylinositol-4,5-bisphosphate binding: 2 proteins: FCHO2, SNX21
+mitotic spindle pole: 2 proteins: RMDN1, CDK5RAP2
+establishment of mitotic spindle orientation: 2 proteins: ENKD1, CDK5RAP2
+ciliary base: 2 proteins: ENKD1, DYNC2I1
+insulin secretion involved in cellular response to glucose stimulus: 2 proteins: RAB11FIP5, RAB11B
+regulated exocytosis: 2 proteins: RAB11FIP5, RAB11B
+negative regulation of adiponectin secretion: 2 proteins: RAB11FIP5, RAB11FIP3
+cellular response to acidic pH: 2 proteins: RAB11FIP5, RAB11B
+ protein localization to cell surface: 2 proteins: RAB11FIP5, RAB11B
+early endosome membrane: 2 proteins: RAB11FIP5, SNX21
+phagocytic vesicle: 2 proteins: RAB11FIP5, RAB11B
+microtubule nucleation: 2 proteins: TUBG2, TUBGCP2
+cytoplasmic microtubule organization: 2 proteins: TUBG2, TUBGCP2
+gamma-tubulin complex: 2 proteins: TUBG2, TUBGCP2
+ cell population proliferation: 2 proteins: CEP43, CLEC11A
+cell projection organization: 2 proteins: CEP43, CEP152
+ cell migration: 2 proteins: CEP43, PLEKHG3
+cell projection: 2 proteins: CEP43, CEP350
+calmodulin binding: 2 proteins: PCNT, CDK5RAP2
+signal transduction: 2 proteins: PCNT, CLEC11A
+ intracellular protein transport: 2 proteins: PCNT, CEP290
+protein localization to centrosome: 2 proteins: CEP350, CEP250
+microtubule minus-end binding: 2 proteins: CEP290, TUBGCP2
+metal ion binding: 2 proteins: ZNF747, ZBED1
+ cytokinesis: 2 proteins: KLHL21, RAB11FIP3
+Cul3-RING ubiquitin ligase complex: 2 proteins: KLHL21, KLHL12
+dynein light intermediate chain binding: 2 proteins: DNAH14, RAB11FIP3
+cytoskeleton: 2 proteins: PLEKHG3, CDK5RAP2
+endocytosis: 2 proteins: MTMR9, DMBT1
+negative regulation of autophagy: 2 proteins: MTMR9, RRAGD
+kinetochore: 2 proteins: NUP107, ERCC6L
+nuclear membrane: 2 proteins: NUP107, ZBED1
+tubulin binding: 2 proteins: CDK5RAP2, MAP7D3
+centriole replication: 2 proteins: CDK5RAP2, CEP152
+brain development: 2 proteins: CDK5RAP2, TUBGCP2
+phagocytic vesicle membrane: 2 proteins: DMBT1, RAB11B
+calcium ion binding: 2 proteins: CETN3, RAB11FIP3
+endocytic recycling: 2 proteins: RAB11B, RAB11FIP3

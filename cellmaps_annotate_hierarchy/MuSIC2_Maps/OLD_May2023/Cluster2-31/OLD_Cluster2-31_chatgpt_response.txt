@@ -1,0 +1,19 @@
+Title: Golgi-Associated Sterol Transport and Protein Binding System
+
+Summary:
+
+The system of proteins analyzed in this study is primarily involved in protein binding, sterol transport, and localization to the Golgi apparatus and cytosol. The majority of the proteins (20 out of 25) are involved in protein binding, while 13 proteins are localized to the cytosol, and 8 proteins are associated with the Golgi apparatus. The system also includes proteins involved in sterol transporter activity, sterol binding, and sterol transport (OSBP, OSBPL11, and OSBPL9). The proteins in this system are involved in various cellular processes, including intracellular protein transport, Golgi organization, and response to endoplasmic reticulum stress. The proposed name for this system is the "Golgi-Associated Sterol Transport and Protein Binding System" to reflect its primary functions and localization.
+
+References:
+
+1. Mesmin, B., Bigay, J., Moser von Filseck, J., Lacas-Gervais, S., Drin, G., & Antonny, B. (2013). A four-step cycle driven by PI(4)P hydrolysis directs sterol/PI(4)P exchange by the ER-Golgi tether OSBP. Cell, 155(4), 830-843. [PubMed](https://pubmed.ncbi.nlm.nih.gov/24209620/)
+
+2. Ngo, M., & Ridgway, N. D. (2009). Oxysterol binding protein-related Protein 9 (ORP9) is a cholesterol transfer protein that regulates Golgi structure and function. Molecular Biology of the Cell, 20(5), 1388-1399. [PubMed](https://pubmed.ncbi.nlm.nih.gov/19109418/)
+
+3. Saito, K., Chen, M., Bard, F., Chen, S., Zhou, H., Woodley, D., ... & Malhotra, V. (2009). TANGO1 facilitates cargo loading at endoplasmic reticulum exit sites. Cell, 136(5), 891-902. [PubMed](https://pubmed.ncbi.nlm.nih.gov/19269367/)
+
+4. Wang, J., Fedoseienko, A., Chen, B., Burstein, E., Jia, D., & Billadeau, D. D. (2018). Endosomal receptor trafficking: Retromer and beyond. Traffic, 19(8), 578-590. [PubMed](https://pubmed.ncbi.nlm.nih.gov/29668052/)
+
+5. Wu, J., de Heus, C., Liu, Q., Bouchet, B. P., Noordstra, I., Jiang, K., ... & Akhmanova, A. (2016). Molecular pathway of microtubule organization at the Golgi apparatus. Developmental Cell, 39(1), 44-60. [PubMed](https://pubmed.ncbi.nlm.nih.gov/27693506/)
+
+Based on the analysis of the proteins and their associated functions, it is not clear if this system represents a novel complex or if any proteins are novel members of a known complex. Further experimental validation and investigation are required to determine the novelty of this system and its components.

@@ -1,0 +1,132 @@
+Feature	Number of Genes	Genes
+protein binding	8	NFRKB, BRD8, ING3, ACTR8, INO80, RUVBL1, YY1, ZNHIT1
+ DNA-templated transcription	8	NFRKB, BRD8, ING3, ACTR8, INO80, RUVBL1, YY1, ZNHIT1
+nucleus	8	NFRKB, BRD8, ING3, ACTR8, INO80, RUVBL1, YY1, ZNHIT1
+nucleoplasm	8	NFRKB, BRD8, ING3, ACTR8, INO80, RUVBL1, YY1, ZNHIT1
+chromatin remodeling	7	NFRKB, ING3, ACTR8, INO80, RUVBL1, YY1, ZNHIT1
+ cell cycle	7	NFRKB, BRD8, ING3, ACTR8, INO80, RUVBL1, YY1
+telomere maintenance	5	NFRKB, ACTR8, INO80, RUVBL1, YY1
+ DNA replication	5	NFRKB, ACTR8, INO80, RUVBL1, YY1
+ DNA repair	5	NFRKB, ACTR8, INO80, RUVBL1, YY1
+ chromosome organization	5	NFRKB, ACTR8, INO80, RUVBL1, YY1
+ embryonic development	5	NFRKB, ACTR8, INO80, RUVBL1, YY1
+ DNA strand elongation	5	NFRKB, ACTR8, INO80, RUVBL1, YY1
+ telomere maintenance in response to DNA damage	5	NFRKB, ACTR8, INO80, RUVBL1, YY1
+Ino80 complex	5	NFRKB, ACTR8, INO80, RUVBL1, YY1
+ transcription by RNA polymerase II	4	BRD8, INO80, RUVBL1, YY1
+nucleosome	4	BRD8, ING3, RUVBL1, ZNHIT1
+Swr1 complex	4	BRD8, ING3, RUVBL1, ZNHIT1
+DNA binding	3	NFRKB, INO80, YY1
+DNA repair	3	NFRKB, INO80, RUVBL1
+DNA recombination	3	NFRKB, ACTR8, RUVBL1
+histone acetylation	3	BRD8, ING3, RUVBL1
+ apoptotic process	3	BRD8, ING3, RUVBL1
+histone H4 acetylation	3	BRD8, ING3, RUVBL1
+histone H2A acetylation	3	BRD8, ING3, RUVBL1
+ double-strand break repair via homologous recombination	3	BRD8, ING3, RUVBL1
+ double-strand break repair	3	BRD8, ING3, RUVBL1
+NuA4 histone acetyltransferase complex	3	BRD8, ING3, RUVBL1
+metal ion binding	3	ING3, YY1, ZNHIT1
+ATP binding	3	ACTR8, INO80, RUVBL1
+cell division	3	ACTR8, INO80, RUVBL1
+double-strand break repair	2	ACTR8, INO80
+cell cycle	2	ACTR8, RUVBL1
+ATP hydrolysis activity	2	INO80, RUVBL1
+histone binding	2	INO80, ZNHIT1
+double-strand break repair via homologous recombination	2	INO80, YY1
+cellular response to UV	2	INO80, YY1
+cytosol	2	INO80, RUVBL1
+spermatogenesis	2	RUVBL1, YY1
+nuclear matrix	2	RUVBL1, YY1
+protease binding	1	NFRKB
+nuclear receptor coactivator activity	1	BRD8
+nuclear thyroid hormone receptor binding	1	BRD8
+chromatin organization	1	BRD8
+cell surface receptor signaling pathway	1	BRD8
+cellular response to thyroid hormone stimulus	1	BRD8
+mitochondrion	1	BRD8
+histone H4 acetyltransferase activity	1	ING3
+methylated histone binding	1	ING3
+histone H4K5 acetyltransferase activity	1	ING3
+histone H4K8 acetyltransferase activity	1	ING3
+histone H4K12 acetyltransferase activity	1	ING3
+histone H2A acetyltransferase activity	1	ING3
+histone H4K16 acetyltransferase activity	1	ING3
+Piccolo NuA4 histone acetyltransferase complex	1	ING3
+centrosome	1	ACTR8
+actin binding	1	INO80
+ATP-dependent activity, acting on DNA	1	INO80
+alpha-tubulin binding	1	INO80
+ATP-dependent chromatin remodeler activity	1	INO80
+mitotic sister chromatid segregation	1	INO80
+DNA-templated transcription	1	INO80
+ nuclear cell cycle DNA replication	1	INO80
+ cell growth	1	INO80
+spindle assembly	1	INO80
+UV-damage excision repair	1	INO80
+cellular response to ionizing radiation	1	INO80
+ G1/S transition of mitotic cell cycle	1	INO80
+spindle	1	INO80
+microtubule	1	INO80
+nuclear body	1	INO80
+TFIID-class transcription factor complex binding	1	RUVBL1
+DNA helicase activity	1	RUVBL1
+transcription coactivator activity	1	RUVBL1
+TBP-class protein binding	1	RUVBL1
+ADP binding	1	RUVBL1
+cadherin binding	1	RUVBL1
+ATPase binding	1	RUVBL1
+box C/D snoRNP assembly	1	RUVBL1
+DNA duplex unwinding	1	RUVBL1
+protein stabilization	1	RUVBL1
+ canonical Wnt signaling pathway	1	RUVBL1
+ telomerase RNA localization to Cajal body	1	RUVBL1
+microtubule organizing center	1	RUVBL1
+membrane	1	RUVBL1
+extracellular exosome	1	RUVBL1
+MLL1 complex	1	RUVBL1
+R2TP complex	1	RUVBL1
+protein folding chaperone complex	1	RUVBL1
+dynein axonemal particle	1	RUVBL1
+RPAP3/R2TP/prefoldin-like complex	1	RUVBL1
+ribonucleoprotein complex	1	RUVBL1
+four-way junction DNA binding	1	YY1
+transcription cis-regulatory region binding	1	YY1
+RNA polymerase II cis-regulatory region sequence-specific DNA binding	1	YY1
+DNA-binding transcription factor activity, RNA polymerase II-specific	1	YY1
+cis-regulatory region sequence-specific DNA binding	1	YY1
+DNA-binding transcription repressor activity	1	YY1
+DNA-binding transcription repressor activity, RNA polymerase II-specific	1	YY1
+DNA-binding transcription activator activity, RNA polymerase II-specific	1	YY1
+chromatin binding	1	YY1
+RNA binding	1	YY1
+SMAD binding	1	YY1
+DNA-binding transcription factor binding	1	YY1
+sequence-specific double-stranded DNA binding	1	YY1
+negative regulation of transcription by RNA polymerase II	1	YY1
+RNA localization	1	YY1
+DNA damage response	1	YY1
+anterior/posterior pattern specification	1	YY1
+response to UV-C	1	YY1
+ gene expression	1	YY1
+negative regulation of gene expression	1	YY1
+B cell differentiation	1	YY1
+negative regulation of interferon-beta production	1	YY1
+response to prostaglandin F	1	YY1
+camera-type eye morphogenesis	1	YY1
+negative regulation of cell growth involved in cardiac muscle cell development	1	YY1
+cellular response to interleukin-1	1	YY1
+immunoglobulin heavy chain V-D-J recombination	1	YY1
+negative regulation of miRNA transcription	1	YY1
+transcription regulator complex	1	YY1
+chromatin silencing complex	1	YY1
+cytoplasm	1	YY1
+PcG protein complex	1	YY1
+nucleosome binding	1	ZNHIT1
+heart process	1	ZNHIT1
+intestinal stem cell homeostasis	1	ZNHIT1
+muscle cell differentiation	1	ZNHIT1
+calcium ion homeostasis	1	ZNHIT1
+ transcription initiation by RNA polymerase II	1	ZNHIT1
+ DNA damage response, signal transduction by p53 class mediator resulting in transcription of p21 class mediator	1	ZNHIT1
+ lymphoid progenitor cell differentiation	1	ZNHIT1

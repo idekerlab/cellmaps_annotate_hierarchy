@@ -1,0 +1,52 @@
+Write a critical and concise analysis of this system, describing your reasoning as you go and providing references to scientific papers. Format the page with Title, Summary, and References sections.
+What cellular components and complexes are involved in this system?
+What mechanisms and biological processes are performed by this system?
+Propose a name for the system to reflect the function and location, and should be specific but brief. Do not compose an acronym. Place it as the title of your report
+Provide complete paper references with pubmed link
+Proteins: AAMDC, ADISSP, AIDA, ANXA11, ASNS, BLVRB, CNOT10, EIF4EBP1, ENO2, GCLC, GNPDA1, GNPDA2, KCNAB1, KIAA1191, LRRC20, NSFL1C, OGFR, PDCD4, PMM2, PTPA, SCP2, SLC15A1, SPR, TMSB4X, TRIM25, UBE2Z, USP5.
+
+A critical goal of the analysis is to determine if this is a novel complex or if any proteins are novel members of a known complex
+System features from GO terms: 
+protein binding: 23 proteins: AAMDC, AIDA, ANXA11, ASNS, BLVRB, CNOT10, EIF4EBP1, ENO2, GCLC, GNPDA1, GNPDA2, KIAA1191, LRRC20, NSFL1C, OGFR, PDCD4, PMM2, PTPA, SCP2, TMSB4X, TRIM25, UBE2Z, USP5
+cytosol: 19 proteins: ANXA11, ASNS, BLVRB, CNOT10, EIF4EBP1, ENO2, GCLC, GNPDA1, GNPDA2, KCNAB1, NSFL1C, PDCD4, PMM2, SCP2, SPR, TMSB4X, TRIM25, UBE2Z, USP5
+cytoplasm: 13 proteins: AAMDC, AIDA, ANXA11, EIF4EBP1, GNPDA1, GNPDA2, KIAA1191, NSFL1C, OGFR, PDCD4, PTPA, TMSB4X, TRIM25
+nucleus: 9 proteins: CNOT10, GNPDA2, NSFL1C, OGFR, PDCD4, PTPA, TMSB4X, UBE2Z, USP5
+nucleoplasm: 8 proteins: ANXA11, BLVRB, PMM2, PTPA, SCP2, SPR, TRIM25, UBE2Z
+membrane: 7 proteins: AIDA, ANXA11, CNOT10, ENO2, OGFR, SCP2, SLC15A1
+extracellular exosome: 6 proteins: ANXA11, BLVRB, ENO2, GNPDA1, PTPA, SPR
+cellular_component: 4 proteins: ADISSP, AIDA, KIAA1191, OGFR
+RNA binding: 4 proteins: ANXA11, PDCD4, TMSB4X, TRIM25
+ATP binding: 4 proteins: ASNS, GCLC, PTPA, UBE2Z
+negative regulation of apoptotic process: 4 proteins: ASNS, GCLC, PDCD4, UBE2Z
+plasma membrane: 4 proteins: BLVRB, ENO2, KCNAB1, SLC15A1
+identical protein binding: 3 proteins: ENO2, GNPDA1, GNPDA2
+ubiquitin-dependent protein catabolic process: 3 proteins: TRIM25, UBE2Z, USP5
+positive regulation of NIK/NF-kappaB signaling: 2 proteins: ADISSP, PDCD4
+extracellular space: 2 proteins: ADISSP, ENO2
+protein domain specific binding: 2 proteins: AIDA, KCNAB1
+negative regulation of JUN kinase activity: 2 proteins: AIDA, PDCD4
+positive regulation of mitotic cell cycle: 2 proteins: ASNS, EIF4EBP1
+intracellular membrane-bounded organelle: 2 proteins: BLVRB, SCP2
+magnesium ion binding: 2 proteins: ENO2, GCLC
+enzyme binding: 2 proteins: ENO2, TMSB4X
+protein-containing complex binding: 2 proteins: ENO2, GCLC
+response to xenobiotic stimulus: 2 proteins: ENO2, GCLC
+response to oxidative stress: 2 proteins: GCLC, TRIM25
+positive regulation of proteasomal ubiquitin-dependent protein catabolic process: 2 proteins: GCLC, USP5
+negative regulation of DNA-templated transcription: 2 proteins: GCLC, PDCD4
+mitochondrion: 2 proteins: GCLC, SCP2
+glucosamine-6-phosphate deaminase activity: 2 proteins: GNPDA1, GNPDA2
+isomerase activity: 2 proteins: GNPDA1, GNPDA2
+carbohydrate metabolic process: 2 proteins: GNPDA1, GNPDA2
+glucosamine catabolic process: 2 proteins: GNPDA1, GNPDA2
+N-acetylglucosamine catabolic process: 2 proteins: GNPDA1, GNPDA2
+UDP-N-acetylglucosamine biosynthetic process: 2 proteins: GNPDA1, GNPDA2
+N-acetylneuraminate catabolic process: 2 proteins: GNPDA1, GNPDA2
+aldo-keto reductase (NADP) activity: 2 proteins: KCNAB1, SPR
+molecular function inhibitor activity: 2 proteins: KCNAB1, TRIM25
+ubiquitin binding: 2 proteins: NSFL1C, USP5
+apoptotic process: 2 proteins: PDCD4, UBE2Z
+metal ion binding: 2 proteins: PMM2, TRIM25
+signaling receptor binding: 2 proteins: PTPA, SCP2
+positive regulation of apoptotic process: 2 proteins: PTPA, UBE2Z
+protein ubiquitination: 2 proteins: UBE2Z, USP5

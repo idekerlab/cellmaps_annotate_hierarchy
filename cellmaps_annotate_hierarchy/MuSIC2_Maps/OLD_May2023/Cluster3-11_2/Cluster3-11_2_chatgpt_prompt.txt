@@ -1,0 +1,29 @@
+Write a critical and concise analysis of this system, describing your reasoning as you go and providing references to scientific papers. Format the page with Title, Summary, and References sections.
+What cellular components and complexes are involved in this system?
+What mechanisms and biological processes are performed by this system?
+Propose a name for the system to reflect the function and location, and should be specific but brief. Do not compose an acronym. Place it as the title of your report
+Provide complete paper references with pubmed link
+Proteins: TPD52L2, PSPH, TTC1, ISL2, PI15, STAM2, TPD52, IDH1, SMS, CYB5A, PSAT1, PDLIM2, HGS.
+
+A critical goal of the analysis is to determine if this is a novel complex or if any proteins are novel members of a known complex
+System features from GO terms: 
+protein binding: 10 proteins: ISL2, STAM2, TPD52L2, PDLIM2, PSAT1, TTC1, HGS, TPD52, IDH1, CYB5A
+cytosol: 8 proteins: STAM2, SMS, PSAT1, TTC1, HGS, PSPH, IDH1, CYB5A
+cytoplasm: 6 proteins: STAM2, TPD52L2, PSAT1, TPD52, PSPH, IDH1
+extracellular exosome: 5 proteins: SMS, PSAT1, HGS, PI15, IDH1
+metal ion binding: 4 proteins: ISL2, PDLIM2, HGS, CYB5A
+identical protein binding: 3 proteins: PSAT1, PSPH, IDH1
+protein homodimerization activity: 3 proteins: TPD52, PSPH, IDH1
+nucleus: 2 proteins: ISL2, PDLIM2
+phosphatidylinositol binding: 2 proteins: STAM2, HGS
+ubiquitin binding: 2 proteins: STAM2, HGS
+signal transduction: 2 proteins: STAM2, HGS
+macroautophagy: 2 proteins: STAM2, HGS
+multivesicular body assembly: 2 proteins: STAM2, HGS
+protein transport to vacuole involved in ubiquitin-dependent protein catabolic process via the multivesicular body sorting pathway: 2 proteins: STAM2, HGS
+membrane fission: 2 proteins: STAM2, HGS
+early endosome membrane: 2 proteins: STAM2, HGS
+ESCRT-0 complex: 2 proteins: STAM2, HGS
+intracellular membrane-bounded organelle: 2 proteins: STAM2, CYB5A
+L-serine biosynthetic process: 2 proteins: PSAT1, PSPH
+magnesium ion binding: 2 proteins: PSPH, IDH1

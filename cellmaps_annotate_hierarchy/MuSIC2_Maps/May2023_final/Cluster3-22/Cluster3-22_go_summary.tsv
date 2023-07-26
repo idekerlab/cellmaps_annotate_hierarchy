@@ -1,0 +1,285 @@
+Feature	Number of Genes	Genes
+protein binding	24	ENY2, TAF7L, TAF9, TAF9B, TADA2A, KIF20B, HMGB2, SGF29, ZZZ3, SUPT20H, ATE1, KAT2B, TAF7, MBIP, ATXN7L1, ATXN7, SF3B5, TADA3, TAF1, TAF3, TAF4, TAF5, TAF6, TAF8
+nucleoplasm	20	ENY2, TAF9, TADA1, TAF9B, KIF20B, HMGB2, ZZZ3, TAF4B, KAT2B, TAF7, MBIP, ATXN7, SF3B5, TADA3, TAF1, TAF3, TAF4, TAF5, TAF6, TAF8
+nucleus	20	TAF9, TADA1, TADA2A, KIF20B, HMGB2, SGF29, TAF4B, SUPT20H, ATE1, KAT2B, TAF7, ATXN7, SF3B5, TADA3, TAF1, TAF3, TAF4, TAF5, TAF6, TAF8
+ transcription by RNA polymerase II	17	ENY2, TAF9, TADA1, TADA2A, HMGB2, SGF29, ZZZ3, SUPT20H, KAT2B, TAF7, MBIP, ATXN7, TADA3, TAF3, TAF4, TAF5, TAF6
+ DNA-templated transcription	17	ENY2, TAF9, TADA1, TADA2A, HMGB2, SGF29, ZZZ3, SUPT20H, KAT2B, TAF7, MBIP, ATXN7, SF3B5, TADA3, TAF4, TAF5, TAF6
+histone H3 acetylation	15	ENY2, TAF9, TADA1, TADA2A, SGF29, SUPT20H, KAT2B, TAF7, MBIP, ATXN7, SF3B5, TADA3, TAF4, TAF5, TAF6
+ DNA repair	13	ENY2, TAF9, TADA1, SGF29, SUPT20H, KAT2B, TAF7, ATXN7, SF3B5, TADA3, TAF4, TAF5, TAF6
+monoubiquitinated histone deubiquitination	13	ENY2, TAF9, TADA1, SGF29, SUPT20H, KAT2B, TAF7, ATXN7, SF3B5, TADA3, TAF4, TAF5, TAF6
+monoubiquitinated histone H2A deubiquitination	13	ENY2, TAF9, TADA1, SGF29, SUPT20H, KAT2B, TAF7, ATXN7, SF3B5, TADA3, TAF4, TAF5, TAF6
+SAGA complex	11	ENY2, TAF9, TADA1, TADA2A, SGF29, SUPT20H, KAT2B, ATXN7, SF3B5, TADA3, TAF6
+RNA polymerase II general transcription initiation factor activity	11	TAF7L, TAF9, TAF9B, TAF4B, TAF7, TAF1, TAF3, TAF4, TAF5, TAF6, TAF8
+transcription factor TFIID complex	11	TAF7L, TAF9, TAF9B, TAF4B, TAF7, TAF1, TAF3, TAF4, TAF5, TAF6, TAF8
+RNA polymerase II preinitiation complex assembly	10	TAF7L, TAF9, TAF4B, TAF7, TAF1, TAF3, TAF4, TAF5, TAF6, TAF8
+ RNA splicing	9	ENY2, TAF9, TADA1, SGF29, SUPT20H, KAT2B, ATXN7, SF3B5, TADA3
+transcription factor TFTC complex	9	ENY2, TAF9, TAF9B, TAF7, ATXN7, TADA3, TAF4, TAF5, TAF6
+protein heterodimerization activity	9	TAF9, TAF9B, TAF4B, TAF7, TAF1, TAF3, TAF4, TAF6, TAF8
+protein phosphorylation	9	TAF9, TAF4B, TAF7, TAF1, TAF3, TAF4, TAF5, TAF6, TAF8
+mRNA transcription by RNA polymerase II	9	TAF9, TAF4B, TAF7, TAF1, TAF3, TAF4, TAF5, TAF6, TAF8
+ transcription initiation by RNA polymerase II	9	TAF9, TAF4B, TAF7, TAF1, TAF3, TAF4, TAF5, TAF6, TAF8
+transcription coactivator activity	8	ENY2, TAF9, TADA1, TADA2A, HMGB2, KAT2B, TADA3, TAF6
+DNA binding	7	TAF9, TADA2A, HMGB2, ZZZ3, TAF4B, TAF4, TAF6
+cytosol	7	TADA1, KIF20B, KAT2B, MBIP, ATXN7, TAF4, TAF6
+ cell cycle	7	TADA2A, KIF20B, SGF29, ZZZ3, KAT2B, MBIP, TADA3
+nucleolus	7	KIF20B, HMGB2, ZZZ3, MBIP, ATXN7, TAF1, TAF5
+transcription initiation at RNA polymerase II promoter	7	TAF4B, TAF7, TAF1, TAF4, TAF5, TAF6, TAF8
+cytoplasm	6	TAF7L, KIF20B, HMGB2, TAF4B, ATE1, TAF7
+ histone deacetylation	6	TADA2A, SGF29, ZZZ3, KAT2B, MBIP, TADA3
+histone H3-K14 acetylation	6	TADA2A, SGF29, ZZZ3, KAT2B, MBIP, TADA3
+ embryonic development	6	TADA2A, SGF29, ZZZ3, KAT2B, MBIP, TADA3
+ cell division	6	TADA2A, SGF29, ZZZ3, KAT2B, MBIP, TADA3
+ tubulin deacetylation	6	TADA2A, SGF29, ZZZ3, KAT2B, MBIP, TADA3
+mitotic spindle	6	TADA2A, SGF29, ZZZ3, KAT2B, MBIP, TADA3
+ATAC complex	6	TADA2A, SGF29, ZZZ3, KAT2B, MBIP, TADA3
+MLL1 complex	5	TAF9, TAF7, TAF1, TAF4, TAF6
+negative regulation of transcription by RNA polymerase II	5	TAF9B, HMGB2, TAF7, TAF1, TAF3
+DNA-templated transcription initiation	5	TAF9B, TAF7, TAF4, TAF5, TAF6
+transcription by RNA polymerase II	5	TAF9B, TAF7, TAF1, TAF4, TAF6
+chromatin organization	4	ENY2, HMGB2, ZZZ3, TADA3
+histone acetyltransferase activity	4	TAF9, TADA2A, KAT2B, TAF1
+DNA-binding transcription factor binding	4	TAF9, HMGB2, KAT2B, TAF7
+chromatin remodeling	4	TAF9, TADA2A, KAT2B, TAF1
+histone acetylation	4	TAF9, TADA2A, KAT2B, TADA3
+chromatin	4	HMGB2, TAF1, TAF4, TAF5
+protein-containing complex	4	HMGB2, KAT2B, TAF4, TAF6
+chromatin binding	3	ENY2, TADA2A, KAT2B
+transcription cis-regulatory region binding	3	TAF9, HMGB2, TAF7
+p53 binding	3	TAF9, TAF1, TAF3
+protein stabilization	3	TAF9, TAF9B, TAF1
+SAGA-type complex	3	TADA2A, SGF29, SUPT20H
+cell cycle	3	KIF20B, KAT2B, TAF1
+perinuclear region of cytoplasm	3	KIF20B, HMGB2, TAF8
+male germ cell nucleus	3	TAF7, TAF3, TAF4
+nuclear receptor coactivator activity	2	ENY2, TADA3
+spermatogenesis	2	TAF7L, TAF4B
+cell differentiation	2	TAF7L, TAF8
+DNA damage response	2	TAF9, TAF1
+negative regulation of apoptotic process	2	TAF9, TAF9B
+negative regulation of intrinsic apoptotic signaling pathway in response to DNA damage by p53 class mediator	2	TAF9, TAF9B
+zinc ion binding	2	TADA2A, ZZZ3
+ATP binding	2	KIF20B, TAF1
+centrosome	2	KIF20B, KAT2B
+RNA binding	2	HMGB2, SF3B5
+transcription factor binding	2	HMGB2, TAF3
+protein domain specific binding	2	HMGB2, TADA3
+negative regulation of gene expression	2	HMGB2, TAF1
+negative regulation of DNA-templated transcription	2	HMGB2, TAF7
+methylated histone binding	2	SGF29, ZZZ3
+transcription initiation-coupled chromatin remodeling	2	SGF29, KAT2B
+lysine-acetylated histone binding	2	ZZZ3, TAF1
+transcription coregulator activity	2	SUPT20H, KAT2B
+DNA-templated transcription	2	SUPT20H, KAT2B
+H3K27me3 modified histone binding	2	TAF7, TAF1
+intracellular estrogen receptor signaling pathway	2	TAF7, TADA3
+transcription regulator complex	2	TAF7, TAF1
+identical protein binding	2	MBIP, TAF5
+ gene expression	2	MBIP, TADA3
+nuclear receptor binding	2	TADA3, TAF1
+transcription regulator inhibitor activity	2	TAF1, TAF3
+negative regulation of DNA-binding transcription factor activity	2	TAF1, TAF3
+maintenance of protein location in nucleus	2	TAF3, TAF8
+aryl hydrocarbon receptor binding	2	TAF4, TAF6
+transcription elongation by RNA polymerase II	1	ENY2
+protein transport	1	ENY2
+histone deubiquitination	1	ENY2
+poly(A)+ mRNA export from nucleus	1	ENY2
+mitochondrion	1	ENY2
+nuclear pore nuclear basket	1	ENY2
+transcription export complex 2	1	ENY2
+DUBm complex	1	ENY2
+molecular_function	1	TAF7L
+biological_process	1	TAF7L
+ATPase binding	1	TAF9
+C2H2 zinc finger domain binding	1	TAF9
+box C/D snoRNP assembly	1	TAF9
+negative regulation of proteasomal ubiquitin-dependent protein catabolic process	1	TAF9
+ response to cytokine stimulus	1	TAF9
+response to interleukin-1	1	TAF9
+response to L-glutamate	1	TAF9
+pre-snoRNP complex	1	TAF9
+focal adhesion	1	TADA1
+transcription corepressor activity	1	TAF9B
+ cell growth	1	TAF9B
+ histone acetylation	1	TADA2A
+microtubule motor activity	1	KIF20B
+microtubule binding	1	KIF20B
+plus-end-directed microtubule motor activity	1	KIF20B
+ATP hydrolysis activity	1	KIF20B
+protein homodimerization activity	1	KIF20B
+WW domain binding	1	KIF20B
+neural tube closure	1	KIF20B
+microtubule-based movement	1	KIF20B
+ mitotic nuclear division	1	KIF20B
+ cell population proliferation	1	KIF20B
+ cytokinesis	1	KIF20B
+protein localization to microtubule	1	KIF20B
+neuron projection morphogenesis	1	KIF20B
+cell division	1	KIF20B
+ intracellular protein transport	1	KIF20B
+ mitotic cytokinetic process	1	KIF20B
+ establishment of cell polarity	1	KIF20B
+ neuron migration	1	KIF20B
+kinesin complex	1	KIF20B
+microtubule	1	KIF20B
+growth cone	1	KIF20B
+midbody	1	KIF20B
+intercellular bridge	1	KIF20B
+spindle midzone	1	KIF20B
+contractile ring	1	KIF20B
+mitotic spindle pole	1	KIF20B
+mitotic spindle midzone	1	KIF20B
+four-way junction DNA binding	1	HMGB2
+cis-regulatory region sequence-specific DNA binding	1	HMGB2
+damaged DNA binding	1	HMGB2
+double-stranded DNA binding	1	HMGB2
+single-stranded DNA binding	1	HMGB2
+DNA binding, bending	1	HMGB2
+chemoattractant activity	1	HMGB2
+non-sequence-specific DNA binding, bending	1	HMGB2
+RAGE receptor binding	1	HMGB2
+supercoiled DNA binding	1	HMGB2
+ endothelial cell proliferation	1	HMGB2
+inflammatory response to antigenic stimulus	1	HMGB2
+DNA topological change	1	HMGB2
+double-strand break repair via nonhomologous end joining	1	HMGB2
+nucleosome assembly	1	HMGB2
+spermatid nucleus differentiation	1	HMGB2
+male gonad development	1	HMGB2
+extrinsic apoptotic signaling pathway via death domain receptors	1	HMGB2
+ nuclease activity	1	HMGB2
+DNA geometric change	1	HMGB2
+response to lipopolysaccharide	1	HMGB2
+ interferon-beta production	1	HMGB2
+V(D)J recombination	1	HMGB2
+ DNA binding	1	HMGB2
+innate immune response	1	HMGB2
+ innate immune response	1	HMGB2
+ erythrocyte differentiation	1	HMGB2
+ megakaryocyte differentiation	1	HMGB2
+response to steroid hormone	1	HMGB2
+ neurogenesis	1	HMGB2
+defense response to Gram-negative bacterium	1	HMGB2
+defense response to Gram-positive bacterium	1	HMGB2
+positive chemotaxis	1	HMGB2
+cell chemotaxis	1	HMGB2
+cellular response to lipopolysaccharide	1	HMGB2
+ stem cell proliferation	1	HMGB2
+negative regulation of extrinsic apoptotic signaling pathway via death domain receptors	1	HMGB2
+condensed chromosome	1	HMGB2
+extracellular space	1	HMGB2
+establishment of protein localization to chromatin	1	SGF29
+NF-kappaB binding	1	TAF4B
+oogenesis	1	TAF4B
+fibrillar center	1	TAF4B
+autophagy	1	SUPT20H
+gastrulation	1	SUPT20H
+arginyltransferase activity	1	ATE1
+proteasomal protein catabolic process	1	ATE1
+protein arginylation	1	ATE1
+RNA polymerase II transcription regulatory region sequence-specific DNA binding	1	KAT2B
+diamine N-acetyltransferase activity	1	KAT2B
+lysine N-acetyltransferase activity, acting on acetyl phosphate as donor	1	KAT2B
+cyclin-dependent protein serine/threonine kinase inhibitor activity	1	KAT2B
+histone H3 acetyltransferase activity	1	KAT2B
+acetyltransferase activity	1	KAT2B
+protein kinase binding	1	KAT2B
+histone deacetylase binding	1	KAT2B
+histone H3K9 acetyltransferase activity	1	KAT2B
+peptide-lysine-N-acetyltransferase activity	1	KAT2B
+transcription regulator activator activity	1	KAT2B
+ transcription from RNA polymerase II promoter by glucose	1	KAT2B
+gluconeogenesis	1	KAT2B
+protein acetylation	1	KAT2B
+heart development	1	KAT2B
+negative regulation of cell population proliferation	1	KAT2B
+ protein ADP-ribosylation	1	KAT2B
+N-terminal peptidyl-lysine acetylation	1	KAT2B
+internal peptidyl-lysine acetylation	1	KAT2B
+peptidyl-lysine acetylation	1	KAT2B
+cellular response to insulin stimulus	1	KAT2B
+ gluconeogenesis	1	KAT2B
+ fatty acid biosynthetic process	1	KAT2B
+negative regulation of cyclin-dependent protein serine/threonine kinase activity	1	KAT2B
+ glycolytic process	1	KAT2B
+negative regulation of centriole replication	1	KAT2B
+rhythmic process	1	KAT2B
+limb development	1	KAT2B
+ attachment of mitotic spindle microtubules to kinetochore	1	KAT2B
+negative regulation of rRNA processing	1	KAT2B
+histone acetyltransferase complex	1	KAT2B
+kinetochore	1	KAT2B
+A band	1	KAT2B
+I band	1	KAT2B
+actomyosin	1	KAT2B
+TFIIH-class transcription factor complex binding	1	TAF7
+histone acetyltransferase binding	1	TAF7
+nuclear vitamin D receptor binding	1	TAF7
+nuclear thyroid hormone receptor binding	1	TAF7
+P-TEFb complex binding	1	TAF7
+spermine transport	1	TAF7
+negative regulation of protein kinase activity	1	TAF7
+negative regulation of MHC class I biosynthetic process	1	TAF7
+negative regulation of MHC class II biosynthetic process	1	TAF7
+protein kinase inhibitor activity	1	MBIP
+ JNK cascade	1	MBIP
+microtubule cytoskeleton organization	1	ATXN7
+nucleus organization	1	ATXN7
+negative regulation of microtubule depolymerization	1	ATXN7
+visual perception	1	ATXN7
+microtubule cytoskeleton	1	ATXN7
+nuclear matrix	1	ATXN7
+splicing factor binding	1	SF3B5
+mRNA splicing, via spliceosome	1	SF3B5
+U2-type prespliceosome assembly	1	SF3B5
+spliceosomal complex	1	SF3B5
+U2-type spliceosomal complex	1	SF3B5
+U2 snRNP	1	SF3B5
+U12-type spliceosomal complex	1	SF3B5
+U2-type precatalytic spliceosome	1	SF3B5
+precatalytic spliceosome	1	SF3B5
+mitotic cell cycle	1	TADA3
+ protein phosphorylation	1	TADA3
+ protein stability	1	TADA3
+RNA polymerase II core promoter sequence-specific DNA binding	1	TAF1
+RNA polymerase II general transcription initiation factor binding	1	TAF1
+RNA polymerase I general transcription initiation factor activity	1	TAF1
+protein kinase activity	1	TAF1
+protein serine/threonine kinase activity	1	TAF1
+kinase activity	1	TAF1
+TBP-class protein binding	1	TAF1
+sequence-specific DNA binding	1	TAF1
+RNA polymerase II-specific DNA-binding transcription factor binding	1	TAF1
+ubiquitin conjugating enzyme activity	1	TAF1
+protein serine kinase activity	1	TAF1
+acetyl-CoA binding	1	TAF1
+protein polyubiquitination	1	TAF1
+transcription initiation at RNA polymerase I promoter	1	TAF1
+ubiquitin-dependent protein catabolic process	1	TAF1
+peptidyl-serine phosphorylation	1	TAF1
+peptidyl-threonine phosphorylation	1	TAF1
+midbrain development	1	TAF1
+ protein binding	1	TAF1
+ proteasomal ubiquitin-dependent protein catabolic process	1	TAF1
+cellular response to UV	1	TAF1
+transcription factor catabolic process	1	TAF1
+protein autophosphorylation	1	TAF1
+cellular response to ATP	1	TAF1
+ signal transduction by p53 class mediator	1	TAF1
+ cell cycle G1/S phase transition	1	TAF1
+negative regulation of RNA polymerase II regulatory region sequence-specific DNA binding	1	TAF1
+negative regulation of protein autoubiquitination	1	TAF1
+negative regulation of ubiquitin-dependent protein catabolic process	1	TAF1
+ androgen receptor activity	1	TAF1
+metal ion binding	1	TAF3
+nuclear membrane	1	TAF3
+core promoter sequence-specific DNA binding	1	TAF4
+ovarian follicle development	1	TAF4
+actin cytoskeleton	1	TAF5
+molecular adaptor activity	1	TAF6
+apoptotic process	1	TAF6
+negative regulation of cell cycle	1	TAF6
+SLIK (SAGA-like) complex	1	TAF6
+DNA-templated transcription open complex formation	1	TAF8
+inner cell mass cell proliferation	1	TAF8
+ fat cell differentiation	1	TAF8

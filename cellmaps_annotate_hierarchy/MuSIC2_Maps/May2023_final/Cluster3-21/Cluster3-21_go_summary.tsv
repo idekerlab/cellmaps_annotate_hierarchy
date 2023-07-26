@@ -1,0 +1,299 @@
+Feature	Number of Genes	Genes
+protein binding	26	LPXN, NOS1AP, ENAH, ASCC2, GIT1, MISP, CCDC90B, CORO2B, DLGAP4, FBXO28, GPBP1L1, LDB3, LPP, LRCH4, MLF2, PGBD1, PTK2, PXN, SDC1, TLE2, TNS1, TNS3, TRIM62, TRIP6, USP33, ZYX
+focal adhesion	14	LPXN, ENAH, GIT1, MISP, CORO2B, LPP, PTK2, PXN, TLE2, TNS1, TNS3, TRIP6, USP33, ZYX
+cytosol	12	LPXN, NOS1AP, ENAH, GIT1, LPP, PTK2, PXN, TNS3, TRIM62, TRIP6, USP33, ZYX
+plasma membrane	11	LPXN, ENAH, MISP, DLGAP4, LPP, PTK2, PXN, SDC1, TRIP6, VIPR2, ZYX
+nucleus	10	LPXN, NOS1AP, ASCC2, GPBP1L1, LPP, MLF2, PTK2, TLE2, TRIP6, ZYX
+metal ion binding	8	LPXN, GIT1, LDB3, LPP, PXN, TNS1, TRIP6, ZYX
+cytoplasm	8	LPXN, CORO2B, LRCH4, MLF2, PTK2, TNS1, TRIM62, USP33
+membrane	5	LPXN, GIT1, CORO2B, MLF2, PGBD1
+perinuclear region of cytoplasm	5	LPXN, NOS1AP, LDB3, PTK2, USP33
+actin binding	5	ENAH, CORO2B, LDB3, PTK2, TNS1
+cytoskeleton	5	ENAH, LDB3, PTK2, TNS1, TRIP6
+cell migration	5	MISP, PTK2, PXN, SDC1, USP33
+stress fiber	5	LDB3, LPP, PTK2, PXN, ZYX
+signal transduction	4	LPXN, PXN, TLE2, VIPR2
+transforming growth factor beta receptor signaling pathway	4	LPXN, PTK2, PXN, ZYX
+ DNA-templated transcription	4	ASCC2, GPBP1L1, MLF2, TRIM62
+identical protein binding	4	FBXO28, PGBD1, SDC1, TRIM62
+RNA binding	4	GPBP1L1, TNS1, TRIP6, ZYX
+podosome	3	LPXN, NOS1AP, TNS3
+mitochondrion	3	NOS1AP, GIT1, CCDC90B
+axon guidance	3	ENAH, PTK2, USP33
+lamellipodium	3	ENAH, GIT1, PXN
+nucleoplasm	3	ASCC2, TLE2, USP33
+DNA-templated transcription	2	LPXN, GPBP1L1
+cell adhesion	2	LPXN, PXN
+ cell adhesion mediated by integrin	2	LPXN, PTK2
+substrate adhesion-dependent cell spreading	2	LPXN, PXN
+endothelial cell migration	2	LPXN, PXN
+nuclear speck	2	LPXN, ASCC2
+cell projection	2	LPXN, TNS3
+Z disc	2	NOS1AP, LDB3
+filopodium	2	NOS1AP, ENAH
+glutamatergic synapse	2	NOS1AP, DLGAP4
+synapse	2	ENAH, GIT1
+ubiquitin binding	2	ASCC2, USP33
+small GTPase binding	2	GIT1, USP33
+ G protein-coupled receptor signaling pathway	2	GIT1, USP33
+ephrin receptor signaling pathway	2	GIT1, PTK2
+centrosome	2	GIT1, USP33
+actin filament binding	2	MISP, CORO2B
+intracellular membrane-bounded organelle	2	MISP, PTK2
+vinculin binding	2	CORO2B, PXN
+actin cytoskeleton organization	2	CORO2B, LDB3
+focal adhesion assembly	2	CORO2B, TRIP6
+actin cytoskeleton	2	CORO2B, ZYX
+adherens junction	2	LDB3, ZYX
+negative regulation of DNA-templated transcription	2	LRCH4, TLE2
+endocytosis	2	PGBD1, USP33
+protein phosphatase binding	2	PTK2, PXN
+signal complex assembly	2	PTK2, PXN
+integrin-mediated signaling pathway	2	PTK2, ZYX
+ cell migration	2	PTK2, TRIP6
+growth hormone receptor signaling pathway	2	PTK2, PXN
+cell cortex	2	PTK2, PXN
+cell surface	2	SDC1, TNS1
+phosphoprotein phosphatase activity	2	TNS1, TNS3
+zinc ion binding	2	TRIM62, USP33
+cell-cell signaling	2	VIPR2, ZYX
+transcription coregulator activity	1	LPXN
+negative regulation of cell adhesion	1	LPXN
+negative regulation of B cell receptor signaling pathway	1	LPXN
+protein-containing complex assembly	1	LPXN
+nitric-oxide synthase binding	1	NOS1AP
+ heart rate by chemical signal	1	NOS1AP
+ gene expression	1	NOS1AP
+ nitric oxide mediated signal transduction	1	NOS1AP
+ nitric oxide biosynthetic process	1	NOS1AP
+ nitric-oxide synthase activity	1	NOS1AP
+ ventricular cardiac muscle cell membrane repolarization	1	NOS1AP
+ cardiac muscle cell action potential	1	NOS1AP
+postsynaptic actin cytoskeleton organization	1	NOS1AP
+ potassium ion transmembrane transport	1	NOS1AP
+ high voltage-gated calcium channel activity	1	NOS1AP
+ delayed rectifier potassium channel activity	1	NOS1AP
+ calcium ion transmembrane transport via high voltage-gated calcium channel	1	NOS1AP
+ voltage-gated potassium channel activity involved in ventricular cardiac muscle cell action potential repolarization	1	NOS1AP
+ peptidyl-cysteine S-nitrosylation	1	NOS1AP
+caveola	1	NOS1AP
+T-tubule	1	NOS1AP
+nuclear membrane	1	NOS1AP
+sarcoplasmic reticulum membrane	1	NOS1AP
+sarcolemma	1	NOS1AP
+anchoring junction	1	NOS1AP
+profilin binding	1	ENAH
+SH3 domain binding	1	ENAH
+WW domain binding	1	ENAH
+actin polymerization or depolymerization	1	ENAH
+actin polymerization-dependent cell motility	1	ENAH
+cell junction	1	ENAH
+enzyme activator activity	1	ASCC2
+nucleoside-triphosphatase regulator activity	1	ASCC2
+K63-linked polyubiquitin modification-dependent protein binding	1	ASCC2
+DNA dealkylation involved in DNA repair	1	ASCC2
+DNA duplex unwinding	1	ASCC2
+ribosome disassembly	1	ASCC2
+rescue of stalled ribosome	1	ASCC2
+ribosome-associated ubiquitin-dependent protein catabolic process	1	ASCC2
+cytosolic ribosome	1	ASCC2
+activating signal cointegrator 1 complex	1	ASCC2
+DNA repair complex	1	ASCC2
+GTPase activator activity	1	GIT1
+gamma-tubulin binding	1	GIT1
+protein-containing complex binding	1	GIT1
+intramembranous ossification	1	GIT1
+brain development	1	GIT1
+locomotory behavior	1	GIT1
+ ARF protein signal transduction	1	GIT1
+ cytokinesis	1	GIT1
+negative regulation of interleukin-1 beta production	1	GIT1
+synaptic vesicle recycling	1	GIT1
+cell redox homeostasis	1	GIT1
+negative regulation of glycolytic process	1	GIT1
+neuron development	1	GIT1
+motor learning	1	GIT1
+cellular response to lipopolysaccharide	1	GIT1
+ microtubule nucleation	1	GIT1
+presynaptic modulation of chemical synaptic transmission	1	GIT1
+negative regulation of inflammatory response to wounding	1	GIT1
+ synaptic vesicle exocytosis	1	GIT1
+postsynaptic density	1	GIT1
+neuron projection	1	GIT1
+calyx of Held	1	GIT1
+mitotic spindle pole	1	GIT1
+postsynapse	1	GIT1
+establishment of mitotic spindle orientation	1	MISP
+cell division	1	MISP
+organelle localization	1	MISP
+establishment of centrosome localization	1	MISP
+mitotic spindle assembly	1	MISP
+ protein localization to cell cortex	1	MISP
+actin filament	1	MISP
+cortical actin cytoskeleton	1	MISP
+spindle pole centrosome	1	MISP
+mitotic spindle astral microtubule end	1	MISP
+mitochondrial membrane	1	CCDC90B
+talin binding	1	CORO2B
+ glomerular filtration	1	CORO2B
+negative regulation of cell-substrate adhesion	1	CORO2B
+ actin cytoskeleton organization	1	CORO2B
+negative regulation of stress fiber assembly	1	CORO2B
+ cellular response to stress	1	CORO2B
+negative regulation of establishment of protein localization	1	CORO2B
+ establishment of protein localization	1	CORO2B
+molecular adaptor activity	1	DLGAP4
+signaling	1	DLGAP4
+ postsynaptic neurotransmitter receptor activity	1	DLGAP4
+neuromuscular junction	1	DLGAP4
+cholinergic synapse	1	DLGAP4
+postsynaptic specialization	1	DLGAP4
+protein polyubiquitination	1	FBXO28
+kinetochore	1	FBXO28
+DNA binding	1	GPBP1L1
+protein kinase C binding	1	LDB3
+cytoskeletal protein binding	1	LDB3
+muscle alpha-actinin binding	1	LDB3
+heart development	1	LDB3
+sarcomere organization	1	LDB3
+muscle structure development	1	LDB3
+pseudopodium	1	LDB3
+filamentous actin	1	LDB3
+biological_process	1	LPP
+cell-cell adhesion	1	LPP
+nervous system development	1	LRCH4
+PML body	1	LRCH4
+scavenger receptor activity	1	PGBD1
+sequence-specific DNA binding	1	PGBD1
+protein tyrosine kinase activity	1	PTK2
+non-membrane spanning protein tyrosine kinase activity	1	PTK2
+protein tyrosine phosphatase activity	1	PTK2
+integrin binding	1	PTK2
+ATP binding	1	PTK2
+JUN kinase binding	1	PTK2
+protein kinase binding	1	PTK2
+SH2 domain binding	1	PTK2
+molecular function activator activity	1	PTK2
+angiogenesis	1	PTK2
+placenta development	1	PTK2
+ protein phosphorylation	1	PTK2
+heart morphogenesis	1	PTK2
+protein phosphorylation	1	PTK2
+epidermal growth factor receptor signaling pathway	1	PTK2
+ cell population proliferation	1	PTK2
+ cell shape	1	PTK2
+ endothelial cell migration	1	PTK2
+ epithelial cell migration	1	PTK2
+ epithelial to mesenchymal transition	1	PTK2
+ macrophage chemotaxis	1	PTK2
+ fibroblast migration	1	PTK2
+ phosphatidylinositol 3-kinase signaling	1	PTK2
+peptidyl-tyrosine phosphorylation	1	PTK2
+negative regulation of cell-cell adhesion	1	PTK2
+establishment of cell polarity	1	PTK2
+detection of muscle stretch	1	PTK2
+netrin-activated signaling pathway	1	PTK2
+Fc-gamma receptor signaling pathway involved in phagocytosis	1	PTK2
+negative regulation of apoptotic process	1	PTK2
+ GTPase activity	1	PTK2
+ phosphatidylinositol 3-kinase activity	1	PTK2
+ osteoblast differentiation	1	PTK2
+ protein kinase activity	1	PTK2
+protein autophosphorylation	1	PTK2
+vascular endothelial growth factor receptor signaling pathway	1	PTK2
+cell motility	1	PTK2
+ cytoskeleton organization	1	PTK2
+ focal adhesion assembly	1	PTK2
+ protein kinase B signaling	1	PTK2
+ wound healing	1	PTK2
+ macrophage proliferation	1	PTK2
+ substrate adhesion-dependent cell spreading	1	PTK2
+ ubiquitin-dependent protein catabolic process	1	PTK2
+negative regulation of anoikis	1	PTK2
+ciliary basal body	1	PTK2
+dendritic spine	1	PTK2
+beta-catenin binding	1	PXN
+neuropilin binding	1	PXN
+cellular response to reactive oxygen species	1	PXN
+ stress fiber assembly	1	PXN
+microtubule associated complex	1	PXN
+cell-cell junction	1	PXN
+cargo receptor activity	1	SDC1
+ureteric bud development	1	SDC1
+receptor-mediated endocytosis	1	SDC1
+inflammatory response	1	SDC1
+response to toxic substance	1	SDC1
+wound healing	1	SDC1
+odontogenesis	1	SDC1
+response to hydrogen peroxide	1	SDC1
+myoblast development	1	SDC1
+response to glucocorticoid	1	SDC1
+response to cAMP	1	SDC1
+response to calcium ion	1	SDC1
+striated muscle cell development	1	SDC1
+Sertoli cell development	1	SDC1
+canonical Wnt signaling pathway	1	SDC1
+ exosomal secretion	1	SDC1
+ extracellular exosome assembly	1	SDC1
+Golgi lumen	1	SDC1
+external side of plasma membrane	1	SDC1
+protein-containing complex	1	SDC1
+lysosomal lumen	1	SDC1
+extracellular exosome	1	SDC1
+transcription corepressor activity	1	TLE2
+animal organ morphogenesis	1	TLE2
+Wnt signaling pathway	1	TLE2
+negative regulation of canonical Wnt signaling pathway	1	TLE2
+extracellular space	1	TLE2
+transcription regulator complex	1	TLE2
+nuclear body	1	TLE2
+fibroblast migration	1	TNS1
+dephosphorylation	1	TNS3
+transcription coactivator activity	1	TRIM62
+ubiquitin-protein transferase activity	1	TRIM62
+ubiquitin protein ligase activity	1	TRIM62
+negative regulation of epithelial to mesenchymal transition	1	TRIM62
+protein ubiquitination	1	TRIM62
+viral release from host cell	1	TRIM62
+negative regulation of viral transcription	1	TRIM62
+ I-kappaB kinase/NF-kappaB signaling	1	TRIM62
+protein K27-linked ubiquitination	1	TRIM62
+innate immune response	1	TRIM62
+ viral entry into host cell	1	TRIM62
+ DNA-binding transcription factor activity	1	TRIM62
+ NF-kappaB transcription factor activity	1	TRIM62
+ antifungal innate immune response	1	TRIM62
+interleukin-1 receptor binding	1	TRIP6
+kinase binding	1	TRIP6
+nuclear thyroid hormone receptor binding	1	TRIP6
+chordate embryonic development	1	TRIP6
+ NIK/NF-kappaB signaling	1	TRIP6
+G protein-coupled receptor binding	1	USP33
+cysteine-type endopeptidase activity	1	USP33
+cysteine-type deubiquitinase activity	1	USP33
+ubiquitin-dependent protein catabolic process	1	USP33
+cellular response to starvation	1	USP33
+ autophagy	1	USP33
+protein deubiquitination	1	USP33
+negative regulation of protein binding	1	USP33
+ protein binding	1	USP33
+protein stabilization	1	USP33
+centrosome duplication	1	USP33
+protein K63-linked deubiquitination	1	USP33
+protein K48-linked deubiquitination	1	USP33
+Golgi apparatus	1	USP33
+VCB complex	1	USP33
+neuronal cell body	1	USP33
+G protein-coupled receptor activity	1	VIPR2
+vasoactive intestinal polypeptide receptor activity	1	VIPR2
+G protein-coupled peptide receptor activity	1	VIPR2
+peptide hormone binding	1	VIPR2
+cell surface receptor signaling pathway	1	VIPR2
+adenylate cyclase-modulating G protein-coupled receptor signaling pathway	1	VIPR2
+activation of adenylate cyclase activity	1	VIPR2
+negative regulation of smooth muscle cell proliferation	1	VIPR2
+cell-matrix adhesion	1	ZYX
+stress fiber assembly	1	ZYX
+ inflammatory response	1	ZYX
+cellular response to type II interferon	1	ZYX
+phagocytic vesicle	1	ZYX

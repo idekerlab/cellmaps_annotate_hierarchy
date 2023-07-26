@@ -1,0 +1,94 @@
+Your response should be formatted as Markdown paragraphs
+Write a critical and concise analysis of this human protein system, describing your reasoning as you go and providing references to scientific papers.
+
+A critical goal of the analysis is to determine if this is a novel complex or if any proteins are novel members of a known complex
+
+Format with Title, Summary, and References sections.        
+Avoid overly general statements of how the proteins are involved in various cellular processes        
+Avoid repeating the goals of the analysis.
+
+What cellular components and complexes are involved in this system?
+What mechanisms and biological processes are performed by this system?
+Propose a name for the system to reflect the cellular location and function, and should be specific but brief. Do not compose an acronym. Place it as the title of your report
+Human Proteins: NCAPH2, IL13RA2, HOXD4, DDB2, SNX7, CDK5, METTL9, SCAMP1, TJP1, TMEM186, VPS13B, SAMD4A, SSX2IP, PRKCI, MAGI1, DDR1, CCDC85C, PURG, ELOC, MRPS18B, PARD3, KANK3, TJP2, CGN, AFDN, CADM1, COLEC12.
+
+System features from GO terms: 
+protein binding: 23 proteins: NCAPH2, IL13RA2, HOXD4, DDB2, SNX7, CDK5, METTL9, SCAMP1, TJP1, TMEM186, SAMD4A, SSX2IP, PRKCI, MAGI1, DDR1, ELOC, MRPS18B, PARD3, TJP2, CGN, AFDN, CADM1, COLEC12
+plasma membrane: 12 proteins: CDK5, SCAMP1, TJP1, PRKCI, MAGI1, DDR1, PARD3, TJP2, CGN, AFDN, CADM1, COLEC12
+cell junction: 11 proteins: NCAPH2, HOXD4, DDB2, CDK5, TJP1, SAMD4A, MAGI1, MRPS18B, PARD3, CGN, AFDN
+nucleoplasm: 10 proteins: NCAPH2, HOXD4, DDB2, CDK5, PRKCI, MAGI1, ELOC, MRPS18B, TJP2, AFDN
+nucleus: 8 proteins: NCAPH2, HOXD4, DDB2, CDK5, SSX2IP, PRKCI, PURG, TJP2
+cytosol: 8 proteins: CDK5, TJP1, SAMD4A, PRKCI, ELOC, PARD3, TJP2, AFDN
+adherens junction: 7 proteins: TJP1, SSX2IP, MAGI1, CCDC85C, PARD3, TJP2, AFDN
+bicellular tight junction: 7 proteins: TJP1, PRKCI, MAGI1, CCDC85C, PARD3, TJP2, CGN
+cytoplasm: 5 proteins: CDK5, TJP1, SSX2IP, MAGI1, KANK3
+cell adhesion: 5 proteins: SSX2IP, MAGI1, DDR1, PARD3, AFDN
+membrane: 4 proteins: NCAPH2, CDK5, SCAMP1, COLEC12
+ATP binding: 4 proteins: CDK5, PRKCI, MAGI1, DDR1
+cadherin binding: 4 proteins: TJP1, TJP2, CGN, AFDN
+cell adhesion molecule binding: 4 proteins: TJP1, TJP2, AFDN, CADM1
+tight junction: 4 proteins: TJP1, PRKCI, PARD3, AFDN
+cell-cell junction: 4 proteins: MAGI1, PARD3, AFDN, CADM1
+extracellular space: 3 proteins: IL13RA2, DDR1, COLEC12
+ transcription by RNA polymerase II: 3 proteins: HOXD4, PURG, ELOC
+protein-containing complex: 3 proteins: DDB2, TJP1, SSX2IP
+microtubule cytoskeleton organization: 3 proteins: CDK5, PARD3, CGN
+dendrite: 3 proteins: CDK5, SAMD4A, CADM1
+mitochondrion: 3 proteins: METTL9, TMEM186, MRPS18B
+protein domain specific binding: 3 proteins: SCAMP1, SSX2IP, TJP2
+cell-cell junction organization: 3 proteins: TJP1, PRKCI, TJP2
+establishment of endothelial intestinal barrier: 3 proteins: TJP1, TJP2, AFDN
+apical junction complex: 3 proteins: TJP1, CCDC85C, PARD3
+synapse: 3 proteins: SAMD4A, PURG, CADM1
+metal ion binding: 3 proteins: PRKCI, DDR1, COLEC12
+intercellular bridge: 2 proteins: NCAPH2, PRKCI
+receptor complex: 2 proteins: IL13RA2, DDR1
+RNA polymerase II transcription regulatory region sequence-specific DNA binding: 2 proteins: HOXD4, PURG
+DNA-binding transcription factor activity, RNA polymerase II-specific: 2 proteins: HOXD4, PURG
+chromatin: 2 proteins: HOXD4, DDB2
+phosphatidylinositol binding: 2 proteins: SNX7, PARD3
+protein transport: 2 proteins: SNX7, SCAMP1
+early endosome membrane: 2 proteins: SNX7, VPS13B
+protein kinase activity: 2 proteins: CDK5, PRKCI
+protein serine/threonine kinase activity: 2 proteins: CDK5, PRKCI
+microtubule binding: 2 proteins: CDK5, CGN
+protein serine kinase activity: 2 proteins: CDK5, PRKCI
+protein phosphorylation: 2 proteins: CDK5, PRKCI
+axonogenesis: 2 proteins: CDK5, PARD3
+peptidyl-serine phosphorylation: 2 proteins: CDK5, PRKCI
+ cell migration: 2 proteins: CDK5, TJP1
+neuron projection development: 2 proteins: CDK5, VPS13B
+protein autophosphorylation: 2 proteins: CDK5, DDR1
+ protein localization to plasma membrane: 2 proteins: CDK5, PRKCI
+postsynaptic density: 2 proteins: CDK5, CADM1
+neuron projection: 2 proteins: CDK5, CADM1
+Schaffer collateral - CA1 synapse: 2 proteins: CDK5, PRKCI
+glutamatergic synapse: 2 proteins: CDK5, PRKCI
+recycling endosome membrane: 2 proteins: SCAMP1, VPS13B
+maintenance of blood-brain barrier: 2 proteins: TJP1, TJP2
+negative regulation of apoptotic process: 2 proteins: TJP1, PRKCI
+cell-cell adhesion: 2 proteins: TJP1, TJP2
+protein localization to cell-cell junction: 2 proteins: TJP1, TJP2
+ blood-brain barrier permeability: 2 proteins: TJP1, TJP2
+ cell-cell adhesion mediated by cadherin: 2 proteins: TJP1, AFDN
+basolateral plasma membrane: 2 proteins: TJP1, CADM1
+cell projection: 2 proteins: TJP1, MAGI1
+mitochondrial inner membrane: 2 proteins: TMEM186, MRPS18B
+phosphatidylinositol-3-phosphate binding: 2 proteins: VPS13B, PARD3
+vesicle-mediated transport: 2 proteins: VPS13B, PRKCI
+Golgi membrane: 2 proteins: VPS13B, PRKCI
+RNA binding: 2 proteins: SAMD4A, PURG
+cell leading edge: 2 proteins: SSX2IP, PRKCI
+protein targeting to membrane: 2 proteins: PRKCI, PARD3
+ neuron projection development: 2 proteins: PRKCI, DDR1
+establishment or maintenance of epithelial cell apical/basal polarity: 2 proteins: PRKCI, PARD3
+apical plasma membrane: 2 proteins: PRKCI, PARD3
+extracellular exosome: 2 proteins: PRKCI, DDR1
+PAR polarity complex: 2 proteins: PRKCI, PARD3
+signal transduction: 2 proteins: MAGI1, AFDN
+ cell-cell adhesion: 2 proteins: MAGI1, AFDN
+protein-containing complex assembly: 2 proteins: MAGI1, PARD3
+protein-macromolecule adaptor activity: 2 proteins: ELOC, TJP2
+bicellular tight junction assembly: 2 proteins: PARD3, AFDN
+cytoskeleton: 2 proteins: PARD3, KANK3
+cell-cell contact zone: 2 proteins: TJP2, AFDN

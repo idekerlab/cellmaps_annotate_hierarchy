@@ -1,0 +1,246 @@
+Feature	Number of Genes	Genes
+mitochondrion	20	ACADM, CIAPIN1, GRPEL1, HSDL2, ME2, PNPT1, PUS1, SLC25A14, TRMT10C, PDK2, ETFB, HDHD5, AMMECR1, MTHFD1L, POLDIP2, PYCR2, PCK2, HK2, MCCC2, ALDH1L2
+mitochondrial matrix	14	ACADM, GRPEL1, ME2, PNPT1, PUS1, TRMT10C, PDK2, ETFB, MTHFD1L, POLDIP2, PYCR2, PCK2, MCCC2, ALDH1L2
+protein binding	14	CIAPIN1, GRPEL1, HNRNPLL, PNPT1, TRMT10C, PDK2, ETFB, AMMECR1, POLDIP2, PYCR2, PCK2, HK2, MCCC2, ALDH1L2
+nucleus	7	ACADM, HNRNPLL, PNPT1, PUS1, TRMT10C, AMMECR1, POLDIP2
+nucleoplasm	7	CIAPIN1, GRPEL1, PUS1, TRMT10C, PDK2, AMMECR1, ALDH1L2
+cytosol	7	PNPT1, PDK2, ATP6V1C2, MTHFD1L, PCK2, HK2, MCCC2
+identical protein binding	5	ACADM, GRPEL1, PNPT1, TRMT10C, ATP6V1C2
+cytoplasm	4	ACADM, CIAPIN1, PNPT1, PUS1
+RNA binding	4	HNRNPLL, PNPT1, PUS1, TRMT10C
+membrane	4	HNRNPLL, HSDL2, MTHFD1L, HK2
+ATP binding	4	PDK2, MTHFD1L, HK2, MCCC2
+electron transfer activity	3	CIAPIN1, ME2, ETFB
+protein homodimerization activity	3	GRPEL1, PDK2, MTHFD1L
+plasma membrane	3	SLC25A14, POLDIP2, HK2
+regulation of gluconeogenesis	2	ACADM, PDK2
+fatty acid beta-oxidation	2	ACADM, ALDH1L2
+fatty acid beta-oxidation using acyl-CoA dehydrogenase	2	ACADM, ETFB
+response to starvation	2	ACADM, PCK2
+electron transport chain	2	CIAPIN1, ME2
+mitochondrial intermembrane space	2	CIAPIN1, PNPT1
+mRNA processing	2	HNRNPLL, PUS1
+molecular_function	2	HSDL2, CA10
+biological_process	2	HSDL2, AMMECR1
+intracellular membrane-bounded organelle	2	ME2, HK2
+mitochondrial RNA 5'-end processing	2	PNPT1, TRMT10C
+cellular response to oxidative stress	2	PNPT1, PYCR2
+mitochondrion morphogenesis	2	PNPT1, POLDIP2
+tRNA binding	2	PUS1, TRMT10C
+mitochondrial nucleoid	2	TRMT10C, POLDIP2
+glucose metabolic process	2	PDK2, HK2
+extracellular exosome	2	ATP6V1C2, ALDH1L2
+acyl-CoA dehydrogenase activity	1	ACADM
+flavin adenine dinucleotide binding	1	ACADM
+medium-chain-acyl-CoA dehydrogenase activity	1	ACADM
+liver development	1	ACADM
+glycogen biosynthetic process	1	ACADM
+response to cold	1	ACADM
+post-embryonic development	1	ACADM
+carnitine metabolic process, CoA-linked	1	ACADM
+carnitine biosynthetic process	1	ACADM
+medium-chain fatty acid metabolic process	1	ACADM
+medium-chain fatty acid catabolic process	1	ACADM
+cardiac muscle cell differentiation	1	ACADM
+axon	1	ACADM
+mitochondrial membrane	1	ACADM
+iron ion binding	1	CIAPIN1
+methyltransferase activity	1	CIAPIN1
+2 iron, 2 sulfur cluster binding	1	CIAPIN1
+4 iron, 4 sulfur cluster binding	1	CIAPIN1
+apoptotic process	1	CIAPIN1
+iron-sulfur cluster assembly	1	CIAPIN1
+hemopoiesis	1	CIAPIN1
+negative regulation of apoptotic process	1	CIAPIN1
+nucleolus	1	CIAPIN1
+adenyl-nucleotide exchange factor activity	1	GRPEL1
+unfolded protein binding	1	GRPEL1
+protein-folding chaperone binding	1	GRPEL1
+protein folding	1	GRPEL1
+intracellular protein transport	1	GRPEL1
+protein import into mitochondrial matrix	1	GRPEL1
+PAM complex, Tim23 associated import motor	1	GRPEL1
+TIM23 mitochondrial import inner membrane translocase complex	1	GRPEL1
+mRNA binding	1	HNRNPLL
+positive regulation of RNA splicing	1	HNRNPLL
+regulation of RNA splicing	1	HNRNPLL
+synapse	1	HNRNPLL
+ribonucleoprotein complex	1	HNRNPLL
+steroid dehydrogenase activity	1	HSDL2
+peroxisome	1	HSDL2
+malic enzyme activity	1	ME2
+malate dehydrogenase (decarboxylating) (NAD+) activity	1	ME2
+malate dehydrogenase (decarboxylating) (NADP+) activity	1	ME2
+oxaloacetate decarboxylase activity	1	ME2
+metal ion binding	1	ME2
+NAD binding	1	ME2
+pyruvate metabolic process	1	ME2
+malate metabolic process	1	ME2
+regulation of NADP metabolic process	1	ME2
+3'-5'-RNA exonuclease activity	1	PNPT1
+polyribonucleotide nucleotidyltransferase activity	1	PNPT1
+poly(U) RNA binding	1	PNPT1
+poly(G) binding	1	PNPT1
+miRNA binding	1	PNPT1
+mitochondrial RNA catabolic process	1	PNPT1
+mitochondrial mRNA catabolic process	1	PNPT1
+positive regulation of mitochondrial RNA catabolic process	1	PNPT1
+mitochondrial RNA 3'-end processing	1	PNPT1
+RNA catabolic process	1	PNPT1
+mRNA catabolic process	1	PNPT1
+cellular response to interferon-beta	1	PNPT1
+RNA import into mitochondrion	1	PNPT1
+rRNA import into mitochondrion	1	PNPT1
+regulation of cellular respiration	1	PNPT1
+RNA polyadenylation	1	PNPT1
+negative regulation of growth	1	PNPT1
+protein homooligomerization	1	PNPT1
+response to cAMP	1	PNPT1
+regulation of cell cycle	1	PNPT1
+response to growth hormone	1	PNPT1
+positive regulation of mRNA catabolic process	1	PNPT1
+protein homotrimerization	1	PNPT1
+nuclear polyadenylation-dependent mRNA catabolic process	1	PNPT1
+RNA phosphodiester bond hydrolysis, exonucleolytic	1	PNPT1
+mitochondrial mRNA polyadenylation	1	PNPT1
+liver regeneration	1	PNPT1
+positive regulation of miRNA catabolic process	1	PNPT1
+regulation of cellular senescence	1	PNPT1
+endoplasmic reticulum membrane	1	PNPT1
+polysomal ribosome	1	PNPT1
+mitochondrial degradosome	1	PNPT1
+steroid receptor RNA activator RNA binding	1	PUS1
+pseudouridine synthase activity	1	PUS1
+tRNA pseudouridine synthase activity	1	PUS1
+RNA splicing	1	PUS1
+tRNA pseudouridine synthesis	1	PUS1
+mitochondrial tRNA pseudouridine synthesis	1	PUS1
+mRNA pseudouridine synthesis	1	PUS1
+transmembrane transporter activity	1	SLC25A14
+mitochondrial transport	1	SLC25A14
+aerobic respiration	1	SLC25A14
+transmembrane transport	1	SLC25A14
+mitochondrial inner membrane	1	SLC25A14
+tRNA (guanine-N1-)-methyltransferase activity	1	TRMT10C
+tRNA (adenine-N1-)-methyltransferase activity	1	TRMT10C
+tRNA (guanine(9)-N(1))-methyltransferase activity	1	TRMT10C
+mRNA (adenine-N1-)-methyltransferase activity	1	TRMT10C
+positive regulation of mitochondrial translation	1	TRMT10C
+mitochondrial tRNA methylation	1	TRMT10C
+mRNA methylation	1	TRMT10C
+mitochondrial tRNA processing	1	TRMT10C
+mitochondrial tRNA 5'-end processing	1	TRMT10C
+mitochondrial tRNA 3'-end processing	1	TRMT10C
+mitochondrial ribonuclease P complex	1	TRMT10C
+tRNA methyltransferase complex	1	TRMT10C
+carbonate dehydratase activity	1	CA10
+zinc ion binding	1	CA10
+brain development	1	CA10
+cellular_component	1	CA10
+protein kinase activity	1	PDK2
+pyruvate dehydrogenase (acetyl-transferring) kinase activity	1	PDK2
+protein phosphorylation	1	PDK2
+regulation of pH	1	PDK2
+insulin receptor signaling pathway	1	PDK2
+regulation of acetyl-CoA biosynthetic process from pyruvate	1	PDK2
+regulation of cellular ketone metabolic process	1	PDK2
+regulation of glucose metabolic process	1	PDK2
+cellular response to nutrient	1	PDK2
+cellular response to reactive oxygen species	1	PDK2
+glucose homeostasis	1	PDK2
+regulation of calcium-mediated signaling	1	PDK2
+intrinsic apoptotic signaling pathway by p53 class mediator	1	PDK2
+mitochondrial pyruvate dehydrogenase complex	1	PDK2
+amino acid catabolic process	1	ETFB
+respiratory electron transport chain	1	ETFB
+electron transfer flavoprotein complex	1	ETFB
+proton-transporting ATPase activity, rotational mechanism	1	ATP6V1C2
+regulation of macroautophagy	1	ATP6V1C2
+positive regulation of Wnt signaling pathway	1	ATP6V1C2
+proton transmembrane transport	1	ATP6V1C2
+vacuolar proton-transporting V-type ATPase, V1 domain	1	ATP6V1C2
+lysosomal membrane	1	ATP6V1C2
+glycerophospholipid biosynthetic process	1	HDHD5
+formate-tetrahydrofolate ligase activity	1	MTHFD1L
+methylenetetrahydrofolate dehydrogenase (NADP+) activity	1	MTHFD1L
+neural tube closure	1	MTHFD1L
+folic acid-containing compound metabolic process	1	MTHFD1L
+10-formyltetrahydrofolate biosynthetic process	1	MTHFD1L
+formate metabolic process	1	MTHFD1L
+tetrahydrofolate interconversion	1	MTHFD1L
+embryonic neurocranium morphogenesis	1	MTHFD1L
+embryonic viscerocranium morphogenesis	1	MTHFD1L
+protein-containing complex binding	1	PSMG4
+proteasome assembly	1	PSMG4
+protein-containing complex	1	PSMG4
+DNA binding	1	POLDIP2
+negative regulation of macroautophagy	1	POLDIP2
+positive regulation of mitotic cell cycle	1	POLDIP2
+positive regulation of focal adhesion assembly	1	POLDIP2
+error-free translesion synthesis	1	POLDIP2
+mitotic spindle assembly	1	POLDIP2
+positive regulation of mitotic cytokinesis	1	POLDIP2
+positive regulation of actin filament binding	1	POLDIP2
+vascular associated smooth muscle cell proliferation	1	POLDIP2
+positive regulation of Rho guanyl-nucleotide exchange factor activity	1	POLDIP2
+cell-cell junction	1	POLDIP2
+midbody	1	POLDIP2
+mitotic spindle	1	POLDIP2
+pyrroline-5-carboxylate reductase activity	1	PYCR2
+proline biosynthetic process	1	PYCR2
+L-proline biosynthetic process	1	PYCR2
+phosphoenolpyruvate carboxykinase activity	1	PCK2
+phosphoenolpyruvate carboxykinase (GTP) activity	1	PCK2
+GTP binding	1	PCK2
+manganese ion binding	1	PCK2
+gluconeogenesis	1	PCK2
+oxaloacetate metabolic process	1	PCK2
+NADH oxidation	1	PCK2
+propionate catabolic process	1	PCK2
+positive regulation of insulin secretion	1	PCK2
+response to lipopolysaccharide	1	PCK2
+cellular response to insulin stimulus	1	PCK2
+glycerol biosynthetic process from pyruvate	1	PCK2
+hepatocyte differentiation	1	PCK2
+cellular response to glucose stimulus	1	PCK2
+cellular response to tumor necrosis factor	1	PCK2
+cellular response to dexamethasone stimulus	1	PCK2
+glucokinase activity	1	HK2
+hexokinase activity	1	HK2
+glucose binding	1	HK2
+fructokinase activity	1	HK2
+response to hypoxia	1	HK2
+intracellular glucose homeostasis	1	HK2
+response to ischemia	1	HK2
+fructose 6-phosphate metabolic process	1	HK2
+glycolytic process	1	HK2
+lactation	1	HK2
+apoptotic mitochondrial changes	1	HK2
+negative regulation of mitochondrial membrane permeability	1	HK2
+positive regulation of angiogenesis	1	HK2
+regulation of glucose import	1	HK2
+carbohydrate phosphorylation	1	HK2
+glucose 6-phosphate metabolic process	1	HK2
+canonical glycolysis	1	HK2
+establishment of protein localization to mitochondrion	1	HK2
+maintenance of protein location in mitochondrion	1	HK2
+positive regulation of autophagy of mitochondrion in response to mitochondrial depolarization	1	HK2
+cellular response to leukemia inhibitory factor	1	HK2
+negative regulation of reactive oxygen species metabolic process	1	HK2
+mitochondrial outer membrane	1	HK2
+centrosome	1	HK2
+sarcoplasmic reticulum	1	HK2
+methylcrotonoyl-CoA carboxylase activity	1	MCCC2
+leucine catabolic process	1	MCCC2
+branched-chain amino acid catabolic process	1	MCCC2
+coenzyme A metabolic process	1	MCCC2
+3-methylcrotonyl-CoA carboxylase complex, mitochondrial	1	MCCC2
+methylcrotonoyl-CoA carboxylase complex	1	MCCC2
+aldehyde dehydrogenase (NAD+) activity	1	ALDH1L2
+formyltetrahydrofolate dehydrogenase activity	1	ALDH1L2
+hydroxymethyl-, formyl- and related transferase activity	1	ALDH1L2
+one-carbon metabolic process	1	ALDH1L2
+NADPH regeneration	1	ALDH1L2
+biosynthetic process	1	ALDH1L2
+10-formyltetrahydrofolate catabolic process	1	ALDH1L2
+folic acid metabolic process	1	ALDH1L2

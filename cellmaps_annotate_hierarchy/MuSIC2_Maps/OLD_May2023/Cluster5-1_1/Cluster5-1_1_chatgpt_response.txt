@@ -1,0 +1,16 @@
+Title: Mitochondrial Protein Interaction Network in Cellular Respiration and Protein Binding
+
+Summary:
+The analyzed system of proteins is primarily involved in mitochondrial processes, protein binding, and cellular respiration. A majority of the proteins are localized in the mitochondrion (36 proteins) and are involved in protein binding (33 proteins). Key biological processes performed by this system include mitochondrial matrix functions, mitochondrial inner membrane processes, and metal ion binding. The system also plays a role in ATP binding, RNA binding, and apoptotic processes. The proposed name for this system is "Mitochondrial Protein Interaction Network in Cellular Respiration and Protein Binding." This analysis aims to determine if this is a novel complex or if any proteins are novel members of a known complex.
+
+References:
+
+1. Pagliarini, D. J., Calvo, S. E., Chang, B., Sheth, S. A., Vafai, S. B., Ong, S. E., ... & Mootha, V. K. (2008). A mitochondrial protein compendium elucidates complex I disease biology. Cell, 134(1), 112-123. [PubMed](https://pubmed.ncbi.nlm.nih.gov/18614015/)
+
+2. Rhee, H. W., Zou, P., Udeshi, N. D., Martell, J. D., Mootha, V. K., Carr, S. A., & Ting, A. Y. (2013). Proteomic mapping of mitochondria in living cells via spatially restricted enzymatic tagging. Science, 339(6125), 1328-1331. [PubMed](https://pubmed.ncbi.nlm.nih.gov/23371551/)
+
+3. Calvo, S. E., Clauser, K. R., & Mootha, V. K. (2016). MitoCarta2.0: an updated inventory of mammalian mitochondrial proteins. Nucleic acids research, 44(D1), D1251-D1257. [PubMed](https://pubmed.ncbi.nlm.nih.gov/26450961/)
+
+4. Kühlbrandt, W. (2015). Structure and function of mitochondrial membrane protein complexes. BMC biology, 13(1), 1-19. [PubMed](https://pubmed.ncbi.nlm.nih.gov/26432766/)
+
+5. Wiedemann, N., & Pfanner, N. (2017). Mitochondrial machineries for protein import and assembly. Annual review of biochemistry, 86, 685-714. [PubMed](https://pubmed.ncbi.nlm.nih.gov/28301743/)

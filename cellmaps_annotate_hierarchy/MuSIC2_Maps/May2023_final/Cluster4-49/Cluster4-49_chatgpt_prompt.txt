@@ -1,0 +1,26 @@
+Your response should be formatted as Markdown paragraphs
+Write a critical and concise analysis of this human protein system, describing your reasoning as you go and providing references to scientific papers.
+
+A critical goal of the analysis is to determine if this is a novel complex or if any proteins are novel members of a known complex
+
+Format with Title, Summary, and References sections.        
+Avoid overly general statements of how the proteins are involved in various cellular processes        
+Avoid repeating the goals of the analysis.
+
+What cellular components and complexes are involved in this system?
+What mechanisms and biological processes are performed by this system?
+Propose a name for the system to reflect the cellular location and function, and should be specific but brief. Do not compose an acronym. Place it as the title of your report
+Human Proteins: SEC24C, RAB11FIP1, SEC23B, SEC24B.
+
+System features from GO terms: 
+cytosol: 4 proteins: SEC24C, RAB11FIP1, SEC23B, SEC24B
+protein binding: 3 proteins: SEC24C, SEC23B, SEC24B
+zinc ion binding: 3 proteins: SEC24C, SEC23B, SEC24B
+intracellular protein transport: 3 proteins: SEC24C, SEC23B, SEC24B
+COPII-coated vesicle cargo loading: 3 proteins: SEC24C, SEC23B, SEC24B
+endoplasmic reticulum membrane: 3 proteins: SEC24C, SEC23B, SEC24B
+COPII vesicle coat: 3 proteins: SEC24C, SEC23B, SEC24B
+endoplasmic reticulum exit site: 3 proteins: SEC24C, SEC23B, SEC24B
+SNARE binding: 2 proteins: SEC24C, SEC24B
+endoplasmic reticulum to Golgi vesicle-mediated transport: 2 proteins: SEC24C, SEC24B
+ER to Golgi transport vesicle membrane: 2 proteins: SEC24C, SEC24B

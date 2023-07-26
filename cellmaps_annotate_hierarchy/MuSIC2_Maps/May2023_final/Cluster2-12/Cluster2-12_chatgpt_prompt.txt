@@ -1,0 +1,131 @@
+Your response should be formatted as Markdown paragraphs
+Write a critical and concise analysis of this human protein system, describing your reasoning as you go and providing references to scientific papers.
+
+A critical goal of the analysis is to determine if this is a novel complex or if any proteins are novel members of a known complex
+
+Format with Title, Summary, and References sections.        
+Avoid overly general statements of how the proteins are involved in various cellular processes        
+Avoid repeating the goals of the analysis.
+
+What cellular components and complexes are involved in this system?
+What mechanisms and biological processes are performed by this system?
+Propose a name for the system to reflect the cellular location and function, and should be specific but brief. Do not compose an acronym. Place it as the title of your report
+Human Proteins: SYTL3, BCAM, STX17, TNFRSF9, FAM111A, AKR1C1, AKR1C2, AKR1C4, APEX2, ATOSB, BTBD10, CAB39, CAMK4, CCDC127, CILK1, CSNK1D, CTTNBP2NL, DKC1, DMXL1, ESRRA, GAB1, HERC4, INO80C, JAZF1, KDM4A, KIF1B, KXD1, LRRC47, LSM7, MUS81, NECTIN2, NEDD1, NOP58, OGDHL, OTUD5, PAGE1, PARS2, POLR1A, POLR2F, PSPC1, RBMS2, RREB1, SANBR, SMARCA5, SPANXN3, SUCO, TAF1C, TCOF1, TIAM2, TIMM13, TMEM177, TRAF4, TRIM27, TSEN15, UBTF, ZNF174.
+
+System features from GO terms: 
+protein binding: 41 proteins: SYTL3, BCAM, STX17, TNFRSF9, FAM111A, AKR1C1, APEX2, ATOSB, BTBD10, CAB39, CILK1, CSNK1D, CTTNBP2NL, DKC1, ESRRA, GAB1, INO80C, JAZF1, KDM4A, KIF1B, KXD1, LRRC47, LSM7, MUS81, NECTIN2, NEDD1, NOP58, OGDHL, PAGE1, POLR1A, PSPC1, SMARCA5, SPANXN3, TAF1C, TCOF1, TIMM13, TMEM177, TRAF4, TRIM27, TSEN15, UBTF
+nucleoplasm: 24 proteins: FAM111A, APEX2, BTBD10, CAMK4, CSNK1D, DKC1, ESRRA, INO80C, JAZF1, KDM4A, LSM7, MUS81, NEDD1, NOP58, POLR1A, POLR2F, PSPC1, SMARCA5, TAF1C, TCOF1, TRAF4, TRIM27, TSEN15, UBTF
+fibrillar center: 23 proteins: FAM111A, APEX2, BTBD10, CAMK4, CILK1, DKC1, ESRRA, HERC4, JAZF1, KDM4A, NEDD1, NOP58, POLR2F, PSPC1, RREB1, SMARCA5, TAF1C, TCOF1, TIMM13, TRAF4, TRIM27, UBTF, ZNF174
+nucleus: 22 proteins: FAM111A, APEX2, ATOSB, CAMK4, CILK1, CSNK1D, DKC1, ESRRA, JAZF1, KDM4A, LSM7, MUS81, OTUD5, POLR2F, PSPC1, RBMS2, RREB1, SMARCA5, TRAF4, TRIM27, UBTF, ZNF174
+cytosol: 21 proteins: STX17, AKR1C1, AKR1C2, AKR1C4, CAB39, CILK1, CSNK1D, GAB1, HERC4, JAZF1, KDM4A, LSM7, NEDD1, NOP58, OTUD5, POLR2F, RBMS2, TCOF1, TIAM2, TRAF4, TRIM27
+cytoplasm: 17 proteins: FAM111A, AKR1C4, BTBD10, CAB39, CAMK4, CILK1, CSNK1D, CTTNBP2NL, DKC1, ESRRA, GAB1, HERC4, PSPC1, RREB1, SUCO, TRAF4, TRIM27
+nucleolus: 9 proteins: DKC1, MUS81, NOP58, SMARCA5, TAF1C, TCOF1, TRIM27, TSEN15, UBTF
+extracellular exosome: 8 proteins: BCAM, AKR1C1, AKR1C4, CAB39, CAMK4, NECTIN2, RREB1, TIAM2
+RNA binding: 8 proteins: DKC1, LRRC47, LSM7, NOP58, PSPC1, RBMS2, TCOF1, UBTF
+plasma membrane: 7 proteins: SYTL3, BCAM, STX17, TNFRSF9, CSNK1D, NECTIN2, TRAF4
+mitochondrion: 7 proteins: STX17, APEX2, KIF1B, OGDHL, PARS2, TIMM13, TRIM27
+ DNA-templated transcription: 7 proteins: CAMK4, ESRRA, INO80C, PSPC1, RREB1, SMARCA5, TRIM27
+metal ion binding: 7 proteins: JAZF1, MUS81, OGDHL, POLR1A, RREB1, TRIM27, ZNF174
+signal transduction: 6 proteins: BCAM, CAB39, CAMK4, CILK1, CSNK1D, GAB1
+DNA binding: 6 proteins: APEX2, MUS81, POLR1A, POLR2F, SMARCA5, TRIM27
+zinc ion binding: 6 proteins: APEX2, ESRRA, KDM4A, TIMM13, TRAF4, TRIM27
+ATP binding: 6 proteins: CAMK4, CILK1, CSNK1D, KIF1B, PARS2, SMARCA5
+membrane: 5 proteins: CAB39, NECTIN2, NOP58, SUCO, TIAM2
+identical protein binding: 5 proteins: NECTIN2, PARS2, SANBR, TRAF4, TRIM27
+ transcription by RNA polymerase II: 4 proteins: ESRRA, RREB1, SMARCA5, ZNF174
+negative regulation of transcription by RNA polymerase II: 4 proteins: JAZF1, RREB1, TRIM27, ZNF174
+transcription by RNA polymerase I: 4 proteins: POLR1A, POLR2F, TAF1C, UBTF
+apoptotic process: 3 proteins: TNFRSF9, KIF1B, TRAF4
+ cell population proliferation: 3 proteins: TNFRSF9, AKR1C2, ESRRA
+chromatin: 3 proteins: FAM111A, ESRRA, ZNF174
+alditol:NADP+ 1-oxidoreductase activity: 3 proteins: AKR1C1, AKR1C2, AKR1C4
+estradiol 17-beta-dehydrogenase [NAD(P)] activity: 3 proteins: AKR1C1, AKR1C2, AKR1C4
+oxidoreductase activity, acting on NAD(P)H, quinone or similar compound as acceptor: 3 proteins: AKR1C1, AKR1C2, AKR1C4
+bile acid binding: 3 proteins: AKR1C1, AKR1C2, AKR1C4
+17-beta-hydroxysteroid dehydrogenase (NAD+) activity: 3 proteins: AKR1C1, AKR1C2, AKR1C4
+androsterone dehydrogenase activity: 3 proteins: AKR1C1, AKR1C2, AKR1C4
+androstan-3-alpha,17-beta-diol dehydrogenase activity: 3 proteins: AKR1C1, AKR1C2, AKR1C4
+ketosteroid monooxygenase activity: 3 proteins: AKR1C1, AKR1C2, AKR1C4
+prostaglandin metabolic process: 3 proteins: AKR1C1, AKR1C2, AKR1C4
+progesterone metabolic process: 3 proteins: AKR1C1, AKR1C2, AKR1C4
+daunorubicin metabolic process: 3 proteins: AKR1C1, AKR1C2, AKR1C4
+doxorubicin metabolic process: 3 proteins: AKR1C1, AKR1C2, AKR1C4
+cellular response to jasmonic acid stimulus: 3 proteins: AKR1C1, AKR1C2, AKR1C4
+peptidyl-serine phosphorylation: 3 proteins: CAB39, CAMK4, CSNK1D
+intracellular signal transduction: 3 proteins: CAB39, CAMK4, CILK1
+protein serine kinase activity: 3 proteins: CAMK4, CILK1, CSNK1D
+protein phosphorylation: 3 proteins: CAMK4, CILK1, CSNK1D
+ciliary basal body: 3 proteins: CILK1, CSNK1D, NEDD1
+DNA repair: 3 proteins: INO80C, MUS81, SMARCA5
+chromatin remodeling: 3 proteins: INO80C, KDM4A, SMARCA5
+negative regulation of DNA-templated transcription: 3 proteins: KDM4A, PSPC1, ZNF174
+transcription by RNA polymerase II: 3 proteins: POLR2F, RREB1, TAF1C
+innate immune response: 3 proteins: PSPC1, TRAF4, TRIM27
+intracellular protein transport: 2 proteins: SYTL3, STX17
+exocytosis: 2 proteins: SYTL3, STX17
+extracellular region: 2 proteins: BCAM, CAB39
+external side of plasma membrane: 2 proteins: BCAM, TNFRSF9
+protein kinase binding: 2 proteins: STX17, TRAF4
+Golgi organization: 2 proteins: STX17, CSNK1D
+rough endoplasmic reticulum: 2 proteins: STX17, SUCO
+endoplasmic reticulum-Golgi intermediate compartment membrane: 2 proteins: STX17, CSNK1D
+replication fork processing: 2 proteins: FAM111A, MUS81
+aldo-keto reductase (NADP) activity: 2 proteins: AKR1C1, AKR1C4
+phenanthrene 9,10-monooxygenase activity: 2 proteins: AKR1C1, AKR1C2
+carboxylic acid binding: 2 proteins: AKR1C1, AKR1C2
+dihydrotestosterone 17-beta-dehydrogenase activity: 2 proteins: AKR1C1, AKR1C4
+5alpha-androstane-3beta,17beta-diol dehydrogenase activity: 2 proteins: AKR1C1, AKR1C4
+testosterone 17-beta-dehydrogenase (NADP+) activity: 2 proteins: AKR1C1, AKR1C4
+trans-1,2-dihydrobenzene-1,2-diol dehydrogenase activity: 2 proteins: AKR1C1, AKR1C2
+indanol dehydrogenase activity: 2 proteins: AKR1C1, AKR1C2
+retinoid metabolic process: 2 proteins: AKR1C1, AKR1C4
+digestion: 2 proteins: AKR1C1, AKR1C2
+bile acid and bile salt transport: 2 proteins: AKR1C1, AKR1C4
+epithelial cell differentiation: 2 proteins: AKR1C1, AKR1C2
+steroid metabolic process: 2 proteins: AKR1C2, AKR1C4
+endonuclease activity: 2 proteins: APEX2, MUS81
+DNA recombination: 2 proteins: APEX2, INO80C
+ osteoclast differentiation: 2 proteins: CAMK4, ESRRA
+protein kinase activity: 2 proteins: CILK1, CSNK1D
+protein serine/threonine kinase activity: 2 proteins: CILK1, CSNK1D
+microtubule nucleation: 2 proteins: CSNK1D, NEDD1
+ circadian rhythm: 2 proteins: CSNK1D, PSPC1
+centrosome: 2 proteins: CSNK1D, NEDD1
+neuron projection: 2 proteins: CSNK1D, KIF1B
+perinuclear region of cytoplasm: 2 proteins: CSNK1D, TRAF4
+lamellipodium: 2 proteins: CTTNBP2NL, TIAM2
+rRNA processing: 2 proteins: DKC1, NOP58
+RNA processing: 2 proteins: DKC1, RBMS2
+DNA-binding transcription factor activity, RNA polymerase II-specific: 2 proteins: ESRRA, ZNF174
+DNA-binding transcription factor activity: 2 proteins: ESRRA, ZNF174
+sequence-specific DNA binding: 2 proteins: ESRRA, ZNF174
+sequence-specific double-stranded DNA binding: 2 proteins: ESRRA, ZNF174
+ osteoblast differentiation: 2 proteins: ESRRA, SUCO
+cell-cell junction: 2 proteins: GAB1, NECTIN2
+ubiquitin protein ligase activity: 2 proteins: HERC4, TRIM27
+spermatogenesis: 2 proteins: HERC4, TRIM27
+ DNA replication: 2 proteins: INO80C, SMARCA5
+ubiquitin protein ligase binding: 2 proteins: KDM4A, TRAF4
+negative regulation of autophagy: 2 proteins: KDM4A, TRIM27
+pericentric heterochromatin: 2 proteins: KDM4A, SMARCA5
+ATP hydrolysis activity: 2 proteins: KIF1B, SMARCA5
+vesicle-mediated transport: 2 proteins: KIF1B, KXD1
+nuclear replication fork: 2 proteins: MUS81, SMARCA5
+protein homodimerization activity: 2 proteins: NECTIN2, ZNF174
+mitochondrial matrix: 2 proteins: OGDHL, PARS2
+negative regulation of type I interferon production: 2 proteins: OTUD5, TRIM27
+RNA polymerase I activity: 2 proteins: POLR1A, POLR2F
+chromatin binding: 2 proteins: POLR1A, UBTF
+RNA polymerase I complex: 2 proteins: POLR1A, POLR2F
+nuclear speck: 2 proteins: PSPC1, RREB1
+RNA polymerase II cis-regulatory region sequence-specific DNA binding: 2 proteins: RREB1, ZNF174
+nuclear body: 2 proteins: RREB1, ZNF174
+ transcription by RNA polymerase I: 2 proteins: SMARCA5, UBTF
+RNA polymerase I core promoter sequence-specific DNA binding: 2 proteins: TAF1C, UBTF
+RNA polymerase I general transcription initiation factor activity: 2 proteins: TAF1C, UBTF
+RNA polymerase I preinitiation complex assembly: 2 proteins: TAF1C, UBTF
+transcription initiation at RNA polymerase I promoter: 2 proteins: TAF1C, UBTF
+scaffold protein binding: 2 proteins: TCOF1, UBTF
+mitochondrial inner membrane: 2 proteins: TIMM13, TMEM177
+protein K63-linked ubiquitination: 2 proteins: TRAF4, TRIM27
+nucleic acid binding: 2 proteins: TRIM27, TSEN15

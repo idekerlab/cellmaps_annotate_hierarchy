@@ -1,0 +1,58 @@
+Your response should be formatted as Markdown paragraphs
+Write a critical and concise analysis of this human protein system, describing your reasoning as you go and providing references to scientific papers.
+
+A critical goal of the analysis is to determine if this is a novel complex or if any proteins are novel members of a known complex
+
+Format with Title, Summary, and References sections.        
+Avoid overly general statements of how the proteins are involved in various cellular processes        
+Avoid repeating the goals of the analysis.
+
+What cellular components and complexes are involved in this system?
+What mechanisms and biological processes are performed by this system?
+Propose a name for the system to reflect the cellular location and function, and should be specific but brief. Do not compose an acronym. Place it as the title of your report
+Human Proteins: OLFM4, PPL, AZGP1, RSRP1, ECM1, NLRP10, IMPA2, ESRP1, TRIM29, LGALSL, ZG16B, ME1, HES1, CCDC107, ALDH1A3, GTF2A2, ANXA8L1, DEF8, HEY1, JPH3, YOD1.
+
+System features from GO terms: 
+protein binding: 17 proteins: OLFM4, PPL, AZGP1, RSRP1, ECM1, IMPA2, ESRP1, TRIM29, LGALSL, ZG16B, ME1, HES1, CCDC107, GTF2A2, HEY1, JPH3, YOD1
+cytoplasm: 9 proteins: PPL, NLRP10, IMPA2, ME1, HES1, ALDH1A3, ANXA8L1, HEY1, YOD1
+cytosol: 7 proteins: OLFM4, PPL, NLRP10, IMPA2, ME1, ALDH1A3, YOD1
+nucleoplasm: 6 proteins: OLFM4, NLRP10, ESRP1, HES1, GTF2A2, HEY1
+extracellular exosome: 6 proteins: OLFM4, PPL, AZGP1, ECM1, ZG16B, ALDH1A3
+nucleus: 6 proteins: AZGP1, RSRP1, ESRP1, HES1, GTF2A2, HEY1
+extracellular space: 4 proteins: OLFM4, AZGP1, ECM1, ZG16B
+ transcription by RNA polymerase II: 4 proteins: ECM1, HES1, GTF2A2, HEY1
+protein homodimerization activity: 4 proteins: IMPA2, HES1, ALDH1A3, GTF2A2
+cell adhesion: 3 proteins: OLFM4, AZGP1, HES1
+signal transduction: 3 proteins: OLFM4, ECM1, IMPA2
+extracellular region: 3 proteins: OLFM4, AZGP1, ECM1
+plasma membrane: 3 proteins: OLFM4, PPL, JPH3
+membrane: 3 proteins: PPL, CCDC107, JPH3
+metal ion binding: 3 proteins: IMPA2, DEF8, YOD1
+negative regulation of transcription by RNA polymerase II: 3 proteins: TRIM29, HES1, HEY1
+RNA polymerase II-specific DNA-binding transcription factor binding: 3 proteins: HES1, GTF2A2, HEY1
+structural molecule activity: 2 proteins: OLFM4, PPL
+cadherin binding: 2 proteins: OLFM4, PPL
+ apoptotic process: 2 proteins: OLFM4, ALDH1A3
+mitochondrion: 2 proteins: OLFM4, ME1
+protein-containing complex: 2 proteins: OLFM4, HES1
+retina homeostasis: 2 proteins: AZGP1, ZG16B
+collagen-containing extracellular matrix: 2 proteins: AZGP1, ECM1
+angiogenesis: 2 proteins: ECM1, HEY1
+inflammatory response: 2 proteins: ECM1, NLRP10
+innate immune response: 2 proteins: NLRP10, TRIM29
+identical protein binding: 2 proteins: TRIM29, ME1
+carbohydrate binding: 2 proteins: LGALSL, ZG16B
+molecular_function: 2 proteins: ZG16B, JPH3
+protein homotetramerization: 2 proteins: ME1, ALDH1A3
+DNA-binding transcription factor activity, RNA polymerase II-specific: 2 proteins: HES1, HEY1
+DNA-binding transcription repressor activity, RNA polymerase II-specific: 2 proteins: HES1, HEY1
+sequence-specific double-stranded DNA binding: 2 proteins: HES1, HEY1
+Notch signaling pathway: 2 proteins: HES1, HEY1
+anterior/posterior pattern specification: 2 proteins: HES1, HEY1
+negative regulation of neuron differentiation: 2 proteins: HES1, HEY1
+negative regulation of DNA-templated transcription: 2 proteins: HES1, HEY1
+ neurogenesis: 2 proteins: HES1, HEY1
+ventricular septum morphogenesis: 2 proteins: HES1, HEY1
+labyrinthine layer blood vessel development: 2 proteins: HES1, HEY1
+chromatin: 2 proteins: HES1, HEY1
+neuromuscular process controlling balance: 2 proteins: ALDH1A3, JPH3

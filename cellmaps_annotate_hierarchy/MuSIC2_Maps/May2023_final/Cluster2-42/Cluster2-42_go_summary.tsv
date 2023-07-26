@@ -1,0 +1,170 @@
+Feature	Number of Genes	Genes
+protein binding	10	SNX6, RPS6KC1, COMMD7, BIRC6, VPS35, SNX2, RAB5A, EEA1, SNX1, VPS26A
+endosome	8	SNX6, RPS6KC1, BIRC6, VPS35, SNX2, RAB5A, SNX1, VPS26A
+cytosol	8	SNX6, BIRC6, VPS35, SNX2, RAB5A, EEA1, SNX1, VPS26A
+intracellular protein transport	6	SNX6, VPS35, SNX2, RAB5A, SNX1, VPS26A
+lysosome	6	SNX6, RPS6KC1, VPS35, SNX2, SNX1, VPS26A
+retrograde transport, endosome to Golgi	5	SNX6, VPS35, SNX2, SNX1, VPS26A
+cytoplasm	5	SNX6, SNX2, RAB5A, EEA1, SNX1
+retromer complex	5	SNX6, VPS35, SNX2, SNX1, VPS26A
+early endosome membrane	5	SNX6, SNX2, RAB5A, EEA1, SNX1
+early endosome	5	RPS6KC1, VPS35, RAB5A, EEA1, VPS26A
+membrane	5	RPS6KC1, BIRC6, SNX2, EEA1, SNX1
+endosome membrane	5	VPS35, SNX2, RAB5A, SNX1, VPS26A
+phosphatidylinositol binding	4	SNX6, RPS6KC1, SNX2, SNX1
+protein homodimerization activity	4	SNX6, SNX2, EEA1, SNX1
+ macroautophagy	3	SNX6, VPS35, VPS26A
+retromer, tubulation complex	3	SNX6, SNX2, SNX1
+tubular endosome	3	SNX6, VPS35, VPS26A
+glutamatergic synapse	3	SNX6, VPS35, EEA1
+extracellular exosome	3	VPS35, RAB5A, EEA1
+negative regulation of DNA-templated transcription	2	SNX6, COMMD7
+nucleus	2	SNX6, BIRC6
+protein phosphorylation	2	RPS6KC1, BIRC6
+endocytic recycling	2	VPS35, VPS26A
+ protein catabolic process	2	VPS35, SNX1
+retromer, cargo-selective complex	2	VPS35, VPS26A
+neuronal cell body	2	VPS35, RAB5A
+epidermal growth factor receptor binding	2	SNX2, SNX1
+insulin receptor binding	2	SNX2, SNX1
+identical protein binding	2	SNX2, SNX1
+cadherin binding	2	SNX2, SNX1
+protein heterodimerization activity	2	SNX2, SNX1
+transferrin receptor binding	2	SNX2, SNX1
+leptin receptor binding	2	SNX2, SNX1
+early endosome to Golgi transport	2	SNX2, SNX1
+lamellipodium morphogenesis	2	SNX2, SNX1
+lamellipodium	2	SNX2, SNX1
+protein-containing complex	2	SNX2, SNX1
+endocytosis	2	RAB5A, EEA1
+modulation by host of viral process	2	RAB5A, EEA1
+early endosome to late endosome transport	2	RAB5A, EEA1
+intracellular membrane-bounded organelle	2	RAB5A, SNX1
+vesicle	2	SNX1, VPS26A
+dynactin binding	1	SNX6
+type I transforming growth factor beta receptor binding	1	SNX6
+negative regulation of epidermal growth factor-activated receptor activity	1	SNX6
+negative regulation of transforming growth factor beta receptor signaling pathway	1	SNX6
+negative regulation of neuron apoptotic process	1	SNX6
+ postsynaptic membrane neurotransmitter receptor levels	1	SNX6
+ histamine secretion by mast cell	1	SNX6
+cellular response to amyloid-beta	1	SNX6
+protein serine/threonine kinase activity	1	RPS6KC1
+ATP binding	1	RPS6KC1
+protein serine kinase activity	1	RPS6KC1
+signal transduction	1	RPS6KC1
+NF-kappaB binding	1	COMMD7
+negative regulation of NF-kappaB transcription factor activity	1	COMMD7
+tumor necrosis factor-mediated signaling pathway	1	COMMD7
+cytoplasmic vesicle	1	COMMD7
+ubiquitin-protein transferase activity	1	BIRC6
+cysteine-type endopeptidase inhibitor activity	1	BIRC6
+ubiquitin conjugating enzyme activity	1	BIRC6
+apoptotic process	1	BIRC6
+cell cycle	1	BIRC6
+cell population proliferation	1	BIRC6
+ cell population proliferation	1	BIRC6
+negative regulation of peptidase activity	1	BIRC6
+protein ubiquitination	1	BIRC6
+ cytokinesis	1	BIRC6
+negative regulation of apoptotic process	1	BIRC6
+cell division	1	BIRC6
+labyrinthine layer development	1	BIRC6
+negative regulation of extrinsic apoptotic signaling pathway	1	BIRC6
+spindle pole	1	BIRC6
+trans-Golgi network	1	BIRC6
+microtubule organizing center	1	BIRC6
+midbody	1	BIRC6
+Flemming body	1	BIRC6
+D1 dopamine receptor binding	1	VPS35
+lysosome organization	1	VPS35
+ gene expression	1	VPS35
+negative regulation of gene expression	1	VPS35
+ mitochondrion organization	1	VPS35
+Wnt signaling pathway	1	VPS35
+ protein stability	1	VPS35
+protein destabilization	1	VPS35
+negative regulation of protein homooligomerization	1	VPS35
+protein localization to endosome	1	VPS35
+mitochondrial fragmentation involved in apoptotic process	1	VPS35
+transcytosis	1	VPS35
+negative regulation of inflammatory response	1	VPS35
+modulation of chemical synaptic transmission	1	VPS35
+voluntary musculoskeletal movement	1	VPS35
+ protein metabolic process	1	VPS35
+ dopamine receptor signaling pathway	1	VPS35
+negative regulation of cell death	1	VPS35
+ Wnt protein secretion	1	VPS35
+ synapse maturation	1	VPS35
+ mitochondrial fission	1	VPS35
+ canonical Wnt signaling pathway	1	VPS35
+ locomotion involved in locomotory behavior	1	VPS35
+neurotransmitter receptor transport, endosome to postsynaptic membrane	1	VPS35
+vesicle-mediated transport in synapse	1	VPS35
+mitochondrion to lysosome transport	1	VPS35
+neurotransmitter receptor transport, endosome to plasma membrane	1	VPS35
+ postsynapse assembly	1	VPS35
+negative regulation of neuron death	1	VPS35
+negative regulation of late endosome to lysosome transport	1	VPS35
+ dendritic spine maintenance	1	VPS35
+ dopamine biosynthetic process	1	VPS35
+negative regulation of protein localization	1	VPS35
+negative regulation of lysosomal protein catabolic process	1	VPS35
+ presynapse assembly	1	VPS35
+ terminal button organization	1	VPS35
+mitochondrion	1	VPS35
+lysosomal membrane	1	VPS35
+late endosome	1	VPS35
+postsynaptic density	1	VPS35
+neuron projection	1	VPS35
+perinuclear region of cytoplasm	1	VPS35
+dopaminergic synapse	1	VPS35
+presynapse	1	VPS35
+mitochondrion-derived vesicle	1	VPS35
+GTPase activity	1	RAB5A
+G protein activity	1	RAB5A
+GTP binding	1	RAB5A
+GDP binding	1	RAB5A
+phagocytosis	1	RAB5A
+synaptic vesicle recycling	1	RAB5A
+ exocytosis	1	RAB5A
+ long-term neuronal synaptic plasticity	1	RAB5A
+ endosome size	1	RAB5A
+ filopodium assembly	1	RAB5A
+amyloid-beta clearance by transcytosis	1	RAB5A
+receptor internalization involved in canonical Wnt signaling pathway	1	RAB5A
+ synaptic vesicle exocytosis	1	RAB5A
+ autophagosome assembly	1	RAB5A
+ruffle	1	RAB5A
+nucleoplasm	1	RAB5A
+plasma membrane	1	RAB5A
+synaptic vesicle	1	RAB5A
+endomembrane system	1	RAB5A
+actin cytoskeleton	1	RAB5A
+axon	1	RAB5A
+dendrite	1	RAB5A
+clathrin-coated endocytic vesicle membrane	1	RAB5A
+phagocytic vesicle membrane	1	RAB5A
+early phagosome	1	RAB5A
+somatodendritic compartment	1	RAB5A
+melanosome	1	RAB5A
+terminal bouton	1	RAB5A
+axon terminus	1	RAB5A
+membrane raft	1	RAB5A
+phagocytic vesicle	1	RAB5A
+cytoplasmic side of early endosome membrane	1	RAB5A
+postsynaptic early endosome	1	RAB5A
+calmodulin binding	1	EEA1
+1-phosphatidylinositol binding	1	EEA1
+zinc ion binding	1	EEA1
+GTP-dependent protein binding	1	EEA1
+vesicle fusion	1	EEA1
+synaptic vesicle to endosome fusion	1	EEA1
+chemical synaptic transmission, postsynaptic	1	EEA1
+serine-pyruvate aminotransferase complex	1	EEA1
+extrinsic component of plasma membrane	1	EEA1
+axonal spine	1	EEA1
+Schaffer collateral - CA1 synapse	1	EEA1
+postsynapse	1	EEA1
+receptor internalization	1	SNX1
+Golgi apparatus	1	SNX1

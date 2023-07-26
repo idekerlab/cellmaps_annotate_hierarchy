@@ -1,0 +1,44 @@
+Your response should be formatted as Markdown paragraphs
+Write a critical and concise analysis of this human protein system, describing your reasoning as you go and providing references to scientific papers.
+
+A critical goal of the analysis is to determine if this is a novel complex or if any proteins are novel members of a known complex
+
+Format with Title, Summary, and References sections.        
+Avoid overly general statements of how the proteins are involved in various cellular processes        
+Avoid repeating the goals of the analysis.
+
+What cellular components and complexes are involved in this system?
+What mechanisms and biological processes are performed by this system?
+Propose a name for the system to reflect the cellular location and function, and should be specific but brief. Do not compose an acronym. Place it as the title of your report
+Human Proteins: RRAS2, VPS25, TRIM4, AHNAK, GDI1, GDI2, INPP5A, PPP1R16A, PTAR1, RAB27B, RAP1GDS1, SYTL2, SYTL4.
+
+System features from GO terms: 
+protein binding: 11 proteins: RRAS2, VPS25, AHNAK, GDI1, GDI2, INPP5A, PPP1R16A, RAB27B, RAP1GDS1, SYTL2, SYTL4
+plasma membrane: 8 proteins: RRAS2, TRIM4, AHNAK, INPP5A, PPP1R16A, RAB27B, SYTL2, SYTL4
+cytoplasm: 8 proteins: VPS25, TRIM4, AHNAK, GDI1, GDI2, PPP1R16A, PTAR1, SYTL2
+extracellular exosome: 6 proteins: RRAS2, VPS25, AHNAK, GDI2, RAB27B, RAP1GDS1
+cytosol: 6 proteins: VPS25, TRIM4, AHNAK, GDI1, GDI2, RAP1GDS1
+membrane: 5 proteins: RRAS2, AHNAK, GDI2, INPP5A, SYTL2
+small GTPase binding: 4 proteins: GDI1, GDI2, SYTL2, SYTL4
+vesicle-mediated transport: 4 proteins: GDI1, GDI2, RAB27B, SYTL2
+focal adhesion: 3 proteins: RRAS2, AHNAK, GDI2
+nucleus: 3 proteins: VPS25, AHNAK, RAP1GDS1
+GTPase activity: 2 proteins: RRAS2, RAB27B
+GTP binding: 2 proteins: RRAS2, RAB27B
+GDP binding: 2 proteins: RRAS2, RAB27B
+endoplasmic reticulum: 2 proteins: RRAS2, RAP1GDS1
+RNA binding: 2 proteins: AHNAK, GDI2
+ plasma membrane repair: 2 proteins: AHNAK, SYTL4
+vesicle: 2 proteins: AHNAK, GDI2
+Rab GDP-dissociation inhibitor activity: 2 proteins: GDI1, GDI2
+GTPase activator activity: 2 proteins: GDI1, GDI2
+signal transduction: 2 proteins: GDI1, GDI2
+protein transport: 2 proteins: GDI1, GDI2
+Golgi apparatus: 2 proteins: GDI1, GDI2
+ exocytosis: 2 proteins: RAB27B, SYTL4
+multivesicular body sorting pathway: 2 proteins: RAB27B, SYTL4
+melanosome: 2 proteins: RAB27B, SYTL2
+neurexin family protein binding: 2 proteins: SYTL2, SYTL4
+intracellular protein transport: 2 proteins: SYTL2, SYTL4
+exocytosis: 2 proteins: SYTL2, SYTL4
+exocytic vesicle: 2 proteins: SYTL2, SYTL4

@@ -1,0 +1,93 @@
+Feature	Number of Genes	Genes
+protein binding	3	ANKRD52, EIF4E2, NFKB1
+cytoplasm	3	EIF4E2, NFKB1, RSAD1
+cytosol	2	EIF4E2, NFKB1
+mitochondrion	2	NFKB1, RSAD1
+L-alanine:2-oxoglutarate aminotransferase activity	1	GPT2
+pyridoxal phosphate binding	1	GPT2
+2-oxoglutarate metabolic process	1	GPT2
+biosynthetic process	1	GPT2
+L-alanine metabolic process	1	GPT2
+L-alanine catabolic process	1	GPT2
+mitochondrial matrix	1	GPT2
+RNA cap binding	1	EIF4E2
+RNA 7-methylguanosine cap binding	1	EIF4E2
+RNA binding	1	EIF4E2
+translation initiation factor activity	1	EIF4E2
+translation factor activity, RNA binding	1	EIF4E2
+ubiquitin protein ligase binding	1	EIF4E2
+translational initiation	1	EIF4E2
+negative regulation of translation	1	EIF4E2
+miRNA-mediated gene silencing by inhibition of translation	1	EIF4E2
+P-body	1	EIF4E2
+mRNA cap binding complex	1	EIF4E2
+eukaryotic translation initiation factor 4F complex	1	EIF4E2
+ATP binding	1	KIAA0232
+transcription cis-regulatory region binding	1	NFKB1
+RNA polymerase II transcription regulatory region sequence-specific DNA binding	1	NFKB1
+RNA polymerase II cis-regulatory region sequence-specific DNA binding	1	NFKB1
+DNA-binding transcription factor activity, RNA polymerase II-specific	1	NFKB1
+DNA-binding transcription repressor activity, RNA polymerase II-specific	1	NFKB1
+DNA-binding transcription activator activity, RNA polymerase II-specific	1	NFKB1
+chromatin binding	1	NFKB1
+DNA-binding transcription factor activity	1	NFKB1
+transcription coregulator activity	1	NFKB1
+identical protein binding	1	NFKB1
+actinin binding	1	NFKB1
+negative regulation of transcription by RNA polymerase II	1	NFKB1
+regulation of transcription by RNA polymerase II	1	NFKB1
+transcription by RNA polymerase II	1	NFKB1
+apoptotic process	1	NFKB1
+inflammatory response	1	NFKB1
+I-kappaB kinase/NF-kappaB signaling	1	NFKB1
+JNK cascade	1	NFKB1
+negative regulation of gene expression	1	NFKB1
+positive regulation of macrophage derived foam cell differentiation	1	NFKB1
+positive regulation of lipid storage	1	NFKB1
+negative regulation of calcidiol 1-monooxygenase activity	1	NFKB1
+negative regulation of vitamin D biosynthetic process	1	NFKB1
+negative regulation of cholesterol transport	1	NFKB1
+negative regulation of interleukin-12 production	1	NFKB1
+cellular response to stress	1	NFKB1
+response to cytokine	1	NFKB1
+response to muscle stretch	1	NFKB1
+NIK/NF-kappaB signaling	1	NFKB1
+negative regulation of apoptotic process	1	NFKB1
+innate immune response	1	NFKB1
+positive regulation of DNA-templated transcription	1	NFKB1
+positive regulation of transcription by RNA polymerase II	1	NFKB1
+negative regulation of inflammatory response	1	NFKB1
+B cell receptor signaling pathway	1	NFKB1
+negative regulation of protein metabolic process	1	NFKB1
+mammary gland involution	1	NFKB1
+positive regulation of transcription initiation by RNA polymerase II	1	NFKB1
+cellular response to lipopolysaccharide	1	NFKB1
+cellular response to mechanical stimulus	1	NFKB1
+cellular response to nicotine	1	NFKB1
+cellular response to interleukin-1	1	NFKB1
+cellular response to interleukin-6	1	NFKB1
+cellular response to tumor necrosis factor	1	NFKB1
+cellular response to dsRNA	1	NFKB1
+positive regulation of canonical Wnt signaling pathway	1	NFKB1
+cellular response to interleukin-17	1	NFKB1
+cellular response to virus	1	NFKB1
+positive regulation of hyaluronan biosynthetic process	1	NFKB1
+cellular response to angiotensin	1	NFKB1
+positive regulation of miRNA metabolic process	1	NFKB1
+chromatin	1	NFKB1
+extracellular region	1	NFKB1
+nucleus	1	NFKB1
+nucleoplasm	1	NFKB1
+I-kappaB/NF-kappaB complex	1	NFKB1
+secretory granule lumen	1	NFKB1
+specific granule lumen	1	NFKB1
+coproporphyrinogen oxidase activity	1	RSAD1
+heme binding	1	RSAD1
+metal ion binding	1	RSAD1
+4 iron, 4 sulfur cluster binding	1	RSAD1
+porphyrin-containing compound biosynthetic process	1	RSAD1
+biological_process	1	RSAD1
+cellular_component	1	RSAD1
+positive regulation of Notch signaling pathway	1	TM2D3
+lateral inhibition	1	TM2D3
+plasma membrane	1	TM2D3

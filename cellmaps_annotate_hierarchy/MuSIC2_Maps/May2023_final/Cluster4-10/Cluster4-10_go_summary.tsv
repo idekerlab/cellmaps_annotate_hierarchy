@@ -1,0 +1,182 @@
+Feature	Number of Genes	Genes
+protein binding	22	CCNC, CDK8, ILK, MED1, MED12, MED14, MED15, MED17, MED18, MED21, MED22, MED23, MED25, MED27, MED28, MED29, MED30, MED31, MED4, MED6, MED9, PDZK1
+nucleus	22	CCNC, CDK19, CDK8, MED1, MED12, MED13, MED14, MED15, MED17, MED18, MED21, MED22, MED23, MED25, MED27, MED28, MED29, MED30, MED31, MED4, MED6, MED9
+mediator complex	22	CCNC, CDK19, CDK8, MED1, MED12, MED13, MED14, MED15, MED17, MED18, MED21, MED22, MED23, MED25, MED27, MED28, MED29, MED30, MED31, MED4, MED6, MED9
+nucleoplasm	19	CCNC, CDK19, CDK8, ILK, MED1, MED12, MED13, MED14, MED15, MED17, MED23, MED25, MED27, MED28, MED29, MED30, MED31, MED4, MED6
+ transcription initiation by RNA polymerase II	19	MED1, MED12, MED13, MED14, MED15, MED17, MED18, MED21, MED22, MED23, MED25, MED27, MED28, MED29, MED30, MED31, MED4, MED6, MED9
+ transcription elongation by RNA polymerase II	17	MED1, MED14, MED15, MED17, MED18, MED21, MED22, MED23, MED25, MED27, MED28, MED29, MED30, MED31, MED4, MED6, MED9
+RNA polymerase II preinitiation complex assembly	17	MED1, MED14, MED15, MED17, MED18, MED21, MED22, MED23, MED25, MED27, MED28, MED29, MED30, MED31, MED4, MED6, MED9
+core mediator complex	17	MED1, MED14, MED15, MED17, MED18, MED21, MED22, MED23, MED25, MED27, MED28, MED29, MED30, MED31, MED4, MED6, MED9
+ transcription by RNA polymerase II	16	CCNC, CDK8, MED1, MED12, MED13, MED14, MED17, MED18, MED21, MED23, MED25, MED27, MED29, MED31, MED4, MED6
+transcription coregulator activity	14	MED1, MED12, MED13, MED14, MED15, MED17, MED18, MED21, MED22, MED29, MED30, MED31, MED4, MED9
+transcription coactivator activity	11	MED1, MED12, MED13, MED14, MED17, MED21, MED23, MED27, MED30, MED4, MED6
+membrane	10	ILK, MED1, MED12, MED13, MED14, MED15, MED17, MED28, MED4, MED6
+ DNA-templated transcription	9	ILK, MED1, MED12, MED13, MED14, MED17, MED23, MED30, MED4
+somatic stem cell population maintenance	9	MED12, MED14, MED15, MED17, MED21, MED27, MED28, MED30, MED6
+nuclear receptor coactivator activity	7	MED1, MED12, MED13, MED14, MED17, MED30, MED4
+nuclear vitamin D receptor binding	7	MED1, MED12, MED13, MED14, MED17, MED30, MED4
+nuclear thyroid hormone receptor binding	6	MED1, MED12, MED13, MED17, MED30, MED4
+ubiquitin protein ligase activity	5	MED12, MED17, MED27, MED30, MED31
+protein ubiquitination	5	MED12, MED17, MED27, MED30, MED31
+ubiquitin ligase complex	5	MED12, MED17, MED27, MED30, MED31
+transcription regulator complex	4	MED17, MED23, MED25, MED27
+ATP binding	3	CDK19, CDK8, ILK
+protein serine kinase activity	3	CDK19, CDK8, ILK
+protein phosphorylation	3	CDK19, CDK8, ILK
+cytosol	3	CDK19, ILK, MED27
+nucleolus	3	CDK8, MED1, MED27
+transcription coactivator binding	3	MED1, MED25, MED6
+transcription initiation at RNA polymerase II promoter	3	MED17, MED23, MED27
+G0 to G1 transition	2	CCNC, MED1
+cyclin-dependent protein serine/threonine kinase activity	2	CDK19, CDK8
+ cell cycle	2	CDK19, CDK8
+cell morphogenesis	2	ILK, MED1
+plasma membrane	2	ILK, PDZK1
+DNA binding	2	MED1, MED6
+chromatin binding	2	MED1, MED12
+nuclear retinoic acid receptor binding	2	MED1, MED25
+protein-containing complex binding	2	MED1, PDZK1
+negative regulation of transcription by RNA polymerase II	2	MED1, MED25
+ gene expression	2	MED1, MED23
+transcription factor binding	2	MED12, MED29
+DNA-templated transcription	2	MED12, MED13
+cytoplasm	2	MED15, MED22
+negative regulation of fibroblast proliferation	2	MED25, MED31
+cyclin-dependent protein serine/threonine kinase regulator activity	1	CCNC
+identical protein binding	1	CCNC
+negative regulation of Notch signaling pathway	1	CCNC
+cyclin-dependent protein kinase holoenzyme complex	1	CCNC
+ apoptotic process	1	CDK19
+ inflammatory response	1	CDK19
+cellular response to lipopolysaccharide	1	CDK19
+perinuclear region of cytoplasm	1	CDK19
+protein kinase activity	1	CDK8
+RNA polymerase II CTD heptapeptide repeat kinase activity	1	CDK8
+protein-containing complex	1	CDK8
+protein serine/threonine kinase activity	1	ILK
+protein kinase binding	1	ILK
+branching involved in ureteric bud morphogenesis	1	ILK
+ protein phosphorylation	1	ILK
+outflow tract morphogenesis	1	ILK
+cell-matrix adhesion	1	ILK
+integrin-mediated signaling pathway	1	ILK
+ cell population proliferation	1	ILK
+ signal transduction	1	ILK
+fibroblast migration	1	ILK
+peptidyl-serine phosphorylation	1	ILK
+nerve development	1	ILK
+myelination in peripheral nervous system	1	ILK
+cell projection organization	1	ILK
+ BMP signaling pathway	1	ILK
+tumor necrosis factor-mediated signaling pathway	1	ILK
+substrate adhesion-dependent cell spreading	1	ILK
+ phosphorylation	1	ILK
+protein kinase B signaling	1	ILK
+establishment or maintenance of epithelial cell apical/basal polarity	1	ILK
+ osteoblast differentiation	1	ILK
+neural precursor cell proliferation	1	ILK
+platelet aggregation	1	ILK
+ canonical Wnt signaling pathway	1	ILK
+ substrate adhesion-dependent cell spreading	1	ILK
+ NIK/NF-kappaB signaling	1	ILK
+negative regulation of neural precursor cell proliferation	1	ILK
+stress fiber	1	ILK
+focal adhesion	1	ILK
+sarcomere	1	ILK
+lamellipodium	1	ILK
+transcription corepressor activity	1	MED1
+nuclear receptor binding	1	MED1
+nuclear estrogen receptor binding	1	MED1
+peroxisome proliferator activated receptor binding	1	MED1
+LBD domain binding	1	MED1
+DNA-binding transcription factor binding	1	MED1
+promoter-specific chromatin binding	1	MED1
+angiogenesis	1	MED1
+liver development	1	MED1
+embryonic placenta development	1	MED1
+lens development in camera-type eye	1	MED1
+thyroid hormone mediated signaling pathway	1	MED1
+ventricular trabecula myocardium morphogenesis	1	MED1
+retinal pigment epithelium development	1	MED1
+thyroid hormone generation	1	MED1
+protein import into nucleus	1	MED1
+androgen biosynthetic process	1	MED1
+brain development	1	MED1
+lactation	1	MED1
+negative regulation of keratinocyte proliferation	1	MED1
+keratinocyte differentiation	1	MED1
+monocyte differentiation	1	MED1
+intracellular steroid hormone receptor signaling pathway	1	MED1
+animal organ regeneration	1	MED1
+ intracellular estrogen receptor signaling pathway	1	MED1
+embryonic heart tube development	1	MED1
+embryonic hindlimb morphogenesis	1	MED1
+embryonic hemopoiesis	1	MED1
+peroxisome proliferator activated receptor signaling pathway	1	MED1
+cellular response to hepatocyte growth factor stimulus	1	MED1
+megakaryocyte development	1	MED1
+mRNA transcription by RNA polymerase II	1	MED1
+negative regulation of apoptotic process	1	MED1
+fat cell differentiation	1	MED1
+ keratinocyte differentiation	1	MED1
+ erythrocyte differentiation	1	MED1
+negative regulation of neuron differentiation	1	MED1
+erythrocyte development	1	MED1
+enucleate erythrocyte development	1	MED1
+hematopoietic stem cell differentiation	1	MED1
+ type II interferon-mediated signaling pathway	1	MED1
+mammary gland branching involved in thelarche	1	MED1
+mammary gland branching involved in pregnancy	1	MED1
+epithelial cell proliferation involved in mammary gland duct elongation	1	MED1
+ G0 to G1 transition	1	MED1
+ vitamin D receptor signaling pathway	1	MED1
+cellular response to epidermal growth factor stimulus	1	MED1
+cellular response to steroid hormone stimulus	1	MED1
+cellular response to thyroid hormone stimulus	1	MED1
+ hepatocyte proliferation	1	MED1
+ RNA biosynthetic process	1	MED1
+RNA polymerase II cis-regulatory region sequence-specific DNA binding	1	MED12
+beta-catenin binding	1	MED12
+neural tube closure	1	MED12
+endoderm development	1	MED12
+heart development	1	MED12
+oligodendrocyte development	1	MED12
+Schwann cell development	1	MED12
+spinal cord development	1	MED12
+post-anal tail morphogenesis	1	MED12
+embryonic neurocranium morphogenesis	1	MED12
+Wnt signaling pathway, planar cell polarity pathway	1	MED12
+axis elongation involved in somitogenesis	1	MED12
+embryonic brain development	1	MED12
+cholesterol homeostasis	1	MED13
+negative regulation of DNA-binding transcription factor activity	1	MED13
+triglyceride homeostasis	1	MED13
+termination of RNA polymerase II transcription	1	MED18
+DNA-directed 5'-3' RNA polymerase activity	1	MED21
+blastocyst development	1	MED21
+nuclear retinoid X receptor binding	1	MED25
+ chromatin binding	1	MED25
+ mediator complex assembly	1	MED25
+actin binding	1	MED28
+negative regulation of smooth muscle cell differentiation	1	MED28
+cortical actin cytoskeleton	1	MED28
+limb development	1	MED31
+transcription by RNA polymerase II	1	MED4
+signaling receptor binding	1	PDZK1
+scavenger receptor binding	1	PDZK1
+PDZ domain binding	1	PDZK1
+protein-membrane adaptor activity	1	PDZK1
+carnitine transport	1	PDZK1
+ ion transmembrane transporter activity	1	PDZK1
+ monoatomic anion transport	1	PDZK1
+protein localization to plasma membrane	1	PDZK1
+ protein targeting to membrane	1	PDZK1
+ cation transmembrane transport	1	PDZK1
+ protein localization to membrane	1	PDZK1
+xenobiotic detoxification by transmembrane export across the plasma membrane	1	PDZK1
+brush border	1	PDZK1
+apical plasma membrane	1	PDZK1
+brush border membrane	1	PDZK1
+microvillus membrane	1	PDZK1
+membrane raft	1	PDZK1
+extracellular exosome	1	PDZK1

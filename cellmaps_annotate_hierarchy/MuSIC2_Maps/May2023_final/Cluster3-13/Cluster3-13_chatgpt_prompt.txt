@@ -1,0 +1,159 @@
+Your response should be formatted as Markdown paragraphs
+Write a critical and concise analysis of this human protein system, describing your reasoning as you go and providing references to scientific papers.
+
+A critical goal of the analysis is to determine if this is a novel complex or if any proteins are novel members of a known complex
+
+Format with Title, Summary, and References sections.        
+Avoid overly general statements of how the proteins are involved in various cellular processes        
+Avoid repeating the goals of the analysis.
+
+What cellular components and complexes are involved in this system?
+What mechanisms and biological processes are performed by this system?
+Propose a name for the system to reflect the cellular location and function, and should be specific but brief. Do not compose an acronym. Place it as the title of your report
+Human Proteins: PDRG1, RNF114, ACACA, ACTA2, ACTN1, ACTN2, ACTN3, APPL1, ATP6V1H, BBOX1, BRICD5, BZW2, CNN2, CNN3, CNNM4, DHDH, DMWD, EIF2B4, FAM216A, FRMD1, GABRA3, GPX8, GSN, KLC3, LCP1, LIMCH1, LRRFIP2, LSM6, LUZP1, MAGEF1, MAP2, MYH9, NCOA5, NDC1, NEXN, NOTCH3, PARVA, PPP1R12A, PRKRIP1, PRSS12, PSMD1, RAI14, RNF111, SEPTIN10, SEPTIN2, SEPTIN5, SEPTIN9, SIPA1L1, SPECC1L, SPRYD3, SZT2, TAX1BP3, TNNC1, TPM1, TPM3, WASHC3, ZC3H13, ZNF74.
+
+System features from GO terms: 
+protein binding: 44 proteins: PDRG1, RNF114, ACACA, ACTN1, ACTN2, ACTN3, APPL1, ATP6V1H, BBOX1, BRICD5, BZW2, CNNM4, EIF2B4, FRMD1, GABRA3, GPX8, GSN, KLC3, LRRFIP2, LSM6, MAGEF1, MAP2, MYH9, NCOA5, NOTCH3, PARVA, PPP1R12A, PRKRIP1, PSMD1, RAI14, RNF111, SEPTIN10, SEPTIN2, SEPTIN5, SEPTIN9, SIPA1L1, SPECC1L, SZT2, TAX1BP3, TNNC1, TPM1, TPM3, WASHC3, ZC3H13
+cytosol: 26 proteins: RNF114, ACACA, ACTA2, ACTN1, ACTN2, ACTN3, APPL1, ATP6V1H, BBOX1, CNN3, EIF2B4, GSN, LCP1, LSM6, MAP2, MYH9, NOTCH3, PARVA, PPP1R12A, PSMD1, RAI14, RNF111, TAX1BP3, TNNC1, TPM1, TPM3
+cytoplasm: 23 proteins: PDRG1, ACTA2, ACTN1, APPL1, BZW2, EIF2B4, GSN, KLC3, LCP1, LIMCH1, LSM6, LUZP1, MAP2, MYH9, NDC1, PARVA, PPP1R12A, RNF111, SEPTIN2, SEPTIN9, SIPA1L1, SPECC1L, TAX1BP3
+plasma membrane: 21 proteins: RNF114, ACTN1, ACTN2, ACTN3, APPL1, ATP6V1H, CNNM4, GABRA3, GSN, LCP1, MYH9, NDC1, NEXN, NOTCH3, PARVA, PPP1R12A, PRSS12, SEPTIN2, SEPTIN5, SIPA1L1, TAX1BP3
+actin cytoskeleton: 20 proteins: ACACA, CNN2, CNN3, GSN, LCP1, MYH9, NCOA5, NDC1, NEXN, NOTCH3, PARVA, PPP1R12A, SEPTIN2, SEPTIN9, SIPA1L1, SPECC1L, TAX1BP3, TPM1, TPM3, ZNF74
+extracellular exosome: 15 proteins: ACTA2, ACTN1, ACTN2, ACTN3, APPL1, ATP6V1H, BBOX1, GSN, LCP1, LUZP1, MYH9, PRKRIP1, SEPTIN2, TAX1BP3, TPM3
+nucleus: 14 proteins: RNF114, ACTN1, APPL1, DMWD, GSN, LSM6, LUZP1, MAGEF1, MYH9, PARVA, PSMD1, RNF111, SEPTIN2, ZC3H13
+actin filament binding: 12 proteins: ACTN1, ACTN2, ACTN3, CNN2, CNN3, GSN, LCP1, MYH9, NEXN, TNNC1, TPM1, TPM3
+focal adhesion: 11 proteins: ACTN1, ACTN2, ACTN3, CNN2, CNN3, GSN, LCP1, MYH9, NEXN, PARVA, PPP1R12A
+nucleoplasm: 11 proteins: LSM6, NCOA5, NOTCH3, PPP1R12A, PRKRIP1, PSMD1, RAI14, RNF111, SEPTIN2, ZC3H13, ZNF74
+membrane: 10 proteins: APPL1, ATP6V1H, BRICD5, BZW2, CNN2, GPX8, LUZP1, MYH9, NDC1, PSMD1
+identical protein binding: 9 proteins: ACACA, ACTN2, ACTN3, APPL1, BBOX1, MYH9, NOTCH3, SEPTIN5, TPM1
+stress fiber: 9 proteins: ACTA2, ACTN1, CNN2, LCP1, LIMCH1, MYH9, SEPTIN9, TPM1, TPM3
+actin binding: 8 proteins: CNN2, GSN, LCP1, LIMCH1, MYH9, PARVA, RAI14, TPM1
+calcium ion binding: 7 proteins: ACTN1, ACTN2, ACTN3, GSN, LCP1, NOTCH3, TNNC1
+cadherin binding: 7 proteins: BZW2, CNN2, MYH9, NOTCH3, PARVA, SEPTIN2, SEPTIN9
+metal ion binding: 6 proteins: RNF114, ACACA, LIMCH1, RNF111, ZC3H13, ZNF74
+extracellular space: 6 proteins: ACTA2, ACTN1, BRICD5, GSN, LCP1, NCOA5
+actin filament organization: 6 proteins: ACTN1, CNN2, CNN3, GSN, TPM1, TPM3
+extracellular region: 6 proteins: ACTN1, ACTN2, CNN2, GSN, NOTCH3, PSMD1
+actin filament: 6 proteins: ACTN1, ACTN2, ACTN3, LCP1, TPM1, TPM3
+Z disc: 6 proteins: ACTN1, ACTN2, ACTN3, NEXN, PARVA, PPP1R12A
+cytoskeleton: 6 proteins: ACTN2, CNN2, FRMD1, RAI14, TPM1, TPM3
+spermatogenesis: 5 proteins: RNF114, KLC3, NDC1, RAI14, SEPTIN2
+integrin binding: 5 proteins: ACTN1, ACTN2, ACTN3, LCP1, MYH9
+protein homodimerization activity: 5 proteins: ACTN1, APPL1, MYH9, TNNC1, TPM1
+ DNA-templated transcription: 5 proteins: ACTN1, ACTN2, LRRFIP2, RNF111, ZNF74
+RNA binding: 5 proteins: LSM6, MYH9, NCOA5, ZC3H13, ZNF74
+protein-containing complex: 4 proteins: ACTA2, CNNM4, MYH9, RNF111
+actin cytoskeleton organization: 4 proteins: ACTN1, ACTN2, ACTN3, SPECC1L
+ruffle: 4 proteins: ACTN1, APPL1, LCP1, MYH9
+cell junction: 4 proteins: ACTN1, ACTN2, ACTN3, LCP1
+cortical actin cytoskeleton: 4 proteins: ACTN1, ACTN2, ACTN3, GSN
+structural constituent of muscle: 4 proteins: ACTN2, ACTN3, NEXN, TPM1
+calmodulin binding: 4 proteins: CNN2, CNN3, MAP2, MYH9
+actomyosin structure organization: 4 proteins: CNN2, CNN3, LIMCH1, MYH9
+molecular_function: 4 proteins: DMWD, SIPA1L1, SZT2, TPM3
+GTPase activity: 4 proteins: SEPTIN10, SEPTIN2, SEPTIN5, SEPTIN9
+GTP binding: 4 proteins: SEPTIN10, SEPTIN2, SEPTIN5, SEPTIN9
+molecular adaptor activity: 4 proteins: SEPTIN10, SEPTIN2, SEPTIN5, SEPTIN9
+cytoskeleton-dependent cytokinesis: 4 proteins: SEPTIN10, SEPTIN2, SEPTIN5, SEPTIN9
+septin ring: 4 proteins: SEPTIN10, SEPTIN2, SEPTIN5, SEPTIN9
+microtubule cytoskeleton: 4 proteins: SEPTIN10, SEPTIN2, SEPTIN5, SEPTIN9
+septin complex: 4 proteins: SEPTIN10, SEPTIN2, SEPTIN5, SEPTIN9
+cell division site: 4 proteins: SEPTIN10, SEPTIN2, SEPTIN5, SEPTIN9
+cell differentiation: 3 proteins: RNF114, RAI14, SEPTIN2
+ATP binding: 3 proteins: ACACA, ACTA2, MYH9
+fibrillar center: 3 proteins: ACACA, RAI14, TAX1BP3
+mitochondrion: 3 proteins: ACACA, BBOX1, KLC3
+protein kinase binding: 3 proteins: ACTA2, PPP1R12A, PRKRIP1
+ gene expression: 3 proteins: ACTA2, CNN2, GSN
+lamellipodium: 3 proteins: ACTA2, GSN, PARVA
+filopodium: 3 proteins: ACTA2, ACTN2, LCP1
+motile cilium: 3 proteins: ACTA2, KLC3, SEPTIN10
+protein domain specific binding: 3 proteins: ACTN1, ACTN2, MYH9
+transmembrane transporter binding: 3 proteins: ACTN1, ACTN2, ACTN3
+ apoptotic process: 3 proteins: ACTN1, ACTN2, ACTN3
+focal adhesion assembly: 3 proteins: ACTN1, ACTN2, ACTN3
+muscle cell development: 3 proteins: ACTN1, ACTN2, ACTN3
+brush border: 3 proteins: ACTN1, ACTN3, MYH9
+pseudopodium: 3 proteins: ACTN1, ACTN2, ACTN3
+cell projection: 3 proteins: ACTN1, ACTN2, ACTN3
+dendritic spine: 3 proteins: ACTN1, ACTN2, SIPA1L1
+signal transduction: 3 proteins: APPL1, GABRA3, PPP1R12A
+adherens junction: 3 proteins: CNN3, MYH9, NEXN
+dendrite: 3 proteins: DMWD, MAP2, PRSS12
+neuron projection: 3 proteins: GABRA3, KLC3, MAP2
+cilium assembly: 3 proteins: GSN, PARVA, SEPTIN2
+microtubule: 3 proteins: KLC3, MAP2, SEPTIN9
+biological_process: 3 proteins: LRRFIP2, SIPA1L1, WASHC3
+RNA splicing: 3 proteins: LSM6, PRKRIP1, ZC3H13
+nucleolus: 3 proteins: LSM6, PPP1R12A, PRKRIP1
+negative regulation of transcription by RNA polymerase II: 3 proteins: MAGEF1, NCOA5, NOTCH3
+ cell shape: 3 proteins: MYH9, PARVA, TPM1
+protein transport: 3 proteins: MYH9, NDC1, WASHC3
+actin cytoskeleton reorganization: 3 proteins: MYH9, PARVA, SIPA1L1
+spindle: 3 proteins: MYH9, SEPTIN2, SPECC1L
+protein stabilization: 2 proteins: PDRG1, PARVA
+ubiquitin protein ligase activity: 2 proteins: RNF114, RNF111
+protein polyubiquitination: 2 proteins: RNF114, RNF111
+double-stranded RNA binding: 2 proteins: ACTN1, PRKRIP1
+nuclear receptor coactivator activity: 2 proteins: ACTN1, ACTN2
+platelet formation: 2 proteins: ACTN1, MYH9
+actin filament bundle assembly: 2 proteins: ACTN1, LCP1
+actin filament network formation: 2 proteins: ACTN1, LCP1
+platelet aggregation: 2 proteins: ACTN1, MYH9
+cell-cell junction: 2 proteins: ACTN1, CNN2
+platelet alpha granule lumen: 2 proteins: ACTN1, ACTN2
+glutamatergic synapse: 2 proteins: ACTN1, APPL1
+phosphatidylinositol-4,5-bisphosphate binding: 2 proteins: ACTN2, GSN
+cytoskeletal protein binding: 2 proteins: ACTN2, TPM1
+cell adhesion: 2 proteins: ACTN2, SPECC1L
+sarcomere organization: 2 proteins: ACTN2, TPM1
+negative regulation of protein localization to cell surface: 2 proteins: ACTN2, TAX1BP3
+transition between fast and slow fiber: 2 proteins: ACTN3, TNNC1
+cell cycle: 2 proteins: APPL1, SPECC1L
+insulin receptor signaling pathway: 2 proteins: APPL1, NCOA5
+cytoplasmic vesicle: 2 proteins: APPL1, PRSS12
+early endosome membrane: 2 proteins: APPL1, WASHC3
+presynapse: 2 proteins: APPL1, ATP6V1H
+postsynapse: 2 proteins: APPL1, GABRA3
+enzyme regulator activity: 2 proteins: ATP6V1H, PSMD1
+endocytosis: 2 proteins: ATP6V1H, PRSS12
+lysosomal membrane: 2 proteins: ATP6V1H, SZT2
+cytoskeleton organization: 2 proteins: CNN2, TPM1
+wound healing: 2 proteins: CNN2, TPM1
+cellular_component: 2 proteins: DMWD, LRRFIP2
+phagocytosis, engulfment: 2 proteins: GSN, MYH9
+central nervous system development: 2 proteins: GSN, SZT2
+extracellular matrix disassembly: 2 proteins: GSN, LCP1
+actin filament polymerization: 2 proteins: GSN, WASHC3
+ podosome assembly: 2 proteins: GSN, LCP1
+ protein processing in phagocytic vesicle: 2 proteins: GSN, MYH9
+podosome: 2 proteins: GSN, LCP1
+microtubule binding: 2 proteins: KLC3, MAP2
+ruffle membrane: 2 proteins: LCP1, TPM1
+perinuclear region of cytoplasm: 2 proteins: LCP1, SEPTIN9
+negative regulation of cell migration: 2 proteins: LIMCH1, TPM1
+ stress fiber assembly: 2 proteins: LIMCH1, TPM1
+Wnt signaling pathway: 2 proteins: LRRFIP2, TAX1BP3
+protein heterodimerization activity: 2 proteins: LSM6, TPM1
+centrosome: 2 proteins: LUZP1, PPP1R12A
+protein ubiquitination: 2 proteins: MAGEF1, RNF111
+structural molecule activity: 2 proteins: MAP2, SEPTIN5
+cleavage furrow: 2 proteins: MYH9, SEPTIN2
+axon guidance: 2 proteins: NEXN, NOTCH3
+axon: 2 proteins: NEXN, PRSS12
+ transcription by RNA polymerase II: 2 proteins: NOTCH3, PPP1R12A
+protein kinase inhibitor activity: 2 proteins: PARVA, PRKRIP1
+ cell adhesion: 2 proteins: PPP1R12A, TPM1
+kinetochore: 2 proteins: PPP1R12A, SEPTIN2
+mRNA processing: 2 proteins: PRKRIP1, ZC3H13
+exocytosis: 2 proteins: PRSS12, WASHC3
+cell cortex: 2 proteins: RAI14, SEPTIN2
+ exocytosis: 2 proteins: SEPTIN2, SEPTIN5
+axoneme: 2 proteins: SEPTIN2, SEPTIN9
+synaptic vesicle: 2 proteins: SEPTIN2, SEPTIN5
+non-motile cilium: 2 proteins: SEPTIN2, SEPTIN9
+activation of GTPase activity: 2 proteins: SIPA1L1, TAX1BP3
+ muscle contraction: 2 proteins: TNNC1, TPM1
+ ATP-dependent activity: 2 proteins: TNNC1, TPM1
+ventricular cardiac muscle tissue morphogenesis: 2 proteins: TNNC1, TPM1
+cardiac muscle contraction: 2 proteins: TNNC1, TPM1
+muscle thin filament tropomyosin: 2 proteins: TPM1, TPM3

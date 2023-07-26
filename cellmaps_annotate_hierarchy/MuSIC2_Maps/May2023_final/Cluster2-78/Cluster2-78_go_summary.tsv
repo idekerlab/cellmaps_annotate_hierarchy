@@ -1,0 +1,28 @@
+Feature	Number of Genes	Genes
+protein binding	4	SLMAP, SIKE1, MTCH2, FGFR1OP2
+cytosol	2	SIKE1, FGFR1OP2
+muscle contraction	1	SLMAP
+protein localization to plasma membrane	1	SLMAP
+ membrane depolarization during cardiac muscle cell action potential	1	SLMAP
+ sodium ion transmembrane transport	1	SLMAP
+ voltage-gated sodium channel activity	1	SLMAP
+smooth endoplasmic reticulum	1	SLMAP
+microtubule organizing center	1	SLMAP
+plasma membrane	1	SLMAP
+sarcolemma	1	SLMAP
+protein kinase binding	1	SIKE1
+small GTPase binding	1	SIKE1
+membrane insertase activity	1	MTCH2
+ mitochondrial fusion	1	MTCH2
+ apoptotic process	1	MTCH2
+protein insertion into mitochondrial outer membrane	1	MTCH2
+lipid homeostasis	1	MTCH2
+protein localization to mitochondrion	1	MTCH2
+ stem cell differentiation	1	MTCH2
+nucleus	1	MTCH2
+mitochondrion	1	MTCH2
+mitochondrial outer membrane	1	MTCH2
+membrane	1	MTCH2
+identical protein binding	1	FGFR1OP2
+response to wounding	1	FGFR1OP2
+wound healing	1	FGFR1OP2

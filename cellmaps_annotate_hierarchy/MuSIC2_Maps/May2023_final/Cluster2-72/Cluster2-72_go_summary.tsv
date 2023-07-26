@@ -1,0 +1,83 @@
+Feature	Number of Genes	Genes
+protein binding	4	CD33, CCAR2, LMX1B, LDB2
+nucleoplasm	3	CD33, CCAR2, LDB2
+nucleus	3	CCAR2, LMX1B, LDB2
+plasma membrane	2	CD33, LDB2
+enzyme binding	2	CCAR2, LDB2
+chromatin	2	CCAR2, LMX1B
+ transcription by RNA polymerase II	2	LMX1B, LDB2
+protein phosphatase binding	1	CD33
+carbohydrate binding	1	CD33
+sialic acid binding	1	CD33
+signaling receptor activity	1	CD33
+immune response-inhibiting signal transduction	1	CD33
+cell adhesion	1	CD33
+signal transduction	1	CD33
+cell-cell signaling	1	CD33
+negative regulation of cell population proliferation	1	CD33
+negative regulation of interleukin-1 beta production	1	CD33
+negative regulation of interleukin-8 production	1	CD33
+negative regulation of tumor necrosis factor production	1	CD33
+ protein secretion	1	CD33
+negative regulation of calcium ion transport	1	CD33
+cell-cell adhesion	1	CD33
+negative regulation of monocyte activation	1	CD33
+ protein tyrosine phosphatase activity	1	CD33
+peroxisome	1	CD33
+Golgi apparatus	1	CD33
+external side of plasma membrane	1	CD33
+specific granule membrane	1	CD33
+tertiary granule membrane	1	CD33
+adenyl-nucleotide exchange factor activity	1	CCAR2
+RNA polymerase II complex binding	1	CCAR2
+RNA binding	1	CCAR2
+enzyme inhibitor activity	1	CCAR2
+unfolded protein binding	1	CCAR2
+mRNA processing	1	CCAR2
+DNA damage response	1	CCAR2
+cell cycle	1	CCAR2
+RNA splicing	1	CCAR2
+response to UV	1	CCAR2
+Wnt signaling pathway	1	CCAR2
+negative regulation of cell growth	1	CCAR2
+ protein stability	1	CCAR2
+negative regulation of proteasomal ubiquitin-dependent protein catabolic process	1	CCAR2
+ DNA-templated transcription elongation	1	CCAR2
+ circadian rhythm	1	CCAR2
+ apoptotic process	1	CCAR2
+negative regulation of catalytic activity	1	CCAR2
+mitochondrial fragmentation involved in apoptotic process	1	CCAR2
+negative regulation of DNA-templated transcription	1	CCAR2
+rhythmic process	1	CCAR2
+ canonical Wnt signaling pathway	1	CCAR2
+ protein deacetylation	1	CCAR2
+negative regulation of intrinsic apoptotic signaling pathway in response to DNA damage	1	CCAR2
+ DNA damage checkpoint	1	CCAR2
+cytoplasm	1	CCAR2
+mitochondrial matrix	1	CCAR2
+spindle	1	CCAR2
+DBIRD complex	1	CCAR2
+RNA polymerase II transcription regulatory region sequence-specific DNA binding	1	LMX1B
+DNA-binding transcription factor activity, RNA polymerase II-specific	1	LMX1B
+DNA-binding transcription factor activity	1	LMX1B
+metal ion binding	1	LMX1B
+sequence-specific double-stranded DNA binding	1	LMX1B
+ DNA-templated transcription	1	LMX1B
+dorsal/ventral pattern formation	1	LMX1B
+neuron differentiation	1	LMX1B
+dopaminergic neuron differentiation	1	LMX1B
+transcription coregulator activity	1	LDB2
+LIM domain binding	1	LDB2
+negative regulation of transcription by RNA polymerase II	1	LDB2
+hair follicle development	1	LDB2
+DNA-templated transcription	1	LDB2
+nervous system development	1	LDB2
+epithelial structure maintenance	1	LDB2
+ cell migration	1	LDB2
+somatic stem cell population maintenance	1	LDB2
+ kinase activity	1	LDB2
+cellular component biogenesis	1	LDB2
+ cellular component biogenesis	1	LDB2
+transcription regulator complex	1	LDB2
+nucleolus	1	LDB2
+cell leading edge	1	LDB2

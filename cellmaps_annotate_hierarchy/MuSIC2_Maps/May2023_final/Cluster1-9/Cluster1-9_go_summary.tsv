@@ -1,0 +1,300 @@
+Feature	Number of Genes	Genes
+protein binding	29	CC2D1A, SIK2, PTPDC1, CSDC2, CTIF, ENSA, FOXC1, FOXD4, IER2, IER5, LIMD1, PABIR1, PPME1, PPP2R1A, PPP2R1B, PPP2R2C, PPP2R3B, PPP2R3C, PPP2R5E, PRKD1, RBM7, SERTAD2, SERTAD4, SET, SGO1, USP12, WBP4, ZCCHC8, ZNF462
+nucleus	21	CC2D1A, SIK2, CSDC2, FOXC1, FOXD4, IER2, IER5, LIMD1, PABIR1, PPP2R1A, PPP2R3B, PPP2R5E, PRKD1, RBM7, SERTAD2, SERTAD4, SET, USP12, WBP4, ZCCHC8, ZNF462
+nucleoplasm	18	PTPDC1, ENSA, FOXC1, IER2, IER5, LIMD1, PABIR1, PPME1, PPP2R3B, PPP2R3C, RBM7, SERTAD2, SET, SGO1, USP12, WBP4, ZCCHC8, ZNF462
+cytosol	14	CC2D1A, CTIF, FOXC1, LIMD1, PPP2R1A, PPP2R2C, PPP2R3B, PPP2R3C, PPP2R5E, PRKD1, SERTAD2, SET, SGO1, USP12
+cytoplasm	13	SIK2, CSDC2, ENSA, IER2, IER5, LIMD1, MAST4, PABIR1, PPP2R1A, PPP2R1B, PPP2R5E, SERTAD2, SET
+protein phosphatase regulator activity	8	ENSA, PPME1, PPP2R1A, PPP2R1B, PPP2R2C, PPP2R3B, PPP2R5E, SET
+ transcription by RNA polymerase II	7	CC2D1A, FOXC1, FOXD4, IER2, IER5, PRKD1, ZNF462
+protein dephosphorylation	5	PTPDC1, PPP2R1A, PPP2R1B, PPP2R3B, PPP2R5E
+RNA binding	5	CSDC2, CTIF, RBM7, WBP4, ZCCHC8
+metal ion binding	5	LIMD1, PPP2R3C, PRKD1, USP12, ZNF462
+protein phosphatase type 2A complex	5	PPP2R1A, PPP2R1B, PPP2R2C, PPP2R3B, PPP2R5E
+DNA binding	4	FOXC1, IER2, SET, ZNF462
+ DNA-templated transcription	4	FOXC1, LIMD1, PPP2R1A, SERTAD2
+RNA polymerase II cis-regulatory region sequence-specific DNA binding	3	CC2D1A, FOXC1, FOXD4
+DNA-binding transcription factor activity, RNA polymerase II-specific	3	CC2D1A, FOXC1, FOXD4
+plasma membrane	3	CC2D1A, LIMD1, PRKD1
+membrane	3	CC2D1A, PPP2R1A, SOGA3
+extracellular exosome	3	CC2D1A, PPP2R1A, PPP2R1B
+protein serine/threonine kinase activity	3	SIK2, MAST4, PRKD1
+ATP binding	3	SIK2, MAST4, PRKD1
+protein serine kinase activity	3	SIK2, MAST4, PRKD1
+intracellular signal transduction	3	SIK2, MAST4, PRKD1
+protein phosphatase inhibitor activity	3	ENSA, PPME1, SET
+cell differentiation	3	FOXC1, FOXD4, PRKD1
+chromatin	3	FOXC1, FOXD4, SET
+nucleolus	3	IER5, RBM7, ZCCHC8
+cadherin binding	2	CC2D1A, PPME1
+ I-kappaB kinase/NF-kappaB signaling	2	CC2D1A, PRKD1
+magnesium ion binding	2	SIK2, MAST4
+protein phosphorylation	2	SIK2, PPME1
+protein autophosphorylation	2	SIK2, PRKD1
+protein serine/threonine phosphatase inhibitor activity	2	PABIR2, PABIR1
+perinuclear region of cytoplasm	2	CTIF, SET
+protein phosphatase 2A binding	2	ENSA, PPME1
+G2/M transition of mitotic cell cycle	2	ENSA, PPME1
+cell division	2	ENSA, SGO1
+DNA-binding transcription factor activity	2	FOXC1, FOXD4
+DNA binding, bending	2	FOXC1, FOXD4
+sequence-specific DNA binding	2	FOXC1, FOXD4
+angiogenesis	2	FOXC1, PRKD1
+anatomical structure morphogenesis	2	FOXC1, FOXD4
+ gene expression	2	FOXC1, ZNF462
+cell migration	2	FOXC1, LIMD1
+vascular endothelial growth factor receptor signaling pathway	2	FOXC1, PRKD1
+identical protein binding	2	IER5, PRKD1
+cytoskeleton organization	2	LIMD1, MAST4
+negative regulation of DNA-templated transcription	2	LIMD1, SET
+peptidyl-serine phosphorylation	2	MAST4, PRKD1
+nuclear body	2	PABIR1, ZCCHC8
+apoptotic process	2	PPP2R1A, PRKD1
+chromosome segregation	2	PPP2R1A, SGO1
+RNA splicing	2	PPP2R1A, WBP4
+negative regulation of cell growth	2	PPP2R1A, SERTAD2
+T cell homeostasis	2	PPP2R1A, PPP2R3C
+ extrinsic apoptotic signaling pathway in absence of ligand	2	PPP2R1A, PPP2R1B
+chromosome, centromeric region	2	PPP2R1A, SGO1
+Golgi apparatus	2	PPP2R3C, PRKD1
+centrosome	2	PPP2R3C, SGO1
+signal transduction	2	PPP2R5E, PRKD1
+ autophagy	2	PRKD1, SOGA3
+snRNA catabolic process	2	RBM7, ZCCHC8
+zinc ion binding	2	WBP4, ZCCHC8
+mRNA splicing, via spliceosome	2	WBP4, ZCCHC8
+DNA-binding transcription repressor activity, RNA polymerase II-specific	1	CC2D1A
+negative regulation of snRNA transcription by RNA polymerase II	1	CC2D1A
+fibrillar center	1	CC2D1A
+microtubule organizing center	1	CC2D1A
+enzyme inhibitor activity	1	SIK2
+enzyme activator activity	1	SIK2
+nucleoside-triphosphatase regulator activity	1	SIK2
+ insulin receptor signaling pathway	1	SIK2
+endoplasmic reticulum membrane	1	SIK2
+protein tyrosine/serine/threonine phosphatase activity	1	PTPDC1
+cilium assembly	1	PTPDC1
+mRNA 3'-UTR binding	1	CSDC2
+mRNA processing	1	CSDC2
+ mRNA stability	1	CSDC2
+translation activator activity	1	CTIF
+nuclear-transcribed mRNA catabolic process, nonsense-mediated decay	1	CTIF
+ translational initiation	1	CTIF
+ translation	1	CTIF
+signaling receptor binding	1	ENSA
+ion channel inhibitor activity	1	ENSA
+phosphatase inhibitor activity	1	ENSA
+potassium channel inhibitor activity	1	ENSA
+mitotic cell cycle	1	ENSA
+response to nutrient	1	ENSA
+negative regulation of protein dephosphorylation	1	ENSA
+ insulin secretion	1	ENSA
+transcription cis-regulatory region binding	1	FOXC1
+RNA polymerase II transcription regulatory region sequence-specific DNA binding	1	FOXC1
+DNA-binding transcription activator activity, RNA polymerase II-specific	1	FOXC1
+RNA polymerase II-specific DNA-binding transcription factor binding	1	FOXC1
+DNA-binding transcription factor binding	1	FOXC1
+promoter-specific chromatin binding	1	FOXC1
+negative regulation of transcription by RNA polymerase II	1	FOXC1
+ovarian follicle development	1	FOXC1
+eye development	1	FOXC1
+ureteric bud development	1	FOXC1
+in utero embryonic development	1	FOXC1
+somitogenesis	1	FOXC1
+kidney development	1	FOXC1
+lymph vessel development	1	FOXC1
+endochondral ossification	1	FOXC1
+blood vessel remodeling	1	FOXC1
+apoptotic process involved in outflow tract morphogenesis	1	FOXC1
+Notch signaling pathway	1	FOXC1
+heart development	1	FOXC1
+cell population proliferation	1	FOXC1
+germ cell migration	1	FOXC1
+ epithelial to mesenchymal transition	1	FOXC1
+mesenchymal cell development	1	FOXC1
+neural crest cell development	1	FOXC1
+negative regulation of angiogenesis	1	FOXC1
+cerebellum development	1	FOXC1
+collagen fibril organization	1	FOXC1
+glycosaminoglycan metabolic process	1	FOXC1
+lacrimal gland development	1	FOXC1
+embryonic heart tube development	1	FOXC1
+maintenance of lens transparency	1	FOXC1
+vascular endothelial growth factor signaling pathway	1	FOXC1
+odontogenesis of dentin-containing tooth	1	FOXC1
+camera-type eye development	1	FOXC1
+ DNA binding	1	FOXC1
+ keratinocyte differentiation	1	FOXC1
+negative regulation of mitotic cell cycle	1	FOXC1
+ organ growth	1	FOXC1
+paraxial mesoderm formation	1	FOXC1
+artery morphogenesis	1	FOXC1
+ventricular cardiac muscle tissue morphogenesis	1	FOXC1
+cardiac muscle cell proliferation	1	FOXC1
+chemokine-mediated signaling pathway	1	FOXC1
+cellular response to epidermal growth factor stimulus	1	FOXC1
+glomerular epithelium development	1	FOXC1
+blood vessel diameter maintenance	1	FOXC1
+negative regulation of lymphangiogenesis	1	FOXC1
+ hematopoietic progenitor cell differentiation	1	FOXC1
+ hematopoietic stem cell differentiation	1	FOXC1
+negative regulation of apoptotic process involved in outflow tract morphogenesis	1	FOXC1
+ core promoter binding	1	FOXC1
+cellular response to chemokine	1	FOXC1
+heterochromatin	1	FOXC1
+neuron differentiation	1	IER2
+cell motility	1	IER2
+response to fibroblast growth factor	1	IER2
+cellular response to heat	1	IER5
+ cell population proliferation	1	IER5
+ cellular response to heat	1	IER5
+transcription corepressor activity	1	LIMD1
+response to hypoxia	1	LIMD1
+osteoblast development	1	LIMD1
+ cell shape	1	LIMD1
+phosphorylation	1	LIMD1
+P-body assembly	1	LIMD1
+miRNA-mediated gene silencing	1	LIMD1
+negative regulation of hippo signaling	1	LIMD1
+negative regulation of osteoblast differentiation	1	LIMD1
+negative regulation of canonical Wnt signaling pathway	1	LIMD1
+ miRNA-mediated gene silencing	1	LIMD1
+P-body	1	LIMD1
+transcription regulator complex	1	LIMD1
+adherens junction	1	LIMD1
+focal adhesion	1	LIMD1
+RISC complex	1	LIMD1
+proteolysis	1	MAST4
+ cell growth	1	PABIR1
+ proteasomal ubiquitin-dependent protein catabolic process	1	PABIR1
+mitotic G2/M transition checkpoint	1	PABIR1
+protein kinase binding	1	PPME1
+protein phosphatase binding	1	PPME1
+protein C-terminal methylesterase activity	1	PPME1
+protein methylesterase activity	1	PPME1
+lncRNA binding	1	PPME1
+protein demethylation	1	PPME1
+protein serine/threonine phosphatase activity	1	PPP2R1A
+protein heterodimerization activity	1	PPP2R1A
+protein antigen binding	1	PPP2R1A
+ DNA replication	1	PPP2R1A
+ceramide metabolic process	1	PPP2R1A
+female meiotic nuclear division	1	PPP2R1A
+response to organic substance	1	PPP2R1A
+second-messenger-mediated signaling	1	PPP2R1A
+ Wnt signaling pathway	1	PPP2R1A
+ cell adhesion	1	PPP2R1A
+ growth	1	PPP2R1A
+negative regulation of tyrosine phosphorylation of STAT protein	1	PPP2R1A
+negative regulation of MAPK cascade	1	PPP2R1A
+ cell differentiation	1	PPP2R1A
+meiotic spindle elongation	1	PPP2R1A
+mitotic sister chromatid separation	1	PPP2R1A
+meiotic sister chromatid cohesion, centromeric	1	PPP2R1A
+negative regulation of protein kinase B signaling	1	PPP2R1A
+protein-containing complex assembly	1	PPP2R1A
+peptidyl-serine dephosphorylation	1	PPP2R1A
+ meiotic cell cycle process involved in oocyte maturation	1	PPP2R1A
+mitochondrion	1	PPP2R1A
+microtubule cytoskeleton	1	PPP2R1A
+lateral plasma membrane	1	PPP2R1A
+dendrite	1	PPP2R1A
+neuron projection	1	PPP2R1A
+neuronal cell body	1	PPP2R1A
+glutamatergic synapse	1	PPP2R1A
+apoptotic process involved in morphogenesis	1	PPP2R1B
+membrane raft	1	PPP2R1B
+calcium ion binding	1	PPP2R3B
+ cell cycle	1	PPP2R3B
+microtubule cytoskeleton organization	1	PPP2R3C
+B cell homeostasis	1	PPP2R3C
+ antimicrobial humoral response	1	PPP2R3C
+cortical cytoskeleton organization	1	PPP2R3C
+activation of protein kinase activity	1	PPP2R3C
+ dephosphorylation	1	PPP2R3C
+ B cell differentiation	1	PPP2R3C
+spleen development	1	PPP2R3C
+ mitochondrial depolarization	1	PPP2R3C
+protein phosphatase activator activity	1	PPP2R5E
+protein kinase C activity	1	PRKD1
+calcium-dependent protein kinase C activity	1	PRKD1
+kinase activity	1	PRKD1
+ endothelial cell proliferation	1	PRKD1
+inflammatory response	1	PRKD1
+Golgi organization	1	PRKD1
+integrin-mediated signaling pathway	1	PRKD1
+nervous system development	1	PRKD1
+ endothelial cell migration	1	PRKD1
+ keratinocyte proliferation	1	PRKD1
+ neuron projection development	1	PRKD1
+peptidyl-threonine phosphorylation	1	PRKD1
+sphingolipid biosynthetic process	1	PRKD1
+ CREB transcription factor activity	1	PRKD1
+ peptidyl-serine phosphorylation	1	PRKD1
+cellular response to amino acid starvation	1	PRKD1
+cellular response to oxidative stress	1	PRKD1
+cellular response to vascular endothelial growth factor stimulus	1	PRKD1
+ endothelial cell chemotaxis by VEGF-activated vascular endothelial growth factor receptor signaling pathway	1	PRKD1
+ protein import into nucleus	1	PRKD1
+ blood vessel endothelial cell migration	1	PRKD1
+ phosphatidylinositol 3-kinase activity	1	PRKD1
+innate immune response	1	PRKD1
+ osteoblast differentiation	1	PRKD1
+ angiogenesis	1	PRKD1
+negative regulation of endocytosis	1	PRKD1
+Golgi vesicle transport	1	PRKD1
+defense response to Gram-negative bacterium	1	PRKD1
+ NF-kappaB transcription factor activity	1	PRKD1
+ release of sequestered calcium ion into cytosol	1	PRKD1
+cellular response to hydroperoxide	1	PRKD1
+protein kinase D signaling	1	PRKD1
+ NLRP3 inflammasome complex assembly	1	PRKD1
+ histone deacetylase activity	1	PRKD1
+ endothelial cell chemotaxis	1	PRKD1
+ integrin-mediated signaling pathway	1	PRKD1
+autophagosome membrane	1	PRKD1
+trans-Golgi network	1	PRKD1
+cell-cell junction	1	PRKD1
+cell cortex	1	PRKD1
+single-stranded RNA binding	1	RBM7
+snRNA binding	1	RBM7
+14-3-3 protein binding	1	RBM7
+pre-mRNA intronic binding	1	RBM7
+ alternative mRNA splicing, via spliceosome	1	RBM7
+meiotic cell cycle	1	RBM7
+transcription coactivator activity	1	SERTAD2
+transcription regulator activity	1	SERTAD2
+chromatin binding	1	SET
+histone binding	1	SET
+DNA replication	1	SET
+nucleosome assembly	1	SET
+nucleosome disassembly	1	SET
+negative regulation of histone acetylation	1	SET
+negative regulation of neuron apoptotic process	1	SET
+endoplasmic reticulum	1	SET
+lipid droplet	1	SET
+protein-containing complex	1	SET
+kinase binding	1	SGO1
+mitotic sister chromatid segregation	1	SGO1
+attachment of spindle microtubules to kinetochore	1	SGO1
+centriole-centriole cohesion	1	SGO1
+meiotic chromosome segregation	1	SGO1
+mitotic sister chromatid cohesion, centromeric	1	SGO1
+kinetochore	1	SGO1
+condensed chromosome, centromeric region	1	SGO1
+spindle pole	1	SGO1
+extracellular space	1	SOGA3
+cysteine-type endopeptidase activity	1	USP12
+cysteine-type deubiquitinase activity	1	USP12
+ubiquitin-dependent protein catabolic process	1	USP12
+protein deubiquitination	1	USP12
+cellular_component	1	USP12
+proline-rich region binding	1	WBP4
+mRNA cis splicing, via spliceosome	1	WBP4
+nuclear speck	1	WBP4
+U2-type precatalytic spliceosome	1	WBP4
+precatalytic spliceosome	1	WBP4
+ncRNA processing	1	ZCCHC8
+TRAMP complex	1	ZCCHC8
+catalytic step 2 spliceosome	1	ZCCHC8
+chromatin organization	1	ZNF462
+negative regulation of DNA binding	1	ZNF462

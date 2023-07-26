@@ -1,0 +1,65 @@
+Feature	Number of Genes	Genes
+protein binding	3	CYCS, S100A4, MYH10
+nucleus	3	CYCS, S100A4, MYH10
+cytosol	3	CYCS, S100A4, MYH10
+actin binding	2	S100A4, MYH10
+extracellular exosome	2	S100A4, MYH10
+electron transfer activity	1	CYCS
+heme binding	1	CYCS
+metal ion binding	1	CYCS
+mitochondrial electron transport, ubiquinol to cytochrome c	1	CYCS
+mitochondrial electron transport, cytochrome c to oxygen	1	CYCS
+activation of cysteine-type endopeptidase activity involved in apoptotic process by cytochrome c	1	CYCS
+positive regulation of cysteine-type endopeptidase activity involved in apoptotic process	1	CYCS
+cellular respiration	1	CYCS
+intrinsic apoptotic signaling pathway	1	CYCS
+activation of cysteine-type endopeptidase activity	1	CYCS
+mitochondrion	1	CYCS
+mitochondrial inner membrane	1	CYCS
+mitochondrial intermembrane space	1	CYCS
+apoptosome	1	CYCS
+respirasome	1	CYCS
+RNA binding	1	S100A4
+calcium ion binding	1	S100A4
+chemoattractant activity	1	S100A4
+identical protein binding	1	S100A4
+transition metal ion binding	1	S100A4
+calcium-dependent protein binding	1	S100A4
+RAGE receptor binding	1	S100A4
+epithelial to mesenchymal transition	1	S100A4
+positive regulation of I-kappaB kinase/NF-kappaB signaling	1	S100A4
+positive chemotaxis	1	S100A4
+extracellular region	1	S100A4
+extracellular space	1	S100A4
+nucleoplasm	1	S100A4
+neuron projection	1	S100A4
+perinuclear region of cytoplasm	1	S100A4
+collagen-containing extracellular matrix	1	S100A4
+microfilament motor activity	1	MYH10
+calmodulin binding	1	MYH10
+ATP binding	1	MYH10
+RNA stem-loop binding	1	MYH10
+ADP binding	1	MYH10
+mRNA 5'-UTR binding	1	MYH10
+actin filament binding	1	MYH10
+mitotic cytokinesis	1	MYH10
+cell adhesion	1	MYH10
+regulation of cell shape	1	MYH10
+actin filament-based movement	1	MYH10
+actomyosin structure organization	1	MYH10
+positive regulation of protein secretion	1	MYH10
+stress fiber	1	MYH10
+cytoplasm	1	MYH10
+polysome	1	MYH10
+cell cortex	1	MYH10
+myosin complex	1	MYH10
+myosin II complex	1	MYH10
+lamellipodium	1	MYH10
+midbody	1	MYH10
+cleavage furrow	1	MYH10
+myosin filament	1	MYH10
+actomyosin	1	MYH10
+myosin II filament	1	MYH10
+ubiquitin protein ligase activity	1	UBE3B
+protein polyubiquitination	1	UBE3B
+ubiquitin-dependent protein catabolic process	1	UBE3B

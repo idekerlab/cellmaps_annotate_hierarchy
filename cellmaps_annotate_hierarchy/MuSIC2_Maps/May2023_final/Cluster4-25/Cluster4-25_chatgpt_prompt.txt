@@ -1,0 +1,35 @@
+Your response should be formatted as Markdown paragraphs
+Write a critical and concise analysis of this human protein system, describing your reasoning as you go and providing references to scientific papers.
+
+A critical goal of the analysis is to determine if this is a novel complex or if any proteins are novel members of a known complex
+
+Format with Title, Summary, and References sections.        
+Avoid overly general statements of how the proteins are involved in various cellular processes        
+Avoid repeating the goals of the analysis.
+
+What cellular components and complexes are involved in this system?
+What mechanisms and biological processes are performed by this system?
+Propose a name for the system to reflect the cellular location and function, and should be specific but brief. Do not compose an acronym. Place it as the title of your report
+Human Proteins: PDPK1, AGRN, CAVIN2, CD44, GRAMD1C, IL7R, SDC2, SDC4.
+
+System features from GO terms: 
+protein binding: 8 proteins: PDPK1, AGRN, CAVIN2, CD44, GRAMD1C, IL7R, SDC2, SDC4
+plasma membrane: 8 proteins: PDPK1, AGRN, CAVIN2, CD44, GRAMD1C, IL7R, SDC2, SDC4
+cell migration: 4 proteins: PDPK1, CD44, SDC2, SDC4
+cytosol: 4 proteins: PDPK1, CAVIN2, CD44, IL7R
+focal adhesion: 3 proteins: PDPK1, CD44, SDC4
+Golgi lumen: 3 proteins: AGRN, SDC2, SDC4
+lysosomal lumen: 3 proteins: AGRN, SDC2, SDC4
+extracellular exosome: 3 proteins: AGRN, CD44, SDC4
+cell surface: 3 proteins: CD44, SDC2, SDC4
+cytoplasm: 2 proteins: PDPK1, CAVIN2
+cell projection: 2 proteins: PDPK1, CD44
+signal transduction: 2 proteins: AGRN, IL7R
+extracellular region: 2 proteins: AGRN, IL7R
+collagen-containing extracellular matrix: 2 proteins: AGRN, SDC2
+protein kinase C binding: 2 proteins: CAVIN2, SDC4
+nucleoplasm: 2 proteins: CAVIN2, IL7R
+membrane raft: 2 proteins: CAVIN2, SDC4
+cytokine receptor activity: 2 proteins: CD44, IL7R
+cytokine-mediated signaling pathway: 2 proteins: CD44, IL7R
+identical protein binding: 2 proteins: SDC2, SDC4

@@ -1,0 +1,633 @@
+Feature	Number of Genes	Genes
+protein binding	42	TMEM185A, SCN3B, CD99L2, ALS2, ANAPC4, APOBEC3C, AZU1, BAG2, C19orf25, CARD10, CLK3, DISC1, DNAJA2, DRG1, DTNA, DVL3, EIF1AD, EXD2, FHOD1, KIF3C, MCC, NES, PGM2, PHLDB2, PJA2, PKN2, PLEC, PSMD10, PTPRE, RB1CC1, RBM23, RCAN1, RGS14, RWDD4, TOM1L2, TRIM32, UNC13B, USP47, VIM, VPS4B, WDR37, ZYG11B
+cytoplasm	23	ALS2, APOBEC3C, CARD10, DNAJA2, DRG1, DTNA, EXD2, FHOD1, MCC, NES, PJA2, PKN2, PLEC, PSMD10, PTPRE, RCAN1, RGS14, SPINT2, TRIM32, USP47, VIM, VPS4B, WDR37
+cytosol	22	ALS2, ANAPC4, BAG2, DISC1, DNAJA2, DRG1, DVL3, EIF1AD, FHOD1, KIF3C, MCC, PGM2, PHLDB2, PKN2, PLEC, PSMD10, RB1CC1, TRIM32, UNC13B, USP47, VIM, VPS4B
+nucleus	20	ALS2, ANAPC4, APOBEC3C, CLK3, DISC1, DRG1, EIF1AD, EXD2, FHOD1, MCC, PKN2, PSMD10, PTPRE, RBM23, RCAN1, RGS14, TRIM32, USP47, VPS4B, WDR37
+plasma membrane	16	SCN3B, CD99L2, DTNA, ITFG1, MCC, PHLDB2, PJA2, PKN2, PLEC, PSMD10, PTPRE, RGS14, SPINT2, UNC13B, VIM, VPS4B
+membrane	12	TMEM185A, SCN3B, TMEM185B, ALS2, CLK3, DNAJA2, DRG1, FHOD1, RBM23, SPINT2, TOM1L2, UNC13B
+intermediate filament cytoskeleton	11	CLK3, DISC1, DTNA, EXD2, NES, PHLDB2, PJA2, PKN2, PLEC, PSMD10, VIM
+nucleoplasm	10	ANAPC4, CLK3, DRG1, DTNA, EIF1AD, FHOD1, MCC, PKN2, PSMD10, USP47
+identical protein binding	9	ALS2, BAG2, CLK3, DISC1, DRG1, FHOD1, TRIM32, VIM, VPS4B
+extracellular exosome	8	AZU1, DNAJA2, ITFG1, PGM2, PLEC, TOM1L2, VIM, VPS4B
+RNA binding	7	APOBEC3C, CLK3, EIF1AD, PKN2, PLEC, RBM23, TRIM32
+centrosome	6	ALS2, DISC1, PJA2, PKN2, RGS14, VPS4B
+dendrite	5	TMEM185A, ALS2, BAG2, PLEC, RGS14
+ATP binding	5	CLK3, DNAJA2, KIF3C, PKN2, VPS4B
+extracellular region	4	CD99L2, AZU1, PGM2, SPINT2
+focal adhesion	4	CD99L2, PHLDB2, PLEC, VIM
+small GTPase binding	4	ALS2, DVL3, PKN2, UNC13B
+postsynaptic density	4	ALS2, DISC1, PJA2, RGS14
+microtubule	4	BAG2, DISC1, KIF3C, RGS14
+axon	4	BAG2, PLEC, TANC2, VIM
+signal transduction	4	DTNA, MCC, PKN2, TOM1L2
+transmembrane transporter binding	3	SCN3B, BAG2, PSMD10
+protein homodimerization activity	3	ALS2, EXD2, VPS4B
+response to oxidative stress	3	ALS2, RCAN1, RGS14
+ GTPase activity	3	ALS2, DVL3, RGS14
+lamellipodium	3	ALS2, MCC, PKN2
+protein-containing complex	3	ALS2, DTNA, PKN2
+dendritic spine	3	ALS2, RGS14, TANC2
+intracellular membrane-bounded organelle	3	ALS2, AZU1, EIF1AD
+ubiquitin-protein transferase activity	3	ANAPC4, PJA2, TRIM32
+cell cycle	3	ANAPC4, PKN2, RB1CC1
+cell division	3	ANAPC4, PKN2, RGS14
+zinc ion binding	3	APOBEC3C, DTNA, TRIM32
+innate immune response	3	APOBEC3C, PJA2, TRIM32
+negative regulation of apoptotic process	3	AZU1, PSMD10, USP47
+negative regulation of protein binding	3	BAG2, DISC1, NES
+ proteasomal ubiquitin-dependent protein catabolic process	3	BAG2, PSMD10, ZYG11B
+protein phosphorylation	3	CLK3, PKN2, RB1CC1
+molecular adaptor activity	3	DISC1, RB1CC1, VIM
+ubiquitin-dependent protein catabolic process	3	DISC1, TRIM32, USP47
+canonical Wnt signaling pathway	3	DISC1, DVL3, VPS4B
+perinuclear region of cytoplasm	3	DISC1, PKN2, PLEC
+microtubule binding	3	DRG1, KIF3C, RGS14
+nuclear body	3	DRG1, PKN2, RGS14
+ DNA-templated transcription	3	DVL3, RBM23, TRIM32
+ transcription by RNA polymerase II	3	DVL3, FHOD1, PSMD10
+protein self-association	3	FHOD1, PLEC, TRIM32
+cytoskeleton	3	FHOD1, PSMD10, VIM
+intermediate filament	3	NES, PLEC, VIM
+cadherin binding	3	PHLDB2, PKN2, PLEC
+ cell growth	3	PSMD10, TRIM32, USP47
+protein kinase binding	3	RB1CC1, RGS14, TOM1L2
+protein localization to plasma membrane	2	SCN3B, PSMD10
+Z disc	2	SCN3B, PLEC
+cell adhesion	2	CD99L2, PKN2
+GTPase activator activity	2	ALS2, RGS14
+neuromuscular junction development	2	ALS2, UNC13B
+protein localization	2	ALS2, PLEC
+endosomal transport	2	ALS2, VPS4B
+synaptic transmission, glutamatergic	2	ALS2, UNC13B
+ protein kinase activity	2	ALS2, AZU1
+ mitotic cell cycle	2	ANAPC4, PKN2
+defense response to virus	2	APOBEC3C, AZU1
+inflammatory response	2	AZU1, PJA2
+ vascular permeability	2	AZU1, PLEC
+protein-folding chaperone binding	2	BAG2, DNAJA2
+protein stabilization	2	BAG2, DVL3
+signaling receptor complex adaptor activity	2	CARD10, RGS14
+ apoptotic process	2	CARD10, UNC13B
+protein serine/threonine kinase activity	2	CLK3, PKN2
+protein serine kinase activity	2	CLK3, PKN2
+protein autophosphorylation	2	CLK3, RB1CC1
+protein-containing complex binding	2	DISC1, VPS4B
+microtubule cytoskeleton organization	2	DISC1, PHLDB2
+ dendritic spine development	2	DISC1, TANC2
+mitochondrion	2	DISC1, EXD2
+kinesin complex	2	DISC1, KIF3C
+ciliary basal body	2	DISC1, PJA2
+glutamatergic synapse	2	DISC1, RGS14
+metal ion binding	2	DNAJA2, PJA2
+GTPase activity	2	DRG1, RGS14
+ mitotic spindle assembly	2	DRG1, VPS4B
+polysome	2	DRG1, VIM
+chemical synaptic transmission	2	DTNA, UNC13B
+ protein phosphorylation	2	DVL3, RB1CC1
+intracellular signal transduction	2	DVL3, PKN2
+magnesium ion binding	2	EXD2, PGM2
+nucleic acid binding	2	EXD2, RCAN1
+mitochondrial outer membrane	2	EXD2, PLEC
+protein domain specific binding	2	FHOD1, VIM
+actin filament binding	2	FHOD1, PLEC
+ATP hydrolysis activity	2	KIF3C, VPS4B
+establishment of protein localization	2	MCC, PHLDB2
+cell leading edge	2	PHLDB2, VIM
+ubiquitin protein ligase activity	2	PJA2, TRIM32
+long-term memory	2	PJA2, RGS14
+protein ubiquitination	2	PJA2, TRIM32
+ JNK cascade	2	PJA2, RB1CC1
+endoplasmic reticulum membrane	2	PJA2, RB1CC1
+apoptotic process	2	PKN2, PSMD10
+ cell motility	2	PKN2, TRIM32
+midbody	2	PKN2, VPS4B
+structural constituent of cytoskeleton	2	PLEC, VIM
+nucleus organization	2	PLEC, VPS4B
+intermediate filament organization	2	PLEC, VIM
+skeletal muscle fiber development	2	PLEC, RCAN1
+autophagy	2	RB1CC1, VPS4B
+ autophagy	2	RB1CC1, TRIM32
+ neurogenesis	2	RGS14, TRIM32
+spindle pole	2	RGS14, VPS4B
+ubiquitin binding	2	TOM1L2, TRIM32
+protein transport	2	TOM1L2, VPS4B
+endosome	2	TOM1L2, VPS4B
+negative regulation of intrinsic apoptotic signaling pathway in response to DNA damage	2	TRIM32, USP47
+voltage-gated monoatomic ion channel activity	1	SCN3B
+sodium channel regulator activity	1	SCN3B
+sodium channel inhibitor activity	1	SCN3B
+voltage-gated sodium channel activity involved in cardiac muscle cell action potential	1	SCN3B
+sodium ion transport	1	SCN3B
+nervous system development	1	SCN3B
+ heart rate	1	SCN3B
+ sodium ion transport	1	SCN3B
+sensory perception of pain	1	SCN3B
+sodium ion transmembrane transport	1	SCN3B
+membrane depolarization	1	SCN3B
+cardiac muscle contraction	1	SCN3B
+ atrial cardiac muscle cell membrane depolarization	1	SCN3B
+ ventricular cardiac muscle cell membrane depolarization	1	SCN3B
+cardiac muscle cell action potential involved in contraction	1	SCN3B
+ventricular cardiac muscle cell action potential	1	SCN3B
+membrane depolarization during action potential	1	SCN3B
+membrane depolarization during cardiac muscle cell action potential	1	SCN3B
+atrial cardiac muscle cell action potential	1	SCN3B
+SA node cell action potential	1	SCN3B
+ heart rate by cardiac conduction	1	SCN3B
+ sodium ion transmembrane transporter activity	1	SCN3B
+voltage-gated sodium channel complex	1	SCN3B
+UDP-N-acetylglucosamine diphosphorylase activity	1	UAP1L1
+UDP-N-acetylglucosamine biosynthetic process	1	UAP1L1
+diapedesis	1	CD99L2
+ neutrophil extravasation	1	CD99L2
+ T cell extravasation	1	CD99L2
+adherens junction	1	CD99L2
+cell surface	1	CD99L2
+guanyl-nucleotide exchange factor activity	1	ALS2
+protein serine/threonine kinase activator activity	1	ALS2
+behavioral fear response	1	ALS2
+in utero embryonic development	1	ALS2
+receptor recycling	1	ALS2
+endosome organization	1	ALS2
+lysosomal transport	1	ALS2
+axonogenesis	1	ALS2
+locomotory behavior	1	ALS2
+cell death	1	ALS2
+Rac protein signal transduction	1	ALS2
+ Rac protein signal transduction	1	ALS2
+neuron projection morphogenesis	1	ALS2
+ endosome size	1	ALS2
+protein homooligomerization	1	ALS2
+ruffle	1	ALS2
+early endosome	1	ALS2
+growth cone	1	ALS2
+vesicle	1	ALS2
+neuronal cell body	1	ALS2
+protein phosphatase binding	1	ANAPC4
+ mitotic metaphase/anaphase transition	1	ANAPC4
+anaphase-promoting complex-dependent catabolic process	1	ANAPC4
+ meiotic cell cycle	1	ANAPC4
+protein K11-linked ubiquitination	1	ANAPC4
+anaphase-promoting complex	1	ANAPC4
+nuclear periphery	1	ANAPC4
+cytidine deaminase activity	1	APOBEC3C
+deoxycytidine deaminase activity	1	APOBEC3C
+cytidine deamination	1	APOBEC3C
+retrotransposon silencing	1	APOBEC3C
+negative regulation of transposition	1	APOBEC3C
+cytidine to uridine editing	1	APOBEC3C
+negative regulation of viral genome replication	1	APOBEC3C
+negative regulation of single stranded viral RNA replication via double stranded DNA intermediate	1	APOBEC3C
+DNA cytosine deamination	1	APOBEC3C
+DNA demethylation	1	APOBEC3C
+P-body	1	APOBEC3C
+serine-type endopeptidase activity	1	AZU1
+heparin binding	1	AZU1
+peptidase activity	1	AZU1
+toxic substance binding	1	AZU1
+heparan sulfate proteoglycan binding	1	AZU1
+microglial cell activation	1	AZU1
+proteolysis	1	AZU1
+protein kinase C-activating G protein-coupled receptor signaling pathway	1	AZU1
+glial cell migration	1	AZU1
+ gene expression	1	AZU1
+ peptidyl-threonine phosphorylation	1	AZU1
+antimicrobial humoral response	1	AZU1
+ fractalkine production	1	AZU1
+ interleukin-1 beta production	1	AZU1
+ tumor necrosis factor production	1	AZU1
+calcium-mediated signaling using intracellular calcium source	1	AZU1
+monocyte activation	1	AZU1
+cellular extravasation	1	AZU1
+ MHC class II biosynthetic process	1	AZU1
+ cell adhesion	1	AZU1
+macrophage chemotaxis	1	AZU1
+ phagocytosis	1	AZU1
+defense response to Gram-negative bacterium	1	AZU1
+induction of positive chemotaxis	1	AZU1
+cell chemotaxis	1	AZU1
+protein kinase C signaling	1	AZU1
+neutrophil-mediated killing of bacterium	1	AZU1
+extracellular space	1	AZU1
+extrinsic component of membrane	1	AZU1
+azurophil granule membrane	1	AZU1
+azurophil granule lumen	1	AZU1
+azurophil granule	1	AZU1
+adenyl-nucleotide exchange factor activity	1	BAG2
+heat shock protein binding	1	BAG2
+ubiquitin protein ligase binding	1	BAG2
+tau protein binding	1	BAG2
+protein folding	1	BAG2
+ protein processing	1	BAG2
+protein metabolic process	1	BAG2
+negative regulation of protein ubiquitination	1	BAG2
+ proteasomal protein catabolic process	1	BAG2
+negative regulation of ubiquitin protein ligase activity	1	BAG2
+protein folding chaperone complex	1	BAG2
+dendritic microtubule	1	BAG2
+activation of NF-kappaB-inducing kinase activity	1	CARD10
+protein-containing complex assembly	1	CARD10
+negative regulation of cell migration involved in sprouting angiogenesis	1	CARD10
+ protein localization to nucleus	1	CARD10
+CBM complex	1	CARD10
+protein serine/threonine/tyrosine kinase activity	1	CLK3
+protein tyrosine kinase activity	1	CLK3
+peptidyl-tyrosine phosphorylation	1	CLK3
+ RNA splicing	1	CLK3
+acrosomal vesicle	1	CLK3
+nuclear speck	1	CLK3
+kinesin binding	1	DISC1
+neuron migration	1	DISC1
+ cell-matrix adhesion	1	DISC1
+ neuroblast proliferation	1	DISC1
+ neuron projection development	1	DISC1
+cell proliferation in forebrain	1	DISC1
+pyramidal neuron migration to cerebral cortex	1	DISC1
+ Wnt signaling pathway	1	DISC1
+TOR signaling	1	DISC1
+ axon extension	1	DISC1
+mitochondrial calcium ion homeostasis	1	DISC1
+response to electrical stimulus	1	DISC1
+ synaptic transmission, glutamatergic	1	DISC1
+cilium assembly	1	DISC1
+neuron cellular homeostasis	1	DISC1
+protein localization to centrosome	1	DISC1
+ synapse maturation	1	DISC1
+ postsynapse organization	1	DISC1
+non-motile cilium assembly	1	DISC1
+ ubiquitin-dependent protein catabolic process	1	DISC1
+endoplasmic reticulum	1	DISC1
+synaptic vesicle	1	DISC1
+dynein complex	1	DISC1
+cell body	1	DISC1
+central region of growth cone	1	DISC1
+ciliary base	1	DISC1
+presynapse	1	DISC1
+GABA-ergic synapse	1	DISC1
+ATPase activator activity	1	DNAJA2
+Hsp70 protein binding	1	DNAJA2
+unfolded protein binding	1	DNAJA2
+ cell population proliferation	1	DNAJA2
+response to heat	1	DNAJA2
+protein refolding	1	DNAJA2
+GTP binding	1	DRG1
+potassium ion binding	1	DRG1
+cytoplasmic translation	1	DRG1
+ microtubule polymerization	1	DRG1
+striated muscle contraction	1	DTNA
+neuromuscular synaptic transmission	1	DTNA
+synaptic signaling	1	DTNA
+cell junction	1	DTNA
+synapse	1	DTNA
+protease binding	1	DVL3
+signaling receptor binding	1	DVL3
+frizzled binding	1	DVL3
+beta-catenin binding	1	DVL3
+ protein localization	1	DVL3
+non-canonical Wnt signaling pathway	1	DVL3
+non-canonical Wnt signaling pathway via JNK cascade	1	DVL3
+ JUN kinase activity	1	DVL3
+Wnt signaling pathway, planar cell polarity pathway	1	DVL3
+planar cell polarity pathway involved in neural tube closure	1	DVL3
+ neuron projection arborization	1	DVL3
+chromatin	1	DVL3
+translation initiation factor activity	1	EIF1AD
+translational initiation	1	EIF1AD
+3'-5'-RNA exonuclease activity	1	EXD2
+3'-5'-DNA exonuclease activity	1	EXD2
+single-stranded DNA 3'-5' DNA exonuclease activity	1	EXD2
+3'-5' exonuclease activity	1	EXD2
+manganese ion binding	1	EXD2
+double-strand break repair via homologous recombination	1	EXD2
+DNA double-strand break processing	1	EXD2
+double-strand break repair	1	EXD2
+replication fork processing	1	EXD2
+nucleic acid phosphodiester bond hydrolysis	1	EXD2
+RNA phosphodiester bond hydrolysis, exonucleolytic	1	EXD2
+mitochondrial matrix	1	EXD2
+site of DNA damage	1	EXD2
+nuclear migration	1	FHOD1
+cortical actin cytoskeleton organization	1	FHOD1
+ stress fiber assembly	1	FHOD1
+establishment of centrosome localization	1	FHOD1
+stress fiber	1	FHOD1
+intercalated disc	1	FHOD1
+bleb	1	FHOD1
+cytoskeletal motor activity	1	KIF3C
+microtubule motor activity	1	KIF3C
+microtubule-based movement	1	KIF3C
+cilium	1	KIF3C
+ciliary tip	1	KIF3C
+signaling receptor activity	1	MCC
+negative regulation of epithelial cell migration	1	MCC
+Wnt signaling pathway	1	MCC
+negative regulation of epithelial cell proliferation	1	MCC
+negative regulation of canonical Wnt signaling pathway	1	MCC
+molecular_function	1	NES
+intermediate filament binding	1	NES
+CCR5 chemokine receptor binding	1	NES
+G2/M transition of mitotic cell cycle	1	NES
+central nervous system development	1	NES
+brain development	1	NES
+ intermediate filament depolymerization	1	NES
+embryonic camera-type eye development	1	NES
+negative regulation of catalytic activity	1	NES
+negative regulation of neuron apoptotic process	1	NES
+cell projection morphogenesis	1	NES
+neuron apoptotic process	1	NES
+stem cell proliferation	1	NES
+ neural precursor cell proliferation	1	NES
+phosphoglucomutase activity	1	PGM2
+phosphopentomutase activity	1	PGM2
+glycogen catabolic process	1	PGM2
+glucose metabolic process	1	PGM2
+purine ribonucleoside salvage	1	PGM2
+secretory granule lumen	1	PGM2
+ficolin-1-rich granule lumen	1	PGM2
+ gastrulation	1	PHLDB2
+ epithelial to mesenchymal transition	1	PHLDB2
+cell migration	1	PHLDB2
+establishment of cell polarity	1	PHLDB2
+negative regulation of stress fiber assembly	1	PHLDB2
+negative regulation of focal adhesion assembly	1	PHLDB2
+ microtubule cytoskeleton organization	1	PHLDB2
+negative regulation of wound healing, spreading of epidermal cells	1	PHLDB2
+ basement membrane assembly involved in embryonic body morphogenesis	1	PHLDB2
+basal cortex	1	PHLDB2
+protein kinase A catalytic subunit binding	1	PJA2
+protein kinase A regulatory subunit binding	1	PJA2
+ protein kinase A signaling	1	PJA2
+ toll-like receptor 2 signaling pathway	1	PJA2
+ macrophage activation	1	PJA2
+proteasome-mediated ubiquitin-dependent protein catabolic process	1	PJA2
+ p38MAPK cascade	1	PJA2
+Golgi membrane	1	PJA2
+centriolar satellite	1	PJA2
+protein kinase activity	1	PKN2
+calcium-dependent protein kinase C activity	1	PKN2
+kinase activity	1	PKN2
+histone deacetylase binding	1	PKN2
+RNA polymerase binding	1	PKN2
+epithelial cell migration	1	PKN2
+peptidyl-serine phosphorylation	1	PKN2
+cell projection organization	1	PKN2
+ cytokinesis	1	PKN2
+apical junction assembly	1	PKN2
+ viral genome replication	1	PKN2
+cleavage furrow	1	PKN2
+apical junction complex	1	PKN2
+dystroglycan binding	1	PLEC
+structural constituent of muscle	1	PLEC
+ankyrin binding	1	PLEC
+cell morphogenesis	1	PLEC
+leukocyte migration involved in immune response	1	PLEC
+keratinocyte development	1	PLEC
+negative regulation of protein kinase activity	1	PLEC
+gene expression	1	PLEC
+fibroblast migration	1	PLEC
+T cell chemotaxis	1	PLEC
+skeletal myofibril assembly	1	PLEC
+transmission of nerve impulse	1	PLEC
+respiratory electron transport chain	1	PLEC
+hemidesmosome assembly	1	PLEC
+cellular response to extracellular stimulus	1	PLEC
+response to food	1	PLEC
+peripheral nervous system myelin maintenance	1	PLEC
+adherens junction organization	1	PLEC
+multicellular organism growth	1	PLEC
+wound healing	1	PLEC
+protein-containing complex organization	1	PLEC
+intermediate filament cytoskeleton organization	1	PLEC
+sarcomere organization	1	PLEC
+myoblast differentiation	1	PLEC
+cardiac muscle cell development	1	PLEC
+establishment of skin barrier	1	PLEC
+mitochondrion morphogenesis	1	PLEC
+cellular response to mechanical stimulus	1	PLEC
+cellular response to hydrostatic pressure	1	PLEC
+cellular response to fluid shear stress	1	PLEC
+tight junction organization	1	PLEC
+actomyosin contractile ring assembly actin filament organization	1	PLEC
+ ATP citrate synthase activity	1	PLEC
+brush border	1	PLEC
+sarcoplasm	1	PLEC
+hemidesmosome	1	PLEC
+sarcolemma	1	PLEC
+costamere	1	PLEC
+myelin sheath	1	PLEC
+cytoskeletal protein binding	1	PSMD10
+transcription factor binding	1	PSMD10
+protein-macromolecule adaptor activity	1	PSMD10
+RNA polymerase II-specific DNA-binding transcription factor binding	1	PSMD10
+negative regulation of transcription by RNA polymerase II	1	PSMD10
+cytoplasmic sequestering of NF-kappaB	1	PSMD10
+ protein ubiquitination	1	PSMD10
+negative regulation of NF-kappaB transcription factor activity	1	PSMD10
+negative regulation of MAPK cascade	1	PSMD10
+negative regulation of DNA damage response, signal transduction by p53 class mediator	1	PSMD10
+ cyclin-dependent protein serine/threonine kinase activity	1	PSMD10
+proteasome regulatory particle assembly	1	PSMD10
+negative regulation of release of cytochrome c from mitochondria	1	PSMD10
+proteasome complex	1	PSMD10
+neuron projection	1	PSMD10
+transmembrane receptor protein tyrosine phosphatase activity	1	PTPRE
+protein dephosphorylation	1	PTPRE
+negative regulation of insulin receptor signaling pathway	1	PTPRE
+autophagosome assembly	1	RB1CC1
+autophagy of mitochondrion	1	RB1CC1
+liver development	1	RB1CC1
+heart development	1	RB1CC1
+negative regulation of cell population proliferation	1	RB1CC1
+autophagy of peroxisome	1	RB1CC1
+piecemeal microautophagy of the nucleus	1	RB1CC1
+ cell size	1	RB1CC1
+reticulophagy	1	RB1CC1
+glycophagy	1	RB1CC1
+extrinsic apoptotic signaling pathway	1	RB1CC1
+ protein lipidation	1	RB1CC1
+negative regulation of extrinsic apoptotic signaling pathway	1	RB1CC1
+phagophore assembly site	1	RB1CC1
+autophagosome membrane	1	RB1CC1
+lysosome	1	RB1CC1
+nuclear membrane	1	RB1CC1
+phagophore assembly site membrane	1	RB1CC1
+Atg1/ULK1 kinase complex	1	RB1CC1
+U1 snRNP binding	1	RBM23
+mRNA processing	1	RBM23
+RNA splicing	1	RBM23
+ mRNA splicing, via spliceosome	1	RBM23
+calcium-dependent protein serine/threonine phosphatase regulator activity	1	RCAN1
+response to ischemia	1	RCAN1
+short-term memory	1	RCAN1
+calcium-mediated signaling	1	RCAN1
+locomotion involved in locomotory behavior	1	RCAN1
+calcineurin-NFAT signaling cascade	1	RCAN1
+ phosphoprotein phosphatase activity	1	RCAN1
+negative regulation of calcineurin-NFAT signaling cascade	1	RCAN1
+G-protein alpha-subunit binding	1	RGS14
+GDP-dissociation inhibitor activity	1	RGS14
+GTPase activating protein binding	1	RGS14
+mitotic cell cycle	1	RGS14
+nucleocytoplasmic transport	1	RGS14
+spindle organization	1	RGS14
+chromosome segregation	1	RGS14
+G protein-coupled receptor signaling pathway	1	RGS14
+learning	1	RGS14
+ G protein-coupled receptor signaling pathway	1	RGS14
+visual learning	1	RGS14
+zygote asymmetric cell division	1	RGS14
+negative regulation of synaptic plasticity	1	RGS14
+negative regulation of MAP kinase activity	1	RGS14
+ DNA-templated transcription in response to stress	1	RGS14
+negative regulation of G protein-coupled receptor signaling pathway	1	RGS14
+platelet-derived growth factor receptor signaling pathway	1	RGS14
+long-term synaptic potentiation	1	RGS14
+negative regulation of ERK1 and ERK2 cascade	1	RGS14
+spindle	1	RGS14
+PML body	1	RGS14
+endopeptidase inhibitor activity	1	SPINT2
+serine-type endopeptidase inhibitor activity	1	SPINT2
+neural tube closure	1	SPINT2
+establishment or maintenance of cell polarity	1	SPINT2
+negative regulation of peptidase activity	1	SPINT2
+negative regulation of cell-cell adhesion	1	SPINT2
+epithelial cell morphogenesis involved in placental branching	1	SPINT2
+basement membrane organization	1	SPINT2
+cellular response to BMP stimulus	1	SPINT2
+negative regulation of cell motility	1	SPINT2
+negative regulation of neural precursor cell proliferation	1	SPINT2
+ dendritic spine morphogenesis	1	TANC2
+dense core granule cytoskeletal transport	1	TANC2
+clathrin binding	1	TOM1L2
+phosphatidylinositol binding	1	TOM1L2
+negative regulation of mitotic nuclear division	1	TOM1L2
+transcription coactivator activity	1	TRIM32
+myosin binding	1	TRIM32
+Tat protein binding	1	TRIM32
+translation initiation factor binding	1	TRIM32
+protein polyubiquitination	1	TRIM32
+tissue homeostasis	1	TRIM32
+actin ubiquitination	1	TRIM32
+response to UV	1	TRIM32
+free ubiquitin chain polymerization	1	TRIM32
+ cell migration	1	TRIM32
+negative regulation of viral transcription	1	TRIM32
+response to tumor necrosis factor	1	TRIM32
+ I-kappaB kinase/NF-kappaB signaling	1	TRIM32
+suppression of viral release by host	1	TRIM32
+fat cell differentiation	1	TRIM32
+ neuron differentiation	1	TRIM32
+ protein catabolic process	1	TRIM32
+ cell cycle	1	TRIM32
+ proteolysis	1	TRIM32
+muscle cell cellular homeostasis	1	TRIM32
+negative regulation of fibroblast proliferation	1	TRIM32
+ DNA-binding transcription factor activity	1	TRIM32
+ NF-kappaB transcription factor activity	1	TRIM32
+ striated muscle cell differentiation	1	TRIM32
+axon development	1	TRIM32
+protein K48-linked ubiquitination	1	TRIM32
+ tumor necrosis factor-mediated signaling pathway	1	TRIM32
+ interleukin-17-mediated signaling pathway	1	TRIM32
+ chemokine (C-C motif) ligand 20 production	1	TRIM32
+striated muscle myosin thick filament	1	TRIM32
+calcium ion binding	1	UNC13B
+calmodulin binding	1	UNC13B
+phospholipid binding	1	UNC13B
+syntaxin-1 binding	1	UNC13B
+diacylglycerol binding	1	UNC13B
+GTP-dependent protein binding	1	UNC13B
+ synaptic vesicle priming	1	UNC13B
+synaptic vesicle docking	1	UNC13B
+synaptic vesicle priming	1	UNC13B
+synaptic vesicle maturation	1	UNC13B
+ protein secretion	1	UNC13B
+acrosomal vesicle exocytosis	1	UNC13B
+dense core granule priming	1	UNC13B
+cellular response to glucose stimulus	1	UNC13B
+ inhibitory postsynaptic potential	1	UNC13B
+neuronal dense core vesicle exocytosis	1	UNC13B
+presynaptic dense core vesicle exocytosis	1	UNC13B
+Golgi apparatus	1	UNC13B
+synaptic vesicle membrane	1	UNC13B
+neuromuscular junction	1	UNC13B
+presynaptic membrane	1	UNC13B
+terminal bouton	1	UNC13B
+presynaptic active zone	1	UNC13B
+presynaptic active zone cytoplasmic component	1	UNC13B
+cysteine-type endopeptidase activity	1	USP47
+cysteine-type deubiquitinase activity	1	USP47
+WD40-repeat domain binding	1	USP47
+deubiquitinase activity	1	USP47
+base-excision repair	1	USP47
+DNA damage response	1	USP47
+intrinsic apoptotic signaling pathway in response to DNA damage	1	USP47
+response to xenobiotic stimulus	1	USP47
+negative regulation of G2/M transition of mitotic cell cycle	1	USP47
+protein deubiquitination	1	USP47
+cellular response to UV	1	USP47
+monoubiquitinated protein deubiquitination	1	USP47
+negative regulation of cysteine-type endopeptidase activity involved in apoptotic process	1	USP47
+negative regulation of DNA-templated transcription	1	USP47
+ canonical Wnt signaling pathway	1	USP47
+SCF ubiquitin ligase complex	1	USP47
+double-stranded RNA binding	1	VIM
+structural constituent of eye lens	1	VIM
+scaffold protein binding	1	VIM
+keratin filament binding	1	VIM
+negative regulation of neuron projection development	1	VIM
+astrocyte development	1	VIM
+neuron projection development	1	VIM
+ collagen biosynthetic process	1	VIM
+ mRNA stability	1	VIM
+ translation	1	VIM
+Bergmann glial cell differentiation	1	VIM
+SMAD protein signal transduction	1	VIM
+lens fiber cell development	1	VIM
+cellular response to lipopolysaccharide	1	VIM
+cellular response to muramyl dipeptide	1	VIM
+cellular response to type II interferon	1	VIM
+peroxisome	1	VIM
+microtubule organizing center	1	VIM
+nuclear matrix	1	VIM
+phagocytic vesicle	1	VIM
+ribonucleoprotein complex	1	VIM
+angiogenesis	1	VPS4B
+plasma membrane repair	1	VPS4B
+potassium ion transport	1	VPS4B
+vacuole organization	1	VPS4B
+mitotic metaphase plate congression	1	VPS4B
+ centrosome duplication	1	VPS4B
+ G2/M transition of mitotic cell cycle	1	VPS4B
+macroautophagy	1	VPS4B
+cholesterol transport	1	VPS4B
+nuclear membrane reassembly	1	VPS4B
+endosome to lysosome transport via multivesicular body sorting pathway	1	VPS4B
+response to lipid	1	VPS4B
+multivesicular body assembly	1	VPS4B
+viral budding via host ESCRT complex	1	VPS4B
+ubiquitin-dependent protein catabolic process via the multivesicular body sorting pathway	1	VPS4B
+viral budding from plasma membrane	1	VPS4B
+protein depolymerization	1	VPS4B
+negative regulation of cell death	1	VPS4B
+establishment of blood-brain barrier	1	VPS4B
+late endosomal microautophagy	1	VPS4B
+late endosome to lysosome transport via multivesicular body sorting pathway	1	VPS4B
+midbody abscission	1	VPS4B
+multivesicular body sorting pathway	1	VPS4B
+membrane fission	1	VPS4B
+ubiquitin-independent protein catabolic process via the multivesicular body sorting pathway	1	VPS4B
+autophagosome maturation	1	VPS4B
+negative regulation of exosomal secretion	1	VPS4B
+ exosomal secretion	1	VPS4B
+ centriole elongation	1	VPS4B
+ESCRT III complex disassembly	1	VPS4B
+nuclear pore	1	VPS4B
+endosome membrane	1	VPS4B
+late endosome membrane	1	VPS4B
+Flemming body	1	VPS4B
+ATPase complex	1	VPS4B
+lymphocyte homeostasis	1	WDR37
+corpus callosum development	1	WDR37
+protein quality control for misfolded or incompletely synthesized proteins	1	ZYG11B
+Cul2-RING ubiquitin ligase complex	1	ZYG11B

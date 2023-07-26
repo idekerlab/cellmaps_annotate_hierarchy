@@ -1,0 +1,66 @@
+Feature	Number of Genes	Genes
+protein binding	3	CDK7, SMOC1, VANGL1
+plasma membrane	3	CDK7, PLCD3, VANGL1
+nucleus	2	CDK7, DIP2B
+nucleoplasm	2	CDK7, PLCD3
+cytoplasm	2	CDK7, DIP2B
+cytosol	2	CDK7, PLCD3
+protein kinase activity	1	CDK7
+protein serine/threonine kinase activity	1	CDK7
+cyclin-dependent protein serine/threonine kinase activity	1	CDK7
+ATP binding	1	CDK7
+ATP-dependent activity, acting on DNA	1	CDK7
+RNA polymerase II CTD heptapeptide repeat kinase activity	1	CDK7
+protein serine kinase activity	1	CDK7
+ cyclin-dependent protein serine/threonine kinase activity	1	CDK7
+DNA repair	1	CDK7
+transcription by RNA polymerase II	1	CDK7
+transcription initiation at RNA polymerase II promoter	1	CDK7
+protein phosphorylation	1	CDK7
+cell cycle	1	CDK7
+snRNA transcription by RNA polymerase II	1	CDK7
+ transcription by RNA polymerase II	1	CDK7
+protein stabilization	1	CDK7
+cell division	1	CDK7
+ cell cycle	1	CDK7
+ G1/S transition of mitotic cell cycle	1	CDK7
+transcription factor TFIIH core complex	1	CDK7
+fibrillar center	1	CDK7
+male germ cell nucleus	1	CDK7
+transcription factor TFIIH holo complex	1	CDK7
+cyclin-dependent protein kinase activating kinase holoenzyme complex	1	CDK7
+perinuclear region of cytoplasm	1	CDK7
+CAK-ERCC2 complex	1	CDK7
+transcription factor TFIIK complex	1	CDK7
+molecular_function	1	DIP2B
+alpha-tubulin binding	1	DIP2B
+nervous system development	1	DIP2B
+biological_process	1	DIP2B
+negative regulation of axon extension	1	DIP2B
+ peptidyl-lysine acetylation	1	DIP2B
+membrane	1	DIP2B
+axon	1	DIP2B
+dendrite	1	DIP2B
+perikaryon	1	DIP2B
+extracellular exosome	1	DIP2B
+phosphatidylinositol phospholipase C activity	1	PLCD3
+metal ion binding	1	PLCD3
+angiogenesis	1	PLCD3
+lipid catabolic process	1	PLCD3
+intracellular signal transduction	1	PLCD3
+ cell population proliferation	1	PLCD3
+labyrinthine layer blood vessel development	1	PLCD3
+cleavage furrow	1	PLCD3
+calcium ion binding	1	SMOC1
+heparin binding	1	SMOC1
+extracellular matrix binding	1	SMOC1
+eye development	1	SMOC1
+cell differentiation	1	SMOC1
+extracellular matrix organization	1	SMOC1
+ osteoblast differentiation	1	SMOC1
+limb development	1	SMOC1
+basement membrane	1	SMOC1
+extracellular space	1	SMOC1
+pigmentation	1	VANGL1
+Wnt signaling pathway, planar cell polarity pathway	1	VANGL1
+lateral plasma membrane	1	VANGL1

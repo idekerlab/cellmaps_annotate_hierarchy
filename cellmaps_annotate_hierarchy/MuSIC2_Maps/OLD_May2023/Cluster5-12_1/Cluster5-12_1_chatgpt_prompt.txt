@@ -1,0 +1,31 @@
+Write a critical and concise analysis of this system, describing your reasoning as you go and providing references to scientific papers.         
+Format with Title, Summary, and References sections.        
+Avoid overly general statements of how the proteins are involved in various cellular processes
+        
+Avoid recapitulating the goals of the analysis. 
+What cellular components and complexes are involved in this system?
+What mechanisms and biological processes are performed by this system?
+Propose a name for the system to reflect the function and location, and should be specific but brief. Do not compose an acronym. Place it as the title of your report
+Provide complete paper references with pubmed link
+Proteins: COX4I1, CHCHD2, SAMM50, TOMM5, FAM136A, POLG2, GRK6, TOMM20, NME4, HINT2, CARD19, TOMM22, BIRC3, XPNPEP3.
+
+A critical goal of the analysis is to determine if this is a novel complex or if any proteins are novel members of a known complex
+System features from GO terms: 
+protein binding: 11 proteins: GRK6, POLG2, XPNPEP3, NME4, COX4I1, TOMM22, TOMM20, SAMM50, FAM136A, CHCHD2, BIRC3
+mitochondrion: 11 proteins: POLG2, XPNPEP3, NME4, COX4I1, HINT2, TOMM22, TOMM20, SAMM50, CARD19, TOMM5, CHCHD2
+cytoplasm: 6 proteins: GRK6, POLG2, XPNPEP3, HINT2, FAM136A, BIRC3
+mitochondrial outer membrane: 5 proteins: HINT2, TOMM22, TOMM20, SAMM50, TOMM5
+membrane: 4 proteins: GRK6, COX4I1, TOMM22, SAMM50
+cytosol: 4 proteins: XPNPEP3, COX4I1, CARD19, BIRC3
+protein insertion into mitochondrial outer membrane: 4 proteins: TOMM22, TOMM20, SAMM50, TOMM5
+protein targeting to mitochondrion: 3 proteins: TOMM22, TOMM20, TOMM5
+mitochondrial outer membrane translocase complex: 3 proteins: TOMM22, TOMM20, TOMM5
+nucleus: 3 proteins: CARD19, CHCHD2, BIRC3
+ATP binding: 2 proteins: GRK6, NME4
+mitochondrial matrix: 2 proteins: POLG2, NME4
+metal ion binding: 2 proteins: NME4, BIRC3
+mitochondrial inner membrane: 2 proteins: NME4, COX4I1
+mitochondrial intermembrane space: 2 proteins: NME4, CHCHD2
+nucleoplasm: 2 proteins: COX4I1, BIRC3
+apoptotic process: 2 proteins: HINT2, BIRC3
+protein transmembrane transporter activity: 2 proteins: TOMM22, TOMM20

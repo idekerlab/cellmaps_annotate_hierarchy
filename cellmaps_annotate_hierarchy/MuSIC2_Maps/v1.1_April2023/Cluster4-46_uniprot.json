@@ -1,0 +1,227 @@
+{
+    "COLQ": {
+        "UniProtKB_ID": "COLQ_HUMAN",
+        "Description": "Acetylcholinesterase collagenic tail peptide",
+        "GO": [
+            "basement membrane",
+            "cell junction",
+            "collagen trimer",
+            "collagen-containing extracellular matrix",
+            "extracellular matrix",
+            "extracellular space",
+            "neuromuscular junction",
+            "plasma membrane",
+            "synaptic cleft",
+            "extracellular matrix structural constituent",
+            "heparin binding",
+            "acetylcholine catabolic process in synaptic cleft",
+            "establishment of protein localization to membrane",
+            "extracellular matrix organization",
+            "regulation of synaptic assembly at neuromuscular junction",
+            "skeletal muscle acetylcholine-gated channel clustering"
+        ],
+        "Location": [
+            "synapse"
+        ],
+        "Disease": [
+            "Myasthenic syndrome",
+            "Congenital myasthenic syndrome",
+            "Disease variant"
+        ],
+        "Disease_description": [
+            "Myasthenic syndrome: A form of congenital myasthenic syndrome, a group of disorders characterized by failure of neuromuscular transmission, including pre-synaptic, synaptic, and post-synaptic disorders that are not of autoimmune origin. Clinical features are easy fatigability and muscle weakness affecting the axial and limb muscles (with hypotonia in early-onset forms), the ocular muscles (leading to ptosis and ophthalmoplegia), and the facial and bulbar musculature (affecting sucking and swallowing, and leading to dysphonia). The symptoms fluctuate and worsen with physical effort. CMS5 inheritance is autosomal recessive."
+        ],
+        "Complexes": [
+            "Homotrimer. Component of the asymmetric form of AChE, a disulfide-bonded oligomer composed of the collagenic subunits (Q) and a variable number of asymmetric catalytic subunits (T). The N-terminal of a collagenic subunit (Q) associates with the C-terminal of a catalytic subunit (T)"
+        ]
+    },
+    "FLT4": {
+        "UniProtKB_ID": "VGFR3_HUMAN",
+        "Description": "Vascular endothelial growth factor receptor 3",
+        "GO": [
+            "cytosol",
+            "extracellular region",
+            "nucleoplasm",
+            "plasma membrane",
+            "receptor complex",
+            "ATP binding",
+            "growth factor binding",
+            "protein homodimerization activity",
+            "protein phosphatase binding",
+            "transmembrane receptor protein tyrosine kinase activity",
+            "vascular endothelial growth factor receptor activity",
+            "angiogenesis",
+            "blood vessel morphogenesis",
+            "cellular response to vascular endothelial growth factor stimulus",
+            "hematopoietic progenitor cell differentiation",
+            "lung alveolus development",
+            "lymph vessel development",
+            "lymphangiogenesis",
+            "negative regulation of apoptotic process",
+            "peptidyl-tyrosine phosphorylation",
+            "positive regulation of cell migration",
+            "positive regulation of cell population proliferation",
+            "positive regulation of endothelial cell migration",
+            "positive regulation of endothelial cell proliferation",
+            "positive regulation of ERK1 and ERK2 cascade",
+            "positive regulation of JNK cascade",
+            "positive regulation of kinase activity",
+            "positive regulation of MAPK cascade",
+            "positive regulation of protein kinase C signaling",
+            "positive regulation of protein phosphorylation",
+            "positive regulation of vascular endothelial growth factor production",
+            "protein autophosphorylation",
+            "regulation of blood vessel remodeling",
+            "regulation of MAPK cascade",
+            "respiratory system process",
+            "sprouting angiogenesis",
+            "transmembrane receptor protein tyrosine kinase signaling pathway",
+            "vascular endothelial growth factor receptor signaling pathway",
+            "vascular endothelial growth factor signaling pathway",
+            "vasculature development"
+        ],
+        "Location": [
+            "cytoplasm",
+            "membrane",
+            "cell membrane",
+            "nucleus",
+            "secreted"
+        ],
+        "Disease": [
+            "Lymphatic malformation 1",
+            "Hemangioma",
+            "Congenital heart defects",
+            "Disease variant"
+        ],
+        "Disease_description": [
+            "Lymphatic malformation 1: A form of primary lymphedema, a disease characterized by swelling of body parts due to developmental anomalies and functional defects of the lymphatic system. Patients with lymphedema may suffer from recurrent local infections. LMPHM1 is an autosomal dominant form with variable expression and severity. Onset is usually at birth or in early childhood but can occur later. Affected individuals manifest lymphedema, predominantly in the lower limbs, and hypoplasia of lymphatic vessels. Additional features are hemangioma and nail dysplasia or papillomatosis.",
+            "Hemangioma: A condition characterized by dull red, firm, dome-shaped hemangiomas, sharply demarcated from surrounding skin, usually presenting at birth or occurring within the first two or three months of life. They result from highly proliferative, localized growth of capillary endothelium and generally undergo regression and involution without scarring.",
+            "Congenital heart defects: An autosomal dominant disorder with incomplete penetrance characterized by congenital developmental abnormalities involving structures of the heart. Common defects include tetralogy of Fallot, pulmonary stenosis or atresia, absent pulmonary valve, right aortic arch, double aortic arch, and major aortopulmonary collateral arteries."
+        ],
+        "Complexes": [
+            "Interacts with VEGFC and VEGFD. Monomer in the absence of bound VEGFC or VEGFD. Homodimer in the presence of bound VEGFC or VEGFD. Can also form a heterodimer with KDR. Interacts with PTPN14; the interaction is enhanced by stimulation with VEGFC. Interacts with CRK, GRB2, PTK2/FAK1, SHC1, PIK3R1 and PTPN11/SHP-2. Identified in a complex with SRC and ITGB1"
+        ]
+    },
+    "MYADM": {
+        "UniProtKB_ID": "MYADM_HUMAN",
+        "Description": "Myeloid-associated differentiation marker",
+        "GO": [
+            "cell-cell junction",
+            "cortical actin cytoskeleton",
+            "membrane raft",
+            "plasma membrane",
+            "ruffle",
+            "establishment of endothelial barrier",
+            "membrane raft organization",
+            "negative regulation of actin filament polymerization",
+            "negative regulation of gene expression",
+            "negative regulation of heterotypic cell-cell adhesion",
+            "negative regulation of protein kinase C signaling",
+            "negative regulation of protein phosphorylation",
+            "positive regulation of cell migration",
+            "positive regulation of substrate adhesion-dependent cell spreading",
+            "protein localization to plasma membrane raft"
+        ],
+        "Location": [
+            "membrane"
+        ],
+        "Disease": [],
+        "Disease_description": [],
+        "Complexes": []
+    },
+    "NMT2": {
+        "UniProtKB_ID": "NMT2_HUMAN",
+        "Description": "Glycylpeptide N-tetradecanoyltransferase 2",
+        "GO": [
+            "cytoplasm",
+            "cytosol",
+            "extrinsic component of membrane",
+            "Golgi apparatus",
+            "host cell",
+            "plasma membrane",
+            "glycylpeptide N-tetradecanoyltransferase activity",
+            "peptidyl-lysine N6-myristoyltransferase activity",
+            "intracellular transport of virus",
+            "N-terminal peptidyl-glycine N-myristoylation",
+            "regulation of rhodopsin mediated signaling pathway"
+        ],
+        "Location": [
+            "membrane",
+            "cytoplasm"
+        ],
+        "Disease": [],
+        "Disease_description": [],
+        "Complexes": []
+    },
+    "SLC4A2": {
+        "UniProtKB_ID": "B3A2_HUMAN",
+        "Description": "Anion exchange protein 2",
+        "GO": [
+            "apical plasma membrane",
+            "basolateral plasma membrane",
+            "focal adhesion",
+            "membrane",
+            "plasma membrane",
+            "anion transmembrane transporter activity",
+            "chloride",
+            "enzyme binding",
+            "solute",
+            "transmembrane transporter activity",
+            "amelogenesis",
+            "anion transport",
+            "bicarbonate transport",
+            "digestive tract development",
+            "ion homeostasis",
+            "negative regulation of CD8-positive, alpha-beta T cell differentiation",
+            "negative regulation of CD8-positive, alpha-beta T cell proliferation",
+            "osteoclast differentiation",
+            "positive regulation of enamel mineralization",
+            "regulation of actin cytoskeleton organization",
+            "regulation of bone resorption",
+            "regulation of intracellular pH",
+            "spermatogenesis",
+            "transmembrane transport"
+        ],
+        "Location": [
+            "apical cell membrane",
+            "basolateral cell membrane",
+            "membrane",
+            "cell membrane"
+        ],
+        "Disease": [],
+        "Disease_description": [],
+        "Complexes": []
+    },
+    "TOR1B": {
+        "UniProtKB_ID": "TOR1B_HUMAN",
+        "Description": "Torsin-1B",
+        "GO": [
+            "endoplasmic reticulum",
+            "endoplasmic reticulum lumen",
+            "extracellular exosome",
+            "nuclear envelope",
+            "nuclear membrane",
+            "ATP binding",
+            "ATP hydrolysis activity",
+            "identical protein binding",
+            "kinesin binding",
+            "chaperone cofactor-dependent protein refolding",
+            "endoplasmic reticulum organization",
+            "nuclear membrane organization",
+            "protein localization to nucleus",
+            "response to unfolded protein"
+        ],
+        "Location": [
+            "endoplasmic reticulum",
+            "membrane",
+            "nucleus membrane",
+            "nucleus",
+            "endoplasmic reticulum lumen"
+        ],
+        "Disease": [],
+        "Disease_description": [],
+        "Complexes": [
+            "Homohexamer. Interacts with TOR1A; the interaction may be specific of neural tissues. Interacts with TOR1AIP1; TOR1AIP1 is required for TOR1B location on the nuclear membrane. Interacts (ATP-bound) with TOR1AIP2; important for endoplasmic reticulum integrity"
+        ]
+    }
+}

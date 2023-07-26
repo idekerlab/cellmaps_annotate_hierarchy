@@ -1,0 +1,114 @@
+Your response should be formatted as Markdown paragraphs
+Write a critical and concise analysis of this human protein system, describing your reasoning as you go and providing references to scientific papers.
+
+A critical goal of the analysis is to determine if this is a novel complex or if any proteins are novel members of a known complex
+
+Format with Title, Summary, and References sections.        
+Avoid overly general statements of how the proteins are involved in various cellular processes        
+Avoid repeating the goals of the analysis.
+
+What cellular components and complexes are involved in this system?
+What mechanisms and biological processes are performed by this system?
+Propose a name for the system to reflect the cellular location and function, and should be specific but brief. Do not compose an acronym. Place it as the title of your report
+Human Proteins: IDH2, HIBCH, CIAPIN1, ACOT2, HSDL2, HNRNPLL, PUS1, ALDH6A1, PAPSS2, NUDT9, PPA2, ACADM, DPYSL4, ECHS1, IARS2, IDH3A, GPD2, ME2, PPCS, GPX1, TRMT10C, PNPT1, OXCT1, ICAM3, FH, ACADVL, ACO2, GRPEL1, DTYMK, ARMC1, SLC25A14, AKR7A2, AKR7A3, ARG2, BID, CPNE3, CPOX, DCXR, DDX28, DNAJC11, GAA, GALE, GCA, GCLM, HADH, LMO4, MAP4K2, MPST, NLN, PPIF, PPM1B, RAB14, RAB7A, SPRYD4, TAGLN, UCHL3, USP46.
+
+System features from GO terms: 
+mitochondrion: 37 proteins: IDH2, HIBCH, CIAPIN1, ACOT2, HSDL2, PUS1, ALDH6A1, NUDT9, PPA2, ACADM, ECHS1, IARS2, IDH3A, GPD2, ME2, GPX1, TRMT10C, PNPT1, OXCT1, FH, ACADVL, ACO2, GRPEL1, DTYMK, ARMC1, SLC25A14, AKR7A2, ARG2, BID, CPNE3, CPOX, DDX28, DNAJC11, HADH, MPST, PPIF, RAB7A
+protein binding: 35 proteins: CIAPIN1, ACOT2, HNRNPLL, PAPSS2, NUDT9, DPYSL4, ECHS1, IDH3A, TRMT10C, PNPT1, ICAM3, FH, ACADVL, GRPEL1, ARMC1, AKR7A2, AKR7A3, ARG2, BID, CPNE3, DCXR, DNAJC11, GCA, GCLM, LMO4, MAP4K2, MPST, PPIF, PPM1B, RAB14, RAB7A, SPRYD4, TAGLN, UCHL3, USP46
+cytosol: 28 proteins: IDH2, ACOT2, PAPSS2, DPYSL4, PPCS, GPX1, PNPT1, FH, ACO2, DTYMK, ARMC1, AKR7A2, AKR7A3, BID, CPNE3, CPOX, DCXR, DDX28, GALE, GCA, GCLM, MPST, NLN, PPM1B, RAB14, RAB7A, UCHL3, USP46
+mitochondrial matrix: 24 proteins: IDH2, HIBCH, ACOT2, PUS1, ALDH6A1, NUDT9, PPA2, ACADM, ECHS1, IARS2, IDH3A, ME2, GPX1, TRMT10C, PNPT1, OXCT1, FH, ACADVL, ACO2, GRPEL1, ARG2, HADH, MPST, PPIF
+cytoplasm: 19 proteins: CIAPIN1, PUS1, ACADM, PPCS, GPX1, PNPT1, FH, DTYMK, AKR7A2, AKR7A3, ARG2, CPNE3, CPOX, GCA, HADH, MAP4K2, PPIF, TAGLN, UCHL3
+nucleus: 15 proteins: HNRNPLL, PUS1, ACADM, IDH3A, PPCS, GPX1, TRMT10C, PNPT1, FH, DTYMK, CPNE3, DCXR, PPM1B, SPRYD4, USP46
+extracellular exosome: 13 proteins: IDH2, NUDT9, ICAM3, FH, AKR7A2, AKR7A3, CPNE3, DCXR, GAA, GCA, MPST, RAB14, RAB7A
+identical protein binding: 12 proteins: ACADM, PPCS, TRMT10C, PNPT1, OXCT1, ACADVL, GRPEL1, AKR7A3, DCXR, GALE, HADH, MPST
+nucleoplasm: 11 proteins: CIAPIN1, PUS1, ALDH6A1, TRMT10C, ACADVL, GRPEL1, CPNE3, DDX28, DNAJC11, HADH, UCHL3
+plasma membrane: 9 proteins: ICAM3, SLC25A14, CPNE3, DCXR, GAA, GCA, NLN, RAB14, RAB7A
+RNA binding: 7 proteins: HNRNPLL, PUS1, ALDH6A1, TRMT10C, PNPT1, CPNE3, DDX28
+membrane: 6 proteins: HSDL2, HNRNPLL, BID, GAA, PPIF, PPM1B
+ATP binding: 6 proteins: PAPSS2, IARS2, PPCS, DTYMK, DDX28, MAP4K2
+metal ion binding: 6 proteins: ME2, ARMC1, CPNE3, LMO4, NLN, USP46
+nucleolus: 5 proteins: CIAPIN1, ACADVL, CPNE3, DDX28, PPM1B
+protein homodimerization activity: 5 proteins: PPCS, GRPEL1, CPOX, GALE, GCA
+magnesium ion binding: 4 proteins: IDH2, PPA2, IDH3A, PPM1B
+tricarboxylic acid cycle: 4 proteins: IDH2, IDH3A, FH, ACO2
+electron transfer activity: 4 proteins: CIAPIN1, ME2, AKR7A2, AKR7A3
+electron transport chain: 4 proteins: CIAPIN1, ME2, AKR7A2, AKR7A3
+mitochondrial intermembrane space: 4 proteins: CIAPIN1, PNPT1, CPOX, NLN
+mitochondrial inner membrane: 4 proteins: GPD2, ACADVL, SLC25A14, CPOX
+response to xenobiotic stimulus: 4 proteins: GPX1, OXCT1, GCLM, HADH
+NAD binding: 3 proteins: IDH2, IDH3A, ME2
+carbohydrate metabolic process: 3 proteins: IDH2, IDH3A, AKR7A2
+isocitrate metabolic process: 3 proteins: IDH2, IDH3A, ACO2
+branched-chain amino acid catabolic process: 3 proteins: HIBCH, ALDH6A1, ECHS1
+synapse: 3 proteins: HNRNPLL, PPA2, MPST
+tRNA binding: 3 proteins: PUS1, IARS2, TRMT10C
+liver development: 3 proteins: ACADM, ACO2, MPST
+fatty acid beta-oxidation: 3 proteins: ACADM, ECHS1, HADH
+mitochondrial membrane: 3 proteins: ACADM, ACADVL, RAB7A
+intracellular membrane-bounded organelle: 3 proteins: ME2, GAA, RAB14
+mitochondrial nucleoid: 3 proteins: TRMT10C, ACADVL, DDX28
+response to activity: 3 proteins: OXCT1, GCLM, HADH
+Golgi apparatus: 3 proteins: AKR7A2, AKR7A3, RAB7A
+apoptotic mitochondrial changes: 3 proteins: BID, GCLM, PPIF
+lysosome: 3 proteins: GAA, RAB14, RAB7A
+lysosomal membrane: 3 proteins: GAA, RAB14, RAB7A
+NADP metabolic process: 2 proteins: IDH2, DCXR
+peroxisome: 2 proteins: IDH2, HSDL2
+valine catabolic process: 2 proteins: HIBCH, ALDH6A1
+iron ion binding: 2 proteins: CIAPIN1, ACO2
+4 iron, 4 sulfur cluster binding: 2 proteins: CIAPIN1, ACO2
+negative regulation of apoptotic process: 2 proteins: CIAPIN1, PPIF
+molecular_function: 2 proteins: HSDL2, SPRYD4
+biological_process: 2 proteins: HSDL2, SPRYD4
+mRNA processing: 2 proteins: HNRNPLL, PUS1
+fatty-acyl-CoA binding: 2 proteins: ALDH6A1, ACADVL
+phosphorylation: 2 proteins: PAPSS2, DTYMK
+cell junction: 2 proteins: NUDT9, CPNE3
+protein serine/threonine phosphatase activity: 2 proteins: PPA2, PPM1B
+ mitochondrial membrane potential: 2 proteins: PPA2, BID
+acyl-CoA dehydrogenase activity: 2 proteins: ACADM, ACADVL
+flavin adenine dinucleotide binding: 2 proteins: ACADM, ACADVL
+ gluconeogenesis: 2 proteins: ACADM, NLN
+response to cold: 2 proteins: ACADM, ACADVL
+fatty acid beta-oxidation using acyl-CoA dehydrogenase: 2 proteins: ACADM, ACADVL
+response to starvation: 2 proteins: ACADM, OXCT1
+calcium ion binding: 2 proteins: GPD2, GCA
+malate metabolic process: 2 proteins: ME2, FH
+temperature homeostasis: 2 proteins: GPX1, ACADVL
+response to hormone: 2 proteins: GPX1, OXCT1
+cellular response to oxidative stress: 2 proteins: GPX1, PNPT1
+neuron apoptotic process: 2 proteins: GPX1, BID
+cellular response to glucose stimulus: 2 proteins: GPX1, GCLM
+negative regulation of release of cytochrome c from mitochondria: 2 proteins: GPX1, PPIF
+mitochondrial RNA 5'-end processing: 2 proteins: TRMT10C, PNPT1
+ cellular senescence: 2 proteins: PNPT1, ARG2
+response to nutrient: 2 proteins: OXCT1, GCLM
+ cold-induced thermogenesis: 2 proteins: FH, HADH
+epithelial cell differentiation: 2 proteins: ACADVL, TAGLN
+protein folding: 2 proteins: GRPEL1, PPIF
+intracellular protein transport: 2 proteins: GRPEL1, RAB14
+cellular response to growth factor stimulus: 2 proteins: DTYMK, CPNE3
+mitochondrial outer membrane: 2 proteins: ARMC1, BID
+aldo-keto reductase (NADP) activity: 2 proteins: AKR7A2, AKR7A3
+cellular aldehyde metabolic process: 2 proteins: AKR7A2, AKR7A3
+manganese ion binding: 2 proteins: ARG2, PPM1B
+innate immune response: 2 proteins: ARG2, MAP4K2
+ release of cytochrome c from mitochondria: 2 proteins: BID, PPIF
+protein serine/threonine kinase activity: 2 proteins: CPNE3, MAP4K2
+ cell migration: 2 proteins: CPNE3, LMO4
+cellular response to calcium ion: 2 proteins: CPNE3, PPIF
+azurophil granule membrane: 2 proteins: CPNE3, GAA
+glucose metabolic process: 2 proteins: DCXR, GAA
+tertiary granule membrane: 2 proteins: GAA, RAB14
+extracellular region: 2 proteins: GCA, NLN
+Golgi membrane: 2 proteins: MAP4K2, RAB14
+GTPase activity: 2 proteins: RAB14, RAB7A
+GTP binding: 2 proteins: RAB14, RAB7A
+GDP binding: 2 proteins: RAB14, RAB7A
+intracellular transport: 2 proteins: RAB14, RAB7A
+phagosome maturation: 2 proteins: RAB14, RAB7A
+late endosome: 2 proteins: RAB14, RAB7A
+phagocytic vesicle: 2 proteins: RAB14, RAB7A
+cysteine-type deubiquitinase activity: 2 proteins: UCHL3, USP46
+ubiquitin-dependent protein catabolic process: 2 proteins: UCHL3, USP46
+protein deubiquitination: 2 proteins: UCHL3, USP46

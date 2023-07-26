@@ -1,0 +1,35 @@
+Feature	Number of Genes	Genes
+protein binding	4	EEF1D, EEF1A2, ABTB1, VARS1
+translation elongation factor activity	3	EEF1D, EEF1A2, ABTB1
+translational elongation	3	EEF1D, EEF1A2, ABTB1
+cytoplasm	3	EEF1D, EEF1A2, ABTB1
+cytosol	3	EEF1D, ABTB1, VARS1
+translation factor activity, RNA binding	2	EEF1D, EEF1A2
+nucleus	2	EEF1D, EEF1A2
+eukaryotic translation elongation factor 1 complex	2	EEF1D, EEF1A2
+DNA binding	1	EEF1D
+guanyl-nucleotide exchange factor activity	1	EEF1D
+cadherin binding	1	EEF1D
+positive regulation of I-kappaB kinase/NF-kappaB signaling	1	EEF1D
+cellular response to ionizing radiation	1	EEF1D
+fibrillar center	1	EEF1D
+nucleoplasm	1	EEF1D
+endoplasmic reticulum	1	EEF1D
+GTPase activity	1	EEF1A2
+GTP binding	1	EEF1A2
+protein kinase binding	1	EEF1A2
+translation	1	EEF1A2
+positive regulation of apoptotic process	1	EEF1A2
+positive regulation of lipid kinase activity	1	EEF1A2
+regulation of chaperone-mediated autophagy	1	EEF1A2
+synapse	1	EEF1A2
+cytoplasmic side of lysosomal membrane	1	EEF1A2
+ubiquitin ligase complex	1	ABTB1
+nucleolus	1	ABTB1
+plasma membrane	1	ABTB1
+aminoacyl-tRNA editing activity	1	VARS1
+valine-tRNA ligase activity	1	VARS1
+ATP binding	1	VARS1
+tRNA aminoacylation for protein translation	1	VARS1
+valyl-tRNA aminoacylation	1	VARS1
+aminoacyl-tRNA metabolism involved in translational fidelity	1	VARS1

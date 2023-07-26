@@ -1,0 +1,33 @@
+Feature	Number of Genes	Genes
+mitochondrion	5	MRPL15, MRPL39, MRPL52, MTHFD2, RHOT2
+protein binding	3	MRPL15, MTHFD2, RHOT2
+mitochondrial translation	3	MRPL15, MRPL39, MRPL52
+mitochondrial inner membrane	3	MRPL15, MRPL39, MRPL52
+mitochondrial large ribosomal subunit	3	MRPL15, MRPL39, MRPL52
+RNA binding	2	MRPL15, MRPL39
+structural constituent of ribosome	2	MRPL15, MRPL52
+cellular response to leukemia inhibitory factor	1	MRPL15
+nucleotide binding	1	MRPL39
+mitochondrial ribosome	1	MRPL39
+translation	1	MRPL52
+nucleoplasm	1	MRPL52
+magnesium ion binding	1	MTHFD2
+methenyltetrahydrofolate cyclohydrolase activity	1	MTHFD2
+methylenetetrahydrofolate dehydrogenase (NAD+) activity	1	MTHFD2
+methylenetetrahydrofolate dehydrogenase (NADP+) activity	1	MTHFD2
+phosphate ion binding	1	MTHFD2
+tetrahydrofolate interconversion	1	MTHFD2
+tetrahydrofolate metabolic process	1	MTHFD2
+folic acid metabolic process	1	MTHFD2
+extracellular space	1	MTHFD2
+mitochondrial matrix	1	MTHFD2
+GTPase activity	1	RHOT2
+calcium ion binding	1	RHOT2
+GTP binding	1	RHOT2
+mitochondrion organization	1	RHOT2
+small GTPase mediated signal transduction	1	RHOT2
+cellular homeostasis	1	RHOT2
+mitochondrion transport along microtubule	1	RHOT2
+mitochondrial outer membrane permeabilization	1	RHOT2
+mitochondrial outer membrane	1	RHOT2
+membrane	1	RHOT2

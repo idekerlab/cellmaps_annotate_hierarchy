@@ -1,0 +1,46 @@
+Your response should be formatted as Markdown paragraphs
+Write a critical and concise analysis of this human protein system, describing your reasoning as you go and providing references to scientific papers.
+
+A critical goal of the analysis is to determine if this is a novel complex or if any proteins are novel members of a known complex
+
+Format with Title, Summary, and References sections.        
+Avoid overly general statements of how the proteins are involved in various cellular processes        
+Avoid repeating the goals of the analysis.
+
+What cellular components and complexes are involved in this system?
+What mechanisms and biological processes are performed by this system?
+Propose a name for the system to reflect the cellular location and function, and should be specific but brief. Do not compose an acronym. Place it as the title of your report
+Human Proteins: TRAPPC4, TLN1, NME2, NME1, KANK4, C9orf40, NME3, NUBP1, TRAPPC14, TRAPPC3, TRAPPC6B.
+
+System features from GO terms: 
+protein binding: 10 proteins: TRAPPC4, TLN1, NME2, NME1, KANK4, NME3, NUBP1, TRAPPC14, TRAPPC3, TRAPPC6B
+cytosol: 9 proteins: TRAPPC4, TLN1, NME2, NME1, KANK4, NME3, NUBP1, TRAPPC3, TRAPPC6B
+cytoplasm: 6 proteins: TRAPPC4, NME2, NME1, KANK4, TRAPPC3, TRAPPC6B
+TRAPPII protein complex: 4 proteins: TRAPPC4, TRAPPC14, TRAPPC3, TRAPPC6B
+ATP binding: 4 proteins: NME2, NME1, NME3, NUBP1
+endoplasmic reticulum to Golgi vesicle-mediated transport: 3 proteins: TRAPPC4, TRAPPC3, TRAPPC6B
+vesicle coating: 3 proteins: TRAPPC4, TRAPPC3, TRAPPC6B
+vesicle tethering: 3 proteins: TRAPPC4, TRAPPC3, TRAPPC6B
+endoplasmic reticulum: 3 proteins: TRAPPC4, TRAPPC3, TRAPPC6B
+TRAPP complex: 3 proteins: TRAPPC4, TRAPPC3, TRAPPC6B
+plasma membrane: 3 proteins: TLN1, NUBP1, TRAPPC14
+extracellular exosome: 3 proteins: TLN1, NME2, NME1
+nucleoside diphosphate kinase activity: 3 proteins: NME2, NME1, NME3
+metal ion binding: 3 proteins: NME2, NME3, NUBP1
+GTP biosynthetic process: 3 proteins: NME2, NME1, NME3
+UTP biosynthetic process: 3 proteins: NME2, NME1, NME3
+CTP biosynthetic process: 3 proteins: NME2, NME1, NME3
+nucleus: 3 proteins: NME2, NME1, NUBP1
+COPII vesicle coating: 2 proteins: TRAPPC4, TRAPPC3
+Golgi membrane: 2 proteins: TRAPPC4, TRAPPC3
+TRAPPIII protein complex: 2 proteins: TRAPPC4, TRAPPC3
+integrin-mediated signaling pathway: 2 proteins: TLN1, NME2
+ruffle: 2 proteins: TLN1, NME2
+extracellular region: 2 proteins: TLN1, NME2
+cytoskeleton: 2 proteins: TLN1, KANK4
+focal adhesion: 2 proteins: TLN1, NME2
+ruffle membrane: 2 proteins: TLN1, NME1
+ apoptotic process: 2 proteins: NME2, NME1
+ epithelial cell proliferation: 2 proteins: NME2, NME1
+nervous system development: 2 proteins: NME1, TRAPPC6B
+phosphorylation: 2 proteins: NME1, NME3

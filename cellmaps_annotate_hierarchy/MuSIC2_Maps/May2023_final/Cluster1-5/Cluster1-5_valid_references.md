@@ -1,0 +1,4 @@
+### Validated References: 
+[1] Paredes, Gabriela F, Viehboeck, Tobias, Markert, Stephanie, Mausz, Michaela A, Sato, Yui, Liebeke, Manuel, König, Lena, Bulgheresi, Silvia. "Differential regulation of degradation and immune pathways underlies adaptation of the ectosymbiotic nematode Laxus oneistus to oxic-anoxic interfaces." Scientific reports, 2022, pp. 9725.
+[2] Jain, Naintara, Gomkale, Ridhima, Bernhard, Olaf, Rehling, Peter, Cruz-Zaragoza, Luis Daniel. "A quantitative fluorescence-based approach to study mitochondrial protein import." EMBO reports, 2023, pp. e55760.
+[3] Ke, Nijia, Kumka, Joseph E, Fang, Mingxu, Weaver, Brian, Burstyn, Judith N, Bauer, Carl E. "Redox Brake Regulator RedB and FnrL Function as Yin-Yang Regulators of Anaerobic-Aerobic Metabolism in Rhodobacter capsulatus." Microbiology spectrum, 2022, pp. e0235422.

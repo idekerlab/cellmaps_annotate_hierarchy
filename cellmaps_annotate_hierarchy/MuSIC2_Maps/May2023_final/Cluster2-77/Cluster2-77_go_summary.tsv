@@ -1,0 +1,94 @@
+Feature	Number of Genes	Genes
+protein binding	4	STAT2, DPP9, IRF9, STAT1
+nucleus	4	STAT2, DPP9, IRF9, STAT1
+cytosol	4	STAT2, DPP9, IRF9, STAT1
+RNA polymerase II cis-regulatory region sequence-specific DNA binding	3	STAT2, IRF9, STAT1
+DNA-binding transcription factor activity, RNA polymerase II-specific	3	STAT2, IRF9, STAT1
+DNA-binding transcription factor activity	3	STAT2, IRF9, STAT1
+identical protein binding	3	STAT2, DPP9, STAT1
+ transcription by RNA polymerase II	3	STAT2, IRF9, STAT1
+defense response to virus	3	STAT2, IRF9, STAT1
+chromatin	3	STAT2, IRF9, STAT1
+nucleoplasm	3	STAT2, IRF9, STAT1
+ISGF3 complex	3	STAT2, IRF9, STAT1
+ubiquitin-like protein ligase binding	2	STAT2, STAT1
+defense response	2	STAT2, STAT1
+receptor signaling pathway via JAK-STAT	2	STAT2, STAT1
+ cell population proliferation	2	STAT2, STAT1
+response to peptide hormone	2	STAT2, STAT1
+type I interferon-mediated signaling pathway	2	STAT2, STAT1
+RNA polymerase II transcription regulator complex	2	STAT2, STAT1
+cytoplasm	2	IRF9, STAT1
+ protein phosphorylation	1	STAT2
+negative regulation of type I interferon-mediated signaling pathway	1	STAT2
+ mitochondrial fission	1	STAT2
+plasma membrane	1	STAT2
+aminopeptidase activity	1	DPP9
+serine-type peptidase activity	1	DPP9
+dipeptidyl-peptidase activity	1	DPP9
+proteolysis	1	DPP9
+negative regulation of programmed cell death	1	DPP9
+pyroptosis	1	DPP9
+microtubule	1	DPP9
+cell leading edge	1	DPP9
+sequence-specific double-stranded DNA binding	1	IRF9
+immune system process	1	IRF9
+transcription by RNA polymerase II	1	IRF9
+cell surface receptor signaling pathway	1	IRF9
+RNA polymerase II transcription regulatory region sequence-specific DNA binding	1	STAT1
+RNA polymerase II core promoter sequence-specific DNA binding	1	STAT1
+transcription corepressor binding	1	STAT1
+transcription coactivator binding	1	STAT1
+double-stranded DNA binding	1	STAT1
+tumor necrosis factor receptor binding	1	STAT1
+nuclear receptor binding	1	STAT1
+enzyme binding	1	STAT1
+CCR5 chemokine receptor binding	1	STAT1
+histone acetyltransferase binding	1	STAT1
+histone binding	1	STAT1
+protein homodimerization activity	1	STAT1
+cadherin binding	1	STAT1
+protein phosphatase 2A binding	1	STAT1
+promoter-specific chromatin binding	1	STAT1
+negative regulation of transcription by RNA polymerase II	1	STAT1
+negative regulation of endothelial cell proliferation	1	STAT1
+ mesenchymal cell proliferation	1	STAT1
+ defense response to virus by host	1	STAT1
+negative regulation of mesenchymal to epithelial transition involved in metanephros morphogenesis	1	STAT1
+response to nutrient	1	STAT1
+blood circulation	1	STAT1
+response to xenobiotic stimulus	1	STAT1
+response to mechanical stimulus	1	STAT1
+macrophage derived foam cell differentiation	1	STAT1
+negative regulation of angiogenesis	1	STAT1
+ interferon-alpha production	1	STAT1
+cellular response to insulin stimulus	1	STAT1
+tumor necrosis factor-mediated signaling pathway	1	STAT1
+response to cytokine	1	STAT1
+response to type II interferon	1	STAT1
+response to interferon-beta	1	STAT1
+cellular response to interferon-beta	1	STAT1
+interleukin-9-mediated signaling pathway	1	STAT1
+response to hydrogen peroxide	1	STAT1
+ apoptotic process	1	STAT1
+negative regulation of I-kappaB kinase/NF-kappaB signaling	1	STAT1
+endothelial cell migration	1	STAT1
+ erythrocyte differentiation	1	STAT1
+ DNA-templated transcription	1	STAT1
+negative regulation by virus of viral protein levels in host cell	1	STAT1
+ smooth muscle cell proliferation	1	STAT1
+response to cAMP	1	STAT1
+ nitric-oxide synthase biosynthetic process	1	STAT1
+type II interferon-mediated signaling pathway	1	STAT1
+renal tubule development	1	STAT1
+interleukin-27-mediated signaling pathway	1	STAT1
+cellular response to type II interferon	1	STAT1
+cellular response to organic cyclic compound	1	STAT1
+metanephric mesenchymal cell proliferation involved in metanephros development	1	STAT1
+metanephric mesenchymal cell differentiation	1	STAT1
+negative regulation of metanephric nephron tubule epithelial cell differentiation	1	STAT1
+nucleolus	1	STAT1
+axon	1	STAT1
+dendrite	1	STAT1
+protein-containing complex	1	STAT1
+perinuclear region of cytoplasm	1	STAT1

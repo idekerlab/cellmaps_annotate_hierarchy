@@ -1,0 +1,218 @@
+Your response should be formatted as Markdown paragraphs
+Write a critical and concise analysis of this human protein system, describing your reasoning as you go and providing references to scientific papers.
+
+A critical goal of the analysis is to determine if this is a novel complex or if any proteins are novel members of a known complex
+
+Format with Title, Summary, and References sections.        
+Avoid overly general statements of how the proteins are involved in various cellular processes        
+Avoid repeating the goals of the analysis.
+
+What cellular components and complexes are involved in this system?
+What mechanisms and biological processes are performed by this system?
+Propose a name for the system to reflect the cellular location and function, and should be specific but brief. Do not compose an acronym. Place it as the title of your report
+Human Proteins: SHMT1, TRAPPC4, CKS2, CKS1B, CIAO3, CCNB1, SKP1, EEF1E1, CCNB2, PPP6R3, ANAPC1, RRM2B, TLN1, NME2, NME1, RNH1, ANAPC7, TARS3, BUB1, PPP6R1, KANK4, C9orf40, NME3, NUBP1, TRAPPC14, TRAPPC3, TRAPPC6B, FBXO5, BORA, CCNA2, CDC26, PHF8, FZR1, CUEDC2, CDC27, ANAPC10, C1orf226, CDKN1C, PHF23, CDKN1A, ANAPC5, CDK2, CCND1, CCNA1, L3MBTL1, CCNE1, MAD2L1BP, RTKN2, CDK1, NUBP2, RRM2, CDC20, CDKN3, CTSA, ADSL, CDK3, EPRS1, PPP6R2, USP10, QARS1, BUB1B, SDCBP, LARS1, MARS1.
+
+System features from GO terms: 
+protein binding: 55 proteins: SHMT1, TRAPPC4, CKS2, CKS1B, CIAO3, CCNB1, SKP1, EEF1E1, CCNB2, PPP6R3, RRM2B, TLN1, NME2, NME1, RNH1, TARS3, BUB1, PPP6R1, KANK4, NME3, NUBP1, TRAPPC14, TRAPPC3, TRAPPC6B, FBXO5, BORA, CCNA2, CDC26, PHF8, FZR1, CUEDC2, CDC27, ANAPC10, CDKN1C, PHF23, CDKN1A, CDK2, CCND1, CCNA1, L3MBTL1, CCNE1, MAD2L1BP, CDK1, NUBP2, RRM2, CDC20, CDKN3, CDK3, EPRS1, PPP6R2, USP10, QARS1, BUB1B, SDCBP, LARS1
+cytosol: 49 proteins: SHMT1, TRAPPC4, CCNB1, SKP1, EEF1E1, CCNB2, PPP6R3, ANAPC1, RRM2B, TLN1, NME2, NME1, RNH1, ANAPC7, BUB1, PPP6R1, KANK4, NME3, NUBP1, TRAPPC3, TRAPPC6B, FBXO5, BORA, CCNA2, CDC26, FZR1, CUEDC2, CDC27, ANAPC10, CDKN1A, ANAPC5, CDK2, CCND1, CCNA1, CCNE1, CDK1, NUBP2, RRM2, CDC20, CDKN3, ADSL, EPRS1, PPP6R2, USP10, QARS1, BUB1B, SDCBP, LARS1, MARS1
+nucleus: 37 proteins: SHMT1, CCNB1, SKP1, EEF1E1, CCNB2, PPP6R3, NME2, NME1, ANAPC7, TARS3, PPP6R1, NUBP1, FBXO5, BORA, CCNA2, PHF8, FZR1, CDC27, CDKN1C, PHF23, CDKN1A, ANAPC5, CDK2, CCND1, CCNA1, L3MBTL1, CCNE1, MAD2L1BP, RTKN2, CDK1, NUBP2, RRM2, CDKN3, CDK3, PPP6R2, USP10, SDCBP
+cytoplasm: 33 proteins: SHMT1, TRAPPC4, CCNB1, SKP1, EEF1E1, CCNB2, NME2, NME1, TARS3, KANK4, TRAPPC3, TRAPPC6B, FBXO5, BORA, CCNA2, CDC27, CDKN1C, PHF23, CDK2, CCND1, CCNA1, CCNE1, MAD2L1BP, RTKN2, CDK1, CDK3, EPRS1, USP10, QARS1, BUB1B, SDCBP, LARS1, MARS1
+nucleoplasm: 32 proteins: SHMT1, CKS1B, CCNB1, SKP1, EEF1E1, PPP6R3, ANAPC1, RRM2B, RNH1, ANAPC7, BUB1, FBXO5, CCNA2, CDC26, PHF8, FZR1, CUEDC2, CDC27, ANAPC10, PHF23, CDKN1A, ANAPC5, CDK2, CCND1, CCNA1, L3MBTL1, CCNE1, MAD2L1BP, CDK1, CDC20, USP10, SDCBP
+cell division: 23 proteins: CKS2, CKS1B, CCNB1, CCNB2, ANAPC1, ANAPC7, BUB1, FBXO5, BORA, CCNA2, CDC26, FZR1, CDC27, ANAPC10, ANAPC5, CDK2, CCND1, CCNA1, CCNE1, CDK1, CDC20, CDK3, BUB1B
+ATP binding: 15 proteins: NME2, NME1, TARS3, BUB1, NME3, NUBP1, CDK2, CDK1, NUBP2, CDK3, EPRS1, QARS1, BUB1B, LARS1, MARS1
+ mitotic cell cycle: 13 proteins: CKS2, CKS1B, CCNB1, ANAPC1, ANAPC7, FBXO5, CDC26, FZR1, CDC27, ANAPC10, ANAPC5, CDC20, SDCBP
+protein kinase binding: 10 proteins: CKS2, CKS1B, CCNB1, FBXO5, BORA, CCNA2, CDKN1A, CCND1, CCNE1, QARS1
+extracellular exosome: 9 proteins: SHMT1, TLN1, NME2, NME1, RNH1, CDK1, CTSA, SDCBP, MARS1
+cyclin-dependent protein kinase holoenzyme complex: 9 proteins: CKS2, CKS1B, CCNB2, CCNA2, CDKN1A, CDK2, CCND1, CDK1, CDK3
+metal ion binding: 9 proteins: CIAO3, RRM2B, NME2, NME3, NUBP1, FBXO5, PHF23, CDKN1A, NUBP2
+membrane: 9 proteins: CCNB1, CCNB2, NME1, BUB1, CDK1, CTSA, EPRS1, SDCBP, MARS1
+anaphase-promoting complex: 9 proteins: ANAPC1, ANAPC7, CDC26, FZR1, CDC27, ANAPC10, ANAPC5, CDC20, BUB1B
+identical protein binding: 8 proteins: SHMT1, RRM2B, NME1, TARS3, L3MBTL1, ADSL, EPRS1, SDCBP
+ cyclin-dependent protein serine/threonine kinase activity: 8 proteins: CCNB1, CCNB2, CCNA2, CDKN1A, CCND1, CCNA1, CCNE1, CDKN3
+ G2/M transition of mitotic cell cycle: 8 proteins: CCNB1, RRM2B, FBXO5, CDKN1A, CDK2, CCND1, CDK1, CDK3
+centrosome: 8 proteins: CCNB1, SKP1, CCNB2, CDC27, CDK2, CCNE1, CDK1, CDC20
+plasma membrane: 8 proteins: PPP6R3, TLN1, RNH1, NUBP1, TRAPPC14, RTKN2, EPRS1, SDCBP
+anaphase-promoting complex-dependent catabolic process: 8 proteins: ANAPC1, ANAPC7, CDC26, FZR1, CDC27, ANAPC10, ANAPC5, CDC20
+ meiotic cell cycle: 8 proteins: ANAPC1, ANAPC7, CDC26, FZR1, CDC27, ANAPC10, ANAPC5, CDC20
+mitotic cell cycle phase transition: 7 proteins: CKS2, CKS1B, CCNB1, CCNB2, CCNA2, CCND1, CCNA1
+protein phosphorylation: 7 proteins: CCNB1, BUB1, CDK2, CCND1, CCNE1, CDK1, CDK3
+protein K11-linked ubiquitination: 7 proteins: ANAPC1, ANAPC7, CDC26, FZR1, CDC27, ANAPC10, ANAPC5
+spindle: 7 proteins: ANAPC7, FBXO5, CDC27, ANAPC5, MAD2L1BP, CDC20, BUB1B
+ cell population proliferation: 7 proteins: TRAPPC14, FBXO5, FZR1, CDK2, RTKN2, CDC20, SDCBP
+G1/S transition of mitotic cell cycle: 7 proteins: PHF8, CDKN1A, CDK2, CCND1, CCNE1, CDKN3, CDK3
+ DNA-templated transcription: 6 proteins: CKS1B, NME2, CCNA2, PHF8, CDKN1C, CDK2
+cyclin-dependent protein serine/threonine kinase regulator activity: 6 proteins: CCNB1, CCNB2, CCNA2, CCND1, CCNA1, CCNE1
+nucleolus: 6 proteins: EEF1E1, PHF8, CDKN1A, L3MBTL1, MAD2L1BP, MARS1
+protein phosphatase binding: 6 proteins: PPP6R3, ANAPC7, PPP6R1, CDC27, ANAPC5, PPP6R2
+cell cycle: 6 proteins: ANAPC7, BORA, CDC26, ANAPC10, CDKN1C, ANAPC5
+nuclear membrane: 6 proteins: PHF8, FZR1, CUEDC2, CCND1, MAD2L1BP, SDCBP
+endoplasmic reticulum: 5 proteins: TRAPPC4, TRAPPC3, TRAPPC6B, CTSA, LARS1
+aminoacyl-tRNA synthetase multienzyme complex: 5 proteins: EEF1E1, EPRS1, QARS1, LARS1, MARS1
+protein serine kinase activity: 5 proteins: BUB1, CDK2, CDK1, CDK3, BUB1B
+DNA damage response: 5 proteins: FBXO5, CDKN1A, CCND1, CDK3, USP10
+negative regulation of transcription by RNA polymerase II: 5 proteins: CDKN1C, CDK2, CCND1, CCNE1, SDCBP
+zinc ion binding: 4 proteins: SHMT1, PHF8, L3MBTL1, EPRS1
+TRAPPII protein complex: 4 proteins: TRAPPC4, TRAPPC14, TRAPPC3, TRAPPC6B
+chromatin binding: 4 proteins: CKS2, PHF8, L3MBTL1, CDK1
+cyclin-dependent protein serine/threonine kinase activator activity: 4 proteins: CKS2, CKS1B, CCNB1, CCND1
+ transcription by RNA polymerase II: 4 proteins: CKS2, NME2, PHF8, CDK1
+ gene expression: 4 proteins: CIAO3, CDK2, CDK1, CDK3
+G2/M transition of mitotic cell cycle: 4 proteins: CCNB1, CCNA2, CDK2, CDK1
+chromatin remodeling: 4 proteins: SKP1, PHF8, CDK2, CDK1
+protein ubiquitination: 4 proteins: SKP1, ANAPC7, FBXO5, CDC20
+negative regulation of cell population proliferation: 4 proteins: EEF1E1, NME1, CDKN1A, CDKN3
+microtubule cytoskeleton: 4 proteins: CCNB2, ANAPC7, KANK4, CCNA1
+DNA repair: 4 proteins: RRM2B, FZR1, CDK2, CDK1
+extracellular region: 4 proteins: TLN1, NME2, CTSA, SDCBP
+perinuclear region of cytoplasm: 4 proteins: NME2, CDC20, CDKN3, BUB1B
+ mitotic metaphase/anaphase transition: 4 proteins: ANAPC7, CDC26, ANAPC5, CDC20
+protein kinase activity: 4 proteins: BUB1, CCND1, CDK1, BUB1B
+protein serine/threonine kinase activity: 4 proteins: BUB1, CDK2, CDK1, BUB1B
+apoptotic process: 4 proteins: BUB1, NME3, CDK1, BUB1B
+intracellular membrane-bounded organelle: 4 proteins: BUB1, TRAPPC14, CTSA, PPP6R2
+molecular function inhibitor activity: 4 proteins: FBXO5, CDKN1C, CDKN1A, USP10
+Ras protein signal transduction: 4 proteins: CCNA2, CDKN1A, CDK2, SDCBP
+protein-containing complex binding: 4 proteins: CDKN1C, CDKN1A, CCND1, SDCBP
+cyclin binding: 4 proteins: CDKN1A, CDK2, CDK1, CDK3
+protein-containing complex: 4 proteins: CDKN1A, ADSL, USP10, QARS1
+tRNA aminoacylation for protein translation: 4 proteins: EPRS1, QARS1, LARS1, MARS1
+protein homodimerization activity: 3 proteins: SHMT1, RRM2, EPRS1
+endoplasmic reticulum to Golgi vesicle-mediated transport: 3 proteins: TRAPPC4, TRAPPC3, TRAPPC6B
+vesicle coating: 3 proteins: TRAPPC4, TRAPPC3, TRAPPC6B
+autophagy: 3 proteins: TRAPPC4, PHF23, USP10
+vesicle tethering: 3 proteins: TRAPPC4, TRAPPC3, TRAPPC6B
+TRAPP complex: 3 proteins: TRAPPC4, TRAPPC3, TRAPPC6B
+histone binding: 3 proteins: CKS2, CKS1B, L3MBTL1
+ubiquitin binding: 3 proteins: CKS2, CKS1B, CUEDC2
+fibroblast proliferation: 3 proteins: CKS2, CKS1B, CDK1
+SCF ubiquitin ligase complex: 3 proteins: CKS2, CKS1B, SKP1
+4 iron, 4 sulfur cluster binding: 3 proteins: CIAO3, NUBP1, NUBP2
+iron-sulfur cluster assembly: 3 proteins: CIAO3, NUBP1, NUBP2
+ fibroblast proliferation: 3 proteins: CCNB1, CCNA2, CDKN1A
+mitochondrial matrix: 3 proteins: CCNB1, CDK1, QARS1
+protein domain specific binding: 3 proteins: SKP1, CCNA2, CDK2
+ ubiquitin protein ligase activity: 3 proteins: SKP1, FZR1, CDC20
+ apoptotic process: 3 proteins: EEF1E1, NME2, NME1
+protein phosphatase regulator activity: 3 proteins: PPP6R3, PPP6R1, PPP6R2
+ phosphoprotein phosphatase activity: 3 proteins: PPP6R3, PPP6R1, PPP6R2
+metaphase/anaphase transition of mitotic cell cycle: 3 proteins: ANAPC1, CDC27, BUB1B
+mitochondrion: 3 proteins: RRM2B, CDK1, SDCBP
+cytoskeleton: 3 proteins: TLN1, KANK4, SDCBP
+focal adhesion: 3 proteins: TLN1, NME2, SDCBP
+nucleoside diphosphate kinase activity: 3 proteins: NME2, NME1, NME3
+GTP biosynthetic process: 3 proteins: NME2, NME1, NME3
+UTP biosynthetic process: 3 proteins: NME2, NME1, NME3
+CTP biosynthetic process: 3 proteins: NME2, NME1, NME3
+nervous system development: 3 proteins: NME1, TRAPPC6B, CDC20
+phosphorylation: 3 proteins: NME1, NME3, BUB1B
+brain development: 3 proteins: ANAPC7, PHF8, QARS1
+mitotic spindle assembly checkpoint signaling: 3 proteins: BUB1, CDC20, BUB1B
+mitotic spindle: 3 proteins: TRAPPC14, CDC27, CDK1
+anaphase-promoting complex binding: 3 proteins: FBXO5, FZR1, CDC20
+ DNA replication: 3 proteins: FBXO5, CCNA2, CDK1
+ mitotic nuclear division: 3 proteins: FBXO5, BORA, L3MBTL1
+negative regulation of ubiquitin-protein transferase activity: 3 proteins: FBXO5, CDC20, BUB1B
+DNA-templated transcription: 3 proteins: CCNA2, PHF8, CDK2
+cyclin A2-CDK2 complex: 3 proteins: CCNA2, CDK2, CCNA1
+mitotic G2 DNA damage checkpoint signaling: 3 proteins: FZR1, CDKN1A, CDK1
+ anaphase-promoting complex-dependent catabolic process: 3 proteins: FZR1, CDK2, CDC20
+protein kinase inhibitor activity: 3 proteins: CDKN1C, CDKN1A, QARS1
+negative regulation of DNA-templated transcription: 3 proteins: CDKN1C, L3MBTL1, QARS1
+ cell cycle: 3 proteins: CDKN1A, L3MBTL1, CDKN3
+cyclin-dependent protein serine/threonine kinase activity: 3 proteins: CDK2, CDK1, CDK3
+DNA replication: 3 proteins: CDK2, CDK1, RRM2
+signal transduction: 3 proteins: CDK2, RTKN2, CDK3
+negative regulation of translation: 2 proteins: SHMT1, EPRS1
+cellular response to leukemia inhibitory factor: 2 proteins: SHMT1, EEF1E1
+COPII vesicle coating: 2 proteins: TRAPPC4, TRAPPC3
+Golgi membrane: 2 proteins: TRAPPC4, TRAPPC3
+TRAPPIII protein complex: 2 proteins: TRAPPC4, TRAPPC3
+response to hypoxia: 2 proteins: CIAO3, ADSL
+molecular adaptor activity: 2 proteins: CCNB1, ANAPC1
+in utero embryonic development: 2 proteins: CCNB1, CCNB2
+ mitochondrial ATP synthesis coupled electron transport: 2 proteins: CCNB1, CDK1
+spindle pole: 2 proteins: CCNB1, CDC20
+outer kinetochore: 2 proteins: CCNB1, BUB1B
+cyclin B1-CDK1 complex: 2 proteins: CCNB1, CDK1
+molecular function activator activity: 2 proteins: SKP1, CDKN1A
+ubiquitin ligase-substrate adaptor activity: 2 proteins: SKP1, FZR1
+cadherin binding: 2 proteins: CCNB2, TLN1
+spindle assembly involved in female meiosis I: 2 proteins: CCNB2, FBXO5
+ribonucleoside-diphosphate reductase activity, thioredoxin disulfide as acceptor: 2 proteins: RRM2B, RRM2
+kidney development: 2 proteins: RRM2B, CDKN1C
+ribonucleoside diphosphate metabolic process: 2 proteins: RRM2B, RRM2
+deoxyribonucleotide biosynthetic process: 2 proteins: RRM2B, RRM2
+2'-deoxyribonucleotide biosynthetic process: 2 proteins: RRM2B, RRM2
+response to amine: 2 proteins: RRM2B, CDK1
+ribonucleoside-diphosphate reductase complex: 2 proteins: RRM2B, RRM2
+integrin-mediated signaling pathway: 2 proteins: TLN1, NME2
+ruffle: 2 proteins: TLN1, NME2
+adherens junction: 2 proteins: TLN1, SDCBP
+ruffle membrane: 2 proteins: TLN1, NME1
+negative regulation of apoptotic process: 2 proteins: NME2, CDK1
+ epithelial cell proliferation: 2 proteins: NME2, NME1
+lamellipodium: 2 proteins: NME2, RNH1
+magnesium ion binding: 2 proteins: NME1, CDK2
+RNA binding: 2 proteins: NME1, USP10
+lactation: 2 proteins: NME1, CCND1
+cell differentiation: 2 proteins: NME1, CDC20
+cell migration: 2 proteins: RNH1, CDK1
+cell population proliferation: 2 proteins: BUB1, CDK3
+meiotic sister chromatid cohesion, centromeric: 2 proteins: BUB1, BUB1B
+kinetochore: 2 proteins: BUB1, BUB1B
+nucleotide binding: 2 proteins: NUBP1, NUBP2
+iron-sulfur cluster binding: 2 proteins: NUBP1, NUBP2
+ATP-dependent FeS chaperone activity: 2 proteins: NUBP1, NUBP2
+ cell growth: 2 proteins: NUBP1, SDCBP
+cell projection organization: 2 proteins: NUBP1, NUBP2
+centriole: 2 proteins: NUBP1, NUBP2
+cilium: 2 proteins: NUBP1, NUBP2
+midbody: 2 proteins: TRAPPC14, CDK1
+ GTPase activity: 2 proteins: TRAPPC6B, LARS1
+negative regulation of cellular senescence: 2 proteins: FBXO5, FZR1
+meiotic spindle: 2 proteins: FBXO5, BORA
+ protein localization: 2 proteins: BORA, CCNE1
+animal organ regeneration: 2 proteins: CCNA2, CDK1
+cellular response to platelet-derived growth factor stimulus: 2 proteins: CCNA2, MARS1
+post-translational protein modification: 2 proteins: CCNA2, CDK2
+cellular response to nitric oxide: 2 proteins: CCNA2, CDK2
+methylated histone binding: 2 proteins: PHF8, L3MBTL1
+kinase inhibitor activity: 2 proteins: FZR1, CDK1
+ubiquitin ligase activator activity: 2 proteins: FZR1, CDC20
+ meiotic nuclear division: 2 proteins: FZR1, CDC20
+cyclin-dependent protein serine/threonine kinase inhibitor activity: 2 proteins: CDKN1C, CDKN1A
+ exit from mitosis: 2 proteins: CDKN1C, MAD2L1BP
+ transforming growth factor beta receptor signaling pathway: 2 proteins: CDKN1C, SDCBP
+negative regulation of phosphorylation: 2 proteins: CDKN1C, CDKN1A
+negative regulation of cyclin-dependent protein kinase activity: 2 proteins: CDKN1C, CDKN1A
+ protein phosphorylation: 2 proteins: CDKN1A, CCND1
+negative regulation of gene expression: 2 proteins: CDKN1A, CDK1
+cellular response to amino acid starvation: 2 proteins: CDKN1A, LARS1
+cellular senescence: 2 proteins: CDKN1A, CDK2
+ G1/S transition of mitotic cell cycle: 2 proteins: CDKN1A, RRM2
+nuclear body: 2 proteins: CDKN1A, LARS1
+histone kinase activity: 2 proteins: CDK2, CDK1
+cyclin-dependent protein kinase activity: 2 proteins: CDK2, CDK1
+response to organic substance: 2 proteins: CDK2, CDK3
+peptidyl-serine phosphorylation: 2 proteins: CDK2, CDK1
+mitotic G1 DNA damage checkpoint signaling: 2 proteins: CDK2, CCND1
+chromosome, telomeric region: 2 proteins: CDK2, CDK1
+condensed chromosome: 2 proteins: CDK2, L3MBTL1
+cyclin A1-CDK2 complex: 2 proteins: CDK2, CCNA1
+cyclin E1-CDK2 complex: 2 proteins: CDK2, CCNE1
+histone deacetylase binding: 2 proteins: CCND1, CDC20
+response to xenobiotic stimulus: 2 proteins: CCND1, CDK1
+Wnt signaling pathway: 2 proteins: CCND1, CCNE1
+response to ethanol: 2 proteins: CCND1, CDK1
+hemopoiesis: 2 proteins: L3MBTL1, RTKN2
+kinase activity: 2 proteins: CCNE1, CDK1
+enzyme activator activity: 2 proteins: CDK1, CTSA
+protein deubiquitination: 2 proteins: CDK1, USP10
+protein-containing complex assembly: 2 proteins: CDK1, EPRS1
+endoplasmic reticulum membrane: 2 proteins: CDK1, SDCBP
+mitotic checkpoint complex: 2 proteins: CDC20, BUB1B
+proteolysis: 2 proteins: CTSA, SDCBP
+lysosome: 2 proteins: CTSA, LARS1
+azurophil granule lumen: 2 proteins: CTSA, SDCBP
+glutamine-tRNA ligase activity: 2 proteins: QARS1, LARS1
+glutaminyl-tRNA aminoacylation: 2 proteins: QARS1, LARS1

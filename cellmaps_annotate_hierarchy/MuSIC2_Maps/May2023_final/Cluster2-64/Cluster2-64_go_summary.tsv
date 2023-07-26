@@ -1,0 +1,65 @@
+Feature	Number of Genes	Genes
+protein binding	4	PLD1, SNAPC1, TAF1B, TRIM44
+cytoplasm	2	IQCA1, TRIM44
+nucleoplasm	2	SNAPC1, TAF1B
+nucleolus	2	SNAPC1, TAF1B
+ATP binding	1	IQCA1
+microtubule severing ATPase activity	1	IQCA1
+ATP hydrolysis activity	1	IQCA1
+microtubule cytoskeleton organization	1	IQCA1
+cytoskeleton	1	IQCA1
+motile cilium	1	IQCA1
+phospholipase D activity	1	PLD1
+phosphatidylinositol binding	1	PLD1
+N-acylphosphatidylethanolamine-specific phospholipase D activity	1	PLD1
+phosphatidic acid biosynthetic process	1	PLD1
+chemotaxis	1	PLD1
+small GTPase mediated signal transduction	1	PLD1
+Ras protein signal transduction	1	PLD1
+phospholipid catabolic process	1	PLD1
+ microvillus assembly	1	PLD1
+ translation	1	PLD1
+inositol lipid-mediated signaling	1	PLD1
+ vesicle-mediated transport	1	PLD1
+ synaptic vesicle cycle	1	PLD1
+Golgi membrane	1	PLD1
+lysosomal membrane	1	PLD1
+endosome	1	PLD1
+endoplasmic reticulum membrane	1	PLD1
+Golgi apparatus	1	PLD1
+plasma membrane	1	PLD1
+membrane	1	PLD1
+apical plasma membrane	1	PLD1
+endocytic vesicle	1	PLD1
+late endosome membrane	1	PLD1
+specific granule membrane	1	PLD1
+intracellular membrane-bounded organelle	1	PLD1
+perinuclear region of cytoplasm	1	PLD1
+tertiary granule membrane	1	PLD1
+plasma membrane region	1	PLD1
+cholinergic synapse	1	PLD1
+RNA polymerase III general transcription initiation factor activity	1	SNAPC1
+RNA polymerase II general transcription initiation factor activity	1	SNAPC1
+sequence-specific DNA binding	1	SNAPC1
+snRNA transcription by RNA polymerase II	1	SNAPC1
+snRNA transcription by RNA polymerase III	1	SNAPC1
+snRNA-activating protein complex	1	SNAPC1
+RNA polymerase I core promoter sequence-specific DNA binding	1	TAF1B
+TBP-class protein binding	1	TAF1B
+metal ion binding	1	TAF1B
+RNA polymerase I preinitiation complex assembly	1	TAF1B
+DNA-templated transcription	1	TAF1B
+nucleolar large rRNA transcription by RNA polymerase I	1	TAF1B
+nucleus	1	TAF1B
+RNA polymerase transcription factor SL1 complex	1	TAF1B
+RNA polymerase I core factor complex	1	TAF1B
+zinc ion binding	1	TRIM44
+ubiquitin protein ligase activity	1	TRIM44
+ cytokine-mediated signaling pathway	1	TRIM44
+ defense response to virus by host	1	TRIM44
+ gene expression	1	TRIM44
+protein ubiquitination	1	TRIM44
+ DNA-templated transcription	1	TRIM44
+protein stabilization	1	TRIM44
+negative regulation of protein K48-linked ubiquitination	1	TRIM44
+ NIK/NF-kappaB signaling	1	TRIM44

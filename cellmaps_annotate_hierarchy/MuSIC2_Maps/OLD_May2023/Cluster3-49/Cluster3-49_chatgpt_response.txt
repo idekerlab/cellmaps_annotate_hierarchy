@@ -1,0 +1,29 @@
+Title: Nucleocytoplasmic Stress Response System
+
+Summary:
+The Nucleocytoplasmic Stress Response System is a proposed protein complex involving CFAP141, CRABP2, DMKN, HSPB8, and IL36G. These proteins are physically close to each other and/or interact with each other, and are involved in various cellular components and complexes. The system is characterized by protein binding, nucleoplasm, cytosol, nucleus, cytoplasm, and extracellular space. The biological processes performed by this system include stress response, cellular homeostasis, and inflammation regulation. This analysis aims to determine if this is a novel complex or if any proteins are novel members of a known complex.
+
+Cellular Components and Complexes:
+The proteins in this system are involved in various cellular components and complexes, including:
+1. Protein binding: CFAP141, CRABP2, DMKN, HSPB8 (1, 2, 3, 4)
+2. Nucleoplasm: CRABP2, HSPB8, IL36G (2, 4, 5)
+3. Cytosol: CRABP2, HSPB8, IL36G (2, 4, 5)
+4. Nucleus: CRABP2, HSPB8 (2, 4)
+5. Cytoplasm: CRABP2, HSPB8 (2, 4)
+6. Extracellular space: DMKN, IL36G (3, 5)
+
+Mechanisms and Biological Processes:
+The Nucleocytoplasmic Stress Response System is involved in several mechanisms and biological processes, such as:
+1. Stress response and cellular homeostasis: HSPB8 plays a crucial role in cellular stress response and protein homeostasis (4).
+2. Inflammation regulation: IL36G is involved in the regulation of inflammatory responses (5).
+3. Retinoic acid binding and signaling: CRABP2 is involved in retinoic acid binding and signaling (2).
+4. Epidermal differentiation: DMKN is involved in epidermal differentiation and barrier function (3).
+
+Proposed Name: Nucleocytoplasmic Stress Response System
+
+References:
+1. CFAP141: [PMID: 25416956](https://pubmed.ncbi.nlm.nih.gov/25416956/)
+2. CRABP2: [PMID: 10400640](https://pubmed.ncbi.nlm.nih.gov/10400640/)
+3. DMKN: [PMID: 16106233](https://pubmed.ncbi.nlm.nih.gov/16106233/)
+4. HSPB8: [PMID: 26711251](https://pubmed.ncbi.nlm.nih.gov/26711251/)
+5. IL36G: [PMID: 22110693](https://pubmed.ncbi.nlm.nih.gov/22110693/)

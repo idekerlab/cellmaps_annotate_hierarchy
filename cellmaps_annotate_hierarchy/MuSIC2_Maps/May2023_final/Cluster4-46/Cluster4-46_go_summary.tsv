@@ -1,0 +1,45 @@
+Feature	Number of Genes	Genes
+chromatin binding	4	STAG2, CDCA5, SMC3, STAG1
+protein binding	4	STAG2, CDCA5, SMC3, STAG1
+cell division	4	STAG2, CDCA5, SMC3, STAG1
+chromosome, centromeric region	4	STAG2, CDCA5, SMC3, STAG1
+chromatin	4	STAG2, CDCA5, SMC3, STAG1
+nucleus	4	STAG2, CDCA5, SMC3, STAG1
+nucleoplasm	4	STAG2, CDCA5, SMC3, STAG1
+chromosome	4	STAG2, CDCA5, SMC3, STAG1
+cytosol	4	STAG2, CDCA5, SMC3, STAG1
+sister chromatid cohesion	3	STAG2, SMC3, STAG1
+establishment of mitotic sister chromatid cohesion	3	STAG2, SMC3, STAG1
+mitotic spindle assembly	3	STAG2, SMC3, STAG1
+cohesin complex	3	STAG2, SMC3, STAG1
+nuclear matrix	3	STAG2, SMC3, STAG1
+mitotic spindle pole	3	STAG2, SMC3, STAG1
+meiotic cell cycle	2	STAG2, SMC3
+mitotic cell cycle	2	CDCA5, SMC3
+mitotic sister chromatid cohesion	2	CDCA5, SMC3
+fibrillar center	1	STAG2
+nucleolus	1	STAG2
+membrane	1	STAG2
+protein-containing complex binding	1	CDCA5
+double-strand break repair	1	CDCA5
+mitotic chromosome condensation	1	CDCA5
+mitotic metaphase plate congression	1	CDCA5
+ exit from mitosis	1	CDCA5
+cytoplasm	1	CDCA5
+double-stranded DNA binding	1	SMC3
+microtubule motor activity	1	SMC3
+ATP binding	1	SMC3
+ATP hydrolysis activity	1	SMC3
+mediator complex binding	1	SMC3
+protein heterodimerization activity	1	SMC3
+beta-tubulin binding	1	SMC3
+cohesin loader activity	1	SMC3
+dynein complex binding	1	SMC3
+ DNA replication	1	SMC3
+DNA repair	1	SMC3
+stem cell population maintenance	1	SMC3
+establishment of meiotic sister chromatid cohesion	1	SMC3
+lateral element	1	SMC3
+meiotic cohesin complex	1	SMC3
+localization	1	STAG1
+nuclear body	1	STAG1

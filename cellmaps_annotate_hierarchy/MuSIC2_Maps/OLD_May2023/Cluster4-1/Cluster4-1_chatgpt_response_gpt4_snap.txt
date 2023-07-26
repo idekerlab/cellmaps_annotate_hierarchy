@@ -1,0 +1,10 @@
+Title: Mitochondrial-Cytoplasmic Protein Interaction System
+
+Summary:
+The Mitochondrial-Cytoplasmic Protein Interaction System is a complex network of proteins primarily localized in the mitochondrion and cytoplasm cellular components. This system involves 33 proteins with protein binding functions, 21 mitochondrial proteins, and 13 cytoplasmic proteins. The biological processes performed by this system include protein binding, ATP binding, metal ion binding, RNA binding, signal transduction, protein dephosphorylation, protein ubiquitination, and regulation of transcription, among others. The primary cellular components involved in this system are the mitochondrion and the cytoplasm, with other cellular components including the nucleus, cytosol, nucleoplasm, mitochondrial inner membrane, mitochondrial matrix, plasma membrane, and mitochondrial outer membrane. The analysis aims to determine if this is a novel complex or if any proteins are novel members of a known complex.
+
+References:
+1. Chacinska, A., Koehler, C. M., Milenkovic, D., Lithgow, T., & Pfanner, N. (2009). Importing mitochondrial proteins: machineries and mechanisms. Cell, 138(4), 628-644. https://pubmed.ncbi.nlm.nih.gov/19703392/
+2. Wiedemann, N., & Pfanner, N. (2017). Mitochondrial Machineries for Protein Import and Assembly. Annual Review of Biochemistry, 86, 685-714. https://pubmed.ncbi.nlm.nih.gov/28532222/
+3. Neupert, W., & Herrmann, J. M. (2007). Translocation of proteins into mitochondria. Annual Review of Biochemistry, 76, 723-749. https://pubmed.ncbi.nlm.nih.gov/17362197/
+4. Harbauer, A. B., Zahedi, R. P., Sickmann, A., Pfanner, N., & Meisinger, C. (2014). The protein import machinery of mitochondria—a regulatory hub in metabolism, stress, and disease. Cell Metabolism, 19(3), 357-372. https://pubmed.ncbi.nlm.nih.gov/24508508/

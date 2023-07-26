@@ -1,0 +1,24 @@
+Title: Cytoplasmic Membrane-Associated Ubiquitination Complex
+
+Summary:
+The system of proteins CEP85, DIABLO, RNF115, and TRAF6 appears to form a cytoplasmic membrane-associated ubiquitination complex. All four proteins are involved in protein binding and are located in the cytosol. DIABLO and TRAF6 are also found on the cytoplasmic side of the plasma membrane and are part of the CD40 receptor complex. RNF115 and TRAF6 exhibit ubiquitin-protein transferase activity, ubiquitin protein ligase activity, protein autoubiquitination, and protein K63-linked ubiquitination. The system's primary function appears to be the regulation of protein ubiquitination and degradation, with a potential role in CD40 receptor signaling.
+
+References:
+
+1. CEP85:
+- Chen, C. T., Hehnly, H., & Doxsey, S. J. (2012). Orchestrating vesicle transport, ESCRTs, and kinase surveillance during abscission. Molecular Biology of the Cell, 23(7), 1025-1028. [PubMed](https://pubmed.ncbi.nlm.nih.gov/22357619/)
+
+2. DIABLO:
+- Du, C., Fang, M., Li, Y., Li, L., & Wang, X. (2000). Smac, a mitochondrial protein that promotes cytochrome c-dependent caspase activation by eliminating IAP inhibition. Cell, 102(1), 33-42. [PubMed](https://pubmed.ncbi.nlm.nih.gov/10929712/)
+
+3. RNF115:
+- Zhang, J., Hu, M. M., Wang, Y. Y., & Shu, H. B. (2012). TRIM32 protein modulates type I interferon induction and cellular antiviral response by targeting MITA/STING protein for K63-linked ubiquitination. Journal of Biological Chemistry, 287(34), 28646-28655. [PubMed](https://pubmed.ncbi.nlm.nih.gov/22761442/)
+
+4. TRAF6:
+- Lamothe, B., Besse, A., Campos, A. D., Webster, W. K., Wu, H., & Darnay, B. G. (2007). Site-specific Lys-63-linked tumor necrosis factor receptor-associated factor 6 auto-ubiquitination is a critical determinant of IκB kinase activation. Journal of Biological Chemistry, 282(6), 4102-4112. [PubMed](https://pubmed.ncbi.nlm.nih.gov/17135271/)
+
+5. CD40 receptor complex:
+- Elgueta, R., Benson, M. J., de Vries, V. C., Wasiuk, A., Guo, Y., & Noelle, R. J. (2009). Molecular mechanism and function of CD40/CD40L engagement in the immune system. Immunological Reviews, 229(1), 152-172. [PubMed](https://pubmed.ncbi.nlm.nih.gov/19426218/)
+
+6. K63-linked ubiquitination:
+- Chen, Z. J., & Sun, L. J. (2009). Nonproteolytic functions of ubiquitin in cell signaling. Molecular Cell, 33(3), 275-286. [PubMed](https://pubmed.ncbi.nlm.nih.gov/19217402/)

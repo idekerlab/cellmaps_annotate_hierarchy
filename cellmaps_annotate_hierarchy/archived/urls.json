@@ -1,0 +1,287 @@
+[
+    {
+        "name": "MuSIC2_Maps",
+        "versions": [
+            {
+                "name": "v1.1_April2023/Cluster3-29",
+                "files": [
+                    {
+                        "name": "Cluster3-29",
+                        "url": "MuSIC2_Maps/v1.1_April2023/Cluster3-29/Cluster3-29_chatgpt_prompt.html"
+                    },
+                    {
+                        "name": "Cluster3-29",
+                        "url": "MuSIC2_Maps/v1.1_April2023/Cluster3-29/Cluster3-29_analysis.html"
+                    },
+                    {
+                        "name": "Cluster3-29",
+                        "url": "MuSIC2_Maps/v1.1_April2023/Cluster3-29/Cluster3-29_chatgpt_prompt.html"
+                    },
+                    {
+                        "name": "Cluster3-29",
+                        "url": "MuSIC2_Maps/v1.1_April2023/Cluster3-29/Cluster3-29_analysis.html"
+                    }
+                ]
+            },
+            {
+                "name": "v1.1_April2023/Cluster5-6",
+                "files": [
+                    {
+                        "name": "Cluster5-6",
+                        "url": "MuSIC2_Maps/v1.1_April2023/Cluster5-6/Cluster5-6_chatgpt_prompt.html"
+                    },
+                    {
+                        "name": "Cluster5-6",
+                        "url": "MuSIC2_Maps/v1.1_April2023/Cluster5-6/Cluster5-6_analysis.html"
+                    }
+                ]
+            },
+            {
+                "name": "v1.1_April2023/Cluster3-38",
+                "files": [
+                    {
+                        "name": "Cluster3-38",
+                        "url": "MuSIC2_Maps/v1.1_April2023/Cluster3-38/Cluster3-38_chatgpt_prompt.html"
+                    },
+                    {
+                        "name": "Cluster3-38",
+                        "url": "MuSIC2_Maps/v1.1_April2023/Cluster3-38/Cluster3-38_analysis.html"
+                    }
+                ]
+            },
+            {
+                "name": "v1.1_April2023/Cluster5-23",
+                "files": [
+                    {
+                        "name": "Cluster5-23",
+                        "url": "MuSIC2_Maps/v1.1_April2023/Cluster5-23/Cluster5-23_chatgpt_prompt.html"
+                    },
+                    {
+                        "name": "Cluster5-23",
+                        "url": "MuSIC2_Maps/v1.1_April2023/Cluster5-23/Cluster5-23_analysis.html"
+                    }
+                ]
+            },
+            {
+                "name": "v1.1_April2023/Cluster2-28",
+                "files": [
+                    {
+                        "name": "Cluster2-28",
+                        "url": "MuSIC2_Maps/v1.1_April2023/Cluster2-28/Cluster2-28_chatgpt_prompt.html"
+                    },
+                    {
+                        "name": "Cluster2-28",
+                        "url": "MuSIC2_Maps/v1.1_April2023/Cluster2-28/Cluster2-28_analysis.html"
+                    }
+                ]
+            },
+            {
+                "name": "v1.1_April2023/Cluster6-0",
+                "files": [
+                    {
+                        "name": "Cluster6-0",
+                        "url": "MuSIC2_Maps/v1.1_April2023/Cluster6-0/Cluster6-0_chatgpt_prompt.html"
+                    },
+                    {
+                        "name": "Cluster6-0",
+                        "url": "MuSIC2_Maps/v1.1_April2023/Cluster6-0/Cluster6-0_analysis.html"
+                    }
+                ]
+            },
+            {
+                "name": "v1.1_April2023/Cluster4-26",
+                "files": [
+                    {
+                        "name": "Cluster4-26",
+                        "url": "MuSIC2_Maps/v1.1_April2023/Cluster4-26/Cluster4-26_chatgpt_prompt.html"
+                    },
+                    {
+                        "name": "Cluster4-26",
+                        "url": "MuSIC2_Maps/v1.1_April2023/Cluster4-26/Cluster4-26_analysis.html"
+                    }
+                ]
+            },
+            {
+                "name": "v1.1_April2023/Cluster3-21",
+                "files": [
+                    {
+                        "name": "Cluster3-21",
+                        "url": "MuSIC2_Maps/v1.1_April2023/Cluster3-21/Cluster3-21_chatgpt_prompt.html"
+                    },
+                    {
+                        "name": "Cluster3-21",
+                        "url": "MuSIC2_Maps/v1.1_April2023/Cluster3-21/Cluster3-21_analysis.html"
+                    }
+                ]
+            },
+            {
+                "name": "v1.1_April2023/Cluster1-17",
+                "files": [
+                    {
+                        "name": "Cluster1-17",
+                        "url": "MuSIC2_Maps/v1.1_April2023/Cluster1-17/Cluster1-17_chatgpt_prompt.html"
+                    },
+                    {
+                        "name": "Cluster1-17",
+                        "url": "MuSIC2_Maps/v1.1_April2023/Cluster1-17/Cluster1-17_analysis.html"
+                    }
+                ]
+            },
+            {
+                "name": "May2023/Cluster2-31",
+                "files": [
+                    {
+                        "name": "Cluster2-31",
+                        "url": "MuSIC2_Maps/May2023/Cluster2-31/Cluster2-31_chatgpt_prompt.html"
+                    }
+                ]
+            },
+            {
+                "name": "May2023",
+                "files": [
+                    {
+                        "name": "Cluster2-31",
+                        "url": "MuSIC2_Maps/May2023/Cluster2-31_chatgpt_prompt.html"
+                    },
+                    {
+                        "name": "Cluster2-31",
+                        "url": "MuSIC2_Maps/May2023/Cluster2-31_chatgpt_prompt.html"
+                    },
+                    {
+                        "name": "Cluster2-31",
+                        "url": "MuSIC2_Maps/May2023/Cluster2-31_chatgpt_prompt.txt"
+                    },
+                    {
+                        "name": "Cluster2-31",
+                        "url": "MuSIC2_Maps/May2023/Cluster2-31_chatgpt_prompt.txt"
+                    },
+                    {
+                        "name": "Cluster2-31",
+                        "url": "MuSIC2_Maps/May2023/Cluster2-31_chatgpt_prompt.txt"
+                    },
+                    {
+                        "name": "Cluster2-31",
+                        "url": "MuSIC2_Maps/May2023/Cluster2-31_chatgpt_prompt.txt"
+                    },
+                    {
+                        "name": "Cluster2-31",
+                        "url": "MuSIC2_Maps/May2023/Cluster2-31_chatgpt_prompt.txt"
+                    },
+                    {
+                        "name": "Cluster2-31",
+                        "url": "MuSIC2_Maps/May2023/Cluster2-31_gpt_analysis.txt"
+                    },
+                    {
+                        "name": "Cluster2-31",
+                        "url": "MuSIC2_Maps/May2023/Cluster2-31_chatgpt_prompt.txt"
+                    },
+                    {
+                        "name": "Cluster2-31",
+                        "url": "MuSIC2_Maps/May2023/Cluster2-31_chatgpt_response.txt"
+                    },
+                    {
+                        "name": "Cluster5-1",
+                        "url": "MuSIC2_Maps/May2023/Cluster5-1_chatgtp_prompt.html"
+                    },
+                    {
+                        "name": "Cluster6-1",
+                        "url": "MuSIC2_Maps/May2023/Cluster6-1_analysis_page.html"
+                    },
+                    {
+                        "name": "Cluster6-1",
+                        "url": "MuSIC2_Maps/May2023/Cluster6-1_analysis_page.html"
+                    },
+                    {
+                        "name": "Cluster6-1",
+                        "url": "MuSIC2_Maps/May2023/Cluster6-1_analysis_page.html"
+                    },
+                    {
+                        "name": "Cluster6-1",
+                        "url": "MuSIC2_Maps/May2023/Cluster6-1_analysis_page.html"
+                    },
+                    {
+                        "name": "Cluster6-1",
+                        "url": "MuSIC2_Maps/May2023/Cluster6-1_analysis_page.html"
+                    },
+                    {
+                        "name": "Cluster6-1",
+                        "url": "MuSIC2_Maps/May2023/Cluster6-1_analysis_page.html"
+                    },
+                    {
+                        "name": "Cluster6-1",
+                        "url": "MuSIC2_Maps/May2023/Cluster6-1_response.html"
+                    }
+                ]
+            },
+            {
+                "name": "May2023_final",
+                "files": [
+                    {
+                        "name": "Cluster3-51",
+                        "url": "MuSIC2_Maps/May2023_final/Cluster3-51_analysis_page.html"
+                    },
+                    {
+                        "name": "Cluster3-52",
+                        "url": "MuSIC2_Maps/May2023_final/Cluster3-52_analysis_page.html"
+                    },
+                    {
+                        "name": "Cluster3-51",
+                        "url": "MuSIC2_Maps/May2023_final/Cluster3-51_analysis_page.html"
+                    },
+                    {
+                        "name": "Cluster3-52",
+                        "url": "MuSIC2_Maps/May2023_final/Cluster3-52_analysis_page.html"
+                    },
+                    {
+                        "name": "Cluster3-60",
+                        "url": "MuSIC2_Maps/May2023_final/Cluster3-60_analysis_page.html"
+                    },
+                    {
+                        "name": "Cluster3-74",
+                        "url": "MuSIC2_Maps/May2023_final/Cluster3-74_analysis_page.html"
+                    },
+                    {
+                        "name": "Cluster3-51",
+                        "url": "MuSIC2_Maps/May2023_final/Cluster3-51_analysis_page.html"
+                    },
+                    {
+                        "name": "Cluster3-52",
+                        "url": "MuSIC2_Maps/May2023_final/Cluster3-52_analysis_page.html"
+                    },
+                    {
+                        "name": "Cluster3-60",
+                        "url": "MuSIC2_Maps/May2023_final/Cluster3-60_analysis_page.html"
+                    },
+                    {
+                        "name": "Cluster3-74",
+                        "url": "MuSIC2_Maps/May2023_final/Cluster3-74_analysis_page.html"
+                    },
+                    {
+                        "name": "Cluster4-12",
+                        "url": "MuSIC2_Maps/May2023_final/Cluster4-12_analysis_page.html"
+                    },
+                    {
+                        "name": "Cluster4-20",
+                        "url": "MuSIC2_Maps/May2023_final/Cluster4-20_analysis_page.html"
+                    },
+                    {
+                        "name": "Cluster3-11",
+                        "url": "MuSIC2_Maps/May2023_final/Cluster3-11_analysis_page.html"
+                    },
+                    {
+                        "name": "Cluster3-15",
+                        "url": "MuSIC2_Maps/May2023_final/Cluster3-15_analysis_page.html"
+                    },
+                    {
+                        "name": "Cluster3-51",
+                        "url": "MuSIC2_Maps/May2023_final/Cluster3-51_analysis_page.html"
+                    },
+                    {
+                        "name": "Cluster3-52",
+                        "url": "MuSIC2_Maps/May2023_final/Cluster3-52_analysis_page.html"
+                    }
+                ]
+            }
+        ]
+    }
+]

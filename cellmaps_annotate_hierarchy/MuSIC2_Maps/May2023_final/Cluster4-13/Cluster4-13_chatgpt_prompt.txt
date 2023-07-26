@@ -1,0 +1,69 @@
+Your response should be formatted as Markdown paragraphs
+Write a critical and concise analysis of this human protein system, describing your reasoning as you go and providing references to scientific papers.
+
+A critical goal of the analysis is to determine if this is a novel complex or if any proteins are novel members of a known complex
+
+Format with Title, Summary, and References sections.        
+Avoid overly general statements of how the proteins are involved in various cellular processes        
+Avoid repeating the goals of the analysis.
+
+What cellular components and complexes are involved in this system?
+What mechanisms and biological processes are performed by this system?
+Propose a name for the system to reflect the cellular location and function, and should be specific but brief. Do not compose an acronym. Place it as the title of your report
+Human Proteins: NCAPH2, IL13RA2, HOXD4, DDB2, SNX7, CDK5, METTL9, SCAMP1, TJP1, TMEM186, VPS13B, SSX2IP, PRKCI, MAGI1, DDR1, CCDC85C, PURG, CADM1, COLEC12.
+
+System features from GO terms: 
+protein binding: 16 proteins: NCAPH2, IL13RA2, HOXD4, DDB2, SNX7, CDK5, METTL9, SCAMP1, TJP1, TMEM186, SSX2IP, PRKCI, MAGI1, DDR1, CADM1, COLEC12
+plasma membrane: 8 proteins: CDK5, SCAMP1, TJP1, PRKCI, MAGI1, DDR1, CADM1, COLEC12
+nucleus: 7 proteins: NCAPH2, HOXD4, DDB2, CDK5, SSX2IP, PRKCI, PURG
+nucleoplasm: 6 proteins: NCAPH2, HOXD4, DDB2, CDK5, PRKCI, MAGI1
+cell junction: 6 proteins: NCAPH2, HOXD4, DDB2, CDK5, TJP1, MAGI1
+membrane: 4 proteins: NCAPH2, CDK5, SCAMP1, COLEC12
+ATP binding: 4 proteins: CDK5, PRKCI, MAGI1, DDR1
+cytoplasm: 4 proteins: CDK5, TJP1, SSX2IP, MAGI1
+adherens junction: 4 proteins: TJP1, SSX2IP, MAGI1, CCDC85C
+bicellular tight junction: 4 proteins: TJP1, PRKCI, MAGI1, CCDC85C
+extracellular space: 3 proteins: IL13RA2, DDR1, COLEC12
+protein-containing complex: 3 proteins: DDB2, TJP1, SSX2IP
+cytosol: 3 proteins: CDK5, TJP1, PRKCI
+cell adhesion: 3 proteins: SSX2IP, MAGI1, DDR1
+metal ion binding: 3 proteins: PRKCI, DDR1, COLEC12
+intercellular bridge: 2 proteins: NCAPH2, PRKCI
+receptor complex: 2 proteins: IL13RA2, DDR1
+RNA polymerase II transcription regulatory region sequence-specific DNA binding: 2 proteins: HOXD4, PURG
+DNA-binding transcription factor activity, RNA polymerase II-specific: 2 proteins: HOXD4, PURG
+ transcription by RNA polymerase II: 2 proteins: HOXD4, PURG
+chromatin: 2 proteins: HOXD4, DDB2
+protein transport: 2 proteins: SNX7, SCAMP1
+early endosome membrane: 2 proteins: SNX7, VPS13B
+protein kinase activity: 2 proteins: CDK5, PRKCI
+protein serine/threonine kinase activity: 2 proteins: CDK5, PRKCI
+protein serine kinase activity: 2 proteins: CDK5, PRKCI
+protein phosphorylation: 2 proteins: CDK5, PRKCI
+peptidyl-serine phosphorylation: 2 proteins: CDK5, PRKCI
+ cell migration: 2 proteins: CDK5, TJP1
+neuron projection development: 2 proteins: CDK5, VPS13B
+protein autophosphorylation: 2 proteins: CDK5, DDR1
+ protein localization to plasma membrane: 2 proteins: CDK5, PRKCI
+postsynaptic density: 2 proteins: CDK5, CADM1
+dendrite: 2 proteins: CDK5, CADM1
+neuron projection: 2 proteins: CDK5, CADM1
+Schaffer collateral - CA1 synapse: 2 proteins: CDK5, PRKCI
+glutamatergic synapse: 2 proteins: CDK5, PRKCI
+mitochondrion: 2 proteins: METTL9, TMEM186
+protein domain specific binding: 2 proteins: SCAMP1, SSX2IP
+recycling endosome membrane: 2 proteins: SCAMP1, VPS13B
+cell adhesion molecule binding: 2 proteins: TJP1, CADM1
+negative regulation of apoptotic process: 2 proteins: TJP1, PRKCI
+cell-cell junction organization: 2 proteins: TJP1, PRKCI
+basolateral plasma membrane: 2 proteins: TJP1, CADM1
+cell projection: 2 proteins: TJP1, MAGI1
+apical junction complex: 2 proteins: TJP1, CCDC85C
+tight junction: 2 proteins: TJP1, PRKCI
+vesicle-mediated transport: 2 proteins: VPS13B, PRKCI
+Golgi membrane: 2 proteins: VPS13B, PRKCI
+cell leading edge: 2 proteins: SSX2IP, PRKCI
+ neuron projection development: 2 proteins: PRKCI, DDR1
+extracellular exosome: 2 proteins: PRKCI, DDR1
+cell-cell junction: 2 proteins: MAGI1, CADM1
+synapse: 2 proteins: PURG, CADM1

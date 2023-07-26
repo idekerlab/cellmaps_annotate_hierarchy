@@ -1,0 +1,17 @@
+Your response should be formatted as Markdown paragraphs
+This is a human protein system high in a cell hierarchy and has child systems connect to it as well as residual proteins only belong to this system. From the protein list and the knowledge of how these proteins cluster, write a critical and concise analysis of this human protein system. Describe your reasoning as you go and providing references to scientific papers.
+
+A critical goal of the analysis is to determine if this is a novel complex or if any proteins are novel members of a known complex
+
+Format with Title, Summary, and References sections.        
+Avoid overly general statements of how the proteins are involved in various cellular processes        
+Avoid recapitulating the goals of the analysis.
+
+What cellular components and complexes are involved in this system?
+What mechanisms and biological processes are performed by this system?
+Propose a name for the system to reflect the function and location, and should be specific but brief. Do not compose an acronym. Place it as the title of your report
+Human Protein List: 
+proteins only in this high level system: MECR, SLC12A6, APEH, HSPA5, TMEM131L, GDF11, COL11A1, GLI4, CD276, COL22A1, FBXO3, ARSA, FBN2, ANKRD46, ABCA2, MMP2, ATP11B, ALCAM, TGFB2, LGALS3, LYPD1, PLXNA3, TCTN2, SORT1, PTPRK, CYB5R1, PKD2, GAS6, MOXD1, MYCBPAP, COL6A3, PLAU, ST3GAL5, POGLUT1, FKBP14, ANTXR1, CD109, WNT3, SGCB, CNPY4, WLS, CHST10, CHST14, IGF2R, COL8A1, H6PD, ATRN, TCTN3, MET, DPP7, COL6A2, HEXA, ADAMTSL3, LRIG1, UGGT1, ITGB2, WNT3A, THBS3, MGAT5B, PLD3, POMT2, EOGT, DKKL1, DCBLD1, IL27RA, SQSTM1, C1QTNF1, LGALS1, PRCP, LFNG, OLFM1, SEL1L3, DHFR2, SCARB1, PDIA5, LAMC2, CCBE1, MGRN1, GUSB, HLA-E, LRIG3, ALG9, EMC6, SERPINE1, ARMCX5-GPRASP2, GALNS, SEPSECS, CPA4, PLAT, TIMP3, CYP2C8, COLGALT1, COLQ, CMA1, CHST3, NCEH1, NDST2, GRN, B3GNT2, CHPF, COL16A1, MANBA, ADAM17, PCYOX1L, CXADR, TLR6, ITGB8, NPC1, TSPAN15, LAMB3, CAT, FURIN, C1orf54, ADAM19, COL5A1, B4GALT3, SPPL2A, ADAM9, LAMB2, DNAJC3, COL12A1, C1GALT1, ADAM15, ASIC4.
+proteins in child system Cluster4-6: ZNF672, FUS, ZNF354C, ZNF35, MAN2C1, PRPF39, SLFN11, DUS3L, ADAM32, CABCOCO1, CGRRF1, CHID1, CHPF2, CPD, CRP, ECEL1, FBXO2, GGT7, IGSF3, IL31RA, LOXL2, MAN2B1, NAALAD2, NXPE3, OLFM2, OLFML2A, PLXNA1, POGLUT2, POGLUT3, PVR, RBM12B, SDK2, TENM3, TPBG, TRNAU1AP, TTC13, ZNF627.
+proteins in child system Cluster4-26: ZNF672, ZNF354C, ZNF35, ZNF444, ZBTB9, ZNF627, FST, VWCE.
+proteins in child system Cluster4-53: SELENOF, ADAMTS12, CERCAM, ZNF330.

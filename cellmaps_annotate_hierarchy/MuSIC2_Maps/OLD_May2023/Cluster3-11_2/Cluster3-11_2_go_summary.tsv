@@ -1,0 +1,133 @@
+Feature	Number of Genes	Genes
+protein binding	10	ISL2, STAM2, TPD52L2, PDLIM2, PSAT1, TTC1, HGS, TPD52, IDH1, CYB5A
+cytosol	8	STAM2, SMS, PSAT1, TTC1, HGS, PSPH, IDH1, CYB5A
+cytoplasm	6	STAM2, TPD52L2, PSAT1, TPD52, PSPH, IDH1
+extracellular exosome	5	SMS, PSAT1, HGS, PI15, IDH1
+metal ion binding	4	ISL2, PDLIM2, HGS, CYB5A
+identical protein binding	3	PSAT1, PSPH, IDH1
+protein homodimerization activity	3	TPD52, PSPH, IDH1
+nucleus	2	ISL2, PDLIM2
+phosphatidylinositol binding	2	STAM2, HGS
+ubiquitin binding	2	STAM2, HGS
+signal transduction	2	STAM2, HGS
+macroautophagy	2	STAM2, HGS
+multivesicular body assembly	2	STAM2, HGS
+protein transport to vacuole involved in ubiquitin-dependent protein catabolic process via the multivesicular body sorting pathway	2	STAM2, HGS
+membrane fission	2	STAM2, HGS
+early endosome membrane	2	STAM2, HGS
+ESCRT-0 complex	2	STAM2, HGS
+intracellular membrane-bounded organelle	2	STAM2, CYB5A
+L-serine biosynthetic process	2	PSAT1, PSPH
+magnesium ion binding	2	PSPH, IDH1
+DNA-binding transcription factor activity, RNA polymerase II-specific	1	ISL2
+cis-regulatory region sequence-specific DNA binding	1	ISL2
+DNA binding	1	ISL2
+sequence-specific double-stranded DNA binding	1	ISL2
+axonogenesis	1	ISL2
+spinal cord motor neuron cell fate specification	1	ISL2
+visceral motor neuron differentiation	1	ISL2
+retinal ganglion cell axon guidance	1	ISL2
+negative regulation of neuron differentiation	1	ISL2
+positive regulation of transcription by RNA polymerase II	1	ISL2
+neuron fate specification	1	ISL2
+neuron development	1	ISL2
+peripheral nervous system neuron development	1	ISL2
+chromatin	1	ISL2
+nucleoplasm	1	STAM2
+endocytic vesicle	1	STAM2
+RNA binding	1	TPD52L2
+carbohydrate metabolic process	1	TPD52L2
+actin binding	1	PDLIM2
+filamin binding	1	PDLIM2
+ubiquitin protein ligase binding	1	PDLIM2
+myosin heavy chain binding	1	PDLIM2
+muscle alpha-actinin binding	1	PDLIM2
+heart development	1	PDLIM2
+actin cytoskeleton organization	1	PDLIM2
+protein catabolic process	1	PDLIM2
+muscle structure development	1	PDLIM2
+stress fiber	1	PDLIM2
+adherens junction	1	PDLIM2
+Z disc	1	PDLIM2
+cortical actin cytoskeleton	1	PDLIM2
+filamentous actin	1	PDLIM2
+spermine synthase activity	1	SMS
+methionine metabolic process	1	SMS
+polyamine metabolic process	1	SMS
+spermine biosynthetic process	1	SMS
+O-phospho-L-serine:2-oxoglutarate aminotransferase activity	1	PSAT1
+pyridoxal phosphate binding	1	PSAT1
+pyridoxine biosynthetic process	1	PSAT1
+unfolded protein binding	1	TTC1
+protein folding	1	TTC1
+peroxisomal membrane	1	TTC1
+protein domain specific binding	1	HGS
+ubiquitin-like protein ligase binding	1	HGS
+protein targeting to lysosome	1	HGS
+negative regulation of cell population proliferation	1	HGS
+membrane invagination	1	HGS
+positive regulation of gene expression	1	HGS
+negative regulation of platelet-derived growth factor receptor signaling pathway	1	HGS
+endosomal transport	1	HGS
+negative regulation of angiogenesis	1	HGS
+negative regulation of vascular endothelial growth factor receptor signaling pathway	1	HGS
+receptor internalization	1	HGS
+endocytic recycling	1	HGS
+regulation of protein catabolic process	1	HGS
+regulation of MAP kinase activity	1	HGS
+negative regulation of receptor signaling pathway via JAK-STAT	1	HGS
+protein localization to membrane	1	HGS
+positive regulation of exosomal secretion	1	HGS
+lysosome	1	HGS
+endosome	1	HGS
+early endosome	1	HGS
+multivesicular body membrane	1	HGS
+phagocytic vesicle lumen	1	HGS
+calcium ion binding	1	TPD52
+anatomical structure morphogenesis	1	TPD52
+B cell differentiation	1	TPD52
+secretion	1	TPD52
+endoplasmic reticulum	1	TPD52
+perinuclear region of cytoplasm	1	TPD52
+peptidase inhibitor activity	1	PI15
+biological_process	1	PI15
+negative regulation of peptidase activity	1	PI15
+extracellular space	1	PI15
+L-phosphoserine phosphatase activity	1	PSPH
+in utero embryonic development	1	PSPH
+L-serine metabolic process	1	PSPH
+response to mechanical stimulus	1	PSPH
+dephosphorylation	1	PSPH
+response to nutrient levels	1	PSPH
+response to testosterone	1	PSPH
+neuron projection	1	PSPH
+isocitrate dehydrogenase (NADP+) activity	1	IDH1
+cadherin binding	1	IDH1
+NADP binding	1	IDH1
+NAD binding	1	IDH1
+glyoxylate cycle	1	IDH1
+tricarboxylic acid cycle	1	IDH1
+isocitrate metabolic process	1	IDH1
+2-oxoglutarate metabolic process	1	IDH1
+NADP metabolic process	1	IDH1
+glutathione metabolic process	1	IDH1
+response to oxidative stress	1	IDH1
+female gonad development	1	IDH1
+response to steroid hormone	1	IDH1
+regulation of phospholipid catabolic process	1	IDH1
+regulation of phospholipid biosynthetic process	1	IDH1
+extracellular region	1	IDH1
+mitochondrion	1	IDH1
+peroxisome	1	IDH1
+peroxisomal matrix	1	IDH1
+secretory granule lumen	1	IDH1
+tertiary granule lumen	1	IDH1
+ficolin-1-rich granule lumen	1	IDH1
+cytochrome-c oxidase activity	1	CYB5A
+enzyme binding	1	CYB5A
+heme binding	1	CYB5A
+electron transport chain	1	CYB5A
+proton transmembrane transport	1	CYB5A
+mitochondrial outer membrane	1	CYB5A
+endoplasmic reticulum membrane	1	CYB5A
+membrane	1	CYB5A

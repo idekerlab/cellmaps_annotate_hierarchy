@@ -1,0 +1,57 @@
+Feature	Number of Genes	Genes
+cytosol	4	ADD1, ADD2, ADD3, CRCP
+plasma membrane	4	ADD1, ADD2, ADD3, CRCP
+calmodulin binding	3	ADD1, ADD2, ADD3
+actin filament binding	3	ADD1, ADD2, ADD3
+barbed-end actin filament capping	3	ADD1, ADD2, ADD3
+cytoskeleton	3	ADD1, ADD2, ADD3
+postsynaptic density	3	ADD1, ADD2, ADD3
+actin binding	2	ADD1, ADD2
+protein binding	2	ADD1, CRCP
+spectrin binding	2	ADD1, ADD2
+protein homodimerization activity	2	ADD1, ADD2
+protein heterodimerization activity	2	ADD1, ADD2
+actin cytoskeleton organization	2	ADD1, ADD2
+ protein binding	2	ADD1, ADD2
+actin filament bundle assembly	2	ADD1, ADD2
+nucleoplasm	2	ADD1, CRCP
+F-actin capping protein complex	2	ADD1, ADD2
+structural constituent of cytoskeleton	2	ADD2, ADD3
+RNA binding	1	ADD1
+cadherin binding	1	ADD1
+RNA polymerase II-specific DNA-binding transcription factor binding	1	ADD1
+cellular response to calcium ion	1	ADD1
+ establishment of endothelial barrier	1	ADD1
+ adherens junction organization	1	ADD1
+nucleus	1	ADD1
+cytoplasm	1	ADD1
+adherens junction	1	ADD1
+focal adhesion	1	ADD1
+nuclear body	1	ADD1
+protein kinase binding	1	ADD2
+molecular adaptor activity	1	ADD2
+synapse assembly	1	ADD2
+hemopoiesis	1	ADD2
+leukocyte migration	1	ADD2
+leukocyte tethering or rolling	1	ADD2
+protein-containing complex assembly	1	ADD2
+cytoplasmic vesicle	1	ADD2
+plasma membrane raft	1	ADD2
+cytoskeleton organization	1	ADD3
+condensed nuclear chromosome	1	ADD3
+brush border	1	ADD3
+cell-cell junction	1	ADD3
+cell cortex	1	ADD3
+membrane	1	ADD3
+nucleotide binding	1	CRCP
+RNA polymerase III activity	1	CRCP
+calcitonin gene-related peptide receptor activity	1	CRCP
+DNA-directed 5'-3' RNA polymerase activity	1	CRCP
+transcription by RNA polymerase III	1	CRCP
+transcription initiation at RNA polymerase III promoter	1	CRCP
+neuropeptide signaling pathway	1	CRCP
+innate immune response	1	CRCP
+defense response to virus	1	CRCP
+acrosomal vesicle	1	CRCP
+RNA polymerase III complex	1	CRCP
+DNA polymerase III complex	1	CRCP

@@ -1,0 +1,78 @@
+Write a critical and concise analysis of this system, describing your reasoning as you go and providing references to scientific papers. Format the page with Title, Summary, and References sections.
+What cellular components and complexes are involved in this system?
+What mechanisms and biological processes are performed by this system?
+Propose a name for the system to reflect the function and location, and should be specific but brief. Do not compose an acronym. Place it as the title of your report
+Provide complete paper references with pubmed link
+Proteins: BPNT1, MYOF, VPS35, NAA25, CNOT3, UBA5, NUDCD3, ARL3, MANSC1, NTMT1, RBMS3, AAGAB, SAR1A, CAPN1, ANXA9, WBP2, ANXA4, NRSN2, RPS6KA1, DLGAP4, IREB2, STAT3, NIF3L1, SUGT1, UBXN1, MAP2K2, ZC3H15, VPS26A, PGM2, EEF1B2, CAPG.
+
+A critical goal of the analysis is to determine if this is a novel complex or if any proteins are novel members of a known complex
+System features from GO terms: 
+protein binding: 29 proteins: AAGAB, IREB2, STAT3, VPS35, CAPN1, NTMT1, ANXA9, MAP2K2, ANXA4, EEF1B2, CAPG, NRSN2, UBXN1, NAA25, NIF3L1, CNOT3, WBP2, SUGT1, MANSC1, MYOF, ARL3, UBA5, VPS26A, NUDCD3, DLGAP4, PGM2, RPS6KA1, SAR1A, ZC3H15
+cytosol: 21 proteins: AAGAB, IREB2, STAT3, VPS35, CAPN1, NTMT1, ANXA9, MAP2K2, BPNT1, EEF1B2, UBXN1, NAA25, CNOT3, WBP2, SUGT1, UBA5, VPS26A, RBMS3, PGM2, RPS6KA1, ZC3H15
+cytoplasm: 18 proteins: AAGAB, IREB2, STAT3, CAPN1, NTMT1, ANXA9, ANXA4, EEF1B2, CAPG, UBXN1, NAA25, NIF3L1, WBP2, ARL3, UBA5, NUDCD3, RBMS3, RPS6KA1
+nucleus: 15 proteins: STAT3, NTMT1, MAP2K2, ANXA4, EEF1B2, CAPG, UBXN1, NIF3L1, CNOT3, WBP2, SUGT1, ARL3, UBA5, RBMS3, ZC3H15
+nucleoplasm: 7 proteins: STAT3, NTMT1, CAPG, UBXN1, WBP2, ARL3, RPS6KA1
+extracellular exosome: 7 proteins: VPS35, CAPN1, ANXA4, CAPG, MYOF, ARL3, PGM2
+plasma membrane: 6 proteins: STAT3, CAPN1, ANXA4, NRSN2, MYOF, DLGAP4
+Golgi apparatus: 6 proteins: MAP2K2, NAA25, MANSC1, ARL3, UBA5, SAR1A
+mitochondrion: 5 proteins: IREB2, VPS35, CAPN1, MAP2K2, NIF3L1
+positive regulation of DNA-templated transcription: 5 proteins: STAT3, MAP2K2, NIF3L1, WBP2, RPS6KA1
+metal ion binding: 4 proteins: IREB2, MAP2K2, BPNT1, ZC3H15
+positive regulation of gene expression: 4 proteins: STAT3, VPS35, MAP2K2, RBMS3
+calcium ion binding: 4 proteins: CAPN1, ANXA9, ANXA4, MYOF
+identical protein binding: 3 proteins: STAT3, ANXA4, NIF3L1
+signal transduction: 3 proteins: STAT3, ANXA4, RPS6KA1
+nervous system development: 3 proteins: STAT3, BPNT1, NRSN2
+negative regulation of gene expression: 3 proteins: STAT3, VPS35, RBMS3
+positive regulation of transcription by RNA polymerase II: 3 proteins: STAT3, WBP2, RPS6KA1
+intracellular protein transport: 3 proteins: VPS35, VPS26A, SAR1A
+regulation of macroautophagy: 3 proteins: VPS35, CAPN1, VPS26A
+lysosome: 3 proteins: VPS35, CAPN1, VPS26A
+early endosome: 3 proteins: VPS35, MAP2K2, VPS26A
+perinuclear region of cytoplasm: 3 proteins: VPS35, MAP2K2, ANXA4
+extracellular region: 3 proteins: CAPN1, MAP2K2, PGM2
+ATP binding: 3 proteins: MAP2K2, UBA5, RPS6KA1
+endoplasmic reticulum: 3 proteins: MAP2K2, EEF1B2, UBXN1
+magnesium ion binding: 3 proteins: ARL3, PGM2, RPS6KA1
+protein transport: 2 proteins: AAGAB, ARL3
+RNA binding: 2 proteins: IREB2, ZC3H15
+RNA polymerase II cis-regulatory region sequence-specific DNA binding: 2 proteins: STAT3, WBP2
+chromatin DNA binding: 2 proteins: STAT3, WBP2
+protein homodimerization activity: 2 proteins: STAT3, UBA5
+RNA polymerase II-specific DNA-binding transcription factor binding: 2 proteins: STAT3, NIF3L1
+negative regulation of transcription by RNA polymerase II: 2 proteins: STAT3, NIF3L1
+regulation of DNA-templated transcription: 2 proteins: STAT3, CNOT3
+regulation of transcription by RNA polymerase II: 2 proteins: STAT3, ANXA4
+cytokine-mediated signaling pathway: 2 proteins: STAT3, ZC3H15
+negative regulation of inflammatory response: 2 proteins: STAT3, VPS35
+chromatin: 2 proteins: STAT3, WBP2
+regulation of protein stability: 2 proteins: VPS35, SUGT1
+endocytic recycling: 2 proteins: VPS35, VPS26A
+retrograde transport, endosome to Golgi: 2 proteins: VPS35, VPS26A
+endosome: 2 proteins: VPS35, VPS26A
+late endosome: 2 proteins: VPS35, MAP2K2
+endosome membrane: 2 proteins: VPS35, VPS26A
+retromer complex: 2 proteins: VPS35, VPS26A
+retromer, cargo-selective complex: 2 proteins: VPS35, VPS26A
+neuron projection: 2 proteins: VPS35, NRSN2
+neuronal cell body: 2 proteins: VPS35, NRSN2
+tubular endosome: 2 proteins: VPS35, VPS26A
+glutamatergic synapse: 2 proteins: VPS35, DLGAP4
+focal adhesion: 2 proteins: CAPN1, MAP2K2
+membrane: 2 proteins: CAPN1, MANSC1
+ficolin-1-rich granule lumen: 2 proteins: CAPN1, PGM2
+phospholipid binding: 2 proteins: ANXA9, MYOF
+calcium-dependent phospholipid binding: 2 proteins: ANXA9, ANXA4
+cell surface: 2 proteins: ANXA9, ANXA4
+synapse: 2 proteins: ANXA9, RPS6KA1
+protein serine/threonine kinase activity: 2 proteins: MAP2K2, RPS6KA1
+protein serine/threonine/tyrosine kinase activity: 2 proteins: MAP2K2, RPS6KA1
+protein serine kinase activity: 2 proteins: MAP2K2, RPS6KA1
+negative regulation of apoptotic process: 2 proteins: ANXA4, RPS6KA1
+cytoplasmic vesicle: 2 proteins: ANXA4, MYOF
+nuclear membrane: 2 proteins: ANXA4, MYOF
+cadherin binding: 2 proteins: CAPG, ZC3H15
+intracellular membrane-bounded organelle: 2 proteins: MYOF, UBA5
+GTPase activity: 2 proteins: ARL3, SAR1A
+GTP binding: 2 proteins: ARL3, SAR1A
+cilium assembly: 2 proteins: ARL3, NUDCD3

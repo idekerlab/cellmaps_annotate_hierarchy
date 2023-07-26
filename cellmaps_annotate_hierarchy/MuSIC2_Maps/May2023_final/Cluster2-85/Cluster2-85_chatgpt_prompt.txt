@@ -1,0 +1,32 @@
+Your response should be formatted as Markdown paragraphs
+Write a critical and concise analysis of this human protein system, describing your reasoning as you go and providing references to scientific papers.
+
+A critical goal of the analysis is to determine if this is a novel complex or if any proteins are novel members of a known complex
+
+Format with Title, Summary, and References sections.        
+Avoid overly general statements of how the proteins are involved in various cellular processes        
+Avoid repeating the goals of the analysis.
+
+What cellular components and complexes are involved in this system?
+What mechanisms and biological processes are performed by this system?
+Propose a name for the system to reflect the cellular location and function, and should be specific but brief. Do not compose an acronym. Place it as the title of your report
+Human Proteins: CHMP1B, NUP37, SPAST, VTA1.
+
+System features from GO terms: 
+protein binding: 4 proteins: CHMP1B, NUP37, SPAST, VTA1
+nucleoplasm: 4 proteins: CHMP1B, NUP37, SPAST, VTA1
+cytosol: 4 proteins: CHMP1B, NUP37, SPAST, VTA1
+protein transport: 3 proteins: CHMP1B, NUP37, VTA1
+extracellular exosome: 3 proteins: CHMP1B, SPAST, VTA1
+nuclear membrane reassembly: 2 proteins: CHMP1B, SPAST
+multivesicular body assembly: 2 proteins: CHMP1B, VTA1
+cell division: 2 proteins: CHMP1B, NUP37
+multivesicular body sorting pathway: 2 proteins: CHMP1B, VTA1
+membrane fission: 2 proteins: CHMP1B, SPAST
+ESCRT III complex disassembly: 2 proteins: CHMP1B, VTA1
+kinetochore: 2 proteins: CHMP1B, NUP37
+nuclear pore: 2 proteins: CHMP1B, NUP37
+multivesicular body: 2 proteins: CHMP1B, VTA1
+endosome membrane: 2 proteins: CHMP1B, VTA1
+midbody: 2 proteins: CHMP1B, SPAST
+nucleus: 2 proteins: NUP37, SPAST

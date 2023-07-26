@@ -1,0 +1,16 @@
+Title: Cytosolic Protein Interaction Network
+
+Summary:
+The Cytosolic Protein Interaction Network is a system of proteins that are physically close to each other and/or interact with each other, suggesting a possible functional relationship. The proteins involved in this system are found in various cellular components and complexes, with a focus on protein binding, protein homodimerization activity, and localization in the cytosol and cytoplasm. The system participates in various mechanisms and biological processes, such as tight junction formation, peroxisomal fatty acid beta-oxidation, detoxification of glyoxals, catabolism of tryptophan and kynurenine, and cell adhesion and cytoskeletal organization. The analysis aims to determine if this system represents a novel complex or if any proteins are novel members of a known complex.
+
+References:
+1. Turksen K, Troy TC. Claudin-6: a novel tight junction molecule is developmentally regulated in mouse embryonic epithelium. Dev Dyn. 2001;222(2):292-300. [PubMed](https://pubmed.ncbi.nlm.nih.gov/11668605/)
+2. Wanders RJ, Waterham HR. Biochemistry of mammalian peroxisomes revisited. Annu Rev Biochem. 2006;75:295-332. [PubMed](https://pubmed.ncbi.nlm.nih.gov/16756494/)
+3. Thornalley PJ. The enzymatic defence against glycation in health, disease and therapeutics: a symposium to examine the concept. Biochem Soc Trans. 2003;31(Pt 6):1341-2. [PubMed](https://pubmed.ncbi.nlm.nih.gov/14641049/)
+4. Sasaki T, Brakebusch C, Engel J, Timpl R. Mac-2 binding protein is a cell-adhesion protein of the extracellular matrix which self-assembles into ring-like structures and binds beta1 integrins, collagens and fibronectin. EMBO J. 1998;17(6):1606-13. [PubMed](https://pubmed.ncbi.nlm.nih.gov/9501085/)
+5. Wanders RJ, Komen J, Kemp S. Fatty acid omega-oxidation as a rescue pathway for fatty acid oxidation disorders in humans. FEBS J. 2011;278(2):182-94. [PubMed](https://pubmed.ncbi.nlm.nih.gov/21158971/)
+6. Han Q, Cai T, Tagle DA, Li J. Structure, expression, and function of kynurenine aminotransferases in human and rodent brains. Cell Mol Life Sci. 2010;67(3):353-68. [PubMed](https://pubmed.ncbi.nlm.nih.gov/19882230/)
+7. Wanders RJ, Waterham HR. Peroxisomal disorders: the single peroxisomal enzyme deficiencies. Biochim Biophys Acta. 2006;1763(12):1707-20. [PubMed](https://pubmed.ncbi.nlm.nih.gov/17027097/)
+8. Thornalley PJ. Protein and nucleotide damage by glyoxal and methylglyoxal in physiological systems--role in ageing and disease. Drug Metabol Drug Interact. 2008;23(1-2):125-50. [PubMed](https://pubmed.ncbi.nlm.nih.gov/18592774/)
+9. Guidetti P, Amori L, Sapko MT, Okuno E, Schwarcz R. Mitochondrial aspartate aminotransferase: a third kynurenate-producing enzyme in the mammalian brain. J Neurochem. 2007;102(1):103-11. [PubMed](https://pubmed.ncbi.nlm.nih.gov/17488284/)
+10. Sasaki T, Brakebusch C, Engel J, Timpl R. Mac-2 binding protein is a cell-adhesion protein of the extracellular matrix which self-assembles into ring-like structures and binds beta1 integrins, collagens and fibronectin. EMBO J. 1998;17(6):1606-13. [PubMed](https://pubmed.ncbi.nlm.nih.gov/9501085/)

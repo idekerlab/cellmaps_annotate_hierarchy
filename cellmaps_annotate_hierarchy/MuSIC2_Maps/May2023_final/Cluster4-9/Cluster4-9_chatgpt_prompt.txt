@@ -1,0 +1,60 @@
+Your response should be formatted as Markdown paragraphs
+Write a critical and concise analysis of this human protein system, describing your reasoning as you go and providing references to scientific papers.
+
+A critical goal of the analysis is to determine if this is a novel complex or if any proteins are novel members of a known complex
+
+Format with Title, Summary, and References sections.        
+Avoid overly general statements of how the proteins are involved in various cellular processes        
+Avoid repeating the goals of the analysis.
+
+What cellular components and complexes are involved in this system?
+What mechanisms and biological processes are performed by this system?
+Propose a name for the system to reflect the cellular location and function, and should be specific but brief. Do not compose an acronym. Place it as the title of your report
+Human Proteins: PAAF1, PSMD14, PSMA1, MIDN, ADRM1, PSMF1, PSMA4, PSMA5, PSMA6, PSMB10, PSMB7, PSMB8, PSMC1, PSMC2, PSMC3, PSMC4, PSMC5, PSMC6, PSMD12, PSMD13, PSMD3, PSMD4, PSMD5, PSMD8, TXNL1, USP14.
+
+System features from GO terms: 
+cytosol: 25 proteins: PSMD14, PSMA1, MIDN, ADRM1, PSMF1, PSMA4, PSMA5, PSMA6, PSMB10, PSMB7, PSMB8, PSMC1, PSMC2, PSMC3, PSMC4, PSMC5, PSMC6, PSMD12, PSMD13, PSMD3, PSMD4, PSMD5, PSMD8, TXNL1, USP14
+protein binding: 24 proteins: PAAF1, PSMD14, PSMA1, MIDN, ADRM1, PSMF1, PSMA4, PSMA5, PSMA6, PSMB10, PSMB7, PSMB8, PSMC1, PSMC2, PSMC3, PSMC4, PSMC5, PSMC6, PSMD12, PSMD3, PSMD4, PSMD5, PSMD8, USP14
+proteasome complex: 24 proteins: PAAF1, PSMD14, PSMA1, ADRM1, PSMA4, PSMA5, PSMA6, PSMB10, PSMB7, PSMB8, PSMC1, PSMC2, PSMC3, PSMC4, PSMC5, PSMC6, PSMD12, PSMD13, PSMD3, PSMD4, PSMD5, PSMD8, TXNL1, USP14
+nucleoplasm: 22 proteins: PSMD14, PSMA1, ADRM1, PSMF1, PSMA4, PSMA5, PSMA6, PSMB10, PSMB7, PSMB8, PSMC1, PSMC2, PSMC3, PSMC4, PSMC5, PSMC6, PSMD12, PSMD13, PSMD3, PSMD4, PSMD5, PSMD8
+proteasome-mediated ubiquitin-dependent protein catabolic process: 20 proteins: PSMD14, PSMA1, ADRM1, PSMF1, PSMA4, PSMA5, PSMA6, PSMB7, PSMC1, PSMC2, PSMC3, PSMC4, PSMC5, PSMC6, PSMD12, PSMD13, PSMD3, PSMD4, PSMD8, USP14
+nucleus: 20 proteins: PSMD14, PSMA1, MIDN, PSMA4, PSMA5, PSMA6, PSMB10, PSMB7, PSMB8, PSMC1, PSMC2, PSMC3, PSMC4, PSMC5, PSMC6, PSMD13, PSMD3, PSMD4, PSMD8, TXNL1
+proteasome accessory complex: 13 proteins: PSMD14, PSMC1, PSMC2, PSMC3, PSMC4, PSMC5, PSMC6, PSMD12, PSMD13, PSMD3, PSMD4, PSMD5, PSMD8
+cytoplasm: 10 proteins: PSMA1, MIDN, PSMA4, PSMA5, PSMA6, PSMB7, PSMC2, PSMC5, PSMD12, TXNL1
+extracellular exosome: 10 proteins: PSMA1, PSMA4, PSMA5, PSMA6, PSMB8, PSMC5, PSMC6, PSMD12, PSMD3, USP14
+membrane: 10 proteins: PSMF1, PSMC1, PSMC2, PSMC3, PSMC4, PSMC5, PSMC6, PSMD12, PSMD13, PSMD3
+ proteasomal protein catabolic process: 8 proteins: PSMD14, PSMC1, PSMC2, PSMC3, PSMC4, PSMC5, PSMC6, USP14
+extracellular region: 8 proteins: PSMD14, PSMA5, PSMB7, PSMC2, PSMC3, PSMD12, PSMD13, PSMD3
+secretory granule lumen: 8 proteins: PSMD14, PSMA5, PSMB7, PSMC2, PSMC3, PSMD12, PSMD13, PSMD3
+ficolin-1-rich granule lumen: 8 proteins: PSMD14, PSMA5, PSMB7, PSMC2, PSMC3, PSMD12, PSMD13, PSMD3
+proteasome core complex: 8 proteins: PSMA1, PSMF1, PSMA4, PSMA5, PSMA6, PSMB10, PSMB7, PSMB8
+proteasome regulatory particle, base subcomplex: 7 proteins: PSMC1, PSMC2, PSMC3, PSMC4, PSMC5, PSMC6, PSMD4
+proteasome regulatory particle, lid subcomplex: 6 proteins: PSMD14, ADRM1, PSMD12, PSMD13, PSMD3, PSMD8
+ATP binding: 6 proteins: PSMC1, PSMC2, PSMC3, PSMC4, PSMC5, PSMC6
+ATP hydrolysis activity: 6 proteins: PSMC1, PSMC2, PSMC3, PSMC4, PSMC5, PSMC6
+proteasome-activating activity: 6 proteins: PSMC1, PSMC2, PSMC3, PSMC4, PSMC5, PSMC6
+ubiquitin-dependent protein catabolic process: 5 proteins: PSMD14, PSMF1, PSMC2, PSMD13, PSMD3
+proteasome binding: 4 proteins: PSMD14, ADRM1, PSMF1, USP14
+RNA binding: 4 proteins: PSMA1, PSMA6, PSMC1, PSMD4
+proteasome core complex, alpha-subunit complex: 4 proteins: PSMA1, PSMA4, PSMA5, PSMA6
+P-body: 4 proteins: PSMA4, PSMA6, PSMC2, PSMC3
+endopeptidase activity: 4 proteins: PSMA6, PSMB10, PSMB7, PSMB8
+cytosolic proteasome complex: 3 proteins: PSMD14, PSMC5, PSMC6
+proteolysis involved in protein catabolic process: 3 proteins: PSMA6, PSMB10, PSMB8
+threonine-type endopeptidase activity: 3 proteins: PSMB10, PSMB7, PSMB8
+proteasome core complex, beta-subunit complex: 3 proteins: PSMB10, PSMB7, PSMB8
+identical protein binding: 3 proteins: PSMC3, PSMC6, PSMD4
+proteasome regulatory particle: 3 proteins: PSMD12, PSMD13, PSMD8
+endopeptidase activator activity: 2 proteins: PSMD14, ADRM1
+K63-linked deubiquitinase activity: 2 proteins: PSMD14, USP14
+protein deubiquitination: 2 proteins: PSMD14, USP14
+polysome: 2 proteins: PSMA1, PSMA6
+plasma membrane: 2 proteins: ADRM1, USP14
+endopeptidase inhibitor activity: 2 proteins: PSMF1, USP14
+ NF-kappaB transcription factor activity: 2 proteins: PSMA6, USP14
+spermatoproteasome complex: 2 proteins: PSMB10, PSMB8
+TBP-class protein binding: 2 proteins: PSMC1, PSMC5
+ transcription by RNA polymerase II: 2 proteins: PSMC3, PSMC5
+ inclusion body assembly: 2 proteins: PSMC5, PSMC6
+inclusion body: 2 proteins: PSMC5, PSMC6
+cytoplasmic vesicle: 2 proteins: PSMC5, USP14

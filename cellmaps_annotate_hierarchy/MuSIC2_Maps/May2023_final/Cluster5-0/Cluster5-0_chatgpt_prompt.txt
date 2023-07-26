@@ -1,0 +1,139 @@
+Your response should be formatted as Markdown paragraphs
+Write a critical and concise analysis of this human protein system, describing your reasoning as you go and providing references to scientific papers.
+
+A critical goal of the analysis is to determine if this is a novel complex or if any proteins are novel members of a known complex
+
+Format with Title, Summary, and References sections.        
+Avoid overly general statements of how the proteins are involved in various cellular processes        
+Avoid repeating the goals of the analysis.
+
+What cellular components and complexes are involved in this system?
+What mechanisms and biological processes are performed by this system?
+Propose a name for the system to reflect the cellular location and function, and should be specific but brief. Do not compose an acronym. Place it as the title of your report
+Human Proteins: ARID4A, BCL11A, BPTF, BRMS1L, CDK2AP1, EED, EZH1, EZH2, GATAD1, GATAD2A, GATAD2B, HAT1, HDAC1, HDAC2, ING1, ING2, KDM5A, LIN37, LIN52, LIN9, MBD2, MBD3, MIER1, MIER3, MTA1, MTA2, MTA3, MTF2, PHF12, PWWP2A, RBBP4, RBBP7, SAP130, SAP30, SAP30L, SFMBT1, SHPRH, SIN3A, TGIF2LX, TSHZ3, ZBTB2, ZFPM1, ZNF219, ZNF512B, ZNF521, ZNF827.
+
+System features from GO terms: 
+nucleus: 41 proteins: ARID4A, BCL11A, BPTF, BRMS1L, CDK2AP1, EED, EZH1, EZH2, GATAD1, GATAD2A, GATAD2B, HAT1, HDAC1, HDAC2, ING1, ING2, KDM5A, MBD2, MBD3, MIER1, MIER3, MTA1, MTA2, MTA3, MTF2, PHF12, PWWP2A, RBBP4, RBBP7, SAP130, SAP30, SAP30L, SFMBT1, SIN3A, TGIF2LX, TSHZ3, ZBTB2, ZFPM1, ZNF219, ZNF521, ZNF827
+nucleoplasm: 39 proteins: ARID4A, BCL11A, BPTF, CDK2AP1, EED, EZH1, EZH2, GATAD1, GATAD2A, GATAD2B, HAT1, HDAC1, HDAC2, ING2, KDM5A, LIN37, LIN52, LIN9, MBD2, MBD3, MIER1, MIER3, MTA1, MTA2, MTA3, MTF2, PHF12, RBBP4, RBBP7, SAP30, SAP30L, SFMBT1, SHPRH, SIN3A, TSHZ3, ZFPM1, ZNF219, ZNF512B, ZNF521
+protein binding: 39 proteins: BPTF, BRMS1L, CDK2AP1, EED, EZH1, EZH2, GATAD2A, GATAD2B, HAT1, HDAC1, HDAC2, ING1, ING2, KDM5A, LIN37, LIN52, LIN9, MBD2, MBD3, MIER1, MTA1, MTA2, MTA3, PHF12, PWWP2A, RBBP4, RBBP7, SAP30, SAP30L, SFMBT1, SHPRH, SIN3A, TSHZ3, ZBTB2, ZFPM1, ZNF219, ZNF512B, ZNF521, ZNF827
+negative regulation of transcription by RNA polymerase II: 34 proteins: ARID4A, BCL11A, BPTF, BRMS1L, EED, EZH1, EZH2, GATAD2A, GATAD2B, HDAC1, HDAC2, ING1, ING2, KDM5A, LIN37, MBD2, MBD3, MIER1, MIER3, MTA1, MTA2, MTA3, PHF12, RBBP4, RBBP7, SAP130, SAP30, SAP30L, SIN3A, TGIF2LX, ZBTB2, ZFPM1, ZNF219, ZNF512B
+ DNA-templated transcription: 23 proteins: BPTF, EZH2, GATAD1, GATAD2A, GATAD2B, HDAC1, HDAC2, ING1, ING2, KDM5A, LIN52, MBD2, MBD3, MIER1, MTA1, MTA2, MTA3, MTF2, RBBP4, RBBP7, SAP30, SAP30L, ZNF219
+negative regulation of DNA-templated transcription: 20 proteins: ARID4A, EED, EZH2, GATAD2A, GATAD2B, HDAC1, HDAC2, MBD2, MBD3, MTA1, MTA2, MTA3, PHF12, RBBP4, RBBP7, SFMBT1, SIN3A, TSHZ3, ZNF219, ZNF827
+metal ion binding: 19 proteins: BCL11A, BPTF, GATAD2A, ING1, ING2, MTA1, MTA2, MTA3, MTF2, PHF12, SAP30, SHPRH, TSHZ3, ZBTB2, ZFPM1, ZNF219, ZNF512B, ZNF521, ZNF827
+chromatin remodeling: 19 proteins: BPTF, EED, EZH1, GATAD1, GATAD2A, GATAD2B, HDAC1, HDAC2, KDM5A, MBD2, MBD3, MIER1, MTA1, MTA2, MTA3, PWWP2A, RBBP4, RBBP7, ZNF827
+chromatin: 16 proteins: BPTF, CDK2AP1, EZH2, GATAD2B, HAT1, HDAC1, HDAC2, MBD2, MBD3, MTA2, RBBP4, SIN3A, TGIF2LX, TSHZ3, ZFPM1, ZNF827
+DNA binding: 15 proteins: ARID4A, EZH1, ING2, KDM5A, LIN9, MBD3, MTF2, SAP30, SAP30L, SHPRH, SIN3A, TSHZ3, ZFPM1, ZNF219, ZNF827
+ transcription by RNA polymerase II: 14 proteins: ARID4A, BCL11A, BPTF, CDK2AP1, EZH1, HDAC1, HDAC2, LIN9, MTA2, SIN3A, TSHZ3, ZFPM1, ZNF219, ZNF521
+Sin3 complex: 13 proteins: ARID4A, BRMS1L, HDAC1, HDAC2, ING1, ING2, PHF12, RBBP4, RBBP7, SAP130, SAP30, SAP30L, SIN3A
+histone deacetylation: 13 proteins: BRMS1L, GATAD2A, GATAD2B, HDAC1, HDAC2, MBD2, MBD3, MIER1, MTA1, MTA2, MTA3, RBBP4, RBBP7
+transcription corepressor activity: 13 proteins: EZH1, EZH2, HDAC1, MIER1, MIER3, MTA1, MTA2, MTA3, PHF12, SAP30, SFMBT1, SIN3A, ZFPM1
+negative regulation of cell migration: 12 proteins: ARID4A, BRMS1L, HDAC1, HDAC2, ING1, ING2, RBBP4, RBBP7, SAP130, SAP30, SAP30L, SIN3A
+negative regulation of transforming growth factor beta receptor signaling pathway: 12 proteins: ARID4A, BRMS1L, HDAC1, HDAC2, ING1, ING2, RBBP4, RBBP7, SAP130, SAP30, SAP30L, SIN3A
+negative regulation of stem cell population maintenance: 12 proteins: ARID4A, BRMS1L, HDAC1, HDAC2, ING1, ING2, RBBP4, RBBP7, SAP130, SAP30, SAP30L, SIN3A
+ stem cell population maintenance: 12 proteins: ARID4A, BRMS1L, HDAC1, HDAC2, ING1, ING2, RBBP4, RBBP7, SAP130, SAP30, SAP30L, SIN3A
+NuRD complex: 12 proteins: CDK2AP1, GATAD2A, GATAD2B, HDAC1, HDAC2, MBD2, MBD3, MTA1, MTA2, MTA3, RBBP4, RBBP7
+RNA polymerase II cis-regulatory region sequence-specific DNA binding: 10 proteins: BCL11A, BPTF, EZH2, HDAC1, MTA1, RBBP4, TGIF2LX, ZBTB2, ZNF219, ZNF521
+cytoplasm: 10 proteins: BPTF, CDK2AP1, EZH2, HDAC1, HDAC2, MBD3, MIER1, MTA1, MTA3, MTF2
+chromatin binding: 10 proteins: EZH1, EZH2, HDAC2, ING2, MTA1, MTA3, MTF2, PWWP2A, SIN3A, TSHZ3
+ cell fate specification: 10 proteins: GATAD2A, GATAD2B, HDAC1, HDAC2, MBD3, MTA1, MTA2, MTA3, RBBP4, RBBP7
+ stem cell differentiation: 10 proteins: GATAD2A, GATAD2B, HDAC1, HDAC2, MBD3, MTA1, MTA2, MTA3, RBBP4, RBBP7
+protein-containing complex: 10 proteins: GATAD2B, HAT1, HDAC1, HDAC2, MBD2, MBD3, MIER1, MIER3, MTA2, RBBP4
+histone deacetylase binding: 9 proteins: BRMS1L, HDAC1, HDAC2, MIER1, MIER3, MTA1, MTA2, MTA3, RBBP4
+chromosome, telomeric region: 9 proteins: EZH1, EZH2, GATAD2B, HAT1, HDAC2, MTA2, RBBP4, RBBP7, ZNF827
+transcription repressor complex: 8 proteins: ARID4A, HDAC1, LIN37, LIN9, MIER1, PHF12, SIN3A, ZFPM1
+cytosol: 8 proteins: BCL11A, CDK2AP1, EED, HDAC1, MBD2, MTA1, RBBP4, RBBP7
+histone binding: 8 proteins: EZH1, HAT1, KDM5A, PWWP2A, RBBP4, RBBP7, SAP30L, SFMBT1
+histone deacetylase complex: 8 proteins: HDAC1, HDAC2, MTA2, RBBP4, RBBP7, SAP30, SAP30L, SIN3A
+sequence-specific DNA binding: 7 proteins: BPTF, GATAD1, GATAD2A, GATAD2B, HDAC2, MTA2, MTA3
+chromatin organization: 7 proteins: EZH2, GATAD1, HDAC1, ING2, MTA2, MTF2, SFMBT1
+nucleosomal DNA binding: 7 proteins: GATAD2B, HDAC1, HDAC2, MBD2, MBD3, MTA2, RBBP4
+methylated histone binding: 6 proteins: BPTF, ING1, ING2, KDM5A, MTF2, PWWP2A
+ESC/E(Z) complex: 6 proteins: EED, EZH1, EZH2, HDAC2, RBBP4, RBBP7
+RNA polymerase II-specific DNA-binding transcription factor binding: 6 proteins: HDAC1, HDAC2, MTA1, MTA2, SIN3A, ZFPM1
+DNA-binding transcription repressor activity, RNA polymerase II-specific: 5 proteins: BCL11A, TGIF2LX, ZBTB2, ZNF219, ZNF512B
+transcription corepressor binding: 5 proteins: EED, EZH2, HDAC1, MTF2, PHF12
+histone deacetylase activity: 5 proteins: HDAC1, HDAC2, MIER1, MIER3, MTA2
+transcription coactivator activity: 5 proteins: KDM5A, MTA1, MTA2, MTA3, SIN3A
+DNA methylation: 4 proteins: ARID4A, EZH2, GATAD2A, MTA2
+brain development: 4 proteins: BPTF, MBD3, RBBP4, RBBP7
+cell cycle: 4 proteins: CDK2AP1, ING1, LIN9, RBBP4
+heterochromatin: 4 proteins: EZH1, HDAC1, MBD2, MBD3
+ cell population proliferation: 4 proteins: EZH2, HDAC1, HDAC2, MBD2
+zinc ion binding: 4 proteins: GATAD1, GATAD2B, KDM5A, SAP30L
+circadian regulation of gene expression: 4 proteins: HDAC1, HDAC2, KDM5A, MTA1
+DNA-templated transcription: 4 proteins: LIN9, MTA2, SAP30, SAP30L
+spermatogenesis: 3 proteins: ARID4A, ING2, SFMBT1
+plasma membrane: 3 proteins: ARID4A, ING2, TSHZ3
+ gene expression: 3 proteins: BCL11A, HDAC1, ZNF827
+NURF complex: 3 proteins: BPTF, RBBP4, RBBP7
+ATPase complex: 3 proteins: BPTF, RBBP4, RBBP7
+Sin3-type complex: 3 proteins: BRMS1L, PHF12, SAP130
+hippocampus development: 3 proteins: EZH1, EZH2, HDAC1
+subtelomeric heterochromatin formation: 3 proteins: EZH1, EZH2, HAT1
+promoter-specific chromatin binding: 3 proteins: EZH2, HDAC1, HDAC2
+response to estradiol: 3 proteins: EZH2, MBD2, MBD3
+nuclear speck: 3 proteins: GATAD2A, GATAD2B, SAP130
+nucleosome assembly: 3 proteins: HAT1, RBBP4, SHPRH
+DNA methylation-dependent heterochromatin formation: 3 proteins: HDAC1, MBD2, MBD3
+negative regulation of apoptotic process: 3 proteins: HDAC1, HDAC2, SIN3A
+RNA binding: 3 proteins: HDAC2, RBBP7, SIN3A
+nucleolus: 3 proteins: KDM5A, SAP30L, SIN3A
+heart development: 3 proteins: MBD2, MBD3, ZFPM1
+NuRD complex binding: 3 proteins: MTA3, PWWP2A, ZNF827
+DNA replication: 3 proteins: RBBP4, RBBP7, SIN3A
+DNA-binding transcription factor activity, RNA polymerase II-specific: 3 proteins: TGIF2LX, TSHZ3, ZNF219
+transcription cis-regulatory region binding: 2 proteins: ARID4A, KDM5A
+DNA-binding transcription factor activity: 2 proteins: BCL11A, ZNF219
+nuclear matrix: 2 proteins: BCL11A, HAT1
+ATP-dependent activity, acting on DNA: 2 proteins: BPTF, RBBP4
+endoderm development: 2 proteins: BPTF, HDAC1
+nucleosome binding: 2 proteins: EED, SAP30L
+histone methyltransferase activity: 2 proteins: EED, EZH2
+identical protein binding: 2 proteins: EED, ZBTB2
+histone H3K27 methyltransferase activity: 2 proteins: EZH1, EZH2
+histone H3K27 trimethyltransferase activity: 2 proteins: EZH1, EZH2
+heterochromatin formation: 2 proteins: EZH1, EZH2
+histone H3-K27 trimethylation: 2 proteins: EZH1, EZH2
+RNA polymerase II core promoter sequence-specific DNA binding: 2 proteins: EZH2, HDAC1
+chromatin DNA binding: 2 proteins: EZH2, KDM5A
+ epithelial to mesenchymal transition: 2 proteins: EZH2, HDAC2
+negative regulation of DNA-binding transcription factor activity: 2 proteins: EZH2, HDAC2
+rhythmic process: 2 proteins: EZH2, SIN3A
+stem cell differentiation: 2 proteins: EZH2, MTF2
+cellular response to hydrogen peroxide: 2 proteins: EZH2, HDAC2
+facultative heterochromatin formation: 2 proteins: EZH2, KDM5A
+histone acetylation: 2 proteins: HAT1, MBD3
+enzyme binding: 2 proteins: HDAC1, HDAC2
+protein lysine deacetylase activity: 2 proteins: HDAC1, HDAC2
+NF-kappaB binding: 2 proteins: HDAC1, HDAC2
+histone decrotonylase activity: 2 proteins: HDAC1, HDAC2
+epidermal cell differentiation: 2 proteins: HDAC1, HDAC2
+odontogenesis of dentin-containing tooth: 2 proteins: HDAC1, HDAC2
+embryonic digit morphogenesis: 2 proteins: HDAC1, HDAC2
+ oligodendrocyte differentiation: 2 proteins: HDAC1, HDAC2
+hair follicle placode formation: 2 proteins: HDAC1, HDAC2
+eyelid development in camera-type eye: 2 proteins: HDAC1, HDAC2
+fungiform papilla formation: 2 proteins: HDAC1, HDAC2
+histone H3 deacetylation: 2 proteins: HDAC1, HDAC2
+ signaling receptor activity: 2 proteins: HDAC1, HDAC2
+cellular response to dopamine: 2 proteins: HDAC2, SIN3A
+negative regulation of cell population proliferation: 2 proteins: ING1, RBBP4
+negative regulation of cell growth: 2 proteins: ING1, RBBP7
+phosphatidylinositol binding: 2 proteins: ING2, PHF12
+protein-containing complex binding: 2 proteins: ING2, SIN3A
+DNA damage response: 2 proteins: ING2, SHPRH
+signal transduction: 2 proteins: ING2, MTA1
+methyl-CpG binding: 2 proteins: MBD2, MBD3
+protein domain specific binding: 2 proteins: MBD2, ZNF521
+response to nutrient levels: 2 proteins: MBD2, MBD3
+ DNA methylation: 2 proteins: MBD2, MBD3
+embryonic organ development: 2 proteins: MBD2, MBD3
+in utero embryonic development: 2 proteins: MBD3, SIN3A
+epigenetic regulation of gene expression: 2 proteins: MTA1, MTF2
+intracellular membrane-bounded organelle: 2 proteins: MTA1, MTA3
+transcription regulator complex: 2 proteins: MTA2, ZFPM1
+membrane: 2 proteins: MTA2, ZNF219
+ G2/M transition of mitotic cell cycle: 2 proteins: MTA3, SIN3A
+RNA polymerase II transcription regulatory region sequence-specific DNA binding: 2 proteins: MTF2, ZNF512B
+transcription coregulator activity: 2 proteins: SAP30, SAP30L
+sequence-specific double-stranded DNA binding: 2 proteins: TGIF2LX, ZBTB2

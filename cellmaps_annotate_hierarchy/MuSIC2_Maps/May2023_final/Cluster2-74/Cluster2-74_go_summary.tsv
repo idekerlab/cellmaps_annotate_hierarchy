@@ -1,0 +1,59 @@
+Feature	Number of Genes	Genes
+protein binding	4	CCNT1, HEXIM1, MEPCE, CCNDBP1
+nucleus	4	CCNT1, HEXIM1, MEPCE, CCNDBP1
+7SK snRNA binding	3	CCNT1, HEXIM1, MEPCE
+nucleoplasm	3	CCNT1, HEXIM1, CCNDBP1
+cell cycle	2	CCNT1, CCNDBP1
+snRNA binding	2	HEXIM1, MEPCE
+negative regulation of transcription by RNA polymerase II	2	HEXIM1, MEPCE
+cytoplasm	2	HEXIM1, CCNDBP1
+7SK snRNP	2	HEXIM1, MEPCE
+transcription cis-regulatory region binding	1	CCNT1
+DNA binding	1	CCNT1
+chromatin binding	1	CCNT1
+protein kinase binding	1	CCNT1
+cyclin-dependent protein serine/threonine kinase activator activity	1	CCNT1
+RNA polymerase binding	1	CCNT1
+DNA-binding transcription factor binding	1	CCNT1
+molecular condensate scaffold activity	1	CCNT1
+ cyclin-dependent protein serine/threonine kinase activity	1	CCNT1
+ transcription by RNA polymerase II	1	CCNT1
+transcription by RNA polymerase II	1	CCNT1
+protein phosphorylation	1	CCNT1
+response to xenobiotic stimulus	1	CCNT1
+ DNA-templated transcription, elongation	1	CCNT1
+ transcription elongation by RNA polymerase II	1	CCNT1
+positive regulation by host of viral transcription	1	CCNT1
+cell division	1	CCNT1
+nucleolus	1	CCNT1
+cytosol	1	CCNT1
+cyclin/CDK positive transcription elongation factor complex	1	CCNT1
+P-TEFb complex	1	CCNT1
+protein kinase inhibitor activity	1	HEXIM1
+cyclin-dependent protein serine/threonine kinase inhibitor activity	1	HEXIM1
+identical protein binding	1	HEXIM1
+P-TEFb complex binding	1	HEXIM1
+activation of innate immune response	1	HEXIM1
+heart development	1	HEXIM1
+negative regulation of viral transcription	1	HEXIM1
+negative regulation of transcription elongation by RNA polymerase II	1	HEXIM1
+innate immune response	1	HEXIM1
+negative regulation of cyclin-dependent protein serine/threonine kinase activity	1	HEXIM1
+negative regulation of DNA-templated transcription	1	HEXIM1
+ signal transduction by p53 class mediator	1	HEXIM1
+intracellular membrane-bounded organelle	1	HEXIM1
+RNA binding	1	MEPCE
+O-methyltransferase activity	1	MEPCE
+RNA methyltransferase activity	1	MEPCE
+S-adenosylmethionine-dependent methyltransferase activity	1	MEPCE
+RNA 5'-methyltransferase activity	1	MEPCE
+RNA methylation	1	MEPCE
+snRNA metabolic process	1	MEPCE
+negative regulation of chromatin binding	1	MEPCE
+snRNA modification	1	MEPCE
+ G1/S transition of mitotic cell cycle	1	MEPCE
+ protein localization to Cajal body	1	MEPCE
+ snRNA transcription by RNA polymerase II	1	MEPCE
+ribonucleoprotein complex	1	MEPCE
+ cell cycle	1	CCNDBP1
+nuclear body	1	CCNDBP1

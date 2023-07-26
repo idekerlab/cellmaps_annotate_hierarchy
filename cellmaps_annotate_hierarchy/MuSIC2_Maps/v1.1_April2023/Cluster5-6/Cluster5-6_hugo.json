@@ -1,0 +1,2884 @@
+{
+    "ACTL6A": {
+        "hgnc_id": "HGNC:24124",
+        "symbol": "ACTL6A",
+        "name": "actin like 6A",
+        "status": "Approved",
+        "locus_type": "gene with protein product",
+        "alias_symbol": [
+            "Actl6",
+            "BAF53A",
+            "Arp4",
+            "Baf53a",
+            "INO80K",
+            "SMARCN1"
+        ],
+        "alias_name": [
+            "BAF complex 53 kDa subunit",
+            "BRG1-associated factor 53A",
+            "actin-related protein 4",
+            "INO80 complex subunit K"
+        ],
+        "location": "3q26.33",
+        "date_approved_reserved": "2004-07-12T00:00:00Z",
+        "date_modified": "2023-01-20T00:00:00Z",
+        "date_name_changed": "2015-11-17T00:00:00Z",
+        "ena": [
+            "AK098691"
+        ],
+        "entrez_id": "86",
+        "mgd_id": [
+            "MGI:1861453"
+        ],
+        "pubmed_id": [
+            9845365,
+            10380635
+        ],
+        "refseq_accession": [
+            "NM_004301"
+        ],
+        "gene_group": [
+            "INO80 complex ",
+            "SRCAP complex",
+            "Actin related proteins",
+            "BAF complex",
+            "PBAF complex",
+            "GBAF complex",
+            "Tip60/Nua4 histone acetyltransferase complex subunits"
+        ],
+        "vega_id": "OTTHUMG00000157782",
+        "ensembl_gene_id": "ENSG00000136518",
+        "ccds_id": [
+            "CCDS3231",
+            "CCDS43174"
+        ],
+        "locus_group": "protein-coding gene",
+        "omim_id": [
+            "604958"
+        ],
+        "uniprot_ids": [
+            "O96019"
+        ],
+        "ucsc_id": "uc003fjw.4",
+        "rgd_id": [
+            "RGD:1307747"
+        ],
+        "gene_group_id": [
+            595,
+            1329,
+            1436,
+            1604,
+            1605,
+            1606,
+            1634
+        ],
+        "location_sortable": "03q26.33",
+        "agr": "HGNC:24124",
+        "symbol_report_tag": [
+            "Stable symbol"
+        ],
+        "mane_select": [
+            "ENST00000429709.7",
+            "NM_004301.5"
+        ],
+        "gencc": "HGNC:24124",
+        "uuid": "8a140c30-4b8f-43b5-a042-263e9230c6ca",
+        "_version_": 1764660390035193856
+    },
+    "ARID1A": {
+        "hgnc_id": "HGNC:11110",
+        "symbol": "ARID1A",
+        "name": "AT-rich interaction domain 1A",
+        "status": "Approved",
+        "locus_type": "gene with protein product",
+        "prev_symbol": [
+            "C1orf4",
+            "SMARCF1"
+        ],
+        "prev_name": [
+            "SWI/SNF related, matrix associated, actin dependent regulator of chromatin, subfamily f, member 1",
+            "AT rich interactive domain 1A (SWI- like)",
+            "AT rich interactive domain 1A (SWI-like)"
+        ],
+        "alias_symbol": [
+            "B120",
+            "P270",
+            "C10rf4",
+            "BAF250",
+            "BAF250a"
+        ],
+        "location": "1p36.11",
+        "date_approved_reserved": "2000-06-26T00:00:00Z",
+        "date_modified": "2023-03-15T00:00:00Z",
+        "date_name_changed": "2015-11-17T00:00:00Z",
+        "ena": [
+            "AB001895"
+        ],
+        "entrez_id": "8289",
+        "mgd_id": [
+            "MGI:1935147"
+        ],
+        "cosmic": "ARID1A",
+        "orphanet": 293103,
+        "pubmed_id": [
+            9630625,
+            9434167
+        ],
+        "refseq_accession": [
+            "NM_139135"
+        ],
+        "gene_group": [
+            "AT-rich interaction domain containing",
+            "Armadillo like helical domain containing",
+            "BAF complex"
+        ],
+        "date_symbol_changed": "2004-01-30T00:00:00Z",
+        "vega_id": "OTTHUMG00000004004",
+        "lsdb": [
+            "LRG_875|http://ftp.ebi.ac.uk/pub/databases/lrgex/LRG_875.xml"
+        ],
+        "ensembl_gene_id": "ENSG00000117713",
+        "ccds_id": [
+            "CCDS285",
+            "CCDS44091"
+        ],
+        "locus_group": "protein-coding gene",
+        "omim_id": [
+            "603024"
+        ],
+        "uniprot_ids": [
+            "O14497"
+        ],
+        "ucsc_id": "uc001bmv.2",
+        "rgd_id": [
+            "RGD:1310500"
+        ],
+        "gene_group_id": [
+            418,
+            1492,
+            1604
+        ],
+        "location_sortable": "01p36.11",
+        "agr": "HGNC:11110",
+        "symbol_report_tag": [
+            "Stable symbol"
+        ],
+        "mane_select": [
+            "ENST00000324856.13",
+            "NM_006015.6"
+        ],
+        "gencc": "HGNC:11110",
+        "uuid": "164cb7b6-083f-47d4-afa9-685e72843ad7",
+        "_version_": 1764660390687408128
+    },
+    "ARID1B": {
+        "hgnc_id": "HGNC:18040",
+        "symbol": "ARID1B",
+        "name": "AT-rich interaction domain 1B",
+        "status": "Approved",
+        "locus_type": "gene with protein product",
+        "prev_name": [
+            "AT rich interactive domain 1B (SWI1-like)"
+        ],
+        "alias_symbol": [
+            "KIAA1235",
+            "ELD/OSA1",
+            "p250R",
+            "BAF250b",
+            "DAN15",
+            "6A3-5",
+            "SMARCF2"
+        ],
+        "location": "6q25.3",
+        "date_approved_reserved": "2004-01-28T00:00:00Z",
+        "date_modified": "2023-01-20T00:00:00Z",
+        "date_name_changed": "2015-11-17T00:00:00Z",
+        "ena": [
+            "AF521671"
+        ],
+        "entrez_id": "57492",
+        "mgd_id": [
+            "MGI:1926129"
+        ],
+        "cosmic": "ARID1B",
+        "orphanet": 293095,
+        "refseq_accession": [
+            "NM_020732"
+        ],
+        "gene_group": [
+            "AT-rich interaction domain containing",
+            "Armadillo like helical domain containing",
+            "BAF complex"
+        ],
+        "vega_id": "OTTHUMG00000015890",
+        "ensembl_gene_id": "ENSG00000049618",
+        "ccds_id": [
+            "CCDS55072",
+            "CCDS87460",
+            "CCDS87459"
+        ],
+        "locus_group": "protein-coding gene",
+        "omim_id": [
+            "614556"
+        ],
+        "uniprot_ids": [
+            "Q8NFD5"
+        ],
+        "ucsc_id": "uc003qqp.4",
+        "rgd_id": [
+            "RGD:708504"
+        ],
+        "gene_group_id": [
+            418,
+            1492,
+            1604
+        ],
+        "location_sortable": "06q25.3",
+        "agr": "HGNC:18040",
+        "symbol_report_tag": [
+            "Stable symbol"
+        ],
+        "mane_select": [
+            "ENST00000636930.2",
+            "NM_001374828.1"
+        ],
+        "gencc": "HGNC:18040",
+        "uuid": "0c488f1b-a506-45c6-8bbc-b28265a68f6f",
+        "_version_": 1764660390687408129
+    },
+    "ARID2": {
+        "hgnc_id": "HGNC:18037",
+        "symbol": "ARID2",
+        "name": "AT-rich interaction domain 2",
+        "status": "Approved",
+        "locus_type": "gene with protein product",
+        "prev_name": [
+            "AT rich interactive domain 2 (ARID, RFX-like)"
+        ],
+        "alias_symbol": [
+            "KIAA1557",
+            "DKFZp686G052",
+            "FLJ30619",
+            "BAF200",
+            "SMARCF3"
+        ],
+        "location": "12q12",
+        "date_approved_reserved": "2004-01-28T00:00:00Z",
+        "date_modified": "2023-01-20T00:00:00Z",
+        "date_name_changed": "2015-11-17T00:00:00Z",
+        "entrez_id": "196528",
+        "mgd_id": [
+            "MGI:1924294"
+        ],
+        "cosmic": "ARID2",
+        "orphanet": 469962,
+        "refseq_accession": [
+            "NM_152641"
+        ],
+        "gene_group": [
+            "AT-rich interaction domain containing",
+            "Armadillo like helical domain containing",
+            "PBAF complex"
+        ],
+        "vega_id": "OTTHUMG00000150487",
+        "ensembl_gene_id": "ENSG00000189079",
+        "ccds_id": [
+            "CCDS31783"
+        ],
+        "locus_group": "protein-coding gene",
+        "omim_id": [
+            "609539"
+        ],
+        "uniprot_ids": [
+            "Q68CP9"
+        ],
+        "ucsc_id": "uc001ros.2",
+        "rgd_id": [
+            "RGD:1311105"
+        ],
+        "gene_group_id": [
+            418,
+            1492,
+            1605
+        ],
+        "location_sortable": "12q12",
+        "agr": "HGNC:18037",
+        "symbol_report_tag": [
+            "Stable symbol"
+        ],
+        "mane_select": [
+            "ENST00000334344.11",
+            "NM_152641.4"
+        ],
+        "gencc": "HGNC:18037",
+        "uuid": "766f3ce3-b8a7-403a-8b05-7c821c30f45d",
+        "_version_": 1764660390688456704
+    },
+    "BCL7A": {
+        "hgnc_id": "HGNC:1004",
+        "symbol": "BCL7A",
+        "name": "BAF chromatin remodeling complex subunit BCL7A",
+        "status": "Approved",
+        "locus_type": "gene with protein product",
+        "prev_symbol": [
+            "BCL7"
+        ],
+        "prev_name": [
+            "B-cell CLL/lymphoma 7A",
+            "BCL tumor suppressor 7A",
+            "BCL7A, BAF complex component"
+        ],
+        "alias_symbol": [
+            "SMARCJ1"
+        ],
+        "location": "12q24.31",
+        "date_approved_reserved": "1999-03-19T00:00:00Z",
+        "date_modified": "2023-01-20T00:00:00Z",
+        "date_name_changed": "2019-01-25T00:00:00Z",
+        "ena": [
+            "X89984"
+        ],
+        "entrez_id": "605",
+        "mgd_id": [
+            "MGI:1924295"
+        ],
+        "cosmic": "BCL7A",
+        "pubmed_id": [
+            8605326,
+            9931421,
+            23644491
+        ],
+        "refseq_accession": [
+            "NM_001024808"
+        ],
+        "gene_group": [
+            "BAF complex"
+        ],
+        "vega_id": "OTTHUMG00000168951",
+        "ensembl_gene_id": "ENSG00000110987",
+        "ccds_id": [
+            "CCDS9226",
+            "CCDS53841"
+        ],
+        "locus_group": "protein-coding gene",
+        "omim_id": [
+            "601406"
+        ],
+        "uniprot_ids": [
+            "Q4VC05"
+        ],
+        "ucsc_id": "uc001ubp.4",
+        "rgd_id": [
+            "RGD:1585128"
+        ],
+        "gene_group_id": [
+            1604
+        ],
+        "location_sortable": "12q24.31",
+        "agr": "HGNC:1004",
+        "mane_select": [
+            "ENST00000261822.5",
+            "NM_001024808.3"
+        ],
+        "uuid": "fe6c73af-10db-47c7-8024-47f59e00a66e",
+        "_version_": 1764660391121518592
+    },
+    "BCL7B": {
+        "hgnc_id": "HGNC:1005",
+        "symbol": "BCL7B",
+        "name": "BAF chromatin remodeling complex subunit BCL7B",
+        "status": "Approved",
+        "locus_type": "gene with protein product",
+        "prev_name": [
+            "B-cell CLL/lymphoma 7B",
+            "BCL tumor suppressor 7B",
+            "BCL7B, BAF complex component"
+        ],
+        "alias_symbol": [
+            "SMARCJ2"
+        ],
+        "location": "7q11.23",
+        "date_approved_reserved": "1999-03-19T00:00:00Z",
+        "date_modified": "2023-01-20T00:00:00Z",
+        "date_name_changed": "2019-01-25T00:00:00Z",
+        "ena": [
+            "X89985"
+        ],
+        "entrez_id": "9275",
+        "mgd_id": [
+            "MGI:1332238"
+        ],
+        "pubmed_id": [
+            8605326,
+            9806765,
+            23644491
+        ],
+        "refseq_accession": [
+            "NM_001707"
+        ],
+        "gene_group": [
+            "BAF complex"
+        ],
+        "vega_id": "OTTHUMG00000023412",
+        "ensembl_gene_id": "ENSG00000106635",
+        "ccds_id": [
+            "CCDS5550",
+            "CCDS75613",
+            "CCDS56489"
+        ],
+        "locus_group": "protein-coding gene",
+        "omim_id": [
+            "605846"
+        ],
+        "uniprot_ids": [
+            "Q9BQE9"
+        ],
+        "ucsc_id": "uc003tyf.3",
+        "rgd_id": [
+            "RGD:1597090"
+        ],
+        "gene_group_id": [
+            1604
+        ],
+        "location_sortable": "07q11.23",
+        "agr": "HGNC:1005",
+        "mane_select": [
+            "ENST00000223368.7",
+            "NM_001707.4"
+        ],
+        "uuid": "9aa1d12a-8afb-4e7c-a443-f836c2e6a853",
+        "_version_": 1764660391121518593
+    },
+    "BCL7C": {
+        "hgnc_id": "HGNC:1006",
+        "symbol": "BCL7C",
+        "name": "BAF chromatin remodeling complex subunit BCL7C",
+        "status": "Approved",
+        "locus_type": "gene with protein product",
+        "prev_name": [
+            "B-cell CLL/lymphoma 7C",
+            "BCL tumor suppressor 7C",
+            "BCL7C, BAF complex component"
+        ],
+        "alias_symbol": [
+            "SMARCJ3"
+        ],
+        "location": "16p11.2",
+        "date_approved_reserved": "1999-03-19T00:00:00Z",
+        "date_modified": "2023-01-20T00:00:00Z",
+        "date_name_changed": "2019-01-25T00:00:00Z",
+        "ena": [
+            "AJ223980"
+        ],
+        "entrez_id": "9274",
+        "mgd_id": [
+            "MGI:1332237"
+        ],
+        "pubmed_id": [
+            9931421,
+            23644491
+        ],
+        "refseq_accession": [
+            "NM_004765"
+        ],
+        "gene_group": [
+            "BAF complex",
+            "MicroRNA protein coding host genes"
+        ],
+        "vega_id": "OTTHUMG00000177719",
+        "ensembl_gene_id": "ENSG00000099385",
+        "ccds_id": [
+            "CCDS10693",
+            "CCDS67012"
+        ],
+        "locus_group": "protein-coding gene",
+        "omim_id": [
+            "605847"
+        ],
+        "uniprot_ids": [
+            "Q8WUZ0"
+        ],
+        "ucsc_id": "uc002dzv.5",
+        "rgd_id": [
+            "RGD:1308439"
+        ],
+        "gene_group_id": [
+            1604,
+            1691
+        ],
+        "location_sortable": "16p11.2",
+        "agr": "HGNC:1006",
+        "mane_select": [
+            "ENST00000215115.5",
+            "NM_004765.4"
+        ],
+        "uuid": "ed6c9e18-2e40-429e-9752-728fb38418ba",
+        "_version_": 1764660391122567168
+    },
+    "BICRA": {
+        "hgnc_id": "HGNC:4332",
+        "symbol": "BICRA",
+        "name": "BRD4 interacting chromatin remodeling complex associated protein",
+        "status": "Approved",
+        "locus_type": "gene with protein product",
+        "prev_symbol": [
+            "GLTSCR1"
+        ],
+        "prev_name": [
+            "glioma tumor suppressor candidate region gene 1"
+        ],
+        "alias_symbol": [
+            "SMARCK1"
+        ],
+        "location": "19q13.33",
+        "date_approved_reserved": "2000-02-29T00:00:00Z",
+        "date_modified": "2023-01-20T00:00:00Z",
+        "date_name_changed": "2017-04-21T00:00:00Z",
+        "ena": [
+            "AF182077"
+        ],
+        "entrez_id": "29998",
+        "mgd_id": [
+            "MGI:2154263"
+        ],
+        "pubmed_id": [
+            10708517,
+            21555454
+        ],
+        "refseq_accession": [
+            "NM_015711"
+        ],
+        "gene_group": [
+            "GBAF complex"
+        ],
+        "date_symbol_changed": "2017-03-21T00:00:00Z",
+        "vega_id": "OTTHUMG00000183263",
+        "ensembl_gene_id": "ENSG00000063169",
+        "ccds_id": [
+            "CCDS46134"
+        ],
+        "locus_group": "protein-coding gene",
+        "omim_id": [
+            "605690"
+        ],
+        "uniprot_ids": [
+            "Q9NZM4"
+        ],
+        "ucsc_id": "uc002phh.4",
+        "rgd_id": [
+            "RGD:1306385"
+        ],
+        "gene_group_id": [
+            1606
+        ],
+        "location_sortable": "19q13.33",
+        "agr": "HGNC:4332",
+        "mane_select": [
+            "ENST00000594866.3",
+            "NM_001394372.1"
+        ],
+        "uuid": "11e64ca3-5da9-4c89-892d-8e1fab347f85",
+        "_version_": 1764660391177093120
+    },
+    "BICRAL": {
+        "hgnc_id": "HGNC:21111",
+        "symbol": "BICRAL",
+        "name": "BICRA like chromatin remodeling complex associated protein",
+        "status": "Approved",
+        "locus_type": "gene with protein product",
+        "prev_symbol": [
+            "KIAA0240",
+            "GLTSCR1L"
+        ],
+        "prev_name": [
+            "KIAA0240",
+            "GLTSCR1-like",
+            "GLTSCR1 like",
+            "BRD4 interacting chromatin remodeling complex associated protein like"
+        ],
+        "alias_symbol": [
+            "SMARCK2"
+        ],
+        "location": "6p21.1",
+        "date_approved_reserved": "2003-11-21T00:00:00Z",
+        "date_modified": "2023-01-20T00:00:00Z",
+        "date_name_changed": "2021-07-08T00:00:00Z",
+        "ena": [
+            "AL833540"
+        ],
+        "entrez_id": "23506",
+        "mgd_id": [
+            "MGI:2673855"
+        ],
+        "pubmed_id": [
+            29374058
+        ],
+        "refseq_accession": [
+            "NM_015349"
+        ],
+        "gene_group": [
+            "GBAF complex"
+        ],
+        "date_symbol_changed": "2017-03-21T00:00:00Z",
+        "vega_id": "OTTHUMG00000014706",
+        "ensembl_gene_id": "ENSG00000112624",
+        "ccds_id": [
+            "CCDS34451"
+        ],
+        "locus_group": "protein-coding gene",
+        "omim_id": [
+            "618502"
+        ],
+        "uniprot_ids": [
+            "Q6AI39"
+        ],
+        "ucsc_id": "uc063onx.1",
+        "rgd_id": [
+            "RGD:1305680"
+        ],
+        "gene_group_id": [
+            1606
+        ],
+        "location_sortable": "06p21.1",
+        "agr": "HGNC:21111",
+        "mane_select": [
+            "ENST00000314073.10",
+            "NM_001393499.1"
+        ],
+        "uuid": "d3f921a6-373b-4386-bc66-4c692e522430",
+        "_version_": 1764660391178141697
+    },
+    "BOD1L1": {
+        "hgnc_id": "HGNC:31792",
+        "symbol": "BOD1L1",
+        "name": "biorientation of chromosomes in cell division 1 like 1",
+        "status": "Approved",
+        "locus_type": "gene with protein product",
+        "prev_symbol": [
+            "FAM44A",
+            "BOD1L"
+        ],
+        "prev_name": [
+            "family with sequence similarity 44, member A",
+            "biorientation of chromosomes in cell division 1-like"
+        ],
+        "alias_symbol": [
+            "FLJ33215",
+            "KIAA1327"
+        ],
+        "location": "4p15.33",
+        "date_approved_reserved": "2004-07-29T00:00:00Z",
+        "date_modified": "2023-01-20T00:00:00Z",
+        "date_name_changed": "2016-01-13T00:00:00Z",
+        "ena": [
+            "AF528529"
+        ],
+        "entrez_id": "259282",
+        "mgd_id": [
+            "MGI:2444804"
+        ],
+        "refseq_accession": [
+            "NM_148894"
+        ],
+        "date_symbol_changed": "2012-04-10T00:00:00Z",
+        "vega_id": "OTTHUMG00000090659",
+        "ensembl_gene_id": "ENSG00000038219",
+        "ccds_id": [
+            "CCDS3411"
+        ],
+        "locus_group": "protein-coding gene",
+        "omim_id": [
+            "616746"
+        ],
+        "uniprot_ids": [
+            "Q8NFC6"
+        ],
+        "ucsc_id": "uc003gmz.2",
+        "rgd_id": [
+            "RGD:621413"
+        ],
+        "location_sortable": "04p15.33",
+        "agr": "HGNC:31792",
+        "mane_select": [
+            "ENST00000040738.10",
+            "NM_148894.3"
+        ],
+        "uuid": "9743efdf-6875-4e58-a48f-8d870a3ceaee",
+        "_version_": 1764660391260979201
+    },
+    "BRCC3": {
+        "hgnc_id": "HGNC:24185",
+        "symbol": "BRCC3",
+        "name": "BRCA1/BRCA2-containing complex subunit 3",
+        "status": "Approved",
+        "locus_type": "gene with protein product",
+        "prev_symbol": [
+            "CXorf53"
+        ],
+        "prev_name": [
+            "chromosome X open reading frame 53",
+            "BRCA1/BRCA2-containing complex, subunit 3"
+        ],
+        "alias_symbol": [
+            "C6.1A",
+            "BRCC36"
+        ],
+        "alias_name": [
+            "Lys-63-specific deubiquitinase"
+        ],
+        "location": "Xq28",
+        "date_approved_reserved": "2004-12-03T00:00:00Z",
+        "date_modified": "2023-01-20T00:00:00Z",
+        "date_name_changed": "2015-11-12T00:00:00Z",
+        "ena": [
+            "X64643"
+        ],
+        "entrez_id": "79184",
+        "mgd_id": [
+            "MGI:2389572"
+        ],
+        "merops": "M67.004",
+        "orphanet": 268795,
+        "pubmed_id": [
+            1303175,
+            14636569
+        ],
+        "refseq_accession": [
+            "NM_024332"
+        ],
+        "gene_group": [
+            "JAMM/MPN+ metallopeptidase family",
+            "BRCA1 A complex",
+            "BRISC complex"
+        ],
+        "date_symbol_changed": "2005-11-21T00:00:00Z",
+        "vega_id": "OTTHUMG00000022658",
+        "ensembl_gene_id": "ENSG00000185515",
+        "ccds_id": [
+            "CCDS56610",
+            "CCDS56612",
+            "CCDS56611"
+        ],
+        "locus_group": "protein-coding gene",
+        "omim_id": [
+            "300617"
+        ],
+        "uniprot_ids": [
+            "P46736"
+        ],
+        "ucsc_id": "uc065cjq.1",
+        "rgd_id": [
+            "RGD:1588543"
+        ],
+        "gene_group_id": [
+            999,
+            1328,
+            1375
+        ],
+        "location_sortable": "Xq28",
+        "agr": "HGNC:24185",
+        "mane_select": [
+            "ENST00000330045.12",
+            "NM_001018055.3"
+        ],
+        "gencc": "HGNC:24185",
+        "uuid": "7376c036-51b1-417f-a3ea-bab3bd1121fd",
+        "_version_": 1764660391295582208
+    },
+    "BRD7": {
+        "hgnc_id": "HGNC:14310",
+        "symbol": "BRD7",
+        "name": "bromodomain containing 7",
+        "status": "Approved",
+        "locus_type": "gene with protein product",
+        "prev_name": [
+            "bromodomain-containing 7"
+        ],
+        "alias_symbol": [
+            "CELTIX1",
+            "BP75",
+            "SMARCI1"
+        ],
+        "location": "16q12.1",
+        "date_approved_reserved": "2001-01-02T00:00:00Z",
+        "date_modified": "2023-01-20T00:00:00Z",
+        "date_name_changed": "2002-01-14T00:00:00Z",
+        "ena": [
+            "AF213969"
+        ],
+        "entrez_id": "29117",
+        "mgd_id": [
+            "MGI:1349766"
+        ],
+        "iuphar": "objectId:2726",
+        "pubmed_id": [
+            10526152,
+            18809673
+        ],
+        "refseq_accession": [
+            "NM_013263"
+        ],
+        "gene_group": [
+            "Bromodomain containing",
+            "PBAF complex"
+        ],
+        "vega_id": "OTTHUMG00000133170",
+        "ensembl_gene_id": "ENSG00000166164",
+        "ccds_id": [
+            "CCDS10742",
+            "CCDS54007"
+        ],
+        "locus_group": "protein-coding gene",
+        "omim_id": [
+            "618489"
+        ],
+        "uniprot_ids": [
+            "Q9NPI1"
+        ],
+        "ucsc_id": "uc021thx.2",
+        "rgd_id": [
+            "RGD:1309891"
+        ],
+        "gene_group_id": [
+            1232,
+            1605
+        ],
+        "location_sortable": "16q12.1",
+        "agr": "HGNC:14310",
+        "mane_select": [
+            "ENST00000394688.8",
+            "NM_013263.5"
+        ],
+        "uuid": "bbd0c19e-9ba3-4a06-8f74-17a6cb0ae1be",
+        "_version_": 1764660391298727937
+    },
+    "BRD9": {
+        "hgnc_id": "HGNC:25818",
+        "symbol": "BRD9",
+        "name": "bromodomain containing 9",
+        "status": "Approved",
+        "locus_type": "gene with protein product",
+        "alias_symbol": [
+            "FLJ13441",
+            "SMARCI2"
+        ],
+        "location": "5p15.33",
+        "date_approved_reserved": "2004-01-08T00:00:00Z",
+        "date_modified": "2023-01-20T00:00:00Z",
+        "ena": [
+            "AK023503"
+        ],
+        "entrez_id": "65980",
+        "mgd_id": [
+            "MGI:2145317"
+        ],
+        "iuphar": "objectId:2728",
+        "pubmed_id": [
+            26365797
+        ],
+        "refseq_accession": [
+            "NM_023924"
+        ],
+        "gene_group": [
+            "Bromodomain containing",
+            "BAF complex",
+            "GBAF complex"
+        ],
+        "vega_id": "OTTHUMG00000159258",
+        "ensembl_gene_id": "ENSG00000028310",
+        "ccds_id": [
+            "CCDS34128",
+            "CCDS34127"
+        ],
+        "locus_group": "protein-coding gene",
+        "omim_id": [
+            "618465"
+        ],
+        "uniprot_ids": [
+            "Q9H8M2"
+        ],
+        "ucsc_id": "uc003jbq.4",
+        "rgd_id": [
+            "RGD:1307359"
+        ],
+        "gene_group_id": [
+            1232,
+            1604,
+            1606
+        ],
+        "location_sortable": "05p15.33",
+        "agr": "HGNC:25818",
+        "mane_select": [
+            "ENST00000467963.6",
+            "NM_023924.5"
+        ],
+        "uuid": "d68beaae-88fb-4ec3-a064-9926ad33f1fa",
+        "_version_": 1764660391302922240
+    },
+    "C17orf49": {
+        "hgnc_id": "HGNC:28737",
+        "symbol": "C17orf49",
+        "name": "chromosome 17 open reading frame 49",
+        "status": "Approved",
+        "locus_type": "gene with protein product",
+        "alias_symbol": [
+            "MGC49942",
+            "BAP18",
+            "HEPIS"
+        ],
+        "alias_name": [
+            "BPTF associated protein of 18 kDa",
+            "human embryo lung cellular protein interacting with SARS-CoV nsp-10"
+        ],
+        "location": "17p13.1",
+        "date_approved_reserved": "2005-12-13T00:00:00Z",
+        "date_modified": "2023-01-20T00:00:00Z",
+        "ena": [
+            "AK055800"
+        ],
+        "entrez_id": "124944",
+        "mgd_id": [
+            "MGI:1915609"
+        ],
+        "pubmed_id": [
+            25456412,
+            27226492
+        ],
+        "refseq_accession": [
+            "NM_174893"
+        ],
+        "gene_group": [
+            "Myb/SANT domain containing"
+        ],
+        "vega_id": "OTTHUMG00000170147",
+        "ensembl_gene_id": "ENSG00000258315",
+        "ccds_id": [
+            "CCDS32542",
+            "CCDS45595",
+            "CCDS45596"
+        ],
+        "locus_group": "protein-coding gene",
+        "omim_id": [
+            "617215"
+        ],
+        "uniprot_ids": [
+            "Q8IXM2"
+        ],
+        "ucsc_id": "uc060ahc.1",
+        "rgd_id": [
+            "RGD:1308134"
+        ],
+        "gene_group_id": [
+            532
+        ],
+        "location_sortable": "17p13.1",
+        "agr": "HGNC:28737",
+        "symbol_report_tag": [
+            "Placeholder symbol"
+        ],
+        "mane_select": [
+            "ENST00000439424.6",
+            "NM_174893.4"
+        ],
+        "uuid": "e31f662c-9f3f-4d84-bdd4-c77388103da1",
+        "_version_": 1764660391553531906
+    },
+    "CDCA7": {
+        "hgnc_id": "HGNC:14628",
+        "symbol": "CDCA7",
+        "name": "cell division cycle associated 7",
+        "status": "Approved",
+        "locus_type": "gene with protein product",
+        "alias_symbol": [
+            "FLJ14736",
+            "JPO1"
+        ],
+        "location": "2q31.1",
+        "date_approved_reserved": "2002-04-03T00:00:00Z",
+        "date_modified": "2023-01-20T00:00:00Z",
+        "ena": [
+            "BG354580"
+        ],
+        "entrez_id": "83879",
+        "mgd_id": [
+            "MGI:1914203"
+        ],
+        "orphanet": 436811,
+        "pubmed_id": [
+            11598121,
+            12188893
+        ],
+        "refseq_accession": [
+            "NM_031942"
+        ],
+        "vega_id": "OTTHUMG00000132296",
+        "ensembl_gene_id": "ENSG00000144354",
+        "ccds_id": [
+            "CCDS2252",
+            "CCDS2253"
+        ],
+        "locus_group": "protein-coding gene",
+        "omim_id": [
+            "609937"
+        ],
+        "uniprot_ids": [
+            "Q9BWT1"
+        ],
+        "ucsc_id": "uc002uid.2",
+        "rgd_id": [
+            "RGD:1309363"
+        ],
+        "location_sortable": "02q31.1",
+        "agr": "HGNC:14628",
+        "symbol_report_tag": [
+            "Stable symbol"
+        ],
+        "mane_select": [
+            "ENST00000306721.8",
+            "NM_031942.5"
+        ],
+        "gencc": "HGNC:14628",
+        "uuid": "586ca44b-97aa-4fa8-9489-3fcc28d39e94",
+        "_version_": 1764660392049508353
+    },
+    "CHD8": {
+        "hgnc_id": "HGNC:20153",
+        "symbol": "CHD8",
+        "name": "chromodomain helicase DNA binding protein 8",
+        "status": "Approved",
+        "locus_type": "gene with protein product",
+        "prev_symbol": [
+            "HELSNF1"
+        ],
+        "prev_name": [
+            "helicase with SNF2 domain 1"
+        ],
+        "alias_symbol": [
+            "KIAA1564",
+            "DUPLIN"
+        ],
+        "location": "14q11.2",
+        "date_approved_reserved": "2002-12-18T00:00:00Z",
+        "date_modified": "2023-01-20T00:00:00Z",
+        "date_name_changed": "2004-06-22T00:00:00Z",
+        "ena": [
+            "AB046784"
+        ],
+        "entrez_id": "57680",
+        "mgd_id": [
+            "MGI:1915022"
+        ],
+        "orphanet": 321632,
+        "pubmed_id": [
+            16949368
+        ],
+        "refseq_accession": [
+            "NM_020920"
+        ],
+        "gene_group": [
+            "Small nucleolar RNA protein coding host genes"
+        ],
+        "date_symbol_changed": "2004-06-23T00:00:00Z",
+        "vega_id": "OTTHUMG00000170759",
+        "ensembl_gene_id": "ENSG00000100888",
+        "ccds_id": [
+            "CCDS45081",
+            "CCDS53885"
+        ],
+        "locus_group": "protein-coding gene",
+        "omim_id": [
+            "610528"
+        ],
+        "uniprot_ids": [
+            "Q9HCK8"
+        ],
+        "ucsc_id": "uc001was.3",
+        "rgd_id": [
+            "RGD:620696"
+        ],
+        "gene_group_id": [
+            1835
+        ],
+        "location_sortable": "14q11.2",
+        "agr": "HGNC:20153",
+        "symbol_report_tag": [
+            "Stable symbol"
+        ],
+        "mane_select": [
+            "ENST00000646647.2",
+            "NM_001170629.2"
+        ],
+        "gencc": "HGNC:20153",
+        "uuid": "744b85f3-de27-4e18-bfff-f42827d2d8c2",
+        "_version_": 1764660392328429568
+    },
+    "CTDSPL2": {
+        "hgnc_id": "HGNC:26936",
+        "symbol": "CTDSPL2",
+        "name": "CTD small phosphatase like 2",
+        "status": "Approved",
+        "locus_type": "gene with protein product",
+        "prev_name": [
+            "CTD (carboxy-terminal domain, RNA polymerase II, polypeptide A) small phosphatase like 2"
+        ],
+        "alias_symbol": [
+            "HSPC129",
+            "FLJ10523"
+        ],
+        "location": "15q15.3-q21.1",
+        "date_approved_reserved": "2005-09-02T00:00:00Z",
+        "date_modified": "2023-01-20T00:00:00Z",
+        "date_name_changed": "2015-11-06T00:00:00Z",
+        "ena": [
+            "AF161478"
+        ],
+        "entrez_id": "51496",
+        "mgd_id": [
+            "MGI:1196405"
+        ],
+        "refseq_accession": [
+            "NM_016396"
+        ],
+        "gene_group": [
+            "CTD family phosphatases"
+        ],
+        "vega_id": "OTTHUMG00000131159",
+        "ensembl_gene_id": "ENSG00000137770",
+        "ccds_id": [
+            "CCDS10110"
+        ],
+        "locus_group": "protein-coding gene",
+        "omim_id": [
+            "618739"
+        ],
+        "uniprot_ids": [
+            "Q05D32"
+        ],
+        "ucsc_id": "uc001ztr.4",
+        "rgd_id": [
+            "RGD:1309219"
+        ],
+        "gene_group_id": [
+            1041
+        ],
+        "location_sortable": "15q15.3-q21.1",
+        "agr": "HGNC:26936",
+        "mane_select": [
+            "ENST00000260327.9",
+            "NM_016396.3"
+        ],
+        "uuid": "de0f8a08-bcb0-4a30-9b66-d547d169fe1a",
+        "_version_": 1764660394536730624
+    },
+    "DPF1": {
+        "hgnc_id": "HGNC:20225",
+        "symbol": "DPF1",
+        "name": "double PHD fingers 1",
+        "status": "Approved",
+        "locus_type": "gene with protein product",
+        "prev_name": [
+            "D4, zinc and double PHD fingers family 1"
+        ],
+        "alias_symbol": [
+            "neuro-d4",
+            "NEUD4",
+            "BAF45b",
+            "SMARCG1"
+        ],
+        "location": "19q13.2",
+        "date_approved_reserved": "2003-01-28T00:00:00Z",
+        "date_modified": "2023-01-20T00:00:00Z",
+        "date_name_changed": "2016-02-10T00:00:00Z",
+        "ena": [
+            "U43843"
+        ],
+        "entrez_id": "8193",
+        "mgd_id": [
+            "MGI:1352748"
+        ],
+        "pubmed_id": [
+            8812431
+        ],
+        "refseq_accession": [
+            "NM_001135155"
+        ],
+        "gene_group": [
+            "PHD finger proteins",
+            "BAF complex"
+        ],
+        "vega_id": "OTTHUMG00000157164",
+        "ensembl_gene_id": "ENSG00000011332",
+        "ccds_id": [
+            "CCDS33008",
+            "CCDS86760",
+            "CCDS46065",
+            "CCDS46064",
+            "CCDS92608"
+        ],
+        "locus_group": "protein-coding gene",
+        "omim_id": [
+            "601670"
+        ],
+        "uniprot_ids": [
+            "Q92782"
+        ],
+        "ucsc_id": "uc060xyx.1",
+        "rgd_id": [
+            "RGD:61868"
+        ],
+        "gene_group_id": [
+            88,
+            1604
+        ],
+        "location_sortable": "19q13.2",
+        "agr": "HGNC:20225",
+        "mane_select": [
+            "ENST00000355526.10",
+            "NM_001135155.3"
+        ],
+        "uuid": "7bfe562c-87d7-4a0a-ab4f-fb7f6bf959c7",
+        "_version_": 1764660395232985090
+    },
+    "DPF2": {
+        "hgnc_id": "HGNC:9964",
+        "symbol": "DPF2",
+        "name": "double PHD fingers 2",
+        "status": "Approved",
+        "locus_type": "gene with protein product",
+        "prev_symbol": [
+            "REQ"
+        ],
+        "prev_name": [
+            "requiem, apoptosis response zinc finger gene",
+            "D4, zinc and double PHD fingers family 2"
+        ],
+        "alias_symbol": [
+            "ubi-d4",
+            "BAF45d",
+            "SMARCG2"
+        ],
+        "location": "11q13.1",
+        "date_approved_reserved": "1997-05-15T00:00:00Z",
+        "date_modified": "2023-01-20T00:00:00Z",
+        "date_name_changed": "2016-02-10T00:00:00Z",
+        "ena": [
+            "U94585"
+        ],
+        "entrez_id": "5977",
+        "mgd_id": [
+            "MGI:109529"
+        ],
+        "pubmed_id": [
+            11845289
+        ],
+        "refseq_accession": [
+            "NM_006268"
+        ],
+        "gene_group": [
+            "PHD finger proteins",
+            "BAF complex"
+        ],
+        "date_symbol_changed": "2003-10-08T00:00:00Z",
+        "vega_id": "OTTHUMG00000165985",
+        "ensembl_gene_id": "ENSG00000133884",
+        "ccds_id": [
+            "CCDS8100",
+            "CCDS81583"
+        ],
+        "locus_group": "protein-coding gene",
+        "omim_id": [
+            "601671"
+        ],
+        "uniprot_ids": [
+            "Q92785"
+        ],
+        "ucsc_id": "uc001odm.4",
+        "rgd_id": [
+            "RGD:1311699"
+        ],
+        "gene_group_id": [
+            88,
+            1604
+        ],
+        "location_sortable": "11q13.1",
+        "agr": "HGNC:9964",
+        "mane_select": [
+            "ENST00000528416.6",
+            "NM_006268.5"
+        ],
+        "gencc": "HGNC:9964",
+        "uuid": "a8ce57ad-9de8-4e44-a940-aa61863ed495",
+        "_version_": 1764660395234033664
+    },
+    "ERCC4": {
+        "hgnc_id": "HGNC:3436",
+        "symbol": "ERCC4",
+        "name": "ERCC excision repair 4, endonuclease catalytic subunit",
+        "status": "Approved",
+        "locus_type": "gene with protein product",
+        "prev_symbol": [
+            "XPF"
+        ],
+        "prev_name": [
+            "excision repair cross-complementing rodent repair deficiency, complementation group 4",
+            "excision repair cross-complementation group 4"
+        ],
+        "alias_symbol": [
+            "RAD1",
+            "FANCQ"
+        ],
+        "alias_name": [
+            "xeroderma pigmentosum, complementation group F"
+        ],
+        "location": "16p13.12",
+        "date_approved_reserved": "2001-06-22T00:00:00Z",
+        "date_modified": "2023-01-20T00:00:00Z",
+        "date_name_changed": "2016-05-23T00:00:00Z",
+        "ena": [
+            "L76568"
+        ],
+        "entrez_id": "2072",
+        "mgd_id": [
+            "MGI:1354163"
+        ],
+        "cosmic": "ERCC4",
+        "orphanet": 121595,
+        "pubmed_id": [
+            9579555,
+            8887684
+        ],
+        "refseq_accession": [
+            "NM_005236"
+        ],
+        "gene_group": [
+            "FA complementation groups",
+            "Xeroderma pigmentosum complementation groups",
+            "ERCC excision repair associated"
+        ],
+        "vega_id": "OTTHUMG00000048194",
+        "lsdb": [
+            "Fanconi Anaemia Mutation Database|http://www2.rockefeller.edu/fanconi",
+            "LRG_463|http://ftp.ebi.ac.uk/pub/databases/lrgex/LRG_463.xml"
+        ],
+        "ensembl_gene_id": "ENSG00000175595",
+        "ccds_id": [
+            "CCDS32390"
+        ],
+        "locus_group": "protein-coding gene",
+        "omim_id": [
+            "133520"
+        ],
+        "uniprot_ids": [
+            "Q92889"
+        ],
+        "ucsc_id": "uc002dce.3",
+        "rgd_id": [
+            "RGD:1560340"
+        ],
+        "gene_group_id": [
+            548,
+            1125,
+            1268
+        ],
+        "location_sortable": "16p13.12",
+        "agr": "HGNC:3436",
+        "mane_select": [
+            "ENST00000311895.8",
+            "NM_005236.3"
+        ],
+        "gencc": "HGNC:3436",
+        "uuid": "26863862-5b11-4cfc-9d56-1079f60fe795",
+        "_version_": 1764660395786633217
+    },
+    "KPNA1": {
+        "hgnc_id": "HGNC:6394",
+        "symbol": "KPNA1",
+        "name": "karyopherin subunit alpha 1",
+        "status": "Approved",
+        "locus_type": "gene with protein product",
+        "prev_name": [
+            "karyopherin alpha 1 (importin alpha 5)",
+            "karyopherin alpha 1"
+        ],
+        "alias_symbol": [
+            "SRP1",
+            "RCH2",
+            "NPI-1",
+            "IPOA5"
+        ],
+        "alias_name": [
+            "importin alpha 5"
+        ],
+        "location": "3q21.1",
+        "date_approved_reserved": "1997-03-19T00:00:00Z",
+        "date_modified": "2023-01-20T00:00:00Z",
+        "date_name_changed": "2016-02-01T00:00:00Z",
+        "ena": [
+            "S75295"
+        ],
+        "entrez_id": "3836",
+        "mgd_id": [
+            "MGI:103560"
+        ],
+        "orphanet": 470578,
+        "pubmed_id": [
+            8052633
+        ],
+        "refseq_accession": [
+            "NM_002264"
+        ],
+        "gene_group": [
+            "Armadillo repeat containing",
+            "Importins"
+        ],
+        "vega_id": "OTTHUMG00000159487",
+        "ensembl_gene_id": "ENSG00000114030",
+        "ccds_id": [
+            "CCDS3013"
+        ],
+        "locus_group": "protein-coding gene",
+        "omim_id": [
+            "600686"
+        ],
+        "uniprot_ids": [
+            "P52294"
+        ],
+        "ucsc_id": "uc003efe.3",
+        "rgd_id": [
+            "RGD:735064"
+        ],
+        "gene_group_id": [
+            409,
+            596
+        ],
+        "location_sortable": "03q21.1",
+        "agr": "HGNC:6394",
+        "mane_select": [
+            "ENST00000344337.11",
+            "NM_002264.4"
+        ],
+        "uuid": "63e279b2-5976-4075-acb3-3ca05960befa",
+        "_version_": 1764660400441262080
+    },
+    "KPNA2": {
+        "hgnc_id": "HGNC:6395",
+        "symbol": "KPNA2",
+        "name": "karyopherin subunit alpha 2",
+        "status": "Approved",
+        "locus_type": "gene with protein product",
+        "prev_symbol": [
+            "RCH1"
+        ],
+        "prev_name": [
+            "karyopherin alpha 2 (RAG cohort 1, importin alpha 1)",
+            "karyopherin alpha 2"
+        ],
+        "alias_symbol": [
+            "SRP1alpha",
+            "IPOA1",
+            "QIP2",
+            "PTAC58"
+        ],
+        "alias_name": [
+            "RAG cohort 1",
+            "importin alpha 1",
+            "nuclear pore-targeting complex 58kD component"
+        ],
+        "location": "17q24.2",
+        "date_approved_reserved": "1997-03-19T00:00:00Z",
+        "date_modified": "2023-01-20T00:00:00Z",
+        "date_name_changed": "2016-02-01T00:00:00Z",
+        "ena": [
+            "U09559"
+        ],
+        "entrez_id": "3838",
+        "mgd_id": [
+            "MGI:103561"
+        ],
+        "pubmed_id": [
+            8016130,
+            7754385,
+            11735022
+        ],
+        "refseq_accession": [
+            "NM_002266"
+        ],
+        "gene_group": [
+            "Armadillo repeat containing",
+            "Importins"
+        ],
+        "vega_id": "OTTHUMG00000179784",
+        "ensembl_gene_id": "ENSG00000182481",
+        "ccds_id": [
+            "CCDS32713"
+        ],
+        "locus_group": "protein-coding gene",
+        "omim_id": [
+            "600685"
+        ],
+        "uniprot_ids": [
+            "P52292"
+        ],
+        "ucsc_id": "uc002jgk.4",
+        "rgd_id": [
+            "RGD:621419"
+        ],
+        "gene_group_id": [
+            409,
+            596
+        ],
+        "location_sortable": "17q24.2",
+        "agr": "HGNC:6395",
+        "symbol_report_tag": [
+            "Stable symbol"
+        ],
+        "mane_select": [
+            "ENST00000330459.8",
+            "NM_002266.4"
+        ],
+        "uuid": "c11f39ae-a2f7-4abf-ba63-e44b416d17bd",
+        "_version_": 1764660400441262081
+    },
+    "NIPBL": {
+        "hgnc_id": "HGNC:28862",
+        "symbol": "NIPBL",
+        "name": "NIPBL cohesin loading factor",
+        "status": "Approved",
+        "locus_type": "gene with protein product",
+        "prev_name": [
+            "Nipped-B homolog (Drosophila)",
+            "NIPBL, cohesin loading factor"
+        ],
+        "alias_symbol": [
+            "IDN3",
+            "DKFZp434L1319",
+            "FLJ11203",
+            "FLJ12597",
+            "FLJ13354",
+            "FLJ13648",
+            "Scc2"
+        ],
+        "alias_name": [
+            "sister chromatid cohesion 2 homolog (yeast)"
+        ],
+        "location": "5p13.2",
+        "date_approved_reserved": "2004-07-21T00:00:00Z",
+        "date_modified": "2023-01-20T00:00:00Z",
+        "date_name_changed": "2019-01-25T00:00:00Z",
+        "ena": [
+            "AB019494"
+        ],
+        "entrez_id": "25836",
+        "mgd_id": [
+            "MGI:1913976"
+        ],
+        "orphanet": 123789,
+        "pubmed_id": [
+            15146186,
+            15146185
+        ],
+        "refseq_accession": [
+            "NM_015384"
+        ],
+        "gene_group": [
+            "Armadillo like helical domain containing"
+        ],
+        "vega_id": "OTTHUMG00000090795",
+        "lsdb": [
+            "LOVD|http://lsdb.hgu.mrc.ac.uk/home.php?select_db=NIPBL",
+            "Global Variome shared LOVD|https://databases.lovd.nl/shared/genes/NIPBL"
+        ],
+        "ensembl_gene_id": "ENSG00000164190",
+        "ccds_id": [
+            "CCDS3920",
+            "CCDS47198"
+        ],
+        "locus_group": "protein-coding gene",
+        "omim_id": [
+            "608667"
+        ],
+        "uniprot_ids": [
+            "Q6KC79"
+        ],
+        "ucsc_id": "uc003jkl.5",
+        "rgd_id": [
+            "RGD:1306393"
+        ],
+        "gene_group_id": [
+            1492
+        ],
+        "location_sortable": "05p13.2",
+        "agr": "HGNC:28862",
+        "symbol_report_tag": [
+            "Stable symbol"
+        ],
+        "mane_select": [
+            "ENST00000282516.13",
+            "NM_133433.4"
+        ],
+        "gencc": "HGNC:28862",
+        "uuid": "0d185228-f444-4060-9168-44c208c48d65",
+        "_version_": 1764660406762078208
+    },
+    "NOP58": {
+        "hgnc_id": "HGNC:29926",
+        "symbol": "NOP58",
+        "name": "NOP58 ribonucleoprotein",
+        "status": "Approved",
+        "locus_type": "gene with protein product",
+        "prev_name": [
+            "NOP58 ribonucleoprotein homolog (yeast)"
+        ],
+        "alias_symbol": [
+            "NOP5",
+            "HSPC120"
+        ],
+        "location": "2q33.1",
+        "date_approved_reserved": "2009-01-13T00:00:00Z",
+        "date_modified": "2023-01-20T00:00:00Z",
+        "date_name_changed": "2012-12-10T00:00:00Z",
+        "entrez_id": "51602",
+        "mgd_id": [
+            "MGI:1933184"
+        ],
+        "pubmed_id": [
+            10606270,
+            10925205
+        ],
+        "refseq_accession": [
+            "NM_015934"
+        ],
+        "gene_group": [
+            "U3 small nucleolar ribonucleoprotein",
+            "Small nucleolar RNA protein coding host genes"
+        ],
+        "vega_id": "OTTHUMG00000132840",
+        "ensembl_gene_id": "ENSG00000055044",
+        "ccds_id": [
+            "CCDS2353"
+        ],
+        "locus_group": "protein-coding gene",
+        "omim_id": [
+            "616742"
+        ],
+        "uniprot_ids": [
+            "Q9Y2X3"
+        ],
+        "ucsc_id": "uc002uzb.4",
+        "rgd_id": [
+            "RGD:620484"
+        ],
+        "gene_group_id": [
+            1485,
+            1835
+        ],
+        "location_sortable": "02q33.1",
+        "agr": "HGNC:29926",
+        "mane_select": [
+            "ENST00000264279.10",
+            "NM_015934.5"
+        ],
+        "uuid": "278da0a2-9986-425d-b73a-12384c40a089",
+        "_version_": 1764660406875324416
+    },
+    "NUP50": {
+        "hgnc_id": "HGNC:8065",
+        "symbol": "NUP50",
+        "name": "nucleoporin 50",
+        "status": "Approved",
+        "locus_type": "gene with protein product",
+        "prev_symbol": [
+            "NPAP60L"
+        ],
+        "prev_name": [
+            "nucleoporin 50kDa"
+        ],
+        "location": "22q13.31",
+        "date_approved_reserved": "2000-02-16T00:00:00Z",
+        "date_modified": "2023-01-20T00:00:00Z",
+        "date_name_changed": "2016-06-01T00:00:00Z",
+        "ena": [
+            "AF107840"
+        ],
+        "entrez_id": "10762",
+        "mgd_id": [
+            "MGI:1351502"
+        ],
+        "pubmed_id": [
+            10449902
+        ],
+        "refseq_accession": [
+            "NM_007172"
+        ],
+        "gene_group": [
+            "Nucleoporins"
+        ],
+        "vega_id": "OTTHUMG00000151265",
+        "ensembl_gene_id": "ENSG00000093000",
+        "ccds_id": [
+            "CCDS14062",
+            "CCDS14063"
+        ],
+        "locus_group": "protein-coding gene",
+        "omim_id": [
+            "604646"
+        ],
+        "uniprot_ids": [
+            "Q9UKX7"
+        ],
+        "ucsc_id": "uc003bfr.4",
+        "rgd_id": [
+            "RGD:3191"
+        ],
+        "gene_group_id": [
+            1051
+        ],
+        "location_sortable": "22q13.31",
+        "agr": "HGNC:8065",
+        "mane_select": [
+            "ENST00000347635.9",
+            "NM_007172.4"
+        ],
+        "uuid": "81e46443-4d65-449f-86e0-804da5bb3dad",
+        "_version_": 1764660407102865409
+    },
+    "PBRM1": {
+        "hgnc_id": "HGNC:30064",
+        "symbol": "PBRM1",
+        "name": "polybromo 1",
+        "status": "Approved",
+        "locus_type": "gene with protein product",
+        "alias_symbol": [
+            "BAF180",
+            "PB1",
+            "SMARCH1"
+        ],
+        "location": "3p21.1",
+        "date_approved_reserved": "2007-03-29T00:00:00Z",
+        "date_modified": "2023-01-20T00:00:00Z",
+        "ena": [
+            "BC015323"
+        ],
+        "entrez_id": "55193",
+        "mgd_id": [
+            "MGI:1923998"
+        ],
+        "iuphar": "objectId:2738",
+        "cosmic": "PBRM1",
+        "orphanet": 434716,
+        "pubmed_id": [
+            11078522,
+            11483580
+        ],
+        "refseq_accession": [
+            "NM_018165"
+        ],
+        "gene_group": [
+            "Bromodomain containing",
+            "PBAF complex"
+        ],
+        "vega_id": "OTTHUMG00000152663",
+        "ensembl_gene_id": "ENSG00000163939",
+        "ccds_id": [
+            "CCDS43099",
+            "CCDS93285",
+            "CCDS93286",
+            "CCDS87087",
+            "CCDS2860",
+            "CCDS2859"
+        ],
+        "locus_group": "protein-coding gene",
+        "omim_id": [
+            "606083"
+        ],
+        "uniprot_ids": [
+            "Q86U86"
+        ],
+        "ucsc_id": "uc003des.3",
+        "rgd_id": [
+            "RGD:1565549"
+        ],
+        "gene_group_id": [
+            1232,
+            1605
+        ],
+        "location_sortable": "03p21.1",
+        "agr": "HGNC:30064",
+        "uuid": "d5787cbf-c491-42bf-96c1-ff35e2c92508",
+        "_version_": 1764660409146540033
+    },
+    "PHAX": {
+        "hgnc_id": "HGNC:10241",
+        "symbol": "PHAX",
+        "name": "phosphorylated adaptor for RNA export",
+        "status": "Approved",
+        "locus_type": "gene with protein product",
+        "prev_symbol": [
+            "RNUXA"
+        ],
+        "prev_name": [
+            "RNA U, small nuclear RNA export adaptor (phosphorylation regulated)"
+        ],
+        "alias_symbol": [
+            "FLJ13193"
+        ],
+        "location": "5q23.2",
+        "date_approved_reserved": "2000-06-16T00:00:00Z",
+        "date_modified": "2023-01-20T00:00:00Z",
+        "date_name_changed": "2008-10-01T00:00:00Z",
+        "ena": [
+            "AK023255"
+        ],
+        "entrez_id": "51808",
+        "mgd_id": [
+            "MGI:1891839"
+        ],
+        "pubmed_id": [
+            10786834
+        ],
+        "refseq_accession": [
+            "NM_032177"
+        ],
+        "date_symbol_changed": "2008-10-01T00:00:00Z",
+        "vega_id": "OTTHUMG00000163273",
+        "ensembl_gene_id": "ENSG00000164902",
+        "ccds_id": [
+            "CCDS4138"
+        ],
+        "locus_group": "protein-coding gene",
+        "omim_id": [
+            "604924"
+        ],
+        "uniprot_ids": [
+            "Q9H814"
+        ],
+        "ucsc_id": "uc003kua.3",
+        "rgd_id": [
+            "RGD:708448"
+        ],
+        "location_sortable": "05q23.2",
+        "agr": "HGNC:10241",
+        "mane_select": [
+            "ENST00000297540.5",
+            "NM_032177.4"
+        ],
+        "uuid": "51193536-fbf5-4f38-a770-47970a036c9b",
+        "_version_": 1764660409420218368
+    },
+    "RAMAC": {
+        "hgnc_id": "HGNC:31022",
+        "symbol": "RAMAC",
+        "name": "RNA guanine-7 methyltransferase activating subunit",
+        "status": "Approved",
+        "locus_type": "gene with protein product",
+        "prev_symbol": [
+            "FAM103A1",
+            "RAMMET"
+        ],
+        "prev_name": [
+            "family with sequence similarity 103 member A1",
+            "RNMT activating mRNA cap methyltransferase subunit"
+        ],
+        "alias_symbol": [
+            "HsT19360",
+            "C15orf18",
+            "MGC2560",
+            "RAM"
+        ],
+        "alias_name": [
+            "RNMT-activating mini protein"
+        ],
+        "location": "15q25.2",
+        "date_approved_reserved": "2005-11-24T00:00:00Z",
+        "date_modified": "2023-01-20T00:00:00Z",
+        "date_name_changed": "2018-06-08T00:00:00Z",
+        "ena": [
+            "CR597724"
+        ],
+        "entrez_id": "83640",
+        "mgd_id": [
+            "MGI:1914398"
+        ],
+        "pubmed_id": [
+            22099306,
+            27934633,
+            24200467
+        ],
+        "refseq_accession": [
+            "NM_031452"
+        ],
+        "date_symbol_changed": "2018-06-08T00:00:00Z",
+        "vega_id": "OTTHUMG00000147357",
+        "ensembl_gene_id": "ENSG00000169612",
+        "ccds_id": [
+            "CCDS10321"
+        ],
+        "locus_group": "protein-coding gene",
+        "omim_id": [
+            "614547"
+        ],
+        "uniprot_ids": [
+            "Q9BTL3"
+        ],
+        "ucsc_id": "uc002bjl.3",
+        "rgd_id": [
+            "RGD:1310022"
+        ],
+        "location_sortable": "15q25.2",
+        "agr": "HGNC:31022",
+        "mane_select": [
+            "ENST00000304191.4",
+            "NM_031452.4"
+        ],
+        "uuid": "20e5c9e8-8225-425b-94e1-a6621c56701d",
+        "_version_": 1764660410586234881
+    },
+    "SMARCA2": {
+        "hgnc_id": "HGNC:11098",
+        "symbol": "SMARCA2",
+        "name": "SWI/SNF related, matrix associated, actin dependent regulator of chromatin, subfamily a, member 2",
+        "status": "Approved",
+        "locus_type": "gene with protein product",
+        "prev_symbol": [
+            "SNF2L2"
+        ],
+        "alias_symbol": [
+            "BAF190",
+            "hSNF2a",
+            "hBRM",
+            "Sth1p",
+            "SNF2LA",
+            "BRM",
+            "SNF2",
+            "SWI2"
+        ],
+        "alias_name": [
+            "brahma homolog"
+        ],
+        "location": "9p24.3",
+        "date_approved_reserved": "1994-07-22T00:00:00Z",
+        "date_modified": "2023-01-20T00:00:00Z",
+        "date_name_changed": "2006-11-09T00:00:00Z",
+        "ena": [
+            "D26155"
+        ],
+        "entrez_id": "6595",
+        "mgd_id": [
+            "MGI:99603"
+        ],
+        "iuphar": "objectId:2739",
+        "orphanet": 292297,
+        "pubmed_id": [
+            8012116
+        ],
+        "refseq_accession": [
+            "NM_003070"
+        ],
+        "gene_group": [
+            "Bromodomain containing",
+            "BAF complex",
+            "GBAF complex"
+        ],
+        "vega_id": "OTTHUMG00000019445",
+        "lsdb": [
+            "LRG_882|http://ftp.ebi.ac.uk/pub/databases/lrgex/LRG_882.xml"
+        ],
+        "ensembl_gene_id": "ENSG00000080503",
+        "ccds_id": [
+            "CCDS75807",
+            "CCDS75808",
+            "CCDS83339",
+            "CCDS34978",
+            "CCDS83338",
+            "CCDS34977"
+        ],
+        "locus_group": "protein-coding gene",
+        "omim_id": [
+            "600014"
+        ],
+        "uniprot_ids": [
+            "P51531"
+        ],
+        "ucsc_id": "uc064rwa.2",
+        "rgd_id": [
+            "RGD:1302988"
+        ],
+        "gene_group_id": [
+            1232,
+            1604,
+            1606
+        ],
+        "location_sortable": "09p24.3",
+        "agr": "HGNC:11098",
+        "mane_select": [
+            "ENST00000349721.8",
+            "NM_003070.5"
+        ],
+        "gencc": "HGNC:11098",
+        "uuid": "cc38abf9-a7cf-4ee7-b689-3fbbf6e27afe",
+        "_version_": 1764660416326139904
+    },
+    "SMARCA4": {
+        "hgnc_id": "HGNC:11100",
+        "symbol": "SMARCA4",
+        "name": "SWI/SNF related, matrix associated, actin dependent regulator of chromatin, subfamily a, member 4",
+        "status": "Approved",
+        "locus_type": "gene with protein product",
+        "prev_symbol": [
+            "SNF2L4"
+        ],
+        "alias_symbol": [
+            "hSNF2b",
+            "BRG1",
+            "BAF190",
+            "SNF2",
+            "SWI2",
+            "SNF2-BETA",
+            "SNF2LB",
+            "FLJ39786"
+        ],
+        "alias_name": [
+            "SNF2-like 4",
+            "global transcription activator homologous sequence",
+            "sucrose nonfermenting-like 4",
+            "mitotic growth and transcription activator",
+            "BRM/SWI2-related gene 1",
+            "homeotic gene regulator",
+            "nuclear protein GRB1",
+            "brahma protein-like 1",
+            "ATP-dependent helicase SMARCA4"
+        ],
+        "location": "19p13.2",
+        "date_approved_reserved": "1995-07-17T00:00:00Z",
+        "date_modified": "2023-03-15T00:00:00Z",
+        "date_name_changed": "2006-11-09T00:00:00Z",
+        "ena": [
+            "D26156"
+        ],
+        "entrez_id": "6597",
+        "mgd_id": [
+            "MGI:88192"
+        ],
+        "iuphar": "objectId:2740",
+        "cosmic": "SMARCA4",
+        "orphanet": 225351,
+        "pubmed_id": [
+            8208605
+        ],
+        "refseq_accession": [
+            "NM_003072"
+        ],
+        "gene_group": [
+            "Bromodomain containing",
+            "BAF complex",
+            "PBAF complex",
+            "GBAF complex"
+        ],
+        "vega_id": "OTTHUMG00000169272",
+        "lsdb": [
+            "LRG_878|http://ftp.ebi.ac.uk/pub/databases/lrgex/LRG_878.xml"
+        ],
+        "ensembl_gene_id": "ENSG00000127616",
+        "ccds_id": [
+            "CCDS45972",
+            "CCDS92517",
+            "CCDS54218",
+            "CCDS54217",
+            "CCDS12253",
+            "CCDS45973"
+        ],
+        "locus_group": "protein-coding gene",
+        "omim_id": [
+            "603254"
+        ],
+        "uniprot_ids": [
+            "P51532"
+        ],
+        "ucsc_id": "uc060tnr.1",
+        "rgd_id": [
+            "RGD:621728"
+        ],
+        "gene_group_id": [
+            1232,
+            1604,
+            1605,
+            1606
+        ],
+        "location_sortable": "19p13.2",
+        "agr": "HGNC:11100",
+        "mane_select": [
+            "ENST00000344626.10",
+            "NM_003072.5"
+        ],
+        "gencc": "HGNC:11100",
+        "uuid": "0db2bdee-6275-41ae-9818-b33207550fe2",
+        "_version_": 1764660416327188480
+    },
+    "SMARCB1": {
+        "hgnc_id": "HGNC:11103",
+        "symbol": "SMARCB1",
+        "name": "SWI/SNF related, matrix associated, actin dependent regulator of chromatin, subfamily b, member 1",
+        "status": "Approved",
+        "locus_type": "gene with protein product",
+        "prev_symbol": [
+            "SNF5L1"
+        ],
+        "alias_symbol": [
+            "BAF47",
+            "Ini1",
+            "INI-1",
+            "Snr1",
+            "hSNFS",
+            "Sfh1p",
+            "RDT",
+            "PPP1R144",
+            "SNF5"
+        ],
+        "alias_name": [
+            "sucrose nonfermenting, yeast, homolog-like 1",
+            "integrase interactor 1",
+            "malignant rhabdoid tumor suppressor",
+            "protein phosphatase 1, regulatory subunit 144"
+        ],
+        "location": "22q11.23",
+        "date_approved_reserved": "1995-08-21T00:00:00Z",
+        "date_modified": "2023-01-20T00:00:00Z",
+        "ena": [
+            "U04847"
+        ],
+        "entrez_id": "6598",
+        "mgd_id": [
+            "MGI:1328366"
+        ],
+        "cosmic": "SMARCB1",
+        "orphanet": 119735,
+        "pubmed_id": [
+            7801128,
+            10319872,
+            10365963
+        ],
+        "refseq_accession": [
+            "NM_003073"
+        ],
+        "gene_group": [
+            "Protein phosphatase 1 regulatory subunits",
+            "BAF complex",
+            "PBAF complex"
+        ],
+        "vega_id": "OTTHUMG00000150737",
+        "lsdb": [
+            "LRG_520|http://ftp.ebi.ac.uk/pub/databases/lrgex/LRG_520.xml"
+        ],
+        "ensembl_gene_id": "ENSG00000099956",
+        "ccds_id": [
+            "CCDS13817",
+            "CCDS82699",
+            "CCDS46671"
+        ],
+        "locus_group": "protein-coding gene",
+        "omim_id": [
+            "601607"
+        ],
+        "uniprot_ids": [
+            "Q12824"
+        ],
+        "ucsc_id": "uc002zyb.4",
+        "rgd_id": [
+            "RGD:1308761"
+        ],
+        "gene_group_id": [
+            694,
+            1604,
+            1605
+        ],
+        "location_sortable": "22q11.23",
+        "agr": "HGNC:11103",
+        "mane_select": [
+            "ENST00000644036.2",
+            "NM_003073.5"
+        ],
+        "gencc": "HGNC:11103",
+        "uuid": "4ce7d669-346b-4ae6-908a-0295347f8d3e",
+        "_version_": 1764660416329285634
+    },
+    "SMARCC1": {
+        "hgnc_id": "HGNC:11104",
+        "symbol": "SMARCC1",
+        "name": "SWI/SNF related, matrix associated, actin dependent regulator of chromatin subfamily c member 1",
+        "status": "Approved",
+        "locus_type": "gene with protein product",
+        "prev_name": [
+            "SWI/SNF related, matrix associated, actin dependent regulator of chromatin, subfamily c, member 1"
+        ],
+        "alias_symbol": [
+            "BAF155",
+            "SRG3",
+            "Rsc8",
+            "CRACC1"
+        ],
+        "location": "3p21.31",
+        "date_approved_reserved": "1998-05-15T00:00:00Z",
+        "date_modified": "2023-01-20T00:00:00Z",
+        "date_name_changed": "2016-04-04T00:00:00Z",
+        "ena": [
+            "U66615"
+        ],
+        "entrez_id": "6599",
+        "mgd_id": [
+            "MGI:1203524"
+        ],
+        "pubmed_id": [
+            8804307
+        ],
+        "refseq_accession": [
+            "NM_003074"
+        ],
+        "gene_group": [
+            "Myb/SANT domain containing",
+            "BAF complex",
+            "PBAF complex",
+            "GBAF complex",
+            "Small nucleolar RNA protein coding host genes"
+        ],
+        "vega_id": "OTTHUMG00000133519",
+        "ensembl_gene_id": "ENSG00000173473",
+        "ccds_id": [
+            "CCDS2758"
+        ],
+        "locus_group": "protein-coding gene",
+        "omim_id": [
+            "601732"
+        ],
+        "uniprot_ids": [
+            "Q92922"
+        ],
+        "ucsc_id": "uc003crq.3",
+        "rgd_id": [
+            "RGD:1304850"
+        ],
+        "gene_group_id": [
+            532,
+            1604,
+            1605,
+            1606,
+            1835
+        ],
+        "location_sortable": "03p21.31",
+        "agr": "HGNC:11104",
+        "mane_select": [
+            "ENST00000254480.10",
+            "NM_003074.4"
+        ],
+        "uuid": "bfb31e2a-d85f-4b0f-846f-92e3cf43208c",
+        "_version_": 1764660416330334208
+    },
+    "SMARCC2": {
+        "hgnc_id": "HGNC:11105",
+        "symbol": "SMARCC2",
+        "name": "SWI/SNF related, matrix associated, actin dependent regulator of chromatin subfamily c member 2",
+        "status": "Approved",
+        "locus_type": "gene with protein product",
+        "prev_name": [
+            "SWI/SNF related, matrix associated, actin dependent regulator of chromatin, subfamily c, member 2"
+        ],
+        "alias_symbol": [
+            "BAF170",
+            "Rsc8",
+            "CRACC2"
+        ],
+        "location": "12q13.2",
+        "date_approved_reserved": "1998-05-15T00:00:00Z",
+        "date_modified": "2023-01-20T00:00:00Z",
+        "date_name_changed": "2016-04-04T00:00:00Z",
+        "ena": [
+            "U66616"
+        ],
+        "entrez_id": "6601",
+        "mgd_id": [
+            "MGI:1915344"
+        ],
+        "orphanet": 471116,
+        "pubmed_id": [
+            8804307,
+            9693044
+        ],
+        "refseq_accession": [
+            "NM_001130420"
+        ],
+        "gene_group": [
+            "Myb/SANT domain containing",
+            "BAF complex",
+            "PBAF complex"
+        ],
+        "vega_id": "OTTHUMG00000170288",
+        "ensembl_gene_id": "ENSG00000139613",
+        "ccds_id": [
+            "CCDS8907",
+            "CCDS8908",
+            "CCDS81698",
+            "CCDS55835"
+        ],
+        "locus_group": "protein-coding gene",
+        "omim_id": [
+            "601734"
+        ],
+        "uniprot_ids": [
+            "Q8TAQ2"
+        ],
+        "ucsc_id": "uc001skb.4",
+        "rgd_id": [
+            "RGD:1597704"
+        ],
+        "gene_group_id": [
+            532,
+            1604,
+            1605
+        ],
+        "location_sortable": "12q13.2",
+        "agr": "HGNC:11105",
+        "mane_select": [
+            "ENST00000550164.6",
+            "NM_001330288.2"
+        ],
+        "gencc": "HGNC:11105",
+        "uuid": "f27a3b0e-a779-46ff-a765-be60f3f85e1b",
+        "_version_": 1764660416330334209
+    },
+    "SMARCD1": {
+        "hgnc_id": "HGNC:11106",
+        "symbol": "SMARCD1",
+        "name": "SWI/SNF related, matrix associated, actin dependent regulator of chromatin, subfamily d, member 1",
+        "status": "Approved",
+        "locus_type": "gene with protein product",
+        "alias_symbol": [
+            "BAF60A",
+            "Rsc6p",
+            "CRACD1"
+        ],
+        "location": "12q13.12",
+        "date_approved_reserved": "1998-05-15T00:00:00Z",
+        "date_modified": "2023-01-20T00:00:00Z",
+        "ena": [
+            "U66617"
+        ],
+        "entrez_id": "6602",
+        "mgd_id": [
+            "MGI:1933623"
+        ],
+        "pubmed_id": [
+            8804307,
+            9693044,
+            12917342
+        ],
+        "refseq_accession": [
+            "NM_003076"
+        ],
+        "gene_group": [
+            "BAF complex",
+            "PBAF complex",
+            "GBAF complex"
+        ],
+        "vega_id": "OTTHUMG00000150194",
+        "ensembl_gene_id": "ENSG00000066117",
+        "ccds_id": [
+            "CCDS8798",
+            "CCDS8797"
+        ],
+        "locus_group": "protein-coding gene",
+        "omim_id": [
+            "601735"
+        ],
+        "uniprot_ids": [
+            "Q96GM5"
+        ],
+        "ucsc_id": "uc001rvx.5",
+        "rgd_id": [
+            "RGD:1305406"
+        ],
+        "gene_group_id": [
+            1604,
+            1605,
+            1606
+        ],
+        "location_sortable": "12q13.12",
+        "agr": "HGNC:11106",
+        "mane_select": [
+            "ENST00000394963.9",
+            "NM_003076.5"
+        ],
+        "gencc": "HGNC:11106",
+        "uuid": "d570de5a-ca5e-4eb8-bbb6-467bd3271199",
+        "_version_": 1764660416331382784
+    },
+    "SMARCD2": {
+        "hgnc_id": "HGNC:11107",
+        "symbol": "SMARCD2",
+        "name": "SWI/SNF related, matrix associated, actin dependent regulator of chromatin, subfamily d, member 2",
+        "status": "Approved",
+        "locus_type": "gene with protein product",
+        "alias_symbol": [
+            "BAF60B",
+            "Rsc6p",
+            "CRACD2",
+            "PRO2451"
+        ],
+        "alias_name": [
+            "mammalian chromatin remodeling complex BRG1-associated factor 60B",
+            "Swp73-like protein",
+            "chromatin remodeling complex BAF60B subunit",
+            "SWI/SNF complex 60 kDa subunit B"
+        ],
+        "location": "17q23.3",
+        "date_approved_reserved": "1998-05-15T00:00:00Z",
+        "date_modified": "2023-01-20T00:00:00Z",
+        "ena": [
+            "U66618"
+        ],
+        "entrez_id": "6603",
+        "mgd_id": [
+            "MGI:1933621"
+        ],
+        "pubmed_id": [
+            8804307,
+            9693044
+        ],
+        "refseq_accession": [
+            "NM_001098426"
+        ],
+        "gene_group": [
+            "BAF complex",
+            "PBAF complex",
+            "GBAF complex"
+        ],
+        "vega_id": "OTTHUMG00000179045",
+        "ensembl_gene_id": "ENSG00000108604",
+        "ccds_id": [
+            "CCDS45756",
+            "CCDS82187",
+            "CCDS82188"
+        ],
+        "locus_group": "protein-coding gene",
+        "omim_id": [
+            "601736"
+        ],
+        "uniprot_ids": [
+            "Q92925"
+        ],
+        "ucsc_id": "uc010deb.2",
+        "rgd_id": [
+            "RGD:69289"
+        ],
+        "gene_group_id": [
+            1604,
+            1605,
+            1606
+        ],
+        "location_sortable": "17q23.3",
+        "agr": "HGNC:11107",
+        "mane_select": [
+            "ENST00000448276.7",
+            "NM_001098426.2"
+        ],
+        "gencc": "HGNC:11107",
+        "uuid": "6f6ee776-c84a-4646-9c96-b5cbc193de53",
+        "_version_": 1764660416332431360
+    },
+    "SMARCD3": {
+        "hgnc_id": "HGNC:11108",
+        "symbol": "SMARCD3",
+        "name": "SWI/SNF related, matrix associated, actin dependent regulator of chromatin, subfamily d, member 3",
+        "status": "Approved",
+        "locus_type": "gene with protein product",
+        "alias_symbol": [
+            "BAF60C",
+            "Rsc6p",
+            "CRACD3"
+        ],
+        "alias_name": [
+            "mammalian chromatin remodeling complex BRG1-associated factor 60C",
+            "Swp73-like protein",
+            "SWI/SNF complex 60 kDa subunit C",
+            "60kDa BRG-1/Brm associated factor subunit c"
+        ],
+        "location": "7q36.1",
+        "date_approved_reserved": "1998-05-15T00:00:00Z",
+        "date_modified": "2023-01-20T00:00:00Z",
+        "ena": [
+            "U66619"
+        ],
+        "entrez_id": "6604",
+        "mgd_id": [
+            "MGI:1914243"
+        ],
+        "pubmed_id": [
+            8804307,
+            9693044
+        ],
+        "refseq_accession": [
+            "NM_001003801"
+        ],
+        "gene_group": [
+            "BAF complex",
+            "PBAF complex",
+            "GBAF complex"
+        ],
+        "vega_id": "OTTHUMG00000157431",
+        "ensembl_gene_id": "ENSG00000082014",
+        "ccds_id": [
+            "CCDS5924",
+            "CCDS34780"
+        ],
+        "locus_group": "protein-coding gene",
+        "omim_id": [
+            "601737"
+        ],
+        "uniprot_ids": [
+            "Q6STE5"
+        ],
+        "ucsc_id": "uc003wjs.4",
+        "rgd_id": [
+            "RGD:1311869"
+        ],
+        "gene_group_id": [
+            1604,
+            1605,
+            1606
+        ],
+        "location_sortable": "07q36.1",
+        "agr": "HGNC:11108",
+        "mane_select": [
+            "ENST00000262188.13",
+            "NM_001003801.2"
+        ],
+        "uuid": "11897265-8861-4fce-b650-cda7d9bd6465",
+        "_version_": 1764660416332431361
+    },
+    "SMARCE1": {
+        "hgnc_id": "HGNC:11109",
+        "symbol": "SMARCE1",
+        "name": "SWI/SNF related, matrix associated, actin dependent regulator of chromatin, subfamily e, member 1",
+        "status": "Approved",
+        "locus_type": "gene with protein product",
+        "alias_symbol": [
+            "BAF57"
+        ],
+        "location": "17q21.2",
+        "date_approved_reserved": "1998-05-15T00:00:00Z",
+        "date_modified": "2023-01-20T00:00:00Z",
+        "ena": [
+            "AF035262"
+        ],
+        "entrez_id": "6605",
+        "mgd_id": [
+            "MGI:1927347"
+        ],
+        "cosmic": "SMARCE1",
+        "orphanet": 332111,
+        "pubmed_id": [
+            9435219
+        ],
+        "refseq_accession": [
+            "NM_003079"
+        ],
+        "gene_group": [
+            "BAF complex",
+            "PBAF complex"
+        ],
+        "vega_id": "OTTHUMG00000133367",
+        "ensembl_gene_id": "ENSG00000073584",
+        "ccds_id": [
+            "CCDS11370"
+        ],
+        "locus_group": "protein-coding gene",
+        "omim_id": [
+            "603111"
+        ],
+        "uniprot_ids": [
+            "Q969G3"
+        ],
+        "ucsc_id": "uc002hux.4",
+        "rgd_id": [
+            "RGD:1304726"
+        ],
+        "gene_group_id": [
+            1604,
+            1605
+        ],
+        "location_sortable": "17q21.2",
+        "agr": "HGNC:11109",
+        "mane_select": [
+            "ENST00000348513.12",
+            "NM_003079.5"
+        ],
+        "gencc": "HGNC:11109",
+        "uuid": "f1936348-75f3-4f0f-99a2-3a5ebbcecbf0",
+        "_version_": 1764660416333479936
+    },
+    "SRCAP": {
+        "hgnc_id": "HGNC:16974",
+        "symbol": "SRCAP",
+        "name": "Snf2 related CREBBP activator protein",
+        "status": "Approved",
+        "locus_type": "gene with protein product",
+        "prev_name": [
+            "Snf2-related CREBBP activator protein"
+        ],
+        "alias_symbol": [
+            "KIAA0309",
+            "SWR1",
+            "DOMO1"
+        ],
+        "alias_name": [
+            "Swi2/Snf2-related ATPase homolog (S. cerevisiae)",
+            "domino homolog 1 (Drosophila)"
+        ],
+        "location": "16p11.2",
+        "date_approved_reserved": "2007-11-29T00:00:00Z",
+        "date_modified": "2023-01-20T00:00:00Z",
+        "date_name_changed": "2016-09-14T00:00:00Z",
+        "ena": [
+            "AB002307"
+        ],
+        "entrez_id": "10847",
+        "mgd_id": [
+            "MGI:2444036"
+        ],
+        "orphanet": 292309,
+        "pubmed_id": [
+            10347196,
+            25176633
+        ],
+        "refseq_accession": [
+            "NM_006662"
+        ],
+        "gene_group": [
+            "SRCAP complex",
+            "Small nucleolar RNA protein coding host genes"
+        ],
+        "vega_id": "OTTHUMG00000132393",
+        "ensembl_gene_id": "ENSG00000080603",
+        "ccds_id": [
+            "CCDS10689"
+        ],
+        "locus_group": "protein-coding gene",
+        "omim_id": [
+            "611421"
+        ],
+        "uniprot_ids": [
+            "Q6ZRS2"
+        ],
+        "ucsc_id": "uc002dze.2",
+        "rgd_id": [
+            "RGD:1565642"
+        ],
+        "gene_group_id": [
+            1329,
+            1835
+        ],
+        "location_sortable": "16p11.2",
+        "agr": "HGNC:16974",
+        "symbol_report_tag": [
+            "Stable symbol"
+        ],
+        "mane_select": [
+            "ENST00000262518.9",
+            "NM_006662.3"
+        ],
+        "gencc": "HGNC:16974",
+        "uuid": "243e3a36-f1b0-476f-9eba-beaf5a8b9197",
+        "_version_": 1764660416962625536
+    },
+    "SRRT": {
+        "hgnc_id": "HGNC:24101",
+        "symbol": "SRRT",
+        "name": "serrate, RNA effector molecule",
+        "status": "Approved",
+        "locus_type": "gene with protein product",
+        "prev_name": [
+            "serrate RNA effector molecule homolog (Arabidopsis)"
+        ],
+        "alias_symbol": [
+            "Asr2",
+            "serrate",
+            "ARS2"
+        ],
+        "alias_name": [
+            "arsenite resistance protein"
+        ],
+        "location": "7q22.1",
+        "date_approved_reserved": "2009-03-02T00:00:00Z",
+        "date_modified": "2023-01-20T00:00:00Z",
+        "date_name_changed": "2014-04-14T00:00:00Z",
+        "entrez_id": "51593",
+        "mgd_id": [
+            "MGI:1933527"
+        ],
+        "pubmed_id": [
+            11239002,
+            11230166
+        ],
+        "refseq_accession": [
+            "NM_015908"
+        ],
+        "vega_id": "OTTHUMG00000157031",
+        "ensembl_gene_id": "ENSG00000087087",
+        "ccds_id": [
+            "CCDS47667",
+            "CCDS47666",
+            "CCDS34709",
+            "CCDS47665"
+        ],
+        "locus_group": "protein-coding gene",
+        "omim_id": [
+            "614469"
+        ],
+        "uniprot_ids": [
+            "Q9BXP5"
+        ],
+        "ucsc_id": "uc032zzv.2",
+        "rgd_id": [
+            "RGD:1591241"
+        ],
+        "location_sortable": "07q22.1",
+        "agr": "HGNC:24101",
+        "mane_select": [
+            "ENST00000611405.5",
+            "NM_015908.6"
+        ],
+        "uuid": "3fb4ee44-6ce9-4123-a7b7-27e10e71dd8e",
+        "_version_": 1764660417002471425
+    },
+    "SS18L1": {
+        "hgnc_id": "HGNC:15592",
+        "symbol": "SS18L1",
+        "name": "SS18L1 subunit of BAF chromatin remodeling complex",
+        "status": "Approved",
+        "locus_type": "gene with protein product",
+        "prev_name": [
+            "synovial sarcoma translocation gene on chromosome 18-like 1",
+            "SS18L1, nBAF chromatin remodeling complex subunit"
+        ],
+        "alias_symbol": [
+            "KIAA0693",
+            "CREST",
+            "SMARCL2"
+        ],
+        "alias_name": [
+            "calcium-responsive transactivator"
+        ],
+        "location": "20q13.33",
+        "date_approved_reserved": "2001-04-26T00:00:00Z",
+        "date_modified": "2023-01-20T00:00:00Z",
+        "date_name_changed": "2019-01-25T00:00:00Z",
+        "ena": [
+            "AB014593"
+        ],
+        "entrez_id": "26039",
+        "mgd_id": [
+            "MGI:2444061"
+        ],
+        "cosmic": "SS18L1",
+        "refseq_accession": [
+            "NM_001301778"
+        ],
+        "gene_group": [
+            "BAF complex"
+        ],
+        "vega_id": "OTTHUMG00000032902",
+        "ensembl_gene_id": "ENSG00000184402",
+        "ccds_id": [
+            "CCDS13491"
+        ],
+        "locus_group": "protein-coding gene",
+        "omim_id": [
+            "606472"
+        ],
+        "uniprot_ids": [
+            "O75177"
+        ],
+        "ucsc_id": "uc002ycb.4",
+        "rgd_id": [
+            "RGD:621847"
+        ],
+        "gene_group_id": [
+            1604
+        ],
+        "location_sortable": "20q13.33",
+        "agr": "HGNC:15592",
+        "mane_select": [
+            "ENST00000331758.8",
+            "NM_198935.3"
+        ],
+        "gencc": "HGNC:15592",
+        "uuid": "2bf8adfe-a403-421d-997e-410f710d7da7",
+        "_version_": 1764660417019248641
+    },
+    "TCERG1": {
+        "hgnc_id": "HGNC:15630",
+        "symbol": "TCERG1",
+        "name": "transcription elongation regulator 1",
+        "status": "Approved",
+        "locus_type": "gene with protein product",
+        "prev_symbol": [
+            "TAF2S"
+        ],
+        "prev_name": [
+            "TATA box binding protein (TBP)-associated factor, RNA polymerase II, S, 150kD"
+        ],
+        "alias_symbol": [
+            "CA150",
+            "Urn1"
+        ],
+        "alias_name": [
+            "transcription factor CA150",
+            "co-activator of 150 kDa",
+            "TATA box binding protein (TBP)-associated factor, RNA polymerase II, S, 150kD",
+            "TATA box-binding protein-associated factor 2S"
+        ],
+        "location": "5q32",
+        "date_approved_reserved": "2001-06-20T00:00:00Z",
+        "date_modified": "2023-01-20T00:00:00Z",
+        "date_name_changed": "2002-01-24T00:00:00Z",
+        "ena": [
+            "AF017789"
+        ],
+        "entrez_id": "10915",
+        "mgd_id": [
+            "MGI:1926421"
+        ],
+        "pubmed_id": [
+            9315662,
+            11003711
+        ],
+        "refseq_accession": [
+            "NM_001040006"
+        ],
+        "date_symbol_changed": "2002-01-25T00:00:00Z",
+        "vega_id": "OTTHUMG00000129683",
+        "ensembl_gene_id": "ENSG00000113649",
+        "ccds_id": [
+            "CCDS93799",
+            "CCDS4282",
+            "CCDS43379"
+        ],
+        "locus_group": "protein-coding gene",
+        "omim_id": [
+            "605409"
+        ],
+        "uniprot_ids": [
+            "O14776"
+        ],
+        "ucsc_id": "uc003lob.4",
+        "rgd_id": [
+            "RGD:1311748"
+        ],
+        "location_sortable": "05q32",
+        "agr": "HGNC:15630",
+        "mane_select": [
+            "ENST00000679501.2",
+            "NM_001382548.1"
+        ],
+        "uuid": "7ebef3d4-a660-4a03-aebb-d7848302c522",
+        "_version_": 1764660417496350721
+    }
+}

@@ -1,0 +1,209 @@
+Feature	Number of Genes	Genes
+protein binding	12	PPP3CA, MYO1E, TNNC2, SYN2, POC5, PRKAG2, HYPK, PRKAB2, PHKA2, CETN1, CETN2, PTPN4
+cytosol	12	PPP3CA, TNNC2, POC5, PRKAG2, MYH14, PRKAB2, PHKA2, CETN1, CETN2, PTPN4, CAMK2N2, PDE1C
+nucleoplasm	9	PPP3CA, POC5, PRKAG2, HYPK, PRKAB2, SH3BGRL2, CETN2, PTPN4, CAMK2N2
+cytoplasm	7	PPP3CA, MYO1E, HYPK, MYH14, PRKAB2, SH3BGRL2, PTPN4
+calmodulin binding	5	PPP3CA, MYO1E, MYH14, PHKA2, PDE1C
+calcium ion binding	4	PPP3CA, TNNC2, CETN1, CETN2
+plasma membrane	4	PPP3CA, MYO1E, SYN2, PHKA2
+ATP binding	4	MYO1E, SYN2, PRKAG2, MYH14
+centrosome	4	POC5, CETN1, CETN2, CAMK2N2
+centriole	3	POC5, CETN1, CETN2
+protein kinase binding	3	PRKAG2, PRKAB2, CAMK2N2
+protein dephosphorylation	2	PPP3CA, PTPN4
+cytoplasmic side of plasma membrane	2	PPP3CA, PTPN4
+Schaffer collateral - CA1 synapse	2	PPP3CA, SYN2
+glutamatergic synapse	2	PPP3CA, SYN2
+microfilament motor activity	2	MYO1E, MYH14
+actin filament binding	2	MYO1E, MYH14
+cytoskeleton	2	MYO1E, PTPN4
+brush border	2	MYO1E, MYH14
+extracellular exosome	2	MYO1E, MYH14
+skeletal muscle contraction	2	TNNC2, MYH14
+synapse	2	SYN2, CAMK2N2
+AMP-activated protein kinase activity	2	PRKAG2, PRKAB2
+glycogen metabolic process	2	PRKAG2, PHKA2
+negative regulation of protein kinase activity	2	PRKAG2, CAMK2N2
+fatty acid biosynthetic process	2	PRKAG2, PRKAB2
+cellular response to nutrient levels	2	PRKAG2, PRKAB2
+nucleotide-activated protein kinase complex	2	PRKAG2, PRKAB2
+nucleus	2	HYPK, PRKAB2
+signal transduction	2	PRKAB2, PDE1C
+microtubule binding	2	CETN1, CETN2
+G-protein beta/gamma-subunit complex binding	2	CETN1, CETN2
+heterotrimeric G-protein binding	2	CETN1, CETN2
+mitotic cell cycle	2	CETN1, CETN2
+nucleotide-excision repair	2	CETN1, CETN2
+centriole replication	2	CETN1, CETN2
+cell division	2	CETN1, CETN2
+photoreceptor connecting cilium	2	CETN1, CETN2
+protein serine/threonine phosphatase activity	1	PPP3CA
+cyclosporin A binding	1	PPP3CA
+myosin phosphatase activity	1	PPP3CA
+enzyme binding	1	PPP3CA
+calmodulin-dependent protein phosphatase activity	1	PPP3CA
+protein-containing complex binding	1	PPP3CA
+protein dimerization activity	1	PPP3CA
+ATPase binding	1	PPP3CA
+molecular function activator activity	1	PPP3CA
+G1/S transition of mitotic cell cycle	1	PPP3CA
+response to amphetamine	1	PPP3CA
+protein import into nucleus	1	PPP3CA
+calcium ion transport	1	PPP3CA
+brain development	1	PPP3CA
+epidermis development	1	PPP3CA
+ gene expression	1	PPP3CA
+negative regulation of gene expression	1	PPP3CA
+transition between fast and slow fiber	1	PPP3CA
+cardiac muscle hypertrophy in response to stress	1	PPP3CA
+dephosphorylation	1	PPP3CA
+negative regulation of signaling	1	PPP3CA
+keratinocyte differentiation	1	PPP3CA
+ cell migration	1	PPP3CA
+calcineurin-NFAT signaling cascade	1	PPP3CA
+multicellular organismal response to stress	1	PPP3CA
+negative regulation of chromatin binding	1	PPP3CA
+wound healing	1	PPP3CA
+ activated T cell proliferation	1	PPP3CA
+T cell activation	1	PPP3CA
+skeletal muscle tissue regeneration	1	PPP3CA
+ osteoblast differentiation	1	PPP3CA
+ osteoclast differentiation	1	PPP3CA
+ cell adhesion	1	PPP3CA
+ endocytosis	1	PPP3CA
+ transcription by RNA polymerase II	1	PPP3CA
+negative regulation of insulin secretion	1	PPP3CA
+ saliva secretion	1	PPP3CA
+skeletal muscle fiber development	1	PPP3CA
+dendrite morphogenesis	1	PPP3CA
+negative regulation of dendrite morphogenesis	1	PPP3CA
+modulation of chemical synaptic transmission	1	PPP3CA
+ DNA-binding transcription factor activity	1	PPP3CA
+response to calcium ion	1	PPP3CA
+excitatory postsynaptic potential	1	PPP3CA
+ cell proliferation involved in kidney morphogenesis	1	PPP3CA
+peptidyl-serine dephosphorylation	1	PPP3CA
+ calcineurin-NFAT signaling cascade	1	PPP3CA
+cellular response to glucose stimulus	1	PPP3CA
+ glomerulus development	1	PPP3CA
+renal filtration	1	PPP3CA
+calcineurin-mediated signaling	1	PPP3CA
+postsynaptic modulation of chemical synaptic transmission	1	PPP3CA
+negative regulation of voltage-gated calcium channel activity	1	PPP3CA
+ voltage-gated calcium channel activity	1	PPP3CA
+ cardiac muscle hypertrophy in response to stress	1	PPP3CA
+ connective tissue replacement	1	PPP3CA
+ calcium ion import across plasma membrane	1	PPP3CA
+negative regulation of calcium ion import across plasma membrane	1	PPP3CA
+mitochondrion	1	PPP3CA
+calcineurin complex	1	PPP3CA
+protein serine/threonine phosphatase complex	1	PPP3CA
+extrinsic component of plasma membrane	1	PPP3CA
+Z disc	1	PPP3CA
+slit diaphragm	1	PPP3CA
+sarcolemma	1	PPP3CA
+dendritic spine	1	PPP3CA
+cytoskeletal motor activity	1	MYO1E
+ATP hydrolysis activity	1	MYO1E
+phosphatidylinositol binding	1	MYO1E
+vasculogenesis	1	MYO1E
+in utero embryonic development	1	MYO1E
+glomerular filtration	1	MYO1E
+nitrogen compound metabolic process	1	MYO1E
+endocytosis	1	MYO1E
+actin filament organization	1	MYO1E
+vesicle transport along actin filament	1	MYO1E
+glomerular basement membrane development	1	MYO1E
+post-embryonic hemopoiesis	1	MYO1E
+platelet-derived growth factor receptor signaling pathway	1	MYO1E
+podocyte development	1	MYO1E
+microvillus	1	MYO1E
+adherens junction	1	MYO1E
+actin cytoskeleton	1	MYO1E
+myosin complex	1	MYO1E
+vesicle	1	MYO1E
+cuticular plate	1	MYO1E
+clathrin-coated endocytic vesicle	1	MYO1E
+actin binding	1	TNNC2
+ muscle contraction	1	TNNC2
+troponin complex	1	TNNC2
+identical protein binding	1	SYN2
+chemical synaptic transmission	1	SYN2
+neurotransmitter secretion	1	SYN2
+calcium-ion regulated exocytosis	1	SYN2
+synaptic vesicle clustering	1	SYN2
+postsynaptic density	1	SYN2
+synaptic vesicle membrane	1	SYN2
+SNARE complex	1	SYN2
+cell cycle	1	POC5
+cAMP-dependent protein kinase inhibitor activity	1	PRKAG2
+cAMP-dependent protein kinase regulator activity	1	PRKAG2
+phosphorylase kinase regulator activity	1	PRKAG2
+AMP binding	1	PRKAG2
+protein kinase activator activity	1	PRKAG2
+ADP binding	1	PRKAG2
+ glycolytic process	1	PRKAG2
+protein phosphorylation	1	PRKAG2
+ATP biosynthetic process	1	PRKAG2
+ peptidyl-threonine phosphorylation	1	PRKAG2
+sterol biosynthetic process	1	PRKAG2
+ fatty acid metabolic process	1	PRKAG2
+intracellular signal transduction	1	PRKAG2
+ protein kinase activity	1	PRKAG2
+ fatty acid oxidation	1	PRKAG2
+ glucose import	1	PRKAG2
+extracellular space	1	PRKAG2
+protein folding chaperone	1	HYPK
+protein folding	1	HYPK
+negative regulation of apoptotic process	1	HYPK
+protein stabilization	1	HYPK
+microtubule cytoskeleton	1	HYPK
+protein-containing complex	1	HYPK
+skeletal muscle tissue development	1	MYH14
+sensory perception of sound	1	MYH14
+ cell shape	1	MYH14
+neuronal action potential	1	MYH14
+actin filament-based movement	1	MYH14
+actomyosin structure organization	1	MYH14
+mitochondrion morphogenesis	1	MYH14
+vocalization behavior	1	MYH14
+stress fiber	1	MYH14
+membrane	1	MYH14
+myosin II complex	1	MYH14
+growth cone	1	MYH14
+myosin filament	1	MYH14
+actomyosin	1	MYH14
+myosin II filament	1	MYH14
+ cold-induced thermogenesis	1	PRKAB2
+phosphorylase kinase activity	1	PHKA2
+carbohydrate metabolic process	1	PHKA2
+generation of precursor metabolites and energy	1	PHKA2
+protein modification process	1	PHKA2
+phosphorylase kinase complex	1	PHKA2
+SH3 domain binding	1	SH3BGRL2
+nuclear membrane	1	SH3BGRL2
+cellular response to heat	1	CETN1
+spindle pole	1	CETN1
+spermatogenesis	1	CETN2
+protein transport	1	CETN2
+ cytokinesis	1	CETN2
+mRNA transport	1	CETN2
+ciliary basal body	1	CETN2
+nuclear pore nuclear basket	1	CETN2
+apical part of cell	1	CETN2
+transcription export complex 2	1	CETN2
+XPC complex	1	CETN2
+9+2 motile cilium	1	CETN2
+protein tyrosine phosphatase activity	1	PTPN4
+non-membrane spanning protein tyrosine phosphatase activity	1	PTPN4
+cytoskeletal protein binding	1	PTPN4
+glutamate receptor binding	1	PTPN4
+peptidyl-tyrosine phosphorylation	1	PTPN4
+calcium-dependent protein kinase inhibitor activity	1	CAMK2N2
+3',5'-cyclic-AMP phosphodiesterase activity	1	PDE1C
+calmodulin-activated dual specificity 3',5'-cyclic-GMP, 3',5'-cyclic-AMP phosphodiesterase activity	1	PDE1C
+metal ion binding	1	PDE1C
+3',5'-cyclic-GMP phosphodiesterase activity	1	PDE1C
+calmodulin-activated 3',5'-cyclic-GMP phosphodiesterase activity	1	PDE1C
+lysosome	1	PDE1C
+neuronal cell body	1	PDE1C

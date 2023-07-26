@@ -1,0 +1,225 @@
+Feature	Number of Genes	Genes
+nucleus	29	BCLAF1, BMP2K, BRD2, CDK11A, CDK11B, CHTOP, CWC25, GPATCH8, HBP1, IK, NCBP3, PNN, PPIG, PRPF40A, PRPF4B, RBBP6, RBM15B, RBM25, SETD2, SFSWAP, SON, SRRM2, SRSF11, SRSF4, SRSF6, THRAP3, WBP11, ZC3H14, ZC3H18
+RNA binding	25	BCLAF1, CDK11B, CHTOP, GPATCH8, HBP1, NCBP3, PNN, PPIG, PRPF40A, PRPF4B, RBBP6, RBM15B, RBM25, RSRC2, SFSWAP, SON, SRRM2, SRSF11, SRSF4, SRSF6, THRAP3, UNK, WBP11, ZC3H14, ZC3H18
+nuclear speck	23	BCLAF1, BMP2K, BRD2, CHTOP, CWC25, HBP1, IK, NCBP3, PNN, PPIG, PRPF40A, PRPF4B, RBBP6, RBM15B, RBM25, SON, SRRM2, SRSF11, SRSF4, SRSF6, THRAP3, ZC3H14, ZC3H18
+nucleoplasm	16	BCLAF1, BRD2, CHTOP, CWC25, HBP1, IK, PPIG, PRPF40A, RBM15B, SETD2, SRRM2, SRSF11, SRSF4, SRSF6, THRAP3, WBP11
+cytoplasm	13	BCLAF1, BMP2K, BRD2, CDK11A, CDK11B, IK, NCBP3, PPIG, RBBP6, RBM25, UNK, WBP11, ZC3H14
+nucleus speckle	13	BCLAF1, CHTOP, PNN, PPIG, PRPF40A, RBM15B, RBM25, SON, SRRM2, SRSF4, SRSF6, THRAP3, ZC3H14
+mRNA splicing, via spliceosome	8	CWC25, IK, PNN, PRPF40A, PRPF4B, SRRM2, SRSF4, SRSF6
+RNA splicing	8	PPIG, PRPF4B, RBM15B, RBM25, SON, SRSF11, SRSF4, THRAP3
+mRNA binding	7	CHTOP, NCBP3, RBM15B, RBM25, SRRM2, SRSF4, SRSF6
+mRNA processing	7	RBBP6, RBM15B, RBM25, SON, SRSF11, SRSF4, THRAP3
+ATP binding	5	BMP2K, CDK11A, CDK11B, PRPF4B, THRAP3
+protein serine/threonine kinase activity	5	BMP2K, BRD2, CDK11A, CDK11B, PRPF4B
+protein phosphorylation	5	BMP2K, BRD2, CDK11A, CDK11B, PRPF4B
+spliceosome	5	CWC25, IK, PNN, PRPF4B, SRRM2
+metal ion binding	5	GPATCH8, SETD2, UNK, ZC3H14, ZC3H18
+DNA binding	4	BCLAF1, PNN, SON, THRAP3
+protein serine kinase activity	4	BMP2K, CDK11A, CDK11B, PRPF4B
+regulation of DNA-templated transcription	4	BRD2, CDK11A, CDK11B, SETD2
+regulation of cell cycle	4	CDK11A, CDK11B, HBP1, SON
+chromosome	4	IK, PRPF4B, RBBP6, SETD2
+regulation of alternative mRNA splicing, via spliceosome	4	RBM15B, RBM25, SRSF6, THRAP3
+apoptotic process	3	BCLAF1, CDK11A, CDK11B
+protein kinase activity	3	CDK11A, CDK11B, PRPF4B
+mitotic cell cycle	3	CDK11A, CDK11B, IK
+regulation of apoptotic process	3	CDK11A, CDK11B, RBM25
+regulation of RNA splicing	3	CDK11A, CDK11B, SON
+nucleolus	3	CHTOP, RBBP6, ZC3H14
+in utero embryonic development	3	CHTOP, RBBP6, UNK
+mRNA export from nucleus	3	CHTOP, NCBP3, RBM15B
+catalytic step 2 spliceosome	3	PNN, PRPF4B, SRRM2
+cytosol	3	PPIG, RBBP6, WBP11
+mRNA cis splicing, via spliceosome	3	PRPF40A, PRPF4B, WBP11
+Disease variant	3	SETD2, SON, WBP11
+Intellectual disability	3	SETD2, SON, ZC3H14
+negative regulation of mRNA splicing, via spliceosome	3	SFSWAP, SRSF4, SRSF6
+mediator complex	2	BCLAF1, THRAP3
+transcription coregulator activity	2	BCLAF1, THRAP3
+positive regulation of transcription by RNA polymerase II	2	BCLAF1, THRAP3
+chromatin	2	BRD2, HBP1
+neural tube closure	2	BRD2, SETD2
+regulation of transcription by RNA polymerase II	2	BRD2, HBP1
+cyclin-dependent protein kinase holoenzyme complex	2	CDK11A, CDK11B
+cyclin-dependent protein serine/threonine kinase activity	2	CDK11A, CDK11B
+regulation of cell growth	2	CDK11A, CDK11B
+regulation of centrosome cycle	2	CDK11A, CDK11B
+regulation of mitotic cell cycle	2	CDK11A, CDK11B
+regulation of mRNA processing	2	CDK11A, CDK11B
+RNA polymerase II cis-regulatory region sequence-specific DNA binding	2	HBP1, THRAP3
+U2-type precatalytic spliceosome	2	IK, SRRM2
+identical protein binding	2	IK, SRSF11
+cytoskeleton	2	IK, RBBP6
+defense response to virus	2	NCBP3, SETD2
+membrane	2	PNN, PRPF40A
+Tumor suppressor	2	PNN, SETD2
+intracellular membrane-bounded organelle	2	PPIG, WBP11
+nuclear matrix	2	PPIG, PRPF40A
+nucleus matrix	2	PPIG, PRPF40A
+regulation of cytokinesis	2	PRPF40A, SETD2
+protein-containing complex	2	RBBP6, ZC3H18
+alternative mRNA splicing, via spliceosome	2	SFSWAP, SRSF6
+response to insulin	2	SRSF4, SRSF6
+ribonucleoprotein complex	2	ZC3H14, ZC3H18
+cellular response to leukemia inhibitory factor	1	BCLAF1
+negative regulation of DNA-templated transcription	1	BCLAF1
+positive regulation of apoptotic process	1	BCLAF1
+positive regulation of DNA-templated transcription initiation	1	BCLAF1
+positive regulation of intrinsic apoptotic signaling pathway	1	BCLAF1
+positive regulation of response to DNA damage stimulus	1	BCLAF1
+regulation of DNA-templated transcription in response to stress	1	BCLAF1
+AP-2 adaptor complex binding	1	BMP2K
+phosphatase regulator activity	1	BMP2K
+positive regulation of Notch signaling pathway	1	BMP2K
+regulation of bone mineralization	1	BMP2K
+regulation of clathrin-dependent endocytosis	1	BMP2K
+chromatin binding	1	BRD2
+lysine-acetylated histone binding	1	BRD2
+chromatin remodeling	1	BRD2
+nucleosome assembly	1	BRD2
+spermatogenesis	1	BRD2
+cytoplasmic ribonucleoprotein granule	1	CHTOP
+transcription export complex	1	CHTOP
+methyl-CpG binding	1	CHTOP
+positive regulation of ATP-dependent activity	1	CHTOP
+positive regulation of cell population proliferation	1	CHTOP
+positive regulation of helicase activity	1	CHTOP
+positive regulation of histone methylation	1	CHTOP
+U2-type catalytic step 1 spliceosome	1	CWC25
+U2-type spliceosomal complex	1	CWC25
+DNA-binding transcription factor activity, RNA polymerase II-specific	1	HBP1
+Wnt signaling pathway	1	HBP1
+spindle pole	1	IK
+mitotic spindle assembly checkpoint signaling	1	IK
+protein localization to kinetochore	1	IK
+mRNA cap binding complex	1	NCBP3
+nuclear cap binding complex	1	NCBP3
+RNA cap binding complex	1	NCBP3
+RNA 7-methylguanosine cap binding	1	NCBP3
+RNA cap binding	1	NCBP3
+7-methylguanosine mRNA capping	1	NCBP3
+mRNA transcription by RNA polymerase II	1	NCBP3
+snRNA export from nucleus	1	NCBP3
+cell-cell junction	1	PNN
+desmosome	1	PNN
+intermediate filament	1	PNN
+plasma membrane	1	PNN
+structural molecule activity	1	PNN
+cell adhesion	1	PNN
+cell junction	1	PNN
+cyclosporin A binding	1	PPIG
+peptidyl-prolyl cis-trans isomerase activity	1	PPIG
+protein folding	1	PPIG
+protein peptidyl-prolyl isomerization	1	PPIG
+U1 snRNP	1	PRPF40A
+U2-type prespliceosome	1	PRPF40A
+cell cycle	1	PRPF40A
+cell division	1	PRPF40A
+cell migration	1	PRPF40A
+cytoskeleton organization	1	PRPF40A
+regulation of cell shape	1	PRPF40A
+microtubule organizing center	1	RBBP6
+protein kinase binding	1	RBBP6
+ubiquitin protein ligase activity	1	RBBP6
+ubiquitin-protein transferase activity	1	RBBP6
+zinc ion binding	1	RBBP6
+cellular response to DNA damage stimulus	1	RBBP6
+DNA replication	1	RBBP6
+embryonic organ development	1	RBBP6
+multicellular organism growth	1	RBBP6
+protein ubiquitination	1	RBBP6
+regulation of DNA replication	1	RBBP6
+somite development	1	RBBP6
+ubiquitin-dependent protein catabolic process	1	RBBP6
+centrosome	1	RBBP6
+nuclear envelope	1	RBM15B
+RNA N6-methyladenosine methyltransferase complex	1	RBM15B
+dosage compensation by inactivation of X chromosome	1	RBM15B
+RNA methylation	1	RBM15B
+nucleus envelope	1	RBM15B
+alpha-tubulin binding	1	SETD2
+histone H3K36 methyltransferase activity	1	SETD2
+histone H3K36 trimethyltransferase activity	1	SETD2
+histone lysine N-methyltransferase activity	1	SETD2
+protein-lysine N-methyltransferase activity	1	SETD2
+angiogenesis	1	SETD2
+cell migration involved in vasculogenesis	1	SETD2
+coronary vasculature morphogenesis	1	SETD2
+embryonic cranial skeleton morphogenesis	1	SETD2
+embryonic placenta morphogenesis	1	SETD2
+endodermal cell differentiation	1	SETD2
+forebrain development	1	SETD2
+histone H3-K36 dimethylation	1	SETD2
+histone H3-K36 trimethylation	1	SETD2
+mesoderm morphogenesis	1	SETD2
+microtubule cytoskeleton organization involved in mitosis	1	SETD2
+mismatch repair	1	SETD2
+morphogenesis of a branching structure	1	SETD2
+nucleosome organization	1	SETD2
+peptidyl-lysine trimethylation	1	SETD2
+pericardium development	1	SETD2
+positive regulation of interferon-alpha production	1	SETD2
+regulation of double-strand break repair via homologous recombination	1	SETD2
+regulation of gene expression	1	SETD2
+regulation of mRNA export from nucleus	1	SETD2
+regulation of protein localization to chromatin	1	SETD2
+response to type I interferon	1	SETD2
+stem cell development	1	SETD2
+stem cell differentiation	1	SETD2
+transcription elongation by RNA polymerase II promoter	1	SETD2
+Renal cell carcinoma	1	SETD2
+Luscan-Lumish syndrome	1	SETD2
+Leukemia	1	SETD2
+Autism spectrum disorder	1	SETD2
+mRNA 5'-splice site recognition	1	SFSWAP
+microtubule cytoskeleton organization	1	SON
+mitotic cytokinesis	1	SON
+negative regulation of apoptotic process	1	SON
+regulation of mRNA splicing, via spliceosome	1	SON
+ZTTK syndrome	1	SON
+Cajal body	1	SRRM2
+U2-type catalytic step 2 spliceosome	1	SRRM2
+C2H2 zinc finger domain binding	1	SRRM2
+protein N-terminus binding	1	SRRM2
+sequence-specific mRNA binding	1	SRSF4
+RNA splicing, via transesterification reactions	1	SRSF4
+pre-mRNA binding	1	SRSF6
+mRNA splice site selection	1	SRSF6
+negative regulation of cell death	1	SRSF6
+negative regulation of keratinocyte differentiation	1	SRSF6
+negative regulation of type B pancreatic cell apoptotic process	1	SRSF6
+positive regulation of epithelial cell proliferation involved in lung morphogenesis	1	SRSF6
+regulation of keratinocyte proliferation	1	SRSF6
+regulation of wound healing	1	SRSF6
+extracellular exosome	1	THRAP3
+nuclear receptor coactivator activity	1	THRAP3
+nuclear thyroid hormone receptor binding	1	THRAP3
+nuclear vitamin D receptor binding	1	THRAP3
+phosphoprotein binding	1	THRAP3
+transcription coactivator activity	1	THRAP3
+circadian rhythm	1	THRAP3
+mRNA stabilization	1	THRAP3
+nuclear-transcribed mRNA catabolic process	1	THRAP3
+positive regulation of circadian rhythm	1	THRAP3
+positive regulation of DNA-templated transcription	1	THRAP3
+positive regulation of mRNA splicing, via spliceosome	1	THRAP3
+polysome	1	UNK
+mRNA CDS binding	1	UNK
+polysome binding	1	UNK
+cell morphogenesis involved in neuron differentiation	1	UNK
+negative regulation of cytoplasmic translation	1	UNK
+neuron migration	1	UNK
+spliceosomal complex	1	WBP11
+single-stranded DNA binding	1	WBP11
+WW domain binding	1	WBP11
+rRNA processing	1	WBP11
+Vertebral	1	WBP11
+axon cytoplasm	1	ZC3H14
+dendrite cytoplasm	1	ZC3H14
+poly(A) binding	1	ZC3H14
+negative regulation of mRNA polyadenylation	1	ZC3H14
+regulation of mRNA stability	1	ZC3H14
+Intellectual developmental disorder	1	ZC3H14
+mRNA cap binding complex binding	1	ZC3H18
+protein-macromolecule adaptor activity	1	ZC3H18
+RNA destabilization	1	ZC3H18

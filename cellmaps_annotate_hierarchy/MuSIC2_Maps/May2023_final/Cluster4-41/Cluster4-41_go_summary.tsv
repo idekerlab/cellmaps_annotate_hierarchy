@@ -1,0 +1,83 @@
+Feature	Number of Genes	Genes
+protein binding	5	CLSPN, FLOT2, GLB1, GORASP1, SPCS1
+Golgi apparatus	3	CLSPN, GLB1, GORASP1
+intracellular membrane-bounded organelle	2	FLOT2, GLB1
+perinuclear region of cytoplasm	2	FLOT2, GLB1
+extracellular exosome	2	FLOT2, GLB1
+DNA secondary structure binding	1	CLSPN
+anaphase-promoting complex binding	1	CLSPN
+DNA replication checkpoint signaling	1	CLSPN
+DNA damage checkpoint signaling	1	CLSPN
+DNA repair	1	CLSPN
+mitotic G2 DNA damage checkpoint signaling	1	CLSPN
+peptidyl-serine phosphorylation	1	CLSPN
+activation of protein kinase activity	1	CLSPN
+mitotic DNA replication checkpoint signaling	1	CLSPN
+nucleus	1	CLSPN
+nucleoplasm	1	CLSPN
+cell adhesion	1	FLOT2
+epidermis development	1	FLOT2
+negative regulation of gene expression	1	FLOT2
+ heterotypic cell-cell adhesion	1	FLOT2
+ toll-like receptor 3 signaling pathway	1	FLOT2
+protein localization to plasma membrane raft	1	FLOT2
+ myoblast differentiation	1	FLOT2
+protein stabilization	1	FLOT2
+ NF-kappaB transcription factor activity	1	FLOT2
+protein localization to plasma membrane	1	FLOT2
+anterograde dendritic transport	1	FLOT2
+ postsynaptic membrane neurotransmitter receptor levels	1	FLOT2
+negative regulation of amyloid precursor protein catabolic process	1	FLOT2
+ establishment of T cell polarity	1	FLOT2
+uropod	1	FLOT2
+acrosomal membrane	1	FLOT2
+endosome	1	FLOT2
+plasma membrane	1	FLOT2
+caveola	1	FLOT2
+adherens junction	1	FLOT2
+focal adhesion	1	FLOT2
+membrane	1	FLOT2
+basolateral plasma membrane	1	FLOT2
+apical plasma membrane	1	FLOT2
+flotillin complex	1	FLOT2
+lamellipodium	1	FLOT2
+endocytic vesicle	1	FLOT2
+cortical actin cytoskeleton	1	FLOT2
+cytoplasmic vesicle	1	FLOT2
+vesicle	1	FLOT2
+dendrite cytoplasm	1	FLOT2
+cell-cell contact zone	1	FLOT2
+glutamatergic synapse	1	FLOT2
+beta-galactosidase activity	1	GLB1
+galactoside binding	1	GLB1
+protein homodimerization activity	1	GLB1
+carbohydrate metabolic process	1	GLB1
+glycosphingolipid metabolic process	1	GLB1
+galactose catabolic process	1	GLB1
+heparan sulfate proteoglycan catabolic process	1	GLB1
+keratan sulfate catabolic process	1	GLB1
+response to cortisone	1	GLB1
+response to Thyroglobulin triiodothyronine	1	GLB1
+extracellular region	1	GLB1
+cytoplasm	1	GLB1
+vacuole	1	GLB1
+azurophil granule lumen	1	GLB1
+lysosomal lumen	1	GLB1
+ficolin-1-rich granule lumen	1	GLB1
+metal ion binding	1	GORASP1
+protein N-linked glycosylation	1	GORASP1
+Golgi organization	1	GORASP1
+protein transport	1	GORASP1
+negative regulation of dendrite morphogenesis	1	GORASP1
+establishment of protein localization to plasma membrane	1	GORASP1
+Golgi membrane	1	GORASP1
+cis-Golgi network	1	GORASP1
+endoplasmic reticulum-Golgi intermediate compartment membrane	1	GORASP1
+molecular_function	1	SPCS1
+signal peptide processing	1	SPCS1
+proteolysis	1	SPCS1
+virion assembly	1	SPCS1
+viral protein processing	1	SPCS1
+protein targeting to ER	1	SPCS1
+signal peptidase complex	1	SPCS1
+endoplasmic reticulum membrane	1	SPCS1

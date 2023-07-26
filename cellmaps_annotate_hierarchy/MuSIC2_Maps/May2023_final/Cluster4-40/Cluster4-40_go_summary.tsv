@@ -1,0 +1,60 @@
+Feature	Number of Genes	Genes
+protein binding	4	CLDND1, ACOX1, LRCH1, MAPK13
+cytoplasm	3	KYAT3, LRCH1, MAPK13
+protein homodimerization activity	2	ACOX1, KYAT3
+cytosol	2	ACOX1, MAPK13
+cell surface	1	CLDND1
+apical plasma membrane	1	CLDND1
+acyl-CoA oxidase activity	1	ACOX1
+fatty acid binding	1	ACOX1
+palmitoyl-CoA oxidase activity	1	ACOX1
+PDZ domain binding	1	ACOX1
+flavin adenine dinucleotide binding	1	ACOX1
+FAD binding	1	ACOX1
+very long-chain fatty acid metabolic process	1	ACOX1
+generation of precursor metabolites and energy	1	ACOX1
+lipid metabolic process	1	ACOX1
+prostaglandin metabolic process	1	ACOX1
+spermatogenesis	1	ACOX1
+fatty acid catabolic process	1	ACOX1
+fatty acid oxidation	1	ACOX1
+fatty acid beta-oxidation using acyl-CoA oxidase	1	ACOX1
+hydrogen peroxide biosynthetic process	1	ACOX1
+lipid homeostasis	1	ACOX1
+very long-chain fatty acid beta-oxidation	1	ACOX1
+peroxisome	1	ACOX1
+peroxisomal membrane	1	ACOX1
+peroxisomal matrix	1	ACOX1
+membrane	1	ACOX1
+RNA binding	1	KYAT3
+kynurenine-oxoglutarate transaminase activity	1	KYAT3
+pyridoxal phosphate binding	1	KYAT3
+kynurenine-glyoxylate transaminase activity	1	KYAT3
+cysteine-S-conjugate beta-lyase activity	1	KYAT3
+2-oxoglutarate metabolic process	1	KYAT3
+amino acid metabolic process	1	KYAT3
+biosynthetic process	1	KYAT3
+kynurenine metabolic process	1	KYAT3
+L-kynurenine catabolic process	1	KYAT3
+mitochondrion	1	KYAT3
+negative regulation of GTPase activity	1	LRCH1
+cellular response to chemokine	1	LRCH1
+negative regulation of T cell migration	1	LRCH1
+protein serine/threonine kinase activity	1	MAPK13
+MAP kinase activity	1	MAPK13
+ATP binding	1	MAPK13
+protein serine kinase activity	1	MAPK13
+response to osmotic stress	1	MAPK13
+cell cycle	1	MAPK13
+peptidyl-serine phosphorylation	1	MAPK13
+ interleukin-6 production	1	MAPK13
+cellular response to UV	1	MAPK13
+intracellular signal transduction	1	MAPK13
+ inflammatory response	1	MAPK13
+stress-activated MAPK cascade	1	MAPK13
+cellular response to hydrogen peroxide	1	MAPK13
+cellular response to interleukin-1	1	MAPK13
+cellular response to sorbitol	1	MAPK13
+cellular response to anisomycin	1	MAPK13
+cellular response to sodium arsenite	1	MAPK13
+nucleus	1	MAPK13

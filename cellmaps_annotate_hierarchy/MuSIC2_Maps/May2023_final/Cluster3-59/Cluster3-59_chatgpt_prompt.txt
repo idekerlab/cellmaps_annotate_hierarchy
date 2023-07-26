@@ -1,0 +1,31 @@
+Your response should be formatted as Markdown paragraphs
+Write a critical and concise analysis of this human protein system, describing your reasoning as you go and providing references to scientific papers.
+
+A critical goal of the analysis is to determine if this is a novel complex or if any proteins are novel members of a known complex
+
+Format with Title, Summary, and References sections.        
+Avoid overly general statements of how the proteins are involved in various cellular processes        
+Avoid repeating the goals of the analysis.
+
+What cellular components and complexes are involved in this system?
+What mechanisms and biological processes are performed by this system?
+Propose a name for the system to reflect the cellular location and function, and should be specific but brief. Do not compose an acronym. Place it as the title of your report
+Human Proteins: THOC2, THOC5, MTMR7, MDP1, THOC7.
+
+System features from GO terms: 
+protein binding: 4 proteins: THOC2, THOC5, MTMR7, THOC7
+mRNA processing: 3 proteins: THOC2, THOC5, THOC7
+mRNA export from nucleus: 3 proteins: THOC2, THOC5, THOC7
+RNA splicing: 3 proteins: THOC2, THOC5, THOC7
+viral mRNA export from host cell nucleus: 3 proteins: THOC2, THOC5, THOC7
+transcription export complex: 3 proteins: THOC2, THOC5, THOC7
+THO complex: 3 proteins: THOC2, THOC5, THOC7
+THO complex part of transcription export complex: 3 proteins: THOC2, THOC5, THOC7
+chromosome, telomeric region: 3 proteins: THOC2, THOC5, THOC7
+nucleoplasm: 3 proteins: THOC2, THOC5, THOC7
+cytoplasm: 3 proteins: THOC5, MTMR7, THOC7
+mRNA binding: 2 proteins: THOC2, THOC5
+nuclear speck: 2 proteins: THOC2, THOC7
+nucleus: 2 proteins: THOC5, THOC7
+protein tyrosine phosphatase activity: 2 proteins: MTMR7, MDP1
+cytosol: 2 proteins: MTMR7, THOC7

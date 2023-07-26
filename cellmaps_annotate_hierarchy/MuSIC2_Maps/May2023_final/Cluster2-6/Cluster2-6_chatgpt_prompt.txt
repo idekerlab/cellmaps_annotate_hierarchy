@@ -1,0 +1,21 @@
+Your response should be formatted as Markdown paragraphs
+This is a human protein system high in a cell hierarchy and has child systems connect to it as well as residual proteins only belong to this system. From the protein list and the knowledge of how these proteins cluster, write a critical and concise analysis of this human protein system. Describe your reasoning as you go and providing references to scientific papers.
+
+A critical goal of the analysis is to determine if this is a novel complex or if any proteins are novel members of a known complex
+
+Format with Title, Summary, and References sections.        
+Avoid overly general statements of how the proteins are involved in various cellular processes        
+Avoid recapitulating the goals of the analysis.
+
+What cellular components and complexes are involved in this system?
+What mechanisms and biological processes are performed by this system?
+Propose a name for the system to reflect the function and location, and should be specific but brief. Do not compose an acronym. Place it as the title of your report
+Human Protein List: 
+proteins only in this high level system: INAVA, AKAP7, RFC3, PITPNM1, SNX7, CCDC93, DDB2, ZC3H12C, IL13RA2, ITGB1BP1, GALNT9, KIF2A, TBC1D23, EXOSC4, CDK5, NR1D1, HOXD4, CSPP1, GIT2, TCEANC2, BACH2, PABIR2, PRKCI, MYOM3, TJP1, HMMR, DDR1, SSX2IP, DZIP1L, DCP2, HMGN3, MAGI1, STK3, QRSL1, METTL9, TMEM186, RFXANK, VPS25, SNX24, LSM1, NEK1, SCAMP1, PTPDC1, SAMD4A, VPS13B, CEP72.
+proteins in child system Cluster3-14: OBSL1, TAF1D, LMF2, MZT2A, ARL3, CROCC, MZT2B, DENND10, RAB15, SPICE1, EEF1AKMT3, CPE, FCHO2, RMDN1, ENKD1, RAB11FIP5, TUBG2, CEP43, PCNT, SNX21, CEP350, CEP290, ZNF747, CRMP1, COQ9, KLHL21, CEP170B, CEP20, DNAH14, PLEKHG3, CEP250, KLHL12, CLEC11A, PSMB5, CEP170, PLEKHA6, MTMR9, NUP107, CDK5RAP2, DMBT1, TUBGCP2, RRAGD, CETN3, FNDC3A, MAP4K3, MAP7D3, RAB11B, ZBED1, RAB11FIP3, CEP152, DYNC2I1, ERCC6L, RABL2B.
+proteins in child system Cluster3-24: INHA, SMG5, UBA5, PHLDB1, PHKG2, TDRP, BLOC1S5, EIF4E, FYCO1, EIF4ENIF1, PLEK2, BRAF, ITPR3, DLG1, DCP1A, DCP1B, DDX6, EDC3, EDC4, KCNQ5, KCTD8, RCOR2.
+proteins in child system Cluster3-54: WDR54, FAM86B2, PATL1, GNL1, MEMO1, EEF2KMT, MPO.
+proteins in child system Cluster3-57: MAPK8IP3, PLEK2, GPHN, PRPS1, PRPS1L1, PRPS2.
+proteins in child system Cluster3-64: CDC42BPG, EHBP1L1, KIF5B, PTPN21, WDR62.
+proteins in child system Cluster2-67: ANLN, CYLD, MVB12A, RTKN2.
+proteins in child system Cluster3-8: CEP112, CHEK1, HDAC5, CIC, MAP3K3, SERF2, WEE1, HDAC6, PIK3C2A, PARP8, ZNF395, PPIL2, ARHGAP23, ATXN1L, PPM1H, MAPKBP1, SH2B3, YAP1, SH3RF3, HDAC4, CBARP, DENND4A, RFX7, PFKFB2, PFKFB4, WWTR1, FAM110A, PAK5, MTMR3, CRTC2, RGS12, KLC4, PPFIBP2, FRMD6, CFAP410, BAD, RHBDF1, YWHAE, CASK, WNK1, PAK4, SIPA1, AHNAK2, LPIN3, TP53BP2, CGNL1, TFE3, PHACTR4, MAP3K2, EPB41, RAF1, SIPA1L3, MPRIP, MICALL1, PPFIBP1, ZBTB21, TUT4, PRAG1, LPIN2, IRS1, CEP95, SAMD4B, AKT1S1, MAST2, PARD3, CGN, AFDN, BRAF, DLG1, KIF5B, PTPN21, WDR62, TSC1, SPEG, PLEKHA7, VPS13D, HINT3, YWHAQ, RAB11FIP1, SRGAP1, LPIN1, MEX3B, ANKS1A, PLEKHA5, R3HDM1, JCAD, TEAD2, CLIP4, ATXN1, PIK3R4, KLC2, ISCU, MIIP, ARHGAP21, TBC1D4, MAPK9, FOXO1, MAP3K20, CEP89, BICC1, PSD3, ERRFI1, TESK2, SPIRE1, PPP1R3E, EPN2, BECN1, DENND4C, RIPOR1, KIF5C, CDK14, AKAP13, TNFAIP3, SYDE2, PPIP5K2, YWHAG, MAST1, RALGPS2, TAOK1, SH3BP5L, PTPN4, PPIP5K1, PNRC2, ABAT, CREB3L2, FAM53B, HIVEP1, KIF21B, PPP1R3D, YWHAB, DYRK1A, TIAM1.

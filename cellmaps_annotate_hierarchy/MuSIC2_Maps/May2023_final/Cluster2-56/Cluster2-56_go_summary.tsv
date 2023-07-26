@@ -1,0 +1,16 @@
+Feature	Number of Genes	Genes
+RNA polymerase II cis-regulatory region sequence-specific DNA binding	6	ZKSCAN4, ZSCAN9, ZNF496, ZSCAN18, TGIF1, ZSCAN31
+DNA-binding transcription factor activity, RNA polymerase II-specific	6	ZKSCAN4, ZSCAN9, ZNF496, ZSCAN18, TGIF1, ZSCAN31
+protein binding	5	ZKSCAN4, ZSCAN9, ZNF496, ZSCAN18, TGIF1
+metal ion binding	5	ZKSCAN4, ZSCAN9, ZNF496, ZSCAN18, ZSCAN31
+ transcription by RNA polymerase II	5	ZKSCAN4, ZSCAN9, ZNF496, ZSCAN18, ZSCAN31
+nucleus	4	ZSCAN9, ZNF496, ZSCAN18, ZSCAN31
+sequence-specific double-stranded DNA binding	3	ZSCAN9, TGIF1, ZSCAN31
+nucleoplasm	2	ZKSCAN4, TGIF1
+identical protein binding	1	ZKSCAN4
+DNA binding	1	ZNF496
+ DNA-templated transcription	1	ZNF496
+DNA-binding transcription repressor activity, RNA polymerase II-specific	1	TGIF1
+DNA-binding transcription factor activity	1	TGIF1
+negative regulation of transcription by RNA polymerase II	1	TGIF1
+chromatin	1	TGIF1

@@ -1,0 +1,331 @@
+Feature	Number of Genes	Genes
+protein binding	17	OLFM4, PPL, AZGP1, RSRP1, ECM1, IMPA2, ESRP1, TRIM29, LGALSL, ZG16B, ME1, HES1, CCDC107, GTF2A2, HEY1, JPH3, YOD1
+cytoplasm	9	PPL, NLRP10, IMPA2, ME1, HES1, ALDH1A3, ANXA8L1, HEY1, YOD1
+cytosol	7	OLFM4, PPL, NLRP10, IMPA2, ME1, ALDH1A3, YOD1
+nucleoplasm	6	OLFM4, NLRP10, ESRP1, HES1, GTF2A2, HEY1
+extracellular exosome	6	OLFM4, PPL, AZGP1, ECM1, ZG16B, ALDH1A3
+nucleus	6	AZGP1, RSRP1, ESRP1, HES1, GTF2A2, HEY1
+extracellular space	4	OLFM4, AZGP1, ECM1, ZG16B
+ transcription by RNA polymerase II	4	ECM1, HES1, GTF2A2, HEY1
+protein homodimerization activity	4	IMPA2, HES1, ALDH1A3, GTF2A2
+cell adhesion	3	OLFM4, AZGP1, HES1
+signal transduction	3	OLFM4, ECM1, IMPA2
+extracellular region	3	OLFM4, AZGP1, ECM1
+plasma membrane	3	OLFM4, PPL, JPH3
+membrane	3	PPL, CCDC107, JPH3
+metal ion binding	3	IMPA2, DEF8, YOD1
+negative regulation of transcription by RNA polymerase II	3	TRIM29, HES1, HEY1
+RNA polymerase II-specific DNA-binding transcription factor binding	3	HES1, GTF2A2, HEY1
+structural molecule activity	2	OLFM4, PPL
+cadherin binding	2	OLFM4, PPL
+ apoptotic process	2	OLFM4, ALDH1A3
+mitochondrion	2	OLFM4, ME1
+protein-containing complex	2	OLFM4, HES1
+retina homeostasis	2	AZGP1, ZG16B
+collagen-containing extracellular matrix	2	AZGP1, ECM1
+angiogenesis	2	ECM1, HEY1
+inflammatory response	2	ECM1, NLRP10
+innate immune response	2	NLRP10, TRIM29
+identical protein binding	2	TRIM29, ME1
+carbohydrate binding	2	LGALSL, ZG16B
+molecular_function	2	ZG16B, JPH3
+protein homotetramerization	2	ME1, ALDH1A3
+DNA-binding transcription factor activity, RNA polymerase II-specific	2	HES1, HEY1
+DNA-binding transcription repressor activity, RNA polymerase II-specific	2	HES1, HEY1
+sequence-specific double-stranded DNA binding	2	HES1, HEY1
+Notch signaling pathway	2	HES1, HEY1
+anterior/posterior pattern specification	2	HES1, HEY1
+negative regulation of neuron differentiation	2	HES1, HEY1
+negative regulation of DNA-templated transcription	2	HES1, HEY1
+ neurogenesis	2	HES1, HEY1
+ventricular septum morphogenesis	2	HES1, HEY1
+labyrinthine layer blood vessel development	2	HES1, HEY1
+chromatin	2	HES1, HEY1
+neuromuscular process controlling balance	2	ALDH1A3, JPH3
+ necrotic cell death	1	OLFM4
+ phagocytosis	1	OLFM4
+ substrate adhesion-dependent cell spreading	1	OLFM4
+ neutrophil extravasation	1	OLFM4
+secretory granule	1	OLFM4
+specific granule lumen	1	OLFM4
+specific granule	1	OLFM4
+azurophil granule	1	OLFM4
+intercellular bridge	1	OLFM4
+perinuclear region of cytoplasm	1	OLFM4
+tertiary granule lumen	1	OLFM4
+structural constituent of cytoskeleton	1	PPL
+response to mechanical stimulus	1	PPL
+keratinization	1	PPL
+wound healing	1	PPL
+intermediate filament cytoskeleton organization	1	PPL
+cornified envelope	1	PPL
+cytoskeleton	1	PPL
+intermediate filament	1	PPL
+desmosome	1	PPL
+RNA nuclease activity	1	AZGP1
+protein transmembrane transporter activity	1	AZGP1
+detection of chemical stimulus involved in sensory perception of bitter taste	1	AZGP1
+immune response	1	AZGP1
+negative regulation of cell population proliferation	1	AZGP1
+protein transmembrane transport	1	AZGP1
+RNA phosphodiester bond hydrolysis	1	AZGP1
+external side of plasma membrane	1	AZGP1
+spliceosomal complex assembly	1	RSRP1
+protease binding	1	ECM1
+interleukin-2 receptor binding	1	ECM1
+extracellular matrix structural constituent	1	ECM1
+ossification	1	ECM1
+ endothelial cell proliferation	1	ECM1
+negative regulation of cytokine-mediated signaling pathway	1	ECM1
+chondrocyte development	1	ECM1
+ type 2 immune response	1	ECM1
+endochondral bone growth	1	ECM1
+negative regulation of peptidase activity	1	ECM1
+ bone mineralization	1	ECM1
+negative regulation of bone mineralization	1	ECM1
+biomineral tissue development	1	ECM1
+ I-kappaB kinase/NF-kappaB signaling	1	ECM1
+ angiogenesis	1	ECM1
+ T cell migration	1	ECM1
+extracellular matrix	1	ECM1
+platelet dense granule lumen	1	ECM1
+GTPase activity	1	NLRP10
+ATP binding	1	NLRP10
+ATP hydrolysis activity	1	NLRP10
+adaptive immune response	1	NLRP10
+ T-helper 1 type immune response	1	NLRP10
+ interleukin-1 alpha production	1	NLRP10
+ interleukin-6 production	1	NLRP10
+ interleukin-8 production	1	NLRP10
+ inflammatory response	1	NLRP10
+defense response to Gram-negative bacterium	1	NLRP10
+defense response to fungus	1	NLRP10
+ defense response to bacterium	1	NLRP10
+ T-helper 17 type immune response	1	NLRP10
+extrinsic component of plasma membrane	1	NLRP10
+nuclear membrane	1	NLRP10
+inositol monophosphate 1-phosphatase activity	1	IMPA2
+inositol monophosphate 3-phosphatase activity	1	IMPA2
+inositol monophosphate 4-phosphatase activity	1	IMPA2
+inositol metabolic process	1	IMPA2
+inositol biosynthetic process	1	IMPA2
+phosphate-containing compound metabolic process	1	IMPA2
+response to lithium ion	1	IMPA2
+phosphatidylinositol phosphate biosynthetic process	1	IMPA2
+mRNA binding	1	ESRP1
+mRNA processing	1	ESRP1
+RNA splicing	1	ESRP1
+ inner ear auditory receptor cell fate specification	1	ESRP1
+ RNA splicing	1	ESRP1
+nuclear body	1	ESRP1
+ribonucleoprotein complex	1	ESRP1
+p53 binding	1	TRIM29
+zinc ion binding	1	TRIM29
+cadherin binding involved in cell-cell adhesion	1	TRIM29
+cell-cell adhesion	1	TRIM29
+negative regulation of protein localization to nucleus	1	TRIM29
+lysosome	1	TRIM29
+adherens junction	1	TRIM29
+magnesium ion binding	1	ME1
+malic enzyme activity	1	ME1
+malate dehydrogenase (decarboxylating) (NAD+) activity	1	ME1
+malate dehydrogenase (decarboxylating) (NADP+) activity	1	ME1
+oxaloacetate decarboxylase activity	1	ME1
+electron transfer activity	1	ME1
+manganese ion binding	1	ME1
+ADP binding	1	ME1
+NADP binding	1	ME1
+NAD binding	1	ME1
+carbohydrate metabolic process	1	ME1
+pyruvate metabolic process	1	ME1
+malate metabolic process	1	ME1
+NADH metabolic process	1	ME1
+NADP metabolic process	1	ME1
+nucleotide biosynthetic process	1	ME1
+response to hormone	1	ME1
+response to carbohydrate	1	ME1
+electron transport chain	1	ME1
+ NADP metabolic process	1	ME1
+transcription corepressor binding	1	HES1
+DNA binding	1	HES1
+chromatin binding	1	HES1
+JUN kinase binding	1	HES1
+histone deacetylase binding	1	HES1
+HLH domain binding	1	HES1
+sequence-specific DNA binding	1	HES1
+protein-containing complex binding	1	HES1
+protein-folding chaperone binding	1	HES1
+E-box binding	1	HES1
+N-box binding	1	HES1
+cell fate determination	1	HES1
+liver development	1	HES1
+embryonic heart tube morphogenesis	1	HES1
+outflow tract morphogenesis	1	HES1
+ secondary heart field cardioblast proliferation	1	HES1
+ventricular septum development	1	HES1
+pancreatic A cell differentiation	1	HES1
+smoothened signaling pathway	1	HES1
+nervous system development	1	HES1
+ cell population proliferation	1	HES1
+ gene expression	1	HES1
+negative regulation of gene expression	1	HES1
+negative regulation of neuron projection development	1	HES1
+response to organic cyclic compound	1	HES1
+cell migration	1	HES1
+telencephalon development	1	HES1
+midbrain-hindbrain boundary morphogenesis	1	HES1
+oculomotor nerve development	1	HES1
+trochlear nerve development	1	HES1
+hindbrain morphogenesis	1	HES1
+forebrain radial glial cell differentiation	1	HES1
+Cajal-Retzius cell differentiation	1	HES1
+adenohypophysis development	1	HES1
+lung development	1	HES1
+BMP signaling pathway	1	HES1
+ BMP signaling pathway	1	HES1
+midbrain development	1	HES1
+somatic stem cell population maintenance	1	HES1
+amacrine cell differentiation	1	HES1
+ascending aorta morphogenesis	1	HES1
+T cell proliferation	1	HES1
+ T cell proliferation	1	HES1
+inner ear auditory receptor cell differentiation	1	HES1
+ tyrosine phosphorylation of STAT protein	1	HES1
+ protein-containing complex assembly	1	HES1
+response to alkaloid	1	HES1
+ DNA binding	1	HES1
+negative regulation of DNA-binding transcription factor activity	1	HES1
+ fat cell differentiation	1	HES1
+negative regulation of inner ear auditory receptor cell differentiation	1	HES1
+ Notch signaling pathway	1	HES1
+ mitotic cell cycle, embryonic	1	HES1
+lateral inhibition	1	HES1
+ receptor signaling pathway via JAK-STAT	1	HES1
+cell maturation	1	HES1
+thymus development	1	HES1
+cell morphogenesis involved in neuron differentiation	1	HES1
+ astrocyte differentiation	1	HES1
+negative regulation of oligodendrocyte differentiation	1	HES1
+artery morphogenesis	1	HES1
+ epithelial cell proliferation	1	HES1
+inner ear receptor cell stereocilium organization	1	HES1
+ timing of neuron differentiation	1	HES1
+negative regulation of glial cell proliferation	1	HES1
+ureteric bud morphogenesis	1	HES1
+common bile duct development	1	HES1
+stomach neuroendocrine cell differentiation	1	HES1
+negative regulation of stomach neuroendocrine cell differentiation	1	HES1
+cardiac neural crest cell development involved in outflow tract morphogenesis	1	HES1
+pharyngeal arch artery morphogenesis	1	HES1
+protein-containing complex assembly	1	HES1
+cellular response to interleukin-1	1	HES1
+cellular response to tumor necrosis factor	1	HES1
+cellular response to fatty acid	1	HES1
+glomerulus vasculature development	1	HES1
+comma-shaped body morphogenesis	1	HES1
+S-shaped body morphogenesis	1	HES1
+renal interstitial fibroblast development	1	HES1
+metanephric nephron tubule morphogenesis	1	HES1
+cochlea development	1	HES1
+establishment of epithelial cell polarity	1	HES1
+negative regulation of calcium ion import	1	HES1
+response to thyroid hormone	1	HES1
+vascular associated smooth muscle cell development	1	HES1
+neuronal stem cell population maintenance	1	HES1
+negative regulation of amacrine cell differentiation	1	HES1
+negative regulation of cell fate determination	1	HES1
+cellular response to nerve growth factor stimulus	1	HES1
+negative regulation of pancreatic A cell differentiation	1	HES1
+negative regulation of stem cell differentiation	1	HES1
+negative regulation of pro-B cell differentiation	1	HES1
+negative regulation of forebrain neuron differentiation	1	HES1
+nuclear matrix	1	HES1
+retinal dehydrogenase activity	1	ALDH1A3
+aldehyde dehydrogenase (NAD+) activity	1	ALDH1A3
+aldehyde dehydrogenase [NAD(P)+] activity	1	ALDH1A3
+thyroid hormone binding	1	ALDH1A3
+NAD+ binding	1	ALDH1A3
+optic cup morphogenesis involved in camera-type eye development	1	ALDH1A3
+retinoic acid biosynthetic process	1	ALDH1A3
+apoptotic process	1	ALDH1A3
+locomotory behavior	1	ALDH1A3
+nucleus accumbens development	1	ALDH1A3
+embryonic camera-type eye development	1	ALDH1A3
+inner ear morphogenesis	1	ALDH1A3
+retinol metabolic process	1	ALDH1A3
+retinoic acid metabolic process	1	ALDH1A3
+retinal metabolic process	1	ALDH1A3
+embryonic eye morphogenesis	1	ALDH1A3
+righting reflex	1	ALDH1A3
+olfactory pit development	1	ALDH1A3
+face development	1	ALDH1A3
+Harderian gland development	1	ALDH1A3
+RNA polymerase II general transcription initiation factor binding	1	GTF2A2
+RNA polymerase II general transcription initiation factor activity	1	GTF2A2
+TBP-class protein binding	1	GTF2A2
+protein heterodimerization activity	1	GTF2A2
+transcription by RNA polymerase II	1	GTF2A2
+transcription initiation at RNA polymerase II promoter	1	GTF2A2
+RNA polymerase II preinitiation complex assembly	1	GTF2A2
+ transcription initiation by RNA polymerase II	1	GTF2A2
+transcription factor TFIID complex	1	GTF2A2
+transcription factor TFIIA complex	1	GTF2A2
+cell junction	1	GTF2A2
+calcium ion binding	1	ANXA8L1
+calcium-dependent phospholipid binding	1	ANXA8L1
+endosome organization	1	ANXA8L1
+endosomal transport	1	ANXA8L1
+negative regulation of serine-type endopeptidase activity	1	ANXA8L1
+negative regulation of phospholipase A2 activity	1	ANXA8L1
+lysosome localization	1	DEF8
+ bone resorption	1	DEF8
+ ruffle assembly	1	DEF8
+RNA polymerase II cis-regulatory region sequence-specific DNA binding	1	HEY1
+DNA-binding transcription factor activity	1	HEY1
+protein dimerization activity	1	HEY1
+cardiac conduction system development	1	HEY1
+aortic valve morphogenesis	1	HEY1
+pulmonary valve morphogenesis	1	HEY1
+atrioventricular valve formation	1	HEY1
+endocardial cushion morphogenesis	1	HEY1
+cardiac ventricle morphogenesis	1	HEY1
+dorsal aorta morphogenesis	1	HEY1
+umbilical cord morphogenesis	1	HEY1
+negative regulation of Notch signaling pathway	1	HEY1
+cardiac epithelial to mesenchymal transition	1	HEY1
+heart trabecula formation	1	HEY1
+cardiac septum morphogenesis	1	HEY1
+arterial endothelial cell differentiation	1	HEY1
+Notch signaling involved in heart development	1	HEY1
+negative regulation of biomineral tissue development	1	HEY1
+circulatory system development	1	HEY1
+negative regulation of transcription regulatory region DNA binding	1	HEY1
+negative regulation of transcription from RNA polymerase II promoter involved in smooth muscle cell differentiation	1	HEY1
+ vasculogenesis	1	HEY1
+learning	1	JPH3
+memory	1	JPH3
+exploration behavior	1	JPH3
+locomotion	1	JPH3
+ synaptic plasticity	1	JPH3
+ neuronal synaptic plasticity	1	JPH3
+ ryanodine-sensitive calcium-release channel activity	1	JPH3
+calcium ion transport into cytosol	1	JPH3
+endoplasmic reticulum membrane	1	JPH3
+junctional sarcoplasmic reticulum membrane	1	JPH3
+junctional membrane complex	1	JPH3
+cysteine-type deubiquitinase activity	1	YOD1
+ubiquitin protein ligase binding	1	YOD1
+K63-linked deubiquitinase activity	1	YOD1
+deubiquitinase activity	1	YOD1
+K48-linked deubiquitinase activity	1	YOD1
+macroautophagy	1	YOD1
+protein deubiquitination	1	YOD1
+ubiquitin-dependent ERAD pathway	1	YOD1
+endoplasmic reticulum unfolded protein response	1	YOD1
+protein K29-linked deubiquitination	1	YOD1
+protein K11-linked deubiquitination	1	YOD1
+protein K63-linked deubiquitination	1	YOD1
+protein K48-linked deubiquitination	1	YOD1
+negative regulation of retrograde protein transport, ER to cytosol	1	YOD1
+protein K27-linked deubiquitination	1	YOD1
+protein K33-linked deubiquitination	1	YOD1

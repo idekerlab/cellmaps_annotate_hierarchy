@@ -1,0 +1,68 @@
+Feature	Number of Genes	Genes
+protein binding	6	NELFA, NELFB, NELFE, TRIM28, ZNF274, ZNF8
+nucleus	5	NELFA, NELFB, NELFE, TRIM28, ZNF8
+chromatin binding	4	NELFA, NELFE, TRIM28, ZNF274
+nucleoplasm	4	NELFA, NELFB, NELFE, TRIM28
+negative regulation of transcription by RNA polymerase II	4	NELFE, TRIM28, ZNF274, ZNF8
+negative regulation of transcription elongation by RNA polymerase II	3	NELFA, NELFB, NELFE
+ transcription by RNA polymerase II	3	NELFA, NELFE, ZNF274
+NELF complex	3	NELFA, NELFB, NELFE
+RNA binding	3	NELFB, NELFE, TRIM28
+ histone H3-K4 methylation	2	NELFA, NELFE
+nuclear body	2	NELFA, NELFE
+cytoplasm	2	NELFB, ZNF274
+DNA binding	2	TRIM28, ZNF8
+zinc ion binding	2	TRIM28, ZNF8
+ DNA-templated transcription	2	TRIM28, ZNF274
+RNA polymerase II cis-regulatory region sequence-specific DNA binding	2	ZNF274, ZNF8
+molecular adaptor activity	1	NELFA
+cytosol	1	NELFA
+cell population proliferation	1	NELFB
+stem cell differentiation	1	NELFB
+negative regulation of stem cell differentiation	1	NELFB
+mRNA binding	1	NELFE
+localization	1	NELFE
+ ERK1 and ERK2 cascade	1	NELFE
+chromatin	1	NELFE
+plasma membrane	1	NELFE
+transcription coactivator activity	1	TRIM28
+transcription corepressor activity	1	TRIM28
+protein kinase activity	1	TRIM28
+ubiquitin-protein transferase activity	1	TRIM28
+SUMO transferase activity	1	TRIM28
+ubiquitin protein ligase binding	1	TRIM28
+Krueppel-associated box domain binding	1	TRIM28
+ubiquitin protein ligase activity	1	TRIM28
+chromo shadow domain binding	1	TRIM28
+promoter-specific chromatin binding	1	TRIM28
+epithelial to mesenchymal transition	1	TRIM28
+DNA repair	1	TRIM28
+chromatin organization	1	TRIM28
+embryo implantation	1	TRIM28
+protein sumoylation	1	TRIM28
+ protein binding	1	TRIM28
+ protein import into nucleus	1	TRIM28
+DNA methylation involved in embryo development	1	TRIM28
+ DNA binding	1	TRIM28
+suppression of viral release by host	1	TRIM28
+innate immune response	1	TRIM28
+ DNA repair	1	TRIM28
+negative regulation of single stranded viral RNA replication via double stranded DNA intermediate	1	TRIM28
+negative regulation of DNA-templated transcription	1	TRIM28
+protein autophosphorylation	1	TRIM28
+convergent extension involved in axis elongation	1	TRIM28
+embryonic placenta morphogenesis	1	TRIM28
+ DNA methylation-dependent heterochromatin formation	1	TRIM28
+negative regulation of DNA demethylation	1	TRIM28
+ genetic imprinting	1	TRIM28
+euchromatin	1	TRIM28
+heterochromatin	1	TRIM28
+protein-containing complex	1	TRIM28
+RNA polymerase II transcription regulator complex	1	TRIM28
+DNA-binding transcription factor activity, RNA polymerase II-specific	1	ZNF274
+sequence-specific DNA binding	1	ZNF274
+metal ion binding	1	ZNF274
+sequence-specific double-stranded DNA binding	1	ZNF274
+chromatin remodeling	1	ZNF274
+nucleolus	1	ZNF274
+BMP signaling pathway	1	ZNF8

@@ -1,0 +1,63 @@
+Feature	Number of Genes	Genes
+protein binding	3	BLZF1, POLB, SDF4
+cytoplasm	3	BLZF1, POLB, SDF4
+enzyme binding	2	BLZF1, POLB
+nucleus	2	BLZF1, POLB
+nucleoplasm	2	BLZF1, POLB
+Golgi apparatus	2	BLZF1, SDF4
+plasma membrane	2	NBEA, SDF4
+membrane	2	NBEA, SDF4
+response to ethanol	2	POLB, SDF4
+ubiquitin protein ligase binding	1	BLZF1
+Golgi organization	1	BLZF1
+Golgi to plasma membrane protein transport	1	BLZF1
+Golgi membrane	1	BLZF1
+cis-Golgi network	1	BLZF1
+protein kinase binding	1	NBEA
+protein localization	1	NBEA
+trans-Golgi network	1	NBEA
+cytosol	1	NBEA
+endomembrane system	1	NBEA
+damaged DNA binding	1	POLB
+DNA-directed DNA polymerase activity	1	POLB
+DNA-(apurinic or apyrimidinic site) endonuclease activity	1	POLB
+microtubule binding	1	POLB
+lyase activity	1	POLB
+metal ion binding	1	POLB
+in utero embryonic development	1	POLB
+DNA-templated DNA replication	1	POLB
+DNA repair	1	POLB
+base-excision repair	1	POLB
+base-excision repair, gap-filling	1	POLB
+pyrimidine dimer repair	1	POLB
+nucleotide-excision repair, DNA gap filling	1	POLB
+double-strand break repair via nonhomologous end joining	1	POLB
+inflammatory response	1	POLB
+DNA damage response	1	POLB
+salivary gland morphogenesis	1	POLB
+intrinsic apoptotic signaling pathway in response to DNA damage	1	POLB
+response to gamma radiation	1	POLB
+somatic hypermutation of immunoglobulin genes	1	POLB
+lymph node development	1	POLB
+spleen development	1	POLB
+homeostasis of number of cells	1	POLB
+neuron apoptotic process	1	POLB
+response to hyperoxia	1	POLB
+immunoglobulin heavy chain V-D-J recombination	1	POLB
+DNA biosynthetic process	1	POLB
+microtubule	1	POLB
+spindle microtubule	1	POLB
+protein-containing complex	1	POLB
+calcium ion binding	1	SDF4
+identical protein binding	1	SDF4
+UV protection	1	SDF4
+calcium-ion regulated exocytosis	1	SDF4
+cerebellum development	1	SDF4
+fat cell differentiation	1	SDF4
+zymogen granule exocytosis	1	SDF4
+maintenance of synapse structure	1	SDF4
+late endosome	1	SDF4
+endoplasmic reticulum	1	SDF4
+Golgi lumen	1	SDF4
+bleb	1	SDF4
+extracellular exosome	1	SDF4

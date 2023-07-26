@@ -1,0 +1,33 @@
+Your response should be formatted as Markdown paragraphs
+Write a critical and concise analysis of this human protein system, describing your reasoning as you go and providing references to scientific papers.
+
+A critical goal of the analysis is to determine if this is a novel complex or if any proteins are novel members of a known complex
+
+Format with Title, Summary, and References sections.        
+Avoid overly general statements of how the proteins are involved in various cellular processes        
+Avoid repeating the goals of the analysis.
+
+What cellular components and complexes are involved in this system?
+What mechanisms and biological processes are performed by this system?
+Propose a name for the system to reflect the cellular location and function, and should be specific but brief. Do not compose an acronym. Place it as the title of your report
+Human Proteins: RNF25, UBE2D2, DBNL, UBE2D3.
+
+System features from GO terms: 
+protein binding: 4 proteins: RNF25, UBE2D2, DBNL, UBE2D3
+cytosol: 4 proteins: RNF25, UBE2D2, DBNL, UBE2D3
+ubiquitin-protein transferase activity: 3 proteins: RNF25, UBE2D2, UBE2D3
+ubiquitin protein ligase activity: 3 proteins: RNF25, UBE2D2, UBE2D3
+ubiquitin-dependent protein catabolic process: 3 proteins: RNF25, UBE2D2, UBE2D3
+protein ubiquitination: 3 proteins: RNF25, UBE2D2, UBE2D3
+nucleus: 3 proteins: RNF25, UBE2D2, UBE2D3
+extracellular exosome: 3 proteins: UBE2D2, DBNL, UBE2D3
+ATP binding: 2 proteins: UBE2D2, UBE2D3
+ubiquitin protein ligase binding: 2 proteins: UBE2D2, UBE2D3
+ubiquitin conjugating enzyme activity: 2 proteins: UBE2D2, UBE2D3
+protein polyubiquitination: 2 proteins: UBE2D2, UBE2D3
+protein modification process: 2 proteins: UBE2D2, UBE2D3
+protein autoubiquitination: 2 proteins: UBE2D2, UBE2D3
+protein K48-linked ubiquitination: 2 proteins: UBE2D2, UBE2D3
+ubiquitin ligase complex: 2 proteins: UBE2D2, UBE2D3
+nucleoplasm: 2 proteins: UBE2D2, UBE2D3
+plasma membrane: 2 proteins: DBNL, UBE2D3

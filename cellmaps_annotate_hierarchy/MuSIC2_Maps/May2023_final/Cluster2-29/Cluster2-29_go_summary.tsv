@@ -1,0 +1,272 @@
+Feature	Number of Genes	Genes
+protein binding	18	POT1, XRCC5, RFWD3, RPA1, TIMELESS, LIG4, PNKP, TNKS, RPA2, PAXX, APTX, HMCES, LIG3, XRCC4, APLF, XRCC1, RNF146, XRCC6
+nucleoplasm	17	POT1, XRCC5, RFWD3, RPA1, TIMELESS, LIG4, PNKP, TNKS, RPA2, PAXX, APTX, LIG3, XRCC4, APLF, XRCC1, RNF146, XRCC6
+nucleus	16	XRCC5, RFWD3, RPA1, TIMELESS, LIG4, PNKP, TNKS, RPA2, PAXX, APTX, LIG3, XRCC4, APLF, XRCC1, RNF146, XRCC6
+chromosome, telomeric region	8	POT1, XRCC5, RPA1, LIG4, TNKS, RPA2, XRCC1, XRCC6
+double-strand break repair via nonhomologous end joining	8	XRCC5, LIG4, PNKP, PAXX, XRCC4, APLF, XRCC1, XRCC6
+DNA damage response	7	XRCC5, RFWD3, RPA1, TIMELESS, PAXX, HMCES, APLF
+site of double-strand break	7	RFWD3, TIMELESS, PNKP, RPA2, PAXX, XRCC4, APLF
+DNA binding	6	XRCC5, TIMELESS, LIG4, LIG3, XRCC4, XRCC6
+damaged DNA binding	6	XRCC5, RPA1, PNKP, RPA2, APTX, XRCC6
+cytosol	6	XRCC5, TNKS, XRCC4, APLF, RNF146, XRCC6
+ATP binding	5	XRCC5, LIG4, PNKP, LIG3, XRCC6
+double-strand break repair	5	XRCC5, LIG4, LIG3, XRCC4, APLF
+nucleolus	5	XRCC5, PNKP, APTX, XRCC1, XRCC6
+nonhomologous end joining complex	5	XRCC5, LIG4, PAXX, XRCC4, XRCC6
+site of DNA damage	5	XRCC5, RFWD3, RPA1, APLF, XRCC1
+metal ion binding	5	RFWD3, RPA1, LIG4, APTX, APLF
+cytoplasm	5	RFWD3, TNKS, PAXX, APTX, RNF146
+ telomere maintenance via telomerase	4	POT1, XRCC5, PNKP, TNKS
+ telomerase activity	4	POT1, XRCC5, PNKP, TNKS
+double-stranded DNA binding	4	XRCC5, PNKP, APTX, XRCC6
+telomere maintenance	4	XRCC5, RPA1, RPA2, XRCC6
+double-strand break repair via homologous recombination	4	RFWD3, RPA1, RPA2, LIG3
+single-stranded DNA binding	4	RPA1, RPA2, APTX, HMCES
+DNA repair	4	RPA1, TIMELESS, PNKP, APLF
+cell division	4	TIMELESS, LIG4, TNKS, LIG3
+chromatin	4	TIMELESS, RPA2, APTX, XRCC1
+single strand break repair	4	LIG4, APTX, APLF, XRCC1
+telomeric DNA binding	3	POT1, XRCC5, XRCC6
+G-rich strand telomeric DNA binding	3	POT1, RPA1, RPA2
+DNA duplex unwinding	3	POT1, XRCC5, XRCC6
+nuclear telomere cap complex	3	POT1, XRCC5, XRCC6
+negative regulation of DNA-templated transcription	3	XRCC5, TIMELESS, XRCC6
+membrane	3	XRCC5, PNKP, XRCC6
+PML body	3	RFWD3, RPA1, RPA2
+DNA replication	3	RPA1, LIG4, RPA2
+base-excision repair	3	RPA1, RPA2, XRCC1
+nucleotide-excision repair	3	RPA1, PNKP, RPA2
+DNA ligation	3	LIG4, APTX, XRCC6
+DNA ligation involved in DNA repair	3	LIG4, PNKP, XRCC4
+zinc ion binding	3	TNKS, LIG3, RNF146
+poly-ADP-D-ribose binding	3	APLF, XRCC1, RNF146
+single-stranded telomeric DNA binding	2	POT1, RPA1
+telomere maintenance via telomerase	2	POT1, RPA1
+ telomere maintenance	2	POT1, XRCC5
+ double-strand break repair via nonhomologous end joining	2	POT1, PNKP
+transcription cis-regulatory region binding	2	XRCC5, XRCC6
+DNA helicase activity	2	XRCC5, XRCC6
+double-stranded telomeric DNA binding	2	XRCC5, XRCC6
+RNA binding	2	XRCC5, XRCC6
+ATP-dependent activity, acting on DNA	2	XRCC5, XRCC6
+ATP hydrolysis activity	2	XRCC5, XRCC6
+ubiquitin protein ligase binding	2	XRCC5, RPA2
+protein-containing complex binding	2	XRCC5, XRCC6
+DNA end binding	2	XRCC5, XRCC6
+5'-deoxyribose-5-phosphate lyase activity	2	XRCC5, XRCC6
+recombinational repair	2	XRCC5, XRCC6
+activation of innate immune response	2	XRCC5, XRCC6
+DNA recombination	2	XRCC5, RPA1
+response to xenobiotic stimulus	2	XRCC5, XRCC1
+neurogenesis	2	XRCC5, LIG4
+innate immune response	2	XRCC5, XRCC6
+ protein kinase activity	2	XRCC5, XRCC6
+ smooth muscle cell proliferation	2	XRCC5, XRCC6
+ neurogenesis	2	XRCC5, LIG4
+protein localization to chromosome, telomeric region	2	XRCC5, TNKS
+cellular response to gamma radiation	2	XRCC5, XRCC6
+extracellular region	2	XRCC5, XRCC6
+plasma membrane	2	XRCC5, RNF146
+protein-containing complex	2	XRCC5, XRCC6
+protein-DNA complex	2	XRCC5, XRCC6
+secretory granule lumen	2	XRCC5, XRCC6
+Ku70:Ku80 complex	2	XRCC5, XRCC6
+DNA-dependent protein kinase complex	2	XRCC5, XRCC6
+ubiquitin protein ligase activity	2	RFWD3, RNF146
+mitotic G1 DNA damage checkpoint signaling	2	RFWD3, RPA2
+ DNA damage checkpoint	2	RFWD3, RPA2
+DNA-templated DNA replication	2	RPA1, PNKP
+mismatch repair	2	RPA1, RPA2
+protein localization to chromosome	2	RPA1, RPA2
+DNA replication factor A complex	2	RPA1, RPA2
+identical protein binding	2	TIMELESS, XRCC4
+ double-strand break repair via homologous recombination	2	TIMELESS, RPA2
+DNA ligase activity	2	LIG4, LIG3
+DNA ligase (ATP) activity	2	LIG4, LIG3
+ligase activity	2	LIG4, XRCC4
+cell cycle	2	LIG4, LIG3
+response to X-ray	2	LIG4, XRCC4
+V(D)J recombination	2	LIG4, LIG3
+immunoglobulin V(D)J recombination	2	LIG4, XRCC4
+DNA biosynthetic process	2	LIG4, LIG3
+double-strand break repair via classical nonhomologous end joining	2	LIG4, XRCC6
+condensed chromosome	2	LIG4, XRCC4
+DNA-dependent protein kinase-DNA ligase 4 complex	2	LIG4, XRCC4
+DNA ligase IV complex	2	LIG4, XRCC4
+base-excision repair, gap-filling	2	PNKP, LIG3
+negative regulation of protein ADP-ribosylation	2	PNKP, XRCC1
+ telomere capping	2	PNKP, TNKS
+mitochondrion	2	PNKP, LIG3
+histone binding	2	TNKS, APLF
+Wnt signaling pathway	2	TNKS, RNF146
+ transcription by RNA polymerase II	2	TNKS, XRCC6
+ canonical Wnt signaling pathway	2	TNKS, RNF146
+nuclear body	2	TNKS, RPA2
+enzyme binding	2	RPA2, XRCC1
+molecular adaptor activity	2	PAXX, XRCC4
+DNA-(apurinic or apyrimidinic site) endonuclease activity	2	HMCES, APLF
+ isotype switching	2	HMCES, APLF
+ADP-D-ribose modification-dependent protein binding	2	APLF, XRCC1
+telomerase inhibitor activity	1	POT1
+DEAD/H-box RNA helicase binding	1	POT1
+telomeric D-loop binding	1	POT1
+telomeric G-quadruplex DNA binding	1	POT1
+8-hydroxy-2'-deoxyguanosine DNA binding	1	POT1
+G-rich single-stranded DNA binding	1	POT1
+telomere capping	1	POT1
+telomere assembly	1	POT1
+negative regulation of telomere maintenance via telomerase	1	POT1
+ helicase activity	1	POT1
+negative regulation of telomerase activity	1	POT1
+ DNA strand elongation	1	POT1
+telomeric D-loop disassembly	1	POT1
+establishment of protein localization to telomere	1	POT1
+ DNA helicase activity	1	POT1
+shelterin complex	1	POT1
+enzyme activator activity	1	XRCC5
+U3 snoRNA binding	1	XRCC5
+brain development	1	XRCC5
+small-subunit processome assembly	1	XRCC5
+ catalytic activity	1	XRCC5
+hematopoietic stem cell differentiation	1	XRCC5
+cellular response to fatty acid	1	XRCC5
+hematopoietic stem cell proliferation	1	XRCC5
+cellular hyperosmotic salinity response	1	XRCC5
+cellular response to X-ray	1	XRCC5
+negative regulation of t-circle formation	1	XRCC5
+cellular response to leukemia inhibitory factor	1	XRCC5
+small-subunit processome	1	XRCC5
+ribonucleoprotein complex	1	XRCC5
+p53 binding	1	RFWD3
+MDM2/MDM4 family protein binding	1	RFWD3
+response to ionizing radiation	1	RFWD3
+protein ubiquitination	1	RFWD3
+replication fork processing	1	RFWD3
+interstrand cross-link repair	1	RFWD3
+meiotic cell cycle	1	RPA1
+DNA replication checkpoint signaling	1	TIMELESS
+morphogenesis of an epithelium	1	TIMELESS
+circadian rhythm	1	TIMELESS
+detection of abiotic stimulus	1	TIMELESS
+lung development	1	TIMELESS
+ cell population proliferation	1	TIMELESS
+ circadian rhythm	1	TIMELESS
+replication fork arrest	1	TIMELESS
+cell cycle phase transition	1	TIMELESS
+branching morphogenesis of an epithelial tube	1	TIMELESS
+cellular response to hydroxyurea	1	TIMELESS
+cellular response to cisplatin	1	TIMELESS
+cellular response to bleomycin	1	TIMELESS
+ double-strand break repair	1	TIMELESS
+replication fork protection complex	1	TIMELESS
+in utero embryonic development	1	LIG4
+pro-B cell differentiation	1	LIG4
+nucleotide-excision repair, DNA gap filling	1	LIG4
+central nervous system development	1	LIG4
+cell population proliferation	1	LIG4
+response to gamma radiation	1	LIG4
+T cell differentiation in thymus	1	LIG4
+T cell receptor V(D)J recombination	1	LIG4
+somatic stem cell population maintenance	1	LIG4
+negative regulation of neuron apoptotic process	1	LIG4
+isotype switching	1	LIG4
+fibroblast proliferation	1	LIG4
+ fibroblast proliferation	1	LIG4
+DNA ligation involved in DNA recombination	1	LIG4
+chromosome organization	1	LIG4
+neuron apoptotic process	1	LIG4
+cellular response to lithium ion	1	LIG4
+cellular response to ionizing radiation	1	LIG4
+stem cell proliferation	1	LIG4
+establishment of integrated proviral latency	1	LIG4
+DN2 thymocyte differentiation	1	LIG4
+ chromosome organization	1	LIG4
+cytoplasmic ribonucleoprotein granule	1	LIG4
+endonuclease activity	1	PNKP
+purine nucleotide binding	1	PNKP
+polynucleotide 3'-phosphatase activity	1	PNKP
+ATP-dependent polydeoxyribonucleotide 5'-hydroxyl-kinase activity	1	PNKP
+response to oxidative stress	1	PNKP
+response to radiation	1	PNKP
+phosphorylation	1	PNKP
+NAD+ ADP-ribosyltransferase activity	1	TNKS
+nucleotidyltransferase activity	1	TNKS
+NAD+-protein ADP-ribosyltransferase activity	1	TNKS
+protein polyubiquitination	1	TNKS
+mitotic spindle organization	1	TNKS
+protein transport	1	TNKS
+peptidyl-serine phosphorylation	1	TNKS
+peptidyl-threonine phosphorylation	1	TNKS
+mRNA transport	1	TNKS
+spindle assembly	1	TNKS
+protein poly-ADP-ribosylation	1	TNKS
+protein auto-ADP-ribosylation	1	TNKS
+negative regulation of telomere maintenance via telomere lengthening	1	TNKS
+negative regulation of telomeric DNA binding	1	TNKS
+negative regulation of maintenance of mitotic sister chromatid cohesion, telomeric	1	TNKS
+Golgi membrane	1	TNKS
+pericentriolar material	1	TNKS
+nuclear pore	1	TNKS
+Golgi apparatus	1	TNKS
+nuclear membrane	1	TNKS
+mitotic spindle pole	1	TNKS
+protein phosphatase binding	1	RPA2
+protein homodimerization activity	1	PAXX
+DNA polymerase binding	1	PAXX
+chromatin binding	1	APTX
+double-stranded RNA binding	1	APTX
+phosphoglycolate phosphatase activity	1	APTX
+mismatched DNA binding	1	APTX
+DNA 5'-adenosine monophosphate hydrolase activity	1	APTX
+phosphoprotein binding	1	APTX
+DNA-3'-diphospho-5'-guanosine diphosphatase	1	APTX
+single-strand break-containing DNA binding	1	APTX
+ protein stability	1	APTX
+peptidase activity	1	HMCES
+proteolysis	1	HMCES
+protein-DNA covalent cross-linking	1	HMCES
+double-strand break repair via alternative nonhomologous end joining	1	HMCES
+replication fork	1	HMCES
+lagging strand elongation	1	LIG3
+base-excision repair, DNA ligation	1	LIG3
+negative regulation of mitochondrial DNA replication	1	LIG3
+DNA ligase III-XRCC1 complex	1	LIG3
+nucleic acid binding	1	XRCC4
+FHA domain binding	1	XRCC4
+ ligase activity	1	XRCC4
+protein localization to site of double-strand break	1	XRCC4
+nucleotide binding	1	APLF
+DNA endonuclease activity	1	APLF
+3'-5' exonuclease activity	1	APLF
+protein folding chaperone	1	APLF
+histone chaperone activity	1	APLF
+protein folding	1	APLF
+embryo implantation	1	APLF
+ epithelial to mesenchymal transition	1	APLF
+ DNA ligation	1	APLF
+protein localization to chromatin	1	APLF
+DNA repair-dependent chromatin remodeling	1	APLF
+oxidized DNA binding	1	XRCC1
+3' overhang single-stranded DNA endodeoxyribonuclease activity	1	XRCC1
+response to hypoxia	1	XRCC1
+response to organic substance	1	XRCC1
+cerebellum morphogenesis	1	XRCC1
+hippocampus development	1	XRCC1
+response to hydroperoxide	1	XRCC1
+voluntary musculoskeletal movement	1	XRCC1
+telomeric DNA-containing double minutes formation	1	XRCC1
+ single strand break repair	1	XRCC1
+ DNA ligase activity	1	XRCC1
+negative regulation of protection from non-homologous end joining at telomere	1	XRCC1
+replication-born double-strand break repair via sister chromatid exchange	1	XRCC1
+ERCC4-ERCC1 complex	1	XRCC1
+ubiquitin-protein transferase activity	1	RNF146
+ubiquitin-dependent protein catabolic process	1	RNF146
+protein autoubiquitination	1	RNF146
+protein K48-linked ubiquitination	1	RNF146
+cyclin binding	1	XRCC6
+scaffold protein binding	1	XRCC6
+ lymphocyte differentiation	1	XRCC6
+ DNA-templated transcription	1	XRCC6
+transcription regulator complex	1	XRCC6
+ficolin-1-rich granule lumen	1	XRCC6

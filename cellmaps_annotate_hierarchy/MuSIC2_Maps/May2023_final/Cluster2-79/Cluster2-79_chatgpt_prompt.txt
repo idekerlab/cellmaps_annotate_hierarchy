@@ -1,0 +1,28 @@
+Your response should be formatted as Markdown paragraphs
+Write a critical and concise analysis of this human protein system, describing your reasoning as you go and providing references to scientific papers.
+
+A critical goal of the analysis is to determine if this is a novel complex or if any proteins are novel members of a known complex
+
+Format with Title, Summary, and References sections.        
+Avoid overly general statements of how the proteins are involved in various cellular processes        
+Avoid repeating the goals of the analysis.
+
+What cellular components and complexes are involved in this system?
+What mechanisms and biological processes are performed by this system?
+Propose a name for the system to reflect the cellular location and function, and should be specific but brief. Do not compose an acronym. Place it as the title of your report
+Human Proteins: PIK3CA, BMPR1A, IFNLR1, CALCOCO2.
+
+System features from GO terms: 
+protein binding: 4 proteins: PIK3CA, BMPR1A, IFNLR1, CALCOCO2
+plasma membrane: 3 proteins: PIK3CA, BMPR1A, IFNLR1
+membrane: 3 proteins: BMPR1A, IFNLR1, CALCOCO2
+protein serine/threonine kinase activity: 2 proteins: PIK3CA, BMPR1A
+ATP binding: 2 proteins: PIK3CA, BMPR1A
+angiogenesis: 2 proteins: PIK3CA, BMPR1A
+negative regulation of gene expression: 2 proteins: PIK3CA, BMPR1A
+ cellular respiration: 2 proteins: PIK3CA, IFNLR1
+cytoplasm: 2 proteins: PIK3CA, CALCOCO2
+cytosol: 2 proteins: PIK3CA, CALCOCO2
+perinuclear region of cytoplasm: 2 proteins: PIK3CA, CALCOCO2
+protein homodimerization activity: 2 proteins: BMPR1A, CALCOCO2
+metal ion binding: 2 proteins: BMPR1A, CALCOCO2

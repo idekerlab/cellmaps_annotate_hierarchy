@@ -1,0 +1,171 @@
+Feature	Number of Genes	Genes
+protein binding	9	TARS3, PPP6R1, CDK3, EPRS1, PPP6R2, USP10, QARS1, SDCBP, LARS1
+cytosol	9	PPP6R1, ADSL, EPRS1, PPP6R2, USP10, QARS1, SDCBP, LARS1, MARS1
+cytoplasm	8	TARS3, CDK3, EPRS1, USP10, QARS1, SDCBP, LARS1, MARS1
+ATP binding	6	TARS3, CDK3, EPRS1, QARS1, LARS1, MARS1
+nucleus	6	TARS3, PPP6R1, CDK3, PPP6R2, USP10, SDCBP
+identical protein binding	4	TARS3, ADSL, EPRS1, SDCBP
+tRNA aminoacylation for protein translation	4	EPRS1, QARS1, LARS1, MARS1
+aminoacyl-tRNA synthetase multienzyme complex	4	EPRS1, QARS1, LARS1, MARS1
+protein-containing complex	3	ADSL, USP10, QARS1
+membrane	3	EPRS1, SDCBP, MARS1
+protein phosphatase regulator activity	2	PPP6R1, PPP6R2
+protein phosphatase binding	2	PPP6R1, PPP6R2
+ phosphoprotein phosphatase activity	2	PPP6R1, PPP6R2
+DNA damage response	2	CDK3, USP10
+plasma membrane	2	EPRS1, SDCBP
+nucleoplasm	2	USP10, SDCBP
+glutamine-tRNA ligase activity	2	QARS1, LARS1
+glutaminyl-tRNA aminoacylation	2	QARS1, LARS1
+extracellular exosome	2	SDCBP, MARS1
+molecular_function	1	TARS3
+threonine-tRNA ligase activity	1	TARS3
+threonyl-tRNA aminoacylation	1	TARS3
+biological_process	1	TARS3
+cellular_component	1	TARS3
+small GTPase binding	1	PPP6R1
+N6-(1,2-dicarboxyethyl)AMP AMP-lyase (fumarate-forming) activity	1	ADSL
+(S)-2-(5-amino-1-(5-phospho-D-ribosyl)imidazole-4-carboxamido) succinate lyase (fumarate-forming) activity	1	ADSL
+response to hypoxia	1	ADSL
+purine nucleotide biosynthetic process	1	ADSL
+AMP biosynthetic process	1	ADSL
+GMP biosynthetic process	1	ADSL
+'de novo' IMP biosynthetic process	1	ADSL
+response to nutrient	1	ADSL
+aerobic respiration	1	ADSL
+response to muscle activity	1	ADSL
+response to starvation	1	ADSL
+'de novo' AMP biosynthetic process	1	ADSL
+AMP salvage	1	ADSL
+'de novo' XMP biosynthetic process	1	ADSL
+cyclin-dependent protein serine/threonine kinase activity	1	CDK3
+cyclin binding	1	CDK3
+protein serine kinase activity	1	CDK3
+G1/S transition of mitotic cell cycle	1	CDK3
+protein phosphorylation	1	CDK3
+signal transduction	1	CDK3
+cell population proliferation	1	CDK3
+response to organic substance	1	CDK3
+ G2/M transition of mitotic cell cycle	1	CDK3
+ gene expression	1	CDK3
+G0 to G1 transition	1	CDK3
+negative regulation of Notch signaling pathway	1	CDK3
+cell division	1	CDK3
+cyclin-dependent protein kinase holoenzyme complex	1	CDK3
+glutamate-tRNA ligase activity	1	EPRS1
+proline-tRNA ligase activity	1	EPRS1
+zinc ion binding	1	EPRS1
+RNA stem-loop binding	1	EPRS1
+protein homodimerization activity	1	EPRS1
+GTPase binding	1	EPRS1
+glutamyl-tRNA aminoacylation	1	EPRS1
+prolyl-tRNA aminoacylation	1	EPRS1
+negative regulation of translation	1	EPRS1
+cellular response to insulin stimulus	1	EPRS1
+protein-containing complex assembly	1	EPRS1
+cellular response to type II interferon	1	EPRS1
+ long-chain fatty acid import into cell	1	EPRS1
+GAIT complex	1	EPRS1
+ribonucleoprotein complex	1	EPRS1
+intracellular membrane-bounded organelle	1	PPP6R2
+p53 binding	1	USP10
+RNA binding	1	USP10
+cysteine-type endopeptidase activity	1	USP10
+cysteine-type deubiquitinase activity	1	USP10
+transmembrane transporter binding	1	USP10
+molecular function inhibitor activity	1	USP10
+ubiquitin-dependent protein catabolic process	1	USP10
+autophagy	1	USP10
+ autophagy	1	USP10
+protein deubiquitination	1	USP10
+translesion synthesis	1	USP10
+DNA damage response, signal transduction by p53 class mediator	1	USP10
+negative regulation of I-kappaB kinase/NF-kappaB signaling	1	USP10
+negative regulation of stress granule assembly	1	USP10
+cellular response to interleukin-1	1	USP10
+rescue of stalled ribosome	1	USP10
+early endosome	1	USP10
+intermediate filament cytoskeleton	1	USP10
+protein kinase inhibitor activity	1	QARS1
+protein kinase binding	1	QARS1
+negative regulation of protein kinase activity	1	QARS1
+brain development	1	QARS1
+negative regulation of stress-activated MAPK cascade	1	QARS1
+negative regulation of DNA-templated transcription	1	QARS1
+negative regulation of apoptotic signaling pathway	1	QARS1
+mitochondrial matrix	1	QARS1
+frizzled binding	1	SDCBP
+interleukin-5 receptor binding	1	SDCBP
+phosphatidylinositol-4,5-bisphosphate binding	1	SDCBP
+cytoskeletal anchor activity	1	SDCBP
+growth factor binding	1	SDCBP
+ionotropic glutamate receptor binding	1	SDCBP
+neurexin family protein binding	1	SDCBP
+protein-containing complex binding	1	SDCBP
+syndecan binding	1	SDCBP
+ephrin receptor binding	1	SDCBP
+protein heterodimerization activity	1	SDCBP
+cell adhesion molecule binding	1	SDCBP
+negative regulation of transcription by RNA polymerase II	1	SDCBP
+negative regulation of receptor internalization	1	SDCBP
+proteolysis	1	SDCBP
+protein targeting to membrane	1	SDCBP
+substrate-dependent cell migration, cell extension	1	SDCBP
+Ras protein signal transduction	1	SDCBP
+chemical synaptic transmission	1	SDCBP
+ mitotic cell cycle	1	SDCBP
+ cell population proliferation	1	SDCBP
+ epithelial to mesenchymal transition	1	SDCBP
+ pathway-restricted SMAD protein phosphorylation	1	SDCBP
+actin cytoskeleton organization	1	SDCBP
+ cell growth	1	SDCBP
+ cell migration	1	SDCBP
+ transforming growth factor beta receptor signaling pathway	1	SDCBP
+negative regulation of proteasomal ubiquitin-dependent protein catabolic process	1	SDCBP
+intracellular signal transduction	1	SDCBP
+ phosphorylation	1	SDCBP
+ JNK cascade	1	SDCBP
+presynapse assembly	1	SDCBP
+ exosomal secretion	1	SDCBP
+ extracellular exosome assembly	1	SDCBP
+extracellular region	1	SDCBP
+extracellular space	1	SDCBP
+mitochondrion	1	SDCBP
+endoplasmic reticulum membrane	1	SDCBP
+cytoskeleton	1	SDCBP
+interleukin-5 receptor complex	1	SDCBP
+adherens junction	1	SDCBP
+focal adhesion	1	SDCBP
+postsynaptic density	1	SDCBP
+nuclear membrane	1	SDCBP
+azurophil granule lumen	1	SDCBP
+melanosome	1	SDCBP
+membrane raft	1	SDCBP
+blood microparticle	1	SDCBP
+presynapse	1	SDCBP
+extracellular vesicle	1	SDCBP
+aminoacyl-tRNA editing activity	1	LARS1
+leucine-tRNA ligase activity	1	LARS1
+GTPase activator activity	1	LARS1
+leucyl-tRNA aminoacylation	1	LARS1
+ cell size	1	LARS1
+ TOR signaling	1	LARS1
+cellular response to amino acid starvation	1	LARS1
+ GTPase activity	1	LARS1
+cellular response to amino acid stimulus	1	LARS1
+cellular response to leucine	1	LARS1
+aminoacyl-tRNA metabolism involved in translational fidelity	1	LARS1
+ TORC1 signaling	1	LARS1
+cellular response to leucine starvation	1	LARS1
+lysosome	1	LARS1
+endoplasmic reticulum	1	LARS1
+endomembrane system	1	LARS1
+nuclear body	1	LARS1
+tRNA binding	1	MARS1
+methionine-tRNA ligase activity	1	MARS1
+methionyl-tRNA aminoacylation	1	MARS1
+rRNA transcription	1	MARS1
+cellular response to platelet-derived growth factor stimulus	1	MARS1
+cellular response to epidermal growth factor stimulus	1	MARS1
+ transcription of nucleolar large rRNA by RNA polymerase I	1	MARS1
+nucleolus	1	MARS1

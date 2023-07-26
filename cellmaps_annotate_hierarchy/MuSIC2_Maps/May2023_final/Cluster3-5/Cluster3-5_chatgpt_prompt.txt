@@ -1,0 +1,18 @@
+Your response should be formatted as Markdown paragraphs
+This is a human protein system high in a cell hierarchy and has child systems connect to it as well as residual proteins only belong to this system. From the protein list and the knowledge of how these proteins cluster, write a critical and concise analysis of this human protein system. Describe your reasoning as you go and providing references to scientific papers.
+
+A critical goal of the analysis is to determine if this is a novel complex or if any proteins are novel members of a known complex
+
+Format with Title, Summary, and References sections.        
+Avoid overly general statements of how the proteins are involved in various cellular processes        
+Avoid recapitulating the goals of the analysis.
+
+What cellular components and complexes are involved in this system?
+What mechanisms and biological processes are performed by this system?
+Propose a name for the system to reflect the function and location, and should be specific but brief. Do not compose an acronym. Place it as the title of your report
+Human Protein List: 
+proteins only in this high level system: MRGBP, ZNF609, MRFAP1, YEATS4, ZMYM3, ING3, CTNNBL1, KPNA1, INTS13, PALB2, CDCA2, ZMYM2, BRD8, TRERF1, XRN2, POLA2, BRD7, ANP32E, NCBP1, KMT2B, NPAT, NFRKB, KAT5, ALKBH5, TGIF1, MAU2, PRR14, EP400, USP1, LCOR, CTBP1, ATN1, SET, RCOR3, CFDP1, RBL1, WDR5, MGA, C1orf52, E2F6, EPC2, YLPM1, RPP40, DPY30, XAB2, ASH2L, L3MBTL2, ZNF516, SLX4IP.
+proteins in child system Cluster4-3: ARID4B, JARID2, TFDP1, MIER2, ARID5B, ZNF423, RBL2, SUZ12, CHD3, CHAF1A, PROX1, RPS24, STMN1, SUDS3, TBC1D2, SIN3B, UBN1, ASF1B, CHD4, RFX1, ERCC6, CHAF1B, MMS22L, PHF1, CABIN1, EMSY, HJURP, GMNN, TRPS1, E2F4, ARID4A, BCL11A, BPTF, BRMS1L, CDK2AP1, EED, EZH1, EZH2, GATAD1, GATAD2A, GATAD2B, HAT1, HDAC1, HDAC2, ING1, ING2, KDM5A, LIN37, LIN52, LIN9, MBD2, MBD3, MIER1, MIER3, MTA1, MTA2, MTA3, MTF2, PHF12, PWWP2A, RBBP4, RBBP7, SAP130, SAP30, SAP30L, SFMBT1, SHPRH, SIN3A, TGIF2LX, TSHZ3, ZBTB2, ZFPM1, ZNF219, ZNF512B, ZNF521, ZNF827, TNRC18.
+proteins in child system Cluster4-5: KPNA6, C17orf49, KPNA2, DPF2, BRD9, CHD8, PDIK1L, NUP50, SRRT, SRCAP, BOD1L1, SS18L1, NIPBL, BCL7C, PHAX, INTS9, RAMAC, CTDSPL2, ACTL6A, ARID1A, ARID1B, ARID2, BCL7A, BCL7B, BICRA, BICRAL, CDCA7, DPF1, PBRM1, SMARCA2, SMARCA4, SMARCB1, SMARCC1, SMARCC2, SMARCD1, SMARCD2, SMARCD3, SMARCE1.
+proteins in child system Cluster4-36: HMG20B, KDM1A, PHF21A, RCOR1, ZNF608.
+proteins in child system Cluster4-29: TAF7, TAF1, TAF3, TAF4, TAF5, TAF6.

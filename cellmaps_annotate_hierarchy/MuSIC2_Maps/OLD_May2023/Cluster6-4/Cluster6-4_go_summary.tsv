@@ -1,0 +1,121 @@
+Feature	Number of Genes	Genes
+mitochondrion	25	NDUFB9, NDUFS4, TIMMDC1, PRELID1, DNLZ, NDUFA13, NDUFA7, NDUFA8, NDUFA9, NDUFAF4, NDUFB1, NDUFB11, NDUFB4, NDUFB5, NDUFB6, NDUFB8, NDUFC2, NDUFS1, NDUFS2, NDUFS8, NDUFV1, NDUFV2, NDUFV3, TMEM126B, TOMM40
+protein binding	23	NDUFB9, NDUFS4, TIMMDC1, DCTD, PRELID1, FAM185A, NDUFA13, NDUFA7, NDUFA8, NDUFA9, NDUFAF4, NDUFB11, NDUFB5, NDUFB6, NDUFC2, NDUFS1, NDUFS2, NDUFS8, NDUFV1, NDUFV2, NDUFV3, TMEM126B, TOMM40
+aerobic respiration	20	NDUFB9, NDUFS4, ND4, NDUFA13, NDUFA7, NDUFA8, NDUFA9, NDUFB1, NDUFB11, NDUFB4, NDUFB5, NDUFB6, NDUFB8, NDUFC2, NDUFS1, NDUFS2, NDUFS8, NDUFV1, NDUFV2, NDUFV3
+proton motive force-driven mitochondrial ATP synthesis	20	NDUFB9, NDUFS4, ND4, NDUFA13, NDUFA7, NDUFA8, NDUFA9, NDUFB1, NDUFB11, NDUFB4, NDUFB5, NDUFB6, NDUFB8, NDUFC2, NDUFS1, NDUFS2, NDUFS8, NDUFV1, NDUFV2, NDUFV3
+mitochondrial inner membrane	20	NDUFB9, NDUFS4, TIMMDC1, ND4, NDUFA13, NDUFA7, NDUFA8, NDUFAF4, NDUFB1, NDUFB11, NDUFB4, NDUFB5, NDUFB6, NDUFB8, NDUFC2, NDUFV1, NDUFV2, NDUFV3, TMEM126B, TOMM40
+mitochondrial respiratory chain complex I	20	NDUFB9, NDUFS4, ND4, NDUFA13, NDUFA7, NDUFA8, NDUFA9, NDUFB1, NDUFB11, NDUFB4, NDUFB5, NDUFB6, NDUFB8, NDUFC2, NDUFS1, NDUFS2, NDUFS8, NDUFV1, NDUFV2, NDUFV3
+NADH dehydrogenase (ubiquinone) activity	18	NDUFB9, NDUFS4, ND4, NDUFA7, NDUFA8, NDUFA9, NDUFB1, NDUFB4, NDUFB5, NDUFB6, NDUFB8, NDUFC2, NDUFS1, NDUFS2, NDUFS8, NDUFV1, NDUFV2, NDUFV3
+mitochondrial electron transport, NADH to ubiquinone	18	NDUFB9, NDUFS4, ND4, NDUFA7, NDUFA8, NDUFA9, NDUFB1, NDUFB4, NDUFB5, NDUFB6, NDUFB8, NDUFC2, NDUFS1, NDUFS2, NDUFS8, NDUFV1, NDUFV2, NDUFV3
+mitochondrial respiratory chain complex I assembly	18	NDUFB9, NDUFS4, ND4, NDUFA13, NDUFA8, NDUFA9, NDUFAF4, NDUFB1, NDUFB11, NDUFB4, NDUFB5, NDUFB6, NDUFB8, NDUFC2, NDUFS1, NDUFS2, NDUFS8, TMEM126B
+nucleoplasm	8	TIMMDC1, PRELID1, DNLZ, NDUFA13, NDUFB4, NDUFB5, NDUFB6, NDUFS2
+NADH dehydrogenase activity	5	ND4, NDUFA9, NDUFS2, NDUFS8, NDUFV2
+mitochondrial matrix	5	NDUFA9, NDUFB8, NDUFS1, NDUFS2, NDUFS8
+metal ion binding	5	NDUFS1, NDUFS2, NDUFS8, NDUFV1, NDUFV2
+cytosol	4	DCTD, NDUFAF4, NDUFV1, TOMM40
+mitochondrial membrane	4	NDUFA13, NDUFA9, NDUFAF4, NDUFB6
+mitochondrial ATP synthesis coupled electron transport	4	NDUFB6, NDUFS2, NDUFV1, NDUFV3
+4 iron, 4 sulfur cluster binding	4	NDUFS1, NDUFS2, NDUFS8, NDUFV1
+reactive oxygen species metabolic process	3	NDUFS4, NDUFA13, NDUFS1
+cytoplasm	3	DCTD, NDUFA13, NDUFC2
+mitochondrial intermembrane space	3	PRELID1, NDUFA8, NDUFS1
+response to oxidative stress	3	NDUFB4, NDUFS2, NDUFS8
+electron transfer activity	3	NDUFS1, NDUFS2, NDUFV2
+cellular respiration	2	NDUFS4, NDUFS1
+zinc ion binding	2	DCTD, DNLZ
+negative regulation of apoptotic process	2	PRELID1, NDUFAF4
+regulation of mitochondrial membrane potential	2	PRELID1, NDUFS1
+protein import into mitochondrial matrix	2	DNLZ, TOMM40
+protein-containing complex binding	2	NDUFA8, NDUFA9
+2 iron, 2 sulfur cluster binding	2	NDUFS1, NDUFV2
+NAD binding	2	NDUFS2, NDUFV1
+sensory perception of sound	1	NDUFB9
+regulation of protein phosphorylation	1	NDUFS4
+brain development	1	NDUFS4
+positive regulation of fibroblast proliferation	1	NDUFS4
+response to cAMP	1	NDUFS4
+dCMP deaminase activity	1	DCTD
+identical protein binding	1	DCTD
+pyrimidine nucleotide metabolic process	1	DCTD
+nucleotide biosynthetic process	1	DCTD
+phosphatidic acid transfer activity	1	PRELID1
+apoptotic process	1	PRELID1
+negative regulation of mitochondrial membrane potential	1	PRELID1
+positive regulation of endopeptidase activity	1	PRELID1
+phospholipid transport	1	PRELID1
+regulation of T cell differentiation	1	PRELID1
+positive regulation of T cell apoptotic process	1	PRELID1
+negative regulation of release of cytochrome c from mitochondria	1	PRELID1
+regulation of membrane lipid distribution	1	PRELID1
+intermembrane lipid transfer	1	PRELID1
+positive regulation of cellular respiration	1	PRELID1
+positive regulation of phospholipid transport	1	PRELID1
+protein-containing complex	1	PRELID1
+protein-folding chaperone binding	1	DNLZ
+protein folding	1	DNLZ
+protein stabilization	1	DNLZ
+ubiquinone binding	1	ND4
+response to hypoxia	1	ND4
+in utero embryonic development	1	ND4
+electron transport coupled proton transport	1	ND4
+cerebellum development	1	ND4
+response to nicotine	1	ND4
+response to ethanol	1	ND4
+ATP binding	1	NDUFA13
+positive regulation of peptidase activity	1	NDUFA13
+negative regulation of cell growth	1	NDUFA13
+cellular response to interferon-beta	1	NDUFA13
+positive regulation of cysteine-type endopeptidase activity involved in apoptotic process	1	NDUFA13
+protein insertion into mitochondrial inner membrane	1	NDUFA13
+positive regulation of protein catabolic process	1	NDUFA13
+negative regulation of DNA-templated transcription	1	NDUFA13
+cellular response to retinoic acid	1	NDUFA13
+apoptotic signaling pathway	1	NDUFA13
+extrinsic apoptotic signaling pathway	1	NDUFA13
+negative regulation of intrinsic apoptotic signaling pathway	1	NDUFA13
+mitochondrial respirasome	1	NDUFA13
+structural constituent of ribosome	1	NDUFA7
+mitochondrial translation	1	NDUFA7
+mitochondrial ribosome	1	NDUFA7
+sodium ion transport	1	NDUFA9
+circadian rhythm	1	NDUFA9
+ubiquinone-6 biosynthetic process	1	NDUFA9
+nucleus	1	NDUFA9
+calmodulin binding	1	NDUFAF4
+positive regulation of cell population proliferation	1	NDUFAF4
+defense response to virus	1	NDUFAF4
+nuclear speck	1	NDUFB1
+endoplasmic reticulum	1	NDUFB8
+positive regulation of mitochondrial membrane potential	1	NDUFC2
+regulation of inflammatory response	1	NDUFC2
+negative regulation of necrotic cell death	1	NDUFC2
+negative regulation of NIK/NF-kappaB signaling	1	NDUFC2
+negative regulation of reactive oxygen species biosynthetic process	1	NDUFC2
+positive regulation of ATP biosynthetic process	1	NDUFC2
+plasma membrane	1	NDUFC2
+azurophil granule membrane	1	NDUFC2
+apoptotic mitochondrial changes	1	NDUFS1
+ATP metabolic process	1	NDUFS1
+oxygen sensor activity	1	NDUFS2
+ubiquitin protein ligase binding	1	NDUFS2
+quinone binding	1	NDUFS2
+neurogenesis	1	NDUFS2
+gliogenesis	1	NDUFS2
+neural precursor cell proliferation	1	NDUFS2
+cellular response to oxygen levels	1	NDUFS2
+FMN binding	1	NDUFV1
+nervous system development	1	NDUFV2
+cardiac muscle tissue development	1	NDUFV2
+RNA binding	1	NDUFV3
+molecular_function	1	TMEM126B
+response to food	1	TMEM126B
+protein transmembrane transporter activity	1	TOMM40
+porin activity	1	TOMM40
+protein targeting to mitochondrion	1	TOMM40
+monoatomic ion transport	1	TOMM40
+protein insertion into mitochondrial outer membrane	1	TOMM40
+mitochondrial outer membrane	1	TOMM40
+mitochondrial outer membrane translocase complex	1	TOMM40
+membrane	1	TOMM40
+mitochondria-associated endoplasmic reticulum membrane	1	TOMM40
+pore complex	1	TOMM40

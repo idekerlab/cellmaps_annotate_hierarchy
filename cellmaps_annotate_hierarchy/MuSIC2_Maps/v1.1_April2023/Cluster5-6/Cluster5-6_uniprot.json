@@ -1,0 +1,1730 @@
+{
+    "ACTL6A": {
+        "UniProtKB_ID": "ACL6A_HUMAN",
+        "Description": "Actin-like protein 6A",
+        "GO": [
+            "brahma complex",
+            "chromatin",
+            "GBAF complex",
+            "Ino80 complex",
+            "kinetochore",
+            "npBAF complex",
+            "NuA4 histone acetyltransferase complex",
+            "nuclear matrix",
+            "nucleoplasm",
+            "nucleosome",
+            "nucleus",
+            "plasma membrane",
+            "protein-containing complex",
+            "RSC-type complex",
+            "SWI/SNF complex",
+            "chromatin binding",
+            "transcription coactivator activity",
+            "blastocyst formation",
+            "chromatin remodeling",
+            "DNA recombination",
+            "DNA repair",
+            "histone acetylation",
+            "histone H2A acetylation",
+            "histone H4 acetylation",
+            "negative regulation of cell differentiation",
+            "nervous system development",
+            "neural retina development",
+            "positive regulation of cell differentiation",
+            "positive regulation of cell population proliferation",
+            "positive regulation of DNA repair",
+            "positive regulation of DNA-templated transcription",
+            "positive regulation of double-strand break repair",
+            "positive regulation of double-strand break repair via homologous recombination",
+            "positive regulation of myoblast differentiation",
+            "positive regulation of stem cell population maintenance",
+            "positive regulation of T cell differentiation",
+            "positive regulation of telomere maintenance in response to DNA damage",
+            "regulation of apoptotic process",
+            "regulation of cell cycle",
+            "regulation of chromosome organization",
+            "regulation of DNA repair",
+            "regulation of DNA replication",
+            "regulation of DNA strand elongation",
+            "regulation of DNA-templated transcription",
+            "regulation of double-strand break repair",
+            "regulation of embryonic development",
+            "regulation of G0 to G1 transition",
+            "regulation of G1/S transition of mitotic cell cycle",
+            "regulation of mitotic metaphase/anaphase transition",
+            "regulation of nucleotide-excision repair",
+            "regulation of transcription by RNA polymerase II",
+            "signal transduction",
+            "spinal cord development",
+            "telomere maintenance"
+        ],
+        "Location": [
+            "nucleus"
+        ],
+        "Disease": [
+            "Disease variant",
+            "Intellectual disability"
+        ],
+        "Disease_description": [],
+        "Complexes": [
+            "Component of numerous complexes with chromatin remodeling and histone acetyltransferase activity. Component of the NuA4 histone acetyltransferase complex which contains the catalytic subunit KAT5/TIP60 and the subunits EP400, TRRAP/PAF400, BRD8/SMAP, EPC1, DMAP1/DNMAP1, RUVBL1/TIP49, RUVBL2, ING3, actin, ACTL6A/BAF53A, MORF4L1/MRG15, MORF4L2/MRGX, MRGBP, YEATS4/GAS41, VPS72/YL1 and MEAF6 (PubMed:12963728, PubMed:10966108, PubMed:15196461, PubMed:14966270). The NuA4 complex interacts with MYC and the adenovirus E1A protein (PubMed:11509179). Component of a NuA4-related complex which contains EP400, TRRAP/PAF400, SRCAP, BRD8/SMAP, EPC1, DMAP1/DNMAP1, RUVBL1/TIP49, RUVBL2, actin, ACTL6A/BAF53A, VPS72 and YEATS4/GAS41 (PubMed:11509179, PubMed:14966270). Component of the multiprotein chromatin-remodeling complexes SWI/SNF: SWI/SNF-A (BAF), SWI/SNF-B (PBAF) and related complexes. The canonical complex contains a catalytic subunit (either SMARCA4/BRG1/BAF190A or SMARCA2/BRM/BAF190B) and at least SMARCE1, ACTL6A/BAF53, SMARCC1/BAF155, SMARCC2/BAF170, and SMARCB1/SNF5/BAF47. Other subunits specific to each of the complexes may also be present permitting several possible combinations developmentally and tissue specific (Probable). Component of the BAF complex, which includes at least actin (ACTB), ARID1A/BAF250A, ARID1B/BAF250B, SMARCA2/BRM, SMARCA4/BRG1/BAF190A, ACTL6A/BAF53, ACTL6B/BAF53B, SMARCE1/BAF57, SMARCC1/BAF155, SMARCC2/BAF170, SMARCB1/SNF5/INI1, and one or more SMARCD1/BAF60A, SMARCD2/BAF60B, or SMARCD3/BAF60C (PubMed:9845365, PubMed:18765789). In muscle cells, the BAF complex also contains DPF3. Component of the BAF53 complex, at least composed of ACTL6A/BAF53A, RUVBL1/TIP49, SMARCA2/BRM/BAF190B and TRRAP/PAF400, and which may also include a HAT activity related to, but distinct from, that of KAT5 (PubMed:11839798). Component of neural progenitors-specific chromatin remodeling complex (npBAF complex) composed of at least, ARID1A/BAF250A or ARID1B/BAF250B, SMARCD1/BAF60A, SMARCD3/BAF60C, SMARCA2/BRM/BAF190B, SMARCA4/BRG1/BAF190A, SMARCB1/BAF47, SMARCC1/BAF155, SMARCE1/BAF57, SMARCC2/BAF170, PHF10/BAF45A, ACTL6A/BAF53A and actin. Component of SWI/SNF (GBAF) subcomplex, which includes at least BICRA or BICRAL (mutually exclusive), BRD9, SS18, SMARCA2/BRM, SMARCA4/BRG1/BAF190A, ACTL6A/BAF53, SMARCC1/BAF155, and SMARCD1/BAF60A (PubMed:29374058). May be a component of the SWI/SNF-B (PBAF) chromatin remodeling complex, at least composed of SMARCA4/BRG1, SMARCB1/BAF47/SNF5, ACTL6A/BAF53A or ACTL6B/BAF53B, SMARCE1/BAF57, SMARCD1/BAF60A, SMARCD2/BAF60B, perhaps SMARCD3/BAF60C, SMARCC1/BAF155, SMARCC2/BAF170, PBRM1/BAF180, ARID2/BAF200 and actin (PubMed:26601204). Interacts with SMARCA4/BRG1/BAF190A (PubMed:28649782). Interacts with PHF10/BAF45A (By similarity). Component of the chromatin remodeling INO80 complex; specifically part of a complex module associated with the DBINO domain of INO80 (PubMed:16230350, PubMed:18026119, PubMed:18922472, PubMed:21303910). Interacts with DPF2 (PubMed:28533407)"
+        ]
+    },
+    "ARID1A": {
+        "UniProtKB_ID": "ARI1A_HUMAN",
+        "Description": "AT-rich interactive domain-containing protein 1A",
+        "GO": [
+            "bBAF complex",
+            "brahma complex",
+            "chromatin",
+            "nBAF complex",
+            "npBAF complex",
+            "nucleoplasm",
+            "nucleus",
+            "SWI/SNF complex",
+            "DNA binding",
+            "nuclear receptor binding",
+            "transcription coactivator activity",
+            "androgen receptor signaling pathway",
+            "chromatin remodeling",
+            "glucocorticoid receptor signaling pathway",
+            "intracellular estrogen receptor signaling pathway",
+            "nervous system development",
+            "nucleosome disassembly",
+            "positive regulation of cell differentiation",
+            "positive regulation of DNA-templated transcription",
+            "positive regulation of double-strand break repair",
+            "positive regulation of myoblast differentiation",
+            "positive regulation of stem cell population maintenance",
+            "positive regulation of T cell differentiation",
+            "regulation of G0 to G1 transition",
+            "regulation of G1/S transition of mitotic cell cycle",
+            "regulation of mitotic metaphase/anaphase transition",
+            "regulation of nucleotide-excision repair",
+            "regulation of transcription by RNA polymerase II",
+            "transcription initiation-coupled chromatin remodeling"
+        ],
+        "Location": [
+            "nucleus"
+        ],
+        "Disease": [
+            "Coffin-Siris syndrome 2",
+            "Intellectual disability"
+        ],
+        "Disease_description": [
+            "Coffin-Siris syndrome 2: A form of Coffin-Siris syndrome, a congenital multiple malformation syndrome with broad phenotypic and genetic variability. Cardinal features are intellectual disability, coarse facial features, hypertrichosis, and hypoplastic or absent fifth digit nails or phalanges. Additional features include malformations of the cardiac, gastrointestinal, genitourinary, and/or central nervous systems. Sucking/feeding difficulties, poor growth, ophthalmologic abnormalities, hearing impairment, and spinal anomalies are common findings. Both autosomal dominant and autosomal recessive inheritance patterns have been reported."
+        ],
+        "Complexes": [
+            "Component of SWI/SNF chromatin remodeling complexes, in some of which it can be mutually exclusive with ARID1B/BAF250B. The canonical complex contains a catalytic subunit (either SMARCA4/BRG1/BAF190A or SMARCA2/BRM/BAF190B) and at least SMARCE1, ACTL6A/BAF53, SMARCC1/BAF155, SMARCC2/BAF170, and SMARCB1/SNF5/BAF47. Other subunits specific to each of the complexes may also be present permitting several possible combinations developmentally and tissue specific (PubMed:22952240, PubMed:26601204, PubMed:12200431, PubMed:8804307, PubMed:11780067, PubMed:11988099, PubMed:15170388). Component of the BAF (SWI/SNF-A) complex, which includes at least actin (ACTB), ARID1A/BAF250A, ARID1B/BAF250B, SMARCA2/BRM, SMARCA4/BRG1/BAF190A, ACTL6A/BAF53, ACTL6B/BAF53B, SMARCE1/BAF57, SMARCC1/BAF155, SMARCC2/BAF170, SMARCB1/SNF5/INI1, and one or more SMARCD1/BAF60A, SMARCD2/BAF60B, or SMARCD3/BAF60C (PubMed:12200431, PubMed:11734557, PubMed:18765789). In muscle cells, the BAF complex also contains DPF3. Component of neural progenitors-specific chromatin remodeling complex (npBAF complex) composed of at least, ARID1A/BAF250A or ARID1B/BAF250B, SMARCD1/BAF60A, SMARCD3/BAF60C, SMARCA2/BRM/BAF190B, SMARCA4/BRG1/BAF190A, SMARCB1/BAF47, SMARCC1/BAF155, SMARCE1/BAF57, SMARCC2/BAF170, PHF10/BAF45A, ACTL6A/BAF53A and actin. Component of neuron-specific chromatin remodeling complex (nBAF complex) composed of at least, ARID1A/BAF250A or ARID1B/BAF250B, SMARCD1/BAF60A, SMARCD3/BAF60C, SMARCA2/BRM/BAF190B, SMARCA4/BRG1/BAF190A, SMARCB1/BAF47, SMARCC1/BAF155, SMARCE1/BAF57, SMARCC2/BAF170, DPF1/BAF45B, DPF3/BAF45C, ACTL6B/BAF53B and actin (By similarity). Component of a SWI/SNF-like EBAFa complex, at least composed of SMARCA4/BRG1/BAF190A, SMARCB1/BAF47/SNF5, ACTL6A/BAF53A, SMARCE1/BAF57, SMARCD1/BAF60A, SMARCC1/BAF155, SMARCC2/BAF170, BAF250A and MLLT1/ENL (PubMed:12665591). Interacts through its C-terminus with SMARCA2/BRM/BAF190B and SMARCA4/BRG1/BAF190A (PubMed:12200431, PubMed:15170388). Interacts with SMARCC1/BAF155 (PubMed:15170388). Interacts with FOS, FOSB isoform 1 and 2, FOSL1 and FOSL2 (By similarity)"
+        ]
+    },
+    "ARID1B": {
+        "UniProtKB_ID": "ARI1B_HUMAN",
+        "Description": "AT-rich interactive domain-containing protein 1B",
+        "GO": [
+            "bBAF complex",
+            "brahma complex",
+            "chromatin",
+            "cytosol",
+            "nBAF complex",
+            "npBAF complex",
+            "nucleoplasm",
+            "plasma membrane",
+            "SWI/SNF complex",
+            "DNA binding",
+            "transcription coactivator activity",
+            "cellular response to angiotensin",
+            "chromatin remodeling",
+            "nervous system development",
+            "positive regulation of cell differentiation",
+            "positive regulation of DNA-templated transcription",
+            "positive regulation of double-strand break repair",
+            "positive regulation of myoblast differentiation",
+            "positive regulation of T cell differentiation",
+            "regulation of G0 to G1 transition",
+            "regulation of G1/S transition of mitotic cell cycle",
+            "regulation of mitotic metaphase/anaphase transition",
+            "regulation of nucleotide-excision repair",
+            "regulation of transcription by RNA polymerase II",
+            "response to ischemia",
+            "transcription initiation-coupled chromatin remodeling"
+        ],
+        "Location": [
+            "nucleus"
+        ],
+        "Disease": [
+            "Coffin-Siris syndrome 1",
+            "Intellectual disability"
+        ],
+        "Disease_description": [
+            "Coffin-Siris syndrome 1: A form of Coffin-Siris syndrome, a congenital multiple malformation syndrome with broad phenotypic and genetic variability. Cardinal features are intellectual disability, coarse facial features, hypertrichosis, and hypoplastic or absent fifth digit nails or phalanges. Additional features include malformations of the cardiac, gastrointestinal, genitourinary, and/or central nervous systems. Sucking/feeding difficulties, poor growth, ophthalmologic abnormalities, hearing impairment, and spinal anomalies are common findings. Both autosomal dominant and autosomal recessive inheritance patterns have been reported."
+        ],
+        "Complexes": [
+            "Component of SWI/SNF chromatin remodeling complexes, in some of which it can be mutually exclusive with ARID1B/BAF250B (PubMed:12672490, PubMed:22952240, PubMed:26601204, PubMed:12200431, PubMed:11988099, PubMed:15170388). The canonical complex contains a catalytic subunit (either SMARCA4/BRG1/BAF190A or SMARCA2/BRM/BAF190B) and at least SMARCE1, ACTL6A/BAF53, SMARCC1/BAF155, SMARCC2/BAF170, and SMARCB1/SNF5/BAF47. Other subunits specific to each of the complexes may also be present permitting several possible combinations developmentally and tissue specific (PubMed:11734557, PubMed:22952240, PubMed:26601204). Component of the BAF (SWI/SNF-A) complex, which includes at least actin (ACTB), ARID1A/BAF250A, ARID1B/BAF250B, SMARCA2/BRM, SMARCA4/BRG1/BAF190A, ACTL6A/BAF53, ACTL6B/BAF53B, SMARCE1/BAF57, SMARCC1/BAF155, SMARCC2/BAF170, SMARCB1/SNF5/INI1, and one or more SMARCD1/BAF60A, SMARCD2/BAF60B, or SMARCD3/BAF60C (PubMed:18765789). In muscle cells, the BAF complex also contains DPF3. Component of neural progenitors-specific chromatin remodeling complex (npBAF complex) composed of at least, ARID1A/BAF250A or ARID1B/BAF250B, SMARCD1/BAF60A, SMARCD3/BAF60C, SMARCA2/BRM/BAF190B, SMARCA4/BRG1/BAF190A, SMARCB1/BAF47, SMARCC1/BAF155, SMARCE1/BAF57, SMARCC2/BAF170, PHF10/BAF45A, ACTL6A/BAF53A and actin. Component of neuron-specific chromatin remodeling complex (nBAF complex) composed of at least, ARID1A/BAF250A or ARID1B/BAF250B, SMARCD1/BAF60A, SMARCD3/BAF60C, SMARCA2/BRM/BAF190B, SMARCA4/BRG1/BAF190A, SMARCB1/BAF47, SMARCC1/BAF155, SMARCE1/BAF57, SMARCC2/BAF170, DPF1/BAF45B, DPF3/BAF45C, ACTL6B/BAF53B and actin (By similarity). Component of a SWI/SNF-like EBAFb complex, at least composed of SMARCA4/BRG1/BAF190A, SMARCB1/BAF47/SNF5, ACTL6A/BAF53A, SMARCE1/BAF57, SMARCD1/BAF60A, SMARCD2/BAF60B, SMARCC1/BAF155, SMARCC2/BAF170, ARID1B/BAF250B, MLLT1/ENL and actin (PubMed:12665591). Interacts through its C-terminus with SMARCA2/BRM/BAF190B and SMARCA4/BRG1/BAF190A (PubMed:12200431, PubMed:11988099, PubMed:15170388). Interacts with SMARCC1/BAF155 (PubMed:15170388)"
+        ]
+    },
+    "ARID2": {
+        "UniProtKB_ID": "ARID2_HUMAN",
+        "Description": "AT-rich interactive domain-containing protein 2",
+        "GO": [
+            "chromatin",
+            "kinetochore",
+            "nuclear matrix",
+            "nucleoplasm",
+            "plasma membrane",
+            "RSC-type complex",
+            "SWI/SNF complex",
+            "DNA binding",
+            "metal ion binding",
+            "cardiac muscle cell proliferation",
+            "chromatin remodeling",
+            "coronary artery morphogenesis",
+            "embryonic organ development",
+            "heart morphogenesis",
+            "homeostatic process",
+            "negative regulation of cell migration",
+            "negative regulation of cell population proliferation",
+            "nucleosome disassembly",
+            "positive regulation of cell differentiation",
+            "positive regulation of double-strand break repair",
+            "positive regulation of double-strand break repair via homologous recombination",
+            "positive regulation of myoblast differentiation",
+            "positive regulation of T cell differentiation",
+            "regulation of G0 to G1 transition",
+            "regulation of G1/S transition of mitotic cell cycle",
+            "regulation of mitotic metaphase/anaphase transition",
+            "regulation of nucleotide-excision repair",
+            "regulation of transcription by RNA polymerase II"
+        ],
+        "Location": [
+            "nucleus"
+        ],
+        "Disease": [
+            "Coffin-Siris syndrome 6",
+            "Disease variant",
+            "Intellectual disability"
+        ],
+        "Disease_description": [
+            "Coffin-Siris syndrome 6: A form of Coffin-Siris syndrome, a congenital multiple malformation syndrome with broad phenotypic and genetic variability. Cardinal features are intellectual disability, coarse facial features, hypertrichosis, and hypoplastic or absent fifth digit nails or phalanges. Additional features include malformations of the cardiac, gastrointestinal, genitourinary, and/or central nervous systems. Sucking/feeding difficulties, poor growth, ophthalmologic abnormalities, hearing impairment, and spinal anomalies are common findings. Both autosomal dominant and autosomal recessive inheritance patterns have been reported. CSS6 inheritance is autosomal dominant."
+        ],
+        "Complexes": [
+            "Component of the SWI/SNF-B (PBAF) chromatin remodeling complex, at least composed of SMARCA4/BRG1, SMARCB1/BAF47/SNF5, ACTL6A/BAF53A or ACTL6B/BAF53B, SMARCE1/BAF57, SMARCD1/BAF60A, SMARCD2/BAF60B, perhaps SMARCD3/BAF60C, SMARCC1/BAF155, SMARCC2/BAF170, PBRM1/BAF180, ARID2/BAF200 and actin. Interacts with SRF. Forms complexes with SRF and SRF cofactors MYOCD, NKX2-5 and SRFBP1"
+        ]
+    },
+    "BCL7A": {
+        "UniProtKB_ID": "BCL7A_HUMAN",
+        "Description": "B-cell CLL/lymphoma 7 protein family member A",
+        "GO": [
+            "chromatin",
+            "GBAF complex",
+            "SWI/SNF complex",
+            "chromatin remodeling",
+            "negative regulation of cell differentiation",
+            "negative regulation of DNA-templated transcription",
+            "positive regulation of cell population proliferation",
+            "positive regulation of double-strand break repair",
+            "positive regulation of stem cell population maintenance",
+            "regulation of G0 to G1 transition",
+            "regulation of G1/S transition of mitotic cell cycle",
+            "regulation of mitotic metaphase/anaphase transition",
+            "regulation of nucleotide-excision repair",
+            "regulation of transcription by RNA polymerase II"
+        ],
+        "Location": [],
+        "Disease": [],
+        "Disease_description": [],
+        "Complexes": []
+    },
+    "BCL7B": {
+        "UniProtKB_ID": "BCL7B_HUMAN",
+        "Description": "B-cell CLL/lymphoma 7 protein family member B",
+        "GO": [
+            "chromatin",
+            "GBAF complex",
+            "SWI/SNF complex",
+            "actin binding",
+            "apoptotic process",
+            "cell differentiation",
+            "chromatin remodeling",
+            "negative regulation of cell differentiation",
+            "positive regulation of cell population proliferation",
+            "positive regulation of double-strand break repair",
+            "positive regulation of stem cell population maintenance",
+            "regulation of G0 to G1 transition",
+            "regulation of G1/S transition of mitotic cell cycle",
+            "regulation of mitotic metaphase/anaphase transition",
+            "regulation of nucleotide-excision repair",
+            "regulation of transcription by RNA polymerase II",
+            "Wnt signaling pathway"
+        ],
+        "Location": [],
+        "Disease": [
+            "Allergen",
+            "Williams-Beuren syndrome"
+        ],
+        "Disease_description": [],
+        "Complexes": []
+    },
+    "BCL7C": {
+        "UniProtKB_ID": "BCL7C_HUMAN",
+        "Description": "B-cell CLL/lymphoma 7 protein family member C",
+        "GO": [
+            "chromatin",
+            "GBAF complex",
+            "SWI/SNF complex",
+            "apoptotic process",
+            "chromatin remodeling",
+            "negative regulation of cell differentiation",
+            "positive regulation of cell population proliferation",
+            "positive regulation of double-strand break repair",
+            "positive regulation of stem cell population maintenance",
+            "regulation of G0 to G1 transition",
+            "regulation of G1/S transition of mitotic cell cycle",
+            "regulation of mitotic metaphase/anaphase transition",
+            "regulation of nucleotide-excision repair",
+            "regulation of transcription by RNA polymerase II"
+        ],
+        "Location": [],
+        "Disease": [],
+        "Disease_description": [],
+        "Complexes": []
+    },
+    "BICRA": {
+        "UniProtKB_ID": "BICRA_HUMAN",
+        "Description": "BRD4-interacting chromatin-remodeling complex-associated protein",
+        "GO": [
+            "chromatin",
+            "GBAF complex",
+            "nucleus",
+            "SWI/SNF complex",
+            "transcription regulator activator activity",
+            "chromatin remodeling",
+            "negative regulation of cell differentiation",
+            "positive regulation of cell population proliferation",
+            "positive regulation of DNA-templated transcription",
+            "positive regulation of stem cell population maintenance",
+            "regulation of transcription by RNA polymerase II"
+        ],
+        "Location": [
+            "nucleus"
+        ],
+        "Disease": [
+            "Coffin-Siris syndrome 12",
+            "Disease variant",
+            "Intellectual disability"
+        ],
+        "Disease_description": [
+            "Coffin-Siris syndrome 12: A form of Coffin-Siris syndrome, a congenital multiple malformation syndrome with broad phenotypic and genetic variability. Cardinal features are intellectual disability, coarse facial features, hypertrichosis, and hypoplastic or absent fifth digit nails or phalanges. Additional features include malformations of the cardiac, gastrointestinal, genitourinary, and/or central nervous systems. Sucking/feeding difficulties, poor growth, ophthalmologic abnormalities, hearing impairment, and spinal anomalies are common findings. CSS12 is an autosomal dominant form characterized by global developmental delay with variably impaired intellectual development, speech and language delay, and behavioral abnormalities, such as autism or hyperactivity. Most CSS12 patients do not have the classic hypoplastic fifth digit/nail abnormalities that are often observed in other forms the disease."
+        ],
+        "Complexes": [
+            "Component of the multiprotein chromatin-remodeling complexes SWI/SNF: SWI/SNF-A (BAF), SWI/SNF-B (PBAF) and related complexes. The canonical complex contains a catalytic subunit (either SMARCA4/BRG1/BAF190A or SMARCA2/BRM/BAF190B) and at least SMARCE1, ACTL6A/BAF53, SMARCC1/BAF155, SMARCC2/BAF170, and SMARCB1/SNF5/BAF47. Other subunits specific to each of the complexes may also be present permitting several possible combinations developmentally and tissue specific. Component of the SWI/SNF (GBAF) subcomplex, which includes at least BICRA or BICRAL (mutually exclusive), BRD9, SS18, the core BAF subunits, SMARCA2/BRM, SMARCA4/BRG1/BAF190A, ACTL6A/BAF53, SMARCC1/BAF155, and SMARCD1/BAF60A (PubMed:29374058). Interacts with BRD4; the interaction bridges BRD4 to the GBAF complex (PubMed:29374058, PubMed:21555454)"
+        ]
+    },
+    "BICRAL": {
+        "UniProtKB_ID": "BICRL_HUMAN",
+        "Description": "BRD4-interacting chromatin-remodeling complex-associated protein-like",
+        "GO": [
+            "chromatin",
+            "GBAF complex",
+            "SWI/SNF complex",
+            "chromatin remodeling",
+            "negative regulation of cell differentiation",
+            "positive regulation of cell population proliferation",
+            "positive regulation of DNA-templated transcription",
+            "positive regulation of stem cell population maintenance",
+            "regulation of transcription by RNA polymerase II"
+        ],
+        "Location": [],
+        "Disease": [],
+        "Disease_description": [],
+        "Complexes": [
+            "Component of the multiprotein chromatin-remodeling complexes SWI/SNF: SWI/SNF-A (BAF), SWI/SNF-B (PBAF) and related complexes. The canonical complex contains a catalytic subunit (either SMARCA4/BRG1/BAF190A or SMARCA2/BRM/BAF190B) and at least SMARCE1, ACTL6A/BAF53, SMARCC1/BAF155, SMARCC2/BAF170, and SMARCB1/SNF5/BAF47. Other subunits specific to each of the complexes may also be present permitting several possible combinations developmentally and tissue specific. Component of the SWI/SNF (GBAF) subcomplex, which includes at least BICRA or BICRAL (mutually exclusive), BRD9, SS18, the core BAF subunits, SMARCA2/BRM, SMARCA4/BRG1/BAF190A, ACTL6A/BAF53, SMARCC1/BAF155, and SMARCD1/BAF60A"
+        ]
+    },
+    "BOD1L1": {
+        "UniProtKB_ID": "BD1L1_HUMAN",
+        "Description": "Biorientation of chromosomes in cell division protein 1-like 1",
+        "GO": [
+            "centrosome",
+            "nucleoplasm",
+            "outer kinetochore",
+            "Set1C/COMPASS complex",
+            "spindle microtubule",
+            "spindle pole",
+            "protein phosphatase 2A binding",
+            "protein phosphatase inhibitor activity",
+            "cellular response to DNA damage stimulus",
+            "DNA repair",
+            "histone H3-K4 methylation",
+            "negative regulation of phosphoprotein phosphatase activity",
+            "replication fork processing"
+        ],
+        "Location": [
+            "chromosome"
+        ],
+        "Disease": [],
+        "Disease_description": [],
+        "Complexes": [
+            "Interacts (via COMPASS-Shg1 domain) with SETD1A at stalled replication forks; this interaction mediates FANCD2-dependent nucleosome remodeling at reversed forks protecting them from nucleolytic degradation"
+        ]
+    },
+    "BRCC3": {
+        "UniProtKB_ID": "BRCC3_HUMAN",
+        "Description": "Lys-63-specific deubiquitinase BRCC36",
+        "GO": [
+            "BRCA1-A complex",
+            "BRISC complex",
+            "cytoplasm",
+            "cytosol",
+            "nuclear ubiquitin ligase complex",
+            "nucleoplasm",
+            "nucleus",
+            "spindle pole",
+            "ubiquitin ligase complex",
+            "cysteine-type deubiquitinase activity",
+            "enzyme regulator activity",
+            "K63-linked deubiquitinase activity",
+            "metal ion binding",
+            "metal-dependent deubiquitinase activity",
+            "metallopeptidase activity",
+            "polyubiquitin modification-dependent protein binding",
+            "cell division",
+            "cellular response to ionizing radiation",
+            "chromatin organization",
+            "double-strand break repair",
+            "histone H2A K63-linked deubiquitination",
+            "histone H2A monoubiquitination",
+            "mitotic G2 DNA damage checkpoint signaling",
+            "mitotic G2/M transition checkpoint",
+            "positive regulation of DNA repair",
+            "positive regulation of NLRP3 inflammasome complex assembly",
+            "protein autoubiquitination",
+            "protein deubiquitination",
+            "protein K63-linked deubiquitination",
+            "regulation of DNA damage checkpoint",
+            "regulation of DNA repair",
+            "response to ionizing radiation",
+            "response to X-ray"
+        ],
+        "Location": [
+            "cytoplasm",
+            "nucleus",
+            "spindle pole",
+            "cytoskeleton"
+        ],
+        "Disease": [
+            "Proto-oncogene"
+        ],
+        "Disease_description": [],
+        "Complexes": [
+            "Component of the ARISC complex, at least composed of UIMC1/RAP80, ABRAXAS1, BRCC3/BRCC36, BABAM2 and BABAM1/NBA1 (PubMed:20656690, PubMed:24075985). Component of the BRCA1-A complex, at least composed of BRCA1, BARD1, UIMC1/RAP80, ABRAXAS1, BRCC3/BRCC36, babam2 and BABAM1/NBA1. In the BRCA1-A complex, interacts directly with ABRAXAS1 and babam2 (PubMed:18077395, PubMed:19261748). Component of the BRISC complex, at least composed of ABRAXAS2, BRCC3/BRCC36, BABAM2 and BABAM1/NBA1 (PubMed:24075985, PubMed:25283148, PubMed:26344097). Identified in a complex with SHMT2 and the other subunits of the BRISC complex (PubMed:24075985). In the BRISC complex, interacts directly with ABRAXAS2 (PubMed:20656690, PubMed:26344097). Identified in a complex with ABRAXAS2 and NUMA1 (PubMed:26195665). The BRISC complex interacts with the CSN complex. Component of the BRCA1/BRCA2 containing complex (BRCC), which also contains BRCA1, BRCA2, BARD1, BABAM2 and RAD51. BRCC is a ubiquitin E3 ligase complex that enhances cellular survival following DNA damage. Interacts with BRCA1. Binds polyubiquitin. Interacts with PWWP2B (By similarity). Interacts with HDAC1; this interaction is enhanced in the presence of PWWP2B (By similarity)"
+        ]
+    },
+    "BRD7": {
+        "UniProtKB_ID": "BRD7_HUMAN",
+        "Description": "Bromodomain-containing protein 7",
+        "GO": [
+            "chromatin",
+            "cytoplasm",
+            "cytosol",
+            "kinetochore",
+            "nuclear matrix",
+            "nucleoplasm",
+            "nucleus",
+            "RSC-type complex",
+            "histone binding",
+            "lysine-acetylated histone binding",
+            "p53 binding",
+            "transcription cis-regulatory region binding",
+            "transcription coactivator activity",
+            "transcription corepressor activity",
+            "cell cycle",
+            "chromatin remodeling",
+            "negative regulation of DNA-templated transcription",
+            "negative regulation of G1/S transition of mitotic cell cycle",
+            "positive regulation of cell differentiation",
+            "positive regulation of double-strand break repair",
+            "positive regulation of myoblast differentiation",
+            "positive regulation of T cell differentiation",
+            "regulation of G0 to G1 transition",
+            "regulation of G1/S transition of mitotic cell cycle",
+            "regulation of mitotic cell cycle",
+            "regulation of mitotic metaphase/anaphase transition",
+            "regulation of nucleotide-excision repair",
+            "regulation of transcription by RNA polymerase II",
+            "transcription initiation-coupled chromatin remodeling",
+            "Wnt signaling pathway"
+        ],
+        "Location": [
+            "nucleus"
+        ],
+        "Disease": [
+            "Tumor suppressor"
+        ],
+        "Disease_description": [],
+        "Complexes": [
+            "Interacts with TRIM24, PTPN13 and DVL1. Identified in a complex with SMARCA4/BRG1, SMARCC1/BAF155, SMARCE1/BAF57, DPF2/BAF45D and ARID2, subunits of the SWI/SNF-B (PBAF) chromatin remodeling complex (By similarity). Interacts with IRF2 and HNRPUL1. Interacts (via N-terminus) with TP53. Interacts (via C-terminus) with EP300. Interacts with BRCA1. Interacts (via bromo domain) with histone H3 (via N-terminus) acetylated at 'Lys-14' (H3K14ac). Has low affinity for histone H3 acetylated at 'Lys-9' (H3K9ac). Has the highest affinity for histone H3 that is acetylated both at 'Lys-9' (H3K9ac) and at 'Lys-14' (H3K14ac). Has very low affinity for non-acetylated histone H3. Interacts (via bromo domain) with histone H4 (via N-terminus) acetylated at 'Lys-8' (H3K8ac) (in vitro)"
+        ]
+    },
+    "BRD9": {
+        "UniProtKB_ID": "BRD9_HUMAN",
+        "Description": "Bromodomain-containing protein 9",
+        "GO": [
+            "chromatin",
+            "GBAF complex",
+            "nucleoplasm",
+            "nucleus",
+            "SWI/SNF complex",
+            "lysine-acetylated histone binding",
+            "nucleic acid binding",
+            "chromatin remodeling",
+            "negative regulation of cell differentiation",
+            "positive regulation of cell population proliferation",
+            "positive regulation of stem cell population maintenance",
+            "regulation of transcription by RNA polymerase II"
+        ],
+        "Location": [],
+        "Disease": [],
+        "Disease_description": [],
+        "Complexes": [
+            "Binds acetylated histones H3 and H4 (PubMed:22464331, PubMed:26365797). Binds butyrylated histone H4 (PubMed:26365797). Component of the multiprotein chromatin-remodeling subcomplex SWI/SNF called GBAF, which includes at least BICRA or BICRAL (mutually exclusive), BRD9, SS18, the core BAF subunits, SMARCA2/BRM, SMARCA4/BRG1/BAF190A, ACTL6A/BAF53, SMARCC1/BAF155, and SMARCD1/BAF60A (PubMed:29374058). Interacts (via N-terminal bromodomain) with acteylated RAD54 (PubMed:32457312). Interacts (via C-terminus) with RAD51 (PubMed:32457312)"
+        ]
+    },
+    "C17orf49": {
+        "UniProtKB_ID": "BAP18_HUMAN",
+        "Description": "Chromatin complexes subunit BAP18",
+        "GO": [
+            "cytosol",
+            "MLL1 complex",
+            "nucleoplasm",
+            "NURF complex",
+            "DNA binding",
+            "identical protein binding",
+            "chromatin organization"
+        ],
+        "Location": [
+            "nucleus"
+        ],
+        "Disease": [],
+        "Disease_description": [],
+        "Complexes": [
+            "Component of some MLL1/MLL complex, at least composed of the core components KMT2A/MLL1, ASH2L, HCFC1/HCF1, WDR5 and RBBP5, as well as the facultative components BAP18, CHD8, E2F6, HSP70, INO80C, KANSL1, LAS1L, MAX, MCRS1, MGA, KAT8/MOF, PELP1, PHF20, PRP31, RING2, RUVB1/TIP49A, RUVB2/TIP49B, SENP3, TAF1, TAF4, TAF6, TAF7, TAF9 and TEX10. Component of the nucleosome-remodeling factor (NURF) complex"
+        ]
+    },
+    "CDCA7": {
+        "UniProtKB_ID": "CDCA7_HUMAN",
+        "Description": "Cell division cycle-associated protein 7",
+        "GO": [
+            "cytosol",
+            "nucleoplasm",
+            "nucleus",
+            "apoptotic process",
+            "regulation of cell population proliferation",
+            "regulation of DNA-templated transcription"
+        ],
+        "Location": [
+            "cytoplasm",
+            "nucleus"
+        ],
+        "Disease": [
+            "Immunodeficiency-centromeric instability-facial anomalies syndrome 3",
+            "Disease variant"
+        ],
+        "Disease_description": [
+            "Immunodeficiency-centromeric instability-facial anomalies syndrome 3: A rare disorder characterized by a variable immunodeficiency resulting in recurrent infections, facial anomalies, and branching of chromosomes 1, 9, and 16. Other variable symptoms include growth retardation, failure to thrive, and psychomotor retardation. Laboratory studies show limited hypomethylation of DNA in a small fraction of the genome in some, but not all, patients."
+        ],
+        "Complexes": [
+            "Interacts with MYC (via C-terminus), YWHAE and YWHAZ"
+        ]
+    },
+    "CHD8": {
+        "UniProtKB_ID": "CHD8_HUMAN",
+        "Description": "Chromodomain-helicase-DNA-binding protein 8",
+        "GO": [
+            "chromatin",
+            "MLL1 complex",
+            "nucleoplasm",
+            "nucleus",
+            "protein-containing complex",
+            "armadillo repeat domain binding",
+            "ATP binding",
+            "ATP hydrolysis activity",
+            "ATP-dependent chromatin remodeler activity",
+            "beta-catenin binding",
+            "chromatin binding",
+            "DNA binding",
+            "DNA helicase activity",
+            "histone binding",
+            "methylated histone binding",
+            "p53 binding",
+            "brain development",
+            "chromatin remodeling",
+            "digestive tract development",
+            "in utero embryonic development",
+            "negative regulation of canonical Wnt signaling pathway",
+            "negative regulation of DNA-templated transcription",
+            "negative regulation of fibroblast apoptotic process",
+            "negative regulation of transcription by RNA polymerase II",
+            "positive regulation of DNA-templated transcription",
+            "positive regulation of transcription by RNA polymerase II",
+            "positive regulation of transcription by RNA polymerase III",
+            "prepulse inhibition",
+            "regulation of gene expression",
+            "social behavior",
+            "Wnt signaling pathway"
+        ],
+        "Location": [
+            "nucleus"
+        ],
+        "Disease": [
+            "Intellectual developmental disorder with autism and macrocephaly",
+            "Autism",
+            "Autism spectrum disorder",
+            "Disease variant"
+        ],
+        "Disease_description": [
+            "Intellectual developmental disorder with autism and macrocephaly: An autosomal dominant disorder characterized by impaired intellectual development, a highly penetrant autism spectrum phenotype, and macrocephaly. Other common features include tall stature, gastrointestinal symptoms, distinct facial features, sleep problems, and attention problems."
+        ],
+        "Complexes": [
+            "Interacts with p53/TP53, histone H1, CTNNB1, CTCF and PIAS3. Component of some MLL1/MLL complex, at least composed of the core components KMT2A/MLL1, ASH2L, HCFC1/HCF1, WDR5 and RBBP5, as well as the facultative components BAP18, CHD8, E2F6, HSP70, INO80C, KANSL1, LAS1L, MAX, MCRS1, MGA, KAT8/MOF, PELP1, PHF20, PRP31, RING2, RUVB1/TIP49A, RUVB2/TIP49B, SENP3, TAF1, TAF4, TAF6, TAF7, TAF9 and TEX10. Interacts with CHD7. Interacts with FAM124B (PubMed:23285124). Interacts with TLK2 (PubMed:33323470)"
+        ]
+    },
+    "CTDSPL2": {
+        "UniProtKB_ID": "CTSL2_HUMAN",
+        "Description": "CTD small phosphatase-like protein 2",
+        "GO": [
+            "nucleoplasm",
+            "phosphoprotein phosphatase activity",
+            "RNA polymerase II CTD heptapeptide repeat phosphatase activity",
+            "negative regulation of BMP signaling pathway",
+            "positive regulation of protein export from nucleus",
+            "protein dephosphorylation",
+            "protein export from nucleus"
+        ],
+        "Location": [],
+        "Disease": [],
+        "Disease_description": [],
+        "Complexes": []
+    },
+    "DPF1": {
+        "UniProtKB_ID": "DPF1_HUMAN",
+        "Description": "Zinc finger protein neuro-d4",
+        "GO": [
+            "chromatin",
+            "cytoplasm",
+            "nBAF complex",
+            "histone binding",
+            "metal ion binding",
+            "sequence-specific double-stranded DNA binding",
+            "transcription coregulator activity",
+            "apoptotic process",
+            "chromatin remodeling",
+            "negative regulation of DNA-templated transcription",
+            "nervous system development",
+            "positive regulation of cell differentiation",
+            "positive regulation of double-strand break repair",
+            "positive regulation of transcription by RNA polymerase II",
+            "regulation of G0 to G1 transition",
+            "regulation of G1/S transition of mitotic cell cycle",
+            "regulation of mitotic metaphase/anaphase transition",
+            "regulation of nucleotide-excision repair",
+            "regulation of transcription by RNA polymerase II"
+        ],
+        "Location": [
+            "cytoplasm",
+            "nucleus"
+        ],
+        "Disease": [],
+        "Disease_description": [],
+        "Complexes": [
+            "Component of neuron-specific chromatin remodeling complex (nBAF complex) composed of at least, ARID1A/BAF250A or ARID1B/BAF250B, SMARCD1/BAF60A, SMARCD3/BAF60C, SMARCA2/BRM/BAF190B, SMARCA4/BRG1/BAF190A, SMARCB1/BAF47, SMARCC1/BAF155, SMARCE1/BAF57, SMARCC2/BAF170, DPF1/BAF45B, DPF3/BAF45C, ACTL6B/BAF53B and actin"
+        ]
+    },
+    "DPF2": {
+        "UniProtKB_ID": "REQU_HUMAN",
+        "Description": "Zinc finger protein ubi-d4",
+        "GO": [
+            "centrosome",
+            "chromatin",
+            "cytosol",
+            "intracellular membrane-bounded organelle",
+            "nBAF complex",
+            "nucleoplasm",
+            "nucleus",
+            "SWI/SNF complex",
+            "H3K9me3 modified histone binding",
+            "histone binding",
+            "lysine-acetylated histone binding",
+            "metal ion binding",
+            "transcription coregulator activity",
+            "transcription corepressor activity",
+            "apoptotic process",
+            "apoptotic signaling pathway",
+            "chromatin remodeling",
+            "negative regulation of DNA-templated transcription",
+            "negative regulation of myeloid progenitor cell differentiation",
+            "negative regulation of transcription by RNA polymerase II",
+            "nervous system development",
+            "positive regulation of double-strand break repair",
+            "positive regulation of stem cell population maintenance",
+            "positive regulation of transcription by RNA polymerase II",
+            "regulation of G0 to G1 transition",
+            "regulation of G1/S transition of mitotic cell cycle",
+            "regulation of mitotic metaphase/anaphase transition",
+            "regulation of nucleotide-excision repair",
+            "regulation of transcription by RNA polymerase II"
+        ],
+        "Location": [
+            "cytoplasm",
+            "nucleus"
+        ],
+        "Disease": [
+            "Coffin-Siris syndrome 7",
+            "Disease variant",
+            "Intellectual disability"
+        ],
+        "Disease_description": [
+            "Coffin-Siris syndrome 7: A form of Coffin-Siris syndrome, a congenital multiple malformation syndrome with broad phenotypic and genetic variability. Cardinal features are intellectual disability, coarse facial features, hypertrichosis, and hypoplastic or absent fifth digit nails or phalanges. Additional features include malformations of the cardiac, gastrointestinal, genitourinary, and/or central nervous systems. Sucking/feeding difficulties, poor growth, ophthalmologic abnormalities, hearing impairment, and spinal anomalies are common findings. Both autosomal dominant and autosomal recessive inheritance patterns have been reported. CSS7 inheritance is autosomal dominant."
+        ],
+        "Complexes": [
+            "Interacts with the nucleosomes, in particular nucleosomes bearing histone H3 crotonylated at 'Lys-14' (H3K14cr) for which DPF2 has high affinity (PubMed:27775714). Also interacts (via PHD-type zinc finger domains) with histone H3 butyrylated at 'Lys-14' (H3K14bu), histone H3 propionylated at 'Lys-14' (H3K14pr), and histone H3 acetylated at 'Lys-14' (H3K14ac) (PubMed:29429572, PubMed:28533407, PubMed:27775714). Interacts with histone H3 acetylated at 'Lys-9' (H3K9ac), histone H3 di-methylated at 'Lys-9' (H3K9me2), and histone H3 tri-methylated at 'Lys-9' (H3K9me3) (PubMed:29429572). Interacts with histone H4 acetylated at 'Lys-12' (H4K12ac) (PubMed:29429572). Interacts with histone H4 acetylated at 'Lys-16' (H4K16ac) (PubMed:28533407). Interacts with SWI/SNF complex components (PubMed:20460684, PubMed:28533407). Interacts with SMARCA2, SMARCA4, SMARCB1 and SMARCD1 (PubMed:20460684). Interacts with SMARCC1, SMARCC2 and ACTL6A (PubMed:28533407). Interacts with RUNX1 (PubMed:28533407)"
+        ]
+    },
+    "ERCC4": {
+        "UniProtKB_ID": "XPF_HUMAN",
+        "Description": "DNA repair endonuclease XPF",
+        "GO": [
+            "chromosome, telomeric region",
+            "ERCC4-ERCC1 complex",
+            "nucleoplasm",
+            "nucleotide-excision repair complex",
+            "nucleotide-excision repair factor 1 complex",
+            "nucleus",
+            "damaged DNA binding",
+            "endodeoxyribonuclease activity",
+            "identical protein binding",
+            "promoter-specific chromatin binding",
+            "protein C-terminus binding",
+            "protein N-terminus binding",
+            "single-stranded DNA binding",
+            "single-stranded DNA endodeoxyribonuclease activity",
+            "TFIID-class transcription factor complex binding",
+            "cellular response to UV",
+            "DNA repair",
+            "double-strand break repair via homologous recombination",
+            "double-strand break repair via nonhomologous end joining",
+            "negative regulation of double-stranded telomeric DNA binding",
+            "negative regulation of protection from non-homologous end joining at telomere",
+            "negative regulation of telomere maintenance",
+            "negative regulation of telomere maintenance via telomere lengthening",
+            "nucleotide-excision repair",
+            "nucleotide-excision repair involved in interstrand cross-link repair",
+            "nucleotide-excision repair, DNA incision, 3'-to lesion",
+            "nucleotide-excision repair, DNA incision, 5'-to lesion",
+            "regulation of autophagy",
+            "resolution of meiotic recombination intermediates",
+            "response to UV",
+            "telomere maintenance",
+            "telomeric DNA-containing double minutes formation",
+            "UV protection"
+        ],
+        "Location": [
+            "nucleus",
+            "chromosome"
+        ],
+        "Disease": [
+            "Xeroderma pigmentosum complementation group F",
+            "XFE progeroid syndrome",
+            "Xeroderma pigmentosum type F/Cockayne syndrome",
+            "Fanconi anemia complementation group Q",
+            "Cockayne syndrome",
+            "Disease variant",
+            "Dwarfism",
+            "Fanconi anemia",
+            "Xeroderma pigmentosum"
+        ],
+        "Disease_description": [
+            "Xeroderma pigmentosum complementation group F: An autosomal recessive pigmentary skin disorder characterized by solar hypersensitivity of the skin, high predisposition for developing cancers on areas exposed to sunlight and, in some cases, neurological abnormalities. The skin develops marked freckling and other pigmentation abnormalities. XP-F patients show a mild phenotype.",
+            "XFE progeroid syndrome: A syndrome characterized by aged bird-like facies, lack of subcutaneous fat, dwarfism, cachexia and microcephaly. Additional features include sun-sensitivity from birth, learning disabilities, hearing loss, and visual impairment.",
+            "Xeroderma pigmentosum type F/Cockayne syndrome: A variant form of Cockayne syndrome, a disorder characterized by growth retardation, microcephaly, impairment of nervous system development, pigmentary retinopathy, peculiar facies, and progeria together with abnormal skin photosensitivity. Cockayne syndrome dermatological features are milder than those in xeroderma pigmentosum and skin cancers are not found in affected individuals. XPF/CS patients, however, present with severe skin phenotypes, including severe photosensitivity, abnormal skin pigmentation, and skin cancer predisposition.",
+            "Fanconi anemia complementation group Q: A disorder affecting all bone marrow elements and resulting in anemia, leukopenia and thrombopenia. It is associated with cardiac, renal and limb malformations, dermal pigmentary changes, and a predisposition to the development of malignancies. At the cellular level it is associated with hypersensitivity to DNA-damaging agents, chromosomal instability (increased chromosome breakage) and defective DNA repair."
+        ],
+        "Complexes": [
+            "Heterodimer composed of ERCC1 and ERCC4/XPF (PubMed:10413517, PubMed:25538220, PubMed:32034146, PubMed:16076955, PubMed:16338413). Interacts with SLX4/BTBD12; this interaction is direct and links the ERCC1-ERCC4/XPF complex to SLX4, which may coordinate the action of the structure-specific endonuclease during DNA repair (PubMed:19596235, PubMed:19596236, PubMed:25538220, PubMed:19595721, PubMed:19595722)"
+        ]
+    },
+    "KPNA1": {
+        "UniProtKB_ID": "IMA5_HUMAN",
+        "Description": "Importin subunit alpha-5",
+        "GO": [
+            "cytoplasm",
+            "cytosol",
+            "dendrite",
+            "glutamatergic synapse",
+            "NLS-dependent protein nuclear import complex",
+            "nuclear pore",
+            "nucleoplasm",
+            "nucleus",
+            "postsynaptic density",
+            "nuclear import signal receptor activity",
+            "nuclear localization sequence binding",
+            "NLS-bearing protein import into nucleus",
+            "postsynapse to nucleus signaling pathway",
+            "protein import into nucleus",
+            "regulation of apoptotic process",
+            "regulation of canonical Wnt signaling pathway",
+            "regulation of DNA recombination",
+            "satellite cell activation involved in skeletal muscle regeneration",
+            "skeletal muscle satellite cell proliferation"
+        ],
+        "Location": [
+            "cytoplasm",
+            "nucleus"
+        ],
+        "Disease": [],
+        "Disease_description": [],
+        "Complexes": [
+            "Heterodimer; with KPNB1 (PubMed:7604027). Interacts with ANP32E (By similarity). Interacts with ZIC3 (By similarity). Interacts with NSMF; the interaction occurs in a calcium-independent manner after synaptic NMDA receptor stimulation and is required for nuclear import of NSMF but is competed by CABP1 (By similarity). Interacts with APEX1 (PubMed:15942031). Interacts with RAG1 (PubMed:8052633). Interacts with CTNNBL1 (via its N-terminal) (PubMed:21385873). Interacts with AICDA (via its NLS) (PubMed:21385873). Interacts with SNAI1 (via zinc fingers) (PubMed:21454664). Interacts with DCAF8 (PubMed:22500989). Interacts with ITSN1 isoform 2 (PubMed:29599122). Interacts with TALDO1 isoform 1 (By similarity)",
+            "(Microbial infection) Interacts with human cytomegalovirus/HCMV UL84",
+            "(Microbial infection) Interacts with HIV-1 Vpr",
+            "(Microbial infection) Interacts with ebolavirus protein VP24",
+            "(Microbial infection) Interacts with the venezuelan equine encephalitis virus protease nsP2; this interaction probably allows the active transport of protease nsP2 into the host nucleus"
+        ]
+    },
+    "KPNA2": {
+        "UniProtKB_ID": "IMA1_HUMAN",
+        "Description": "Importin subunit alpha-1",
+        "GO": [
+            "cytoplasm",
+            "cytosol",
+            "endoplasmic reticulum membrane",
+            "Golgi membrane",
+            "host cell",
+            "membrane",
+            "NLS-dependent protein nuclear import complex",
+            "nucleoplasm",
+            "nucleus",
+            "histone deacetylase binding",
+            "nuclear import signal receptor activity",
+            "nuclear localization sequence binding",
+            "RNA binding",
+            "DNA metabolic process",
+            "entry of viral genome into host nucleus through nuclear pore complex via importin",
+            "NLS-bearing protein import into nucleus",
+            "positive regulation of viral life cycle",
+            "protein import into nucleus",
+            "regulation of DNA recombination"
+        ],
+        "Location": [
+            "endoplasmic reticulum",
+            "nucleus",
+            "endoplasmic reticulum membrane",
+            "golgi apparatus membrane",
+            "cytoplasm",
+            "membrane",
+            "golgi apparatus"
+        ],
+        "Disease": [],
+        "Disease_description": [],
+        "Complexes": [
+            "Heterodimer; with KPNB1 (PubMed:17596301). Interacts with ANP32E (By similarity). Component of a complex containing CSE1L, RAN and KPNA2. Interacts directly with CSE1L. Interacts with PLAG1. Interacts with APEX1 (via N-terminus). Interacts with FRG1 (via N-terminus). Interacts with ARL4A, CTNNBL1 and NBN. Interacts with SNAI1 (via zinc fingers) and SNAI2 (via zinc fingers). Interacts with BAG6 (PubMed:29042515). Interacts with AIFM2; this interaction likely mediates the translocation of AIFM2 into the nucleus upon oxidative stress",
+            "(Microbial infection) Interacts with HIV-1 Vpr",
+            "(Microbial infection) Part of a tetrameric complex composed of CRM1, importin alpha/beta dimer and the Venezuelan equine encephalitis virus (VEEV) capsid; this complex blocks the receptor-mediated transport through the nuclear pore",
+            "(Microbial infection) Interacts with SARS-COV virus ORF6 protein; this interaction blocks the receptor-mediated transport through the nuclear pore",
+            "(Microbial infection) Interacts with Zika virus RNA-directed RNA polymerase NS5",
+            "(Microbial infection) Interacts with SARS-CoV-2 ORF6 protein; this interaction may inhibit IFN-beta production by blocking IRF3 nuclear translocation"
+        ]
+    },
+    "NIPBL": {
+        "UniProtKB_ID": "NIPBL_HUMAN",
+        "Description": "Nipped-B-like protein",
+        "GO": [
+            "chromatin",
+            "cytosol",
+            "extracellular exosome",
+            "integrator complex",
+            "intracellular membrane-bounded organelle",
+            "nucleoplasm",
+            "nucleus",
+            "Scc2-Scc4 cohesin loading complex",
+            "SMC loading complex",
+            "chromatin binding",
+            "chromo shadow domain binding",
+            "cohesin loader activity",
+            "histone deacetylase binding",
+            "mediator complex binding",
+            "promoter-specific chromatin binding",
+            "protein C-terminus binding",
+            "protein N-terminus binding",
+            "brain development",
+            "cellular response to DNA damage stimulus",
+            "cellular response to X-ray",
+            "cognition",
+            "developmental growth",
+            "digestive tract development",
+            "ear morphogenesis",
+            "embryonic digestive tract morphogenesis",
+            "embryonic forelimb morphogenesis",
+            "embryonic viscerocranium morphogenesis",
+            "establishment of mitotic sister chromatid cohesion",
+            "establishment of protein localization to chromatin",
+            "external genitalia morphogenesis",
+            "eye morphogenesis",
+            "face morphogenesis",
+            "fat cell differentiation",
+            "forelimb morphogenesis",
+            "gallbladder development",
+            "heart morphogenesis",
+            "maintenance of mitotic sister chromatid cohesion",
+            "metanephros development",
+            "mitotic cohesin loading",
+            "mitotic sister chromatid cohesion",
+            "negative regulation of DNA-templated transcription",
+            "negative regulation of transcription by RNA polymerase II",
+            "outflow tract morphogenesis",
+            "positive regulation of histone deacetylation",
+            "positive regulation of multicellular organism growth",
+            "positive regulation of neuron migration",
+            "positive regulation of ossification",
+            "positive regulation of transcription by RNA polymerase II",
+            "protein localization",
+            "regulation of developmental growth",
+            "regulation of embryonic development",
+            "regulation of hair cycle",
+            "replication-born double-strand break repair via sister chromatid exchange",
+            "sensory perception of sound",
+            "somatic stem cell population maintenance",
+            "uterus morphogenesis"
+        ],
+        "Location": [
+            "nucleus",
+            "chromosome"
+        ],
+        "Disease": [
+            "Cornelia de Lange syndrome 1",
+            "Disease variant",
+            "Intellectual disability"
+        ],
+        "Disease_description": [
+            "Cornelia de Lange syndrome 1: A form of Cornelia de Lange syndrome, a clinically heterogeneous developmental disorder associated with malformations affecting multiple systems. Characterized by facial dysmorphisms, abnormal hands and feet, growth delay, cognitive retardation, hirsutism, gastroesophageal dysfunction and cardiac, ophthalmologic and genitourinary anomalies."
+        ],
+        "Complexes": [
+            "Heterodimerizes with MAU2/SCC4 to form the cohesin loading complex (PubMed:16682347, PubMed:16802858, PubMed:21934712, PubMed:28167679, PubMed:22628566). The NIPBL-MAU2 heterodimer interacts with the cohesin complex composed of SMC1A/B and SMC3 heterodimer, RAD21 and STAG1/SA1 (PubMed:22628566). NIPBL directly contacts all members of the complex, RAD21, SMC1A/B, SMC3 and STAG1 (PubMed:32409525). Interacts directly (via PxVxL motif) with CBX5 (PubMed:15882967, PubMed:20562864). Interacts with ZNF609 (via N-terminus) (By similarity). Interacts with the multiprotein complex Integrator (By similarity). Interacts (via PxVxL motif) with CBX3 (PubMed:28167679)"
+        ]
+    },
+    "NOP58": {
+        "UniProtKB_ID": "NOP58_HUMAN",
+        "Description": "Nucleolar protein 58",
+        "GO": [
+            "box C/D RNP complex",
+            "Cajal body",
+            "cytosol",
+            "fibrillar center",
+            "membrane",
+            "nucleolus",
+            "nucleoplasm",
+            "pre-snoRNP complex",
+            "small-subunit processome",
+            "sno(s)RNA-containing ribonucleoprotein complex",
+            "ATPase binding",
+            "RNA binding",
+            "snoRNA binding",
+            "TFIID-class transcription factor complex binding",
+            "rRNA processing",
+            "snoRNA localization"
+        ],
+        "Location": [
+            "nucleolus",
+            "nucleus",
+            "nucleoplasm"
+        ],
+        "Disease": [],
+        "Disease_description": [],
+        "Complexes": [
+            "Core component of box C/D small nucleolar ribonucleoprotein (snoRNP) particles; the core proteins SNU13, NOP56, NOP58 and FBL assemble stepwise onto the snoRNA. Interacts with NOLC1/Nopp140. Interacts with NOPCHAP1, NUFIP1, RUVBL1 and RUVBL2; NOPCHAP1 bridges the association of NOP58 with RUVBL1:RUVBL2 and NUFIP1 (PubMed:33367824). Interacts with PIH1D1 (PubMed:17636026)"
+        ]
+    },
+    "NUP50": {
+        "UniProtKB_ID": "NUP50_HUMAN",
+        "Description": "Nuclear pore complex protein Nup50",
+        "GO": [
+            "nuclear envelope",
+            "nuclear membrane",
+            "nuclear pore",
+            "nucleoplasm",
+            "mRNA transport",
+            "nucleocytoplasmic transport",
+            "protein import into nucleus"
+        ],
+        "Location": [
+            "nucleus membrane",
+            "nucleus",
+            "nuclear pore complex",
+            "membrane"
+        ],
+        "Disease": [],
+        "Disease_description": [],
+        "Complexes": [
+            "Interacts with Importin alpha-2, Importin beta, Importin beta-2, NUP153, Ran binding protein 7, CDKN1B and itself (By similarity). Does not interact with TPR"
+        ]
+    },
+    "PBRM1": {
+        "UniProtKB_ID": "PB1_HUMAN",
+        "Description": "Protein polybromo-1",
+        "GO": [
+            "chromatin",
+            "kinetochore",
+            "nuclear chromosome",
+            "nuclear matrix",
+            "nucleoplasm",
+            "nucleus",
+            "RSC-type complex",
+            "SWI/SNF complex",
+            "chromatin binding",
+            "DNA binding",
+            "chromatin remodeling",
+            "mitotic cell cycle",
+            "negative regulation of cell population proliferation",
+            "positive regulation of cell differentiation",
+            "positive regulation of double-strand break repair",
+            "positive regulation of myoblast differentiation",
+            "positive regulation of T cell differentiation",
+            "regulation of G0 to G1 transition",
+            "regulation of G1/S transition of mitotic cell cycle",
+            "regulation of mitotic metaphase/anaphase transition",
+            "regulation of nucleotide-excision repair",
+            "regulation of transcription by RNA polymerase II"
+        ],
+        "Location": [
+            "nucleus"
+        ],
+        "Disease": [
+            "Renal cell carcinoma",
+            "Tumor suppressor"
+        ],
+        "Disease_description": [
+            "Renal cell carcinoma: Renal cell carcinoma is a heterogeneous group of sporadic or hereditary carcinoma derived from cells of the proximal renal tubular epithelium. It is subclassified into clear cell renal carcinoma (non-papillary carcinoma), papillary renal cell carcinoma, chromophobe renal cell carcinoma, collecting duct carcinoma with medullary carcinoma of the kidney, and unclassified renal cell carcinoma. Clear cell renal cell carcinoma is the most common subtype."
+        ],
+        "Complexes": [
+            "Component of the SWI/SNF-B (PBAF) chromatin remodeling complex, at least composed of SMARCA4/BRG1, SMARCB1/BAF47/SNF5, ACTL6A/BAF53A or ACTL6B/BAF53B, SMARCE1/BAF57, SMARCD1/BAF60A, SMARCD2/BAF60B, perhaps SMARCD3/BAF60C, SMARCC1/BAF155, SMARCC2/BAF170, PBRM1/BAF180, ARID2/BAF200 and actin. Interacts with PHF10/BAF45A (By similarity). Interacts with acetylated 'Lys-14' of histone H3 (H3K14ac), and may also interact with other acetylated or methylated Lys residues on histone H3"
+        ]
+    },
+    "PHAX": {
+        "UniProtKB_ID": "PHAX_HUMAN",
+        "Description": "Phosphorylated adapter RNA export protein",
+        "GO": [
+            "Cajal body",
+            "centrosome",
+            "cytosol",
+            "neuronal cell body",
+            "nucleoplasm",
+            "nucleus",
+            "ribonucleoprotein complex",
+            "mRNA cap binding complex binding",
+            "RNA binding",
+            "toxic substance binding",
+            "protein transport",
+            "RNA stabilization",
+            "snRNA export from nucleus"
+        ],
+        "Location": [
+            "cytoplasm",
+            "nucleus",
+            "nucleoplasm",
+            "cajal body"
+        ],
+        "Disease": [],
+        "Disease_description": [],
+        "Complexes": [
+            "Found in a U snRNA export complex with PHAX/RNUXA, NCBP1/CBP80, NCBP2/CBP20, RAN, XPO1 and m7G-capped RNA. Part of a precomplex with PHAX/RNUXA, NCBP1/CBP80, NCBP2/CBP20 and m7G-capped RNA. Interacts with NCBP1/CBP80 (By similarity). Found in a complex with snoRNA. Interacts with NCBP2/CBP20 (PubMed:26382858)"
+        ]
+    },
+    "RAMAC": {
+        "UniProtKB_ID": "RAMAC_HUMAN",
+        "Description": "RNA guanine-N7 methyltransferase activating subunit",
+        "GO": [
+            "mRNA cap binding complex",
+            "mRNA cap methyltransferase complex",
+            "nucleus",
+            "enzyme activator activity",
+            "molecular function activator activity",
+            "RNA binding",
+            "7-methylguanosine mRNA capping",
+            "methylation",
+            "recruitment of mRNA capping enzyme to RNA polymerase II holoenzyme complex",
+            "RNA 5'-cap (guanine-N7)-methylation"
+        ],
+        "Location": [
+            "nucleus"
+        ],
+        "Disease": [],
+        "Disease_description": [],
+        "Complexes": [
+            "Interacts with RNMT; this interaction enhances mRNA binding and cap methyltransferase activity"
+        ]
+    },
+    "SMARCA2": {
+        "UniProtKB_ID": "SMCA2_HUMAN",
+        "Description": "Probable global transcription activator SNF2L2",
+        "GO": [
+            "bBAF complex",
+            "brahma complex",
+            "chromatin",
+            "GBAF complex",
+            "intermediate filament cytoskeleton",
+            "intracellular membrane-bounded organelle",
+            "nBAF complex",
+            "npBAF complex",
+            "nucleoplasm",
+            "nucleus",
+            "SWI/SNF complex",
+            "ATP binding",
+            "ATP-dependent activity, acting on DNA",
+            "chromatin binding",
+            "DNA binding",
+            "helicase activity",
+            "histone binding",
+            "hydrolase activity",
+            "transcription cis-regulatory region binding",
+            "transcription coactivator activity",
+            "chromatin remodeling",
+            "negative regulation of cell differentiation",
+            "negative regulation of cell growth",
+            "negative regulation of cell population proliferation",
+            "negative regulation of DNA-templated transcription",
+            "negative regulation of transcription by RNA polymerase II",
+            "nervous system development",
+            "positive regulation of cell differentiation",
+            "positive regulation of cell population proliferation",
+            "positive regulation of DNA-templated transcription",
+            "positive regulation of double-strand break repair",
+            "positive regulation of myoblast differentiation",
+            "positive regulation of stem cell population maintenance",
+            "positive regulation of T cell differentiation",
+            "positive regulation of transcription by RNA polymerase II",
+            "regulation of DNA-templated transcription",
+            "regulation of G0 to G1 transition",
+            "regulation of G1/S transition of mitotic cell cycle",
+            "regulation of mitotic metaphase/anaphase transition",
+            "regulation of nucleotide-excision repair",
+            "regulation of transcription by RNA polymerase II",
+            "spermatid development"
+        ],
+        "Location": [
+            "nucleus"
+        ],
+        "Disease": [
+            "Nicolaides-Baraitser syndrome",
+            "Blepharophimosis-impaired intellectual development syndrome",
+            "Schizophrenia",
+            "Disease variant",
+            "Hypotrichosis",
+            "Intellectual disability",
+            "Schizophrenia"
+        ],
+        "Disease_description": [
+            "Nicolaides-Baraitser syndrome: A rare disorder characterized by severe intellectual disability with absent or limited speech, seizures, short stature, sparse hair, typical facial characteristics, brachydactyly, prominent finger joints and broad distal phalanges. Some of the features are progressive with time.",
+            "Blepharophimosis-impaired intellectual development syndrome: An autosomal dominant congenital syndrome characterized by blepharophimosis, facial dysmorphism, global development delay, delayed motor skills, impaired intellectual development with poor or absent speech, and behavioral abnormalities in some patients. Additional variable features include distal skeletal anomalies, feeding difficulties with poor growth, respiratory infections, and hypotonia with peripheral spasticity.",
+            "Schizophrenia: A complex, multifactorial psychotic disorder or group of disorders characterized by disturbances in the form and content of thought (e.g. delusions, hallucinations), in mood (e.g. inappropriate affect), in sense of self and relationship to the external world (e.g. loss of ego boundaries, withdrawal), and in behavior (e.g bizarre or apparently purposeless behavior). Although it affects emotions, it is distinguished from mood disorders in which such disturbances are primary. Similarly, there may be mild impairment of cognitive function, and it is distinguished from the dementias in which disturbed cognitive function is considered primary. Some patients manifest schizophrenic as well as bipolar disorder symptoms and are often given the diagnosis of schizoaffective disorder."
+        ],
+        "Complexes": [
+            "Component of the multiprotein chromatin-remodeling complexes SWI/SNF: SWI/SNF-A (BAF), SWI/SNF-B (PBAF) and related complexes. The canonical complex contains a catalytic subunit (either SMARCA4/BRG1/BAF190A or SMARCA2/BRM/BAF190B) and at least SMARCE1, ACTL6A/BAF53, SMARCC1/BAF155, SMARCC2/BAF170, and SMARCB1/SNF5/BAF47. Other subunits specific to each of the complexes may also be present permitting several possible combinations developmentally and tissue specific (Probable). Component of the BAF complex, which includes at least actin (ACTB), ARID1A/BAF250A, ARID1B/BAF250B, SMARCA2/BRM, SMARCA4/BRG1/BAF190A, ACTL6A/BAF53, ACTL6B/BAF53B, SMARCE1/BAF57, SMARCC1/BAF155, SMARCC2/BAF170, SMARCB1/SNF5/INI1, and one or more SMARCD1/BAF60A, SMARCD2/BAF60B, or SMARCD3/BAF60C (PubMed:18765789). In muscle cells, the BAF complex also contains DPF3. Component of neural progenitors-specific chromatin remodeling complex (npBAF complex) composed of at least, ARID1A/BAF250A or ARID1B/BAF250B, SMARCD1/BAF60A, SMARCD3/BAF60C, SMARCA2/BRM/BAF190B, SMARCA4/BRG1/BAF190A, SMARCB1/BAF47, SMARCC1/BAF155, SMARCE1/BAF57, SMARCC2/BAF170, PHF10/BAF45A, ACTL6A/BAF53A and actin. Component of neuron-specific chromatin remodeling complex (nBAF complex) composed of at least, ARID1A/BAF250A or ARID1B/BAF250B, SMARCD1/BAF60A, SMARCD3/BAF60C, SMARCA2/BRM/BAF190B, SMARCA4/BRG1/BAF190A, SMARCB1/BAF47, SMARCC1/BAF155, SMARCE1/BAF57, SMARCC2/BAF170, DPF1/BAF45B, DPF3/BAF45C, ACTL6B/BAF53B and actin. Interacts with PHF10/BAF45A (By similarity). Interacts with CEBPB (when not methylated)(PubMed:20111005). Interacts with TOPBP1 (PubMed:15075294). Interacts with CEBPA (when phosphorylated) (PubMed:15107404). Interacts with DPF2 (PubMed:20460684). Interacts with ERCC6 (PubMed:26030138)"
+        ]
+    },
+    "SMARCA4": {
+        "UniProtKB_ID": "SMCA4_HUMAN",
+        "Description": "Transcription activator BRG1",
+        "GO": [
+            "bBAF complex",
+            "chromatin",
+            "extracellular space",
+            "fibrillar center",
+            "GBAF complex",
+            "kinetochore",
+            "membrane",
+            "nBAF complex",
+            "npBAF complex",
+            "nuclear matrix",
+            "nucleolus",
+            "nucleoplasm",
+            "nucleus",
+            "protein-containing complex",
+            "RSC-type complex",
+            "SWI/SNF complex",
+            "ATP binding",
+            "ATP-dependent activity, acting on DNA",
+            "ATP-dependent chromatin remodeler activity",
+            "DNA binding",
+            "DNA polymerase binding",
+            "helicase activity",
+            "hydrolase activity",
+            "lysine-acetylated histone binding",
+            "nuclear androgen receptor binding",
+            "p53 binding",
+            "protein N-terminus binding",
+            "RNA binding",
+            "Tat protein binding",
+            "transcription coactivator activity",
+            "transcription coregulator binding",
+            "transcription corepressor activity",
+            "chromatin remodeling",
+            "negative regulation of androgen receptor signaling pathway",
+            "negative regulation of cell differentiation",
+            "negative regulation of cell growth",
+            "negative regulation of DNA-templated transcription",
+            "negative regulation of transcription by RNA polymerase II",
+            "nervous system development",
+            "neural retina development",
+            "nucleosome disassembly",
+            "positive regulation by host of viral transcription",
+            "positive regulation of cell differentiation",
+            "positive regulation of cell population proliferation",
+            "positive regulation of DNA-binding transcription factor activity",
+            "positive regulation of DNA-templated transcription",
+            "positive regulation of double-strand break repair",
+            "positive regulation of glucose mediated signaling pathway",
+            "positive regulation of miRNA transcription",
+            "positive regulation of myoblast differentiation",
+            "positive regulation of stem cell population maintenance",
+            "positive regulation of T cell differentiation",
+            "positive regulation of transcription by RNA polymerase II",
+            "positive regulation of transcription of nucleolar large rRNA by RNA polymerase I",
+            "positive regulation of Wnt signaling pathway",
+            "regulation of G0 to G1 transition",
+            "regulation of G1/S transition of mitotic cell cycle",
+            "regulation of mitotic metaphase/anaphase transition",
+            "regulation of nucleotide-excision repair",
+            "regulation of transcription by RNA polymerase II",
+            "RNA polymerase I preinitiation complex assembly"
+        ],
+        "Location": [
+            "nucleus"
+        ],
+        "Disease": [
+            "Rhabdoid tumor predisposition syndrome 2",
+            "Coffin-Siris syndrome 4",
+            "Disease variant",
+            "Intellectual disability"
+        ],
+        "Disease_description": [
+            "Rhabdoid tumor predisposition syndrome 2: A familial cancer syndrome predisposing to renal or extrarenal malignant rhabdoid tumors and to a variety of tumors of the central nervous system, including choroid plexus carcinoma, medulloblastoma, and central primitive neuroectodermal tumors. Rhabdoid tumors are the most aggressive and lethal malignancies occurring in early childhood.",
+            "Coffin-Siris syndrome 4: A form of Coffin-Siris syndrome, a congenital multiple malformation syndrome with broad phenotypic and genetic variability. Cardinal features are intellectual disability, coarse facial features, hypertrichosis, and hypoplastic or absent fifth digit nails or phalanges. Additional features include malformations of the cardiac, gastrointestinal, genitourinary, and/or central nervous systems. Sucking/feeding difficulties, poor growth, ophthalmologic abnormalities, hearing impairment, and spinal anomalies are common findings. Both autosomal dominant and autosomal recessive inheritance patterns have been reported."
+        ],
+        "Complexes": [
+            "Component of the multiprotein chromatin-remodeling complexes SWI/SNF: SWI/SNF-A (BAF), SWI/SNF-B (PBAF) and related complexes. The canonical complex contains a catalytic subunit (either SMARCA4/BRG1/BAF190A or SMARCA2/BRM/BAF190B) and at least SMARCE1, ACTL6A/BAF53, SMARCC1/BAF155, SMARCC2/BAF170, and SMARCB1/SNF5/BAF47. Other subunits specific to each of the complexes may also be present permitting several possible developmental- and tissue-specific combinations (PubMed:22952240, PubMed:26601204). Component of the BAF complex, which includes at least actin (ACTB), ARID1A/BAF250A, ARID1B/BAF250B, SMARCA2/BRM, SMARCA4/BRG1/BAF190A, ACTL6A/BAF53, ACTL6B/BAF53B, SMARCE1/BAF57, SMARCC1/BAF155, SMARCC2/BAF170, SMARCB1/SNF5/INI1, and one or more SMARCD1/BAF60A, SMARCD2/BAF60B, or SMARCD3/BAF60C. In muscle cells, the BAF complex also contains DPF3 (PubMed:18765789). Component of neural progenitors-specific chromatin remodeling complex (npBAF complex) composed of at least, ARID1A/BAF250A or ARID1B/BAF250B, SMARCD1/BAF60A, SMARCD3/BAF60C, SMARCA2/BRM/BAF190B, SMARCA4/BRG1/BAF190A, SMARCB1/BAF47, SMARCC1/BAF155, SMARCE1/BAF57, SMARCC2/BAF170, PHF10/BAF45A, ACTL6A/BAF53A and actin. Component of neuron-specific chromatin remodeling complex (nBAF complex) composed of at least, ARID1A/BAF250A or ARID1B/BAF250B, SMARCD1/BAF60A, SMARCD3/BAF60C, SMARCA2/BRM/BAF190B, SMARCA4/BRG1/BAF190A, SMARCB1/BAF47, SMARCC1/BAF155, SMARCE1/BAF57, SMARCC2/BAF170, DPF1/BAF45B, DPF3/BAF45C, ACTL6B/BAF53B and actin. Component of the SWI/SNF-B (PBAF) chromatin remodeling complex, at least composed of SMARCA4/BRG1, SMARCB1/BAF47/SNF5, ACTL6A/BAF53A or ACTL6B/BAF53B, SMARCE1/BAF57, SMARCD1/BAF60A, SMARCD2/BAF60B, perhaps SMARCD3/BAF60C, SMARCC1/BAF155, SMARCC2/BAF170, PBRM1/BAF180, ARID2/BAF200 and actin (PubMed:26601204). Component of SWI/SNF (GBAF) subcomplex, which includes at least BICRA or BICRAL (mutually exclusive), BRD9, SS18, SMARCA2/BRM, SMARCA4/BRG1/BAF190A, ACTL6A/BAF53, SMARCC1/BAF155, and SMARCD1/BAF60A (PubMed:29374058). Component of the BAF53 complex, at least composed of BAF53A, RUVBL1, SMARCA4/BRG1/BAF190A, and TRRAP, which preferentially acetylates histone H4 (and H2A) within nucleosomes (PubMed:11839798). Component of the CREST-BRG1 complex, at least composed of SMARCA4/BRG1/BAF190A, SS18L1/CREST, HDAC1, RB1 and SP1 (By similarity). Interacts with PHF10/BAF45A (By similarity). Interacts with MYOG (By similarity). Interacts directly with IKFZ1; the interaction associates IKFZ1 with the BAF complex (PubMed:10204490). Interacts with ZEB1 (via N-terminus) (PubMed:20418909). Interacts with NR3C1, PGR, SMARD1, TOPBP1 and ZMIM2/ZIMP7 (PubMed:9590696, PubMed:12917342, PubMed:15075294, PubMed:16051670). Interacts with (via the bromodomain) with TERT; the interaction regulates Wnt-mediated signaling (PubMed:19571879). Interacts with TBX21 in a KDM6B-dependent manner (By similarity). Interacts with KDM6A and KDM6B (By similarity). Interacts with HNRNPU; this interaction occurs in embryonic stem cells and stimulates global Pol II-mediated transcription (By similarity). Interacts with ACTL6A (PubMed:28649782). Interacts with DLX1 (By similarity). Interacts with DPF2 (PubMed:20460684). Interacts with DPF3a (isoform 2 of DPF3/BAF45C) and with HDGFL2 in a DPF3a-dependent manner (PubMed:32459350). May interact with ADNP2 (PubMed:23071114)"
+        ]
+    },
+    "SMARCB1": {
+        "UniProtKB_ID": "SNF5_HUMAN",
+        "Description": "SWI/SNF-related matrix-associated actin-dependent regulator of chromatin subfamily B member 1",
+        "GO": [
+            "bBAF complex",
+            "brahma complex",
+            "chromatin",
+            "fibrillar center",
+            "germ cell nucleus",
+            "intracellular membrane-bounded organelle",
+            "kinetochore",
+            "nBAF complex",
+            "npBAF complex",
+            "nuclear chromosome",
+            "nuclear matrix",
+            "nucleolus",
+            "nucleoplasm",
+            "nucleus",
+            "protein-containing complex",
+            "RSC-type complex",
+            "SWI/SNF complex",
+            "XY body",
+            "DNA binding",
+            "identical protein binding",
+            "p53 binding",
+            "Tat protein binding",
+            "transcription coactivator activity",
+            "transcription coregulator activity",
+            "blastocyst hatching",
+            "cell cycle",
+            "chromatin remodeling",
+            "DNA integration",
+            "hepatocyte differentiation",
+            "negative regulation of cell population proliferation",
+            "negative regulation of histone H3-K9 dimethylation",
+            "negative regulation of histone H3-K9 trimethylation",
+            "nervous system development",
+            "nucleosome disassembly",
+            "positive regulation by host of viral transcription",
+            "positive regulation of cell differentiation",
+            "positive regulation of DNA-binding transcription factor activity",
+            "positive regulation of double-strand break repair",
+            "positive regulation of glucose mediated signaling pathway",
+            "positive regulation of histone H3-K9 acetylation",
+            "positive regulation of histone H4 acetylation",
+            "positive regulation of myoblast differentiation",
+            "positive regulation of stem cell population maintenance",
+            "positive regulation of T cell differentiation",
+            "positive regulation of transcription by RNA polymerase II",
+            "positive regulation of transcription of nucleolar large rRNA by RNA polymerase I",
+            "regulation of G0 to G1 transition",
+            "regulation of G1/S transition of mitotic cell cycle",
+            "regulation of mitotic metaphase/anaphase transition",
+            "regulation of nucleotide-excision repair",
+            "regulation of transcription by RNA polymerase II",
+            "RNA polymerase I preinitiation complex assembly",
+            "single stranded viral RNA replication via double stranded DNA intermediate"
+        ],
+        "Location": [
+            "nucleus"
+        ],
+        "Disease": [
+            "Rhabdoid tumor predisposition syndrome 1",
+            "Schwannomatosis 1",
+            "Coffin-Siris syndrome 3",
+            "Disease variant",
+            "Hypotrichosis",
+            "Intellectual disability",
+            "Tumor suppressor"
+        ],
+        "Disease_description": [
+            "Rhabdoid tumor predisposition syndrome 1: A familial cancer syndrome predisposing to renal or extrarenal malignant rhabdoid tumors and to a variety of tumors of the central nervous system, including choroid plexus carcinoma, medulloblastoma, and central primitive neuroectodermal tumors. Rhabdoid tumors are the most aggressive and lethal malignancies occurring in early childhood.",
+            "Schwannomatosis 1: A cancer syndrome in which patients develop multiple non-vestibular schwannomas, benign neoplasms that arise from Schwann cells of the cranial, peripheral, and autonomic nerves.",
+            "Coffin-Siris syndrome 3: A form of Coffin-Siris syndrome, a congenital multiple malformation syndrome with broad phenotypic and genetic variability. Cardinal features are intellectual disability, coarse facial features, hypertrichosis, and hypoplastic or absent fifth digit nails or phalanges. Additional features include malformations of the cardiac, gastrointestinal, genitourinary, and/or central nervous systems. Sucking/feeding difficulties, poor growth, ophthalmologic abnormalities, hearing impairment, and spinal anomalies are common findings. Both autosomal dominant and autosomal recessive inheritance patterns have been reported."
+        ],
+        "Complexes": [
+            "Component of the multiprotein chromatin-remodeling complexes SWI/SNF: SWI/SNF-A (BAF), SWI/SNF-B (PBAF) and related complexes. The canonical complex contains a catalytic subunit (either SMARCA4/BRG1/BAF190A or SMARCA2/BRM/BAF190B) and at least SMARCE1, ACTL6A/BAF53, SMARCC1/BAF155, SMARCC2/BAF170, and SMARCB1/SNF5/BAF47. Other subunits specific to each of the complexes may also be present permitting several possible combinations developmentally and tissue specific (Probable). Component of the BAF complex, which includes at least actin (ACTB), ARID1A/BAF250A, ARID1B/BAF250B, SMARCA2/BRM, SMARCA4/BRG1/BAF190A, ACTL6A/BAF53, ACTL6B/BAF53B, SMARCE1/BAF57 SMARCC1/BAF155, SMARCC2/BAF170, SMARCB1/SNF5/INI1, and one or more SMARCD1/BAF60A, SMARCD2/BAF60B, or SMARCD3/BAF60C. In muscle cells, the BAF complex also contains DPF3 (PubMed:8895581, PubMed:18765789). Component of neural progenitors-specific chromatin remodeling complex (npBAF complex) composed of at least, ARID1A/BAF250A or ARID1B/BAF250B, SMARCD1/BAF60A, SMARCD3/BAF60C, SMARCA2/BRM/BAF190B, SMARCA4/BRG1/BAF190A, SMARCB1/BAF47, SMARCC1/BAF155, SMARCE1/BAF57, SMARCC2/BAF170, PHF10/BAF45A, ACTL6A/BAF53A and actin. Component of neuron-specific chromatin remodeling complex (nBAF complex) composed of at least, ARID1A/BAF250A or ARID1B/BAF250B, SMARCD1/BAF60A, SMARCD3/BAF60C, SMARCA2/BRM/BAF190B, SMARCA4/BRG1/BAF190A, SMARCB1/BAF47, SMARCC1/BAF155, SMARCE1/BAF57, SMARCC2/BAF170, DPF1/BAF45B, DPF3/BAF45C, ACTL6B/BAF53B and actin (By similarity). Component of the SWI/SNF-B (PBAF) chromatin remodeling complex, at least composed of SMARCA4/BRG1, SMARCB1/BAF47/SNF5, ACTL6A/BAF53A or ACTL6B/BAF53B, SMARCE1/BAF57, SMARCD1/BAF60A, SMARCD2/BAF60B, perhaps SMARCD3/BAF60C, SMARCC1/BAF155, SMARCC2/BAF170, PBRM1/BAF180, ARID2/BAF200 and actin (PubMed:26601204). Binds to double-stranded DNA. Interacts with CEBPB (when not methylated) (PubMed:20111005). Interacts with PIH1D1 (PubMed:22368283). Interacts with MYK and MAEL (PubMed:10319872). Interacts with PPP1R15A (PubMed:10490642, PubMed:12016208). Interacts with DPF2 (PubMed:20460684). Interacts with YWHAZ (PubMed:16959763). Interacts with ERCC6 (PubMed:24874740). Interacts with FOS, FOSB isoform 1 and 2, FOSL1 and FOSL2 (By similarity)",
+            "(Microbial infection) Binds tightly to the human immunodeficiency virus-type 1 (HIV-1) integrase in vitro and stimulates its DNA-joining activity. Interacts with human papillomavirus 18 E1 protein to stimulate its viral replication (PubMed:10365963). Interacts with Epstein-Barr virus protein EBNA-2 (PubMed:8709224)"
+        ]
+    },
+    "SMARCC1": {
+        "UniProtKB_ID": "SMRC1_HUMAN",
+        "Description": "SWI/SNF complex subunit SMARCC1",
+        "GO": [
+            "brahma complex",
+            "chromatin",
+            "cytoplasm",
+            "GBAF complex",
+            "kinetochore",
+            "male germ cell nucleus",
+            "nBAF complex",
+            "npBAF complex",
+            "nuclear matrix",
+            "nucleoplasm",
+            "nucleus",
+            "protein-containing complex",
+            "RSC-type complex",
+            "SWI/SNF complex",
+            "XY body",
+            "chromatin binding",
+            "histone binding",
+            "protein N-terminus binding",
+            "transcription coactivator activity",
+            "animal organ morphogenesis",
+            "chromatin remodeling",
+            "insulin receptor signaling pathway",
+            "negative regulation of cell differentiation",
+            "negative regulation of proteasomal ubiquitin-dependent protein catabolic process",
+            "nervous system development",
+            "nucleosome disassembly",
+            "positive regulation of cell differentiation",
+            "positive regulation of cell population proliferation",
+            "positive regulation of DNA-templated transcription",
+            "positive regulation of double-strand break repair",
+            "positive regulation of myoblast differentiation",
+            "positive regulation of stem cell population maintenance",
+            "positive regulation of T cell differentiation",
+            "positive regulation of transcription by RNA polymerase II",
+            "regulation of G0 to G1 transition",
+            "regulation of G1/S transition of mitotic cell cycle",
+            "regulation of mitotic metaphase/anaphase transition",
+            "regulation of nucleotide-excision repair",
+            "regulation of transcription by RNA polymerase II"
+        ],
+        "Location": [
+            "cytoplasm",
+            "nucleus"
+        ],
+        "Disease": [],
+        "Disease_description": [],
+        "Complexes": [
+            "Component of the multiprotein chromatin-remodeling complexes SWI/SNF: SWI/SNF-A (BAF), SWI/SNF-B (PBAF) and related complexes. The canonical complex contains a catalytic subunit (either SMARCA4/BRG1/BAF190A or SMARCA2/BRM/BAF190B) and at least SMARCE1, ACTL6A/BAF53, SMARCC1/BAF155, SMARCC2/BAF170, and SMARCB1/SNF5/BAF47. Other subunits specific to each of the complexes may also be present permitting several possible combinations developmentally and tissue specific (Probable). Component of the BAF complex, which includes at least actin (ACTB), ARID1A/BAF250A, ARID1B/BAF250B, SMARCA2/BRM, SMARCA4/BRG1, ACTL6A/BAF53, ACTL6B/BAF53B, SMARCE1/BAF57, SMARCC1/BAF155, SMARCC2/BAF170, SMARCB1/SNF5/INI1, and one or more SMARCD1/BAF60A, SMARCD2/BAF60B, or SMARCD3/BAF60C. In muscle cells, the BAF complex also contains DPF3 (PubMed:18765789). Component of neural progenitors-specific chromatin remodeling complex (npBAF complex) composed of at least, ARID1A/BAF250A or ARID1B/BAF250B, SMARCD1/BAF60A, SMARCD3/BAF60C, SMARCA2/BRM/BAF190B, SMARCA4/BRG1/BAF190A, SMARCB1/BAF47, SMARCC1/BAF155, SMARCE1/BAF57, SMARCC2/BAF170, PHF10/BAF45A, ACTL6A/BAF53A and actin. Component of neuron-specific chromatin remodeling complex (nBAF complex) composed of at least, ARID1A/BAF250A or ARID1B/BAF250B, SMARCD1/BAF60A, SMARCD3/BAF60C, SMARCA2/BRM/BAF190B, SMARCA4/BRG1/BAF190A, SMARCB1/BAF47, SMARCC1/BAF155, SMARCE1/BAF57, SMARCC2/BAF170, DPF1/BAF45B, DPF3/BAF45C, ACTL6B/BAF53B and actin (By similarity). Component of the SWI/SNF-B (PBAF) chromatin remodeling complex, at least composed of SMARCA4/BRG1, SMARCB1/BAF47/SNF5, ACTL6A/BAF53A or ACTL6B/BAF53B, SMARCE1/BAF57, SMARCD1/BAF60A, SMARCD2/BAF60B, perhaps SMARCD3/BAF60C, SMARCC1/BAF155, SMARCC2/BAF170, PBRM1/BAF180, ARID2/BAF200 and actin (PubMed:22952240, PubMed:26601204). Component of SWI/SNF (GBAF) subcomplex, which includes at least BICRA or BICRAL (mutually exclusive), BRD9, SS18, SMARCA2/BRM, SMARCA4/BRG1/BAF190A, ACTL6A/BAF53, SMARCC1/BAF155, and SMARCD1/BAF60A (PubMed:29374058). May also interact with the SIN3A histone deacetylase transcription repressor complex in conjunction with SMARCA2 and SMARCA4 (PubMed:11238380). The minimal complex composed of SMARCC1 and SMARCA4 seems to be able to associate with cyclin such as CCNE1 or transcription factors such as KLF1 or GATA1 (PubMed:9891079). Interacts with NR3C1 and SMARD1 (PubMed:12917342). Interacts with TRIP12; leading to disrupt interaction between TRIP12 and SMARCE1 and prevent SMARCE1 ubiquitination (PubMed:20111005). Interacts with CEBPB (when not methylated) (PubMed:20829358). Interacts with KDM6B (By similarity). Interacts with MKKS; the interaction takes place predominantly in the cytoplasm and may modulate SMARCC1 location (PubMed:28753627). Interacts with DPF2 (PubMed:28533407). Interacts with PRDM1/BLIMP1 (PubMed:32417234). Interacts with DPF3a (isoform 2 of DPF3/BAF45C) and with HDGFL2 in a DPF3a-dependent manner (PubMed:32459350)"
+        ]
+    },
+    "SMARCC2": {
+        "UniProtKB_ID": "SMRC2_HUMAN",
+        "Description": "SWI/SNF complex subunit SMARCC2",
+        "GO": [
+            "bBAF complex",
+            "brahma complex",
+            "chromatin",
+            "kinetochore",
+            "nBAF complex",
+            "npBAF complex",
+            "nuclear matrix",
+            "nucleoplasm",
+            "protein-containing complex",
+            "RSC-type complex",
+            "SWI/SNF complex",
+            "histone binding",
+            "transcription coactivator activity",
+            "chromatin remodeling",
+            "negative regulation of DNA-templated transcription",
+            "nervous system development",
+            "nucleosome disassembly",
+            "positive regulation of cell differentiation",
+            "positive regulation of DNA-templated transcription",
+            "positive regulation of double-strand break repair",
+            "positive regulation of myoblast differentiation",
+            "positive regulation of T cell differentiation",
+            "regulation of G0 to G1 transition",
+            "regulation of G1/S transition of mitotic cell cycle",
+            "regulation of mitotic metaphase/anaphase transition",
+            "regulation of nucleotide-excision repair",
+            "regulation of transcription by RNA polymerase II"
+        ],
+        "Location": [
+            "nucleus"
+        ],
+        "Disease": [
+            "Coffin-Siris syndrome 8",
+            "Disease variant",
+            "Intellectual disability"
+        ],
+        "Disease_description": [
+            "Coffin-Siris syndrome 8: A form of Coffin-Siris syndrome, a congenital multiple malformation syndrome with broad phenotypic and genetic variability. Cardinal features are intellectual disability, coarse facial features, hypertrichosis, and hypoplastic or absent fifth digit nails or phalanges. Additional features include malformations of the cardiac, gastrointestinal, genitourinary, and/or central nervous systems. Sucking/feeding difficulties, poor growth, ophthalmologic abnormalities, hearing impairment, and spinal anomalies are common findings. CSS8 patients manifest prominent speech impairment, hypotonia, feeding difficulties, behavioral abnormalities, and dysmorphic features such as hypertrichosis, thick eyebrows, thin upper lip vermilion, and upturned nose. CSS8 inheritance is autosomal dominant."
+        ],
+        "Complexes": [
+            "Component of the multiprotein chromatin-remodeling complexes SWI/SNF: SWI/SNF-A (BAF), SWI/SNF-B (PBAF) and related complexes. The canonical complex contains a catalytic subunit (either SMARCA4/BRG1/BAF190A or SMARCA2/BRM/BAF190B) and at least SMARCE1, ACTL6A/BAF53, SMARCC1/BAF155, SMARCC2/BAF170, and SMARCB1/SNF5/BAF47. Other subunits specific to each of the complexes may also be present permitting several possible combinations developmentally and tissue specific (Probable). Component of the BAF complex, which includes at least actin (ACTB), ARID1A/BAF250A, ARID1B/BAF250B, SMARCA2/BRM, SMARCA4/BRG1, ACTL6A/BAF53, ACTL6B/BAF53B, SMARCE1/BAF57, SMARCC1/BAF155, SMARCC2/BAF170, SMARCB1/SNF5/INI1, and one or more SMARCD1/BAF60A, SMARCD2/BAF60B, or SMARCD3/BAF60C. In muscle cells, the BAF complex also contains DPF3 (PubMed:18765789). Component of neural progenitors-specific chromatin remodeling complex (npBAF complex) composed of at least, ARID1A/BAF250A or ARID1B/BAF250B, SMARCD1/BAF60A, SMARCD3/BAF60C, SMARCA2/BRM/BAF190B, SMARCA4/BRG1/BAF190A, SMARCB1/BAF47, SMARCC1/BAF155, SMARCE1/BAF57, SMARCC2/BAF170, PHF10/BAF45A, ACTL6A/BAF53A and actin. Component of neuron-specific chromatin remodeling complex (nBAF complex) composed of at least, ARID1A/BAF250A or ARID1B/BAF250B, SMARCD1/BAF60A, SMARCD3/BAF60C, SMARCA2/BRM/BAF190B, SMARCA4/BRG1/BAF190A, SMARCB1/BAF47, SMARCC1/BAF155, SMARCE1/BAF57, SMARCC2/BAF170, DPF1/BAF45B, DPF3/BAF45C, ACTL6B/BAF53B and actin. Component of the SWI/SNF-B (PBAF) chromatin remodeling complex, at least composed of SMARCA4/BRG1, SMARCB1/BAF47/SNF5, ACTL6A/BAF53A or ACTL6B/BAF53B, SMARCE1/BAF57, SMARCD1/BAF60A, SMARCD2/BAF60B, perhaps SMARCD3/BAF60C, SMARCC1/BAF155, SMARCC2/BAF170, PBRM1/BAF180, ARID2/BAF200 and actin (PubMed:22952240, PubMed:26601204). May also interact with the SIN3A histone deacetylase transcription repressor complex in conjunction with SMARCA2 and SMARCA4 (PubMed:11238380). Interacts with SMARD1 (PubMed:12917342). Interacts with KDM6B (By similarity). Interaction with RCOR1 (PubMed:12192000). Interacts with DPF2 (PubMed:28533407). Interacts with ERCC6 (PubMed:24874740). Interacts with FOS (By similarity)"
+        ]
+    },
+    "SMARCD1": {
+        "UniProtKB_ID": "SMRD1_HUMAN",
+        "Description": "SWI/SNF-related matrix-associated actin-dependent regulator of chromatin subfamily D member 1",
+        "GO": [
+            "brahma complex",
+            "chromatin",
+            "GBAF complex",
+            "intracellular membrane-bounded organelle",
+            "kinetochore",
+            "nBAF complex",
+            "npBAF complex",
+            "nuclear matrix",
+            "nucleoplasm",
+            "nucleus",
+            "RSC-type complex",
+            "SWI/SNF complex",
+            "chromatin binding",
+            "molecular adaptor activity",
+            "signaling receptor binding",
+            "transcription coactivator activity",
+            "transcription coregulator activity",
+            "cellular response to fatty acid",
+            "chromatin remodeling",
+            "negative regulation of cell differentiation",
+            "nervous system development",
+            "nucleosome disassembly",
+            "positive regulation of cell differentiation",
+            "positive regulation of cell population proliferation",
+            "positive regulation of double-strand break repair",
+            "positive regulation of myoblast differentiation",
+            "positive regulation of stem cell population maintenance",
+            "positive regulation of T cell differentiation",
+            "regulation of G0 to G1 transition",
+            "regulation of G1/S transition of mitotic cell cycle",
+            "regulation of mitotic metaphase/anaphase transition",
+            "regulation of nucleotide-excision repair",
+            "regulation of transcription by RNA polymerase II",
+            "transcription initiation-coupled chromatin remodeling"
+        ],
+        "Location": [
+            "nucleus"
+        ],
+        "Disease": [
+            "Coffin-Siris syndrome 11",
+            "Disease variant",
+            "Intellectual disability"
+        ],
+        "Disease_description": [
+            "Coffin-Siris syndrome 11: A form of Coffin-Siris syndrome, a congenital multiple malformation syndrome with broad phenotypic and genetic variability. Cardinal features are intellectual disability, coarse facial features, hypertrichosis, and hypoplastic or absent fifth digit nails or phalanges. Additional features include malformations of the cardiac, gastrointestinal, genitourinary, and/or central nervous systems. Sucking/feeding difficulties, poor growth, ophthalmologic abnormalities, hearing impairment, and spinal anomalies are common findings. CSS11 is an autosomal dominant form characterized by developmental delay, intellectual disability, hypotonia, feeding difficulties, and small hands and feet."
+        ],
+        "Complexes": [
+            "Component of the multiprotein chromatin-remodeling complexes SWI/SNF: SWI/SNF-A (BAF), SWI/SNF-B (PBAF) and related complexes. The canonical complex contains a catalytic subunit (either SMARCA4/BRG1/BAF190A or SMARCA2/BRM/BAF190B), and at least SMARCE1, ACTL6A/BAF53, SMARCC1/BAF155, SMARCC2/BAF170, and SMARCB1/SNF5/BAF47. Other subunits specific to each of the complexes may also be present permitting several possible combinations developmentally and tissue specific (PubMed:8895581). Component of the BAF complex, which includes at least actin (ACTB), ARID1A/BAF250A, ARID1B/BAF250B, SMARCA2/BRM, SMARCA4/BRG1/BAF190A, ACTL6A/BAF53, ACTL6B/BAF53B, SMARCE1/BAF57, SMARCC1/BAF155, SMARCC2/BAF170, SMARCB1/SNF5/INI1, and one or more SMARCD1/BAF60A, SMARCD2/BAF60B, or SMARCD3/BAF60C (PubMed:18765789). In muscle cells, the BAF complex also contains DPF3. Component of neural progenitors-specific chromatin remodeling complex (npBAF complex) composed of at least, ARID1A/BAF250A or ARID1B/BAF250B, SMARCD1/BAF60A, SMARCD3/BAF60C, SMARCA2/BRM/BAF190B, SMARCA4/BRG1/BAF190A, SMARCB1/BAF47, SMARCC1/BAF155, SMARCE1/BAF57, SMARCC2/BAF170, PHF10/BAF45A, ACTL6A/BAF53A and actin. Component of neuron-specific chromatin remodeling complex (nBAF complex) composed of at least, ARID1A/BAF250A or ARID1B/BAF250B, SMARCD1/BAF60A, SMARCD3/BAF60C, SMARCA2/BRM/BAF190B, SMARCA4/BRG1/BAF190A, SMARCB1/BAF47, SMARCC1/BAF155, SMARCE1/BAF57, SMARCC2/BAF170, DPF1/BAF45B, DPF3/BAF45C, ACTL6B/BAF53B and actin (By similarity). Component of the SWI/SNF-B (PBAF) chromatin remodeling complex, at least composed of SMARCA4/BRG1, SMARCB1/BAF47/SNF5, ACTL6A/BAF53A or ACTL6B/BAF53B, SMARCE1/BAF57, SMARCD1/BAF60A, SMARCD2/BAF60B, perhaps SMARCD3/BAF60C, SMARCC1/BAF155, SMARCC2/BAF170, PBRM1/BAF180, ARID2/BAF200 and actin (ACTB) (PubMed:22952240, PubMed:26601204). Component of SWI/SNF (GBAF) subcomplex, which includes at least BICRA or BICRAL (mutually exclusive), BRD9, SS18, SMARCA2/BRM, SMARCA4/BRG1/BAF190A, ACTL6A/BAF53, SMARCC1/BAF155, and SMARCD1/BAF60A (PubMed:29374058). Specifically interacts with the VDR heterodimer complex (PubMed:14698202). Interacts with ESR1, NR3C1, NR1H4, PGR, SMARCA4, SMARCC1 and SMARCC2 (PubMed:12917342, PubMed:30879640). Interacts with DPF2 (PubMed:20460684). Interacts with DPF3a (isoform 2 of DPF3/BAF45C) and with HDGFL2 in a DPF3a-dependent manner (PubMed:32459350). Interacts with FOS, FOSB isoform 1 and 2, FOSL1 and FOSL2 (By similarity)"
+        ]
+    },
+    "SMARCD2": {
+        "UniProtKB_ID": "SMRD2_HUMAN",
+        "Description": "SWI/SNF-related matrix-associated actin-dependent regulator of chromatin subfamily D member 2",
+        "GO": [
+            "bBAF complex",
+            "brahma complex",
+            "chromatin",
+            "kinetochore",
+            "nuclear matrix",
+            "nucleoplasm",
+            "nucleus",
+            "protein-containing complex",
+            "RSC-type complex",
+            "SWI/SNF complex",
+            "transcription coactivator activity",
+            "transcription coregulator activity",
+            "chromatin remodeling",
+            "nucleosome disassembly",
+            "positive regulation of cell differentiation",
+            "positive regulation of double-strand break repair",
+            "positive regulation of myoblast differentiation",
+            "positive regulation of T cell differentiation",
+            "regulation of G0 to G1 transition",
+            "regulation of G1/S transition of mitotic cell cycle",
+            "regulation of mitotic metaphase/anaphase transition",
+            "regulation of nucleotide-excision repair",
+            "regulation of transcription by RNA polymerase II"
+        ],
+        "Location": [
+            "nucleus"
+        ],
+        "Disease": [
+            "Specific granule deficiency 2"
+        ],
+        "Disease_description": [
+            "Specific granule deficiency 2: A form of specific granule deficiency, an autosomal recessive disorder characterized by recurrent pyogenic infections, defective neutrophil chemotaxis and bactericidal activity, and lack of neutrophil secondary granule proteins. SGD2 is due to defective neutrophil development. Bone marrow findings include hypercellularity, abnormal megakaryocytes, and features of progressive myelofibrosis with blasts. Some patients may have additional findings, including delayed development, mild dysmorphic features, and distal skeletal anomalies."
+        ],
+        "Complexes": [
+            "Component of the multiprotein chromatin-remodeling complexes SWI/SNF: SWI/SNF-A (BAF), SWI/SNF-B (PBAF) and related complexes. The canonical complex contains a catalytic subunit (either SMARCA4/BRG1/BAF190A or SMARCA2/BRM/BAF190B), and at least SMARCE1, ACTL6A/BAF53, SMARCC1/BAF155, SMARCC2/BAF170, and SMARCB1/SNF5/BAF47. Other subunits specific to each of the complexes may also be present permitting several possible combinations developmentally and tissue specific (PubMed:22952240). Component of the BAF complex, which includes at least actin (ACTB), ARID1A/BAF250A, ARID1B/BAF250B, SMARCA2/BRM, SMARCA4/BRG1, ACTL6A/BAF53, ACTL6B/BAF53B, SMARCE1/BAF57, SMARCC1/BAF155, SMARCC2/BAF170, SMARCB1/SNF5/INI1, and one or more SMARCD1/BAF60A, SMARCD2/BAF60B, or SMARCD3/BAF60C (PubMed:18765789). In muscle cells, the BAF complex also contains DPF3. Component of the SWI/SNF-B (PBAF) chromatin remodeling complex, at least composed of SMARCA4/BRG1, SMARCB1/BAF47/SNF5, ACTL6A/BAF53A or ACTL6B/BAF53B, SMARCE1/BAF57, SMARCD1/BAF60A, SMARCD2/BAF60B, perhaps SMARCD3/BAF60C, SMARCC1/BAF155, SMARCC2/BAF170, PBRM1/BAF180, ARID2/BAF200 and actin (ACTB) (PubMed:22952240, PubMed:26601204). Interacts with UNKL (PubMed:20148946). Interacts with CEBPE (PubMed:28369036)"
+        ]
+    },
+    "SMARCD3": {
+        "UniProtKB_ID": "SMRD3_HUMAN",
+        "Description": "SWI/SNF-related matrix-associated actin-dependent regulator of chromatin subfamily D member 3",
+        "GO": [
+            "brahma complex",
+            "chromatin",
+            "cytoplasm",
+            "nBAF complex",
+            "npBAF complex",
+            "nucleoplasm",
+            "nucleus",
+            "SWI/SNF complex",
+            "DNA-binding transcription factor binding",
+            "nuclear receptor binding",
+            "nuclear receptor coactivator activity",
+            "signaling receptor binding",
+            "transcription coactivator activity",
+            "transcription coregulator activity",
+            "transcription coregulator binding",
+            "cardiac right ventricle formation",
+            "chromatin remodeling",
+            "muscle cell differentiation",
+            "nervous system development",
+            "neural retina development",
+            "nucleosome disassembly",
+            "positive regulation of cell differentiation",
+            "positive regulation of DNA-templated transcription",
+            "positive regulation of double-strand break repair",
+            "positive regulation of myoblast differentiation",
+            "positive regulation of neuroblast proliferation",
+            "positive regulation of T cell differentiation",
+            "regulation of G0 to G1 transition",
+            "regulation of G1/S transition of mitotic cell cycle",
+            "regulation of mitotic metaphase/anaphase transition",
+            "regulation of nucleotide-excision repair",
+            "regulation of protein binding",
+            "regulation of transcription by RNA polymerase II",
+            "secondary heart field specification"
+        ],
+        "Location": [
+            "nucleus"
+        ],
+        "Disease": [],
+        "Disease_description": [],
+        "Complexes": [
+            "Component of the multiprotein chromatin-remodeling complexes SWI/SNF: SWI/SNF-A (BAF), SWI/SNF-B (PBAF) and related complexes. The canonical complex contains a catalytic subunit (either SMARCA4/BRG1/BAF190A or SMARCA2/BRM/BAF190B) and at least SMARCE1, ACTL6A/BAF53, SMARCC1/BAF155, SMARCC2/BAF170, and SMARCB1/SNF5/BAF47. Other subunits specific to each of the complexes may also be present permitting several possible combinations developmentally and tissue specific (Probable). Component of the BAF complex, which includes at least actin (ACTB), ARID1A/BAF250A, ARID1B/BAF250B, SMARCA2/BRM, SMARCA4/BRG1/BAF190A, ACTL6A/BAF53, ACTL6B/BAF53B, SMARCE1/BAF57, SMARCC1/BAF155, SMARCC2/BAF170, SMARCB1/SNF5/INI1, and one or more SMARCD1/BAF60A, SMARCD2/BAF60B, or SMARCD3/BAF60C. In muscle cells, the BAF complex also contains DPF3 (PubMed:18765789). Component of neural progenitors-specific chromatin remodeling complex (npBAF complex) composed of at least, ARID1A/BAF250A or ARID1B/BAF250B, SMARCD1/BAF60A, SMARCD3/BAF60C, SMARCA2/BRM/BAF190B, SMARCA4/BRG1/BAF190A, SMARCB1/BAF47, SMARCC1/BAF155, SMARCE1/BAF57, SMARCC2/BAF170, PHF10/BAF45A, ACTL6A/BAF53A and actin. Component of neuron-specific chromatin remodeling complex (nBAF complex) composed of at least, ARID1A/BAF250A or ARID1B/BAF250B, SMARCD1/BAF60A, SMARCD3/BAF60C, SMARCA2/BRM/BAF190B, SMARCA4/BRG1/BAF190A, SMARCB1/BAF47, SMARCC1/BAF155, SMARCE1/BAF57, SMARCC2/BAF170, DPF1/BAF45B, DPF3/BAF45C, ACTL6B/BAF53B and actin (By similarity). May be a component of the SWI/SNF-B (PBAF) chromatin remodeling complex, at least composed of SMARCA4/BRG1, SMARCB1/BAF47/SNF5, ACTL6A/BAF53A or ACTL6B/BAF53B, SMARCE1/BAF57, SMARCD1/BAF60A, SMARCD2/BAF60B, perhaps SMARCD3/BAF60C, SMARCC1/BAF155, SMARCC2/BAF170, PBRM1/BAF180, ARID2/BAF200 and actin (PubMed:22952240, PubMed:26601204). Interacts with SMARCA4/BRG1/BAF190A (PubMed:14701856). Component of SWI/SNF (GBAF) subcomplex, which includes at least BICRA or BICRAL (mutually exclusive), BRD9, SS18, SMARCA2/BRM, SMARCA4/BRG1/BAF190A, ACTL6A/BAF53, SMARCC1/BAF155, and SMARCD1/BAF60A (PubMed:29374058). The precise distribution of the related SMARCD1, SMARCD2 and SMARCD3 proteins among these and other SWI/SNF nucleosome-remodeling complexes is not fully known. May allow recruitment of SWI/SNF containing complexes specifically to promoters where these factors are located. Also interacts with several nuclear receptors including PPARG/NR1C3, RXRA/NR1F1, ESR1, NR5A1, NR5A2/LRH1 and other transcriptional activators including the HLH protein SREBF1/SREBP1 and the homeobox protein PBX1 (PubMed:14701856). Interacts with PRDM1/BLIMP1 (PubMed:32417234)"
+        ]
+    },
+    "SMARCE1": {
+        "UniProtKB_ID": "SMCE1_HUMAN",
+        "Description": "SWI/SNF-related matrix-associated actin-dependent regulator of chromatin subfamily E member 1",
+        "GO": [
+            "bBAF complex",
+            "brahma complex",
+            "chromatin",
+            "kinetochore",
+            "nBAF complex",
+            "npBAF complex",
+            "nuclear chromosome",
+            "nuclear matrix",
+            "nucleoplasm",
+            "nucleus",
+            "protein-containing complex",
+            "RSC-type complex",
+            "SWI/SNF complex",
+            "chromatin binding",
+            "DNA binding",
+            "N-acetyltransferase activity",
+            "nuclear receptor binding",
+            "protein N-terminus binding",
+            "RNA binding",
+            "transcription coactivator activity",
+            "chromatin remodeling",
+            "negative regulation of DNA-templated transcription",
+            "neurogenesis",
+            "nucleosome disassembly",
+            "positive regulation of cell differentiation",
+            "positive regulation of double-strand break repair",
+            "positive regulation of myoblast differentiation",
+            "positive regulation of stem cell population maintenance",
+            "positive regulation of T cell differentiation",
+            "regulation of G0 to G1 transition",
+            "regulation of G1/S transition of mitotic cell cycle",
+            "regulation of mitotic metaphase/anaphase transition",
+            "regulation of nucleotide-excision repair",
+            "regulation of transcription by RNA polymerase II"
+        ],
+        "Location": [
+            "nucleus"
+        ],
+        "Disease": [
+            "Meningioma",
+            "Coffin-Siris syndrome 5",
+            "Disease variant",
+            "Intellectual disability"
+        ],
+        "Disease_description": [
+            "Meningioma: A common neoplasm of the central nervous system derived from arachnoidal cells. The majority of meningiomas are well differentiated vascular tumors which grow slowly and have a low potential to be invasive, although malignant subtypes occur. Most cases are sporadic. Familial occurrence of meningioma is rare.",
+            "Coffin-Siris syndrome 5: A form of Coffin-Siris syndrome, a congenital multiple malformation syndrome with broad phenotypic and genetic variability. Cardinal features are intellectual disability, coarse facial features, hypertrichosis, and hypoplastic or absent fifth digit nails or phalanges. Additional features include malformations of the cardiac, gastrointestinal, genitourinary, and/or central nervous systems. Sucking/feeding difficulties, poor growth, ophthalmologic abnormalities, hearing impairment, and spinal anomalies are common findings. Both autosomal dominant and autosomal recessive inheritance patterns have been reported."
+        ],
+        "Complexes": [
+            "Component of the multiprotein chromatin-remodeling complexes SWI/SNF: SWI/SNF-A (BAF), SWI/SNF-B (PBAF) and related complexes. The canonical complex contains a catalytic subunit (either SMARCA4/BRG1/BAF190A or SMARCA2/BRM/BAF190B), and at least SMARCE1, ACTL6A/BAF53, SMARCC1/BAF155, SMARCC2/BAF170, and SMARCB1/SNF5/BAF47. Other subunits specific to each of the complexes may also be present permitting several possible combinations developmentally and tissue specific (PubMed:12672490, PubMed:22952240, PubMed:26601204). Component of the BAF complex, which includes at least actin (ACTB), ARID1A/BAF250A, ARID1B/BAF250B, SMARCA2/BRM/BAF190B, SMARCA4/BRG1/BAF190A, ACTL6A/BAF53, ACTL6B/BAF53B, SMARCE1/BAF57, SMARCC1/BAF155, SMARCC2/BAF170, SMARCB1/SNF5/INI1, and one or more SMARCD1/BAF60A, SMARCD2/BAF60B, or SMARCD3/BAF60C. In muscle cells, the BAF complex also contains DPF3 (PubMed:18765789). Component of neural progenitors-specific chromatin remodeling complex (npBAF complex) composed of at least, ARID1A/BAF250A or ARID1B/BAF250B, SMARCD1/BAF60A, SMARCD3/BAF60C, SMARCA2/BRM/BAF190B, SMARCA4/BRG1/BAF190A, SMARCB1/BAF47, SMARCC1/BAF155, SMARCE1/BAF57, SMARCC2/BAF170, PHF10/BAF45A, ACTL6A/BAF53A and actin. Component of neuron-specific chromatin remodeling complex (nBAF complex) composed of at least, ARID1A/BAF250A or ARID1B/BAF250B, SMARCD1/BAF60A, SMARCD3/BAF60C, SMARCA2/BRM/BAF190B, SMARCA4/BRG1/BAF190A, SMARCB1/BAF47, SMARCC1/BAF155, SMARCE1/BAF57, SMARCC2/BAF170, DPF1/BAF45B, DPF3/BAF45C, ACTL6B/BAF53B and actin. May be a component of the SWI/SNF-B (PBAF) chromatin remodeling complex, at least composed of SMARCA4/BRG1, SMARCB1/BAF47/SNF5, ACTL6A/BAF53A or ACTL6B/BAF53B, SMARCE1/BAF57, SMARCD1/BAF60A, SMARCD2/BAF60B, perhaps SMARCD3/BAF60C, SMARCC1/BAF155, SMARCC2/BAF170, PBRM1/BAF180, ARID2/BAF200 and actin (ACTB) (PubMed:22952240, PubMed:26601204). Interacts with BRDT (By similarity). Also binds to the SRC/p160 family of histone acetyltransferases (HATs) composed of NCOA1, NCOA2, and NCOA3. Interacts with RCOR1/CoREST, NR3C1 and ZMIM2/ZIMP7 (PubMed:12192000, PubMed:12917342, PubMed:16051670)"
+        ]
+    },
+    "SRCAP": {
+        "UniProtKB_ID": "SRCAP_HUMAN",
+        "Description": "Helicase SRCAP",
+        "GO": [
+            "Golgi apparatus",
+            "nuclear body",
+            "nucleoplasm",
+            "nucleosome",
+            "nucleus",
+            "perinuclear region of cytoplasm",
+            "protein-containing complex",
+            "Swr1 complex",
+            "ATP binding",
+            "ATP hydrolysis activity",
+            "ATP-dependent chromatin remodeler activity",
+            "DNA binding",
+            "helicase activity",
+            "histone acetyltransferase activity",
+            "histone binding",
+            "transcription coactivator activity",
+            "regulation of DNA-templated transcription",
+            "regulation of transcription by RNA polymerase II"
+        ],
+        "Location": [
+            "nucleus"
+        ],
+        "Disease": [
+            "Floating-Harbor syndrome",
+            "Developmental delay",
+            "Disease variant",
+            "Intellectual disability"
+        ],
+        "Disease_description": [
+            "Floating-Harbor syndrome: A rare genetic disorder characterized by proportionate short stature, delayed bone age, delayed speech development, and typical facial features. The face is triangular with deep-set eyes, long eyelashes, bulbous nose, wide columella, short philtrum, and thin lips.",
+            "Developmental delay: An autosomal dominant disorder characterized by developmental delay, speech delay, mild to severe intellectual disability, hypotonia, musculoskeletal features, and behavioral abnormalities including autistic features. Skeletal anomalies include joint hypermobility, chronic musculoskeletal pain, scoliosis, and pectus defects. Affected individuals also have non-specific and variable dysmorphic facial features."
+        ],
+        "Complexes": [
+            "Interacts with CREBBP and EP300. May be part of a complex containing SRCAP, CREBBP, CARM1 and GRIP1. Component of the chromatin-remodeling SRCAP complex composed of at least SRCAP, DMAP1, RUVBL1, RUVBL2, ACTL6A, YEATS4, VPS72, ACTR6 and ZNHIT1. Component of a NuA4-related complex which contains EP400, TRRAP/PAF400, SRCAP, BRD8/SMAP, EPC1, DMAP1/DNMAP1, RUVBL1/TIP49, RUVBL2, actin, ACTL6A/BAF53A, VPS72 and YEATS4/GAS41",
+            "(Microbial infection) Interacts with hepatitis C virus (HCV) NS5A",
+            "(Microbial infection) Interacts with human adenovirus 2 DBP"
+        ]
+    },
+    "SRRT": {
+        "UniProtKB_ID": "SRRT_HUMAN",
+        "Description": "Serrate RNA effector molecule homolog",
+        "GO": [
+            "cytoplasm",
+            "nuclear body",
+            "nucleoplasm",
+            "protein-containing complex",
+            "ribonucleoprotein complex",
+            "DNA binding",
+            "mRNA cap binding complex binding",
+            "protein-macromolecule adaptor activity",
+            "RNA binding",
+            "mRNA processing",
+            "neuronal stem cell population maintenance",
+            "positive regulation of neurogenesis",
+            "primary miRNA processing",
+            "regulation of DNA-templated transcription",
+            "response to arsenic-containing substance"
+        ],
+        "Location": [
+            "cytoplasm",
+            "nucleus",
+            "nucleoplasm"
+        ],
+        "Disease": [],
+        "Disease_description": [],
+        "Complexes": [
+            "Interacts with NCBP1 and DROSHA (By similarity). Interacts with CASP8AP2 and ERBB4. Interacts with LUZP4. Interacts with NCBP2/CBP20 and NCBP3 (PubMed:26382858). Interacts with MTREX (PubMed:30842217)"
+        ]
+    },
+    "SS18L1": {
+        "UniProtKB_ID": "CREST_HUMAN",
+        "Description": "Calcium-responsive transactivator",
+        "GO": [
+            "cytosol",
+            "kinetochore",
+            "nBAF complex",
+            "nucleoplasm",
+            "nucleus",
+            "transcription coactivator activity",
+            "chromatin organization",
+            "dendrite development",
+            "positive regulation of dendrite morphogenesis",
+            "positive regulation of DNA-templated transcription",
+            "positive regulation of transcription by RNA polymerase II"
+        ],
+        "Location": [
+            "centromere",
+            "nucleus",
+            "chromosome",
+            "kinetochore"
+        ],
+        "Disease": [],
+        "Disease_description": [],
+        "Complexes": [
+            "Homodimer. Dimerization may be necessary for its function in neuronal dendritic development. Interacts (via C-terminus) with CREBBP (via N-terminus), EP300 and SMARCA4/BRG1. Interacts with the nBAF complex. Association with CREBBP facilitates transcription while the association with SMARCA4/BRG1 suppresses CREST-mediated transcription in resting neurons (By similarity)"
+        ]
+    },
+    "TCERG1": {
+        "UniProtKB_ID": "TCRG1_HUMAN",
+        "Description": "Transcription elongation regulator 1",
+        "GO": [
+            "nuclear speck",
+            "nucleoplasm",
+            "nucleus",
+            "identical protein binding",
+            "RNA binding",
+            "RNA polymerase binding",
+            "RNA polymerase II-specific DNA-binding transcription factor binding",
+            "transcription coactivator activity",
+            "transcription coregulator activity",
+            "transcription corepressor activity",
+            "transcription elongation factor activity",
+            "ubiquitin-like protein conjugating enzyme binding",
+            "mRNA processing",
+            "negative regulation of transcription by RNA polymerase II",
+            "negative regulation of transcription elongation by RNA polymerase II",
+            "positive regulation of transcription by RNA polymerase II",
+            "positive regulation of transcription elongation by RNA polymerase II",
+            "RNA splicing"
+        ],
+        "Location": [
+            "nucleus"
+        ],
+        "Disease": [],
+        "Disease_description": [],
+        "Complexes": [
+            "Binds formin (By similarity). Interacts (via the second WW domain) with TREX1 (via proline-rich region) (By similarity). Binds RNA polymerase II, HD and SF1"
+        ]
+    }
+}

@@ -1,0 +1,14 @@
+Title: Mitochondrial Protein Interaction and Function System
+
+Summary:
+The Mitochondrial Protein Interaction and Function System is a complex of proteins that are physically close to each other and/or interact with each other within the mitochondria. This system is involved in various cellular processes, including mitochondrial translation, electron transport, ATP synthesis, and protein binding. The analysis aims to determine if this is a novel complex or if any proteins are novel members of a known complex. The system consists of 201 proteins associated with the mitochondrion, 195 proteins involved in protein binding, 96 proteins in the mitochondrial inner membrane, and other proteins involved in various cellular processes.
+
+References:
+
+1. Calvo, S. E., Clauser, K. R., & Mootha, V. K. (2016). MitoCarta2.0: an updated inventory of mammalian mitochondrial proteins. Nucleic Acids Research, 44(D1), D1251-D1257. [PubMed](https://pubmed.ncbi.nlm.nih.gov/26450961/)
+
+2. Pagliarini, D. J., Calvo, S. E., Chang, B., Sheth, S. A., Vafai, S. B., Ong, S. E., ... & Mootha, V. K. (2008). A mitochondrial protein compendium elucidates complex I disease biology. Cell, 134(1), 112-123. [PubMed](https://pubmed.ncbi.nlm.nih.gov/18614015/)
+
+3. Rhee, H. W., Zou, P., Udeshi, N. D., Martell, J. D., Mootha, V. K., Carr, S. A., & Ting, A. Y. (2013). Proteomic mapping of mitochondria in living cells via spatially restricted enzymatic tagging. Science, 339(6125), 1328-1331. [PubMed](https://pubmed.ncbi.nlm.nih.gov/23471408/)
+
+4. Wiedemann, N., & Pfanner, N. (2017). Mitochondrial Machineries for Protein Import and Assembly. Annual Review of Biochemistry, 86, 685-714. [PubMed](https://pubmed.ncbi.nlm.nih.gov/28498721/)

@@ -1,0 +1,20 @@
+Your response should be formatted as Markdown paragraphs
+This is a human protein system high in a cell hierarchy and has child systems connect to it as well as residual proteins only belong to this system. From the protein list and the knowledge of how these proteins cluster, write a critical and concise analysis of this human protein system. Describe your reasoning as you go and providing references to scientific papers.
+
+A critical goal of the analysis is to determine if this is a novel complex or if any proteins are novel members of a known complex
+
+Format with Title, Summary, and References sections.        
+Avoid overly general statements of how the proteins are involved in various cellular processes        
+Avoid recapitulating the goals of the analysis.
+
+What cellular components and complexes are involved in this system?
+What mechanisms and biological processes are performed by this system?
+Propose a name for the system to reflect the function and location, and should be specific but brief. Do not compose an acronym. Place it as the title of your report
+Human Protein List: 
+proteins only in this high level system: DAZAP2, PHAF1, RCAN3, MYADM, RNF34, SPINDOC, SOCS6, NRBF2, RBM6, SLC4A2, GAB3, EPG5, EHMT2, BRD1, RBM27, TCERG1, EXTL2, TAP2, AFG2B, NCBP3, RBM42, THOC5, RSBN1L, ITPKC, RBM15B, RBM8A, CWC22, CACTIN, NMT2, ZSCAN5A, SUGP1, GADD45A, PSMB9, BAZ2A, PUDP, ASXL2, BPNT1, RAD52, FLT4, RBM26, SMURF2, HEXIM2.
+proteins in child system Cluster3-11: BRK1, C12orf57, CDK5RAP1, FBXO38, ZNF843, TOR1B, DPCD, POLR3B, MNS1, TADA2B, ZNF446, NAMPT, CDYL, KIF22, KAT6A, TLCD4, MAST3, AK6, NFATC4, NUP43, VPS72, TGIF2, POMP, NSL1, ANXA9, MORF4L1, UBR2, FBXL4, LMNA, UFC1, TBC1D8, TCP11L2, POLDIP3, ATXN7L3, UBE4A, RFXAP, ILRUN, FHIP2A, SMTNL2, WRN, SERPINB13, NDC80, SCAND1, TNIP1, SOHLH1, TMEM259, TLE5, CHD5, HAUS6, RALGAPB, GCAT, USP22, IQUB, TAF5L, USP43, ZNF217, TCF12, CCDC32, PARN, PHLDB3, N4BP2L2, OIP5, EXOSC7, ALMS1, ARMCX5, BORCS7, CRY2, CSTPP1, GNAQ, GNB5, IFT57, INTS5, LIMK1, LMTK2, MAGEA4, MAPK14, PLEKHN1, PPP1R16B, PRKAA1, SMC4, TAB1, TAB3, TSC22D3.
+proteins in child system Cluster3-15: SNW1, PPIG, CHTOP, SF3B2, PNN, UNK, SETD2, BCLAF1, RSRC2, ZC3H18, SART1, SF3B4, ZC3H14, BMP2K, SRSF11, SRRM2, LUC7L3, GPATCH8, SRSF4, PRPF40A, SRSF6, WTAP, CDK11A, SFSWAP, SNRPA, CDK11B, BRD2, IK, RBM25, THRAP3, FNBP4, SF3B1, RBM17, PRPF4B, SON, BCAS2, CCDC12, CWC25, CWF19L2, PLRG1, PPIE, PRPF19, SNRPA1, SNRPB2, SYF2.
+proteins in child system Cluster3-51: LPAR1, AK6, UBE4A, PARN, EXOSC7, DDX39A, HIKESHI.
+proteins in child system Cluster3-52: TADA2A, NEUROG3, TADA2B, ATXN7L3, USP22, TAF5L, TCF12.
+proteins in child system Cluster3-60: ZNF446, TGIF2, SCAND1, CHTOP, RCL1.
+proteins in child system Cluster3-74: CDK5RAP1, TCP11L2, CTC1, GTF2H4.

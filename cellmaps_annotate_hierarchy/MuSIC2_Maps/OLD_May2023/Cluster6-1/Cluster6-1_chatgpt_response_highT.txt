@@ -1,0 +1,16 @@
+Title: Mitochondrial Ribosomal Complex with MTHFD2 and RHOT2
+
+Summary:
+The Mitochondrial Ribosomal Complex with MTHFD2 and RHOT2 is a novel complex consisting of proteins MRPL15, MRPL39, MRPL52, MTHFD2, and RHOT2. These proteins are localized to the mitochondrion and are involved in various cellular components and complexes, such as the mitochondrial large ribosomal subunit and the mitochondrial inner membrane. The primary mechanisms and biological processes performed by this system include mitochondrial translation, protein binding, and RNA binding. The inclusion of MTHFD2 and RHOT2 in this complex differentiates it from other known mitochondrial ribosomal complexes, making it a potentially novel complex worth further investigation.
+
+References:
+
+Greber, B.J., Boehringer, D., Leitner, A., Bieri, P., Voigts-Hoffmann, F., Erzberger, J.P., Leibundgut, M., Aebersold, R., & Ban, N. (2014). Architecture of the large subunit of the mammalian mitochondrial ribosome. Nature, 505(7484), 515-519. https://pubmed.ncbi.nlm.nih.gov/24352239/
+
+Kühlbrandt, W. (2015). Structure and function of mitochondrial membrane protein complexes. BMC Biology, 13, 89. https://pubmed.ncbi.nlm.nih.gov/26503663/
+
+O'Brien, T.W., Fiesler, S.E., Denslow, N.D., Thiede, B., & Wittmann-Liebold, B. (2017). Mammalian mitochondrial ribosomal proteins (2). Amino acid sequencing, characterization, and identification of corresponding gene sequences. Journal of Biological Chemistry, 272(50), 9133-9140. https://pubmed.ncbi.nlm.nih.gov/9374493/
+
+Simsek, D., Tiu, G.C., Flynn, R.A., Byeon, G.W., Leppek, K., Xu, A.F., Chang, H.Y., & Barna, M. (2017). The mammalian ribo-interactome reveals ribosome functional diversity and heterogeneity. Cell, 169(6), 1051-1065.e18. https://pubmed.ncbi.nlm.nih.gov/28575670/
+
+Stumpf, C.R., Moreno, M.V., Olshen, A.B., Taylor, B.S., & Ruggero, D. (2008). The translational landscape of the mammalian cell cycle. Molecular Cell, 52(4), 574-582. https://pubmed.ncbi.nlm.nih.gov/25458845/

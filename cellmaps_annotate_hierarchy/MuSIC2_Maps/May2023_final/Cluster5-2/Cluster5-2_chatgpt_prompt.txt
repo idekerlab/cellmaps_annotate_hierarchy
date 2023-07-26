@@ -1,0 +1,87 @@
+Your response should be formatted as Markdown paragraphs
+Write a critical and concise analysis of this human protein system, describing your reasoning as you go and providing references to scientific papers.
+
+A critical goal of the analysis is to determine if this is a novel complex or if any proteins are novel members of a known complex
+
+Format with Title, Summary, and References sections.        
+Avoid overly general statements of how the proteins are involved in various cellular processes        
+Avoid repeating the goals of the analysis.
+
+What cellular components and complexes are involved in this system?
+What mechanisms and biological processes are performed by this system?
+Propose a name for the system to reflect the cellular location and function, and should be specific but brief. Do not compose an acronym. Place it as the title of your report
+Human Proteins: ACTL6A, ARID1A, ARID1B, ARID2, BCL7A, BCL7B, BICRA, BICRAL, CDCA7, DPF1, PBRM1, SMARCA2, SMARCA4, SMARCB1, SMARCC1, SMARCC2, SMARCD1, SMARCD2, SMARCD3, SMARCE1.
+
+System features from GO terms: 
+chromatin remodeling: 19 proteins: ACTL6A, ARID1A, ARID1B, ARID2, BCL7A, BCL7B, BICRA, BICRAL, DPF1, PBRM1, SMARCA2, SMARCA4, SMARCB1, SMARCC1, SMARCC2, SMARCD1, SMARCD2, SMARCD3, SMARCE1
+ transcription by RNA polymerase II: 19 proteins: ACTL6A, ARID1A, ARID1B, ARID2, BCL7A, BCL7B, BICRA, BICRAL, DPF1, PBRM1, SMARCA2, SMARCA4, SMARCB1, SMARCC1, SMARCC2, SMARCD1, SMARCD2, SMARCD3, SMARCE1
+chromatin: 19 proteins: ACTL6A, ARID1A, ARID1B, ARID2, BCL7A, BCL7B, BICRA, BICRAL, DPF1, PBRM1, SMARCA2, SMARCA4, SMARCB1, SMARCC1, SMARCC2, SMARCD1, SMARCD2, SMARCD3, SMARCE1
+protein binding: 18 proteins: ACTL6A, ARID1A, ARID1B, ARID2, BCL7A, BCL7B, BICRA, BICRAL, CDCA7, PBRM1, SMARCA2, SMARCA4, SMARCB1, SMARCC1, SMARCC2, SMARCD1, SMARCD2, SMARCE1
+SWI/SNF complex: 18 proteins: ACTL6A, ARID1A, ARID1B, ARID2, BCL7A, BCL7B, BICRA, BICRAL, PBRM1, SMARCA2, SMARCA4, SMARCB1, SMARCC1, SMARCC2, SMARCD1, SMARCD2, SMARCD3, SMARCE1
+ mitotic metaphase/anaphase transition: 17 proteins: ACTL6A, ARID1A, ARID1B, ARID2, BCL7A, BCL7B, DPF1, PBRM1, SMARCA2, SMARCA4, SMARCB1, SMARCC1, SMARCC2, SMARCD1, SMARCD2, SMARCD3, SMARCE1
+ G0 to G1 transition: 17 proteins: ACTL6A, ARID1A, ARID1B, ARID2, BCL7A, BCL7B, DPF1, PBRM1, SMARCA2, SMARCA4, SMARCB1, SMARCC1, SMARCC2, SMARCD1, SMARCD2, SMARCD3, SMARCE1
+ G1/S transition of mitotic cell cycle: 17 proteins: ACTL6A, ARID1A, ARID1B, ARID2, BCL7A, BCL7B, DPF1, PBRM1, SMARCA2, SMARCA4, SMARCB1, SMARCC1, SMARCC2, SMARCD1, SMARCD2, SMARCD3, SMARCE1
+ double-strand break repair: 17 proteins: ACTL6A, ARID1A, ARID1B, ARID2, BCL7A, BCL7B, DPF1, PBRM1, SMARCA2, SMARCA4, SMARCB1, SMARCC1, SMARCC2, SMARCD1, SMARCD2, SMARCD3, SMARCE1
+ nucleotide-excision repair: 17 proteins: ACTL6A, ARID1A, ARID1B, ARID2, BCL7A, BCL7B, DPF1, PBRM1, SMARCA2, SMARCA4, SMARCB1, SMARCC1, SMARCC2, SMARCD1, SMARCD2, SMARCD3, SMARCE1
+ cell differentiation: 15 proteins: ACTL6A, ARID1A, ARID1B, ARID2, DPF1, PBRM1, SMARCA2, SMARCA4, SMARCB1, SMARCC1, SMARCC2, SMARCD1, SMARCD2, SMARCD3, SMARCE1
+nucleoplasm: 15 proteins: ACTL6A, ARID1A, ARID1B, ARID2, CDCA7, PBRM1, SMARCA2, SMARCA4, SMARCB1, SMARCC1, SMARCC2, SMARCD1, SMARCD2, SMARCD3, SMARCE1
+ DNA-templated transcription: 14 proteins: ACTL6A, ARID1A, ARID1B, BICRA, BICRAL, CDCA7, SMARCA2, SMARCA4, SMARCC1, SMARCC2, SMARCD1, SMARCD2, SMARCD3, SMARCE1
+ T cell differentiation: 14 proteins: ACTL6A, ARID1A, ARID1B, ARID2, PBRM1, SMARCA2, SMARCA4, SMARCB1, SMARCC1, SMARCC2, SMARCD1, SMARCD2, SMARCD3, SMARCE1
+ myoblast differentiation: 14 proteins: ACTL6A, ARID1A, ARID1B, ARID2, PBRM1, SMARCA2, SMARCA4, SMARCB1, SMARCC1, SMARCC2, SMARCD1, SMARCD2, SMARCD3, SMARCE1
+nucleus: 13 proteins: ACTL6A, ARID1A, BICRA, CDCA7, PBRM1, SMARCA2, SMARCA4, SMARCB1, SMARCC1, SMARCD1, SMARCD2, SMARCD3, SMARCE1
+transcription coactivator activity: 12 proteins: ACTL6A, ARID1A, ARID1B, SMARCA2, SMARCA4, SMARCB1, SMARCC1, SMARCC2, SMARCD1, SMARCD2, SMARCD3, SMARCE1
+ stem cell population maintenance: 12 proteins: ACTL6A, ARID1A, BCL7A, BCL7B, BICRA, BICRAL, SMARCA2, SMARCA4, SMARCB1, SMARCC1, SMARCD1, SMARCE1
+nervous system development: 11 proteins: ACTL6A, ARID1A, ARID1B, DPF1, SMARCA2, SMARCA4, SMARCB1, SMARCC1, SMARCC2, SMARCD1, SMARCD3
+brahma complex: 11 proteins: ACTL6A, ARID1A, ARID1B, SMARCA2, SMARCB1, SMARCC1, SMARCC2, SMARCD1, SMARCD2, SMARCD3, SMARCE1
+npBAF complex: 11 proteins: ACTL6A, ARID1A, ARID1B, SMARCA2, SMARCA4, SMARCB1, SMARCC1, SMARCC2, SMARCD1, SMARCD3, SMARCE1
+nBAF complex: 11 proteins: ARID1A, ARID1B, DPF1, SMARCA2, SMARCA4, SMARCB1, SMARCC1, SMARCC2, SMARCD1, SMARCD3, SMARCE1
+ cell population proliferation: 10 proteins: ACTL6A, BCL7A, BCL7B, BICRA, BICRAL, CDCA7, SMARCA2, SMARCA4, SMARCC1, SMARCD1
+kinetochore: 10 proteins: ACTL6A, ARID2, PBRM1, SMARCA4, SMARCB1, SMARCC1, SMARCC2, SMARCD1, SMARCD2, SMARCE1
+nuclear matrix: 10 proteins: ACTL6A, ARID2, PBRM1, SMARCA4, SMARCB1, SMARCC1, SMARCC2, SMARCD1, SMARCD2, SMARCE1
+RSC-type complex: 10 proteins: ACTL6A, ARID2, PBRM1, SMARCA4, SMARCB1, SMARCC1, SMARCC2, SMARCD1, SMARCD2, SMARCE1
+nucleosome disassembly: 10 proteins: ARID1A, ARID2, SMARCA4, SMARCB1, SMARCC1, SMARCC2, SMARCD1, SMARCD2, SMARCD3, SMARCE1
+negative regulation of cell differentiation: 9 proteins: ACTL6A, BCL7A, BCL7B, BICRA, BICRAL, SMARCA2, SMARCA4, SMARCC1, SMARCD1
+GBAF complex: 9 proteins: ACTL6A, BCL7A, BCL7B, BICRA, BICRAL, SMARCA2, SMARCA4, SMARCC1, SMARCD1
+bBAF complex: 8 proteins: ARID1A, ARID1B, SMARCA2, SMARCA4, SMARCB1, SMARCC2, SMARCD2, SMARCE1
+nucleosomal DNA binding: 7 proteins: ACTL6A, SMARCA4, SMARCB1, SMARCC1, SMARCC2, SMARCD2, SMARCE1
+protein-containing complex: 7 proteins: ACTL6A, SMARCA4, SMARCB1, SMARCC1, SMARCC2, SMARCD2, SMARCE1
+DNA binding: 7 proteins: ARID1A, ARID1B, ARID2, PBRM1, SMARCA2, SMARCA4, SMARCB1
+chromatin binding: 5 proteins: ACTL6A, PBRM1, SMARCA2, SMARCD1, SMARCE1
+transcription initiation-coupled chromatin remodeling: 5 proteins: ARID1A, ARID1B, SMARCA4, SMARCB1, SMARCD1
+negative regulation of DNA-templated transcription: 5 proteins: BCL7A, SMARCA2, SMARCA4, SMARCC2, SMARCE1
+negative regulation of cell population proliferation: 4 proteins: ARID2, PBRM1, SMARCA2, SMARCB1
+neural retina development: 3 proteins: ACTL6A, SMARCA4, SMARCD3
+plasma membrane: 3 proteins: ACTL6A, ARID1B, ARID2
+nuclear receptor binding: 3 proteins: ARID1A, SMARCD3, SMARCE1
+apoptotic process: 3 proteins: BCL7B, CDCA7, DPF1
+nuclear chromosome: 3 proteins: PBRM1, SMARCB1, SMARCE1
+histone binding: 3 proteins: SMARCA2, SMARCC1, SMARCC2
+intracellular membrane-bounded organelle: 3 proteins: SMARCA2, SMARCB1, SMARCD1
+transcription coregulator activity: 3 proteins: SMARCD1, SMARCD2, SMARCD3
+DNA-templated transcription: 3 proteins: SMARCD1, SMARCD2, SMARCD3
+ double-strand break repair via homologous recombination: 2 proteins: ACTL6A, ARID2
+nucleosome binding: 2 proteins: ARID1A, ARID1B
+cytosol: 2 proteins: ARID1B, CDCA7
+metal ion binding: 2 proteins: ARID2, DPF1
+cytoplasm: 2 proteins: DPF1, SMARCC1
+helicase activity: 2 proteins: SMARCA2, SMARCA4
+ATP binding: 2 proteins: SMARCA2, SMARCA4
+ATP-dependent activity, acting on DNA: 2 proteins: SMARCA2, SMARCA4
+hydrolase activity: 2 proteins: SMARCA2, SMARCA4
+ATP-dependent chromatin remodeler activity: 2 proteins: SMARCA2, SMARCA4
+negative regulation of transcription by RNA polymerase II: 2 proteins: SMARCA2, SMARCA4
+negative regulation of cell growth: 2 proteins: SMARCA2, SMARCA4
+RNA polymerase I core promoter sequence-specific DNA binding: 2 proteins: SMARCA4, SMARCB1
+transcription coregulator binding: 2 proteins: SMARCA4, SMARCD3
+p53 binding: 2 proteins: SMARCA4, SMARCB1
+RNA binding: 2 proteins: SMARCA4, SMARCE1
+Tat protein binding: 2 proteins: SMARCA4, SMARCB1
+RNA polymerase I preinitiation complex assembly: 2 proteins: SMARCA4, SMARCB1
+positive regulation by host of viral transcription: 2 proteins: SMARCA4, SMARCB1
+ DNA-binding transcription factor activity: 2 proteins: SMARCA4, SMARCB1
+ transcription of nucleolar large rRNA by RNA polymerase I: 2 proteins: SMARCA4, SMARCB1
+ glucose mediated signaling pathway: 2 proteins: SMARCA4, SMARCB1
+fibrillar center: 2 proteins: SMARCA4, SMARCB1
+nucleolus: 2 proteins: SMARCA4, SMARCB1
+XY body: 2 proteins: SMARCB1, SMARCC1
+signaling receptor binding: 2 proteins: SMARCD1, SMARCD3

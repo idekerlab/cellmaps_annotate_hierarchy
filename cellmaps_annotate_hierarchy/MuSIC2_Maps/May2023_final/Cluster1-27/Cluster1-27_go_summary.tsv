@@ -1,0 +1,40 @@
+Feature	Number of Genes	Genes
+protein binding	2	BLMH, WIPI2
+cytosol	2	BLMH, WIPI2
+aminopeptidase activity	1	BLMH
+carboxypeptidase activity	1	BLMH
+cysteine-type endopeptidase activity	1	BLMH
+cysteine-type peptidase activity	1	BLMH
+identical protein binding	1	BLMH
+protein polyubiquitination	1	BLMH
+proteolysis	1	BLMH
+response to xenobiotic stimulus	1	BLMH
+response to toxic substance	1	BLMH
+homocysteine catabolic process	1	BLMH
+nucleus	1	BLMH
+cytoplasm	1	BLMH
+extracellular exosome	1	BLMH
+myosin complex	1	CCDC102A
+nucleotide binding	1	GFOD2
+oxidoreductase activity	1	GFOD2
+extracellular matrix organization	1	GFOD2
+extracellular region	1	GFOD2
+extracellular matrix	1	GFOD2
+phosphatidylinositol-3-phosphate binding	1	WIPI2
+phosphatidylinositol-3,5-bisphosphate binding	1	WIPI2
+autophagosome assembly	1	WIPI2
+autophagy of mitochondrion	1	WIPI2
+protein lipidation	1	WIPI2
+cellular response to starvation	1	WIPI2
+protein localization to phagophore assembly site	1	WIPI2
+autophagy of nucleus	1	WIPI2
+protein lipidation involved in autophagosome assembly	1	WIPI2
+autophagosome maturation	1	WIPI2
+xenophagy	1	WIPI2
+phagophore assembly site	1	WIPI2
+nucleoplasm	1	WIPI2
+autophagosome	1	WIPI2
+membrane	1	WIPI2
+extrinsic component of membrane	1	WIPI2
+protein-containing complex	1	WIPI2
+phagophore assembly site membrane	1	WIPI2

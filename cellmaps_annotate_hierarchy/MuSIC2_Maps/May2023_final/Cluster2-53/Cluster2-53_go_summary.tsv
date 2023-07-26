@@ -1,0 +1,98 @@
+Feature	Number of Genes	Genes
+protein binding	7	ATP6V1A, ATP6V0D2, CCDC115, ATP6V0A4, ATP6V0A2, ATP6V0C, G6PD
+proton-transporting ATPase activity, rotational mechanism	5	ATP6V1A, ATP6V0D2, ATP6V0A4, ATP6V0A2, ATP6V0C
+vacuolar acidification	5	ATP6V1A, ATP6V0D2, ATP6V0A4, ATP6V0A2, ATP6V0C
+proton transmembrane transport	5	ATP6V1A, ATP6V0D2, ATP6V0A4, ATP6V0A2, ATP6V0C
+lysosomal membrane	5	ATP6V1A, ATP6V0D2, ATP6V0A4, ATP6V0A2, ATP6V0C
+membrane	5	ATP6V1A, ATP6V0D2, CCDC115, ATP6V0C, G6PD
+extracellular exosome	5	ATP6V1A, ATP6V0D2, ATP6V0A4, ATP6V0C, G6PD
+ macroautophagy	4	ATP6V1A, ATP6V0D2, ATP6V0A2, ATP6V0C
+plasma membrane	4	ATP6V1A, ATP6V0A4, ATP6V0A2, ATP6V0C
+proton-transporting V-type ATPase complex	4	ATP6V1A, ATP6V0A4, ATP6V0A2, ATP6V0C
+endosome membrane	4	ATP6V0D2, ATP6V0A4, ATP6V0A2, ATP6V0C
+vacuolar proton-transporting V-type ATPase complex	4	ATP6V0D2, CCDC115, ATP6V0A4, ATP6V0A2
+phagocytic vesicle membrane	4	ATP6V0D2, ATP6V0A4, ATP6V0A2, ATP6V0C
+intracellular iron ion homeostasis	3	ATP6V1A, CCDC115, ATP6V0A2
+lysosomal lumen acidification	3	ATP6V1A, CCDC115, ATP6V0C
+cellular response to increased oxygen levels	3	ATP6V1A, CCDC115, ATP6V0A2
+intracellular pH reduction	3	ATP6V1A, ATP6V0A4, ATP6V0C
+Golgi lumen acidification	3	ATP6V1A, ATP6V0A2, ATP6V0C
+apical plasma membrane	3	ATP6V1A, ATP6V0D2, ATP6V0A4
+intracellular membrane-bounded organelle	3	ATP6V1A, ATP6V0A2, G6PD
+transmembrane transporter complex	3	ATP6V1A, ATP6V0A2, ATP6V0C
+vacuolar proton-transporting V-type ATPase, V0 domain	3	ATP6V0A4, ATP6V0A2, ATP6V0C
+proton-transporting ATP synthase activity, rotational mechanism	2	ATP6V1A, ATP6V0C
+proton motive force-driven ATP synthesis	2	ATP6V1A, ATP6V0C
+endosomal lumen acidification	2	ATP6V1A, ATP6V0C
+synaptic vesicle lumen acidification	2	ATP6V1A, ATP6V0A4
+cytosol	2	ATP6V1A, G6PD
+clathrin-coated vesicle membrane	2	ATP6V1A, ATP6V0C
+endosome	2	CCDC115, ATP6V0A4
+ATPase binding	2	ATP6V0A4, ATP6V0A2
+synaptic vesicle membrane	2	ATP6V0A4, ATP6V0C
+focal adhesion	2	ATP6V0A2, ATP6V0C
+ATP binding	1	ATP6V1A
+vacuolar proton-transporting V-type ATPase, V1 domain	1	ATP6V1A
+nucleoplasm	1	ATP6V1A
+microvillus	1	ATP6V1A
+proton-transporting two-sector ATPase complex	1	ATP6V1A
+secretory granule	1	ATP6V1A
+extrinsic component of synaptic vesicle membrane	1	ATP6V1A
+vacuolar transport	1	ATP6V0D2
+early endosome	1	ATP6V0D2
+proton-transporting V-type ATPase, V0 domain	1	ATP6V0D2
+plasma membrane proton-transporting V-type ATPase complex	1	ATP6V0D2
+unfolded protein binding	1	CCDC115
+vacuolar proton-transporting V-type ATPase complex assembly	1	CCDC115
+lysosomal protein catabolic process	1	CCDC115
+lysosome	1	CCDC115
+endoplasmic reticulum	1	CCDC115
+endoplasmic reticulum-Golgi intermediate compartment	1	CCDC115
+COPI-coated vesicle	1	CCDC115
+ossification	1	ATP6V0A4
+ pH	1	ATP6V0A4
+sensory perception of sound	1	ATP6V0A4
+renal tubular secretion	1	ATP6V0A4
+basolateral plasma membrane	1	ATP6V0A4
+brush border membrane	1	ATP6V0A4
+apical part of cell	1	ATP6V0A4
+immune response	1	ATP6V0A2
+acrosomal vesicle	1	ATP6V0A2
+perinuclear region of cytoplasm	1	ATP6V0A2
+ubiquitin protein ligase binding	1	ATP6V0C
+ Wnt signaling pathway	1	ATP6V0C
+azurophil granule membrane	1	ATP6V0C
+tertiary granule membrane	1	ATP6V0C
+ficolin-1-rich granule membrane	1	ATP6V0C
+glucose-6-phosphate dehydrogenase activity	1	G6PD
+glucose binding	1	G6PD
+identical protein binding	1	G6PD
+protein homodimerization activity	1	G6PD
+NADP binding	1	G6PD
+glucose metabolic process	1	G6PD
+pentose-phosphate shunt	1	G6PD
+lipid metabolic process	1	G6PD
+cholesterol biosynthetic process	1	G6PD
+NADP metabolic process	1	G6PD
+NADPH regeneration	1	G6PD
+glutathione metabolic process	1	G6PD
+pentose-phosphate shunt, oxidative branch	1	G6PD
+response to iron(III) ion	1	G6PD
+negative regulation of protein glutathionylation	1	G6PD
+response to organic cyclic compound	1	G6PD
+pentose biosynthetic process	1	G6PD
+substantia nigra development	1	G6PD
+response to food	1	G6PD
+cellular response to oxidative stress	1	G6PD
+erythrocyte maturation	1	G6PD
+ neuron apoptotic process	1	G6PD
+response to ethanol	1	G6PD
+ribose phosphate biosynthetic process	1	G6PD
+glucose 6-phosphate metabolic process	1	G6PD
+negative regulation of cell growth involved in cardiac muscle cell development	1	G6PD
+ calcium ion transmembrane transport via high voltage-gated calcium channel	1	G6PD
+negative regulation of reactive oxygen species metabolic process	1	G6PD
+nucleus	1	G6PD
+cytoplasm	1	G6PD
+cytoplasmic side of plasma membrane	1	G6PD
+centriolar satellite	1	G6PD

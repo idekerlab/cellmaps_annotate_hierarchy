@@ -1,0 +1,102 @@
+Feature	Number of Genes	Genes
+protein binding	6	TAF7, TAF1, TAF3, TAF4, TAF5, TAF6
+RNA polymerase II general transcription initiation factor activity	6	TAF7, TAF1, TAF3, TAF4, TAF5, TAF6
+protein phosphorylation	6	TAF7, TAF1, TAF3, TAF4, TAF5, TAF6
+mRNA transcription by RNA polymerase II	6	TAF7, TAF1, TAF3, TAF4, TAF5, TAF6
+RNA polymerase II preinitiation complex assembly	6	TAF7, TAF1, TAF3, TAF4, TAF5, TAF6
+ transcription initiation by RNA polymerase II	6	TAF7, TAF1, TAF3, TAF4, TAF5, TAF6
+nucleus	6	TAF7, TAF1, TAF3, TAF4, TAF5, TAF6
+nucleoplasm	6	TAF7, TAF1, TAF3, TAF4, TAF5, TAF6
+transcription factor TFIID complex	6	TAF7, TAF1, TAF3, TAF4, TAF5, TAF6
+protein heterodimerization activity	5	TAF7, TAF1, TAF3, TAF4, TAF6
+ transcription by RNA polymerase II	5	TAF7, TAF3, TAF4, TAF5, TAF6
+transcription initiation at RNA polymerase II promoter	5	TAF7, TAF1, TAF4, TAF5, TAF6
+ DNA repair	4	TAF7, TAF4, TAF5, TAF6
+DNA-templated transcription initiation	4	TAF7, TAF4, TAF5, TAF6
+transcription by RNA polymerase II	4	TAF7, TAF1, TAF4, TAF6
+monoubiquitinated histone deubiquitination	4	TAF7, TAF4, TAF5, TAF6
+monoubiquitinated histone H2A deubiquitination	4	TAF7, TAF4, TAF5, TAF6
+histone H3 acetylation	4	TAF7, TAF4, TAF5, TAF6
+ DNA-templated transcription	4	TAF7, TAF4, TAF5, TAF6
+transcription factor TFTC complex	4	TAF7, TAF4, TAF5, TAF6
+MLL1 complex	4	TAF7, TAF1, TAF4, TAF6
+negative regulation of transcription by RNA polymerase II	3	TAF7, TAF1, TAF3
+male germ cell nucleus	3	TAF7, TAF3, TAF4
+chromatin	3	TAF1, TAF4, TAF5
+H3K27me3 modified histone binding	2	TAF7, TAF1
+transcription regulator complex	2	TAF7, TAF1
+p53 binding	2	TAF1, TAF3
+transcription regulator inhibitor activity	2	TAF1, TAF3
+negative regulation of DNA-binding transcription factor activity	2	TAF1, TAF3
+nucleolus	2	TAF1, TAF5
+DNA binding	2	TAF4, TAF6
+aryl hydrocarbon receptor binding	2	TAF4, TAF6
+cytosol	2	TAF4, TAF6
+protein-containing complex	2	TAF4, TAF6
+transcription cis-regulatory region binding	1	TAF7
+TFIIH-class transcription factor complex binding	1	TAF7
+histone acetyltransferase binding	1	TAF7
+nuclear vitamin D receptor binding	1	TAF7
+nuclear thyroid hormone receptor binding	1	TAF7
+P-TEFb complex binding	1	TAF7
+DNA-binding transcription factor binding	1	TAF7
+spermine transport	1	TAF7
+negative regulation of protein kinase activity	1	TAF7
+intracellular estrogen receptor signaling pathway	1	TAF7
+negative regulation of MHC class I biosynthetic process	1	TAF7
+negative regulation of MHC class II biosynthetic process	1	TAF7
+negative regulation of DNA-templated transcription	1	TAF7
+cytoplasm	1	TAF7
+RNA polymerase II core promoter sequence-specific DNA binding	1	TAF1
+RNA polymerase II general transcription initiation factor binding	1	TAF1
+RNA polymerase I general transcription initiation factor activity	1	TAF1
+histone acetyltransferase activity	1	TAF1
+protein kinase activity	1	TAF1
+protein serine/threonine kinase activity	1	TAF1
+ATP binding	1	TAF1
+kinase activity	1	TAF1
+nuclear receptor binding	1	TAF1
+TBP-class protein binding	1	TAF1
+sequence-specific DNA binding	1	TAF1
+RNA polymerase II-specific DNA-binding transcription factor binding	1	TAF1
+ubiquitin conjugating enzyme activity	1	TAF1
+lysine-acetylated histone binding	1	TAF1
+protein serine kinase activity	1	TAF1
+acetyl-CoA binding	1	TAF1
+protein polyubiquitination	1	TAF1
+chromatin remodeling	1	TAF1
+transcription initiation at RNA polymerase I promoter	1	TAF1
+ubiquitin-dependent protein catabolic process	1	TAF1
+DNA damage response	1	TAF1
+cell cycle	1	TAF1
+negative regulation of gene expression	1	TAF1
+peptidyl-serine phosphorylation	1	TAF1
+peptidyl-threonine phosphorylation	1	TAF1
+midbrain development	1	TAF1
+ protein binding	1	TAF1
+ proteasomal ubiquitin-dependent protein catabolic process	1	TAF1
+cellular response to UV	1	TAF1
+transcription factor catabolic process	1	TAF1
+protein autophosphorylation	1	TAF1
+protein stabilization	1	TAF1
+cellular response to ATP	1	TAF1
+ signal transduction by p53 class mediator	1	TAF1
+ cell cycle G1/S phase transition	1	TAF1
+negative regulation of RNA polymerase II regulatory region sequence-specific DNA binding	1	TAF1
+negative regulation of protein autoubiquitination	1	TAF1
+negative regulation of ubiquitin-dependent protein catabolic process	1	TAF1
+ androgen receptor activity	1	TAF1
+transcription factor binding	1	TAF3
+metal ion binding	1	TAF3
+maintenance of protein location in nucleus	1	TAF3
+nuclear membrane	1	TAF3
+core promoter sequence-specific DNA binding	1	TAF4
+ovarian follicle development	1	TAF4
+identical protein binding	1	TAF5
+actin cytoskeleton	1	TAF5
+transcription coactivator activity	1	TAF6
+molecular adaptor activity	1	TAF6
+apoptotic process	1	TAF6
+negative regulation of cell cycle	1	TAF6
+SAGA complex	1	TAF6
+SLIK (SAGA-like) complex	1	TAF6

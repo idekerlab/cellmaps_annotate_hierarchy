@@ -1,0 +1,44 @@
+Write a critical and concise analysis of this system, describing your reasoning as you go and providing references to scientific papers. Format the page with Title, Summary, and References sections.
+What cellular components and complexes are involved in this system?
+What mechanisms and biological processes are performed by this system?
+Propose a name for the system to reflect the function and location, and should be specific but brief. Do not compose an acronym. Place it as the title of your report
+Provide complete paper references with pubmed link
+Proteins: FHL1, IST1, HARS1, ATXN2L, PPM1A, NFKB2, NARS1, BIN1, GSPT2, PLCG1, NAA30, BLVRA, XPNPEP1, CARS1, NAGK, EFL1, FERMT2, LCMT2, EEF1A2, MCTS1, YKT6.
+
+A critical goal of the analysis is to determine if this is a novel complex or if any proteins are novel members of a known complex
+System features from GO terms: 
+cytosol: 18 proteins: NAA30, HARS1, BIN1, FERMT2, XPNPEP1, EFL1, IST1, PLCG1, GSPT2, CARS1, NARS1, BLVRA, ATXN2L, PPM1A, YKT6, NFKB2, NAGK, FHL1
+protein binding: 17 proteins: NAA30, MCTS1, BIN1, FERMT2, LCMT2, IST1, PLCG1, GSPT2, CARS1, NARS1, BLVRA, ATXN2L, PPM1A, EEF1A2, NFKB2, NAGK, FHL1
+cytoplasm: 13 proteins: NAA30, HARS1, BIN1, FERMT2, XPNPEP1, LCMT2, PLCG1, CARS1, NARS1, YKT6, EEF1A2, NFKB2, FHL1
+nucleus: 7 proteins: NAA30, BIN1, FERMT2, PPM1A, EEF1A2, NFKB2, FHL1
+plasma membrane: 6 proteins: BIN1, FERMT2, PLCG1, PPM1A, YKT6, FHL1
+extracellular exosome: 5 proteins: XPNPEP1, IST1, NARS1, BLVRA, NAGK
+ATP binding: 4 proteins: HARS1, CARS1, NARS1, NAGK
+identical protein binding: 3 proteins: HARS1, BIN1, CARS1
+translation: 3 proteins: HARS1, GSPT2, EEF1A2
+RNA binding: 3 proteins: MCTS1, GSPT2, ATXN2L
+membrane: 3 proteins: BIN1, ATXN2L, PPM1A
+protein kinase binding: 3 proteins: FERMT2, PLCG1, EEF1A2
+nucleoplasm: 3 proteins: FERMT2, PPM1A, NFKB2
+GTPase activity: 3 proteins: EFL1, GSPT2, EEF1A2
+GTP binding: 3 proteins: EFL1, GSPT2, EEF1A2
+cadherin binding: 3 proteins: IST1, ATXN2L, YKT6
+protein homodimerization activity: 2 proteins: HARS1, XPNPEP1
+tRNA aminoacylation for protein translation: 2 proteins: HARS1, NARS1
+mitochondrion: 2 proteins: HARS1, YKT6
+cell cycle: 2 proteins: MCTS1, GSPT2
+actin filament binding: 2 proteins: BIN1, FERMT2
+negative regulation of transcription by RNA polymerase II: 2 proteins: BIN1, PPM1A
+positive regulation of apoptotic process: 2 proteins: BIN1, EEF1A2
+positive regulation of GTPase activity: 2 proteins: BIN1, FERMT2
+nuclear envelope: 2 proteins: BIN1, IST1
+endosome: 2 proteins: BIN1, YKT6
+I band: 2 proteins: BIN1, FERMT2
+glutamatergic synapse: 2 proteins: BIN1, PLCG1
+focal adhesion: 2 proteins: FERMT2, FHL1
+manganese ion binding: 2 proteins: XPNPEP1, PPM1A
+translation elongation factor activity: 2 proteins: EFL1, EEF1A2
+translational elongation: 2 proteins: EFL1, EEF1A2
+protein transport: 2 proteins: IST1, YKT6
+cell migration: 2 proteins: PLCG1, NARS1
+metal ion binding: 2 proteins: CARS1, FHL1

@@ -1,0 +1,54 @@
+Your response should be formatted as Markdown paragraphs
+Write a critical and concise analysis of this human protein system, describing your reasoning as you go and providing references to scientific papers.
+
+A critical goal of the analysis is to determine if this is a novel complex or if any proteins are novel members of a known complex
+
+Format with Title, Summary, and References sections.        
+Avoid overly general statements of how the proteins are involved in various cellular processes        
+Avoid repeating the goals of the analysis.
+
+What cellular components and complexes are involved in this system?
+What mechanisms and biological processes are performed by this system?
+Propose a name for the system to reflect the cellular location and function, and should be specific but brief. Do not compose an acronym. Place it as the title of your report
+Human Proteins: GLMN, APPBP2, COPS3, COPS6, COPS7A, COPS7B, COPS8, COPS9, CUL4A, CUL4B, DCAF11, FEM1B, FEM1C, KCTD9, LRR1, LRRC14, RNF7, SOCS4, SOCS5.
+
+System features from GO terms: 
+protein binding: 19 proteins: GLMN, APPBP2, COPS3, COPS6, COPS7A, COPS7B, COPS8, COPS9, CUL4A, CUL4B, DCAF11, FEM1B, FEM1C, KCTD9, LRR1, LRRC14, RNF7, SOCS4, SOCS5
+nucleoplasm: 13 proteins: APPBP2, COPS3, COPS6, COPS7A, COPS7B, COPS8, COPS9, CUL4A, CUL4B, DCAF11, FEM1B, FEM1C, RNF7
+nucleus: 12 proteins: APPBP2, COPS3, COPS6, COPS7A, COPS7B, COPS8, COPS9, CUL4A, CUL4B, FEM1B, LRR1, RNF7
+cytosol: 12 proteins: COPS3, COPS6, COPS7A, COPS7B, COPS8, CUL4B, FEM1B, FEM1C, LRR1, LRRC14, RNF7, SOCS5
+cytoplasm: 11 proteins: GLMN, APPBP2, COPS3, COPS6, COPS7A, COPS7B, COPS8, COPS9, FEM1B, LRRC14, RNF7
+protein ubiquitination: 11 proteins: APPBP2, CUL4A, CUL4B, DCAF11, FEM1B, FEM1C, KCTD9, LRR1, RNF7, SOCS4, SOCS5
+protein neddylation: 6 proteins: COPS3, COPS6, COPS7A, COPS7B, COPS8, RNF7
+COP9 signalosome: 6 proteins: COPS3, COPS6, COPS7A, COPS7B, COPS8, COPS9
+proteasome-mediated ubiquitin-dependent protein catabolic process: 5 proteins: APPBP2, CUL4A, DCAF11, FEM1B, FEM1C
+protein deneddylation: 5 proteins: COPS3, COPS6, COPS7A, COPS7B, COPS8
+ protein neddylation: 5 proteins: COPS3, COPS6, COPS7A, COPS7B, COPS8
+Cul2-RING ubiquitin ligase complex: 4 proteins: GLMN, APPBP2, FEM1B, FEM1C
+ubiquitin-dependent protein catabolic process: 4 proteins: COPS3, CUL4B, FEM1C, RNF7
+ubiquitin protein ligase binding: 3 proteins: GLMN, CUL4A, CUL4B
+ proteasomal ubiquitin-dependent protein catabolic process: 3 proteins: GLMN, SOCS4, SOCS5
+Cul4A-RING E3 ubiquitin ligase complex: 3 proteins: GLMN, CUL4A, CUL4B
+ubiquitin ligase-substrate adaptor activity: 3 proteins: APPBP2, FEM1B, FEM1C
+perinuclear region of cytoplasm: 3 proteins: COPS3, COPS6, COPS8
+COP9 signalosome assembly: 3 proteins: COPS7A, COPS7B, COPS8
+cellular response to UV: 3 proteins: COPS9, CUL4A, CUL4B
+Cul4-RING E3 ubiquitin ligase complex: 3 proteins: CUL4A, CUL4B, DCAF11
+intracellular signal transduction: 3 proteins: KCTD9, SOCS4, SOCS5
+negative regulation of cell population proliferation: 2 proteins: GLMN, COPS8
+in utero embryonic development: 2 proteins: COPS3, CUL4A
+extracellular exosome: 2 proteins: COPS8, CUL4B
+ cell population proliferation: 2 proteins: COPS9, CUL4A
+ubiquitin protein ligase activity: 2 proteins: CUL4A, RNF7
+G1/S transition of mitotic cell cycle: 2 proteins: CUL4A, CUL4B
+DNA damage response: 2 proteins: CUL4A, CUL4B
+ribosome biogenesis: 2 proteins: CUL4A, CUL4B
+ protein catabolic process: 2 proteins: CUL4A, CUL4B
+ G1/S transition of mitotic cell cycle: 2 proteins: CUL4A, CUL4B
+ DNA damage checkpoint: 2 proteins: CUL4A, FEM1B
+ubiquitin-dependent protein catabolic process via the C-end degron rule pathway: 2 proteins: FEM1B, FEM1C
+cullin family protein binding: 2 proteins: KCTD9, RNF7
+1-phosphatidylinositol-3-kinase regulator activity: 2 proteins: SOCS4, SOCS5
+negative regulation of epidermal growth factor-activated receptor activity: 2 proteins: SOCS4, SOCS5
+phosphatidylinositol phosphate biosynthetic process: 2 proteins: SOCS4, SOCS5
+phosphatidylinositol 3-kinase complex: 2 proteins: SOCS4, SOCS5

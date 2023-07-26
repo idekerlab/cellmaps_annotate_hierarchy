@@ -1,0 +1,31 @@
+Your response should be formatted as Markdown paragraphs
+Write a critical and concise analysis of this human protein system, describing your reasoning as you go and providing references to scientific papers.
+
+A critical goal of the analysis is to determine if this is a novel complex or if any proteins are novel members of a known complex
+
+Format with Title, Summary, and References sections.        
+Avoid overly general statements of how the proteins are involved in various cellular processes        
+Avoid repeating the goals of the analysis.
+
+What cellular components and complexes are involved in this system?
+What mechanisms and biological processes are performed by this system?
+Propose a name for the system to reflect the cellular location and function, and should be specific but brief. Do not compose an acronym. Place it as the title of your report
+Human Proteins: TFIP11, WASHC5, INTS8, AP5Z1, CD226, EPG5, GADD45A, NCAPD3, PI4KA, RUFY2, SMG1.
+
+System features from GO terms: 
+protein binding: 10 proteins: TFIP11, WASHC5, INTS8, AP5Z1, CD226, EPG5, GADD45A, NCAPD3, PI4KA, SMG1
+nucleoplasm: 7 proteins: TFIP11, WASHC5, INTS8, AP5Z1, GADD45A, NCAPD3, SMG1
+cytoplasm: 7 proteins: TFIP11, AP5Z1, EPG5, GADD45A, PI4KA, RUFY2, SMG1
+nucleus: 5 proteins: INTS8, AP5Z1, GADD45A, RUFY2, SMG1
+nuclear speck: 3 proteins: TFIP11, AP5Z1, GADD45A
+cytosol: 3 proteins: WASHC5, PI4KA, SMG1
+protein transport: 2 proteins: WASHC5, AP5Z1
+endosomal transport: 2 proteins: WASHC5, AP5Z1
+endosome: 2 proteins: WASHC5, RUFY2
+signal transduction: 2 proteins: CD226, PI4KA
+plasma membrane: 2 proteins: CD226, PI4KA
+DNA repair: 2 proteins: GADD45A, SMG1
+membrane: 2 proteins: NCAPD3, PI4KA
+ATP binding: 2 proteins: PI4KA, SMG1
+phosphatidylinositol phosphate biosynthetic process: 2 proteins: PI4KA, SMG1
+metal ion binding: 2 proteins: RUFY2, SMG1

@@ -1,0 +1,30 @@
+Feature	Number of Genes	Genes
+protein binding	4	WSB1, TOMM22, TOMM20, SPSB3
+protein targeting to mitochondrion	3	TOMM22, TOMM20, TOMM5
+protein insertion into mitochondrial outer membrane	3	TOMM22, TOMM20, TOMM5
+mitochondrion	3	TOMM22, TOMM20, TOMM5
+mitochondrial outer membrane	3	TOMM22, TOMM20, TOMM5
+mitochondrial outer membrane translocase complex	3	TOMM22, TOMM20, TOMM5
+cytosol	2	WSB1, SPSB3
+protein transmembrane transporter activity	2	TOMM22, TOMM20
+ubiquitin protein ligase activity	1	WSB1
+protein polyubiquitination	1	WSB1
+biological_process	1	WSB1
+intracellular signal transduction	1	WSB1
+protein K27-linked ubiquitination	1	WSB1
+protein aggregate center assembly	1	WSB1
+positive regulation of apoptotic process	1	TOMM22
+protein transmembrane transport	1	TOMM22
+membrane	1	TOMM22
+protein-transporting ATPase activity	1	TOMM20
+mitochondrion targeting sequence binding	1	TOMM20
+unfolded protein binding	1	TOMM20
+tRNA import into mitochondrion	1	TOMM20
+protein import into mitochondrial matrix	1	TOMM20
+mitochondria-associated endoplasmic reticulum membrane	1	TOMM20
+cell periphery	1	TOMM20
+sperm midpiece	1	TOMM20
+migrasome	1	TOMM20
+protein ubiquitination	1	SPSB3
+proteasome-mediated ubiquitin-dependent protein catabolic process	1	SPSB3
+SCF ubiquitin ligase complex	1	SPSB3

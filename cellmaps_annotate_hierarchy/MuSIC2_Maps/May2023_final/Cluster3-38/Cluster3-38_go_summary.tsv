@@ -1,0 +1,199 @@
+Feature	Number of Genes	Genes
+protein binding	13	ARIH1, CDC34, FBXO4, FBXO44, FBXW2, HNRNPA2B1, HNRNPA3, HNRNPDL, HNRNPL, HNRNPR, HNRNPU, KIF20A, PSME3
+nucleoplasm	10	ARIH1, CDC34, HNRNPA2B1, HNRNPA3, HNRNPDL, HNRNPL, HNRNPR, HNRNPU, KIF20A, PSME3
+nucleus	9	ARIH1, CDC34, HNRNPA2B1, HNRNPA3, HNRNPL, HNRNPR, HNRNPU, KIF20A, PSME3
+cytosol	9	ARIH1, CDC34, FBXO4, FBXO44, FBXW2, HNRNPDL, HNRNPL, HNRNPU, PSME3
+cytoplasm	7	ARIH1, FBXO4, FBXO44, HNRNPA2B1, HNRNPA3, HNRNPL, PSME3
+RNA binding	6	HNRNPA2B1, HNRNPA3, HNRNPDL, HNRNPL, HNRNPR, HNRNPU
+ribonucleoprotein complex	5	HNRNPA2B1, HNRNPA3, HNRNPL, HNRNPR, HNRNPU
+ubiquitin-protein transferase activity	4	ARIH1, CDC34, FBXO4, FBXW2
+mRNA splicing, via spliceosome	4	HNRNPA2B1, HNRNPA3, HNRNPR, HNRNPU
+membrane	4	HNRNPA2B1, HNRNPL, HNRNPU, PSME3
+catalytic step 2 spliceosome	4	HNRNPA2B1, HNRNPA3, HNRNPR, HNRNPU
+ubiquitin protein ligase activity	3	ARIH1, FBXO4, FBXO44
+protein polyubiquitination	3	ARIH1, CDC34, FBXO4
+protein ubiquitination	3	ARIH1, CDC34, FBXO4
+ATP binding	3	CDC34, HNRNPU, KIF20A
+mRNA 3'-UTR binding	3	HNRNPA2B1, HNRNPL, HNRNPU
+mRNA processing	3	HNRNPA2B1, HNRNPL, HNRNPR
+mRNA binding	3	HNRNPA3, HNRNPL, HNRNPR
+ubiquitin-dependent protein catabolic process	2	ARIH1, CDC34
+ubiquitin ligase complex	2	ARIH1, FBXO4
+Cajal body	2	ARIH1, HNRNPA2B1
+protein modification process	2	CDC34, FBXW2
+nuclear speck	2	CDC34, HNRNPU
+SCF-dependent proteasomal ubiquitin-dependent protein catabolic process	2	FBXO4, FBXO44
+SCF ubiquitin ligase complex	2	FBXO4, FBXO44
+pre-mRNA intronic binding	2	HNRNPA2B1, HNRNPL
+negative regulation of transcription by RNA polymerase II	2	HNRNPA2B1, HNRNPU
+negative regulation of mRNA splicing, via spliceosome	2	HNRNPA2B1, HNRNPL
+spliceosomal complex	2	HNRNPA2B1, HNRNPR
+nuclear matrix	2	HNRNPA2B1, HNRNPU
+extracellular exosome	2	HNRNPA2B1, HNRNPL
+ribonucleoprotein granule	2	HNRNPA3, HNRNPL
+DNA binding	2	HNRNPDL, HNRNPU
+poly(A) binding	2	HNRNPDL, HNRNPU
+poly(G) binding	2	HNRNPDL, HNRNPU
+ alternative mRNA splicing, via spliceosome	2	HNRNPL, HNRNPU
+RNA processing	2	HNRNPL, HNRNPU
+identical protein binding	2	HNRNPU, PSME3
+cell cycle	2	HNRNPU, PSME3
+midbody	2	HNRNPU, KIF20A
+zinc ion binding	1	ARIH1
+ubiquitin-like protein transferase activity	1	ARIH1
+ubiquitin conjugating enzyme binding	1	ARIH1
+ubiquitin protein ligase binding	1	ARIH1
+ proteasomal ubiquitin-dependent protein catabolic process	1	ARIH1
+nuclear body	1	ARIH1
+Lewy body	1	ARIH1
+ubiquitin conjugating enzyme activity	1	CDC34
+G1/S transition of mitotic cell cycle	1	CDC34
+DNA replication initiation	1	CDC34
+cellular response to interferon-beta	1	CDC34
+proteasome-mediated ubiquitin-dependent protein catabolic process	1	CDC34
+ neuron apoptotic process	1	CDC34
+negative regulation of cAMP-mediated signaling	1	CDC34
+response to growth factor	1	CDC34
+protein K48-linked ubiquitination	1	CDC34
+ inclusion body assembly	1	CDC34
+protein homodimerization activity	1	FBXO4
+ubiquitin ligase-substrate adaptor activity	1	FBXO4
+post-transcriptional regulation of gene expression	1	FBXO4
+cellular homeostasis	1	FBXO4
+ protein ubiquitination	1	FBXO4
+ protein stability	1	FBXO4
+protein destabilization	1	FBXO4
+ telomere maintenance via telomerase	1	FBXO4
+common myeloid progenitor cell proliferation	1	FBXO4
+negative regulation of fibroblast proliferation	1	FBXO4
+cellular response to ionizing radiation	1	FBXO4
+cellular senescence	1	FBXO4
+negative regulation of protein localization to nucleus	1	FBXO4
+ protein polyubiquitination	1	FBXO4
+ DNA damage checkpoint	1	FBXO4
+glycoprotein catabolic process	1	FBXO44
+proteasomal protein catabolic process	1	FBXO44
+ubiquitin-dependent ERAD pathway	1	FBXO44
+proteolysis	1	FBXW2
+miRNA binding	1	HNRNPA2B1
+single-stranded telomeric DNA binding	1	HNRNPA2B1
+G-rich strand telomeric DNA binding	1	HNRNPA2B1
+molecular condensate scaffold activity	1	HNRNPA2B1
+N6-methyladenosine-containing RNA binding	1	HNRNPA2B1
+mRNA export from nucleus	1	HNRNPA2B1
+primary miRNA processing	1	HNRNPA2B1
+G-quadruplex DNA unwinding	1	HNRNPA2B1
+RNA transport	1	HNRNPA2B1
+ telomere maintenance via telomere lengthening	1	HNRNPA2B1
+ telomerase RNA reverse transcriptase activity	1	HNRNPA2B1
+miRNA transport	1	HNRNPA2B1
+chromosome, telomeric region	1	HNRNPA2B1
+RNA transmembrane transporter activity	1	HNRNPA3
+mRNA transport	1	HNRNPA3
+postsynaptic density	1	HNRNPA3
+neuron projection	1	HNRNPA3
+glutamatergic synapse	1	HNRNPA3
+messenger ribonucleoprotein complex	1	HNRNPA3
+ gene expression	1	HNRNPDL
+transcription cis-regulatory region binding	1	HNRNPL
+mRNA CDS binding	1	HNRNPL
+circadian rhythm	1	HNRNPL
+cellular response to amino acid starvation	1	HNRNPL
+ RNA splicing	1	HNRNPL
+ translation	1	HNRNPL
+negative regulation of DNA-templated transcription	1	HNRNPL
+response to peptide	1	HNRNPL
+ mRNA binding	1	HNRNPL
+chromatin	1	HNRNPL
+perinuclear region of cytoplasm	1	HNRNPL
+nucleolus	1	HNRNPR
+endoplasmic reticulum	1	HNRNPR
+RNA polymerase II cis-regulatory region sequence-specific DNA binding	1	HNRNPU
+RNA polymerase II complex binding	1	HNRNPU
+TFIIH-class transcription factor complex binding	1	HNRNPU
+chromatin binding	1	HNRNPU
+double-stranded DNA binding	1	HNRNPU
+single-stranded DNA binding	1	HNRNPU
+transcription corepressor activity	1	HNRNPU
+double-stranded RNA binding	1	HNRNPU
+single-stranded RNA binding	1	HNRNPU
+actin binding	1	HNRNPU
+snRNA binding	1	HNRNPU
+poly(C) RNA binding	1	HNRNPU
+chromatin DNA binding	1	HNRNPU
+pre-mRNA binding	1	HNRNPU
+ribonucleoprotein complex binding	1	HNRNPU
+protein-containing complex binding	1	HNRNPU
+telomerase RNA binding	1	HNRNPU
+RNA polymerase II C-terminal domain binding	1	HNRNPU
+lncRNA binding	1	HNRNPU
+sequence-specific double-stranded DNA binding	1	HNRNPU
+promoter-specific chromatin binding	1	HNRNPU
+osteoblast differentiation	1	HNRNPU
+chromatin organization	1	HNRNPU
+ mitotic cell cycle	1	HNRNPU
+dosage compensation by inactivation of X chromosome	1	HNRNPU
+negative regulation of telomere maintenance via telomerase	1	HNRNPU
+circadian regulation of gene expression	1	HNRNPU
+negative regulation of kinase activity	1	HNRNPU
+negative regulation of transcription elongation by RNA polymerase II	1	HNRNPU
+ transcription by RNA polymerase II	1	HNRNPU
+mRNA stabilization	1	HNRNPU
+cell division	1	HNRNPU
+maintenance of protein location in nucleus	1	HNRNPU
+cardiac muscle cell development	1	HNRNPU
+CRD-mediated mRNA stabilization	1	HNRNPU
+cellular response to glucocorticoid stimulus	1	HNRNPU
+ brown fat cell differentiation	1	HNRNPU
+dendritic transport of messenger ribonucleoprotein complex	1	HNRNPU
+negative regulation of nuclear-transcribed mRNA catabolic process, deadenylation-dependent decay	1	HNRNPU
+ mitotic spindle assembly	1	HNRNPU
+ chromatin organization	1	HNRNPU
+ attachment of mitotic spindle microtubules to kinetochore	1	HNRNPU
+protein localization to spindle microtubule	1	HNRNPU
+RNA localization to chromatin	1	HNRNPU
+cellular response to leukemia inhibitory factor	1	HNRNPU
+adaptive thermogenesis	1	HNRNPU
+ DNA topoisomerase (ATP-hydrolyzing) activity	1	HNRNPU
+ stem cell proliferation	1	HNRNPU
+negative regulation of stem cell differentiation	1	HNRNPU
+ cytoplasmic translation	1	HNRNPU
+nuclear chromosome	1	HNRNPU
+kinetochore	1	HNRNPU
+spindle pole	1	HNRNPU
+telomerase holoenzyme complex	1	HNRNPU
+centrosome	1	HNRNPU
+cell surface	1	HNRNPU
+dendrite cytoplasm	1	HNRNPU
+protein-containing complex	1	HNRNPU
+cytoplasmic ribonucleoprotein granule	1	HNRNPU
+CRD-mediated mRNA stability complex	1	HNRNPU
+mitotic spindle	1	HNRNPU
+inactive sex chromosome	1	HNRNPU
+mitotic spindle midzone	1	HNRNPU
+mitotic spindle microtubule	1	HNRNPU
+microtubule motor activity	1	KIF20A
+microtubule binding	1	KIF20A
+ATP hydrolysis activity	1	KIF20A
+protein kinase binding	1	KIF20A
+mitotic cytokinesis	1	KIF20A
+microtubule bundle formation	1	KIF20A
+microtubule-based movement	1	KIF20A
+protein transport	1	KIF20A
+ cytokinesis	1	KIF20A
+midbody abscission	1	KIF20A
+Golgi apparatus	1	KIF20A
+spindle	1	KIF20A
+kinesin complex	1	KIF20A
+microtubule	1	KIF20A
+intercellular bridge	1	KIF20A
+p53 binding	1	PSME3
+endopeptidase activator activity	1	PSME3
+MDM2/MDM4 family protein binding	1	PSME3
+apoptotic process	1	PSME3
+ endopeptidase activity	1	PSME3
+ proteasomal protein catabolic process	1	PSME3
+ G1/S transition of mitotic cell cycle	1	PSME3
+negative regulation of extrinsic apoptotic signaling pathway	1	PSME3
+proteasome complex	1	PSME3
+proteasome activator complex	1	PSME3

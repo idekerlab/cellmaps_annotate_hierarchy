@@ -1,0 +1,134 @@
+Feature	Number of Genes	Genes
+mitochondrion	7	AIFM1, COX7A2L, GFER, HTRA2, MIX23, PDHA1, UQCRC1
+protein binding	6	AIFM1, GFER, HTRA2, PDHA1, STK38, UQCRC1
+nucleus	4	AIFM1, HTRA2, PDHA1, STK38
+mitochondrial intermembrane space	4	AIFM1, GFER, HTRA2, MIX23
+cytosol	4	AIFM1, GFER, HTRA2, STK38
+mitochondrial inner membrane	3	AIFM1, COX7A2L, UQCRC1
+ apoptotic process	2	AIFM1, HTRA2
+cytoplasm	2	AIFM1, STK38
+proton transmembrane transport	2	COX7A2L, UQCRC1
+nucleolus	2	COX7A2L, PDHA1
+mitochondrial respirasome	2	COX7A2L, UQCRC1
+DNA binding	1	AIFM1
+NADH dehydrogenase activity	1	AIFM1
+NAD(P)H oxidase H2O2-forming activity	1	AIFM1
+oxidoreductase activity, acting on NAD(P)H	1	AIFM1
+protein dimerization activity	1	AIFM1
+FAD binding	1	AIFM1
+poly-ADP-D-ribose binding	1	AIFM1
+response to ischemia	1	AIFM1
+apoptotic process	1	AIFM1
+activation of cysteine-type endopeptidase activity involved in apoptotic process	1	AIFM1
+response to toxic substance	1	AIFM1
+chromosome condensation	1	AIFM1
+mitochondrial respiratory chain complex assembly	1	AIFM1
+ neuron apoptotic process	1	AIFM1
+protein import into mitochondrial intermembrane space	1	AIFM1
+neuron apoptotic process	1	AIFM1
+ necroptotic process	1	AIFM1
+intrinsic apoptotic signaling pathway in response to endoplasmic reticulum stress	1	AIFM1
+cellular response to hydrogen peroxide	1	AIFM1
+cellular response to estradiol stimulus	1	AIFM1
+cellular response to nitric oxide	1	AIFM1
+cellular response to oxygen-glucose deprivation	1	AIFM1
+response to L-glutamate	1	AIFM1
+ apoptotic DNA fragmentation	1	AIFM1
+cellular response to aldosterone	1	AIFM1
+perinuclear region of cytoplasm	1	AIFM1
+cytochrome-c oxidase activity	1	COX7A2L
+ oxidative phosphorylation	1	COX7A2L
+mitochondrial electron transport, cytochrome c to oxygen	1	COX7A2L
+mitochondrial respirasome assembly	1	COX7A2L
+mitochondrial respiratory chain complex IV	1	COX7A2L
+growth factor activity	1	GFER
+protein-disulfide reductase activity	1	GFER
+flavin-linked sulfhydryl oxidase activity	1	GFER
+flavin adenine dinucleotide binding	1	GFER
+liver development	1	GFER
+signal transduction	1	GFER
+negative regulation of apoptotic process	1	GFER
+negative regulation of natural killer cell mediated cytotoxicity	1	GFER
+cellular response to lipopolysaccharide	1	GFER
+cellular response to tumor necrosis factor	1	GFER
+cellular response to actinomycin D	1	GFER
+cellular response to toxic substance	1	GFER
+liver regeneration	1	GFER
+negative regulation of oxidative stress-induced neuron death	1	GFER
+ DNA biosynthetic process	1	GFER
+extracellular space	1	GFER
+serine-type endopeptidase activity	1	HTRA2
+peptidase activity	1	HTRA2
+serine-type peptidase activity	1	HTRA2
+identical protein binding	1	HTRA2
+unfolded protein binding	1	HTRA2
+proteolysis	1	HTRA2
+ceramide metabolic process	1	HTRA2
+mitochondrion organization	1	HTRA2
+adult walking behavior	1	HTRA2
+intrinsic apoptotic signaling pathway in response to DNA damage	1	HTRA2
+response to herbicide	1	HTRA2
+ mitochondrion organization	1	HTRA2
+programmed cell death	1	HTRA2
+protein autoprocessing	1	HTRA2
+pentacyclic triterpenoid metabolic process	1	HTRA2
+protein catabolic process	1	HTRA2
+forebrain development	1	HTRA2
+cellular response to oxidative stress	1	HTRA2
+cellular response to heat	1	HTRA2
+cellular response to interferon-beta	1	HTRA2
+ multicellular organism growth	1	HTRA2
+ cysteine-type endopeptidase activity involved in apoptotic process	1	HTRA2
+negative regulation of cell cycle	1	HTRA2
+neuron development	1	HTRA2
+cellular response to retinoic acid	1	HTRA2
+cellular response to growth factor stimulus	1	HTRA2
+execution phase of apoptosis	1	HTRA2
+negative regulation of neuron death	1	HTRA2
+negative regulation of oxidative stress-induced intrinsic apoptotic signaling pathway	1	HTRA2
+ autophagy of mitochondrion	1	HTRA2
+ protein targeting to mitochondrion	1	HTRA2
+negative regulation of mitophagy in response to mitochondrial depolarization	1	HTRA2
+ extrinsic apoptotic signaling pathway in absence of ligand	1	HTRA2
+ cysteine-type endopeptidase activity involved in apoptotic signaling pathway	1	HTRA2
+chromatin	1	HTRA2
+endoplasmic reticulum	1	HTRA2
+endoplasmic reticulum membrane	1	HTRA2
+cytoskeleton	1	HTRA2
+cytoplasmic side of plasma membrane	1	HTRA2
+membrane	1	HTRA2
+mitochondrial membrane	1	HTRA2
+CD40 receptor complex	1	HTRA2
+serine-type endopeptidase complex	1	HTRA2
+pyruvate dehydrogenase (acetyl-transferring) activity	1	PDHA1
+pyruvate dehydrogenase (NAD+) activity	1	PDHA1
+glucose metabolic process	1	PDHA1
+acetyl-CoA biosynthetic process from pyruvate	1	PDHA1
+tricarboxylic acid cycle	1	PDHA1
+mitochondrial matrix	1	PDHA1
+mitochondrial pyruvate dehydrogenase complex	1	PDHA1
+pyruvate dehydrogenase complex	1	PDHA1
+magnesium ion binding	1	STK38
+protein serine/threonine kinase activity	1	STK38
+ATP binding	1	STK38
+mitogen-activated protein kinase kinase kinase binding	1	STK38
+cadherin binding	1	STK38
+protein serine kinase activity	1	STK38
+protein phosphorylation	1	STK38
+peptidyl-serine phosphorylation	1	STK38
+intracellular signal transduction	1	STK38
+protein modification process	1	STK38
+negative regulation of MAP kinase activity	1	STK38
+postsynapse organization	1	STK38
+glutamatergic synapse	1	STK38
+ubiquinol-cytochrome-c reductase activity	1	UQCRC1
+ubiquitin protein ligase binding	1	UQCRC1
+protein-containing complex binding	1	UQCRC1
+metal ion binding	1	UQCRC1
+oxidative phosphorylation	1	UQCRC1
+mitochondrial electron transport, ubiquinol to cytochrome c	1	UQCRC1
+aerobic respiration	1	UQCRC1
+response to activity	1	UQCRC1
+response to alkaloid	1	UQCRC1
+cellular respiration	1	UQCRC1
+mitochondrial respiratory chain complex III	1	UQCRC1

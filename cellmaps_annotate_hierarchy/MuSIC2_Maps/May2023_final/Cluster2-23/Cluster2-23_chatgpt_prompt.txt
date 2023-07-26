@@ -1,0 +1,59 @@
+Your response should be formatted as Markdown paragraphs
+Write a critical and concise analysis of this human protein system, describing your reasoning as you go and providing references to scientific papers.
+
+A critical goal of the analysis is to determine if this is a novel complex or if any proteins are novel members of a known complex
+
+Format with Title, Summary, and References sections.        
+Avoid overly general statements of how the proteins are involved in various cellular processes        
+Avoid repeating the goals of the analysis.
+
+What cellular components and complexes are involved in this system?
+What mechanisms and biological processes are performed by this system?
+Propose a name for the system to reflect the cellular location and function, and should be specific but brief. Do not compose an acronym. Place it as the title of your report
+Human Proteins: TBPL1, FBXO10, FBXO33, SMCR8, ZRANB3, RBM43, TRIM33, CGAS, RAC1, MPG, PPM1D, ZBTB9, ALKBH2, B4GALT2, FBXL6, GTF3C5, KLHDC10, KMT5C, PHIP, PIF1, PLEKHG2, PRIM2, SLF1, SLX1A, SMARCAL1, TAF6L, TASOR, TSEN34, WDR90, ZC3H3.
+
+System features from GO terms: 
+protein binding: 25 proteins: TBPL1, FBXO10, FBXO33, SMCR8, ZRANB3, RBM43, TRIM33, CGAS, RAC1, MPG, PPM1D, ZBTB9, ALKBH2, GTF3C5, KLHDC10, KMT5C, PHIP, PLEKHG2, PRIM2, SLF1, SLX1A, SMARCAL1, TAF6L, TASOR, WDR90
+nucleoplasm: 19 proteins: SMCR8, ZRANB3, TRIM33, CGAS, MPG, PPM1D, ALKBH2, B4GALT2, GTF3C5, KLHDC10, KMT5C, PIF1, PRIM2, SLF1, SLX1A, SMARCAL1, TAF6L, TASOR, TSEN34
+nucleus: 12 proteins: TRIM33, CGAS, RAC1, PPM1D, ZBTB9, ALKBH2, KMT5C, PHIP, SLF1, SMARCAL1, TAF6L, ZC3H3
+metal ion binding: 9 proteins: ZRANB3, CGAS, PPM1D, ZBTB9, B4GALT2, KMT5C, PRIM2, SLX1A, ZC3H3
+cytoplasm: 8 proteins: TBPL1, FBXO10, SMCR8, CGAS, RAC1, KLHDC10, SLF1, WDR90
+cytosol: 6 proteins: FBXO10, CGAS, RAC1, MPG, PPM1D, PLEKHG2
+DNA repair: 6 proteins: ZRANB3, CGAS, KMT5C, PIF1, SLX1A, SMARCAL1
+DNA binding: 6 proteins: TRIM33, CGAS, GTF3C5, PRIM2, TAF6L, ZC3H3
+protein ubiquitination: 4 proteins: FBXO10, FBXO33, TRIM33, KLHDC10
+ATP binding: 4 proteins: ZRANB3, CGAS, PIF1, SMARCAL1
+chromatin remodeling: 4 proteins: ZRANB3, KMT5C, SMARCAL1, TAF6L
+DNA damage response: 4 proteins: ZRANB3, CGAS, SLF1, SMARCAL1
+ transcription by RNA polymerase II: 4 proteins: ZBTB9, PHIP, SMARCAL1, TAF6L
+ubiquitin-protein transferase activity: 3 proteins: FBXO10, TRIM33, FBXL6
+chromatin binding: 3 proteins: CGAS, KMT5C, TASOR
+site of double-strand break: 3 proteins: CGAS, SLF1, SMARCAL1
+nucleolus: 3 proteins: PPM1D, ALKBH2, TSEN34
+RNA polymerase II general transcription initiation factor activity: 2 proteins: TBPL1, TAF6L
+SCF-dependent proteasomal ubiquitin-dependent protein catabolic process: 2 proteins: FBXO33, FBXL6
+SCF ubiquitin ligase complex: 2 proteins: FBXO33, FBXL6
+guanyl-nucleotide exchange factor activity: 2 proteins: SMCR8, PLEKHG2
+protein kinase binding: 2 proteins: SMCR8, RAC1
+postsynapse: 2 proteins: SMCR8, RAC1
+ATP-dependent DNA/DNA annealing activity: 2 proteins: ZRANB3, SMARCAL1
+ATP-dependent chromatin remodeler activity: 2 proteins: ZRANB3, SMARCAL1
+replication fork processing: 2 proteins: ZRANB3, SMARCAL1
+nuclear replication fork: 2 proteins: ZRANB3, SMARCAL1
+RNA binding: 2 proteins: RBM43, TASOR
+R-SMAD binding: 2 proteins: TRIM33, ZC3H3
+GTP binding: 2 proteins: CGAS, RAC1
+plasma membrane: 2 proteins: CGAS, RAC1
+protein-containing complex binding: 2 proteins: RAC1, SLF1
+ protein phosphorylation: 2 proteins: RAC1, PHIP
+ cell shape: 2 proteins: RAC1, PHIP
+extracellular exosome: 2 proteins: RAC1, TAF6L
+DNA dealkylation involved in DNA repair: 2 proteins: MPG, ALKBH2
+negative regulation of gene expression, epigenetic: 2 proteins: PPM1D, TASOR
+heterochromatin: 2 proteins: KMT5C, TASOR
+ DNA-templated transcription: 2 proteins: PHIP, TAF6L
+ telomere maintenance: 2 proteins: PIF1, SLF1
+chromosome, telomeric region: 2 proteins: PIF1, SLF1
+double-strand break repair via homologous recombination: 2 proteins: SLF1, SLX1A
+centrosome: 2 proteins: SLF1, WDR90
+t-circle formation: 2 proteins: SLX1A, SMARCAL1

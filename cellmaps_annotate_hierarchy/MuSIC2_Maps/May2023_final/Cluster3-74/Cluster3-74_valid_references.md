@@ -1,0 +1,4 @@
+### Validated References: 
+[1] Qian, Xiaohang, Liu, Xiaoying, Zhu, Zeyu, Wang, Shige, Song, Xiaoxuan, Chen, Guang, Wu, Jingying, Cao, Yuwen, Luan, Xinghua, Tang, Huidong, Cao, Li. "Variants in <i>LAMC3</i> Causes Occipital Cortical Malformation." Frontiers in genetics, 2021, pp. 616761.
+[2] Richardson, Adam E, Zentz, Zachary A, Chambers, Antonio E, Sandwith, Siara N, Reisinger, Michael A, Saunders, Destinee W, Tompkins, Joshua D, Riggs, Arthur D, Routh, Eric D, Rubenstein, Eric M, Smaldino, Melissa A, Vaughn, James P, Haney, Robert A, Smaldino, Philip J. "G-Quadruplex Helicase DHX36/G4R1 Engages Nuclear Lamina Proteins in Quiescent Breast Cancer Cells." ACS omega, 2020, pp. 24916-24926.
+[3] Brune, Thomas, Kunze-Schumacher, Heike, Kölling, Ralf. "Interactions in the ESCRT-III network of the yeast Saccharomyces cerevisiae." Current genetics, 2019, pp. 607-619.

@@ -1,0 +1,50 @@
+Feature	Number of Genes	Genes
+protein binding	3	ZFAND2B, TP53TG5, UCHL5
+cytoplasm	3	ZFAND2B, TP53TG5, UCHL5
+nucleolus	3	SURF2, TP53TG5, UCHL5
+molecular_function	2	SURF2, TP53TG5
+nucleoplasm	2	SURF2, UCHL5
+nucleus	2	TP53TG5, UCHL5
+zinc ion binding	1	ZFAND2B
+K48-linked polyubiquitin modification-dependent protein binding	1	ZFAND2B
+ubiquitin binding	1	ZFAND2B
+SRP-dependent cotranslational protein targeting to membrane, translocation	1	ZFAND2B
+proteasome-mediated ubiquitin-dependent protein catabolic process	1	ZFAND2B
+ insulin-like growth factor receptor signaling pathway	1	ZFAND2B
+protein targeting to ER	1	ZFAND2B
+endoplasmic reticulum	1	ZFAND2B
+endoplasmic reticulum membrane	1	ZFAND2B
+membrane	1	ZFAND2B
+biological_process	1	SURF2
+plasma membrane	1	SURF2
+nuclear speck	1	SURF2
+negative regulation of cell growth	1	TP53TG5
+intracellular signal transduction	1	TP53TG5
+chromosome	1	TP53TG5
+RNA binding	1	UCHL5
+cysteine-type deubiquitinase activity	1	UCHL5
+endopeptidase inhibitor activity	1	UCHL5
+proteasome binding	1	UCHL5
+telomere maintenance	1	UCHL5
+ DNA replication	1	UCHL5
+DNA repair	1	UCHL5
+ DNA repair	1	UCHL5
+DNA recombination	1	UCHL5
+chromatin remodeling	1	UCHL5
+ubiquitin-dependent protein catabolic process	1	UCHL5
+protein deubiquitination	1	UCHL5
+lateral ventricle development	1	UCHL5
+midbrain development	1	UCHL5
+negative regulation of proteasomal ubiquitin-dependent protein catabolic process	1	UCHL5
+ chromosome organization	1	UCHL5
+ smoothened signaling pathway	1	UCHL5
+ DNA-templated transcription	1	UCHL5
+ embryonic development	1	UCHL5
+forebrain morphogenesis	1	UCHL5
+ cell cycle	1	UCHL5
+ DNA strand elongation	1	UCHL5
+ proteasomal protein catabolic process	1	UCHL5
+ telomere maintenance in response to DNA damage	1	UCHL5
+cytosol	1	UCHL5
+Ino80 complex	1	UCHL5
+cytosolic proteasome complex	1	UCHL5

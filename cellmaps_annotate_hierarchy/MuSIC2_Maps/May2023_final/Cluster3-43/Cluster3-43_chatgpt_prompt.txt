@@ -1,0 +1,37 @@
+Your response should be formatted as Markdown paragraphs
+Write a critical and concise analysis of this human protein system, describing your reasoning as you go and providing references to scientific papers.
+
+A critical goal of the analysis is to determine if this is a novel complex or if any proteins are novel members of a known complex
+
+Format with Title, Summary, and References sections.        
+Avoid overly general statements of how the proteins are involved in various cellular processes        
+Avoid repeating the goals of the analysis.
+
+What cellular components and complexes are involved in this system?
+What mechanisms and biological processes are performed by this system?
+Propose a name for the system to reflect the cellular location and function, and should be specific but brief. Do not compose an acronym. Place it as the title of your report
+Human Proteins: XAB2, CTNNBL1, CDC5L, ESS2, ISY1-RAB43, SNW1, YJU2, ZDBF2, ZHX1, ZNF830.
+
+System features from GO terms: 
+protein binding: 8 proteins: XAB2, CTNNBL1, CDC5L, ESS2, SNW1, YJU2, ZHX1, ZNF830
+nucleus: 8 proteins: XAB2, CTNNBL1, CDC5L, ESS2, SNW1, ZDBF2, ZHX1, ZNF830
+nucleoplasm: 7 proteins: XAB2, CTNNBL1, CDC5L, SNW1, YJU2, ZHX1, ZNF830
+mRNA splicing, via spliceosome: 5 proteins: XAB2, CTNNBL1, CDC5L, ESS2, SNW1
+catalytic step 2 spliceosome: 4 proteins: XAB2, CDC5L, ESS2, SNW1
+spliceosomal complex: 4 proteins: CTNNBL1, CDC5L, SNW1, ZNF830
+Prp19 complex: 3 proteins: XAB2, CTNNBL1, CDC5L
+membrane: 3 proteins: XAB2, CTNNBL1, CDC5L
+U2-type catalytic step 2 spliceosome: 3 proteins: XAB2, CDC5L, SNW1
+ transcription by RNA polymerase II: 3 proteins: CDC5L, SNW1, ZHX1
+nuclear speck: 3 proteins: CDC5L, SNW1, ZNF830
+generation of catalytic spliceosome for first transesterification step: 2 proteins: XAB2, YJU2
+enzyme binding: 2 proteins: CTNNBL1, SNW1
+DNA-binding transcription factor activity, RNA polymerase II-specific: 2 proteins: CDC5L, ZHX1
+DNA binding: 2 proteins: CDC5L, ZHX1
+RNA binding: 2 proteins: CDC5L, SNW1
+negative regulation of transcription by RNA polymerase II: 2 proteins: SNW1, ZHX1
+negative regulation of DNA-templated transcription: 2 proteins: SNW1, ZHX1
+metal ion binding: 2 proteins: YJU2, ZHX1
+RNA splicing: 2 proteins: YJU2, ZNF830
+nucleic acid binding: 2 proteins: ZDBF2, ZNF830
+zinc ion binding: 2 proteins: ZDBF2, ZNF830

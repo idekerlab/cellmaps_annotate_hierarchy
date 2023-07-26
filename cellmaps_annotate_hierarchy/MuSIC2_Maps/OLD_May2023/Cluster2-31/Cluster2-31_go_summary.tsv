@@ -1,0 +1,232 @@
+Feature	Number of Genes	Genes
+protein binding	20	GORASP2, OSBP, TRAF3IP2, FAM174A, USO1, CCDC25, AGFG1, RAB1B, RFK, CD99, OSBPL11, UBQLN1, PPP5C, TPK1, QNG1, GGA1, SNX5, NUCB2, CWF19L1, OSBPL9
+cytosol	13	OSBP, USO1, AGFG1, RAB1B, RFK, OSBPL11, UBQLN1, PPP5C, TPK1, GGA1, SNX5, NUCB2, OSBPL9
+Golgi apparatus	8	GORASP2, OSBP, USO1, RAB1B, OSBPL11, GGA1, NUCB2, OSBPL9
+membrane	7	GORASP2, OSBP, FAM174A, USO1, OSBPL11, GGA1, OSBPL9
+intracellular membrane-bounded organelle	7	OSBP, AGFG1, OSBPL11, PPP5C, GGA1, SNX5, OSBPL9
+plasma membrane	6	RNPEP, CCDC25, CD99, UBQLN1, PPP5C, NUCB2
+nucleoplasm	5	OSBP, OSBPL11, UBQLN1, PPP5C, GGA1
+cytoplasm	5	OSBP, AGFG1, RFK, CD99, UBQLN1
+perinuclear region of cytoplasm	5	OSBP, USO1, RAB1B, UBQLN1, SNX5
+Golgi membrane	4	GORASP2, OSBP, USO1, RAB1B
+intracellular protein transport	4	USO1, RAB1B, GGA1, SNX5
+endoplasmic reticulum membrane	3	GORASP2, OSBP, RAB1B
+sterol transporter activity	3	OSBP, OSBPL11, OSBPL9
+sterol binding	3	OSBP, OSBPL11, OSBPL9
+sterol transport	3	OSBP, OSBPL11, OSBPL9
+cellular_component	3	TRAF3IP2, QNG1, CWF19L1
+cytoplasmic vesicle	3	TRAF3IP2, AGFG1, UBQLN1
+extracellular exosome	3	RNPEP, RAB1B, NUCB2
+RNA binding	3	USO1, AGFG1, PPP5C
+endoplasmic reticulum	3	USO1, UBQLN1, NUCB2
+DNA binding	3	CCDC25, AGFG1, NUCB2
+metal ion binding	3	AGFG1, RFK, PPP5C
+ATP binding	3	RFK, PPP5C, TPK1
+identical protein binding	3	UBQLN1, PPP5C, TPK1
+protein-containing complex	3	UBQLN1, PPP5C, GGA1
+molecular_function	3	QNG1, GGA1, CWF19L1
+Golgi organization	2	GORASP2, RAB1B
+response to endoplasmic reticulum stress	2	GORASP2, UBQLN1
+phosphatidylinositol-4-phosphate binding	2	OSBP, SNX5
+bile acid biosynthetic process	2	OSBP, OSBPL9
+trans-Golgi network	2	OSBP, GGA1
+positive regulation of I-kappaB kinase/NF-kappaB signaling	2	TRAF3IP2, PPP5C
+nucleus	2	TRAF3IP2, PPP5C
+extracellular space	2	RNPEP, NUCB2
+cadherin binding	2	USO1, SNX5
+endoplasmic reticulum to Golgi vesicle-mediated transport	2	USO1, RAB1B
+small GTPase mediated signal transduction	2	USO1, NUCB2
+transport vesicle	2	USO1, RAB1B
+endomembrane system	2	CCDC25, RAB1B
+autophagosome assembly	2	RAB1B, UBQLN1
+phosphorylation	2	RFK, TPK1
+late endosome membrane	2	OSBPL11, OSBPL9
+regulation of macroautophagy	2	UBQLN1, SNX5
+biological_process	2	QNG1, CWF19L1
+phosphatidylinositol binding	2	GGA1, SNX5
+retrograde transport, endosome to Golgi	2	GGA1, SNX5
+organelle organization	1	GORASP2
+spermatogenesis	1	GORASP2
+cell differentiation	1	GORASP2
+establishment of protein localization to plasma membrane	1	GORASP2
+organelle assembly	1	GORASP2
+cis-Golgi network	1	GORASP2
+oxysterol binding	1	OSBP
+protein domain specific binding	1	OSBP
+sterol transfer activity	1	OSBP
+sphingomyelin biosynthetic process	1	OSBP
+phospholipid transport	1	OSBP
+intracellular cholesterol transport	1	OSBP
+ceramide transport	1	OSBP
+positive regulation of insulin secretion involved in cellular response to glucose stimulus	1	OSBP
+positive regulation of tyrosine phosphorylation of STAT protein	1	OSBP
+intermembrane lipid transfer	1	OSBP
+positive regulation of secretory granule organization	1	OSBP
+nucleolus	1	OSBP
+cell junction	1	OSBP
+signaling receptor binding	1	TRAF3IP2
+ubiquitin protein ligase activity	1	TRAF3IP2
+establishment of T cell polarity	1	TRAF3IP2
+B cell homeostasis	1	TRAF3IP2
+B cell apoptotic process	1	TRAF3IP2
+kidney development	1	TRAF3IP2
+positive regulation of defense response to virus by host	1	TRAF3IP2
+leukocyte activation involved in inflammatory response	1	TRAF3IP2
+transitional two stage B cell differentiation	1	TRAF3IP2
+B cell affinity maturation	1	TRAF3IP2
+eosinophil mediated immunity	1	TRAF3IP2
+protein import into nucleus	1	TRAF3IP2
+inflammatory response	1	TRAF3IP2
+humoral immune response	1	TRAF3IP2
+heart development	1	TRAF3IP2
+response to xenobiotic stimulus	1	TRAF3IP2
+signal transduction involved in regulation of gene expression	1	TRAF3IP2
+CD40 signaling pathway	1	TRAF3IP2
+T cell differentiation	1	TRAF3IP2
+tumor necrosis factor-mediated signaling pathway	1	TRAF3IP2
+intracellular signal transduction	1	TRAF3IP2
+interleukin-17A-mediated signaling pathway	1	TRAF3IP2
+type 2 immune response	1	TRAF3IP2
+neutrophil activation	1	TRAF3IP2
+skin development	1	TRAF3IP2
+mRNA stabilization	1	TRAF3IP2
+lymph node development	1	TRAF3IP2
+spleen development	1	TRAF3IP2
+mucus secretion	1	TRAF3IP2
+protein K63-linked ubiquitination	1	TRAF3IP2
+T-helper 17 type immune response	1	TRAF3IP2
+interleukin-17-mediated signaling pathway	1	TRAF3IP2
+protein localization to P-body	1	TRAF3IP2
+eosinophil homeostasis	1	TRAF3IP2
+extrinsic component of cytoplasmic side of plasma membrane	1	TRAF3IP2
+aminopeptidase activity	1	RNPEP
+epoxide hydrolase activity	1	RNPEP
+metalloexopeptidase activity	1	RNPEP
+zinc ion binding	1	RNPEP
+metalloaminopeptidase activity	1	RNPEP
+proteolysis	1	RNPEP
+extracellular region	1	RNPEP
+secretory granule localization	1	USO1
+transcytosis	1	USO1
+Golgi vesicle docking	1	USO1
+vesicle fusion with Golgi apparatus	1	USO1
+membrane fusion	1	USO1
+regulation of cellular response to insulin stimulus	1	USO1
+fibrillar center	1	USO1
+Golgi stack	1	USO1
+microtubule organizing center	1	USO1
+ER to Golgi transport vesicle membrane	1	USO1
+positive regulation of cell motility	1	CCDC25
+GTPase activator activity	1	AGFG1
+acrosome assembly	1	AGFG1
+mRNA export from nucleus	1	AGFG1
+spermatid nucleus differentiation	1	AGFG1
+intermediate filament organization	1	AGFG1
+nuclear pore	1	AGFG1
+GTPase activity	1	RAB1B
+G protein activity	1	RAB1B
+GTP binding	1	RAB1B
+virion assembly	1	RAB1B
+establishment of endothelial intestinal barrier	1	RAB1B
+positive regulation of glycoprotein metabolic process	1	RAB1B
+regulation of autophagosome assembly	1	RAB1B
+endoplasmic reticulum-Golgi intermediate compartment membrane	1	RAB1B
+phagophore assembly site membrane	1	RAB1B
+riboflavin kinase activity	1	RFK
+riboflavin metabolic process	1	RFK
+apoptotic process	1	RFK
+riboflavin biosynthetic process	1	RFK
+FMN biosynthetic process	1	RFK
+positive regulation of NAD(P)H oxidase activity	1	RFK
+reactive oxygen species metabolic process	1	RFK
+mitochondrion	1	RFK
+homotypic cell-cell adhesion	1	CD99
+T cell extravasation	1	CD99
+positive regulation of neutrophil extravasation	1	CD99
+focal adhesion	1	CD99
+positive regulation of sequestering of triglyceride	1	OSBPL11
+fat cell differentiation	1	OSBPL11
+kinase binding	1	UBQLN1
+polyubiquitin modification-dependent protein binding	1	UBQLN1
+macroautophagy	1	UBQLN1
+ubiquitin-dependent ERAD pathway	1	UBQLN1
+regulation of protein ubiquitination	1	UBQLN1
+positive regulation of protein ubiquitination	1	UBQLN1
+negative regulation of toll-like receptor 3 signaling pathway	1	UBQLN1
+aggrephagy	1	UBQLN1
+cellular response to hypoxia	1	UBQLN1
+autophagosome maturation	1	UBQLN1
+negative regulation of store-operated calcium channel activity	1	UBQLN1
+regulation of oxidative stress-induced intrinsic apoptotic signaling pathway	1	UBQLN1
+positive regulation of ER-associated ubiquitin-dependent protein catabolic process	1	UBQLN1
+proteasome complex	1	UBQLN1
+autophagosome	1	UBQLN1
+aggresome	1	UBQLN1
+phosphoprotein phosphatase activity	1	PPP5C
+protein serine/threonine phosphatase activity	1	PPP5C
+lipid binding	1	PPP5C
+phosphatase activity	1	PPP5C
+myosin phosphatase activity	1	PPP5C
+ADP binding	1	PPP5C
+tau protein binding	1	PPP5C
+Hsp90 protein binding	1	PPP5C
+molecular adaptor activity	1	PPP5C
+MAPK cascade	1	PPP5C
+mitotic cell cycle	1	PPP5C
+double-strand break repair	1	PPP5C
+DNA-templated transcription	1	PPP5C
+protein dephosphorylation	1	PPP5C
+response to lead ion	1	PPP5C
+peptidyl-threonine dephosphorylation	1	PPP5C
+response to morphine	1	PPP5C
+peptidyl-serine dephosphorylation	1	PPP5C
+response to arachidonic acid	1	PPP5C
+protein folding chaperone complex	1	PPP5C
+thiamine diphosphokinase activity	1	TPK1
+kinase activity	1	TPK1
+thiamine binding	1	TPK1
+thiamine metabolic process	1	TPK1
+thiamine diphosphate biosynthetic process	1	TPK1
+nucleoside salvage	1	QNG1
+tRNA-guanine transglycosylation	1	QNG1
+small GTPase binding	1	GGA1
+ubiquitin binding	1	GGA1
+Golgi to plasma membrane transport	1	GGA1
+protein localization	1	GGA1
+protein catabolic process	1	GGA1
+protein localization to cell surface	1	GGA1
+Golgi to plasma membrane protein transport	1	GGA1
+positive regulation of protein catabolic process	1	GGA1
+toxin transport	1	GGA1
+protein localization to ciliary membrane	1	GGA1
+early endosome	1	GGA1
+endosome membrane	1	GGA1
+early endosome membrane	1	GGA1
+phosphatidylinositol-5-phosphate binding	1	SNX5
+D1 dopamine receptor binding	1	SNX5
+dynactin binding	1	SNX5
+phosphatidylinositol-3,5-bisphosphate binding	1	SNX5
+pinocytosis	1	SNX5
+epidermal growth factor catabolic process	1	SNX5
+positive regulation of renal sodium excretion	1	SNX5
+negative regulation of blood pressure	1	SNX5
+positive regulation of DNA-templated transcription	1	SNX5
+positive regulation of insulin receptor signaling pathway	1	SNX5
+ruffle	1	SNX5
+phagocytic cup	1	SNX5
+endosome	1	SNX5
+brush border	1	SNX5
+cytoplasmic side of plasma membrane	1	SNX5
+retromer complex	1	SNX5
+retromer, tubulation complex	1	SNX5
+macropinocytic cup	1	SNX5
+tubular endosome	1	SNX5
+cytoplasmic side of early endosome membrane	1	SNX5
+G-protein alpha-subunit binding	1	NUCB2
+guanyl-nucleotide exchange factor activity	1	NUCB2
+calcium ion binding	1	NUCB2
+nuclear envelope	1	NUCB2
+endoplasmic reticulum-Golgi intermediate compartment	1	NUCB2
+RNA lariat debranching enzyme activator activity	1	CWF19L1
+mRNA splicing, via spliceosome	1	CWF19L1
+post-mRNA release spliceosomal complex	1	CWF19L1

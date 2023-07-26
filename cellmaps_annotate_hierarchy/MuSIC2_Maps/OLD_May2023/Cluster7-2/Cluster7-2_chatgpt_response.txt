@@ -1,0 +1,17 @@
+Title: Mitochondrial Small Ribosomal Subunit Complex with LRP2 and SMG5
+
+Summary:
+The system of proteins analyzed in this study consists of LRP2, MRPS10, MRPS14, MRPS15, MRPS2, MRPS21, MRPS26, MRPS27, MRPS34, MRPS5, and SMG5. The majority of these proteins (9 out of 11) are involved in mitochondrial translation, mitochondrial inner membrane, and mitochondrial small ribosomal subunit, suggesting that this system is primarily associated with the mitochondrial small ribosomal subunit complex. The two remaining proteins, LRP2 and SMG5, are involved in protein binding and may interact with the mitochondrial small ribosomal subunit complex. This system is involved in various biological processes, including translation, RNA binding, and cell population proliferation. The proposed name for this system is the "Mitochondrial Small Ribosomal Subunit Complex with LRP2 and SMG5."
+
+Cellular Components and Complexes:
+The primary cellular components involved in this system are the mitochondrial small ribosomal subunit, mitochondrial inner membrane, and mitochondrion. The proteins MRPS10, MRPS14, MRPS15, MRPS2, MRPS21, MRPS26, MRPS27, MRPS34, and MRPS5 are all associated with these components. Additionally, LRP2 and SMG5 are involved in protein binding and may interact with the mitochondrial small ribosomal subunit complex.
+
+Mechanisms and Biological Processes:
+The main biological processes performed by this system are mitochondrial translation, RNA binding, and translation. These processes are carried out by the proteins MRPS14, MRPS15, MRPS2, MRPS21, MRPS26, MRPS34, and MRPS5, which are structural constituents of the ribosome. Furthermore, LRP2 and MRPS27 are involved in cell population proliferation, while MRPS15 and MRPS26 are associated with the nucleoplasm and nucleolus. Lastly, MRPS27 and SMG5 are found in the cytoplasm.
+
+References:
+1. Amunts, A., Brown, A., Toots, J., Scheres, S. H. W., & Ramakrishnan, V. (2015). The structure of the human mitochondrial ribosome. Science, 348(6230), 95-98. [PubMed](https://pubmed.ncbi.nlm.nih.gov/25838379/)
+2. Greber, B. J., Bieri, P., Leibundgut, M., Leitner, A., Aebersold, R., Boehringer, D., & Ban, N. (2015). Ribosome. The complete structure of the 55S mammalian mitochondrial ribosome. Science, 348(6232), 303-308. [PubMed](https://pubmed.ncbi.nlm.nih.gov/25837513/)
+3. Richter, R., Rorbach, J., Pajak, A., Smith, P. M., Wessels, H. J., Huynen, M. A., ... & Minczuk, M. (2010). A functional peptidyl-tRNA hydrolase, ICT1, has been recruited into the human mitochondrial ribosome. The EMBO journal, 29(6), 1116-1125. [PubMed](https://pubmed.ncbi.nlm.nih.gov/20150897/)
+4. Sharma, M. R., Koc, E. C., Datta, P. P., Booth, T. M., Spremulli, L. L., & Agrawal, R. K. (2003). Structure of the mammalian mitochondrial ribosome reveals an expanded functional role for its component proteins. Cell, 115(1), 97-108. [PubMed](https://pubmed.ncbi.nlm.nih.gov/14532004/)
+5. Tsuboi, M., Morita, H., Nozaki, Y., Akama, K., Ueda, T., Ito, K., ... & Endo, T. (2009). EF-G2mt is an exclusive recycling factor in mammalian mitochondrial protein synthesis. Molecular cell, 35(4), 502-510. [PubMed](https://pubmed.ncbi.nlm.nih.gov/19716795/)

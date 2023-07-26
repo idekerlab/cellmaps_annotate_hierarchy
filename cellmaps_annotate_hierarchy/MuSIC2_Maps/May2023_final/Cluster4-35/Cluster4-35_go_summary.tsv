@@ -1,0 +1,97 @@
+Feature	Number of Genes	Genes
+protein binding	4	RABL6, AP3S1, ARHGEF18, TGFBR3
+intracellular protein transport	2	AP3S2, AP3S1
+Golgi to vacuole transport	2	AP3S2, AP3S1
+anterograde axonal transport	2	AP3S2, AP3S1
+synaptic vesicle coating	2	AP3S2, AP3S1
+vesicle-mediated transport	2	AP3S2, AP3S1
+clathrin-coated vesicle cargo loading, AP-3-mediated	2	AP3S2, AP3S1
+synaptic vesicle recycling	2	AP3S2, AP3S1
+intracellular transport	2	AP3S2, AP3S1
+anterograde synaptic vesicle transport	2	AP3S2, AP3S1
+platelet dense granule organization	2	AP3S2, AP3S1
+melanosome assembly	2	AP3S2, AP3S1
+early endosome	2	AP3S2, AP3S1
+Golgi apparatus	2	AP3S2, AP3S1
+AP-3 adaptor complex	2	AP3S2, AP3S1
+cytoplasmic vesicle membrane	2	AP3S2, AP3S1
+intracellular membrane-bounded organelle	2	AP3S2, AP3S1
+presynapse	2	AP3S2, AP3S1
+axon cytoplasm	2	AP3S2, AP3S1
+cytoplasm	2	RABL6, TGFBR3
+cytosol	2	RABL6, ARHGEF18
+plasma membrane	2	ARHGEF18, TGFBR3
+extracellular exosome	2	ARHGEF18, TGFBR3
+GTPase activity	1	RABL6
+GTP binding	1	RABL6
+nucleus	1	RABL6
+centrosome	1	RABL6
+insulin receptor signaling pathway	1	AP3S1
+AP-type membrane coat adaptor complex	1	AP3S1
+transport vesicle	1	AP3S1
+guanyl-nucleotide exchange factor activity	1	ARHGEF18
+metal ion binding	1	ARHGEF18
+small GTPase mediated signal transduction	1	ARHGEF18
+ cell shape	1	ARHGEF18
+actin cytoskeleton organization	1	ARHGEF18
+ Rho protein signal transduction	1	ARHGEF18
+negative regulation of stress fiber assembly	1	ARHGEF18
+protein localization to cell-cell junction	1	ARHGEF18
+cytoskeleton	1	ARHGEF18
+apical plasma membrane	1	ARHGEF18
+cell junction	1	ARHGEF18
+apical part of cell	1	ARHGEF18
+transforming growth factor beta receptor activity	1	TGFBR3
+type II transforming growth factor beta receptor binding	1	TGFBR3
+transforming growth factor beta receptor binding	1	TGFBR3
+glycosaminoglycan binding	1	TGFBR3
+heparin binding	1	TGFBR3
+coreceptor activity	1	TGFBR3
+fibroblast growth factor binding	1	TGFBR3
+PDZ domain binding	1	TGFBR3
+SMAD binding	1	TGFBR3
+activin binding	1	TGFBR3
+transforming growth factor beta binding	1	TGFBR3
+transforming growth factor beta receptor activity, type III	1	TGFBR3
+response to hypoxia	1	TGFBR3
+epithelial to mesenchymal transition	1	TGFBR3
+liver development	1	TGFBR3
+heart morphogenesis	1	TGFBR3
+muscular septum morphogenesis	1	TGFBR3
+outflow tract morphogenesis	1	TGFBR3
+ventricular compact myocardium morphogenesis	1	TGFBR3
+immune response	1	TGFBR3
+transforming growth factor beta receptor signaling pathway	1	TGFBR3
+transforming growth factor beta receptor complex assembly	1	TGFBR3
+cell migration	1	TGFBR3
+BMP signaling pathway	1	TGFBR3
+ transforming growth factor beta receptor signaling pathway	1	TGFBR3
+negative regulation of transforming growth factor beta receptor signaling pathway	1	TGFBR3
+animal organ regeneration	1	TGFBR3
+response to follicle-stimulating hormone	1	TGFBR3
+response to prostaglandin E	1	TGFBR3
+response to luteinizing hormone	1	TGFBR3
+intracellular signal transduction	1	TGFBR3
+ protein binding	1	TGFBR3
+ JNK cascade	1	TGFBR3
+negative regulation of epithelial cell proliferation	1	TGFBR3
+ventricular cardiac muscle tissue morphogenesis	1	TGFBR3
+cardiac muscle cell proliferation	1	TGFBR3
+ cardiac muscle cell proliferation	1	TGFBR3
+definitive hemopoiesis	1	TGFBR3
+cardiac epithelial to mesenchymal transition	1	TGFBR3
+definitive erythrocyte differentiation	1	TGFBR3
+heart trabecula formation	1	TGFBR3
+pathway-restricted SMAD protein phosphorylation	1	TGFBR3
+ventricular septum morphogenesis	1	TGFBR3
+epicardium-derived cardiac fibroblast cell development	1	TGFBR3
+vasculogenesis involved in coronary vascular morphogenesis	1	TGFBR3
+heart trabecula morphogenesis	1	TGFBR3
+secondary palate development	1	TGFBR3
+ ERK1 and ERK2 cascade	1	TGFBR3
+extracellular space	1	TGFBR3
+external side of plasma membrane	1	TGFBR3
+cell surface	1	TGFBR3
+extracellular matrix	1	TGFBR3
+inhibin-betaglycan-ActRII complex	1	TGFBR3
+receptor complex	1	TGFBR3

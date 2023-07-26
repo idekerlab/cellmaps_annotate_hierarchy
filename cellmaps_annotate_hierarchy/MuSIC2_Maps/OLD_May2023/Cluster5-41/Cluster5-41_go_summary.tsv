@@ -1,0 +1,68 @@
+Feature	Number of Genes	Genes
+mitochondrion	4	SLC25A6, LONP1, MTIF2, PRELID1
+protein binding	3	SLC25A6, LONP1, PRELID1
+nucleoplasm	3	LONP1, MTIF2, PRELID1
+apoptotic process	2	SLC25A6, PRELID1
+membrane	2	SLC25A6, LONP1
+ATP:ADP antiporter activity	1	SLC25A6
+mitochondrial ADP transmembrane transport	1	SLC25A6
+negative regulation of mitochondrial outer membrane permeabilization involved in apoptotic signaling pathway	1	SLC25A6
+mitochondrial ATP transmembrane transport	1	SLC25A6
+nucleus	1	SLC25A6
+mitochondrial inner membrane	1	SLC25A6
+TIM23 mitochondrial import inner membrane translocase complex	1	SLC25A6
+mitochondrial promoter sequence-specific DNA binding	1	LONP1
+single-stranded DNA binding	1	LONP1
+single-stranded RNA binding	1	LONP1
+ATP-dependent peptidase activity	1	LONP1
+serine-type endopeptidase activity	1	LONP1
+ATP binding	1	LONP1
+ATP hydrolysis activity	1	LONP1
+PH domain binding	1	LONP1
+identical protein binding	1	LONP1
+ADP binding	1	LONP1
+insulin receptor substrate binding	1	LONP1
+sequence-specific DNA binding	1	LONP1
+G-quadruplex DNA binding	1	LONP1
+DNA polymerase binding	1	LONP1
+mitochondrial genome maintenance	1	LONP1
+response to hypoxia	1	LONP1
+protein quality control for misfolded or incompletely synthesized proteins	1	LONP1
+mitochondrion organization	1	LONP1
+response to hormone	1	LONP1
+response to aluminum ion	1	LONP1
+mitochondrial DNA metabolic process	1	LONP1
+cellular response to oxidative stress	1	LONP1
+negative regulation of insulin receptor signaling pathway	1	LONP1
+regulation of peptidyl-tyrosine phosphorylation	1	LONP1
+chaperone-mediated protein complex assembly	1	LONP1
+proteolysis involved in protein catabolic process	1	LONP1
+oxidation-dependent protein catabolic process	1	LONP1
+mitochondrial matrix	1	LONP1
+cytosol	1	LONP1
+mitochondrial nucleoid	1	LONP1
+RNA binding	1	MTIF2
+translation initiation factor activity	1	MTIF2
+GTPase activity	1	MTIF2
+GTP binding	1	MTIF2
+translation factor activity, RNA binding	1	MTIF2
+ribosomal small subunit binding	1	MTIF2
+regulation of translational initiation	1	MTIF2
+ribosome disassembly	1	MTIF2
+mitochondrial translational initiation	1	MTIF2
+cytoplasm	1	MTIF2
+phosphatidic acid transfer activity	1	PRELID1
+negative regulation of mitochondrial membrane potential	1	PRELID1
+positive regulation of endopeptidase activity	1	PRELID1
+phospholipid transport	1	PRELID1
+negative regulation of apoptotic process	1	PRELID1
+regulation of T cell differentiation	1	PRELID1
+regulation of mitochondrial membrane potential	1	PRELID1
+positive regulation of T cell apoptotic process	1	PRELID1
+negative regulation of release of cytochrome c from mitochondria	1	PRELID1
+regulation of membrane lipid distribution	1	PRELID1
+intermembrane lipid transfer	1	PRELID1
+positive regulation of cellular respiration	1	PRELID1
+positive regulation of phospholipid transport	1	PRELID1
+mitochondrial intermembrane space	1	PRELID1
+protein-containing complex	1	PRELID1

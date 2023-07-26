@@ -1,0 +1,374 @@
+Feature	Number of Genes	Genes
+plasma membrane	24	NOTCH1, PIK3CB, PCDH10, PTPRA, PCDH18, PCDHB5, PCDHB14, CDH24, FAT4, CTNND2, TMEM98, PCDHA12, PCDHA6, PCDHGA10, PCDHGA11, PCDHGA4, PCDHGA5, PCDHGA6, PCDHGB2, PCDHGB4, PCDHGB5, PCDHGB7, PCDHGC3, PCDHGC4
+calcium ion binding	20	NOTCH1, PCDH10, PCDH18, PCDHB5, PCDHB14, CDH24, FAT4, PCDHA12, PCDHA6, PCDHGA10, PCDHGA11, PCDHGA4, PCDHGA5, PCDHGA6, PCDHGB2, PCDHGB4, PCDHGB5, PCDHGB7, PCDHGC3, PCDHGC4
+homophilic cell adhesion via plasma membrane adhesion molecules	20	PIK3CB, PCDH10, PCDH18, PCDHB5, PCDHB14, CDH24, FAT4, PCDHA12, PCDHA6, PCDHGA10, PCDHGA11, PCDHGA4, PCDHGA5, PCDHGA6, PCDHGB2, PCDHGB4, PCDHGB5, PCDHGB7, PCDHGC3, PCDHGC4
+cell adhesion	18	PCDH10, PCDH18, PCDHB5, PCDHB14, CTNND2, PCDHA12, PCDHA6, PCDHGA10, PCDHGA11, PCDHGA4, PCDHGA5, PCDHGA6, PCDHGB2, PCDHGB4, PCDHGB5, PCDHGB7, PCDHGC3, PCDHGC4
+protein binding	16	TOP3B, TDRD3, NOTCH1, PIK3CB, UBASH3B, SPANXB1, PTPRA, PCDH18, PCDHB14, MYEOV, BOLA2, FAT4, CTNND2, GET4, TMEM98, PCDHGA4
+nervous system development	14	PCDH10, PCDHA12, PCDHA6, PCDHGA10, PCDHGA11, PCDHGA4, PCDHGA5, PCDHGA6, PCDHGB2, PCDHGB4, PCDHGB5, PCDHGB7, PCDHGC3, PCDHGC4
+nucleus	9	TOP3B, TDRD3, MYRF, NOTCH1, PIK3CB, UBASH3B, SPANXB1, BOLA2, CTNND2
+cytosol	7	TDRD3, MYRF, NOTCH1, PIK3CB, BOLA2, GET4, SPECC1
+membrane	7	PTPRA, PCDHB5, PCDHB14, GXYLT2, SPECC1, PCDHGB4, PCDHGC3
+nucleoplasm	6	TDRD3, MYRF, NOTCH1, PIK3CB, GET4, SPECC1
+cytoplasm	6	PIK3CB, UBASH3B, SPANXB1, BOLA2, CTNND2, GET4
+calcium-dependent cell-cell adhesion via plasma membrane cell adhesion molecules	5	PCDHB5, PCDHB14, CDH24, PCDHGB4, PCDHGC3
+extracellular exosome	4	PTPRA, FAT4, TMEM98, PCDHGB5
+ DNA-templated transcription	3	TDRD3, MYRF, NOTCH1
+endoplasmic reticulum membrane	3	MYRF, NOTCH1, TMEM98
+adherens junction	3	NOTCH1, CDH24, CTNND2
+nucleolus	3	PIK3CB, GET4, HUS1B
+synapse organization	3	CTNND2, PCDHGC3, PCDHGC4
+RNA binding	2	TOP3B, TDRD3
+transcription coactivator activity	2	TDRD3, NOTCH1
+Golgi apparatus	2	TDRD3, MYRF
+ transcription by RNA polymerase II	2	MYRF, NOTCH1
+central nervous system myelination	2	MYRF, B4GALT5
+oligodendrocyte differentiation	2	MYRF, NOTCH1
+identical protein binding	2	NOTCH1, UBASH3B
+ gene expression	2	NOTCH1, PIK3CB
+negative regulation of oligodendrocyte differentiation	2	NOTCH1, TMEM98
+negative regulation of canonical Wnt signaling pathway	2	NOTCH1, DKKL1
+Golgi membrane	2	NOTCH1, B4GALT5
+acrosomal vesicle	2	NOTCH1, DKKL1
+extracellular region	2	NOTCH1, PCDHA6
+receptor complex	2	NOTCH1, PTPRA
+signal transduction	2	PIK3CB, CTNND2
+platelet aggregation	2	PIK3CB, UBASH3B
+intracellular membrane-bounded organelle	2	PIK3CB, SPECC1
+protein tyrosine phosphatase activity	2	UBASH3B, PTPRA
+O-glycan processing	2	B4GALT5, GXYLT2
+ protein stability	2	B4GALT5, GET4
+molecular_function	2	SPANXB1, PCDHGB5
+chemical synaptic transmission	2	PCDHB5, PCDHB14
+synapse assembly	2	PCDHB5, PCDHB14
+synapse	2	PCDHB5, PCDHB14
+cadherin binding	2	CDH24, CTNND2
+cell-cell junction assembly	2	CDH24, CTNND2
+cell-cell adhesion	2	CDH24, CTNND2
+extracellular space	2	DKKL1, TMEM98
+negative regulation of neuron apoptotic process	2	PCDHGC3, PCDHGC4
+DNA binding	1	TOP3B
+DNA topoisomerase activity	1	TOP3B
+DNA topoisomerase type I (single strand cut, ATP-independent) activity	1	TOP3B
+DNA topological change	1	TOP3B
+chromosome segregation	1	TOP3B
+condensed chromosome	1	TOP3B
+DNA topoisomerase III-beta-TDRD3 complex	1	TOP3B
+chromatin binding	1	TDRD3
+methylated histone binding	1	TDRD3
+chromatin organization	1	TDRD3
+DNA-binding transcription factor activity, RNA polymerase II-specific	1	MYRF
+DNA-binding transcription factor activity	1	MYRF
+peptidase activity	1	MYRF
+sequence-specific DNA binding	1	MYRF
+oligodendrocyte development	1	MYRF
+protein autoprocessing	1	MYRF
+ myelination	1	MYRF
+central nervous system myelin maintenance	1	MYRF
+enzyme inhibitor activity	1	NOTCH1
+transmembrane signaling receptor activity	1	NOTCH1
+Notch binding	1	NOTCH1
+enzyme binding	1	NOTCH1
+chromatin DNA binding	1	NOTCH1
+transcription regulator activator activity	1	NOTCH1
+negative regulation of transcription by RNA polymerase II	1	NOTCH1
+luteolysis	1	NOTCH1
+in utero embryonic development	1	NOTCH1
+epithelial to mesenchymal transition	1	NOTCH1
+liver development	1	NOTCH1
+heart looping	1	NOTCH1
+sprouting angiogenesis	1	NOTCH1
+ neuroblast proliferation	1	NOTCH1
+inhibition of neuroepithelial cell differentiation	1	NOTCH1
+inflammatory response to antigenic stimulus	1	NOTCH1
+outflow tract morphogenesis	1	NOTCH1
+endocardium development	1	NOTCH1
+endocardium morphogenesis	1	NOTCH1
+atrioventricular node development	1	NOTCH1
+coronary vein morphogenesis	1	NOTCH1
+aortic valve morphogenesis	1	NOTCH1
+atrioventricular valve morphogenesis	1	NOTCH1
+coronary sinus valve morphogenesis	1	NOTCH1
+pulmonary valve morphogenesis	1	NOTCH1
+mitral valve formation	1	NOTCH1
+epithelial to mesenchymal transition involved in endocardial cushion formation	1	NOTCH1
+endocardial cushion morphogenesis	1	NOTCH1
+cardiac chamber formation	1	NOTCH1
+cardiac ventricle morphogenesis	1	NOTCH1
+cardiac atrium morphogenesis	1	NOTCH1
+cardiac right atrium morphogenesis	1	NOTCH1
+cardiac left ventricle morphogenesis	1	NOTCH1
+cardiac right ventricle formation	1	NOTCH1
+ventricular trabecula myocardium morphogenesis	1	NOTCH1
+growth involved in heart morphogenesis	1	NOTCH1
+negative regulation of cell proliferation involved in heart valve morphogenesis	1	NOTCH1
+Notch signaling pathway involved in regulation of secondary heart field cardioblast proliferation	1	NOTCH1
+cell migration involved in endocardial cushion formation	1	NOTCH1
+negative regulation of extracellular matrix constituent secretion	1	NOTCH1
+pericardium morphogenesis	1	NOTCH1
+transcription by RNA polymerase II	1	NOTCH1
+protein import into nucleus	1	NOTCH1
+immune response	1	NOTCH1
+humoral immune response	1	NOTCH1
+Notch signaling pathway	1	NOTCH1
+ transcription of Notch receptor target	1	NOTCH1
+spermatogenesis	1	NOTCH1
+determination of left/right symmetry	1	NOTCH1
+compartment pattern specification	1	NOTCH1
+axon guidance	1	NOTCH1
+foregut morphogenesis	1	NOTCH1
+endoderm development	1	NOTCH1
+heart development	1	NOTCH1
+ cell population proliferation	1	NOTCH1
+negative regulation of cell population proliferation	1	NOTCH1
+auditory receptor cell fate commitment	1	NOTCH1
+epidermal cell fate specification	1	NOTCH1
+negative regulation of cardiac muscle hypertrophy	1	NOTCH1
+negative regulation of gene expression	1	NOTCH1
+negative regulation of cell-substrate adhesion	1	NOTCH1
+negative regulation of myotube differentiation	1	NOTCH1
+mesenchymal cell development	1	NOTCH1
+ somitogenesis	1	NOTCH1
+calcium-ion regulated exocytosis	1	NOTCH1
+cell differentiation in spinal cord	1	NOTCH1
+neural tube development	1	NOTCH1
+protein catabolic process	1	NOTCH1
+keratinocyte differentiation	1	NOTCH1
+negative regulation of ossification	1	NOTCH1
+lung development	1	NOTCH1
+ cell migration	1	NOTCH1
+ BMP signaling pathway	1	NOTCH1
+negative regulation of BMP signaling pathway	1	NOTCH1
+forebrain development	1	NOTCH1
+hair follicle morphogenesis	1	NOTCH1
+animal organ regeneration	1	NOTCH1
+response to corticosteroid	1	NOTCH1
+response to muramyl dipeptide	1	NOTCH1
+response to lipopolysaccharide	1	NOTCH1
+negative regulation of collagen biosynthetic process	1	NOTCH1
+embryonic hindlimb morphogenesis	1	NOTCH1
+tube formation	1	NOTCH1
+skeletal muscle cell differentiation	1	NOTCH1
+cellular response to vascular endothelial growth factor stimulus	1	NOTCH1
+tissue regeneration	1	NOTCH1
+retinal cone cell differentiation	1	NOTCH1
+negative regulation of catalytic activity	1	NOTCH1
+ viral genome replication	1	NOTCH1
+ endothelial cell differentiation	1	NOTCH1
+negative regulation of inner ear auditory receptor cell differentiation	1	NOTCH1
+ keratinocyte differentiation	1	NOTCH1
+negative regulation of myoblast differentiation	1	NOTCH1
+negative regulation of osteoblast differentiation	1	NOTCH1
+ Notch signaling pathway	1	NOTCH1
+negative regulation of DNA-templated transcription	1	NOTCH1
+negative regulation of calcium ion-dependent exocytosis	1	NOTCH1
+ receptor signaling pathway via JAK-STAT	1	NOTCH1
+negative regulation of photoreceptor cell differentiation	1	NOTCH1
+ Ras protein signal transduction	1	NOTCH1
+somatic stem cell division	1	NOTCH1
+astrocyte differentiation	1	NOTCH1
+ astrocyte differentiation	1	NOTCH1
+branching morphogenesis of an epithelial tube	1	NOTCH1
+homeostasis of number of cells within a tissue	1	NOTCH1
+epithelial cell proliferation	1	NOTCH1
+ epithelial cell proliferation	1	NOTCH1
+negative regulation of epithelial cell proliferation	1	NOTCH1
+negative regulation of neurogenesis	1	NOTCH1
+cardiac muscle tissue morphogenesis	1	NOTCH1
+cardiac muscle cell proliferation	1	NOTCH1
+ cardiac muscle cell proliferation	1	NOTCH1
+negative regulation of glial cell proliferation	1	NOTCH1
+cilium assembly	1	NOTCH1
+cardiac epithelial to mesenchymal transition	1	NOTCH1
+negative regulation of cell adhesion molecule production	1	NOTCH1
+cardiac muscle cell myoblast differentiation	1	NOTCH1
+cardiac septum morphogenesis	1	NOTCH1
+ventricular septum morphogenesis	1	NOTCH1
+secretory columnal luminar epithelial cell differentiation involved in prostate glandular acinus development	1	NOTCH1
+prostate gland epithelium morphogenesis	1	NOTCH1
+ epithelial cell proliferation involved in prostate gland development	1	NOTCH1
+arterial endothelial cell differentiation	1	NOTCH1
+venous endothelial cell differentiation	1	NOTCH1
+cardiac vascular smooth muscle cell development	1	NOTCH1
+endocardial cell differentiation	1	NOTCH1
+vasculogenesis involved in coronary vascular morphogenesis	1	NOTCH1
+coronary artery morphogenesis	1	NOTCH1
+neuroendocrine cell differentiation	1	NOTCH1
+Notch signaling involved in heart development	1	NOTCH1
+heart trabecula morphogenesis	1	NOTCH1
+ cardiac epithelial to mesenchymal transition	1	NOTCH1
+negative regulation of biomineral tissue development	1	NOTCH1
+ ERK1 and ERK2 cascade	1	NOTCH1
+left/right axis specification	1	NOTCH1
+cellular response to tumor cell	1	NOTCH1
+cellular response to follicle-stimulating hormone stimulus	1	NOTCH1
+cellular response to hypoxia	1	NOTCH1
+distal tubule development	1	NOTCH1
+collecting duct development	1	NOTCH1
+ stem cell proliferation	1	NOTCH1
+glomerular mesangial cell development	1	NOTCH1
+epithelial cell fate commitment	1	NOTCH1
+T-helper 17 type immune response	1	NOTCH1
+negative regulation of cell migration involved in sprouting angiogenesis	1	NOTCH1
+neuronal stem cell population maintenance	1	NOTCH1
+interleukin-17-mediated signaling pathway	1	NOTCH1
+negative regulation of cold-induced thermogenesis	1	NOTCH1
+ extracellular matrix assembly	1	NOTCH1
+apoptotic process involved in embryonic digit morphogenesis	1	NOTCH1
+ apoptotic process involved in morphogenesis	1	NOTCH1
+ aorta morphogenesis	1	NOTCH1
+negative regulation of cell-cell adhesion mediated by cadherin	1	NOTCH1
+negative regulation of stem cell differentiation	1	NOTCH1
+negative regulation of anoikis	1	NOTCH1
+negative regulation of pro-B cell differentiation	1	NOTCH1
+negative regulation of endothelial cell chemotaxis	1	NOTCH1
+MAML1-RBP-Jkappa- ICN1 complex	1	NOTCH1
+cell surface	1	NOTCH1
+apical plasma membrane	1	NOTCH1
+ATP binding	1	PIK3CB
+kinase activity	1	PIK3CB
+1-phosphatidylinositol-3-kinase activity	1	PIK3CB
+phosphatidylinositol 3-kinase activity	1	PIK3CB
+1-phosphatidylinositol-4-phosphate 3-kinase activity	1	PIK3CB
+insulin receptor substrate binding	1	PIK3CB
+phosphatidylinositol-4,5-bisphosphate 3-kinase activity	1	PIK3CB
+phosphatidylinositol-3,4-bisphosphate 5-kinase activity	1	PIK3CB
+protein serine kinase activity	1	PIK3CB
+endothelial cell proliferation	1	PIK3CB
+ cell-matrix adhesion	1	PIK3CB
+response to ischemia	1	PIK3CB
+sphingosine-1-phosphate receptor signaling pathway	1	PIK3CB
+intracellular calcium ion homeostasis	1	PIK3CB
+endocytosis	1	PIK3CB
+autophagy	1	PIK3CB
+chemotaxis	1	PIK3CB
+transmembrane receptor protein tyrosine kinase signaling pathway	1	PIK3CB
+G protein-coupled receptor signaling pathway	1	PIK3CB
+ autophagy	1	PIK3CB
+ endothelial cell migration	1	PIK3CB
+phosphatidylinositol 3-kinase signaling	1	PIK3CB
+phosphorylation	1	PIK3CB
+cell migration	1	PIK3CB
+platelet activation	1	PIK3CB
+ neutrophil apoptotic process	1	PIK3CB
+ Rac protein signal transduction	1	PIK3CB
+phosphatidylinositol-3-phosphate biosynthetic process	1	PIK3CB
+embryonic cleavage	1	PIK3CB
+negative regulation of MAP kinase activity	1	PIK3CB
+phosphatidylinositol phosphate biosynthetic process	1	PIK3CB
+ nitric-oxide synthase activity	1	PIK3CB
+ protein kinase B signaling	1	PIK3CB
+negative regulation of protein kinase B signaling	1	PIK3CB
+angiogenesis involved in wound healing	1	PIK3CB
+negative regulation of vascular endothelial growth factor signaling pathway	1	PIK3CB
+negative regulation of hypoxia-induced intrinsic apoptotic signaling pathway	1	PIK3CB
+negative regulation of sprouting angiogenesis	1	PIK3CB
+ clathrin-dependent endocytosis	1	PIK3CB
+phosphatidylinositol 3-kinase complex	1	PIK3CB
+phosphatidylinositol 3-kinase complex, class IA	1	PIK3CB
+midbody	1	PIK3CB
+ubiquitin protein ligase binding	1	UBASH3B
+phosphoprotein binding	1	UBASH3B
+negative regulation of protein kinase activity	1	UBASH3B
+negative regulation of signal transduction	1	UBASH3B
+peptidyl-tyrosine dephosphorylation	1	UBASH3B
+collagen-activated tyrosine kinase receptor signaling pathway	1	UBASH3B
+ protein binding	1	UBASH3B
+ osteoclast differentiation	1	UBASH3B
+negative regulation of osteoclast differentiation	1	UBASH3B
+negative regulation of bone resorption	1	UBASH3B
+ release of sequestered calcium ion into cytosol	1	UBASH3B
+negative regulation of platelet aggregation	1	UBASH3B
+N-acetyllactosamine synthase activity	1	B4GALT5
+galactosyltransferase activity	1	B4GALT5
+UDP-galactose:glucosylceramide beta-1,4-galactosyltransferase activity	1	B4GALT5
+metal ion binding	1	B4GALT5
+carbohydrate metabolic process	1	B4GALT5
+protein glycosylation	1	B4GALT5
+glycoprotein biosynthetic process	1	B4GALT5
+ganglioside biosynthetic process via lactosylceramide	1	B4GALT5
+central nervous system neuron axonogenesis	1	B4GALT5
+poly-N-acetyllactosamine biosynthetic process	1	B4GALT5
+ embryonic development	1	B4GALT5
+neuron maturation	1	B4GALT5
+Golgi cisterna membrane	1	B4GALT5
+spermatid development	1	SPANXB1
+transmembrane receptor protein tyrosine phosphatase activity	1	PTPRA
+protein phosphorylation	1	PTPRA
+protein dephosphorylation	1	PTPRA
+integrin-mediated signaling pathway	1	PTPRA
+insulin receptor signaling pathway	1	PTPRA
+modulation of chemical synaptic transmission	1	PTPRA
+ focal adhesion assembly	1	PTPRA
+focal adhesion	1	PTPRA
+synaptic membrane	1	PTPRA
+Schaffer collateral - CA1 synapse	1	PTPRA
+visual perception	1	OPA3
+ lipid metabolic process	1	OPA3
+response to stimulus	1	OPA3
+mitochondrion	1	OPA3
+brain development	1	PCDH18
+cell morphogenesis	1	CDH24
+multicellular organism development	1	CDH24
+adherens junction organization	1	CDH24
+cell-cell adhesion mediated by cadherin	1	CDH24
+cell-cell junction	1	CDH24
+catenin complex	1	CDH24
+iron-sulfur cluster binding	1	BOLA2
+2 iron, 2 sulfur cluster binding	1	BOLA2
+intracellular iron ion homeostasis	1	BOLA2
+iron-sulfur cluster assembly	1	BOLA2
+[2Fe-2S] cluster assembly	1	BOLA2
+cell redox homeostasis	1	BOLA2
+protein maturation by iron-sulfur cluster transfer	1	BOLA2
+iron-sulfur cluster assembly complex	1	BOLA2
+heterophilic cell-cell adhesion via plasma membrane cell adhesion molecules	1	FAT4
+cerebral cortex development	1	FAT4
+neurogenesis	1	FAT4
+hippo signaling	1	FAT4
+beta-catenin binding	1	CTNND2
+Wnt signaling pathway	1	CTNND2
+ canonical Wnt signaling pathway	1	CTNND2
+dendritic spine morphogenesis	1	CTNND2
+postsynaptic density	1	CTNND2
+dendrite	1	CTNND2
+perikaryon	1	CTNND2
+protein-folding chaperone binding	1	GET4
+ubiquitin-dependent protein catabolic process	1	GET4
+post-translational protein targeting to endoplasmic reticulum membrane	1	GET4
+protein insertion into ER membrane	1	GET4
+cytoplasmic sequestering of protein	1	GET4
+tail-anchored membrane protein insertion into ER membrane	1	GET4
+maintenance of unfolded protein involved in ERAD pathway	1	GET4
+chromosome	1	GET4
+BAT3 complex	1	GET4
+co-receptor binding	1	DKKL1
+receptor antagonist activity	1	DKKL1
+penetration of zona pellucida	1	DKKL1
+anatomical structure morphogenesis	1	DKKL1
+ apoptotic process	1	DKKL1
+ fat cell differentiation	1	DKKL1
+canonical Wnt signaling pathway	1	DKKL1
+negative regulation of testosterone biosynthetic process	1	DKKL1
+telomere maintenance	1	HUS1B
+double-strand break repair via homologous recombination	1	HUS1B
+nucleotide-excision repair	1	HUS1B
+mitotic intra-S DNA damage checkpoint signaling	1	HUS1B
+mitotic DNA replication checkpoint signaling	1	HUS1B
+meiotic DNA integrity checkpoint signaling	1	HUS1B
+checkpoint clamp complex	1	HUS1B
+site of double-strand break	1	HUS1B
+UDP-xylosyltransferase activity	1	GXYLT2
+UDP-D-xylose:beta-D-glucoside alpha-1,3-D-xylosyltransferase activity	1	GXYLT2
+negative regulation of protein processing	1	TMEM98
+negative regulation of myelination	1	TMEM98
+T-helper 1 cell differentiation	1	TMEM98
+negative regulation of protein localization to nucleus	1	TMEM98
+endoplasmic reticulum	1	TMEM98
+blastocyst development	1	SPECC1
+associative learning	1	SPECC1
+actin cytoskeleton organization	1	SPECC1
+fibrillar center	1	SPECC1
+microtubule organizing center	1	SPECC1
+filamentous actin	1	SPECC1
+apical part of cell	1	SPECC1
+biological_process	1	PCDHGB5

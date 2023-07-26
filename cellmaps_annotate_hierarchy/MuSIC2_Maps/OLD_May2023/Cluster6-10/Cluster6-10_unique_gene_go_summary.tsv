@@ -1,0 +1,22 @@
+Feature	Number of Genes	Genes
+structural constituent of ribosome	5	MRPS11, DAP3, MRPS22, MRPS7, MRPS9
+mitochondrial translation	5	MRPS11, DAP3, MRPS22, MRPS7, MRPS9
+mitochondrial inner membrane	5	MRPS11, DAP3, MRPS22, MRPS7, MRPS9
+mitochondrial small ribosomal subunit	5	MRPS11, DAP3, MRPS22, MRPS7, MRPS9
+RNA binding	4	MRPS11, DAP3, MRPS7, MRPS9
+mitochondrion	4	MRPS11, DAP3, MRPS22, MRPS9
+protein binding	3	MRPS11, DAP3, MRPS9
+ribosomal small subunit assembly	2	MRPS11, MRPS7
+translation	2	MRPS11, MRPS7
+mRNA 5'-UTR binding	1	MRPS11
+small ribosomal subunit rRNA binding	1	MRPS11
+maturation of SSU-rRNA from tricistronic rRNA transcript (SSU-rRNA, 5.8S rRNA, LSU-rRNA)	1	MRPS11
+GTP binding	1	DAP3
+apoptotic signaling pathway	1	DAP3
+nucleoplasm	1	DAP3
+biological_process	1	MRPS22
+mitochondrial ribosome	1	MRPS22
+mRNA binding	1	MRPS7
+rRNA binding	1	MRPS7
+ribosome	1	MRPS7
+nucleolus	1	MRPS9

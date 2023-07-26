@@ -1,0 +1,69 @@
+Your response should be formatted as Markdown paragraphs
+Write a critical and concise analysis of this human protein system, describing your reasoning as you go and providing references to scientific papers.
+
+A critical goal of the analysis is to determine if this is a novel complex or if any proteins are novel members of a known complex
+
+Format with Title, Summary, and References sections.        
+Avoid overly general statements of how the proteins are involved in various cellular processes        
+Avoid repeating the goals of the analysis.
+
+What cellular components and complexes are involved in this system?
+What mechanisms and biological processes are performed by this system?
+Propose a name for the system to reflect the cellular location and function, and should be specific but brief. Do not compose an acronym. Place it as the title of your report
+Human Proteins: LAPTM4A, RABGEF1, URGCP, NEDD4, CUEDC1, EPN1, WWP1, RABEP1, RNF216, BIRC2, CLTA, CLTC, LDAF1, MB21D2, TOLLIP, TOM1, ZNF114.
+
+System features from GO terms: 
+protein binding: 16 proteins: LAPTM4A, RABGEF1, NEDD4, CUEDC1, EPN1, WWP1, RABEP1, RNF216, BIRC2, CLTA, CLTC, LDAF1, MB21D2, TOLLIP, TOM1, ZNF114
+cytosol: 11 proteins: RABGEF1, URGCP, NEDD4, EPN1, WWP1, RNF216, BIRC2, CLTA, CLTC, TOLLIP, TOM1
+nucleus: 7 proteins: URGCP, NEDD4, EPN1, WWP1, RNF216, BIRC2, ZNF114
+plasma membrane: 6 proteins: NEDD4, EPN1, WWP1, CLTA, CLTC, TOM1
+extracellular exosome: 6 proteins: NEDD4, WWP1, CLTC, TOLLIP, TOM1, ZNF114
+ubiquitin protein ligase activity: 5 proteins: RABGEF1, NEDD4, WWP1, RNF216, BIRC2
+ubiquitin binding: 5 proteins: NEDD4, CUEDC1, BIRC2, TOLLIP, TOM1
+cytoplasm: 5 proteins: NEDD4, WWP1, BIRC2, TOLLIP, TOM1
+early endosome: 4 proteins: RABGEF1, RABEP1, TOLLIP, TOM1
+protein-containing complex: 4 proteins: NEDD4, RABEP1, CLTC, TOLLIP
+endosome: 4 proteins: EPN1, RABEP1, CLTC, TOM1
+signal transduction: 4 proteins: WWP1, RABEP1, TOLLIP, TOM1
+early endosome membrane: 3 proteins: RABGEF1, RABEP1, TOM1
+endocytosis: 3 proteins: EPN1, RABEP1, TOM1
+proteasome-mediated ubiquitin-dependent protein catabolic process: 3 proteins: WWP1, RNF216, BIRC2
+apoptotic process: 3 proteins: RABEP1, RNF216, BIRC2
+protein-containing complex binding: 3 proteins: BIRC2, CLTA, MB21D2
+membrane: 3 proteins: CLTA, CLTC, TOM1
+Golgi apparatus: 2 proteins: LAPTM4A, NEDD4
+zinc ion binding: 2 proteins: RABGEF1, BIRC2
+receptor-mediated endocytosis: 2 proteins: RABGEF1, CLTC
+endocytic vesicle: 2 proteins: RABGEF1, RABEP1
+recycling endosome: 2 proteins: RABGEF1, RABEP1
+cell cycle: 2 proteins: URGCP, CLTA
+protein domain specific binding: 2 proteins: NEDD4, RABEP1
+ubiquitin-dependent protein catabolic process: 2 proteins: NEDD4, TOLLIP
+protein ubiquitination: 2 proteins: NEDD4, WWP1
+receptor internalization: 2 proteins: NEDD4, CLTC
+innate immune response: 2 proteins: NEDD4, TOLLIP
+ubiquitin ligase complex: 2 proteins: NEDD4, WWP1
+perinuclear region of cytoplasm: 2 proteins: NEDD4, TOLLIP
+clathrin binding: 2 proteins: EPN1, TOM1
+clathrin vesicle coat: 2 proteins: EPN1, CLTA
+ubiquitin-protein transferase activity: 2 proteins: WWP1, BIRC2
+protein transport: 2 proteins: RABEP1, TOM1
+metal ion binding: 2 proteins: RNF216, ZNF114
+identical protein binding: 2 proteins: BIRC2, ZNF114
+ DNA-templated transcription: 2 proteins: BIRC2, ZNF114
+molecular_function: 2 proteins: CLTA, ZNF114
+structural molecule activity: 2 proteins: CLTA, CLTC
+clathrin heavy chain binding: 2 proteins: CLTA, TOM1
+intracellular protein transport: 2 proteins: CLTA, CLTC
+clathrin coat assembly: 2 proteins: CLTA, CLTC
+cell division: 2 proteins: CLTA, CLTC
+clathrin-dependent endocytosis: 2 proteins: CLTA, CLTC
+spindle: 2 proteins: CLTA, CLTC
+clathrin coat: 2 proteins: CLTA, CLTC
+clathrin coat of trans-Golgi network vesicle: 2 proteins: CLTA, CLTC
+clathrin coat of coated pit: 2 proteins: CLTA, CLTC
+trans-Golgi network membrane: 2 proteins: CLTA, CLTC
+endolysosome membrane: 2 proteins: CLTA, CLTC
+clathrin-coated endocytic vesicle: 2 proteins: CLTA, CLTC
+clathrin complex: 2 proteins: CLTA, CLTC
+autophagy: 2 proteins: CLTC, TOLLIP

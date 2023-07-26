@@ -1,0 +1,95 @@
+Feature	Number of Genes	Genes
+protein binding	5	OSBPL8, C17orf80, DHRS2, HADHA, HADHB
+mitochondrion	4	DHRS2, DHRS4, HADHA, HADHB
+membrane	3	OSBPL8, C17orf80, GLG1
+endoplasmic reticulum membrane	2	OSBPL8, DHRS4
+cytosol	2	OSBPL8, DHRS4
+extracellular exosome	2	C17orf80, GLG1
+carbonyl reductase (NADPH) activity	2	DHRS2, DHRS4
+nucleus	2	DHRS2, DHRS4
+3-hydroxyacyl-CoA dehydrogenase activity	2	HADHA, HADHB
+acetyl-CoA C-acetyltransferase activity	2	HADHA, HADHB
+enoyl-CoA hydratase activity	2	HADHA, HADHB
+fatty acid beta-oxidation	2	HADHA, HADHB
+mitochondrial inner membrane	2	HADHA, HADHB
+mitochondrial fatty acid beta-oxidation multienzyme complex	2	HADHA, HADHB
+mitochondrial nucleoid	2	HADHA, HADHB
+phosphatidylserine binding	1	OSBPL8
+phospholipid transporter activity	1	OSBPL8
+sterol transporter activity	1	OSBPL8
+cholesterol binding	1	OSBPL8
+phosphatidylinositol-4-phosphate binding	1	OSBPL8
+phosphatidylserine transfer activity	1	OSBPL8
+negative regulation of sequestering of triglyceride	1	OSBPL8
+phospholipid transport	1	OSBPL8
+sterol transport	1	OSBPL8
+negative regulation of cell migration	1	OSBPL8
+activation of protein kinase B activity	1	OSBPL8
+phosphatidylserine acyl-chain remodeling	1	OSBPL8
+fat cell differentiation	1	OSBPL8
+ glucose import	1	OSBPL8
+ insulin receptor signaling pathway	1	OSBPL8
+ protein kinase B signaling	1	OSBPL8
+protein localization to nuclear pore	1	OSBPL8
+intermembrane lipid transfer	1	OSBPL8
+nuclear membrane	1	OSBPL8
+intracellular membrane-bounded organelle	1	OSBPL8
+molecular_function	1	C17orf80
+biological_process	1	C17orf80
+oxidoreductase activity, acting on the CH-OH group of donors, NAD or NADP as acceptor	1	DHRS2
+C21-steroid hormone metabolic process	1	DHRS2
+negative regulation of cell population proliferation	1	DHRS2
+response to toxic substance	1	DHRS2
+electron transport chain	1	DHRS2
+cellular response to oxidative stress	1	DHRS2
+myeloid dendritic cell differentiation	1	DHRS2
+negative regulation of apoptotic process	1	DHRS2
+nuclear envelope	1	DHRS2
+nucleoplasm	1	DHRS2
+cytoplasm	1	DHRS2
+mitochondrial matrix	1	DHRS2
+3-keto sterol reductase activity	1	DHRS4
+oxidoreductase activity, acting on NAD(P)H, quinone or similar compound as acceptor	1	DHRS4
+alcohol dehydrogenase [NAD(P)+] activity	1	DHRS4
+3beta-hydroxy-5beta-steroid dehydrogenase activity	1	DHRS4
+identical protein binding	1	DHRS4
+NADP-retinol dehydrogenase activity	1	DHRS4
+alcohol metabolic process	1	DHRS4
+steroid metabolic process	1	DHRS4
+cellular ketone metabolic process	1	DHRS4
+retinol metabolic process	1	DHRS4
+retinal metabolic process	1	DHRS4
+ reactive oxygen species metabolic process	1	DHRS4
+peroxisome	1	DHRS4
+peroxisomal membrane	1	DHRS4
+peroxisomal matrix	1	DHRS4
+signaling receptor binding	1	GLG1
+fibroblast growth factor binding	1	GLG1
+transforming growth factor beta receptor signaling pathway	1	GLG1
+negative regulation of protein processing	1	GLG1
+protein processing	1	GLG1
+negative regulation of transforming growth factor beta receptor signaling pathway	1	GLG1
+ chondrocyte differentiation	1	GLG1
+bone morphogenesis	1	GLG1
+Golgi membrane	1	GLG1
+Golgi apparatus	1	GLG1
+cytoskeleton	1	GLG1
+plasma membrane	1	GLG1
+extracellular matrix	1	GLG1
+fatty-acyl-CoA binding	1	HADHA
+long-chain-3-hydroxyacyl-CoA dehydrogenase activity	1	HADHA
+3-hydroxyacyl-CoA dehydratase activity	1	HADHA
+protein-containing complex binding	1	HADHA
+NAD+ binding	1	HADHA
+response to xenobiotic stimulus	1	HADHA
+response to insulin	1	HADHA
+cardiolipin acyl-chain remodeling	1	HADHA
+RNA binding	1	HADHB
+acetyl-CoA C-acyltransferase activity	1	HADHB
+acetyl-CoA C-myristoyltransferase activity	1	HADHB
+lncRNA binding	1	HADHB
+gene expression	1	HADHB
+cellular response to lipopolysaccharide	1	HADHB
+mitochondrial envelope	1	HADHB
+mitochondrial outer membrane	1	HADHB
+endoplasmic reticulum	1	HADHB

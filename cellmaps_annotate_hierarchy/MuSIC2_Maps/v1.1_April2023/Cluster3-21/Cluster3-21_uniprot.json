@@ -1,0 +1,1679 @@
+{
+    "AHDC1": {
+        "UniProtKB_ID": "AHDC1_HUMAN",
+        "Description": "Transcription factor Gibbin",
+        "GO": [
+            "chromosome",
+            "nucleus",
+            "DNA-binding transcription factor activity",
+            "promoter-enhancer loop anchoring activity",
+            "cell differentiation",
+            "mesoderm formation",
+            "skin morphogenesis"
+        ],
+        "Location": [
+            "nucleus",
+            "chromosome"
+        ],
+        "Disease": [
+            "Xia-Gibbs syndrome",
+            "Disease variant",
+            "Intellectual disability"
+        ],
+        "Disease_description": [
+            "Xia-Gibbs syndrome: An autosomal dominant disorder characterized by intellectual disability, mild dysmorphism, hypotonia, delayed psychomotor development with absent or poor expressive language, hypoplasia of the corpus callosum, simplified gyral pattern, and delayed myelination."
+        ],
+        "Complexes": []
+    },
+    "ASCC2": {
+        "UniProtKB_ID": "ASCC2_HUMAN",
+        "Description": "Activating signal cointegrator 1 complex subunit 2",
+        "GO": [
+            "activating signal cointegrator 1 complex",
+            "DNA repair complex",
+            "nuclear speck",
+            "nucleoplasm",
+            "nucleus",
+            "ubiquitin binding",
+            "DNA dealkylation involved in DNA repair",
+            "DNA duplex unwinding",
+            "regulation of DNA-templated transcription",
+            "rescue of stalled ribosome",
+            "ribosome disassembly",
+            "ribosome-associated ubiquitin-dependent protein catabolic process"
+        ],
+        "Location": [
+            "nucleus",
+            "nucleus speckle"
+        ],
+        "Disease": [],
+        "Disease_description": [],
+        "Complexes": [
+            "Identified in the ASCC complex that contains ASCC1, ASCC2 and ASCC3 (PubMed:29144457, PubMed:29997253). Interacts directly with ASCC3 (PubMed:29997253, PubMed:32099016). The ASCC complex interacts with ALKBH3 (PubMed:29144457, PubMed:22055184). Interacts (via CUE domain) with 'Lys-63'-linked polyubiquitin chains, but not with 'Lys-48'-linked polyubiquitin chains (PubMed:29144457). Part of the ASC-1 complex, that contains TRIP4, ASCC1, ASCC2 and ASCC3 (PubMed:12077347). Component of the RQT (ribosome quality control trigger) complex, that contains ASCC2, ASCC3 and TRIP4 (PubMed:32099016). Interacts with TRIP4 (PubMed:32099016). Interacts with CSRP1 (PubMed:26924529). Interacts with PRPF8, a component of the spliceosome (PubMed:29144457). Interacts with ZCCHC4 (PubMed:31799605)"
+        ]
+    },
+    "BTBD1": {
+        "UniProtKB_ID": "BTBD1_HUMAN",
+        "Description": "BTB/POZ domain-containing protein 1",
+        "GO": [
+            "cytoplasmic ribonucleoprotein granule",
+            "cytosol",
+            "nucleoplasm",
+            "P-body",
+            "protein-containing complex",
+            "cullin family protein binding",
+            "identical protein binding",
+            "muscle organ development",
+            "neurogenesis",
+            "protein ubiquitination",
+            "regulation of protein binding"
+        ],
+        "Location": [
+            "cytoplasm"
+        ],
+        "Disease": [],
+        "Disease_description": [],
+        "Complexes": [
+            "Interacts (via C-terminus) with TOP1 (PubMed:11818025). Interacts with TRIM5 isoform Delta (PubMed:12878161). Interacts with CUL3 (PubMed:14528312)"
+        ]
+    },
+    "DLGAP4": {
+        "UniProtKB_ID": "DLGP4_HUMAN",
+        "Description": "Disks large-associated protein 4",
+        "GO": [
+            "cholinergic synapse",
+            "glutamatergic synapse",
+            "neuromuscular junction",
+            "plasma membrane",
+            "postsynaptic specialization",
+            "molecular adaptor activity",
+            "regulation of postsynaptic neurotransmitter receptor activity",
+            "signaling"
+        ],
+        "Location": [
+            "membrane"
+        ],
+        "Disease": [],
+        "Disease_description": [],
+        "Complexes": [
+            "Interacts with DLG1 and DLG4/PSD-95"
+        ]
+    },
+    "ENAH": {
+        "UniProtKB_ID": "ENAH_HUMAN",
+        "Description": "Protein enabled homolog",
+        "GO": [
+            "cell junction",
+            "cytoskeleton",
+            "cytosol",
+            "filopodium",
+            "focal adhesion",
+            "lamellipodium",
+            "plasma membrane",
+            "synapse",
+            "actin binding",
+            "profilin binding",
+            "SH3 domain binding",
+            "WW domain binding",
+            "actin polymerization or depolymerization",
+            "actin polymerization-dependent cell motility",
+            "axon guidance"
+        ],
+        "Location": [
+            "synapse",
+            "cell junction",
+            "lamellipodium",
+            "filopodium",
+            "focal adhesion",
+            "cytoplasm",
+            "cytoskeleton",
+            "cell projection"
+        ],
+        "Disease": [],
+        "Disease_description": [],
+        "Complexes": [
+            "Homotetramer (By similarity). Interacts with APBB1IP, APBB1, PFN1 and ROBO4 (PubMed:12941633, PubMed:15469846, PubMed:17686488). Isoforms, containing the polyproline-rich regions with PPLP motifs, bind the WW domain of APBB1IP (PubMed:15469846). Isoforms, containing the PPSY motif, bind, in vitro, to the WW2 and WW3 domains of NEDD4 and to the WW1 domain of YAP1 (By similarity). Binds the SH3 domain of BAIAP2-alpha but only after the autoinhibitory region of BAIAP2-alpha has been blocked by interaction with CDC42 (PubMed:11696321, PubMed:18158903). Interacts, via the EVH1/WH1 domain, with the Pro-rich domains from VCL, ZYX and Listeria monocytogenes actA and with TES (via LIM domains) (PubMed:9312002, PubMed:18158903, PubMed:21278383). The TES LIM domain and the Pro-rich domains from VCL or ZYX compete for the same binding site (PubMed:9312002). Interaction with ZYX is important for targeting ENAH to focal adhesions and enhances production of actin-rich structures at the apical surface of cells (PubMed:10801818). Interacts, through the Pro-rich region, with the C-terminal SH3 domain of DNMPB (By similarity). Binds GPHN (By similarity). Interacts with FAT1 (via EVH1 domains) (By similarity). Heterotrimer with TES and ACTL7A (PubMed:21278383). Interacts with PRPF40A (By similarity)"
+        ]
+    },
+    "ENO3": {
+        "UniProtKB_ID": "ENOB_HUMAN",
+        "Description": "Beta-enolase",
+        "GO": [
+            "cytosol",
+            "extracellular exosome",
+            "extracellular space",
+            "membrane",
+            "phosphopyruvate hydratase complex",
+            "plasma membrane",
+            "magnesium ion binding",
+            "phosphopyruvate hydratase activity",
+            "canonical glycolysis",
+            "glycolytic process"
+        ],
+        "Location": [
+            "cytoplasm"
+        ],
+        "Disease": [
+            "Glycogen storage disease 13",
+            "Disease variant",
+            "Glycogen storage disease"
+        ],
+        "Disease_description": [
+            "Glycogen storage disease 13: A metabolic disorder that results in exercise-induced myalgias, generalized muscle weakness and fatigability. It is characterized by increased serum creatine kinase and decreased enolase 3 activity. Dramatically reduced protein levels with focal sarcoplasmic accumulation of glycogen-beta particles are detected on ultrastructural analysis."
+        ],
+        "Complexes": [
+            "Mammalian enolase is composed of 3 isozyme subunits, alpha, beta and gamma, which can form homodimers or heterodimers which are cell-type and development-specific. Interacts with PNKD"
+        ]
+    },
+    "FABP3": {
+        "UniProtKB_ID": "FABPH_HUMAN",
+        "Description": "Fatty acid-binding protein, heart",
+        "GO": [
+            "cytosol",
+            "extracellular exosome",
+            "extracellular space",
+            "nucleus",
+            "cytoskeletal protein binding",
+            "fatty acid binding",
+            "long-chain fatty acid binding",
+            "oleic acid binding",
+            "brown fat cell differentiation",
+            "cholesterol homeostasis",
+            "fatty acid transport",
+            "intracellular lipid transport",
+            "long-chain fatty acid transport",
+            "negative regulation of cell population proliferation",
+            "phospholipid homeostasis",
+            "positive regulation of long-chain fatty acid import into cell",
+            "positive regulation of phospholipid biosynthetic process",
+            "regulation of fatty acid oxidation",
+            "regulation of phosphatidylcholine biosynthetic process"
+        ],
+        "Location": [
+            "cytoplasm"
+        ],
+        "Disease": [],
+        "Disease_description": [],
+        "Complexes": []
+    },
+    "FBXO28": {
+        "UniProtKB_ID": "FBX28_HUMAN",
+        "Description": "F-box only protein 28",
+        "GO": [
+            "kinetochore",
+            "identical protein binding",
+            "protein polyubiquitination"
+        ],
+        "Location": [
+            "centromere",
+            "chromosome",
+            "kinetochore"
+        ],
+        "Disease": [
+            "Developmental and epileptic encephalopathy 100",
+            "Disease variant",
+            "Epilepsy",
+            "Intellectual disability"
+        ],
+        "Disease_description": [
+            "Developmental and epileptic encephalopathy 100: A form of epileptic encephalopathy, a heterogeneous group of early-onset epilepsies characterized by refractory seizures, neurodevelopmental impairment, and poor prognosis. Development is normal prior to seizure onset, after which cognitive and motor delays become apparent. DEE100 is an autosomal dominant, severe form characterized by global developmental delay and onset of variable types of seizures in the first months or years of life."
+        ],
+        "Complexes": [
+            "Part of a SCF (SKP1-cullin-F-box) protein ligase complex"
+        ]
+    },
+    "GIT1": {
+        "UniProtKB_ID": "GIT1_HUMAN",
+        "Description": "ARF GTPase-activating protein GIT1",
+        "GO": [
+            "calyx of Held",
+            "centrosome",
+            "cytosol",
+            "focal adhesion",
+            "lamellipodium",
+            "membrane",
+            "mitochondrion",
+            "mitotic spindle pole",
+            "neuron projection",
+            "postsynapse",
+            "postsynaptic density",
+            "synapse",
+            "gamma-tubulin binding",
+            "GTPase activator activity",
+            "metal ion binding",
+            "protein-containing complex binding",
+            "small GTPase binding",
+            "brain development",
+            "cell redox homeostasis",
+            "cellular response to lipopolysaccharide",
+            "ephrin receptor signaling pathway",
+            "intramembranous ossification",
+            "locomotory behavior",
+            "motor learning",
+            "negative regulation of glycolytic process",
+            "negative regulation of inflammatory response to wounding",
+            "negative regulation of interleukin-1 beta production",
+            "neuron development",
+            "positive regulation of microtubule nucleation",
+            "presynaptic modulation of chemical synaptic transmission",
+            "regulation of ARF protein signal transduction",
+            "regulation of cytokinesis",
+            "regulation of G protein-coupled receptor signaling pathway",
+            "regulation of synaptic vesicle exocytosis",
+            "synaptic vesicle recycling"
+        ],
+        "Location": [
+            "synapse",
+            "spindle pole",
+            "cell junction",
+            "lamellipodium",
+            "presynapse",
+            "centrosome",
+            "focal adhesion",
+            "microtubule organizing center",
+            "cytoplasm",
+            "cytoskeleton",
+            "cell projection",
+            "postsynaptic density",
+            "postsynapse"
+        ],
+        "Disease": [],
+        "Disease_description": [],
+        "Complexes": [
+            "Forms homodimers and possibly oligomers (By similarity). May forms heterooligomers with GIT2 (By similarity). Interacts with G protein-coupled receptor kinases, including GRK2, GRK3, GRK5 and GRK6 (By similarity). Interacts with PPFIA1, PPFIA2 and PPFIA4 (By similarity). Interacts with GRIP1 and forms a ternary complex with PPFIA1 and GRIP1 (By similarity). Directly interacts with ARHGEF7/beta-PIX, forming in vitro a heptameric complex made of a GIT1 dimer and an ARHGEF7 trimer (PubMed:10896954, PubMed:27012601). Directly interacts with PXN/paxillin; this interaction is enhanced in the presence of ARHGEF7 (PubMed:10896954, PubMed:10938112, PubMed:27012601). Directly interacts (via C-terminus) with TGFB1I1/Hic-5 (via LD motif 3) (PubMed:12153727). Directly interacts with PTK2/FAK1 (By similarity). May interact with PTK2B/PYK2; this interaction may be indirect (By similarity). Interacts with AMPA receptors GRIA2/3 (By similarity). Directly interacts with protein Piccolo/PCLO (By similarity). Forms a complex with Ephrin-B1/EFNB1 and NCK2/GRB4 (via SH2); this interaction is important for spine morphogenesis and synapse formation. Interaction with NCK2 is transient and depends upon GIT1 phosphorylation at Tyr-383 (By similarity). Interacts with GRIN3A/GluN3A (via C-terminus); this interaction competes with GIT1 interaction with ARHGEF7 and limits synaptic localization of GIT1 (By similarity). Interacts with IKBKG/NEMO in resting bone mesenchymal stem cells, as well as in TNF-stimulated cells; this interaction may increase IKBKG affinity for 'Lys-63'-linked polyubiquitin chains (PubMed:31502302). Interacts with GABA(A) receptors, including GABRB3 and GABRG2 (By similarity). Interacts with SCRIB (PubMed:15182672, PubMed:19041750). Interacts (via N- and C-terminus) with ENTR1/SDCCAG3 (via N-terminus); this interaction is direct (PubMed:23108400). May form a tripartite complex with ENTR1 and PTPN13 (PubMed:23108400). Interacts with YWHAZ (By similarity). Interacts with PAK1 (PubMed:27012601). Interacts with PAK3 (PubMed:10896954). Directly interacts (via N-terminus) with gamma-tubulin (PubMed:27012601). Interacts with MAPK1 and MAPK3; this interaction is required for MAPK1/3 recruitment to focal adhesions (By similarity)"
+        ]
+    },
+    "HSPB6": {
+        "UniProtKB_ID": "HSPB6_HUMAN",
+        "Description": "Heat shock protein beta-6",
+        "GO": [
+            "cytoplasm",
+            "cytosol",
+            "extracellular region",
+            "Golgi apparatus",
+            "nucleolus",
+            "nucleus",
+            "chaperone binding",
+            "protein folding chaperone",
+            "protein homodimerization activity",
+            "structural constituent of eye lens",
+            "unfolded protein binding",
+            "chaperone-mediated protein folding",
+            "negative regulation of apoptotic process",
+            "positive regulation of angiogenesis",
+            "protein refolding",
+            "response to heat"
+        ],
+        "Location": [
+            "cytoplasm",
+            "nucleus",
+            "secreted"
+        ],
+        "Disease": [],
+        "Disease_description": [],
+        "Complexes": [
+            "Homodimer. Small heat shock proteins form high molecular mass oligomers containing variable number of monomers; these oligomers display a very flexible quaternary structure easily exchanging their subunits. Heterooligomer with HSPB1; formed through oligomerization of HSPB1:HSBP6 dimers; subunit exchange leads to formation of at least two different heterooligomeric complexes, differing in variable quantities of HSPB1 and HSPB6 homodimers in addition to HSPB1:HSPB6 heterodimers. Heterooligomer with CRYAB; large heterooligomers consist of CRYAB homodimers and HSPB5:HSPB6 heterodimers but lacking HSPB6 homodimers. Interacts with BAG3. Interacts (phosphorylated) with YWHAZ. Interacts with PDE4A and PDE4D; required for maintenance of the non-phosphorylated state of HSPB6 under basal conditions. Interacts with KDR. Interacts with PRKD1"
+        ]
+    },
+    "KLHL41": {
+        "UniProtKB_ID": "KLH41_HUMAN",
+        "Description": "Kelch-like protein 41",
+        "GO": [
+            "Cul3-RING ubiquitin ligase complex",
+            "cytoplasm",
+            "cytoskeleton",
+            "cytosol",
+            "endoplasmic reticulum membrane",
+            "M band",
+            "nucleoplasm",
+            "plasma membrane",
+            "pseudopodium",
+            "ruffle",
+            "sarcoplasmic reticulum membrane",
+            "myofibril assembly",
+            "protein ubiquitination",
+            "pseudopodium assembly",
+            "regulation of myoblast differentiation",
+            "regulation of myoblast proliferation",
+            "regulation of skeletal muscle cell differentiation",
+            "skeletal muscle cell differentiation",
+            "striated muscle contraction"
+        ],
+        "Location": [
+            "endoplasmic reticulum",
+            "endoplasmic reticulum membrane",
+            "myofibril",
+            "sarcoplasmic reticulum membrane",
+            "sarcomere",
+            "pseudopodium",
+            "cytoplasm",
+            "m line",
+            "membrane",
+            "ruffle",
+            "cytoskeleton",
+            "cell projection",
+            "sarcoplasmic reticulum"
+        ],
+        "Disease": [
+            "Nemaline myopathy 9",
+            "Disease variant",
+            "Nemaline myopathy"
+        ],
+        "Disease_description": [
+            "Nemaline myopathy 9: An autosomal recessive form of nemaline myopathy. Nemaline myopathies are muscular disorders characterized by muscle weakness of varying severity and onset, and abnormal thread-like or rod-shaped structures in muscle fibers on histologic examination. NEM9 phenotype is highly variable, ranging from death in infancy due to lack of antigravity movements, to slowly progressive distal muscle weakness with preserved ambulation later in childhood."
+        ],
+        "Complexes": [
+            "Interacts with NRAP. Interacts with LASP1. Part of a complex that contains CUL3, RBX1 and KLHL41"
+        ]
+    },
+    "LDB3": {
+        "UniProtKB_ID": "LDB3_HUMAN",
+        "Description": "LIM domain-binding protein 3",
+        "GO": [
+            "adherens junction",
+            "cytoskeleton",
+            "filamentous actin",
+            "perinuclear region of cytoplasm",
+            "pseudopodium",
+            "stress fiber",
+            "Z disc",
+            "actin binding",
+            "cytoskeletal protein binding",
+            "metal ion binding",
+            "muscle alpha-actinin binding",
+            "protein kinase C binding",
+            "actin cytoskeleton organization",
+            "heart development",
+            "muscle structure development",
+            "sarcomere organization"
+        ],
+        "Location": [
+            "myofibril",
+            "perinuclear region",
+            "sarcomere",
+            "pseudopodium",
+            "cytoplasm",
+            "z line",
+            "cytoskeleton",
+            "cell projection"
+        ],
+        "Disease": [
+            "Cardiomyopathy",
+            "Left ventricular non-compaction 3",
+            "Myopathy",
+            "Cardiomyopathy",
+            "Disease variant",
+            "Myofibrillar myopathy"
+        ],
+        "Disease_description": [
+            "Cardiomyopathy: A disorder characterized by ventricular dilation and impaired systolic function, resulting in congestive heart failure and arrhythmia. Patients are at risk of premature death. Cardiomyopathy dilated type 1C is associated with left ventricular non-compaction in some patients. Left ventricular non-compaction is characterized by numerous prominent trabeculations and deep intertrabecular recesses in hypertrophied and hypokinetic segments of the left ventricle.",
+            "Left ventricular non-compaction 3: A form of left ventricular non-compaction, a cardiomyopathy due to myocardial morphogenesis arrest and characterized by a hypertrophic left ventricle, a severely thickened 2-layered myocardium, numerous prominent trabeculations, deep intertrabecular recesses, and poor systolic function. Clinical manifestations are variable. Some affected individuals experience no symptoms at all, others develop heart failure. In some cases, left ventricular non-compaction is associated with other congenital heart anomalies. LVNC3 is an autosomal dominant condition.",
+            "Myopathy: A form of myofibrillar myopathy, a group of chronic neuromuscular disorders characterized at ultrastructural level by disintegration of the sarcomeric Z disk and myofibrils, and replacement of the normal myofibrillar markings by small dense granules, or larger hyaline masses, or amorphous material. MFM4 is characterized by distal and proximal muscle weakness with signs of cardiomyopathy and neuropathy."
+        ],
+        "Complexes": [
+            "Interacts via its LIM domains with various PKC isoforms (By similarity). Interacts via its PDZ domain with the ACTN2 C-terminal region. Interacts with MYOZ1, MYOZ2 and MYOZ3"
+        ]
+    },
+    "LPL": {
+        "UniProtKB_ID": "LIPL_HUMAN",
+        "Description": "Lipoprotein lipase",
+        "GO": [
+            "catalytic complex",
+            "cell surface",
+            "chylomicron",
+            "extracellular region",
+            "extracellular space",
+            "plasma membrane",
+            "very-low-density lipoprotein particle",
+            "1-acyl-2-lysophosphatidylserine acylhydrolase activity",
+            "apolipoprotein binding",
+            "calcium ion binding",
+            "heparan sulfate proteoglycan binding",
+            "heparin binding",
+            "lipase activity",
+            "lipoprotein lipase activity",
+            "lipoprotein particle binding",
+            "phosphatidylserine 1-acylhydrolase activity",
+            "phospholipase A1 activity",
+            "phospholipase activity",
+            "protein homodimerization activity",
+            "protein-membrane adaptor activity",
+            "signaling receptor binding",
+            "triglyceride binding",
+            "triglyceride lipase activity",
+            "cellular response to fatty acid",
+            "cellular response to nutrient",
+            "cholesterol homeostasis",
+            "chylomicron remodeling",
+            "fatty acid biosynthetic process",
+            "fatty acid metabolic process",
+            "lipid catabolic process",
+            "low-density lipoprotein particle mediated signaling",
+            "negative regulation of cellular response to insulin stimulus",
+            "phospholipid metabolic process",
+            "positive regulation of chemokine (C-X-C motif) ligand 2 production",
+            "positive regulation of chemokine production",
+            "positive regulation of cholesterol storage",
+            "positive regulation of fat cell differentiation",
+            "positive regulation of inflammatory response",
+            "positive regulation of interleukin-1 beta production",
+            "positive regulation of interleukin-6 production",
+            "positive regulation of lipid storage",
+            "positive regulation of macrophage derived foam cell differentiation",
+            "positive regulation of sequestering of triglyceride",
+            "positive regulation of tumor necrosis factor production",
+            "response to bacterium",
+            "response to cold",
+            "response to glucose",
+            "response to xenobiotic stimulus",
+            "triglyceride biosynthetic process",
+            "triglyceride catabolic process",
+            "triglyceride homeostasis",
+            "triglyceride metabolic process",
+            "very-low-density lipoprotein particle remodeling"
+        ],
+        "Location": [
+            "vldl",
+            "extracellular matrix",
+            "cell membrane",
+            "membrane",
+            "extracellular space",
+            "chylomicron",
+            "secreted"
+        ],
+        "Disease": [
+            "Hyperlipoproteinemia 1",
+            "Hyperlipidemia",
+            "Disease variant",
+            "Hyperlipidemia"
+        ],
+        "Disease_description": [
+            "Hyperlipoproteinemia 1: An autosomal recessive metabolic disorder characterized by defective breakdown of dietary fats, impaired clearance of chylomicrons from plasma causing the plasma to have a milky appearance, and severe hypertriglyceridemia. On a normal diet, patients often present with abdominal pain, hepatosplenomegaly, lipemia retinalis, eruptive xanthomata, and massive hypertriglyceridemia, sometimes complicated with acute pancreatitis.",
+            "Hyperlipidemia: A disorder characterized by a variable pattern of elevated levels of serum total cholesterol, triglycerides or both. It is observed in a percentage of individuals with premature coronary heart disease. FCHL3 inheritance is autosomal dominant."
+        ],
+        "Complexes": [
+            "Homodimer (PubMed:16179346, PubMed:26725083, PubMed:11893776) (Probable). Interacts with GPIHBP1 with 1:1 stoichiometry (PubMed:17997385, PubMed:27929370, PubMed:26725083, PubMed:27811232, PubMed:29899144, PubMed:30559189). Interacts with APOC2; the interaction activates LPL activity in the presence of lipids (By similarity). Interaction with heparan sulfate proteoglycans is required to protect LPL against loss of activity (PubMed:11342582). Associates with lipoprotein particles in blood plasma (PubMed:11342582, PubMed:11893776). Interacts with LMF1 and SEL1L; interaction with SEL1L is required to prevent aggregation of newly synthesized LPL in the endoplasmic reticulum (ER), and for normal export of LPL from the ER to the extracellular space (PubMed:25066055). Interacts with SORL1; SORL1 acts as a sorting receptor, promoting LPL localization to endosomes and later to lysosomes, leading to degradation of newly synthesized LPL (PubMed:21385844)"
+        ]
+    },
+    "LPP": {
+        "UniProtKB_ID": "LPP_HUMAN",
+        "Description": "Lipoma-preferred partner",
+        "GO": [
+            "cytosol",
+            "focal adhesion",
+            "nucleus",
+            "plasma membrane",
+            "stress fiber",
+            "metal ion binding",
+            "cell-cell adhesion"
+        ],
+        "Location": [
+            "nucleus",
+            "cell junction",
+            "cytoplasm",
+            "cell membrane",
+            "membrane"
+        ],
+        "Disease": [],
+        "Disease_description": [],
+        "Complexes": [
+            "Interacts with VASP, with PDZ domains of SCRIB and with ACTN1/alpha-actinin"
+        ]
+    },
+    "LPXN": {
+        "UniProtKB_ID": "LPXN_HUMAN",
+        "Description": "Leupaxin",
+        "GO": [
+            "cell projection",
+            "cytoplasm",
+            "cytosol",
+            "focal adhesion",
+            "membrane",
+            "nuclear speck",
+            "nucleus",
+            "perinuclear region of cytoplasm",
+            "plasma membrane",
+            "podosome",
+            "metal ion binding",
+            "transcription coregulator activity",
+            "cell adhesion",
+            "endothelial cell migration",
+            "negative regulation of B cell receptor signaling pathway",
+            "negative regulation of cell adhesion",
+            "protein-containing complex assembly",
+            "regulation of cell adhesion mediated by integrin",
+            "signal transduction",
+            "substrate adhesion-dependent cell spreading",
+            "transforming growth factor beta receptor signaling pathway"
+        ],
+        "Location": [
+            "nucleus",
+            "cell junction",
+            "perinuclear region",
+            "focal adhesion",
+            "podosome",
+            "cytoplasm",
+            "cell membrane",
+            "membrane",
+            "cell projection"
+        ],
+        "Disease": [],
+        "Disease_description": [],
+        "Complexes": [
+            "Interacts with PTPN22 (By similarity). Interacts with unphosphorylated ITGA4. Interacts with PTK2B/PYK2, PTPN12, AR and SRF. Interacts (via LD motif 3) with LYN and the interaction is induced upon B-cell antigen receptor (BCR) activation. Interacts (via LD motif 3) with PTK2/FAK"
+        ]
+    },
+    "LRCH4": {
+        "UniProtKB_ID": "LRCH4_HUMAN",
+        "Description": "Leucine-rich repeat and calponin homology domain-containing protein 4",
+        "GO": [
+            "cytoplasm",
+            "PML body",
+            "negative regulation of DNA-templated transcription",
+            "nervous system development"
+        ],
+        "Location": [],
+        "Disease": [],
+        "Disease_description": [],
+        "Complexes": []
+    },
+    "MFGE8": {
+        "UniProtKB_ID": "MFGM_HUMAN",
+        "Description": "Lactadherin",
+        "GO": [
+            "acrosomal membrane",
+            "collagen-containing extracellular matrix",
+            "endoplasmic reticulum lumen",
+            "external side of plasma membrane",
+            "extracellular exosome",
+            "extracellular region",
+            "extracellular space",
+            "extracellular vesicle",
+            "membrane",
+            "integrin binding",
+            "phosphatidylserine binding",
+            "angiogenesis",
+            "apoptotic cell clearance",
+            "cell adhesion",
+            "single fertilization"
+        ],
+        "Location": [
+            "cytoplasmic vesicle",
+            "secretory vesicle",
+            "membrane",
+            "amyloid",
+            "secreted",
+            "acrosome membrane"
+        ],
+        "Disease": [],
+        "Disease_description": [],
+        "Complexes": []
+    },
+    "MYH1": {
+        "UniProtKB_ID": "MYH1_HUMAN",
+        "Description": "Myosin-1",
+        "GO": [
+            "A band",
+            "cytoplasmic ribonucleoprotein granule",
+            "intercalated disc",
+            "muscle myosin complex",
+            "myosin filament",
+            "myosin II complex",
+            "actin filament binding",
+            "ATP binding",
+            "calmodulin binding",
+            "microfilament motor activity",
+            "muscle contraction"
+        ],
+        "Location": [
+            "cytoplasm",
+            "myofibril",
+            "thick filament"
+        ],
+        "Disease": [],
+        "Disease_description": [],
+        "Complexes": [
+            "Muscle myosin is a hexameric protein that consists of 2 heavy chain subunits (MHC), 2 alkali light chain subunits (MLC) and 2 regulatory light chain subunits (MLC-2)"
+        ]
+    },
+    "MYH15": {
+        "UniProtKB_ID": "MYH15_HUMAN",
+        "Description": "Myosin-15",
+        "GO": [
+            "cytosol",
+            "intracellular membrane-bounded organelle",
+            "myofibril",
+            "myosin filament",
+            "myosin II complex",
+            "actin filament binding",
+            "ATP binding",
+            "calmodulin binding",
+            "microfilament motor activity"
+        ],
+        "Location": [
+            "cytoplasm",
+            "myofibril",
+            "thick filament"
+        ],
+        "Disease": [],
+        "Disease_description": [],
+        "Complexes": [
+            "Muscle myosin is a hexameric protein that consists of 2 heavy chain subunits (MHC), 2 alkali light chain subunits (MLC) and 2 regulatory light chain subunits (MLC-2)"
+        ]
+    },
+    "MYH2": {
+        "UniProtKB_ID": "MYH2_HUMAN",
+        "Description": "Myosin-2",
+        "GO": [
+            "cell-cell junction",
+            "cytosol",
+            "muscle myosin complex",
+            "myofibril",
+            "myosin filament",
+            "myosin II complex",
+            "protein-containing complex",
+            "sarcomere",
+            "actin filament binding",
+            "ATP binding",
+            "calmodulin binding",
+            "microfilament motor activity",
+            "muscle contraction",
+            "muscle filament sliding"
+        ],
+        "Location": [
+            "cytoplasm",
+            "myofibril",
+            "thick filament"
+        ],
+        "Disease": [
+            "Myopathy",
+            "Disease variant"
+        ],
+        "Disease_description": [
+            "Myopathy: A muscular disorder characterized by mild-to-moderate muscle weakness, ophthalmoplegia, and contractures at birth in some patients. Muscle biopsies from patients show predominance of type 1 fibers and small or absent type 2A fibers. The disease is non-progressive or it progresses very slowly. Inheritance is autosomal dominant or recessive."
+        ],
+        "Complexes": [
+            "Muscle myosin is a hexameric protein that consists of 2 heavy chain subunits (MHC), 2 alkali light chain subunits (MLC) and 2 regulatory light chain subunits (MLC-2). Interacts with GCSAM"
+        ]
+    },
+    "MYH4": {
+        "UniProtKB_ID": "MYH4_HUMAN",
+        "Description": "Myosin-4",
+        "GO": [
+            "muscle myosin complex",
+            "myofibril",
+            "myosin filament",
+            "myosin II complex",
+            "sarcomere",
+            "actin filament binding",
+            "ATP binding",
+            "ATP hydrolysis activity",
+            "calmodulin binding",
+            "double-stranded RNA binding",
+            "microfilament motor activity",
+            "actin filament-based movement",
+            "ATP metabolic process",
+            "muscle contraction",
+            "muscle filament sliding"
+        ],
+        "Location": [
+            "cytoplasm",
+            "myofibril",
+            "thick filament"
+        ],
+        "Disease": [],
+        "Disease_description": [],
+        "Complexes": [
+            "Muscle myosin is a hexameric protein that consists of 2 heavy chain subunits (MHC), 2 alkali light chain subunits (MLC) and 2 regulatory light chain subunits (MLC-2)"
+        ]
+    },
+    "MYH6": {
+        "UniProtKB_ID": "MYH6_HUMAN",
+        "Description": "Myosin-6",
+        "GO": [
+            "cytosol",
+            "muscle myosin complex",
+            "myofibril",
+            "myosin complex",
+            "myosin filament",
+            "myosin II complex",
+            "sarcomere",
+            "stress fiber",
+            "Z disc",
+            "actin filament binding",
+            "ATP binding",
+            "calmodulin binding",
+            "microfilament motor activity",
+            "myosin phosphatase activity",
+            "protein kinase binding",
+            "adult heart development",
+            "ATP metabolic process",
+            "atrial cardiac muscle tissue morphogenesis",
+            "cardiac muscle cell development",
+            "cardiac muscle contraction",
+            "cardiac muscle hypertrophy in response to stress",
+            "in utero embryonic development",
+            "muscle contraction",
+            "muscle filament sliding",
+            "myofibril assembly",
+            "regulation of ATP-dependent activity",
+            "regulation of blood pressure",
+            "regulation of heart contraction",
+            "regulation of heart growth",
+            "regulation of heart rate",
+            "regulation of the force of heart contraction",
+            "sarcomere organization",
+            "striated muscle contraction",
+            "ventricular cardiac muscle tissue morphogenesis",
+            "visceral muscle development"
+        ],
+        "Location": [
+            "cytoplasm",
+            "myofibril",
+            "thick filament"
+        ],
+        "Disease": [
+            "Atrial septal defect 3",
+            "Cardiomyopathy",
+            "Cardiomyopathy",
+            "Sick sinus syndrome 3",
+            "Atrial septal defect",
+            "Cardiomyopathy",
+            "Disease variant"
+        ],
+        "Disease_description": [
+            "Atrial septal defect 3: A congenital heart malformation characterized by incomplete closure of the wall between the atria resulting in blood flow from the left to the right atria.",
+            "Cardiomyopathy: A hereditary heart disorder characterized by ventricular hypertrophy, which is usually asymmetric and often involves the interventricular septum. The symptoms include dyspnea, syncope, collapse, palpitations, and chest pain. They can be readily provoked by exercise. The disorder has inter- and intrafamilial variability ranging from benign to malignant forms with high risk of cardiac failure and sudden cardiac death.",
+            "Cardiomyopathy: A disorder characterized by ventricular dilation and impaired systolic function, resulting in congestive heart failure and arrhythmia. Patients are at risk of premature death.",
+            "Sick sinus syndrome 3: The term 'sick sinus syndrome' encompasses a variety of conditions caused by sinus node dysfunction. The most common clinical manifestations are syncope, presyncope, dizziness, and fatigue. Electrocardiogram typically shows sinus bradycardia, sinus arrest, and/or sinoatrial block. Episodes of atrial tachycardias coexisting with sinus bradycardia ('tachycardia-bradycardia syndrome') are also common in this disorder. SSS occurs most often in the elderly associated with underlying heart disease or previous cardiac surgery, but can also occur in the fetus, infant, or child without heart disease or other contributing factors."
+        ],
+        "Complexes": [
+            "Muscle myosin is a hexameric protein that consists of 2 heavy chain subunits (MHC), 2 alkali light chain subunits (MLC) and 2 regulatory light chain subunits (MLC-2)"
+        ]
+    },
+    "MYH7": {
+        "UniProtKB_ID": "MYH7_HUMAN",
+        "Description": "Myosin-7",
+        "GO": [
+            "muscle myosin complex",
+            "myofibril",
+            "myosin complex",
+            "myosin filament",
+            "myosin II complex",
+            "sarcomere",
+            "stress fiber",
+            "Z disc",
+            "actin filament binding",
+            "ATP binding",
+            "calmodulin binding",
+            "microfilament motor activity",
+            "adult heart development",
+            "ATP metabolic process",
+            "cardiac muscle contraction",
+            "cardiac muscle hypertrophy in response to stress",
+            "muscle contraction",
+            "muscle filament sliding",
+            "regulation of heart rate",
+            "regulation of slow-twitch skeletal muscle fiber contraction",
+            "regulation of the force of heart contraction",
+            "regulation of the force of skeletal muscle contraction",
+            "sarcomere organization",
+            "skeletal muscle contraction",
+            "striated muscle contraction",
+            "transition between fast and slow fiber",
+            "ventricular cardiac muscle tissue morphogenesis"
+        ],
+        "Location": [
+            "cytoplasm",
+            "myofibril",
+            "thick filament",
+            "sarcomere"
+        ],
+        "Disease": [
+            "Cardiomyopathy",
+            "Myopathy",
+            "Scapuloperoneal myopathy MYH7-related",
+            "Cardiomyopathy",
+            "Myopathy",
+            "Myopathy",
+            "Left ventricular non-compaction 5",
+            "Cardiomyopathy",
+            "Disease variant"
+        ],
+        "Disease_description": [
+            "Cardiomyopathy: A hereditary heart disorder characterized by ventricular hypertrophy, which is usually asymmetric and often involves the interventricular septum. The symptoms include dyspnea, syncope, collapse, palpitations, and chest pain. They can be readily provoked by exercise. The disorder has inter- and intrafamilial variability ranging from benign to malignant forms with high risk of cardiac failure and sudden cardiac death.",
+            "Myopathy: A rare congenital myopathy characterized by subsarcolemmal hyalinized bodies in type 1 muscle fibers.",
+            "Scapuloperoneal myopathy MYH7-related: Progressive muscular atrophia beginning in the lower legs and affecting the shoulder region earlier and more severely than distal arm.",
+            "Cardiomyopathy: A disorder characterized by ventricular dilation and impaired systolic function, resulting in congestive heart failure and arrhythmia. Patients are at risk of premature death.",
+            "Myopathy: A muscular disorder characterized by early-onset selective weakness of the great toe and ankle dorsiflexors, followed by weakness of the finger extensors. Mild proximal weakness occasionally develops years later after the onset of the disease.",
+            "Myopathy: An autosomal recessive form of myosin storage myopathy, a muscle disease characterized by subsarcolemmal accumulation of hyalinized bodies in type 1 muscle fibers. MSMB clinical features include muscle weakness, type II respiratory failure and cardiac failure, due to hypertrophic cardiomyopathy.",
+            "Left ventricular non-compaction 5: A form of left ventricular non-compaction, a cardiomyopathy due to myocardial morphogenesis arrest and characterized by a hypertrophic left ventricle, a severely thickened 2-layered myocardium, numerous prominent trabeculations, deep intertrabecular recesses, and poor systolic function. Clinical manifestations are variable. Some affected individuals experience no symptoms at all, others develop heart failure. In some cases, left ventricular non-compaction is associated with other congenital heart anomalies. LVNC5 is an autosomal dominant condition."
+        ],
+        "Complexes": [
+            "Muscle myosin is a hexameric protein that consists of 2 heavy chain subunits (MHC), 2 alkali light chain subunits (MLC) and 2 regulatory light chain subunits (MLC-2). Interacts with ECPAS (PubMed:20682791). Interacts (via C-terminus) with LRRC39 (PubMed:20847312)"
+        ]
+    },
+    "MYH8": {
+        "UniProtKB_ID": "MYH8_HUMAN",
+        "Description": "Myosin-8",
+        "GO": [
+            "cytoplasm",
+            "cytosol",
+            "muscle myosin complex",
+            "myosin filament",
+            "myosin II complex",
+            "sarcomere",
+            "actin filament binding",
+            "ATP binding",
+            "ATP hydrolysis activity",
+            "calmodulin binding",
+            "microfilament motor activity",
+            "myosin light chain binding",
+            "myosin phosphatase activity",
+            "structural constituent of muscle",
+            "ATP metabolic process",
+            "muscle contraction",
+            "muscle filament sliding",
+            "skeletal muscle contraction"
+        ],
+        "Location": [
+            "cytoplasm",
+            "myofibril",
+            "thick filament"
+        ],
+        "Disease": [
+            "Carney complex variant",
+            "Arthrogryposis",
+            "Disease variant"
+        ],
+        "Disease_description": [
+            "Carney complex variant: Carney complex is a multiple neoplasia syndrome characterized by spotty skin pigmentation, cardiac and other myxomas, endocrine tumors, and psammomatous melanotic schwannomas. Familial cardiac myxomas are associated with spotty pigmentation of the skin and other phenotypes, including primary pigmented nodular adrenocortical dysplasia, extracardiac (frequently cutaneous) myxomas, schwannomas, and pituitary, thyroid, testicular, bone, ovarian, and breast tumors. Cardiac myxomas do not develop in all patients with the Carney complex, but affected patients have at least two features of the complex or one feature and a clinically significant family history.",
+            "Arthrogryposis: A form of distal arthrogryposis, a disease characterized by congenital joint contractures that mainly involve two or more distal parts of the limbs, in the absence of a primary neurological or muscle disease. DA7 is characterized by an inability to open the mouth fully (trismus) and pseudocamptodactyly in which wrist dorsiflexion, but not volarflexion, produces involuntary flexion contracture of distal and proximal interphalangeal joints. Additional features include shortened hamstring muscles and short stature."
+        ],
+        "Complexes": [
+            "Muscle myosin is a hexameric protein that consists of 2 heavy chain subunits (MHC), 2 alkali light chain subunits (MLC) and 2 regulatory light chain subunits (MLC-2)"
+        ]
+    },
+    "MYL3": {
+        "UniProtKB_ID": "MYL3_HUMAN",
+        "Description": "Myosin light chain 3",
+        "GO": [
+            "A band",
+            "cytosol",
+            "I band",
+            "muscle myosin complex",
+            "myosin II complex",
+            "sarcomere",
+            "actin monomer binding",
+            "calcium ion binding",
+            "myosin II heavy chain binding",
+            "structural constituent of muscle",
+            "cardiac muscle contraction",
+            "positive regulation of ATP-dependent activity",
+            "regulation of striated muscle contraction",
+            "regulation of the force of heart contraction",
+            "ventricular cardiac muscle tissue morphogenesis"
+        ],
+        "Location": [],
+        "Disease": [
+            "Cardiomyopathy",
+            "Cardiomyopathy",
+            "Disease variant"
+        ],
+        "Disease_description": [
+            "Cardiomyopathy: A hereditary heart disorder characterized by ventricular hypertrophy, which is usually asymmetric and often involves the interventricular septum. The symptoms include dyspnea, syncope, collapse, palpitations, and chest pain. They can be readily provoked by exercise. The disorder has inter- and intrafamilial variability ranging from benign to malignant forms with high risk of cardiac failure and sudden cardiac death. Rarely, patients present a variant of familial hypertrophic cardiomyopathy, characterized by mid-left ventricular chamber thickening."
+        ],
+        "Complexes": [
+            "Myosin is a hexamer of 2 heavy chains and 4 light chains"
+        ]
+    },
+    "MYOM3": {
+        "UniProtKB_ID": "MYOM3_HUMAN",
+        "Description": "Myomesin-3",
+        "GO": [
+            "M band",
+            "actin filament binding",
+            "protein homodimerization activity"
+        ],
+        "Location": [
+            "m line",
+            "cytoplasm",
+            "myofibril",
+            "sarcomere"
+        ],
+        "Disease": [],
+        "Disease_description": [],
+        "Complexes": [
+            "Homodimer"
+        ]
+    },
+    "NOB1": {
+        "UniProtKB_ID": "NOB1_HUMAN",
+        "Description": "RNA-binding protein NOB1",
+        "GO": [
+            "cytosol",
+            "nucleoplasm",
+            "preribosome, small subunit precursor",
+            "endoribonuclease activity",
+            "metal ion binding",
+            "cleavage involved in rRNA processing",
+            "maturation of SSU-rRNA",
+            "rRNA processing",
+            "visual perception"
+        ],
+        "Location": [
+            "nucleus"
+        ],
+        "Disease": [],
+        "Disease_description": [],
+        "Complexes": [
+            "Interacts with UPF2 (Probable). Component of the small ribosomal subunit, ribosomal RNA processing complex (SSU RRP complex) (PubMed:15231747)"
+        ]
+    },
+    "OBSCN": {
+        "UniProtKB_ID": "OBSCN_HUMAN",
+        "Description": "Obscurin",
+        "GO": [
+            "cell-cell junction",
+            "cytosol",
+            "M band",
+            "myofibril",
+            "nuclear body",
+            "plasma membrane",
+            "sarcolemma",
+            "Z disc",
+            "ankyrin binding",
+            "ATP binding",
+            "calmodulin binding",
+            "cell adhesion molecule binding",
+            "guanyl-nucleotide exchange factor activity",
+            "metal ion binding",
+            "phosphatidylinositol-3,4,5-trisphosphate binding",
+            "phosphatidylinositol-3,4-bisphosphate binding",
+            "phosphatidylinositol-3-phosphate binding",
+            "phosphatidylinositol-4,5-bisphosphate binding",
+            "phosphatidylinositol-4-phosphate binding",
+            "phosphatidylinositol-5-phosphate binding",
+            "protein serine kinase activity",
+            "protein serine/threonine kinase activity",
+            "structural constituent of muscle",
+            "titin binding",
+            "cell-cell adhesion",
+            "protein localization to M-band",
+            "protein phosphorylation",
+            "regulation of small GTPase mediated signal transduction",
+            "sarcomere organization"
+        ],
+        "Location": [
+            "nucleus",
+            "myofibril",
+            "sarcomere",
+            "m line",
+            "cytoplasm",
+            "cell membrane",
+            "sarcolemma",
+            "z line",
+            "membrane"
+        ],
+        "Disease": [],
+        "Disease_description": [],
+        "Complexes": [
+            "Interacts (via protein kinase domain 2) with CDH2 and (via protein kinase domain 1) with ATP1B1 (By similarity). Isoform 3 interacts with TTN/titin and calmodulin (PubMed:11448995, PubMed:11717165). Isoform 3 interacts with ANK1 isoform Mu17/ank1.5 (PubMed:12527750)"
+        ]
+    },
+    "PGBD1": {
+        "UniProtKB_ID": "PGBD1_HUMAN",
+        "Description": "PiggyBac transposable element-derived protein 1",
+        "GO": [
+            "membrane",
+            "DNA-binding transcription factor activity, RNA polymerase II-specific",
+            "identical protein binding",
+            "RNA polymerase II cis-regulatory region sequence-specific DNA binding",
+            "scavenger receptor activity",
+            "regulation of transcription by RNA polymerase II"
+        ],
+        "Location": [],
+        "Disease": [],
+        "Disease_description": [],
+        "Complexes": []
+    },
+    "PLXNA4": {
+        "UniProtKB_ID": "PLXA4_HUMAN",
+        "Description": "Plexin-A4",
+        "GO": [
+            "cerebellar climbing fiber to Purkinje cell synapse",
+            "plasma membrane",
+            "semaphorin receptor complex",
+            "semaphorin receptor activity",
+            "anterior commissure morphogenesis",
+            "chemorepulsion of branchiomotor axon",
+            "embryonic heart tube development",
+            "facial nerve structural organization",
+            "glossopharyngeal nerve morphogenesis",
+            "maintenance of synapse structure",
+            "negative regulation of cell adhesion",
+            "positive regulation of axonogenesis",
+            "postganglionic parasympathetic fiber development",
+            "regulation of axon extension involved in axon guidance",
+            "regulation of cell migration",
+            "regulation of cell shape",
+            "regulation of GTPase activity",
+            "regulation of negative chemotaxis",
+            "semaphorin-plexin signaling pathway",
+            "semaphorin-plexin signaling pathway involved in axon guidance",
+            "sympathetic nervous system development",
+            "sympathetic neuron axon guidance",
+            "trigeminal nerve structural organization",
+            "vagus nerve morphogenesis"
+        ],
+        "Location": [
+            "cell membrane",
+            "membrane"
+        ],
+        "Disease": [],
+        "Disease_description": [],
+        "Complexes": [
+            "Interacts with NRP1 and NRP2"
+        ]
+    },
+    "PRX": {
+        "UniProtKB_ID": "PRAX_HUMAN",
+        "Description": "Periaxin",
+        "GO": [
+            "anchoring junction",
+            "cytoplasm",
+            "nucleus",
+            "plasma membrane",
+            "axon ensheathment",
+            "peripheral nervous system myelin maintenance",
+            "regulation of RNA splicing"
+        ],
+        "Location": [
+            "nucleus",
+            "cell junction",
+            "cytoplasm",
+            "cell membrane",
+            "membrane"
+        ],
+        "Disease": [
+            "Dejerine-Sottas syndrome",
+            "Charcot-Marie-Tooth disease 4F",
+            "Charcot-Marie-Tooth disease",
+            "Dejerine-Sottas syndrome",
+            "Disease variant",
+            "Neurodegeneration",
+            "Neuropathy"
+        ],
+        "Disease_description": [
+            "Dejerine-Sottas syndrome: A severe degenerating neuropathy of the demyelinating Charcot-Marie-Tooth disease category, with onset by age 2 years. Characterized by motor and sensory neuropathy with very slow nerve conduction velocities, increased cerebrospinal fluid protein concentrations, hypertrophic nerve changes, delayed age of walking as well as areflexia. There are both autosomal dominant and autosomal recessive forms of Dejerine-Sottas syndrome.",
+            "Charcot-Marie-Tooth disease 4F: A recessive demyelinating form of Charcot-Marie-Tooth disease, a disorder of the peripheral nervous system, characterized by progressive weakness and atrophy, initially of the peroneal muscles and later of the distal muscles of the arms. Charcot-Marie-Tooth disease is classified in two main groups on the basis of electrophysiologic properties and histopathology: primary peripheral demyelinating neuropathies (designated CMT1 when they are dominantly inherited) and primary peripheral axonal neuropathies (CMT2). Demyelinating neuropathies are characterized by severely reduced nerve conduction velocities (less than 38 m/sec), segmental demyelination and remyelination with onion bulb formations on nerve biopsy, slowly progressive distal muscle atrophy and weakness, absent deep tendon reflexes, and hollow feet. By convention autosomal recessive forms of demyelinating Charcot-Marie-Tooth disease are designated CMT4. CMT4F is characterized by distal sensory impairment and distal muscle weakness and atrophy affecting the lower more than the upper limbs. The age at onset is variable and can range from childhood to adult years. When the onset is in infancy, the phenotype is characterized as Dejerine-Sottas syndrome."
+        ],
+        "Complexes": [
+            "Homodimer (via PDZ domain) (PubMed:24675079). Interacts with SCN10A. Found in a complex with SCN10A (By similarity). Interacts with DRP2. Identified in a dystroglycan complex that contains at least PRX, DRP2, UTRN, DMD and DAG1 (By similarity). Detected in a complex composed of at least EZR, AHNAK, PPL and PRX (By similarity). Identified in a complex with EZR, AHNAK, BFSP1, BFSP2, ANK2, PLEC, VIM and spectrin (By similarity)"
+        ]
+    },
+    "PTK2": {
+        "UniProtKB_ID": "FAK1_HUMAN",
+        "Description": "Focal adhesion kinase 1",
+        "GO": [
+            "cell cortex",
+            "ciliary basal body",
+            "cytoplasm",
+            "cytoskeleton",
+            "cytosol",
+            "dendritic spine",
+            "extrinsic component of cytoplasmic side of plasma membrane",
+            "focal adhesion",
+            "intracellular membrane-bounded organelle",
+            "nucleus",
+            "perinuclear region of cytoplasm",
+            "plasma membrane",
+            "stress fiber",
+            "actin binding",
+            "ATP binding",
+            "integrin binding",
+            "JUN kinase binding",
+            "molecular function activator activity",
+            "non-membrane spanning protein tyrosine kinase activity",
+            "protein kinase binding",
+            "protein phosphatase binding",
+            "protein tyrosine kinase activity",
+            "protein tyrosine phosphatase activity",
+            "SH2 domain binding",
+            "signaling receptor binding",
+            "angiogenesis",
+            "axon guidance",
+            "cell differentiation",
+            "cell migration",
+            "cell motility",
+            "detection of muscle stretch",
+            "ephrin receptor signaling pathway",
+            "epidermal growth factor receptor signaling pathway",
+            "establishment of cell polarity",
+            "Fc-gamma receptor signaling pathway involved in phagocytosis",
+            "growth hormone receptor signaling pathway",
+            "heart morphogenesis",
+            "innate immune response",
+            "integrin-mediated signaling pathway",
+            "negative regulation of anoikis",
+            "negative regulation of apoptotic process",
+            "negative regulation of cell-cell adhesion",
+            "netrin-activated signaling pathway",
+            "peptidyl-tyrosine phosphorylation",
+            "placenta development",
+            "positive regulation of cell migration",
+            "positive regulation of cell population proliferation",
+            "positive regulation of epithelial cell migration",
+            "positive regulation of epithelial to mesenchymal transition",
+            "positive regulation of fibroblast migration",
+            "positive regulation of macrophage chemotaxis",
+            "positive regulation of macrophage proliferation",
+            "positive regulation of phosphatidylinositol 3-kinase activity",
+            "positive regulation of phosphatidylinositol 3-kinase signaling",
+            "positive regulation of protein kinase activity",
+            "positive regulation of protein kinase B signaling",
+            "positive regulation of protein phosphorylation",
+            "positive regulation of ubiquitin-dependent protein catabolic process",
+            "positive regulation of wound healing",
+            "protein autophosphorylation",
+            "protein phosphorylation",
+            "regulation of cell adhesion",
+            "regulation of cell adhesion mediated by integrin",
+            "regulation of cell population proliferation",
+            "regulation of cell shape",
+            "regulation of cytoskeleton organization",
+            "regulation of endothelial cell migration",
+            "regulation of epithelial cell migration",
+            "regulation of focal adhesion assembly",
+            "regulation of GTPase activity",
+            "regulation of osteoblast differentiation",
+            "regulation of protein phosphorylation",
+            "regulation of substrate adhesion-dependent cell spreading",
+            "signal complex assembly",
+            "transforming growth factor beta receptor signaling pathway",
+            "transmembrane receptor protein tyrosine kinase signaling pathway",
+            "vascular endothelial growth factor receptor signaling pathway"
+        ],
+        "Location": [
+            "nucleus",
+            "cell junction",
+            "centrosome",
+            "perinuclear region",
+            "focal adhesion",
+            "microtubule organizing center",
+            "cytoplasm",
+            "cilium basal body",
+            "cell membrane",
+            "membrane",
+            "cytoskeleton",
+            "cell projection",
+            "cell cortex"
+        ],
+        "Disease": [],
+        "Disease_description": [],
+        "Complexes": [
+            "Interacts (via first Pro-rich region) with CAS family members (via SH3 domain), including BCAR1, BCAR3, and CASS4. Interacts with NEDD9 (via SH3 domain) (PubMed:9360983). Interacts with GIT1. Interacts with SORBS1. Interacts with ARHGEF28. Interacts with SHB. Part of a complex composed of THSD1, PTK2/FAK1, TLN1 and VCL (PubMed:29069646). Interacts with PXN and TLN1. Interacts with STAT1. Interacts with DCC. Interacts with WASL. Interacts with ARHGEF7. Interacts with GRB2 and GRB7 (By similarity). Component of a complex that contains at least FER, CTTN and PTK2/FAK1. Interacts with BMX. Interacts with TGFB1I1. Interacts with STEAP4. Interacts with ZFYVE21. Interacts with ESR1. Interacts with PIK3R1 or PIK3R2. Interacts with SRC, FGR, FLT4 and RET. Interacts with EPHA2 in resting cells; activation of EPHA2 recruits PTPN11, leading to dephosphorylation of PTK2/FAK1 and dissociation of the complex. Interacts with EPHA1 (kinase activity-dependent). Interacts with CD4; this interaction requires the presence of HIV-1 gp120. Interacts with PIAS1. Interacts with ARHGAP26 and SHC1. Interacts with RB1CC1; this inhibits PTK2/FAK1 activity and activation of downstream signaling pathways. Interacts with P53/TP53 and MDM2. Interacts with LPXN (via LD motif 3). Interacts with MISP. Interacts with CIB1 isoform 2. Interacts with CD36. Interacts with EMP2; regulates PTK2 activation and localization (PubMed:19494199). Interacts with DSCAM (By similarity). Interacts with AMBRA1 (By similarity). Interacts (when tyrosine-phosphorylated) with tensin TNS1; the interaction is increased by phosphorylation of TNS1 (PubMed:20798394)"
+        ]
+    },
+    "PXN": {
+        "UniProtKB_ID": "PAXI_HUMAN",
+        "Description": "Paxillin",
+        "GO": [
+            "cell cortex",
+            "cell-cell junction",
+            "cytosol",
+            "focal adhesion",
+            "lamellipodium",
+            "microtubule associated complex",
+            "plasma membrane",
+            "stress fiber",
+            "beta-catenin binding",
+            "metal ion binding",
+            "neuropilin binding",
+            "protein phosphatase binding",
+            "transcription coregulator activity",
+            "vinculin binding",
+            "cell adhesion",
+            "cell migration",
+            "cellular response to reactive oxygen species",
+            "endothelial cell migration",
+            "growth hormone receptor signaling pathway",
+            "positive regulation of stress fiber assembly",
+            "signal complex assembly",
+            "signal transduction",
+            "substrate adhesion-dependent cell spreading",
+            "transforming growth factor beta receptor signaling pathway"
+        ],
+        "Location": [
+            "cell junction",
+            "focal adhesion",
+            "cytoplasm",
+            "cytoskeleton",
+            "cell cortex"
+        ],
+        "Disease": [],
+        "Disease_description": [],
+        "Complexes": [
+            "Interacts in vitro with VCL/vinculin as well as to the SH3 domain of SRC and, when tyrosine phosphorylated, to the SH2 domain of CRK (PubMed:7534286). Interacts with GIT1 (PubMed:10938112). Interacts with NUDT16L1/SDOS (By similarity). Interacts with PTK2/FAK1 (PubMed:14527389). Interacts with PTK2B/PYK2 (PubMed:19358827). Interacts with ASAP2 (PubMed:10749932). Interacts with unphosphorylated ITGA4 (PubMed:10604475). Interacts with RNF5 (PubMed:12861019). Interacts with PDCD10 (PubMed:20489202). Interacts with NEK3, the interaction is prolactin-dependent (PubMed:17297458). Interacts with PTK6 (PubMed:15572663). Interacts with TGFB1I1 (By similarity). Interacts with SORBS1 (PubMed:17462669). Interacts with PARVB (PubMed:22869380). Interacts (via LD motif 4) with PARVA/PARVIN (PubMed:15817463, PubMed:18508764, PubMed:18940607). Interacts (via LD motif 4) with ILK (PubMed:15817463, PubMed:18508764, PubMed:18940607). Interacts (via cytoplasmic domain) with CEACAM1; the interaction is phosphotyrosyl-dependent (PubMed:11035932). Interacts with LIMA1; this complex stabilizes actin dynamics (PubMed:24694988). Interacts with CD36 (via C-terminus) (PubMed:20037584)",
+            "Interacts strongly with PTK2/FAK1 and weakly with VCL/vinculin",
+            "Interacts strongly with VCL/vinculin but only weakly with PTK2/FAK1"
+        ]
+    },
+    "SDC1": {
+        "UniProtKB_ID": "SDC1_HUMAN",
+        "Description": "Syndecan-1",
+        "GO": [
+            "cell surface",
+            "external side of plasma membrane",
+            "extracellular exosome",
+            "Golgi lumen",
+            "lysosomal lumen",
+            "plasma membrane",
+            "protein-containing complex",
+            "cargo receptor activity",
+            "identical protein binding",
+            "protein C-terminus binding",
+            "canonical Wnt signaling pathway",
+            "cell migration",
+            "inflammatory response",
+            "myoblast development",
+            "odontogenesis",
+            "positive regulation of exosomal secretion",
+            "positive regulation of extracellular exosome assembly",
+            "receptor-mediated endocytosis",
+            "response to calcium ion",
+            "response to cAMP",
+            "response to glucocorticoid",
+            "response to hydrogen peroxide",
+            "response to toxic substance",
+            "Sertoli cell development",
+            "striated muscle cell development",
+            "ureteric bud development",
+            "wound healing"
+        ],
+        "Location": [
+            "secreted",
+            "membrane",
+            "extracellular exosome"
+        ],
+        "Disease": [],
+        "Disease_description": [],
+        "Complexes": [
+            "Interacts with CDCP1. Interacts (via C-terminus) with TIAM1 (via PDZ domain). Interacts with MDK (By similarity)"
+        ]
+    },
+    "SENP1": {
+        "UniProtKB_ID": "SENP1_HUMAN",
+        "Description": "Sentrin-specific protease 1",
+        "GO": [
+            "cytoplasm",
+            "focal adhesion",
+            "nuclear membrane",
+            "nucleoplasm",
+            "nucleus",
+            "deSUMOylase activity",
+            "endopeptidase activity",
+            "SUMO-specific endopeptidase activity",
+            "activation of cysteine-type endopeptidase activity involved in apoptotic process",
+            "apoptotic signaling pathway",
+            "positive regulation of transcription by RNA polymerase II",
+            "protein desumoylation",
+            "protein sumoylation",
+            "proteolysis"
+        ],
+        "Location": [
+            "cytoplasm",
+            "nucleus"
+        ],
+        "Disease": [],
+        "Disease_description": [],
+        "Complexes": [
+            "Interacts with MTA1. Interacts with CCAR2 (via N-terminus)"
+        ]
+    },
+    "TLE2": {
+        "UniProtKB_ID": "TLE2_HUMAN",
+        "Description": "Transducin-like enhancer protein 2",
+        "GO": [
+            "extracellular space",
+            "focal adhesion",
+            "nuclear body",
+            "nucleoplasm",
+            "nucleus",
+            "transcription regulator complex",
+            "transcription corepressor activity",
+            "animal organ morphogenesis",
+            "negative regulation of canonical Wnt signaling pathway",
+            "negative regulation of DNA-templated transcription",
+            "signal transduction",
+            "Wnt signaling pathway"
+        ],
+        "Location": [
+            "nucleus"
+        ],
+        "Disease": [],
+        "Disease_description": [],
+        "Complexes": [
+            "Homooligomer and heterooligomer with other family members. Binds LEF1, TCF7, TCF7L1, TCF7L2, UTY, HES1 and HES5"
+        ]
+    },
+    "TLN1": {
+        "UniProtKB_ID": "TLN1_HUMAN",
+        "Description": "Talin-1",
+        "GO": [
+            "adherens junction",
+            "cell surface",
+            "cytoskeleton",
+            "cytosol",
+            "extracellular exosome",
+            "extracellular region",
+            "focal adhesion",
+            "plasma membrane",
+            "ruffle",
+            "ruffle membrane",
+            "actin filament binding",
+            "cadherin binding",
+            "integrin binding",
+            "LIM domain binding",
+            "phosphatidylinositol binding",
+            "phosphatidylserine binding",
+            "structural constituent of cytoskeleton",
+            "vinculin binding",
+            "cell-cell adhesion",
+            "cell-cell junction assembly",
+            "cell-substrate junction assembly",
+            "cortical actin cytoskeleton organization",
+            "integrin activation",
+            "integrin-mediated signaling pathway",
+            "platelet aggregation",
+            "regulation of focal adhesion assembly"
+        ],
+        "Location": [
+            "ruffle membrane",
+            "cell junction",
+            "focal adhesion",
+            "cytoplasm",
+            "cell membrane",
+            "membrane",
+            "cytoskeleton",
+            "cell projection",
+            "cell surface"
+        ],
+        "Disease": [],
+        "Disease_description": [],
+        "Complexes": [
+            "Part of a complex composed of THSD1, PTK2/FAK1, TLN1 and VCL (PubMed:29069646). Interacts with THSD1 (PubMed:27895300, PubMed:29069646); this promotes interaction with PTK2/FAK1 and VCL. Binds with high affinity to VCL and with low affinity to integrins (PubMed:15070891). Interacts with APBB1IP; this inhibits VCL binding. Interacts with PTK2/FAK1 (By similarity). Interacts with PIP5K1C and NRAP (PubMed:10320340, PubMed:12422220). Interacts with LAYN (By similarity). Interacts with SYNM (PubMed:18342854). Interacts with ITGB1; the interaction is prevented by competitive binding of ITGB1BP1 (PubMed:21768292, PubMed:12473654)",
+            "(Microbial infection) Interacts with human cytomegalovirus protein UL135"
+        ]
+    },
+    "TNNI1": {
+        "UniProtKB_ID": "TNNI1_HUMAN",
+        "Description": "Troponin I, slow skeletal muscle",
+        "GO": [
+            "cytosol",
+            "troponin complex",
+            "actin binding",
+            "cardiac muscle contraction",
+            "muscle contraction",
+            "regulation of striated muscle contraction",
+            "skeletal muscle contraction",
+            "transition between fast and slow fiber",
+            "ventricular cardiac muscle tissue morphogenesis"
+        ],
+        "Location": [],
+        "Disease": [],
+        "Disease_description": [],
+        "Complexes": [
+            "Binds to actin and tropomyosin"
+        ]
+    },
+    "TNNT1": {
+        "UniProtKB_ID": "TNNT1_HUMAN",
+        "Description": "Troponin T, slow skeletal muscle",
+        "GO": [
+            "cytosol",
+            "troponin complex",
+            "tropomyosin binding",
+            "troponin T binding",
+            "muscle contraction",
+            "negative regulation of muscle contraction",
+            "sarcomere organization",
+            "skeletal muscle contraction",
+            "slow-twitch skeletal muscle fiber contraction",
+            "transition between fast and slow fiber"
+        ],
+        "Location": [],
+        "Disease": [
+            "Nemaline myopathy 5",
+            "Nemaline myopathy"
+        ],
+        "Disease_description": [
+            "Nemaline myopathy 5: A form of nemaline myopathy. Nemaline myopathies are muscular disorders characterized by muscle weakness of varying severity and onset, and abnormal thread-like or rod-shaped structures in muscle fibers on histologic examination. Nemaline myopathy type 5 is a severe and progressive form common among Old Order Amish. Affected infants display tremors with hypotonia and mild contractures of the shoulders and hips. Proximal contractures progressively weaken and a pectus carinatum deformity develops before children die of respiratory insufficiency, usually in the second year."
+        ],
+        "Complexes": []
+    },
+    "TNS1": {
+        "UniProtKB_ID": "TENS1_HUMAN",
+        "Description": "Tensin-1",
+        "GO": [
+            "cell surface",
+            "cytoplasm",
+            "cytoskeleton",
+            "focal adhesion",
+            "actin binding",
+            "metal ion binding",
+            "phosphoprotein phosphatase activity",
+            "RNA binding",
+            "fibroblast migration"
+        ],
+        "Location": [
+            "cell junction",
+            "focal adhesion",
+            "cytoplasm",
+            "cytoskeleton",
+            "cell surface"
+        ],
+        "Disease": [],
+        "Disease_description": [],
+        "Complexes": [
+            "Binds to actin filaments and interacts with phosphotyrosine-containing proteins. Interacts with STARD8 (PubMed:17517630). Interacts with protein phosphatase PPP1CA (PubMed:19826001). Interacts (via N-terminus) with Rho GTPase-activating protein DLC1; the interaction is decreased by phosphorylation of TNS1 (PubMed:19826001, PubMed:20798394, PubMed:26427649). Interacts with tyrosine-phosphorylated proteins BCAR1/p130Cas and PTK2/FAK; the interactions are increased by phosphorylation of TNS1 (PubMed:20798394)"
+        ]
+    },
+    "TNS3": {
+        "UniProtKB_ID": "TENS3_HUMAN",
+        "Description": "Tensin-3",
+        "GO": [
+            "cytosol",
+            "focal adhesion",
+            "phosphatase activity",
+            "dephosphorylation"
+        ],
+        "Location": [
+            "cell projection",
+            "podosome",
+            "cell junction",
+            "focal adhesion"
+        ],
+        "Disease": [],
+        "Disease_description": [],
+        "Complexes": [
+            "Interacts with EGFR; EGF promotes the interaction with EGFR (PubMed:15140944). Interacts with PTK2/FAK1 and BCAR1 (PubMed:15140944). Tyrosine phosphorylation is critical for these interactions (PubMed:15140944). Interacts with Rho GTPase-activating protein DLC1 and with the regulatory p85 subunit of the PI3K kinase complex; in resting cells, interacts (via C2 tensin-type domain) with DLC1 but, following growth factor stimulation, TNS3 is phosphorylated which leads to weakened interaction with DLC1 and enhanced interaction (via C2 tensin-type domain) with p85 while DLC1 interaction with PTEN increases (PubMed:26166433). Interacts (when phosphorylated on the SH2 domain) with integrins ITGB1, ITGB3 and ITGB5 and with scaffolding protein PEAK1 (phosphorylated on 'Tyr-635'); mediates the association of PEAK1 with ITGB1, ITGB3 and ITGB5 (PubMed:35687021). Interacts (via N-terminus) with DOCK5 (via N-terminus); the interaction increases DOCK5 guanine nucleotide exchange activity towards Rac (By similarity). Interacts with receptor tyrosine kinase MET (PubMed:24814316)"
+        ]
+    },
+    "TRIM62": {
+        "UniProtKB_ID": "TRI62_HUMAN",
+        "Description": "E3 ubiquitin-protein ligase TRIM62",
+        "GO": [
+            "cytoplasm",
+            "cytosol",
+            "identical protein binding",
+            "transcription coactivator activity",
+            "ubiquitin protein ligase activity",
+            "ubiquitin-protein transferase activity",
+            "zinc ion binding",
+            "innate immune response",
+            "negative regulation of epithelial to mesenchymal transition",
+            "negative regulation of viral transcription",
+            "positive regulation of antifungal innate immune response",
+            "positive regulation of DNA-binding transcription factor activity",
+            "positive regulation of I-kappaB kinase/NF-kappaB signaling",
+            "positive regulation of NF-kappaB transcription factor activity",
+            "protein K27-linked ubiquitination",
+            "protein ubiquitination",
+            "regulation of viral entry into host cell",
+            "viral release from host cell"
+        ],
+        "Location": [
+            "cytoplasm"
+        ],
+        "Disease": [],
+        "Disease_description": [],
+        "Complexes": [
+            "Interacts with the ubiquitin-conjugating enzyme, UBE2D2"
+        ]
+    },
+    "TRIP6": {
+        "UniProtKB_ID": "TRIP6_HUMAN",
+        "Description": "Thyroid receptor-interacting protein 6",
+        "GO": [
+            "cytoplasm",
+            "cytoskeleton",
+            "cytosol",
+            "focal adhesion",
+            "nucleus",
+            "plasma membrane",
+            "stress fiber",
+            "interleukin-1 receptor binding",
+            "kinase binding",
+            "metal ion binding",
+            "nuclear thyroid hormone receptor binding",
+            "RNA binding",
+            "chordate embryonic development",
+            "focal adhesion assembly",
+            "positive regulation of cell migration",
+            "positive regulation of NIK/NF-kappaB signaling",
+            "signal transduction"
+        ],
+        "Location": [
+            "nucleus",
+            "cell junction",
+            "focal adhesion",
+            "cytoplasm",
+            "cytoskeleton"
+        ],
+        "Disease": [],
+        "Disease_description": [],
+        "Complexes": [
+            "Specifically interacts with the ligand binding domain of the thyroid receptor (TR) in the presence of thyroid hormone (PubMed:14688263). Interacts (via the third LIM domain and C-terminus) with PTPN13 (via the second PDZ domain) (PubMed:10400701, PubMed:17591779, PubMed:19017743, PubMed:10826496). Interacts (via the second LIM domain or via the third LIM domain plus C-terminus) with PDLIM4 (via PDZ domain) (PubMed:10826496). Found in a complex with PTPN13 and PDLIM4 (By similarity). Interacts with SVIL isoform 2 (PubMed:16880273). Interacts with LPAR2 but not other LPA receptors (PubMed:14688263). Interacts with PRKAA2 (PubMed:16624523). Interacts with MAGI1 (PubMed:19017743). Interacts with SCRIB (PubMed:16137684). In case of infection, interacts with S.typhimurium protein sseI (PubMed:17095609)"
+        ]
+    },
+    "USP33": {
+        "UniProtKB_ID": "UBP33_HUMAN",
+        "Description": "Ubiquitin carboxyl-terminal hydrolase 33",
+        "GO": [
+            "centrosome",
+            "cytoplasm",
+            "cytosol",
+            "focal adhesion",
+            "Golgi apparatus",
+            "neuronal cell body",
+            "nucleoplasm",
+            "perinuclear region of cytoplasm",
+            "VCB complex",
+            "cysteine-type deubiquitinase activity",
+            "cysteine-type endopeptidase activity",
+            "G protein-coupled receptor binding",
+            "small GTPase binding",
+            "zinc ion binding",
+            "axon guidance",
+            "cell migration",
+            "cellular response to starvation",
+            "centrosome duplication",
+            "endocytosis",
+            "negative regulation of protein binding",
+            "positive regulation of protein binding",
+            "protein deubiquitination",
+            "protein K48-linked deubiquitination",
+            "protein K63-linked deubiquitination",
+            "protein stabilization",
+            "regulation of autophagy",
+            "regulation of G protein-coupled receptor signaling pathway",
+            "ubiquitin-dependent protein catabolic process"
+        ],
+        "Location": [
+            "centrosome",
+            "perinuclear region",
+            "microtubule organizing center",
+            "cytoplasm",
+            "golgi apparatus",
+            "cytoskeleton"
+        ],
+        "Disease": [],
+        "Disease_description": [],
+        "Complexes": [
+            "Interacts with VHL, leading to its ubiquitination and subsequent degradation (PubMed:11739384). Interacts with ARRB1 and ARRB2 (PubMed:19363159). Interacts with ADRB2 (PubMed:19424180). Interacts with DIO2 (PubMed:12865408). Interacts with ROBO1. Interacts with SELENBP1; in a selenium-dependent manner (PubMed:19118533). Interacts with CCP110 (PubMed:23486064). Interacts with ADRB2 (PubMed:23166351)"
+        ]
+    },
+    "VIPR2": {
+        "UniProtKB_ID": "VIPR2_HUMAN",
+        "Description": "Vasoactive intestinal polypeptide receptor 2",
+        "GO": [
+            "plasma membrane",
+            "G protein-coupled peptide receptor activity",
+            "G protein-coupled receptor activity",
+            "peptide hormone binding",
+            "vasoactive intestinal polypeptide receptor activity",
+            "activation of adenylate cyclase activity",
+            "adenylate cyclase-modulating G protein-coupled receptor signaling pathway",
+            "cell surface receptor signaling pathway",
+            "cell-cell signaling",
+            "negative regulation of smooth muscle cell proliferation",
+            "signal transduction"
+        ],
+        "Location": [
+            "cell membrane",
+            "membrane"
+        ],
+        "Disease": [],
+        "Disease_description": [],
+        "Complexes": []
+    },
+    "ZYX": {
+        "UniProtKB_ID": "ZYX_HUMAN",
+        "Description": "Zyxin",
+        "GO": [
+            "actin cytoskeleton",
+            "adherens junction",
+            "cytoplasm",
+            "cytosol",
+            "focal adhesion",
+            "nucleus",
+            "phagocytic vesicle",
+            "plasma membrane",
+            "stress fiber",
+            "metal ion binding",
+            "RNA binding",
+            "cell-cell signaling",
+            "cell-matrix adhesion",
+            "cellular response to type II interferon",
+            "integrin-mediated signaling pathway",
+            "regulation of inflammatory response",
+            "signal transduction",
+            "stress fiber assembly",
+            "transforming growth factor beta receptor signaling pathway"
+        ],
+        "Location": [
+            "nucleus",
+            "cell junction",
+            "focal adhesion",
+            "cytoplasm",
+            "cytoskeleton"
+        ],
+        "Disease": [],
+        "Disease_description": [],
+        "Complexes": [
+            "Interacts with HPV type 6 protein E6. Does not interact significantly with E6 proteins from HPV types 11, 16, or 18. Interacts, via the Pro-rich regions, with the EVH1 domains of ENAH, EVL and VASP. Interacts with the first LIM domain of TES. Interacts with NEBL (isoform 2). Interacts with SYNPO2",
+            "(Microbial infection) Interacts with human papillomavirus type 6/HPV6 protein E6. Does not interact significantly with E6 proteins from HPV types 11, 16, or 18"
+        ]
+    }
+}

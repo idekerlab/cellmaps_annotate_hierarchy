@@ -1,0 +1,197 @@
+Feature	Number of Genes	Genes
+protein binding	15	WASHC2A, CRACD, WASHC2C, CNOT2, CNOT6L, CAPZA2, CAPZB, CD2AP, CNOT11, CNOT3, CNOT9, DCTN2, SH3BP1, TWF1, WASHC1
+cytosol	15	WASHC2A, CRACD, WASHC2C, CNOT2, CNOT6L, CAPZA2, CAPZB, CNOT11, CNOT3, CNOT9, DCTN2, DCTN6, SH3BP1, TWF1, WASHC1
+nucleus	7	GGNBP2, CNOT2, CNOT6L, CNOT11, CNOT3, CNOT9, SH3BP1
+cytoplasm	6	GGNBP2, CNOT2, CNOT6L, CD2AP, DCTN2, TWF1
+nuclear-transcribed mRNA poly(A) tail shortening	5	CNOT2, CNOT6L, CNOT11, CNOT3, CNOT9
+RNA-mediated gene silencing	5	CNOT2, CNOT6L, CNOT11, CNOT3, CNOT9
+membrane	5	CNOT2, CAPZA2, CAPZB, CNOT9, DCTN2
+CCR4-NOT complex	5	CNOT2, CNOT6L, CNOT11, CNOT3, CNOT9
+plasma membrane	4	WASHC2A, WASHC2C, CNOT2, CD2AP
+WASH complex	4	WASHC2A, WASHC2C, CAPZB, WASHC1
+actin cytoskeleton	4	CAPZA2, CAPZB, CD2AP, TWF1
+extracellular exosome	4	CAPZA2, CAPZB, CD2AP, DCTN2
+protein transport	3	WASHC2A, WASHC2C, WASHC1
+endosomal transport	3	WASHC2A, WASHC2C, WASHC1
+ Arp2/3 complex-mediated actin nucleation	3	WASHC2A, WASHC2C, WASHC1
+retrograde transport, endosome to Golgi	3	WASHC2A, WASHC2C, WASHC1
+early endosome	3	WASHC2A, WASHC2C, WASHC1
+early endosome membrane	3	WASHC2A, WASHC2C, WASHC1
+P-body	3	CNOT2, CNOT3, CNOT9
+CCR4-NOT core complex	3	CNOT2, CNOT3, CNOT9
+actin filament binding	3	CAPZA2, CAPZB, TWF1
+barbed-end actin filament capping	3	CAPZA2, CAPZB, TWF1
+actin binding	3	CAPZB, TWF1, WASHC1
+cadherin binding	3	CAPZB, CD2AP, TWF1
+phosphatidylinositol phosphate binding	2	WASHC2A, WASHC2C
+retromer complex binding	2	WASHC2A, WASHC2C
+protein localization to endosome	2	WASHC2A, WASHC2C
+nucleolus	2	WASHC2A, WASHC2C
+intracellular membrane-bounded organelle	2	WASHC2A, WASHC2C
+negative regulation of barbed-end actin filament capping	2	CRACD, WASHC2C
+phosphatidylinositol-4,5-bisphosphate binding	2	WASHC2C, TWF1
+endocytic recycling	2	WASHC2C, WASHC1
+poly(A)-specific ribonuclease activity	2	CNOT2, CNOT6L
+trophectodermal cell differentiation	2	CNOT2, CNOT3
+ cytoplasmic mRNA processing body assembly	2	CNOT2, CNOT6L
+negative regulation of intracellular estrogen receptor signaling pathway	2	CNOT2, CNOT9
+RNA phosphodiester bond hydrolysis, exonucleolytic	2	CNOT2, CNOT6L
+ stem cell population maintenance	2	CNOT2, CNOT3
+protein-containing complex assembly	2	CAPZA2, CD2AP
+brush border	2	CAPZA2, CAPZB
+F-actin capping protein complex	2	CAPZA2, CAPZB
+cortical cytoskeleton	2	CAPZA2, CAPZB
+ lamellipodium assembly	2	CAPZB, TWF1
+lamellipodium	2	CAPZB, SH3BP1
+SH3 domain binding	2	CD2AP, SH3BP1
+identical protein binding	2	CD2AP, DCTN2
+actin filament organization	2	CD2AP, SH3BP1
+cell migration	2	CD2AP, SH3BP1
+ actin cytoskeleton organization	2	CD2AP, SH3BP1
+negative regulation of small GTPase mediated signal transduction	2	CD2AP, SH3BP1
+cell-cell junction	2	CD2AP, TWF1
+cell leading edge	2	CD2AP, SH3BP1
+vesicle	2	CD2AP, DCTN2
+perinuclear region of cytoplasm	2	CD2AP, TWF1
+ DNA-templated transcription	2	CNOT3, CNOT9
+mitotic spindle organization	2	DCTN2, DCTN6
+kinetochore	2	DCTN2, DCTN6
+centrosome	2	DCTN2, DCTN6
+dynactin complex	2	DCTN2, DCTN6
+epithelial structure maintenance	1	CRACD
+maintenance of gastrointestinal epithelium	1	CRACD
+ actin filament polymerization	1	CRACD
+phosphatidylinositol-3,4,5-trisphosphate binding	1	WASHC2C
+phosphatidylinositol-5-phosphate binding	1	WASHC2C
+phosphatidylinositol-3-phosphate binding	1	WASHC2C
+phosphatidylinositol-3,4-bisphosphate binding	1	WASHC2C
+phosphatidylinositol-4-phosphate binding	1	WASHC2C
+phosphatidylinositol-3,5-bisphosphate binding	1	WASHC2C
+ substrate adhesion-dependent cell spreading	1	WASHC2C
+endosome	1	WASHC2C
+spermatogenesis	1	GGNBP2
+negative regulation of cell population proliferation	1	GGNBP2
+negative regulation of gene expression	1	GGNBP2
+cell differentiation	1	GGNBP2
+negative regulation of peptidyl-serine phosphorylation of STAT protein	1	GGNBP2
+negative regulation of tyrosine phosphorylation of STAT protein	1	GGNBP2
+labyrinthine layer blood vessel development	1	GGNBP2
+negative regulation of protein tyrosine kinase activity	1	GGNBP2
+cytoplasmic vesicle	1	GGNBP2
+transcription corepressor binding	1	CNOT2
+transcription coregulator activity	1	CNOT2
+negative regulation of transcription by RNA polymerase II	1	CNOT2
+DNA-templated transcription	1	CNOT2
+ transcription by RNA polymerase II	1	CNOT2
+nucleoplasm	1	CNOT2
+metal ion binding	1	CNOT6L
+mRNA processing	1	CNOT6L
+ cell population proliferation	1	CNOT6L
+actin cytoskeleton organization	1	CAPZA2
+extracellular region	1	CAPZA2
+cell morphogenesis	1	CAPZB
+cytoskeleton organization	1	CAPZB
+actin polymerization or depolymerization	1	CAPZB
+ cell morphogenesis	1	CAPZB
+lamellipodium assembly	1	CAPZB
+negative regulation of filopodium assembly	1	CAPZB
+cytoskeleton	1	CAPZB
+postsynaptic density	1	CAPZB
+sarcomere	1	CAPZB
+sperm connecting piece	1	CAPZB
+Schaffer collateral - CA1 synapse	1	CAPZB
+hippocampal mossy fiber to CA3 synapse	1	CAPZB
+vascular endothelial growth factor receptor binding	1	CD2AP
+structural constituent of cytoskeleton	1	CD2AP
+beta-catenin binding	1	CD2AP
+protein-containing complex binding	1	CD2AP
+substrate-dependent cell migration, cell extension	1	CD2AP
+cell cycle	1	CD2AP
+signal transduction	1	CD2AP
+vesicle organization	1	CD2AP
+transforming growth factor beta1 production	1	CD2AP
+negative regulation of transforming growth factor beta1 production	1	CD2AP
+proteasome-mediated ubiquitin-dependent protein catabolic process	1	CD2AP
+ receptor-mediated endocytosis	1	CD2AP
+ protein secretion	1	CD2AP
+synapse organization	1	CD2AP
+cell division	1	CD2AP
+cell-cell adhesion	1	CD2AP
+ protein localization to nucleus	1	CD2AP
+fibrillar center	1	CD2AP
+ruffle	1	CD2AP
+endocytic vesicle	1	CD2AP
+axon	1	CD2AP
+dendrite	1	CD2AP
+neuromuscular junction	1	CD2AP
+filamentous actin	1	CD2AP
+centriolar satellite	1	CD2AP
+molecular_function	1	CNOT11
+ cold-induced thermogenesis	1	CNOT3
+epidermal growth factor receptor binding	1	CNOT9
+kinase binding	1	CNOT9
+protein domain specific binding	1	CNOT9
+nuclear receptor coactivator activity	1	CNOT9
+protein homodimerization activity	1	CNOT9
+sex differentiation	1	CNOT9
+negative regulation of translation	1	CNOT9
+cytokine-mediated signaling pathway	1	CNOT9
+ peptidyl-serine phosphorylation	1	CNOT9
+ epidermal growth factor receptor signaling pathway	1	CNOT9
+protein-containing complex	1	CNOT9
+protein kinase binding	1	DCTN2
+spectrin binding	1	DCTN2
+mitotic metaphase plate congression	1	DCTN2
+melanosome transport	1	DCTN2
+protein localization to centrosome	1	DCTN2
+microtubule	1	DCTN2
+dynein complex	1	DCTN2
+growth cone	1	DCTN2
+dynein complex binding	1	DCTN6
+GTPase activator activity	1	SH3BP1
+semaphorin receptor binding	1	SH3BP1
+phagocytosis, engulfment	1	SH3BP1
+ actin filament depolymerization	1	SH3BP1
+cell junction assembly	1	SH3BP1
+ Rac protein signal transduction	1	SH3BP1
+ blood vessel endothelial cell migration	1	SH3BP1
+ GTPase activity	1	SH3BP1
+establishment of epithelial cell apical/basal polarity	1	SH3BP1
+filopodium assembly	1	SH3BP1
+ small GTPase mediated signal transduction	1	SH3BP1
+semaphorin-plexin signaling pathway	1	SH3BP1
+ruffle assembly	1	SH3BP1
+phagocytic cup	1	SH3BP1
+intracellular anatomical structure	1	SH3BP1
+adherens junction	1	SH3BP1
+bicellular tight junction	1	SH3BP1
+actin monomer binding	1	TWF1
+protein tyrosine kinase activity	1	TWF1
+ATP binding	1	TWF1
+ cardiac muscle hypertrophy	1	TWF1
+ neuron projection development	1	TWF1
+actin filament depolymerization	1	TWF1
+negative regulation of actin filament polymerization	1	TWF1
+sequestering of actin monomers	1	TWF1
+ actin phosphorylation	1	TWF1
+actin filament	1	TWF1
+focal adhesion	1	TWF1
+myofibril	1	TWF1
+filopodium	1	TWF1
+ruffle membrane	1	TWF1
+ubiquitin protein ligase binding	1	WASHC1
+alpha-tubulin binding	1	WASHC1
+gamma-tubulin binding	1	WASHC1
+exocytosis	1	WASHC1
+negative regulation of autophagy	1	WASHC1
+extracellular matrix disassembly	1	WASHC1
+ cell migration	1	WASHC1
+ pseudopodium assembly	1	WASHC1
+ protein ubiquitination	1	WASHC1
+Arp2/3 complex-mediated actin nucleation	1	WASHC1
+negative regulation of phosphatidylinositol 3-kinase activity	1	WASHC1
+late endosome	1	WASHC1
+autophagosome	1	WASHC1
+centriole	1	WASHC1
+recycling endosome	1	WASHC1
+recycling endosome membrane	1	WASHC1

@@ -1,0 +1,22 @@
+Title: Cytoplasmic Translation Elongation Complex
+
+Summary:
+The system of proteins EEF1D, EEF1A2, ABTB1, and VARS1 appears to form a complex involved in translation elongation within the cytoplasm. EEF1D and EEF1A2 are known members of the eukaryotic translation elongation factor 1 complex, while ABTB1 and VARS1 are potentially novel members of this complex. The proteins share common features such as protein binding, translation elongation factor activity, and localization in the cytoplasm and cytosol. Further investigation is required to confirm the formation of this complex and the specific roles of ABTB1 and VARS1 within it.
+
+Cellular Components and Complexes:
+The proteins in this system are primarily localized in the cytoplasm (EEF1D, EEF1A2, ABTB1) and cytosol (EEF1D, ABTB1, VARS1). EEF1D and EEF1A2 are known members of the eukaryotic translation elongation factor 1 complex, which is involved in translational elongation.
+
+Mechanisms and Biological Processes:
+The proteins in this system are involved in protein binding, translation elongation factor activity, and translational elongation. EEF1D and EEF1A2 also exhibit translation factor activity and RNA binding. The primary biological process performed by this system is the elongation phase of translation, during which amino acids are added to the growing polypeptide chain.
+
+Proposed Name: Cytoplasmic Translation Elongation Complex
+
+References:
+
+1. Le Sourd, F., Boulben, S., Le Bouffant, R., Cormier, P., Morales, J., Belle, R., & Mulner-Lorillon, O. (2006). eEF1B: At the dawn of the 21st century. Biochimica et Biophysica Acta (BBA) - Gene Structure and Expression, 1759(1-2), 13-31. [PubMed](https://pubmed.ncbi.nlm.nih.gov/16624319/)
+
+2. Mateyak, M. K., & Kinzy, T. G. (2010). eEF1A: Thinking outside the ribosome. Journal of Biological Chemistry, 285(28), 21209-21213. [PubMed](https://pubmed.ncbi.nlm.nih.gov/20410297/)
+
+3. Xu, X., & Shi, Y. (2017). Aminoacyl-tRNA synthetases: versatile players in the changing theater of translation. RNA, 23(12), 1799-1808. [PubMed](https://pubmed.ncbi.nlm.nih.gov/28916526/)
+
+4. Kozlov, G., & Gehring, K. (2010). Molecular basis of eRF3 recognition by the MLLE domain of poly(A)-binding protein. PLoS ONE, 5(11), e15452. [PubMed](https://pubmed.ncbi.nlm.nih.gov/21085671/)

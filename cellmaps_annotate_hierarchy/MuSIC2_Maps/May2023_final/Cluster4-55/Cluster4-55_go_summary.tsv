@@ -1,0 +1,47 @@
+Feature	Number of Genes	Genes
+cytosol	3	ACTR10, MTPN, TNKS1BP1
+protein binding	2	ACTR10, TNKS1BP1
+extracellular region	2	ACTR10, PLEKHO2
+ficolin-1-rich granule lumen	2	ACTR10, PLEKHO2
+nucleus	2	MTPN, TNKS1BP1
+cytoplasm	2	MTPN, TNKS1BP1
+retrograde axonal transport of mitochondrion	1	ACTR10
+dynactin complex	1	ACTR10
+azurophil granule lumen	1	ACTR10
+axon cytoplasm	1	ACTR10
+sequence-specific DNA binding	1	MTPN
+ translation	1	MTPN
+catecholamine metabolic process	1	MTPN
+ cell size	1	MTPN
+ macromolecule biosynthetic process	1	MTPN
+ cardiac muscle hypertrophy	1	MTPN
+ striated muscle tissue development	1	MTPN
+cerebellar granule cell differentiation	1	MTPN
+neuron differentiation	1	MTPN
+ cell growth	1	MTPN
+skeletal muscle tissue regeneration	1	MTPN
+ NF-kappaB transcription factor activity	1	MTPN
+striated muscle cell differentiation	1	MTPN
+ protein metabolic process	1	MTPN
+cellular response to mechanical stimulus	1	MTPN
+ barbed-end actin filament capping	1	MTPN
+F-actin capping protein complex	1	MTPN
+axon	1	MTPN
+perinuclear region of cytoplasm	1	MTPN
+macrophage apoptotic process	1	PLEKHO2
+enzyme binding	1	TNKS1BP1
+protein-containing complex binding	1	TNKS1BP1
+cadherin binding	1	TNKS1BP1
+ankyrin repeat binding	1	TNKS1BP1
+nuclear-transcribed mRNA poly(A) tail shortening	1	TNKS1BP1
+double-strand break repair	1	TNKS1BP1
+telomere maintenance via telomerase	1	TNKS1BP1
+ peptidyl-threonine phosphorylation	1	TNKS1BP1
+ protein autophosphorylation	1	TNKS1BP1
+ peptidyl-serine phosphorylation	1	TNKS1BP1
+cellular response to ionizing radiation	1	TNKS1BP1
+heterochromatin	1	TNKS1BP1
+cytoskeleton	1	TNKS1BP1
+plasma membrane	1	TNKS1BP1
+adherens junction	1	TNKS1BP1
+CCR4-NOT complex	1	TNKS1BP1

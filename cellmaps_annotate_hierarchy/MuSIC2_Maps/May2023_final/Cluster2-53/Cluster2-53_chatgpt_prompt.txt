@@ -1,0 +1,47 @@
+Your response should be formatted as Markdown paragraphs
+Write a critical and concise analysis of this human protein system, describing your reasoning as you go and providing references to scientific papers.
+
+A critical goal of the analysis is to determine if this is a novel complex or if any proteins are novel members of a known complex
+
+Format with Title, Summary, and References sections.        
+Avoid overly general statements of how the proteins are involved in various cellular processes        
+Avoid repeating the goals of the analysis.
+
+What cellular components and complexes are involved in this system?
+What mechanisms and biological processes are performed by this system?
+Propose a name for the system to reflect the cellular location and function, and should be specific but brief. Do not compose an acronym. Place it as the title of your report
+Human Proteins: ATP6V1A, ATP6V0D2, CCDC115, ATP6V0A4, ATP6V0A2, ATP6V0C, G6PD.
+
+System features from GO terms: 
+protein binding: 7 proteins: ATP6V1A, ATP6V0D2, CCDC115, ATP6V0A4, ATP6V0A2, ATP6V0C, G6PD
+proton-transporting ATPase activity, rotational mechanism: 5 proteins: ATP6V1A, ATP6V0D2, ATP6V0A4, ATP6V0A2, ATP6V0C
+vacuolar acidification: 5 proteins: ATP6V1A, ATP6V0D2, ATP6V0A4, ATP6V0A2, ATP6V0C
+proton transmembrane transport: 5 proteins: ATP6V1A, ATP6V0D2, ATP6V0A4, ATP6V0A2, ATP6V0C
+lysosomal membrane: 5 proteins: ATP6V1A, ATP6V0D2, ATP6V0A4, ATP6V0A2, ATP6V0C
+membrane: 5 proteins: ATP6V1A, ATP6V0D2, CCDC115, ATP6V0C, G6PD
+extracellular exosome: 5 proteins: ATP6V1A, ATP6V0D2, ATP6V0A4, ATP6V0C, G6PD
+ macroautophagy: 4 proteins: ATP6V1A, ATP6V0D2, ATP6V0A2, ATP6V0C
+plasma membrane: 4 proteins: ATP6V1A, ATP6V0A4, ATP6V0A2, ATP6V0C
+proton-transporting V-type ATPase complex: 4 proteins: ATP6V1A, ATP6V0A4, ATP6V0A2, ATP6V0C
+endosome membrane: 4 proteins: ATP6V0D2, ATP6V0A4, ATP6V0A2, ATP6V0C
+vacuolar proton-transporting V-type ATPase complex: 4 proteins: ATP6V0D2, CCDC115, ATP6V0A4, ATP6V0A2
+phagocytic vesicle membrane: 4 proteins: ATP6V0D2, ATP6V0A4, ATP6V0A2, ATP6V0C
+intracellular iron ion homeostasis: 3 proteins: ATP6V1A, CCDC115, ATP6V0A2
+lysosomal lumen acidification: 3 proteins: ATP6V1A, CCDC115, ATP6V0C
+cellular response to increased oxygen levels: 3 proteins: ATP6V1A, CCDC115, ATP6V0A2
+intracellular pH reduction: 3 proteins: ATP6V1A, ATP6V0A4, ATP6V0C
+Golgi lumen acidification: 3 proteins: ATP6V1A, ATP6V0A2, ATP6V0C
+apical plasma membrane: 3 proteins: ATP6V1A, ATP6V0D2, ATP6V0A4
+intracellular membrane-bounded organelle: 3 proteins: ATP6V1A, ATP6V0A2, G6PD
+transmembrane transporter complex: 3 proteins: ATP6V1A, ATP6V0A2, ATP6V0C
+vacuolar proton-transporting V-type ATPase, V0 domain: 3 proteins: ATP6V0A4, ATP6V0A2, ATP6V0C
+proton-transporting ATP synthase activity, rotational mechanism: 2 proteins: ATP6V1A, ATP6V0C
+proton motive force-driven ATP synthesis: 2 proteins: ATP6V1A, ATP6V0C
+endosomal lumen acidification: 2 proteins: ATP6V1A, ATP6V0C
+synaptic vesicle lumen acidification: 2 proteins: ATP6V1A, ATP6V0A4
+cytosol: 2 proteins: ATP6V1A, G6PD
+clathrin-coated vesicle membrane: 2 proteins: ATP6V1A, ATP6V0C
+endosome: 2 proteins: CCDC115, ATP6V0A4
+ATPase binding: 2 proteins: ATP6V0A4, ATP6V0A2
+synaptic vesicle membrane: 2 proteins: ATP6V0A4, ATP6V0C
+focal adhesion: 2 proteins: ATP6V0A2, ATP6V0C

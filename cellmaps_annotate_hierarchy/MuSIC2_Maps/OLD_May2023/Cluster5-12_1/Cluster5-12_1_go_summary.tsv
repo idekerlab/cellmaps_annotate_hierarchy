@@ -1,0 +1,121 @@
+Feature	Number of Genes	Genes
+protein binding	11	GRK6, POLG2, XPNPEP3, NME4, COX4I1, TOMM22, TOMM20, SAMM50, FAM136A, CHCHD2, BIRC3
+mitochondrion	11	POLG2, XPNPEP3, NME4, COX4I1, HINT2, TOMM22, TOMM20, SAMM50, CARD19, TOMM5, CHCHD2
+cytoplasm	6	GRK6, POLG2, XPNPEP3, HINT2, FAM136A, BIRC3
+mitochondrial outer membrane	5	HINT2, TOMM22, TOMM20, SAMM50, TOMM5
+membrane	4	GRK6, COX4I1, TOMM22, SAMM50
+cytosol	4	XPNPEP3, COX4I1, CARD19, BIRC3
+protein insertion into mitochondrial outer membrane	4	TOMM22, TOMM20, SAMM50, TOMM5
+protein targeting to mitochondrion	3	TOMM22, TOMM20, TOMM5
+mitochondrial outer membrane translocase complex	3	TOMM22, TOMM20, TOMM5
+nucleus	3	CARD19, CHCHD2, BIRC3
+ATP binding	2	GRK6, NME4
+mitochondrial matrix	2	POLG2, NME4
+metal ion binding	2	NME4, BIRC3
+mitochondrial inner membrane	2	NME4, COX4I1
+mitochondrial intermembrane space	2	NME4, CHCHD2
+nucleoplasm	2	COX4I1, BIRC3
+apoptotic process	2	HINT2, BIRC3
+protein transmembrane transporter activity	2	TOMM22, TOMM20
+G protein-coupled receptor kinase activity	1	GRK6
+beta-adrenergic receptor kinase activity	1	GRK6
+protein phosphorylation	1	GRK6
+G protein-coupled receptor signaling pathway	1	GRK6
+regulation of G protein-coupled receptor signaling pathway	1	GRK6
+regulation of signal transduction	1	GRK6
+Wnt signaling pathway	1	GRK6
+plasma membrane	1	GRK6
+double-stranded DNA binding	1	POLG2
+DNA-directed DNA polymerase activity	1	POLG2
+DNA polymerase processivity factor activity	1	POLG2
+identical protein binding	1	POLG2
+DNA polymerase binding	1	POLG2
+in utero embryonic development	1	POLG2
+DNA-templated DNA replication	1	POLG2
+mitochondrial DNA replication	1	POLG2
+respiratory electron transport chain	1	POLG2
+mitochondrion morphogenesis	1	POLG2
+DNA biosynthetic process	1	POLG2
+positive regulation of DNA-directed DNA polymerase activity	1	POLG2
+gamma DNA polymerase complex	1	POLG2
+mitochondrial nucleoid	1	POLG2
+aminopeptidase activity	1	XPNPEP3
+manganese ion binding	1	XPNPEP3
+protein homodimerization activity	1	XPNPEP3
+metalloaminopeptidase activity	1	XPNPEP3
+glomerular filtration	1	XPNPEP3
+proteolysis	1	XPNPEP3
+protein processing	1	XPNPEP3
+nucleoside diphosphate kinase activity	1	NME4
+cardiolipin binding	1	NME4
+GTP biosynthetic process	1	NME4
+UTP biosynthetic process	1	NME4
+CTP biosynthetic process	1	NME4
+lipid transport	1	NME4
+nucleoside metabolic process	1	NME4
+phosphorylation	1	NME4
+cytochrome-c oxidase activity	1	COX4I1
+generation of precursor metabolites and energy	1	COX4I1
+mitochondrial electron transport, cytochrome c to oxygen	1	COX4I1
+cellular respiration	1	COX4I1
+proton transmembrane transport	1	COX4I1
+mitochondrial respiratory chain complex IV	1	COX4I1
+nucleotide binding	1	HINT2
+hydrolase activity	1	HINT2
+adenosine 5'-monophosphoramidase activity	1	HINT2
+steroid biosynthetic process	1	HINT2
+lipid catabolic process	1	HINT2
+negative regulation of peptidyl-lysine acetylation	1	HINT2
+positive regulation of apoptotic process	1	TOMM22
+protein transmembrane transport	1	TOMM22
+protein-transporting ATPase activity	1	TOMM20
+mitochondrion targeting sequence binding	1	TOMM20
+unfolded protein binding	1	TOMM20
+tRNA import into mitochondrion	1	TOMM20
+protein import into mitochondrial matrix	1	TOMM20
+mitochondria-associated endoplasmic reticulum membrane	1	TOMM20
+cell periphery	1	TOMM20
+sperm midpiece	1	TOMM20
+migrasome	1	TOMM20
+inner mitochondrial membrane organization	1	SAMM50
+mitochondrial respiratory chain complex assembly	1	SAMM50
+cristae formation	1	SAMM50
+SAM complex	1	SAMM50
+extracellular exosome	1	SAMM50
+MIB complex	1	SAMM50
+CARD domain binding	1	CARD19
+negative regulation of I-kappaB kinase/NF-kappaB signaling	1	CARD19
+endoplasmic reticulum membrane	1	CARD19
+mitochondrial membrane	1	CARD19
+sequence-specific DNA binding	1	CHCHD2
+DNA-binding transcription factor binding	1	CHCHD2
+mitochondrion organization	1	CHCHD2
+cellular response to oxidative stress	1	CHCHD2
+positive regulation of transcription by RNA polymerase II	1	CHCHD2
+regulation of cellular response to hypoxia	1	CHCHD2
+positive regulation of mitochondrial ATP synthesis coupled electron transport	1	CHCHD2
+ubiquitin-protein transferase activity	1	BIRC3
+transferase activity	1	BIRC3
+cysteine-type endopeptidase inhibitor activity involved in apoptotic process	1	BIRC3
+protein-containing complex binding	1	BIRC3
+ubiquitin protein ligase activity	1	BIRC3
+cell surface receptor signaling pathway	1	BIRC3
+I-kappaB kinase/NF-kappaB signaling	1	BIRC3
+spermatogenesis	1	BIRC3
+positive regulation of protein ubiquitination	1	BIRC3
+tumor necrosis factor-mediated signaling pathway	1	BIRC3
+regulation of toll-like receptor signaling pathway	1	BIRC3
+NIK/NF-kappaB signaling	1	BIRC3
+regulation of RIG-I signaling pathway	1	BIRC3
+regulation of apoptotic process	1	BIRC3
+negative regulation of apoptotic process	1	BIRC3
+positive regulation of I-kappaB kinase/NF-kappaB signaling	1	BIRC3
+regulation of innate immune response	1	BIRC3
+regulation of inflammatory response	1	BIRC3
+regulation of cell cycle	1	BIRC3
+regulation of necroptotic process	1	BIRC3
+negative regulation of necroptotic process	1	BIRC3
+regulation of nucleotide-binding oligomerization domain containing signaling pathway	1	BIRC3
+regulation of cysteine-type endopeptidase activity	1	BIRC3
+protein-containing complex	1	BIRC3
+membrane raft	1	BIRC3

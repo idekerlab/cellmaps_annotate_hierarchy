@@ -1,0 +1,64 @@
+Your response should be formatted as Markdown paragraphs
+Write a critical and concise analysis of this human protein system, describing your reasoning as you go and providing references to scientific papers.
+
+A critical goal of the analysis is to determine if this is a novel complex or if any proteins are novel members of a known complex
+
+Format with Title, Summary, and References sections.        
+Avoid overly general statements of how the proteins are involved in various cellular processes        
+Avoid repeating the goals of the analysis.
+
+What cellular components and complexes are involved in this system?
+What mechanisms and biological processes are performed by this system?
+Propose a name for the system to reflect the cellular location and function, and should be specific but brief. Do not compose an acronym. Place it as the title of your report
+Human Proteins: BLTP3A, CCT3, MIOS, SKIC3, SKIC8, VBP1, CCT2, PFDN5, PFDN1, MOV10, CCT6A, CCT7, SHB, PDCL3, PDCD5, PDCL, TXNDC9, CCT8, CCT4, NLRP2.
+
+System features from GO terms: 
+protein binding: 20 proteins: BLTP3A, CCT3, MIOS, SKIC3, SKIC8, VBP1, CCT2, PFDN5, PFDN1, MOV10, CCT6A, CCT7, SHB, PDCL3, PDCD5, PDCL, TXNDC9, CCT8, CCT4, NLRP2
+cytosol: 18 proteins: CCT3, MIOS, SKIC3, SKIC8, VBP1, CCT2, PFDN5, MOV10, CCT6A, CCT7, SHB, PDCL3, PDCD5, PDCL, TXNDC9, CCT8, CCT4, NLRP2
+cytoplasm: 14 proteins: MIOS, SKIC3, SKIC8, VBP1, PFDN5, PFDN1, CCT6A, CCT7, PDCL3, PDCD5, PDCL, TXNDC9, CCT8, NLRP2
+protein folding: 10 proteins: CCT3, VBP1, CCT2, PFDN5, PFDN1, CCT6A, CCT7, PDCL3, CCT8, CCT4
+protein stabilization: 10 proteins: CCT3, VBP1, CCT2, PFDN5, PFDN1, CCT6A, CCT7, PDCL3, CCT8, CCT4
+unfolded protein binding: 9 proteins: CCT3, VBP1, CCT2, PFDN5, PFDN1, CCT6A, CCT7, CCT8, CCT4
+ATP binding: 8 proteins: CCT3, CCT2, MOV10, CCT6A, CCT7, CCT8, CCT4, NLRP2
+protein folding chaperone: 8 proteins: CCT3, CCT2, PFDN1, CCT6A, CCT7, PDCL3, CCT8, CCT4
+ATP hydrolysis activity: 7 proteins: CCT3, CCT2, MOV10, CCT6A, CCT7, CCT8, CCT4
+chaperone-mediated protein folding: 7 proteins: CCT3, CCT2, CCT6A, CCT7, PDCL3, CCT8, CCT4
+extracellular exosome: 7 proteins: CCT3, CCT2, CCT6A, CCT7, PDCD5, CCT8, CCT4
+nucleoplasm: 7 proteins: MIOS, SKIC3, SKIC8, SHB, PDCL3, CCT8, CCT4
+nucleus: 7 proteins: SKIC3, SKIC8, VBP1, PFDN5, MOV10, PDCD5, TXNDC9
+ATP-dependent protein folding chaperone: 6 proteins: CCT3, CCT2, CCT6A, CCT7, CCT8, CCT4
+ telomere maintenance via telomerase: 6 proteins: CCT3, CCT2, CCT6A, CCT7, CCT8, CCT4
+ establishment of protein localization to telomere: 6 proteins: CCT3, CCT2, CCT6A, CCT7, CCT8, CCT4
+ protein localization to Cajal body: 6 proteins: CCT3, CCT2, CCT6A, CCT7, CCT8, CCT4
+ telomerase RNA localization to Cajal body: 6 proteins: CCT3, CCT2, CCT6A, CCT7, CCT8, CCT4
+chaperonin-containing T-complex: 6 proteins: CCT3, CCT2, CCT6A, CCT7, CCT8, CCT4
+microtubule: 6 proteins: CCT3, CCT2, CCT6A, CCT7, CCT8, CCT4
+binding of sperm to zona pellucida: 5 proteins: CCT3, CCT2, CCT7, CCT8, CCT4
+toxin transport: 5 proteins: CCT3, CCT2, CCT7, CCT8, CCT4
+cell body: 5 proteins: CCT3, CCT2, CCT7, CCT8, CCT4
+RNA binding: 4 proteins: CCT3, MOV10, CCT6A, CCT4
+zona pellucida receptor complex: 4 proteins: CCT3, CCT2, CCT8, CCT4
+apoptotic process: 4 proteins: SHB, PDCL3, PDCD5, NLRP2
+amyloid-beta binding: 3 proteins: VBP1, PFDN5, PFDN1
+negative regulation of amyloid fibril formation: 3 proteins: VBP1, PFDN5, PFDN1
+prefoldin complex: 3 proteins: VBP1, PFDN5, PFDN1
+centrosome: 3 proteins: TXNDC9, CCT8, CCT4
+pore complex assembly: 2 proteins: CCT3, CCT8
+nuclear-transcribed mRNA catabolic process, 3'-5' exonucleolytic nonsense-mediated decay: 2 proteins: SKIC3, SKIC8
+rescue of stalled ribosome: 2 proteins: SKIC3, SKIC8
+euchromatin: 2 proteins: SKIC3, SKIC8
+Ski complex: 2 proteins: SKIC3, SKIC8
+intracellular membrane-bounded organelle: 2 proteins: VBP1, NLRP2
+ telomerase activity: 2 proteins: CCT2, CCT4
+scaRNA localization to Cajal body: 2 proteins: CCT2, CCT4
+extracellular region: 2 proteins: CCT2, CCT8
+azurophil granule lumen: 2 proteins: CCT2, CCT8
+intermediate filament cytoskeleton: 2 proteins: PFDN5, CCT8
+cytoplasmic ribonucleoprotein granule: 2 proteins: MOV10, SHB
+angiogenesis: 2 proteins: SHB, PDCL3
+signal transduction: 2 proteins: SHB, PDCL
+ gene expression: 2 proteins: PDCL3, PDCD5
+negative regulation of chaperone-mediated protein folding: 2 proteins: PDCL3, PDCD5
+ cysteine-type endopeptidase activity involved in apoptotic process: 2 proteins: PDCD5, NLRP2
+cilium: 2 proteins: PDCL, CCT8
+cadherin binding: 2 proteins: TXNDC9, CCT8

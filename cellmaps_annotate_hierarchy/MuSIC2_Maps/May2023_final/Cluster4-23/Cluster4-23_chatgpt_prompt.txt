@@ -1,0 +1,29 @@
+Your response should be formatted as Markdown paragraphs
+Write a critical and concise analysis of this human protein system, describing your reasoning as you go and providing references to scientific papers.
+
+A critical goal of the analysis is to determine if this is a novel complex or if any proteins are novel members of a known complex
+
+Format with Title, Summary, and References sections.        
+Avoid overly general statements of how the proteins are involved in various cellular processes        
+Avoid repeating the goals of the analysis.
+
+What cellular components and complexes are involved in this system?
+What mechanisms and biological processes are performed by this system?
+Propose a name for the system to reflect the cellular location and function, and should be specific but brief. Do not compose an acronym. Place it as the title of your report
+Human Proteins: CNST, CSRNP1, KNL1, NUF2, PMF1-BGLAP, PPP1R10, PPP1R2, ZFYVE16.
+
+System features from GO terms: 
+protein binding: 7 proteins: CNST, CSRNP1, KNL1, NUF2, PPP1R10, PPP1R2, ZFYVE16
+nucleus: 3 proteins: CSRNP1, KNL1, PPP1R10
+nucleoplasm: 3 proteins: KNL1, NUF2, PPP1R10
+cytosol: 3 proteins: KNL1, NUF2, ZFYVE16
+membrane: 2 proteins: CNST, NUF2
+intracellular membrane-bounded organelle: 2 proteins: CNST, ZFYVE16
+molecular_function: 2 proteins: CSRNP1, NUF2
+chromatin: 2 proteins: CSRNP1, PPP1R10
+attachment of spindle microtubules to kinetochore: 2 proteins: KNL1, NUF2
+cell division: 2 proteins: KNL1, NUF2
+kinetochore: 2 proteins: KNL1, NUF2
+nuclear body: 2 proteins: KNL1, PPP1R10
+protein phosphatase inhibitor activity: 2 proteins: PPP1R10, PPP1R2
+metal ion binding: 2 proteins: PPP1R10, ZFYVE16

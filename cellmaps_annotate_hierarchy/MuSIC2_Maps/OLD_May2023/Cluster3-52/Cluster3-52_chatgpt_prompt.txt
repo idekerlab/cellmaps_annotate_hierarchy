@@ -1,0 +1,23 @@
+Write a critical and concise analysis of this system, describing your reasoning as you go and providing references to scientific papers. Format the page with Title, Summary, and References sections.
+What cellular components and complexes are involved in this system?
+What mechanisms and biological processes are performed by this system?
+Propose a name for the system to reflect the function and location, and should be specific but brief. Do not compose an acronym. Place it as the title of your report
+Provide complete paper references with pubmed link
+Proteins: ATP6V1D, ATP6V1E1, WDR7, ATP6V1C1.
+
+A critical goal of the analysis is to determine if this is a novel complex or if any proteins are novel members of a known complex
+System features from GO terms: 
+protein binding: 3 proteins: ATP6V1D, ATP6V1E1, ATP6V1C1
+proton-transporting ATPase activity, rotational mechanism: 3 proteins: ATP6V1D, ATP6V1E1, ATP6V1C1
+regulation of macroautophagy: 3 proteins: ATP6V1D, ATP6V1E1, ATP6V1C1
+synaptic vesicle lumen acidification: 3 proteins: ATP6V1D, ATP6V1E1, ATP6V1C1
+proton transmembrane transport: 3 proteins: ATP6V1D, ATP6V1E1, ATP6V1C1
+vacuolar proton-transporting V-type ATPase, V1 domain: 3 proteins: ATP6V1D, ATP6V1E1, ATP6V1C1
+lysosomal membrane: 3 proteins: ATP6V1D, ATP6V1E1, ATP6V1C1
+cytosol: 3 proteins: ATP6V1D, ATP6V1E1, ATP6V1C1
+clathrin-coated vesicle membrane: 3 proteins: ATP6V1D, ATP6V1E1, ATP6V1C1
+extracellular exosome: 3 proteins: ATP6V1D, ATP6V1E1, ATP6V1C1
+plasma membrane: 2 proteins: ATP6V1D, ATP6V1C1
+extrinsic component of synaptic vesicle membrane: 2 proteins: ATP6V1D, ATP6V1C1
+transmembrane transporter complex: 2 proteins: ATP6V1D, ATP6V1C1
+proton-transporting two-sector ATPase complex: 2 proteins: ATP6V1E1, ATP6V1C1

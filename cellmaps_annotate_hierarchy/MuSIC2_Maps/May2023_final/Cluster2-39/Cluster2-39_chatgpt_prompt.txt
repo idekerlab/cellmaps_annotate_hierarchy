@@ -1,0 +1,44 @@
+Your response should be formatted as Markdown paragraphs
+Write a critical and concise analysis of this human protein system, describing your reasoning as you go and providing references to scientific papers.
+
+A critical goal of the analysis is to determine if this is a novel complex or if any proteins are novel members of a known complex
+
+Format with Title, Summary, and References sections.        
+Avoid overly general statements of how the proteins are involved in various cellular processes        
+Avoid repeating the goals of the analysis.
+
+What cellular components and complexes are involved in this system?
+What mechanisms and biological processes are performed by this system?
+Propose a name for the system to reflect the cellular location and function, and should be specific but brief. Do not compose an acronym. Place it as the title of your report
+Human Proteins: COX6B1, ATP5F1A, ATP5F1B, ATP5IF1, ATP5ME, ATP5MG, ATP5PB, ATP5PD, ATP5PF, ATP5PO, GLT8D1.
+
+System features from GO terms: 
+mitochondrion: 10 proteins: COX6B1, ATP5F1A, ATP5F1B, ATP5IF1, ATP5ME, ATP5MG, ATP5PB, ATP5PD, ATP5PF, ATP5PO
+proton transmembrane transport: 9 proteins: COX6B1, ATP5F1A, ATP5F1B, ATP5ME, ATP5MG, ATP5PB, ATP5PD, ATP5PF, ATP5PO
+mitochondrial inner membrane: 9 proteins: COX6B1, ATP5F1A, ATP5F1B, ATP5ME, ATP5MG, ATP5PB, ATP5PD, ATP5PF, ATP5PO
+protein binding: 9 proteins: ATP5F1A, ATP5F1B, ATP5IF1, ATP5ME, ATP5MG, ATP5PB, ATP5PD, ATP5PF, ATP5PO
+proton-transporting ATP synthase activity, rotational mechanism: 8 proteins: ATP5F1A, ATP5F1B, ATP5ME, ATP5MG, ATP5PB, ATP5PD, ATP5PF, ATP5PO
+proton motive force-driven ATP synthesis: 8 proteins: ATP5F1A, ATP5F1B, ATP5ME, ATP5MG, ATP5PB, ATP5PD, ATP5PF, ATP5PO
+proton motive force-driven mitochondrial ATP synthesis: 8 proteins: ATP5F1A, ATP5F1B, ATP5ME, ATP5MG, ATP5PB, ATP5PD, ATP5PF, ATP5PO
+mitochondrial proton-transporting ATP synthase complex: 8 proteins: ATP5F1A, ATP5F1B, ATP5ME, ATP5MG, ATP5PB, ATP5PD, ATP5PF, ATP5PO
+membrane: 4 proteins: ATP5F1A, ATP5F1B, ATP5PB, GLT8D1
+mitochondrial proton-transporting ATP synthase complex, coupling factor F(o): 4 proteins: ATP5ME, ATP5MG, ATP5PB, ATP5PF
+substantia nigra development: 3 proteins: COX6B1, ATP5PB, ATP5PF
+angiostatin binding: 3 proteins: ATP5F1A, ATP5F1B, ATP5IF1
+ATP biosynthetic process: 3 proteins: ATP5F1A, ATP5F1B, ATP5PO
+mitochondrial matrix: 3 proteins: ATP5F1A, ATP5F1B, ATP5PB
+plasma membrane: 3 proteins: ATP5F1A, ATP5F1B, ATP5PO
+cell surface: 3 proteins: ATP5F1A, ATP5F1B, ATP5IF1
+proton-transporting ATP synthase complex, catalytic core F(1): 3 proteins: ATP5F1A, ATP5F1B, ATP5PO
+nucleus: 3 proteins: ATP5F1B, ATP5PB, ATP5PO
+ATP binding: 2 proteins: ATP5F1A, ATP5F1B
+MHC class I protein binding: 2 proteins: ATP5F1A, ATP5F1B
+negative regulation of endothelial cell proliferation: 2 proteins: ATP5F1A, ATP5IF1
+lipid metabolic process: 2 proteins: ATP5F1A, ATP5F1B
+ blood vessel endothelial cell migration: 2 proteins: ATP5F1A, ATP5F1B
+mitochondrial proton-transporting ATP synthase, catalytic core: 2 proteins: ATP5F1A, ATP5F1B
+proton-transporting ATP synthase complex: 2 proteins: ATP5F1A, ATP5F1B
+extracellular exosome: 2 proteins: ATP5F1A, ATP5F1B
+angiogenesis: 2 proteins: ATP5F1B, ATP5IF1
+generation of precursor metabolites and energy: 2 proteins: ATP5F1B, ATP5IF1
+mitochondrial proton-transporting ATP synthase, stator stalk: 2 proteins: ATP5PD, ATP5PO

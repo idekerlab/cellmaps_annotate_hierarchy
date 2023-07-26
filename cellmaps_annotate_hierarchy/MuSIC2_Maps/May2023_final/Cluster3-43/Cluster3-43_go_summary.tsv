@@ -1,0 +1,84 @@
+Feature	Number of Genes	Genes
+protein binding	8	XAB2, CTNNBL1, CDC5L, ESS2, SNW1, YJU2, ZHX1, ZNF830
+nucleus	8	XAB2, CTNNBL1, CDC5L, ESS2, SNW1, ZDBF2, ZHX1, ZNF830
+nucleoplasm	7	XAB2, CTNNBL1, CDC5L, SNW1, YJU2, ZHX1, ZNF830
+mRNA splicing, via spliceosome	5	XAB2, CTNNBL1, CDC5L, ESS2, SNW1
+catalytic step 2 spliceosome	4	XAB2, CDC5L, ESS2, SNW1
+spliceosomal complex	4	CTNNBL1, CDC5L, SNW1, ZNF830
+Prp19 complex	3	XAB2, CTNNBL1, CDC5L
+membrane	3	XAB2, CTNNBL1, CDC5L
+U2-type catalytic step 2 spliceosome	3	XAB2, CDC5L, SNW1
+ transcription by RNA polymerase II	3	CDC5L, SNW1, ZHX1
+nuclear speck	3	CDC5L, SNW1, ZNF830
+generation of catalytic spliceosome for first transesterification step	2	XAB2, YJU2
+enzyme binding	2	CTNNBL1, SNW1
+DNA-binding transcription factor activity, RNA polymerase II-specific	2	CDC5L, ZHX1
+DNA binding	2	CDC5L, ZHX1
+RNA binding	2	CDC5L, SNW1
+negative regulation of transcription by RNA polymerase II	2	SNW1, ZHX1
+negative regulation of DNA-templated transcription	2	SNW1, ZHX1
+metal ion binding	2	YJU2, ZHX1
+RNA splicing	2	YJU2, ZNF830
+nucleic acid binding	2	ZDBF2, ZNF830
+zinc ion binding	2	ZDBF2, ZNF830
+blastocyst development	1	XAB2
+transcription-coupled nucleotide-excision repair	1	XAB2
+DNA-templated transcription	1	XAB2
+cerebral cortex development	1	XAB2
+intracellular membrane-bounded organelle	1	XAB2
+post-mRNA release spliceosomal complex	1	XAB2
+adaptive immune response	1	CTNNBL1
+somatic diversification of immunoglobulins	1	CTNNBL1
+ apoptotic process	1	CTNNBL1
+centrosome	1	CTNNBL1
+cytosol	1	CTNNBL1
+RNA polymerase II transcription regulatory region sequence-specific DNA binding	1	CDC5L
+DNA-binding transcription activator activity, RNA polymerase II-specific	1	CDC5L
+identical protein binding	1	CDC5L
+WD40-repeat domain binding	1	CDC5L
+DNA damage checkpoint signaling	1	CDC5L
+DNA repair	1	CDC5L
+cell cycle	1	CDC5L
+cytoplasm	1	CDC5L
+molecular_function	1	ESS2
+nervous system development	1	ESS2
+transcription coactivator activity	1	SNW1
+transcription corepressor activity	1	SNW1
+Notch binding	1	SNW1
+nuclear receptor binding	1	SNW1
+nuclear vitamin D receptor binding	1	SNW1
+nuclear retinoic acid receptor binding	1	SNW1
+SMAD binding	1	SNW1
+nuclear androgen receptor binding	1	SNW1
+ transforming growth factor beta receptor signaling pathway	1	SNW1
+intrinsic apoptotic signaling pathway in response to DNA damage by p53 class mediator	1	SNW1
+positive regulation by host of viral transcription	1	SNW1
+ mRNA splicing, via spliceosome	1	SNW1
+retinoic acid receptor signaling pathway	1	SNW1
+ retinoic acid receptor signaling pathway	1	SNW1
+ neurogenesis	1	SNW1
+ vitamin D receptor signaling pathway	1	SNW1
+cellular response to retinoic acid	1	SNW1
+nuclear matrix	1	SNW1
+nuclear body	1	SNW1
+negative regulation of DNA damage response, signal transduction by p53 class mediator	1	YJU2
+U2-type catalytic step 1 spliceosome	1	YJU2
+DNA methylation involved in embryo development	1	ZDBF2
+genomic imprinting	1	ZDBF2
+DNA-binding transcription factor activity	1	ZHX1
+protein heterodimerization activity	1	ZHX1
+cell differentiation	1	ZHX1
+chromatin	1	ZHX1
+ovarian follicle development	1	ZNF830
+preantral ovarian follicle growth	1	ZNF830
+blastocyst growth	1	ZNF830
+RNA processing	1	ZNF830
+mRNA processing	1	ZNF830
+nuclear DNA replication	1	ZNF830
+mitotic DNA replication checkpoint signaling	1	ZNF830
+negative regulation of apoptotic process	1	ZNF830
+mitotic DNA damage checkpoint signaling	1	ZNF830
+chromosome organization	1	ZNF830
+cell division	1	ZNF830
+intestinal epithelial structure maintenance	1	ZNF830
+chromosome	1	ZNF830

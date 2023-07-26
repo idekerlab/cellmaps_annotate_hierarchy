@@ -1,0 +1,187 @@
+Feature	Number of Genes	Genes
+protein binding	8	KLC4, PPFIBP2, FRMD6, CFAP410, BAD, HIVEP1, PPP1R3D, YWHAB
+cytosol	5	PPFIBP2, CFAP410, BAD, HIVEP1, YWHAB
+cytoplasm	4	KLC4, FRMD6, CFAP410, YWHAB
+mitochondrion	4	CFAP410, BAD, ABAT, HIVEP1
+identical protein binding	3	PPFIBP2, ABAT, YWHAB
+nucleus	3	CREB3L2, FAM53B, HIVEP1
+microtubule-based movement	2	KLC4, KIF21B
+kinesin complex	2	KLC4, KIF21B
+microtubule	2	KLC4, KIF21B
+molecular_function	2	PPFIBP2, CFAP410
+plasma membrane	2	FRMD6, CFAP410
+intracellular membrane-bounded organelle	2	CFAP410, PPP1R3D
+response to xenobiotic stimulus	2	BAD, ABAT
+ insulin secretion	2	BAD, ABAT
+response to ethanol	2	BAD, ABAT
+metal ion binding	2	ABAT, HIVEP1
+DNA-binding transcription factor activity, RNA polymerase II-specific	2	CREB3L2, HIVEP1
+ transcription by RNA polymerase II	2	CREB3L2, HIVEP1
+nucleoplasm	2	CREB3L2, HIVEP1
+kinesin binding	1	KLC4
+neuromuscular junction development	1	PPFIBP2
+extracellular space	1	PPFIBP2
+presynaptic active zone	1	PPFIBP2
+apical constriction	1	FRMD6
+protein localization	1	FRMD6
+ actin filament-based process	1	FRMD6
+ hippo signaling	1	FRMD6
+cytoskeleton	1	FRMD6
+apical junction complex	1	FRMD6
+cytoplasmic side of apical plasma membrane	1	FRMD6
+DNA damage response	1	CFAP410
+cytoskeleton organization	1	CFAP410
+smoothened signaling pathway	1	CFAP410
+ cell shape	1	CFAP410
+cilium assembly	1	CFAP410
+photoreceptor outer segment	1	CFAP410
+photoreceptor connecting cilium	1	CFAP410
+ciliary basal body	1	CFAP410
+phospholipid binding	1	BAD
+lipid binding	1	BAD
+cysteine-type endopeptidase activator activity involved in apoptotic process	1	BAD
+protein kinase binding	1	BAD
+protein phosphatase 2B binding	1	BAD
+protein kinase B binding	1	BAD
+14-3-3 protein binding	1	BAD
+release of cytochrome c from mitochondria	1	BAD
+glucose catabolic process	1	BAD
+apoptotic process	1	BAD
+activation of cysteine-type endopeptidase activity involved in apoptotic process	1	BAD
+spermatogenesis	1	BAD
+extrinsic apoptotic signaling pathway via death domain receptors	1	BAD
+intrinsic apoptotic signaling pathway in response to DNA damage	1	BAD
+response to glucose	1	BAD
+ autophagy	1	BAD
+ mitochondrial membrane potential	1	BAD
+cytokine-mediated signaling pathway	1	BAD
+cerebral cortex development	1	BAD
+response to estradiol	1	BAD
+response to progesterone	1	BAD
+ glucokinase activity	1	BAD
+response to testosterone	1	BAD
+response to oleic acid	1	BAD
+ insulin secretion involved in cellular response to glucose stimulus	1	BAD
+response to hydrogen peroxide	1	BAD
+glucose homeostasis	1	BAD
+ apoptotic process	1	BAD
+response to amino acid	1	BAD
+ cysteine-type endopeptidase activity involved in apoptotic process	1	BAD
+type B pancreatic cell proliferation	1	BAD
+ B cell differentiation	1	BAD
+ T cell differentiation	1	BAD
+ proteolysis	1	BAD
+ADP metabolic process	1	BAD
+ATP metabolic process	1	BAD
+ mitochondrial membrane permeability	1	BAD
+pore complex assembly	1	BAD
+ epithelial cell proliferation	1	BAD
+response to glucocorticoid	1	BAD
+response to calcium ion	1	BAD
+cellular response to chromate	1	BAD
+cellular response to mechanical stimulus	1	BAD
+cellular response to nicotine	1	BAD
+cellular response to lipid	1	BAD
+cellular response to hypoxia	1	BAD
+ release of cytochrome c from mitochondria	1	BAD
+extrinsic apoptotic signaling pathway	1	BAD
+extrinsic apoptotic signaling pathway in absence of ligand	1	BAD
+intrinsic apoptotic signaling pathway	1	BAD
+activation of cysteine-type endopeptidase activity	1	BAD
+ neuron death	1	BAD
+response to benzene	1	BAD
+ intrinsic apoptotic signaling pathway in response to osmotic stress	1	BAD
+ granulosa cell apoptotic process	1	BAD
+ type B pancreatic cell development	1	BAD
+mitochondrial outer membrane	1	BAD
+BAD-BCL-2 complex	1	BAD
+4-aminobutyrate transaminase activity	1	ABAT
+pyridoxal phosphate binding	1	ABAT
+succinate-semialdehyde dehydrogenase binding	1	ABAT
+4-aminobutyrate:2-oxoglutarate transaminase activity	1	ABAT
+(S)-3-amino-2-methylpropionate transaminase activity	1	ABAT
+iron-sulfur cluster binding	1	ABAT
+response to hypoxia	1	ABAT
+copulation	1	ABAT
+locomotory behavior	1	ABAT
+gamma-aminobutyric acid metabolic process	1	ABAT
+gamma-aminobutyric acid biosynthetic process	1	ABAT
+gamma-aminobutyric acid catabolic process	1	ABAT
+response to iron ion	1	ABAT
+negative regulation of gamma-aminobutyric acid secretion	1	ABAT
+cerebellum development	1	ABAT
+ heat generation	1	ABAT
+negative regulation of dopamine secretion	1	ABAT
+response to nicotine	1	ABAT
+exploration behavior	1	ABAT
+neurotransmitter catabolic process	1	ABAT
+negative regulation of blood pressure	1	ABAT
+ dopamine metabolic process	1	ABAT
+behavioral response to cocaine	1	ABAT
+ uterine smooth muscle contraction	1	ABAT
+negative regulation of platelet aggregation	1	ABAT
+ inhibitory postsynaptic potential	1	ABAT
+ prolactin secretion	1	ABAT
+ aspartate secretion	1	ABAT
+mitochondrial matrix	1	ABAT
+4-aminobutyrate transaminase complex	1	ABAT
+neuron projection	1	ABAT
+transcription cis-regulatory region binding	1	CREB3L2
+DNA-binding transcription activator activity, RNA polymerase II-specific	1	CREB3L2
+cAMP response element binding	1	CREB3L2
+chondrocyte differentiation	1	CREB3L2
+endoplasmic reticulum to Golgi vesicle-mediated transport	1	CREB3L2
+response to unfolded protein	1	CREB3L2
+response to wounding	1	CREB3L2
+ gene expression	1	CREB3L2
+ neuron projection development	1	CREB3L2
+response to endoplasmic reticulum stress	1	CREB3L2
+ DNA-templated transcription	1	CREB3L2
+cartilage development	1	CREB3L2
+chromatin	1	CREB3L2
+endoplasmic reticulum	1	CREB3L2
+endoplasmic reticulum membrane	1	CREB3L2
+perinuclear endoplasmic reticulum	1	CREB3L2
+protein import into nucleus	1	FAM53B
+Wnt signaling pathway	1	FAM53B
+ canonical Wnt signaling pathway	1	FAM53B
+RNA polymerase II cis-regulatory region sequence-specific DNA binding	1	HIVEP1
+DNA-binding transcription repressor activity, RNA polymerase II-specific	1	HIVEP1
+sequence-specific double-stranded DNA binding	1	HIVEP1
+negative regulation of transcription by RNA polymerase II	1	HIVEP1
+BMP signaling pathway	1	HIVEP1
+nuclear body	1	HIVEP1
+microtubule motor activity	1	KIF21B
+ATP binding	1	KIF21B
+microtubule binding	1	KIF21B
+ATP hydrolysis activity	1	KIF21B
+dendrite	1	KIF21B
+growth cone	1	KIF21B
+cytoplasmic vesicle	1	KIF21B
+protein serine/threonine phosphatase activity	1	PPP1R3D
+protein phosphatase 1 binding	1	PPP1R3D
+glycogen binding	1	PPP1R3D
+glycogen metabolic process	1	PPP1R3D
+ glycogen biosynthetic process	1	PPP1R3D
+ glycogen catabolic process	1	PPP1R3D
+protein phosphatase type 1 complex	1	PPP1R3D
+glycogen granule	1	PPP1R3D
+protein kinase inhibitor activity	1	YWHAB
+enzyme binding	1	YWHAB
+protein domain specific binding	1	YWHAB
+histone deacetylase binding	1	YWHAB
+cadherin binding	1	YWHAB
+phosphoserine residue binding	1	YWHAB
+phosphoprotein binding	1	YWHAB
+protein targeting	1	YWHAB
+signal transduction	1	YWHAB
+negative regulation of protein dephosphorylation	1	YWHAB
+ catalytic activity	1	YWHAB
+negative regulation of G protein-coupled receptor signaling pathway	1	YWHAB
+cytoplasmic sequestering of protein	1	YWHAB
+vacuolar membrane	1	YWHAB
+focal adhesion	1	YWHAB
+membrane	1	YWHAB
+melanosome	1	YWHAB
+perinuclear region of cytoplasm	1	YWHAB
+extracellular exosome	1	YWHAB

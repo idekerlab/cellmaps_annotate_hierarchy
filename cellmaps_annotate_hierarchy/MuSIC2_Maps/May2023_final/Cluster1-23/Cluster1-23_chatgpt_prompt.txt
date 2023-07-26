@@ -1,0 +1,25 @@
+Your response should be formatted as Markdown paragraphs
+Write a critical and concise analysis of this human protein system, describing your reasoning as you go and providing references to scientific papers.
+
+A critical goal of the analysis is to determine if this is a novel complex or if any proteins are novel members of a known complex
+
+Format with Title, Summary, and References sections.        
+Avoid overly general statements of how the proteins are involved in various cellular processes        
+Avoid repeating the goals of the analysis.
+
+What cellular components and complexes are involved in this system?
+What mechanisms and biological processes are performed by this system?
+Propose a name for the system to reflect the cellular location and function, and should be specific but brief. Do not compose an acronym. Place it as the title of your report
+Human Proteins: MAFF, NFE2L3, SLMAP, SIKE1, MTCH2, FGFR1OP2.
+
+System features from GO terms: 
+protein binding: 6 proteins: MAFF, NFE2L3, SLMAP, SIKE1, MTCH2, FGFR1OP2
+nucleus: 3 proteins: MAFF, NFE2L3, MTCH2
+RNA polymerase II cis-regulatory region sequence-specific DNA binding: 2 proteins: MAFF, NFE2L3
+DNA-binding transcription factor activity, RNA polymerase II-specific: 2 proteins: MAFF, NFE2L3
+negative regulation of transcription by RNA polymerase II: 2 proteins: MAFF, NFE2L3
+ transcription by RNA polymerase II: 2 proteins: MAFF, NFE2L3
+chromatin: 2 proteins: MAFF, NFE2L3
+mitochondrion: 2 proteins: MAFF, MTCH2
+RNA polymerase II transcription regulator complex: 2 proteins: MAFF, NFE2L3
+cytosol: 2 proteins: SIKE1, FGFR1OP2

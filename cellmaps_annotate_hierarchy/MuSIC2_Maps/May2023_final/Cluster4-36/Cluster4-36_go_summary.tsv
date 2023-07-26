@@ -1,0 +1,80 @@
+Feature	Number of Genes	Genes
+protein binding	4	HMG20B, KDM1A, PHF21A, RCOR1
+nucleus	4	HMG20B, KDM1A, RCOR1, ZNF608
+nucleoplasm	4	HMG20B, KDM1A, PHF21A, RCOR1
+chromatin organization	3	HMG20B, PHF21A, RCOR1
+chromatin binding	3	KDM1A, PHF21A, RCOR1
+negative regulation of transcription by RNA polymerase II	3	KDM1A, PHF21A, ZNF608
+ transcription by RNA polymerase II	3	KDM1A, RCOR1, ZNF608
+DNA repair complex	3	KDM1A, PHF21A, RCOR1
+DNA binding	2	HMG20B, PHF21A
+enzyme binding	2	KDM1A, RCOR1
+negative regulation of DNA-templated transcription	2	KDM1A, RCOR1
+transcription regulator complex	2	KDM1A, RCOR1
+metal ion binding	2	PHF21A, ZNF608
+histone deacetylase complex	2	PHF21A, RCOR1
+cell cycle	1	HMG20B
+ gene expression	1	HMG20B
+protein sumoylation	1	HMG20B
+negative regulation of protein sumoylation	1	HMG20B
+skeletal muscle cell differentiation	1	HMG20B
+ neuron differentiation	1	HMG20B
+chromosome	1	HMG20B
+nuclear body	1	HMG20B
+p53 binding	1	KDM1A
+transcription factor binding	1	KDM1A
+oxidoreductase activity	1	KDM1A
+nuclear receptor coactivator activity	1	KDM1A
+demethylase activity	1	KDM1A
+histone demethylase activity	1	KDM1A
+histone H3K4 demethylase activity	1	KDM1A
+histone H3K9 demethylase activity	1	KDM1A
+telomeric DNA binding	1	KDM1A
+MRF binding	1	KDM1A
+flavin adenine dinucleotide binding	1	KDM1A
+nuclear androgen receptor binding	1	KDM1A
+RNA polymerase II-specific DNA-binding transcription factor binding	1	KDM1A
+telomeric repeat-containing RNA binding	1	KDM1A
+DNA-binding transcription factor binding	1	KDM1A
+FAD-dependent H3K4me/H3K4me3 demethylase activity	1	KDM1A
+promoter-specific chromatin binding	1	KDM1A
+alternative mRNA splicing, via spliceosome	1	KDM1A
+ neuroblast proliferation	1	KDM1A
+protein demethylation	1	KDM1A
+ double-strand break repair via homologous recombination	1	KDM1A
+ neuron projection development	1	KDM1A
+cerebral cortex development	1	KDM1A
+ protein ubiquitination	1	KDM1A
+negative regulation of protein binding	1	KDM1A
+ protein localization	1	KDM1A
+cellular response to UV	1	KDM1A
+histone H3-K4 demethylation	1	KDM1A
+ chromatin binding	1	KDM1A
+neuron maturation	1	KDM1A
+negative regulation of DNA binding	1	KDM1A
+negative regulation of DNA-binding transcription factor activity	1	KDM1A
+negative regulation of DNA damage response, signal transduction by p53 class mediator	1	KDM1A
+ cell size	1	KDM1A
+guanine metabolic process	1	KDM1A
+ DNA-binding transcription factor activity	1	KDM1A
+negative regulation of histone H3-K4 methylation	1	KDM1A
+negative regulation of histone H3-K9 methylation	1	KDM1A
+muscle cell development	1	KDM1A
+ androgen receptor signaling pathway	1	KDM1A
+response to fungicide	1	KDM1A
+cellular response to cAMP	1	KDM1A
+cellular response to gamma radiation	1	KDM1A
+ DNA methylation-dependent heterochromatin formation	1	KDM1A
+ cold-induced thermogenesis	1	KDM1A
+DNA repair-dependent chromatin remodeling	1	KDM1A
+negative regulation of intrinsic apoptotic signaling pathway in response to DNA damage by p53 class mediator	1	KDM1A
+ neural precursor cell proliferation	1	KDM1A
+ stem cell proliferation	1	KDM1A
+chromosome, telomeric region	1	KDM1A
+chromatin	1	KDM1A
+protein-containing complex	1	KDM1A
+transcription corepressor activity	1	RCOR1
+negative regulation of gene expression	1	RCOR1
+erythrocyte differentiation	1	RCOR1
+ megakaryocyte differentiation	1	RCOR1
+transcription repressor complex	1	RCOR1

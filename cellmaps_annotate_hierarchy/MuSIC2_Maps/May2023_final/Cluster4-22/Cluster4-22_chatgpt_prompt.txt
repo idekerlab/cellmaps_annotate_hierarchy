@@ -1,0 +1,46 @@
+Your response should be formatted as Markdown paragraphs
+Write a critical and concise analysis of this human protein system, describing your reasoning as you go and providing references to scientific papers.
+
+A critical goal of the analysis is to determine if this is a novel complex or if any proteins are novel members of a known complex
+
+Format with Title, Summary, and References sections.        
+Avoid overly general statements of how the proteins are involved in various cellular processes        
+Avoid repeating the goals of the analysis.
+
+What cellular components and complexes are involved in this system?
+What mechanisms and biological processes are performed by this system?
+Propose a name for the system to reflect the cellular location and function, and should be specific but brief. Do not compose an acronym. Place it as the title of your report
+Human Proteins: LAPTM4A, BIRC2, CLTA, CLTC, LDAF1, MB21D2, TOLLIP, TOM1, ZNF114.
+
+System features from GO terms: 
+protein binding: 9 proteins: LAPTM4A, BIRC2, CLTA, CLTC, LDAF1, MB21D2, TOLLIP, TOM1, ZNF114
+cytosol: 5 proteins: BIRC2, CLTA, CLTC, TOLLIP, TOM1
+extracellular exosome: 4 proteins: CLTC, TOLLIP, TOM1, ZNF114
+ubiquitin binding: 3 proteins: BIRC2, TOLLIP, TOM1
+protein-containing complex binding: 3 proteins: BIRC2, CLTA, MB21D2
+cytoplasm: 3 proteins: BIRC2, TOLLIP, TOM1
+plasma membrane: 3 proteins: CLTA, CLTC, TOM1
+membrane: 3 proteins: CLTA, CLTC, TOM1
+identical protein binding: 2 proteins: BIRC2, ZNF114
+ DNA-templated transcription: 2 proteins: BIRC2, ZNF114
+nucleus: 2 proteins: BIRC2, ZNF114
+molecular_function: 2 proteins: CLTA, ZNF114
+structural molecule activity: 2 proteins: CLTA, CLTC
+clathrin heavy chain binding: 2 proteins: CLTA, TOM1
+intracellular protein transport: 2 proteins: CLTA, CLTC
+clathrin coat assembly: 2 proteins: CLTA, CLTC
+cell division: 2 proteins: CLTA, CLTC
+clathrin-dependent endocytosis: 2 proteins: CLTA, CLTC
+spindle: 2 proteins: CLTA, CLTC
+clathrin coat: 2 proteins: CLTA, CLTC
+clathrin coat of trans-Golgi network vesicle: 2 proteins: CLTA, CLTC
+clathrin coat of coated pit: 2 proteins: CLTA, CLTC
+trans-Golgi network membrane: 2 proteins: CLTA, CLTC
+endolysosome membrane: 2 proteins: CLTA, CLTC
+clathrin-coated endocytic vesicle: 2 proteins: CLTA, CLTC
+clathrin complex: 2 proteins: CLTA, CLTC
+autophagy: 2 proteins: CLTC, TOLLIP
+endosome: 2 proteins: CLTC, TOM1
+protein-containing complex: 2 proteins: CLTC, TOLLIP
+signal transduction: 2 proteins: TOLLIP, TOM1
+early endosome: 2 proteins: TOLLIP, TOM1

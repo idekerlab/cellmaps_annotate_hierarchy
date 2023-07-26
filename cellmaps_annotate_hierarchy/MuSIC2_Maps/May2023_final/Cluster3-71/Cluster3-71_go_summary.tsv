@@ -1,0 +1,27 @@
+Feature	Number of Genes	Genes
+protein binding	4	BLTP3A, MIOS, SKIC3, SKIC8
+nucleoplasm	3	MIOS, SKIC3, SKIC8
+cytoplasm	3	MIOS, SKIC3, SKIC8
+cytosol	3	MIOS, SKIC3, SKIC8
+nuclear-transcribed mRNA catabolic process, 3'-5' exonucleolytic nonsense-mediated decay	2	SKIC3, SKIC8
+rescue of stalled ribosome	2	SKIC3, SKIC8
+euchromatin	2	SKIC3, SKIC8
+nucleus	2	SKIC3, SKIC8
+Ski complex	2	SKIC3, SKIC8
+identical protein binding	1	BLTP3A
+histone deacetylase binding	1	BLTP3A
+late endosome	1	BLTP3A
+protein-containing complex localization	1	MIOS
+ TOR signaling	1	MIOS
+cellular response to amino acid starvation	1	MIOS
+negative regulation of TORC1 signaling	1	MIOS
+ TORC1 signaling	1	MIOS
+lysosomal membrane	1	MIOS
+cell junction	1	MIOS
+GATOR2 complex	1	MIOS
+nuclear-transcribed mRNA catabolic process, exonucleolytic, 3'-5'	1	SKIC3
+transcription elongation by RNA polymerase II	1	SKIC8
+Wnt signaling pathway	1	SKIC8
+negative regulation of myeloid cell differentiation	1	SKIC8
+histone H3-K4 methylation	1	SKIC8
+Cdc73/Paf1 complex	1	SKIC8

@@ -1,0 +1,70 @@
+Feature	Number of Genes	Genes
+intracellular membrane-bounded organelle	3	GPRC5B, ZDHHC17, ERGIC2
+membrane	3	ATP13A1, ERGIC2, ITPRIP
+protein binding	3	ZDHHC17, ERGIC2, ITPRIP
+ I-kappaB kinase/NF-kappaB signaling	2	GPRC5B, ZDHHC17
+nucleolus	2	GPRC5B, ERGIC2
+plasma membrane	2	GPRC5B, ITPRIP
+endoplasmic reticulum membrane	2	ATP13A1, ERGIC2
+Golgi apparatus	2	ZDHHC17, ERGIC2
+G protein-coupled receptor binding	1	GPRC5B
+G protein-coupled receptor activity	1	GPRC5B
+protein kinase binding	1	GPRC5B
+protein kinase activator activity	1	GPRC5B
+G protein-coupled receptor signaling pathway	1	GPRC5B
+ neuron differentiation	1	GPRC5B
+ inflammatory response	1	GPRC5B
+ macrophage cytokine production	1	GPRC5B
+ protein tyrosine kinase activity	1	GPRC5B
+ canonical Wnt signaling pathway	1	GPRC5B
+extracellular space	1	GPRC5B
+nucleoplasm	1	GPRC5B
+cytosol	1	GPRC5B
+cell surface	1	GPRC5B
+cytoplasmic vesicle membrane	1	GPRC5B
+receptor complex	1	GPRC5B
+extracellular exosome	1	GPRC5B
+ATP binding	1	ATP13A1
+ABC-type manganese transporter activity	1	ATP13A1
+P-type ion transporter activity	1	ATP13A1
+ATP hydrolysis activity	1	ATP13A1
+ATPase-coupled monoatomic cation transmembrane transporter activity	1	ATP13A1
+metal ion binding	1	ATP13A1
+membrane protein dislocase activity	1	ATP13A1
+intracellular calcium ion homeostasis	1	ATP13A1
+protein transport	1	ATP13A1
+monoatomic ion transmembrane transport	1	ATP13A1
+transmembrane transport	1	ATP13A1
+manganese ion transmembrane transport	1	ATP13A1
+extraction of mislocalized protein from ER membrane	1	ATP13A1
+cysteine-type endopeptidase inhibitor activity	1	ZDHHC17
+signaling receptor binding	1	ZDHHC17
+palmitoyltransferase activity	1	ZDHHC17
+protein-cysteine S-myristoyltransferase activity	1	ZDHHC17
+protein-cysteine S-palmitoyltransferase activity	1	ZDHHC17
+identical protein binding	1	ZDHHC17
+protein-cysteine S-stearoyltransferase activity	1	ZDHHC17
+axonogenesis	1	ZDHHC17
+peptidyl-L-cysteine S-palmitoylation	1	ZDHHC17
+protein palmitoylation	1	ZDHHC17
+lipoprotein transport	1	ZDHHC17
+ programmed cell death	1	ZDHHC17
+ neurotrophin TRK receptor signaling pathway	1	ZDHHC17
+ ERK1 and ERK2 cascade	1	ZDHHC17
+Golgi membrane	1	ZDHHC17
+Golgi-associated vesicle membrane	1	ZDHHC17
+presynaptic membrane	1	ZDHHC17
+cell projection	1	ZDHHC17
+endoplasmic reticulum to Golgi vesicle-mediated transport	1	ERGIC2
+retrograde vesicle-mediated transport, Golgi to endoplasmic reticulum	1	ERGIC2
+nucleus	1	ERGIC2
+cytoplasm	1	ERGIC2
+endoplasmic reticulum	1	ERGIC2
+COPII-coated ER to Golgi transport vesicle	1	ERGIC2
+endoplasmic reticulum-Golgi intermediate compartment membrane	1	ERGIC2
+retrograde transporter complex, Golgi to ER	1	ERGIC2
+transporter complex	1	ERGIC2
+protein kinase inhibitor activity	1	ITPRIP
+extrinsic apoptotic signaling pathway via death domain receptors	1	ITPRIP
+negative regulation of extrinsic apoptotic signaling pathway via death domain receptors	1	ITPRIP
+nuclear outer membrane	1	ITPRIP

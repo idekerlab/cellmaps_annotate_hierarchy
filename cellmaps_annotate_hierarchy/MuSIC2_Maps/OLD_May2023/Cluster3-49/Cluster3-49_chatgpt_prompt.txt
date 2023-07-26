@@ -1,0 +1,15 @@
+Write a critical and concise analysis of this system, describing your reasoning as you go and providing references to scientific papers. Format the page with Title, Summary, and References sections.
+What cellular components and complexes are involved in this system?
+What mechanisms and biological processes are performed by this system?
+Propose a name for the system to reflect the function and location, and should be specific but brief. Do not compose an acronym. Place it as the title of your report
+Provide complete paper references with pubmed link
+Proteins: CFAP141, CRABP2, DMKN, HSPB8, IL36G.
+
+A critical goal of the analysis is to determine if this is a novel complex or if any proteins are novel members of a known complex
+System features from GO terms: 
+protein binding: 4 proteins: CFAP141, CRABP2, DMKN, HSPB8
+nucleoplasm: 3 proteins: CRABP2, HSPB8, IL36G
+cytosol: 3 proteins: CRABP2, HSPB8, IL36G
+nucleus: 2 proteins: CRABP2, HSPB8
+cytoplasm: 2 proteins: CRABP2, HSPB8
+extracellular space: 2 proteins: DMKN, IL36G

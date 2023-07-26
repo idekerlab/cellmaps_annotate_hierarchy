@@ -1,0 +1,347 @@
+Feature	Number of Genes	Genes
+protein binding	35	TLE3, BLTP3A, ARL4C, CCT3, LONP1, BABAM2, DOK3, GNA12, MLLT10, GPSM2, FBXO45, GNG2, MFAP4, GNAS, DIAPH1, UNC45B, CDC73, MIOS, SKIC3, SKIC8, VBP1, CCT2, PFDN5, PFDN1, MOV10, CCT6A, CCT7, SHB, PDCL3, PDCD5, PDCL, TXNDC9, CCT8, CCT4, NLRP2
+cytosol	27	ARL4C, CCT3, CCT6B, LONP1, BABAM2, GPSM2, GNAS, DIAPH1, UNC45B, CDC73, MIOS, SKIC3, SKIC8, VBP1, CCT2, PFDN5, MOV10, CCT6A, CCT7, SHB, PDCL3, PDCD5, PDCL, TXNDC9, CCT8, CCT4, NLRP2
+cytoplasm	22	ARL4C, BABAM2, DOK3, GNA12, GPSM2, FBXO45, DIAPH1, UNC45B, MIOS, SKIC3, SKIC8, VBP1, PFDN5, PFDN1, CCT6A, CCT7, PDCL3, PDCD5, PDCL, TXNDC9, CCT8, NLRP2
+nucleus	14	TLE3, ARL4C, BABAM2, MLLT10, FBXO45, DIAPH1, CDC73, SKIC3, SKIC8, VBP1, PFDN5, MOV10, PDCD5, TXNDC9
+nucleoplasm	12	TLE3, LONP1, BABAM2, MLLT10, CDC73, MIOS, SKIC3, SKIC8, SHB, PDCL3, CCT8, CCT4
+protein folding	11	CCT3, CCT6B, VBP1, CCT2, PFDN5, PFDN1, CCT6A, CCT7, PDCL3, CCT8, CCT4
+ATP binding	10	CCT3, CCT6B, LONP1, CCT2, MOV10, CCT6A, CCT7, CCT8, CCT4, NLRP2
+unfolded protein binding	10	CCT3, CCT6B, VBP1, CCT2, PFDN5, PFDN1, CCT6A, CCT7, CCT8, CCT4
+protein stabilization	10	CCT3, VBP1, CCT2, PFDN5, PFDN1, CCT6A, CCT7, PDCL3, CCT8, CCT4
+ATP hydrolysis activity	9	CCT3, CCT6B, LONP1, CCT2, MOV10, CCT6A, CCT7, CCT8, CCT4
+protein folding chaperone	9	CCT3, CCT6B, CCT2, PFDN1, CCT6A, CCT7, PDCL3, CCT8, CCT4
+extracellular exosome	9	CCT3, GNG2, GNAS, CCT2, CCT6A, CCT7, PDCD5, CCT8, CCT4
+chaperone-mediated protein folding	8	CCT3, UNC45B, CCT2, CCT6A, CCT7, PDCL3, CCT8, CCT4
+ATP-dependent protein folding chaperone	7	CCT3, CCT6B, CCT2, CCT6A, CCT7, CCT8, CCT4
+chaperonin-containing T-complex	7	CCT3, CCT6B, CCT2, CCT6A, CCT7, CCT8, CCT4
+plasma membrane	6	ARL4C, DOK3, GNA12, GNG2, DIAPH1, SHB
+ telomere maintenance via telomerase	6	CCT3, CCT2, CCT6A, CCT7, CCT8, CCT4
+toxin transport	6	CCT3, CCT6B, CCT2, CCT7, CCT8, CCT4
+ establishment of protein localization to telomere	6	CCT3, CCT2, CCT6A, CCT7, CCT8, CCT4
+ protein localization to Cajal body	6	CCT3, CCT2, CCT6A, CCT7, CCT8, CCT4
+ telomerase RNA localization to Cajal body	6	CCT3, CCT2, CCT6A, CCT7, CCT8, CCT4
+microtubule	6	CCT3, CCT2, CCT6A, CCT7, CCT8, CCT4
+RNA binding	5	CCT3, DIAPH1, MOV10, CCT6A, CCT4
+binding of sperm to zona pellucida	5	CCT3, CCT2, CCT7, CCT8, CCT4
+cell body	5	CCT3, CCT2, CCT7, CCT8, CCT4
+apoptotic process	5	BABAM2, SHB, PDCL3, PDCD5, NLRP2
+signal transduction	4	TLE3, BABAM2, SHB, PDCL
+zona pellucida receptor complex	4	CCT3, CCT2, CCT8, CCT4
+centrosome	4	GPSM2, TXNDC9, CCT8, CCT4
+extracellular region	4	FBXO45, MFAP4, CCT2, CCT8
+Wnt signaling pathway	3	TLE3, CDC73, SKIC8
+identical protein binding	3	BLTP3A, LONP1, GPSM2
+GTPase activity	3	ARL4C, GNA12, GNAS
+GTP binding	3	ARL4C, GNA12, GNAS
+membrane	3	LONP1, GNG2, GNAS
+metal ion binding	3	GNA12, MLLT10, GNAS
+G protein-coupled receptor signaling pathway	3	GNA12, GPSM2, GNG2
+heterotrimeric G-protein complex	3	GNA12, GNG2, GNAS
+protein-containing complex	3	MLLT10, GPSM2, PDCL3
+amyloid-beta binding	3	VBP1, PFDN5, PFDN1
+negative regulation of amyloid fibril formation	3	VBP1, PFDN5, PFDN1
+prefoldin complex	3	VBP1, PFDN5, PFDN1
+transcription corepressor activity	2	TLE3, PFDN5
+negative regulation of DNA-templated transcription	2	TLE3, PFDN5
+negative regulation of canonical Wnt signaling pathway	2	TLE3, PFDN5
+pore complex assembly	2	CCT3, CCT8
+ peptidyl-tyrosine phosphorylation	2	LONP1, PDCL3
+chaperone-mediated protein complex assembly	2	LONP1, CCT2
+DNA damage response	2	BABAM2, FBXO45
+negative regulation of apoptotic process	2	BABAM2, CDC73
+cell division	2	BABAM2, GPSM2
+secretory granule membrane	2	DOK3, DIAPH1
+ficolin-1-rich granule membrane	2	DOK3, DIAPH1
+G-protein beta/gamma-subunit complex binding	2	GNA12, GNAS
+ cell shape	2	GNA12, DIAPH1
+cell differentiation	2	GNA12, UNC45B
+ TOR signaling	2	GNA12, MIOS
+lateral plasma membrane	2	GNA12, GPSM2
+DNA binding	2	MLLT10, PDCD5
+ transcription by RNA polymerase II	2	MLLT10, CDC73
+cell projection	2	FBXO45, CCT4
+adenylate cyclase-activating dopamine receptor signaling pathway	2	GNG2, GNAS
+extracellular space	2	MFAP4, MOV10
+actin cytoskeleton organization	2	DIAPH1, PDCL3
+perinuclear region of cytoplasm	2	UNC45B, PDCL3
+transcription elongation by RNA polymerase II	2	CDC73, SKIC8
+negative regulation of cell population proliferation	2	CDC73, PDCD5
+negative regulation of myeloid cell differentiation	2	CDC73, SKIC8
+chromosome, telomeric region	2	CDC73, NLRP2
+Cdc73/Paf1 complex	2	CDC73, SKIC8
+nuclear-transcribed mRNA catabolic process, 3'-5' exonucleolytic nonsense-mediated decay	2	SKIC3, SKIC8
+rescue of stalled ribosome	2	SKIC3, SKIC8
+euchromatin	2	SKIC3, SKIC8
+Ski complex	2	SKIC3, SKIC8
+intracellular membrane-bounded organelle	2	VBP1, NLRP2
+ telomerase activity	2	CCT2, CCT4
+scaRNA localization to Cajal body	2	CCT2, CCT4
+azurophil granule lumen	2	CCT2, CCT8
+intermediate filament cytoskeleton	2	PFDN5, CCT8
+cytoplasmic ribonucleoprotein granule	2	MOV10, SHB
+angiogenesis	2	SHB, PDCL3
+ gene expression	2	PDCL3, PDCD5
+negative regulation of chaperone-mediated protein folding	2	PDCL3, PDCD5
+ cysteine-type endopeptidase activity involved in apoptotic process	2	PDCD5, NLRP2
+cilium	2	PDCL, CCT8
+cadherin binding	2	TXNDC9, CCT8
+animal organ morphogenesis	1	TLE3
+negative regulation of cold-induced thermogenesis	1	TLE3
+transcription regulator complex	1	TLE3
+beta-catenin-TCF complex	1	TLE3
+histone deacetylase binding	1	BLTP3A
+late endosome	1	BLTP3A
+alpha-tubulin binding	1	ARL4C
+intracellular protein transport	1	ARL4C
+endocytic recycling	1	ARL4C
+filopodium	1	ARL4C
+cytoskeleton	1	CCT3
+mitochondrial promoter sequence-specific DNA binding	1	LONP1
+single-stranded DNA binding	1	LONP1
+single-stranded RNA binding	1	LONP1
+ATP-dependent peptidase activity	1	LONP1
+serine-type endopeptidase activity	1	LONP1
+PH domain binding	1	LONP1
+ADP binding	1	LONP1
+insulin receptor substrate binding	1	LONP1
+sequence-specific DNA binding	1	LONP1
+G-quadruplex DNA binding	1	LONP1
+DNA polymerase binding	1	LONP1
+mitochondrial genome maintenance	1	LONP1
+response to hypoxia	1	LONP1
+protein quality control for misfolded or incompletely synthesized proteins	1	LONP1
+mitochondrion organization	1	LONP1
+response to hormone	1	LONP1
+response to aluminum ion	1	LONP1
+mitochondrial DNA metabolic process	1	LONP1
+cellular response to oxidative stress	1	LONP1
+negative regulation of insulin receptor signaling pathway	1	LONP1
+proteolysis involved in protein catabolic process	1	LONP1
+oxidation-dependent protein catabolic process	1	LONP1
+mitochondrion	1	LONP1
+mitochondrial matrix	1	LONP1
+mitochondrial nucleoid	1	LONP1
+peroxisome targeting sequence binding	1	BABAM2
+tumor necrosis factor receptor binding	1	BABAM2
+polyubiquitin modification-dependent protein binding	1	BABAM2
+ DNA repair	1	BABAM2
+double-strand break repair	1	BABAM2
+chromatin organization	1	BABAM2
+mitotic G2 DNA damage checkpoint signaling	1	BABAM2
+response to ionizing radiation	1	BABAM2
+histone H2A monoubiquitination	1	BABAM2
+mitotic G2/M transition checkpoint	1	BABAM2
+protein autoubiquitination	1	BABAM2
+protein K63-linked deubiquitination	1	BABAM2
+histone H2A K63-linked deubiquitination	1	BABAM2
+cellular response to ionizing radiation	1	BABAM2
+ DNA damage checkpoint	1	BABAM2
+nuclear ubiquitin ligase complex	1	BABAM2
+BRCA1-A complex	1	BABAM2
+BRISC complex	1	BABAM2
+transmembrane receptor protein tyrosine kinase signaling pathway	1	DOK3
+Ras protein signal transduction	1	DOK3
+ MAPK cascade	1	DOK3
+protein phosphatase regulator activity	1	GNA12
+D5 dopamine receptor binding	1	GNA12
+protein phosphatase 2A binding	1	GNA12
+in utero embryonic development	1	GNA12
+adenylate cyclase-modulating G protein-coupled receptor signaling pathway	1	GNA12
+Rho protein signal transduction	1	GNA12
+blood coagulation	1	GNA12
+ blood pressure	1	GNA12
+response to xenobiotic stimulus	1	GNA12
+ fibroblast migration	1	GNA12
+ proteasomal ubiquitin-dependent protein catabolic process	1	GNA12
+ phosphoprotein phosphatase activity	1	GNA12
+embryonic digit morphogenesis	1	GNA12
+negative regulation of vascular associated smooth muscle cell proliferation	1	GNA12
+negative regulation of vascular associated smooth muscle cell migration	1	GNA12
+focal adhesion	1	GNA12
+brush border membrane	1	GNA12
+neuron projection	1	GNA12
+neuronal cell body	1	GNA12
+chromatin binding	1	MLLT10
+nucleosome binding	1	MLLT10
+histone binding	1	MLLT10
+histone H3-K27 methylation	1	MLLT10
+nucleotide binding	1	GPSM2
+G-protein alpha-subunit binding	1	GPSM2
+GDP-dissociation inhibitor activity	1	GPSM2
+protein domain specific binding	1	GPSM2
+protein self-association	1	GPSM2
+dynein complex binding	1	GPSM2
+establishment of mitotic spindle orientation	1	GPSM2
+mitotic spindle organization	1	GPSM2
+Ran protein signal transduction	1	GPSM2
+maintenance of centrosome location	1	GPSM2
+ mitotic spindle organization	1	GPSM2
+ protein localization to cell cortex	1	GPSM2
+ spindle assembly	1	GPSM2
+cell cortex	1	GPSM2
+mitotic spindle pole	1	GPSM2
+lateral cell cortex	1	GPSM2
+cell cortex region	1	GPSM2
+ubiquitin ligase-substrate adaptor activity	1	FBXO45
+neuron migration	1	FBXO45
+ubiquitin-dependent protein catabolic process	1	FBXO45
+protein ubiquitination	1	FBXO45
+cerebral cortex radially oriented cell migration	1	FBXO45
+cerebral cortex tangential migration	1	FBXO45
+corticospinal tract morphogenesis	1	FBXO45
+anterior commissure morphogenesis	1	FBXO45
+proteasome-mediated ubiquitin-dependent protein catabolic process	1	FBXO45
+synapse assembly involved in innervation	1	FBXO45
+protein K48-linked ubiquitination	1	FBXO45
+ synaptic vesicle exocytosis	1	FBXO45
+postsynaptic density	1	FBXO45
+SCF ubiquitin ligase complex	1	FBXO45
+presynaptic membrane	1	FBXO45
+synapse	1	FBXO45
+postsynaptic membrane	1	FBXO45
+glutamatergic synapse	1	FBXO45
+presynaptic cytosol	1	FBXO45
+postsynaptic cytosol	1	FBXO45
+G-protein beta-subunit binding	1	GNG2
+fibroblast proliferation	1	GNG2
+cellular response to prostaglandin E stimulus	1	GNG2
+cellular response to catecholamine stimulus	1	GNG2
+extracellular matrix structural constituent	1	MFAP4
+cell adhesion	1	MFAP4
+UV protection	1	MFAP4
+ collagen metabolic process	1	MFAP4
+elastic fiber assembly	1	MFAP4
+cellular response to UV-B	1	MFAP4
+supramolecular fiber organization	1	MFAP4
+microfibril	1	MFAP4
+collagen-containing extracellular matrix	1	MFAP4
+elastic fiber	1	MFAP4
+insulin-like growth factor receptor binding	1	GNAS
+adenylate cyclase activator activity	1	GNAS
+beta-2 adrenergic receptor binding	1	GNAS
+D1 dopamine receptor binding	1	GNAS
+mu-type opioid receptor binding	1	GNAS
+ionotropic glutamate receptor binding	1	GNAS
+corticotropin-releasing hormone receptor 1 binding	1	GNAS
+adenylate cyclase-activating G protein-coupled receptor signaling pathway	1	GNAS
+sensory perception of chemical stimulus	1	GNAS
+developmental growth	1	GNAS
+bone development	1	GNAS
+platelet aggregation	1	GNAS
+ cold-induced thermogenesis	1	GNAS
+apical plasma membrane	1	GNAS
+actin binding	1	DIAPH1
+signaling receptor binding	1	DIAPH1
+small GTPase binding	1	DIAPH1
+transmembrane transporter binding	1	DIAPH1
+cytoskeleton organization	1	DIAPH1
+sensory perception of sound	1	DIAPH1
+actin filament polymerization	1	DIAPH1
+ cell migration	1	DIAPH1
+ microtubule-based process	1	DIAPH1
+protein localization to microtubule	1	DIAPH1
+ release of sequestered calcium ion into cytosol	1	DIAPH1
+ cytoskeleton organization	1	DIAPH1
+cellular response to histamine	1	DIAPH1
+microtubule organizing center	1	DIAPH1
+actin filament	1	DIAPH1
+ruffle membrane	1	DIAPH1
+mitotic spindle	1	DIAPH1
+Hsp90 protein binding	1	UNC45B
+lens development in camera-type eye	1	UNC45B
+muscle organ development	1	UNC45B
+Z disc	1	UNC45B
+A band	1	UNC45B
+RNA polymerase II complex binding	1	CDC73
+negative regulation of transcription by RNA polymerase II	1	CDC73
+ cell growth	1	CDC73
+endodermal cell fate commitment	1	CDC73
+mRNA polyadenylation	1	CDC73
+cell cycle	1	CDC73
+histone modification	1	CDC73
+stem cell population maintenance	1	CDC73
+ Wnt signaling pathway	1	CDC73
+ mRNA 3'-end processing	1	CDC73
+protein destabilization	1	CDC73
+ transcription elongation by RNA polymerase II	1	CDC73
+recruitment of 3'-end processing factors to RNA polymerase II holoenzyme complex	1	CDC73
+negative regulation of fibroblast proliferation	1	CDC73
+negative regulation of epithelial cell proliferation	1	CDC73
+cellular response to lipopolysaccharide	1	CDC73
+ cell cycle G1/S phase transition	1	CDC73
+negative regulation of G1/S transition of mitotic cell cycle	1	CDC73
+protein-containing complex localization	1	MIOS
+cellular response to amino acid starvation	1	MIOS
+negative regulation of TORC1 signaling	1	MIOS
+ TORC1 signaling	1	MIOS
+lysosomal membrane	1	MIOS
+cell junction	1	MIOS
+GATOR2 complex	1	MIOS
+nuclear-transcribed mRNA catabolic process, exonucleolytic, 3'-5'	1	SKIC3
+histone H3-K4 methylation	1	SKIC8
+tubulin binding	1	VBP1
+microtubule-based process	1	VBP1
+tubulin complex assembly	1	VBP1
+polysome	1	VBP1
+ubiquitin protein ligase binding	1	CCT2
+chaperone mediated protein folding independent of cofactor	1	CCT2
+ DNA-templated transcription	1	PFDN5
+retina development in camera-type eye	1	PFDN5
+RNA polymerase I assembly	1	PFDN5
+RNA polymerase II core complex assembly	1	PFDN5
+RNA polymerase III assembly	1	PFDN5
+5'-3' RNA helicase activity	1	MOV10
+retrotransposon silencing	1	MOV10
+ncRNA-mediated post-transcriptional gene silencing	1	MOV10
+miRNA-mediated gene silencing	1	MOV10
+miRNA-mediated gene silencing by mRNA destabilization	1	MOV10
+defense response to virus	1	MOV10
+ mRNA catabolic process	1	MOV10
+3'-UTR-mediated mRNA destabilization	1	MOV10
+retrotransposon silencing by mRNA destabilization	1	MOV10
+ neuron projection arborization	1	MOV10
+P-body	1	MOV10
+cytoplasmic stress granule	1	MOV10
+P granule	1	MOV10
+WD40-repeat domain binding	1	CCT6A
+phosphotyrosine residue binding	1	SHB
+signaling receptor complex adaptor activity	1	SHB
+negative regulation of protein kinase activity	1	SHB
+B cell proliferation	1	SHB
+ T-helper cell differentiation	1	SHB
+ mitotic cell cycle	1	SHB
+T cell receptor signaling pathway	1	SHB
+hematopoietic stem cell proliferation	1	SHB
+negative regulation of oocyte maturation	1	SHB
+vascular endothelial growth factor receptor 2 binding	1	PDCL3
+ endothelial cell proliferation	1	PDCL3
+ angiogenesis	1	PDCL3
+negative regulation of ubiquitin-dependent protein catabolic process	1	PDCL3
+endoplasmic reticulum	1	PDCL3
+perinucleolar compartment	1	PDCL3
+heparin binding	1	PDCD5
+acetyltransferase activator activity	1	PDCD5
+beta-tubulin binding	1	PDCD5
+ apoptotic process	1	PDCD5
+cellular response to transforming growth factor beta stimulus	1	PDCD5
+ release of cytochrome c from mitochondria	1	PDCD5
+ protein insertion into mitochondrial outer membrane	1	PDCD5
+visual perception	1	PDCL
+ G protein-coupled receptor signaling pathway	1	PDCL
+cell projection organization	1	PDCL
+ smoothened signaling pathway	1	PDCL
+heterotrimeric G-protein complex assembly	1	PDCL
+microtubule cytoskeleton organization	1	TXNDC9
+biological_process	1	TXNDC9
+midbody	1	TXNDC9
+secretory granule lumen	1	CCT8
+ficolin-1-rich granule lumen	1	CCT8
+melanosome	1	CCT4
+Pyrin domain binding	1	NLRP2
+inflammatory response	1	NLRP2
+negative regulation of NF-kappaB transcription factor activity	1	NLRP2
+ interleukin-1 beta production	1	NLRP2
+innate immune response	1	NLRP2
+ inflammatory response	1	NLRP2
+negative regulation of NIK/NF-kappaB signaling	1	NLRP2
+Golgi apparatus	1	NLRP2

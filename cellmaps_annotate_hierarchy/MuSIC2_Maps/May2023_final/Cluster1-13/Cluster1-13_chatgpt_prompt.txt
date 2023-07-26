@@ -1,0 +1,41 @@
+Your response should be formatted as Markdown paragraphs
+Write a critical and concise analysis of this human protein system, describing your reasoning as you go and providing references to scientific papers.
+
+A critical goal of the analysis is to determine if this is a novel complex or if any proteins are novel members of a known complex
+
+Format with Title, Summary, and References sections.        
+Avoid overly general statements of how the proteins are involved in various cellular processes        
+Avoid repeating the goals of the analysis.
+
+What cellular components and complexes are involved in this system?
+What mechanisms and biological processes are performed by this system?
+Propose a name for the system to reflect the cellular location and function, and should be specific but brief. Do not compose an acronym. Place it as the title of your report
+Human Proteins: UHMK1, TARS2, MROH1, TMEM263, ERBB2, INTS6, VPS54, ALG2, SETD6, NACC1, TTC5, WDR81, ZNF281.
+
+System features from GO terms: 
+protein binding: 11 proteins: UHMK1, TARS2, ERBB2, INTS6, VPS54, ALG2, SETD6, NACC1, TTC5, WDR81, ZNF281
+nucleoplasm: 8 proteins: UHMK1, ERBB2, INTS6, VPS54, SETD6, NACC1, TTC5, ZNF281
+nucleus: 7 proteins: UHMK1, ERBB2, INTS6, ALG2, SETD6, NACC1, ZNF281
+cytosol: 5 proteins: ERBB2, VPS54, SETD6, TTC5, WDR81
+membrane: 4 proteins: TMEM263, ERBB2, VPS54, ALG2
+ATP binding: 3 proteins: UHMK1, TARS2, ERBB2
+cytoplasm: 3 proteins: MROH1, ALG2, NACC1
+perinuclear region of cytoplasm: 3 proteins: ERBB2, VPS54, ALG2
+mitochondrion: 3 proteins: VPS54, TTC5, WDR81
+protein autophosphorylation: 2 proteins: UHMK1, ERBB2
+intracellular membrane-bounded organelle: 2 proteins: UHMK1, NACC1
+mitochondrial matrix: 2 proteins: TARS2, TTC5
+transmembrane signaling receptor activity: 2 proteins: ERBB2, INTS6
+protein heterodimerization activity: 2 proteins: ERBB2, ALG2
+ cell population proliferation: 2 proteins: ERBB2, NACC1
+mitochondrion organization: 2 proteins: VPS54, WDR81
+response to calcium ion: 2 proteins: VPS54, ALG2
+Golgi apparatus: 2 proteins: VPS54, WDR81
+endoplasmic reticulum membrane: 2 proteins: ALG2, WDR81
+stem cell differentiation: 2 proteins: SETD6, ZNF281
+RNA polymerase II cis-regulatory region sequence-specific DNA binding: 2 proteins: NACC1, ZNF281
+DNA-binding transcription factor activity, RNA polymerase II-specific: 2 proteins: NACC1, ZNF281
+DNA-binding transcription repressor activity, RNA polymerase II-specific: 2 proteins: NACC1, ZNF281
+negative regulation of transcription by RNA polymerase II: 2 proteins: NACC1, ZNF281
+ transcription by RNA polymerase II: 2 proteins: NACC1, TTC5
+negative regulation of DNA-templated transcription: 2 proteins: NACC1, ZNF281

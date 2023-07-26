@@ -1,0 +1,94 @@
+Feature	Number of Genes	Genes
+cytosol	8	TNNC2, PRKAG2, MYH14, PRKAB2, PHKA2, PTPN4, CAMK2N2, PDE1C
+protein binding	6	TNNC2, SYN2, PRKAG2, PRKAB2, PHKA2, PTPN4
+nucleoplasm	5	PRKAG2, PRKAB2, SH3BGRL2, PTPN4, CAMK2N2
+cytoplasm	4	MYH14, PRKAB2, SH3BGRL2, PTPN4
+ATP binding	3	SYN2, PRKAG2, MYH14
+protein kinase binding	3	PRKAG2, PRKAB2, CAMK2N2
+calmodulin binding	3	MYH14, PHKA2, PDE1C
+skeletal muscle contraction	2	TNNC2, MYH14
+plasma membrane	2	SYN2, PHKA2
+synapse	2	SYN2, CAMK2N2
+AMP-activated protein kinase activity	2	PRKAG2, PRKAB2
+glycogen metabolic process	2	PRKAG2, PHKA2
+negative regulation of protein kinase activity	2	PRKAG2, CAMK2N2
+fatty acid biosynthetic process	2	PRKAG2, PRKAB2
+cellular response to nutrient levels	2	PRKAG2, PRKAB2
+nucleotide-activated protein kinase complex	2	PRKAG2, PRKAB2
+signal transduction	2	PRKAB2, PDE1C
+actin binding	1	TNNC2
+calcium ion binding	1	TNNC2
+ muscle contraction	1	TNNC2
+troponin complex	1	TNNC2
+identical protein binding	1	SYN2
+chemical synaptic transmission	1	SYN2
+neurotransmitter secretion	1	SYN2
+calcium-ion regulated exocytosis	1	SYN2
+synaptic vesicle clustering	1	SYN2
+postsynaptic density	1	SYN2
+synaptic vesicle membrane	1	SYN2
+SNARE complex	1	SYN2
+Schaffer collateral - CA1 synapse	1	SYN2
+glutamatergic synapse	1	SYN2
+cAMP-dependent protein kinase inhibitor activity	1	PRKAG2
+cAMP-dependent protein kinase regulator activity	1	PRKAG2
+phosphorylase kinase regulator activity	1	PRKAG2
+AMP binding	1	PRKAG2
+protein kinase activator activity	1	PRKAG2
+ADP binding	1	PRKAG2
+ glycolytic process	1	PRKAG2
+protein phosphorylation	1	PRKAG2
+ATP biosynthetic process	1	PRKAG2
+ peptidyl-threonine phosphorylation	1	PRKAG2
+sterol biosynthetic process	1	PRKAG2
+ fatty acid metabolic process	1	PRKAG2
+intracellular signal transduction	1	PRKAG2
+ protein kinase activity	1	PRKAG2
+ fatty acid oxidation	1	PRKAG2
+ glucose import	1	PRKAG2
+extracellular space	1	PRKAG2
+microfilament motor activity	1	MYH14
+actin filament binding	1	MYH14
+skeletal muscle tissue development	1	MYH14
+sensory perception of sound	1	MYH14
+ cell shape	1	MYH14
+neuronal action potential	1	MYH14
+actin filament-based movement	1	MYH14
+actomyosin structure organization	1	MYH14
+mitochondrion morphogenesis	1	MYH14
+vocalization behavior	1	MYH14
+stress fiber	1	MYH14
+brush border	1	MYH14
+membrane	1	MYH14
+myosin II complex	1	MYH14
+growth cone	1	MYH14
+myosin filament	1	MYH14
+actomyosin	1	MYH14
+extracellular exosome	1	MYH14
+myosin II filament	1	MYH14
+ cold-induced thermogenesis	1	PRKAB2
+nucleus	1	PRKAB2
+phosphorylase kinase activity	1	PHKA2
+carbohydrate metabolic process	1	PHKA2
+generation of precursor metabolites and energy	1	PHKA2
+protein modification process	1	PHKA2
+phosphorylase kinase complex	1	PHKA2
+SH3 domain binding	1	SH3BGRL2
+nuclear membrane	1	SH3BGRL2
+protein tyrosine phosphatase activity	1	PTPN4
+non-membrane spanning protein tyrosine phosphatase activity	1	PTPN4
+cytoskeletal protein binding	1	PTPN4
+glutamate receptor binding	1	PTPN4
+protein dephosphorylation	1	PTPN4
+peptidyl-tyrosine phosphorylation	1	PTPN4
+cytoskeleton	1	PTPN4
+cytoplasmic side of plasma membrane	1	PTPN4
+calcium-dependent protein kinase inhibitor activity	1	CAMK2N2
+centrosome	1	CAMK2N2
+3',5'-cyclic-AMP phosphodiesterase activity	1	PDE1C
+calmodulin-activated dual specificity 3',5'-cyclic-GMP, 3',5'-cyclic-AMP phosphodiesterase activity	1	PDE1C
+metal ion binding	1	PDE1C
+3',5'-cyclic-GMP phosphodiesterase activity	1	PDE1C
+calmodulin-activated 3',5'-cyclic-GMP phosphodiesterase activity	1	PDE1C
+lysosome	1	PDE1C
+neuronal cell body	1	PDE1C

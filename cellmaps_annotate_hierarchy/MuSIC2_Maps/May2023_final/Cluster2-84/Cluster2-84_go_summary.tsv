@@ -1,0 +1,98 @@
+Feature	Number of Genes	Genes
+protein binding	3	RIPK2, MTR, USP32
+cytosol	3	RIPK2, MTR, USP32
+protein serine/threonine kinase activity	1	RIPK2
+JUN kinase kinase kinase activity	1	RIPK2
+non-membrane spanning protein tyrosine kinase activity	1	RIPK2
+signaling receptor binding	1	RIPK2
+ATP binding	1	RIPK2
+LIM domain binding	1	RIPK2
+identical protein binding	1	RIPK2
+protein homodimerization activity	1	RIPK2
+CARD domain binding	1	RIPK2
+caspase binding	1	RIPK2
+protein serine kinase activity	1	RIPK2
+ cytokine-mediated signaling pathway	1	RIPK2
+adaptive immune response	1	RIPK2
+ T-helper 1 type immune response	1	RIPK2
+protein phosphorylation	1	RIPK2
+apoptotic process	1	RIPK2
+inflammatory response	1	RIPK2
+signal transduction	1	RIPK2
+I-kappaB kinase/NF-kappaB signaling	1	RIPK2
+JNK cascade	1	RIPK2
+ peptidyl-threonine phosphorylation	1	RIPK2
+cytokine-mediated signaling pathway	1	RIPK2
+ protein ubiquitination	1	RIPK2
+lipopolysaccharide-mediated signaling pathway	1	RIPK2
+ protein binding	1	RIPK2
+ chemokine production	1	RIPK2
+ interferon-alpha production	1	RIPK2
+ interferon-beta production	1	RIPK2
+ type II interferon production	1	RIPK2
+ interleukin-1 beta production	1	RIPK2
+ interleukin-12 production	1	RIPK2
+ interleukin-2 production	1	RIPK2
+ interleukin-6 production	1	RIPK2
+ tumor necrosis factor production	1	RIPK2
+immature T cell proliferation in thymus	1	RIPK2
+ immature T cell proliferation in thymus	1	RIPK2
+ peptidyl-serine phosphorylation	1	RIPK2
+toll-like receptor 2 signaling pathway	1	RIPK2
+toll-like receptor 4 signaling pathway	1	RIPK2
+CD4-positive, alpha-beta T cell proliferation	1	RIPK2
+ apoptotic process	1	RIPK2
+ I-kappaB kinase/NF-kappaB signaling	1	RIPK2
+response to exogenous dsRNA	1	RIPK2
+innate immune response	1	RIPK2
+ T-helper 1 cell differentiation	1	RIPK2
+ transcription by RNA polymerase II	1	RIPK2
+ JNK cascade	1	RIPK2
+ peptidyl-tyrosine phosphorylation	1	RIPK2
+defense response to Gram-positive bacterium	1	RIPK2
+T cell receptor signaling pathway	1	RIPK2
+ NF-kappaB transcription factor activity	1	RIPK2
+ macrophage cytokine production	1	RIPK2
+ERK1 and ERK2 cascade	1	RIPK2
+ ERK1 and ERK2 cascade	1	RIPK2
+nucleotide-binding oligomerization domain containing 1 signaling pathway	1	RIPK2
+nucleotide-binding oligomerization domain containing 2 signaling pathway	1	RIPK2
+response to interleukin-1	1	RIPK2
+response to interleukin-12	1	RIPK2
+response to interleukin-18	1	RIPK2
+cellular response to lipoteichoic acid	1	RIPK2
+cellular response to peptidoglycan	1	RIPK2
+cellular response to muramyl dipeptide	1	RIPK2
+activation of cysteine-type endopeptidase activity	1	RIPK2
+xenophagy	1	RIPK2
+ xenophagy	1	RIPK2
+ CD4-positive, alpha-beta T cell proliferation	1	RIPK2
+cytoplasm	1	RIPK2
+endoplasmic reticulum	1	RIPK2
+cytoskeleton	1	RIPK2
+vesicle	1	RIPK2
+protein-containing complex	1	RIPK2
+guanyl-nucleotide exchange factor activity	1	DENND10
+small GTPase binding	1	DENND10
+protein transport	1	DENND10
+endosome transport via multivesicular body sorting pathway	1	DENND10
+ early endosome to late endosome transport	1	DENND10
+late endosome	1	DENND10
+zinc ion binding	1	MTR
+methionine synthase activity	1	MTR
+cobalamin binding	1	MTR
+nervous system development	1	MTR
+methionine biosynthetic process	1	MTR
+cobalamin metabolic process	1	MTR
+axon regeneration	1	MTR
+methylation	1	MTR
+tetrahydrofolate metabolic process	1	MTR
+response to axon injury	1	MTR
+homocysteine metabolic process	1	MTR
+cellular response to nitric oxide	1	MTR
+cysteine-type deubiquitinase activity	1	USP32
+calcium ion binding	1	USP32
+ubiquitin-dependent protein catabolic process	1	USP32
+protein deubiquitination	1	USP32
+Golgi apparatus	1	USP32
+membrane	1	USP32

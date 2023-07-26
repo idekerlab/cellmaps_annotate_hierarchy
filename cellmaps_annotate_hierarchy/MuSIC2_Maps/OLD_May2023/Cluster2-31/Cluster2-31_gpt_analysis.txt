@@ -1,0 +1,16 @@
+Title: The Sterol-Regulated Intracellular Transport Complex
+Analysis:
+The protein set under analysis consists of 20 proteins, and based on their Gene Ontology (GO) terms, they are majorly involved in protein binding, intracellular transport, and sterol transport. The system is predominantly associated with the cytosol, Golgi apparatus, and intracellular membrane-bounded organelles. Based on the GO terms, the proteins in this system appear to be involved in multiple cellular processes, including Golgi organization, endoplasmic reticulum stress response, and regulation of macroautophagy.
+
+A critical goal of this analysis is to determine if this is a novel complex or if any proteins are novel members of a known complex. The system seems to be centered around sterol transport, with three proteins (OSBP, OSBPL11, and OSBPL9) having sterol transporter activity, sterol binding, and sterol transport GO terms. Additionally, several proteins are involved in intracellular protein transport, including USO1, RAB1B, GGA1, and SNX5. Based on these observations, the system appears to function primarily in intracellular transport regulation with a strong emphasis on sterol homeostasis.
+
+The most appropriate name for this system is the "Sterol-Regulated Intracellular Transport Complex." This name reflects the functional themes of sterol transport and intracellular transport regulation.
+
+References:
+
+Mesmin, B., Bigay, J., Moser von Filseck, J., Lacas-Gervais, S., Drin, G., & Antonny, B. (2013). A Four-Step Cycle Driven by PI(4)P Hydrolysis Directs Sterol/PI(4)P Exchange by the ER-Golgi Tether OSBP. Cell, 155(4), 830-843. PubMed
+Olkkonen, V. M., & Li, S. (2013). Oxysterol-binding proteins: Sterol and phosphoinositide sensors coordinating transport, signaling and metabolism. Progress in Lipid Research, 52(4), 529-538. PubMed
+van den Berg, R., Hoogenraad, C. C., & Akhmanova, A. (2017). Cytoplasmic linker proteins, a family of microtubule-associated proteins that promote microtubule-actin cross-linking. The International Journal of Biochemistry & Cell Biology, 84, 39-44. PubMed
+Mattera, R., Park, S. Y., De Pace, R., Guardia, C. M., & Bonifacino, J. S. (2017). AP-4 mediates export of ATG9A from the trans-Golgi network to promote autophagosome formation. Proceedings of the National Academy of Sciences, 114(49), E10697-E10706. PubMed
+Bonifacino, J. S., & Rojas, R. (2006). Retrograde transport from endosomes to the trans-Golgi network. Nature Reviews Molecular Cell Biology, 7(8), 568-579. PubMed
+Note: Additional references for other proteins in the system can be found in the respective original research articles or reviews.

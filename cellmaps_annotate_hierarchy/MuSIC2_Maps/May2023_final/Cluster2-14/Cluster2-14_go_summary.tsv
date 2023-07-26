@@ -1,0 +1,492 @@
+Feature	Number of Genes	Genes
+mitochondrion	38	ARMC10, PCK2, LETM1, MCCC1, TRNT1, HK1, MFN1, HKDC1, NLRX1, APOOL, ETFA, PRORP, MFN2, IDH3G, SLC25A24, CLPX, TBRG4, IDH3B, ETFB, DHFR, UQCC2, SLC25A26, SLC25A32, NNT, EARS2, HK2, MCCC2, GATB, TSFM, PC, HDHD5, TIMM17A, COX6A1, MTHFD1L, TMEM70, AARS2, ALDH1L2, PDP1
+protein binding	37	KDELR1, CIAO2A, PCK2, LETM1, CASP3, MCCC1, HK1, MFN1, NLRX1, APOOL, ETFA, MFN2, IDH3G, CLPX, EIF4EBP2, TBRG4, CTU2, ETFB, GFM2, UQCC2, VPS35L, NR3C1, DHRS7, HK2, MCCC2, GATB, TIMM29, TSFM, PC, PRAF2, COX6A1, TMEM70, VPS26C, AARS2, ALDH1L2, MPDU1, PDP1
+mitochondrial matrix	20	PCK2, MCCC1, TRNT1, ETFA, PRORP, IDH3G, CLPX, TBRG4, IDH3B, ETFB, GFM2, UQCC2, EARS2, NR3C1, MCCC2, TSFM, PC, MTHFD1L, ALDH1L2, PDP1
+cytosol	17	CIAO2A, PCK2, CASP3, MCCC1, TRNT1, HK1, HKDC1, NLRX1, MFN2, CLPX, CTU2, DHFR, NR3C1, HK2, MCCC2, PC, MTHFD1L
+ATP binding	16	MCCC1, TRNT1, ACSL4, HK1, HKDC1, NLRX1, IDH3G, CLPX, ABCF2, EARS2, HK2, MCCC2, GATB, PC, MTHFD1L, AARS2
+membrane	12	ACSL4, MFN1, LRRC57, SLC25A24, ABCF2, NNT, NR3C1, DHRS7, HK2, PRAF2, MTHFD1L, MPDU1
+mitochondrial inner membrane	11	LETM1, SLC25A24, CLPX, UQCC2, SLC25A26, SLC25A32, NNT, TIMM29, TIMM17A, COX6A1, TMEM70
+nucleoplasm	10	CIAO2A, CASP3, TRNT1, PRORP, CLPX, NR3C1, TSFM, TIMM17A, TMEM70, ALDH1L2
+cytoplasm	6	CASP3, ACSL4, HKDC1, EIF4EBP2, NR3C1, PC
+mitochondrial outer membrane	6	ACSL4, HK1, MFN1, NLRX1, MFN2, HK2
+endoplasmic reticulum membrane	5	KDELR1, ARMC10, ACSL4, DHRS7, MPDU1
+metal ion binding	5	CIAO2A, MCCC1, PRORP, PC, PDP1
+nucleus	5	CASP3, TRNT1, IDH3B, NR3C1, VPS26C
+GTP binding	4	PCK2, MFN1, MFN2, GFM2
+tRNA binding	4	TRNT1, CTU2, EARS2, AARS2
+plasma membrane	4	ACSL4, NLRX1, VPS35L, HK2
+zinc ion binding	4	CLPX, EARS2, NR3C1, AARS2
+protein transport	3	KDELR1, VPS35L, PRAF2
+endoplasmic reticulum	3	KDELR1, ARMC10, ACSL4
+ insulin secretion	3	PCK2, ACSL4, UQCC2
+apoptotic process	3	CASP3, MFN2, NR3C1
+extracellular exosome	3	ACSL4, LRRC57, ALDH1L2
+glucokinase activity	3	HK1, HKDC1, HK2
+glucose binding	3	HK1, HKDC1, HK2
+fructokinase activity	3	HK1, HKDC1, HK2
+intracellular glucose homeostasis	3	HK1, HKDC1, HK2
+glucose metabolic process	3	HK1, HKDC1, HK2
+glycolytic process	3	HK1, HKDC1, HK2
+carbohydrate phosphorylation	3	HK1, HKDC1, HK2
+glucose 6-phosphate metabolic process	3	HK1, HKDC1, HK2
+GTPase activity	3	MFN1, MFN2, GFM2
+identical protein binding	3	MFN1, NR3C1, PC
+electron transfer activity	3	ETFA, IDH3B, ETFB
+mitochondrial nucleoid	3	PRORP, CLPX, UQCC2
+NAD binding	3	IDH3G, IDH3B, NNT
+tricarboxylic acid cycle	3	IDH3G, IDH3B, NNT
+RNA binding	3	TBRG4, NR3C1, TSFM
+folic acid metabolic process	3	DHFR, SLC25A32, ALDH1L2
+signal transduction	3	NR3C1, GMFB, GMFG
+chromosome segregation	2	CIAO2A, NR3C1
+gluconeogenesis	2	PCK2, PC
+response to lipopolysaccharide	2	PCK2, CASP3
+cellular response to dexamethasone stimulus	2	PCK2, NR3C1
+calcium ion binding	2	LETM1, SLC25A24
+inner mitochondrial membrane organization	2	LETM1, APOOL
+cristae formation	2	LETM1, APOOL
+protein homooligomerization	2	LETM1, TMEM70
+proton transmembrane transport	2	LETM1, NNT
+response to hypoxia	2	CASP3, HK2
+proteolysis	2	CASP3, CLPX
+neuron differentiation	2	CASP3, ACSL4
+ neuron apoptotic process	2	CASP3, NR3C1
+membrane raft	2	CASP3, HK1
+methylcrotonoyl-CoA carboxylase activity	2	MCCC1, MCCC2
+biotin binding	2	MCCC1, PC
+leucine catabolic process	2	MCCC1, MCCC2
+branched-chain amino acid catabolic process	2	MCCC1, MCCC2
+3-methylcrotonyl-CoA carboxylase complex, mitochondrial	2	MCCC1, MCCC2
+methylcrotonoyl-CoA carboxylase complex	2	MCCC1, MCCC2
+protein homodimerization activity	2	TRNT1, MTHFD1L
+lipid metabolic process	2	ACSL4, PC
+hexokinase activity	2	HK1, HK2
+fructose 6-phosphate metabolic process	2	HK1, HK2
+innate immune response	2	HK1, NLRX1
+canonical glycolysis	2	HK1, HK2
+establishment of protein localization to mitochondrion	2	HK1, HK2
+maintenance of protein location in mitochondrion	2	HK1, HK2
+mitochondrial fusion	2	MFN1, MFN2
+mitochondrion localization	2	MFN1, MFN2
+mitochondrial membrane	2	HKDC1, TMEM70
+extracellular region	2	APOOL, GMFG
+oxidoreductase activity	2	ETFA, COX6A1
+amino acid catabolic process	2	ETFA, ETFB
+respiratory electron transport chain	2	ETFA, ETFB
+fatty acid beta-oxidation using acyl-CoA dehydrogenase	2	ETFA, ETFB
+electron transfer flavoprotein complex	2	ETFA, ETFB
+protein targeting to mitochondrion	2	MFN2, TIMM17A
+magnesium ion binding	2	IDH3G, IDH3B
+isocitrate dehydrogenase (NAD+) activity	2	IDH3G, IDH3B
+isocitrate metabolic process	2	IDH3G, IDH3B
+mitochondrial isocitrate dehydrogenase complex (NAD+)	2	IDH3G, IDH3B
+mitochondrial transport	2	SLC25A24, SLC25A32
+ATP hydrolysis activity	2	CLPX, ABCF2
+protein folding	2	CLPX, MPDU1
+NADH metabolic process	2	IDH3B, PC
+protein-containing complex	2	CTU2, NR3C1
+translation elongation factor activity	2	GFM2, TSFM
+mitochondrial translation	2	GFM2, GATB
+mitochondrial translational elongation	2	GFM2, TSFM
+NADP binding	2	DHFR, NNT
+one-carbon metabolic process	2	DHFR, ALDH1L2
+ mitochondrial translation	2	UQCC2, TSFM
+mitochondrial intermembrane space	2	UQCC2, TIMM29
+endocytic recycling	2	VPS35L, VPS26C
+endosome	2	VPS35L, VPS26C
+NADPH regeneration	2	NNT, ALDH1L2
+intracellular protein transport	2	TIMM17A, VPS26C
+actin binding	2	GMFB, GMFG
+protein kinase inhibitor activity	2	GMFB, GMFG
+enzyme activator activity	2	GMFB, GMFG
+growth factor activity	2	GMFB, GMFG
+Arp2/3 complex binding	2	GMFB, GMFG
+protein phosphorylation	2	GMFB, GMFG
+negative regulation of Arp2/3 complex-mediated actin nucleation	2	GMFB, GMFG
+actin filament debranching	2	GMFB, GMFG
+KDEL sequence binding	1	KDELR1
+ER retention sequence binding	1	KDELR1
+protein retention in ER lumen	1	KDELR1
+endoplasmic reticulum to Golgi vesicle-mediated transport	1	KDELR1
+retrograde vesicle-mediated transport, Golgi to endoplasmic reticulum	1	KDELR1
+T cell differentiation	1	KDELR1
+T cell apoptotic process	1	KDELR1
+Golgi membrane	1	KDELR1
+endoplasmic reticulum-Golgi intermediate compartment	1	KDELR1
+cis-Golgi network	1	KDELR1
+transport vesicle	1	KDELR1
+COPI-coated vesicle membrane	1	KDELR1
+endoplasmic reticulum-Golgi intermediate compartment membrane	1	KDELR1
+iron-sulfur cluster assembly	1	CIAO2A
+protein maturation by iron-sulfur cluster transfer	1	CIAO2A
+protein maturation by [4Fe-4S] cluster transfer	1	CIAO2A
+CIA complex	1	CIAO2A
+negative regulation of intrinsic apoptotic signaling pathway by p53 class mediator	1	ARMC10
+phosphoenolpyruvate carboxykinase activity	1	PCK2
+phosphoenolpyruvate carboxykinase (GTP) activity	1	PCK2
+manganese ion binding	1	PCK2
+oxaloacetate metabolic process	1	PCK2
+NADH oxidation	1	PCK2
+propionate catabolic process	1	PCK2
+cellular response to insulin stimulus	1	PCK2
+response to starvation	1	PCK2
+glycerol biosynthetic process from pyruvate	1	PCK2
+hepatocyte differentiation	1	PCK2
+cellular response to glucose stimulus	1	PCK2
+cellular response to tumor necrosis factor	1	PCK2
+calcium:proton antiporter activity	1	LETM1
+ribosome binding	1	LETM1
+mitochondrial calcium ion transmembrane transport	1	LETM1
+intracellular monoatomic cation homeostasis	1	LETM1
+protein hexamerization	1	LETM1
+mitochondrial calcium ion homeostasis	1	LETM1
+negative regulation of mitochondrial calcium ion concentration	1	LETM1
+calcium export from the mitochondrion	1	LETM1
+mitochondrial potassium ion transmembrane transport	1	LETM1
+ cellular hyperosmotic salinity response	1	LETM1
+protease binding	1	CASP3
+aspartic-type endopeptidase activity	1	CASP3
+cysteine-type endopeptidase activity	1	CASP3
+enzyme inhibitor activity	1	CASP3
+cyclin-dependent protein serine/threonine kinase inhibitor activity	1	CASP3
+death receptor binding	1	CASP3
+peptidase activity	1	CASP3
+phospholipase A2 activator activity	1	CASP3
+protein-containing complex binding	1	CASP3
+cysteine-type endopeptidase activity involved in apoptotic process	1	CASP3
+cysteine-type endopeptidase activity involved in apoptotic signaling pathway	1	CASP3
+cysteine-type endopeptidase activity involved in execution phase of apoptosis	1	CASP3
+luteolysis	1	CASP3
+B cell homeostasis	1	CASP3
+DNA damage response	1	CASP3
+axonal fasciculation	1	CASP3
+heart development	1	CASP3
+sensory perception of sound	1	CASP3
+learning or memory	1	CASP3
+intrinsic apoptotic signaling pathway in response to osmotic stress	1	CASP3
+response to xenobiotic stimulus	1	CASP3
+response to UV	1	CASP3
+response to glucose	1	CASP3
+response to X-ray	1	CASP3
+ macroautophagy	1	CASP3
+protein processing	1	CASP3
+hippocampus development	1	CASP3
+protein catabolic process	1	CASP3
+keratinocyte differentiation	1	CASP3
+erythrocyte differentiation	1	CASP3
+platelet formation	1	CASP3
+negative regulation of B cell proliferation	1	CASP3
+ protein stability	1	CASP3
+response to cobalt ion	1	CASP3
+response to estradiol	1	CASP3
+glial cell apoptotic process	1	CASP3
+response to tumor necrosis factor	1	CASP3
+response to nicotine	1	CASP3
+wound healing	1	CASP3
+response to hydrogen peroxide	1	CASP3
+T cell homeostasis	1	CASP3
+ apoptotic process	1	CASP3
+response to amino acid	1	CASP3
+fibroblast apoptotic process	1	CASP3
+cell fate commitment	1	CASP3
+negative regulation of cyclin-dependent protein serine/threonine kinase activity	1	CASP3
+negative regulation of activated T cell proliferation	1	CASP3
+response to antibiotic	1	CASP3
+neurotrophin TRK receptor signaling pathway	1	CASP3
+striated muscle cell differentiation	1	CASP3
+response to glucocorticoid	1	CASP3
+neuron apoptotic process	1	CASP3
+protein maturation	1	CASP3
+anterior neural tube closure	1	CASP3
+pyroptosis	1	CASP3
+leukocyte apoptotic process	1	CASP3
+cellular response to staurosporine	1	CASP3
+apoptotic signaling pathway	1	CASP3
+intrinsic apoptotic signaling pathway	1	CASP3
+execution phase of apoptosis	1	CASP3
+ pyroptosis	1	CASP3
+ amyloid-beta formation	1	CASP3
+epithelial cell apoptotic process	1	CASP3
+death-inducing signaling complex	1	CASP3
+neuronal cell body	1	CASP3
+biotin carboxylase activity	1	MCCC1
+biotin metabolic process	1	MCCC1
+CCA tRNA nucleotidyltransferase activity	1	TRNT1
+5'-3' RNA polymerase activity	1	TRNT1
+tRNA 3'-terminal CCA addition	1	TRNT1
+tRNA 3'-end processing	1	TRNT1
+tRNA surveillance	1	TRNT1
+mitochondrial tRNA 3'-end processing	1	TRNT1
+long-chain fatty acid-CoA ligase activity	1	ACSL4
+very long-chain fatty acid-CoA ligase activity	1	ACSL4
+arachidonate-CoA ligase activity	1	ACSL4
+palmitoyl-CoA ligase activity	1	ACSL4
+long-chain fatty acid metabolic process	1	ACSL4
+fatty acid metabolic process	1	ACSL4
+long-chain fatty-acyl-CoA metabolic process	1	ACSL4
+long-chain fatty-acyl-CoA biosynthetic process	1	ACSL4
+embryonic process involved in female pregnancy	1	ACSL4
+peroxisomal membrane	1	ACSL4
+lipid droplet	1	ACSL4
+mitochondria-associated endoplasmic reticulum membrane	1	ACSL4
+mannokinase activity	1	HK1
+peptidoglycan binding	1	HK1
+glucosamine kinase activity	1	HK1
+ cytokine production involved in immune response	1	HK1
+mannose metabolic process	1	HK1
+inflammatory response	1	HK1
+ interleukin-1 beta production	1	HK1
+ mitochondrial membrane potential	1	MFN1
+GTP metabolic process	1	MFN1
+outer mitochondrial membrane protein complex	1	MFN1
+photoreceptor inner segment	1	HKDC1
+negative regulation of macrophage cytokine production	1	NLRX1
+negative regulation of interferon-beta production	1	NLRX1
+negative regulation of interleukin-6 production	1	NLRX1
+negative regulation of RIG-I signaling pathway	1	NLRX1
+negative regulation of I-kappaB kinase/NF-kappaB signaling	1	NLRX1
+negative regulation of innate immune response	1	NLRX1
+negative regulation of inflammatory response	1	NLRX1
+SAM complex	1	APOOL
+platelet alpha granule lumen	1	APOOL
+mitochondrial crista junction	1	APOOL
+MICOS complex	1	APOOL
+MIB complex	1	APOOL
+flavin adenine dinucleotide binding	1	ETFA
+ribonuclease P activity	1	PRORP
+tRNA 5'-leader removal	1	PRORP
+RNA phosphodiester bond hydrolysis, endonucleolytic	1	PRORP
+mitochondrial tRNA 5'-end processing	1	PRORP
+mitochondrial ribonuclease P complex	1	PRORP
+ubiquitin protein ligase binding	1	MFN2
+blastocyst formation	1	MFN2
+response to unfolded protein	1	MFN2
+mitochondrial membrane organization	1	MFN2
+protein localization to phagophore assembly site	1	MFN2
+negative regulation of Ras protein signal transduction	1	MFN2
+camera-type eye morphogenesis	1	MFN2
+negative regulation of smooth muscle cell proliferation	1	MFN2
+parkin-mediated stimulation of mitophagy in response to mitochondrial depolarization	1	MFN2
+ cold-induced thermogenesis	1	MFN2
+ vascular associated smooth muscle cell proliferation	1	MFN2
+ vascular associated smooth muscle cell apoptotic process	1	MFN2
+microtubule cytoskeleton	1	MFN2
+carbohydrate metabolic process	1	IDH3G
+nucleolus	1	IDH3G
+adenine nucleotide transmembrane transporter activity	1	SLC25A24
+ATP transmembrane transporter activity	1	SLC25A24
+ion binding	1	SLC25A24
+ATP:inorganic phosphate antiporter activity	1	SLC25A24
+ADP:inorganic phosphate antiporter activity	1	SLC25A24
+ADP transport	1	SLC25A24
+ATP transport	1	SLC25A24
+cellular response to oxidative stress	1	SLC25A24
+adenine nucleotide transport	1	SLC25A24
+cellular response to calcium ion	1	SLC25A24
+mitochondrial ATP transmembrane transport	1	SLC25A24
+ATP-dependent peptidase activity	1	CLPX
+peptidase activator activity	1	CLPX
+protein dimerization activity	1	CLPX
+unfolded protein binding	1	CLPX
+ATP-dependent protein folding chaperone	1	CLPX
+ATP metabolic process	1	CLPX
+proteolysis involved in protein catabolic process	1	CLPX
+endopeptidase Clp complex	1	CLPX
+mitochondrial endopeptidase Clp complex	1	CLPX
+eukaryotic initiation factor 4E binding	1	EIF4EBP2
+translation repressor activity	1	EIF4EBP2
+translation	1	EIF4EBP2
+memory	1	EIF4EBP2
+insulin receptor signaling pathway	1	EIF4EBP2
+TOR signaling	1	EIF4EBP2
+social behavior	1	EIF4EBP2
+negative regulation of translational initiation	1	EIF4EBP2
+ synaptic plasticity	1	EIF4EBP2
+modulation of chemical synaptic transmission	1	EIF4EBP2
+intracellular non-membrane-bounded organelle	1	EIF4EBP2
+neuronal ribonucleoprotein granule	1	EIF4EBP2
+mitochondrial RNA processing	1	TBRG4
+ cell population proliferation	1	TBRG4
+mRNA metabolic process	1	TBRG4
+ mitochondrial mRNA stability	1	TBRG4
+ cell cycle	1	TBRG4
+mitochondrial mRNA processing	1	TBRG4
+ribonucleoprotein granule	1	TBRG4
+2-oxoglutarate metabolic process	1	IDH3B
+electron transport chain	1	IDH3B
+nucleotidyltransferase activity	1	CTU2
+sulfurtransferase activity	1	CTU2
+tRNA wobble uridine modification	1	CTU2
+tRNA wobble position uridine thiolation	1	CTU2
+protein urmylation	1	CTU2
+tRNA thio-modification	1	CTU2
+ribosome disassembly	1	GFM2
+mitochondrial translational termination	1	GFM2
+mRNA regulatory element binding translation repressor activity	1	DHFR
+mRNA binding	1	DHFR
+dihydrofolate reductase activity	1	DHFR
+folic acid binding	1	DHFR
+NADPH binding	1	DHFR
+sequence-specific mRNA binding	1	DHFR
+glycine biosynthetic process	1	DHFR
+tetrahydrobiopterin biosynthetic process	1	DHFR
+negative regulation of translation	1	DHFR
+axon regeneration	1	DHFR
+response to methotrexate	1	DHFR
+dihydrofolate metabolic process	1	DHFR
+tetrahydrofolate metabolic process	1	DHFR
+tetrahydrofolate biosynthetic process	1	DHFR
+ nitric-oxide synthase activity	1	DHFR
+ removal of superoxide radicals	1	DHFR
+ oxidative phosphorylation	1	UQCC2
+mitochondrial respiratory chain complex III assembly	1	UQCC2
+ skeletal muscle cell differentiation	1	UQCC2
+nuclear body	1	UQCC2
+S-adenosyl-L-methionine transmembrane transporter activity	1	SLC25A26
+S-adenosyl-L-methionine:S-adenosyl-L-homocysteine antiporter activity	1	SLC25A26
+monoatomic ion transport	1	SLC25A26
+S-adenosyl-L-methionine transport	1	SLC25A26
+macromolecule methylation	1	SLC25A26
+mitochondrial S-adenosyl-L-methionine transmembrane transport	1	SLC25A26
+folic acid transmembrane transporter activity	1	SLC25A32
+FAD transmembrane transporter activity	1	SLC25A32
+folic acid transport	1	SLC25A32
+folate import into mitochondrion	1	SLC25A32
+mitochondrial FAD transmembrane transport	1	SLC25A32
+Golgi to plasma membrane transport	1	VPS35L
+ficolin-1-rich granule membrane	1	VPS35L
+NAD(P)+ transhydrogenase (B-specific) activity	1	NNT
+NAD(P)+ transhydrogenase activity	1	NNT
+reactive oxygen species metabolic process	1	NNT
+mitochondrial respirasome	1	NNT
+glutamate-tRNA ligase activity	1	EARS2
+glutamate-tRNA(Gln) ligase activity	1	EARS2
+glutamyl-tRNA aminoacylation	1	EARS2
+tRNA aminoacylation for mitochondrial protein translation	1	EARS2
+RNA polymerase II transcription regulatory region sequence-specific DNA binding	1	NR3C1
+RNA polymerase II cis-regulatory region sequence-specific DNA binding	1	NR3C1
+DNA-binding transcription factor activity, RNA polymerase II-specific	1	NR3C1
+core promoter sequence-specific DNA binding	1	NR3C1
+DNA-binding transcription repressor activity, RNA polymerase II-specific	1	NR3C1
+DNA-binding transcription activator activity, RNA polymerase II-specific	1	NR3C1
+DNA-binding transcription factor activity	1	NR3C1
+nuclear receptor activity	1	NR3C1
+nuclear glucocorticoid receptor activity	1	NR3C1
+steroid binding	1	NR3C1
+protein kinase binding	1	NR3C1
+estrogen response element binding	1	NR3C1
+Hsp90 protein binding	1	NR3C1
+molecular function activator activity	1	NR3C1
+steroid hormone binding	1	NR3C1
+sequence-specific double-stranded DNA binding	1	NR3C1
+negative regulation of transcription by RNA polymerase II	1	NR3C1
+ gluconeogenesis	1	NR3C1
+chromatin organization	1	NR3C1
+ DNA-templated transcription	1	NR3C1
+ transcription by RNA polymerase II	1	NR3C1
+glucocorticoid metabolic process	1	NR3C1
+gene expression	1	NR3C1
+microglia differentiation	1	NR3C1
+adrenal gland development	1	NR3C1
+ glucocorticoid biosynthetic process	1	NR3C1
+synaptic transmission, glutamatergic	1	NR3C1
+maternal behavior	1	NR3C1
+glucocorticoid receptor signaling pathway	1	NR3C1
+glucocorticoid mediated signaling pathway	1	NR3C1
+negative regulation of DNA-templated transcription	1	NR3C1
+astrocyte differentiation	1	NR3C1
+cell division	1	NR3C1
+mammary gland duct morphogenesis	1	NR3C1
+motor behavior	1	NR3C1
+cellular response to steroid hormone stimulus	1	NR3C1
+cellular response to glucocorticoid stimulus	1	NR3C1
+cellular response to transforming growth factor beta stimulus	1	NR3C1
+neuroinflammatory response	1	NR3C1
+ miRNA transcription	1	NR3C1
+chromatin	1	NR3C1
+microtubule organizing center	1	NR3C1
+spindle	1	NR3C1
+nuclear speck	1	NR3C1
+synapse	1	NR3C1
+carbonyl reductase (NADPH) activity	1	DHRS7
+oxidoreductase activity, acting on the CH-OH group of donors, NAD or NADP as acceptor	1	DHRS7
+NADP-retinol dehydrogenase activity	1	DHRS7
+retinol metabolic process	1	DHRS7
+response to ischemia	1	HK2
+lactation	1	HK2
+apoptotic mitochondrial changes	1	HK2
+negative regulation of mitochondrial membrane permeability	1	HK2
+ angiogenesis	1	HK2
+ glucose import	1	HK2
+ autophagy of mitochondrion in response to mitochondrial depolarization	1	HK2
+cellular response to leukemia inhibitory factor	1	HK2
+negative regulation of reactive oxygen species metabolic process	1	HK2
+centrosome	1	HK2
+sarcoplasmic reticulum	1	HK2
+intracellular membrane-bounded organelle	1	HK2
+coenzyme A metabolic process	1	MCCC2
+glutaminyl-tRNA synthase (glutamine-hydrolyzing) activity	1	GATB
+glutaminyl-tRNAGln biosynthesis via transamidation	1	GATB
+glutamyl-tRNA(Gln) amidotransferase complex	1	GATB
+protein transporter activity	1	TIMM29
+protein insertion into mitochondrial inner membrane	1	TIMM29
+TIM22 mitochondrial import inner membrane insertion complex	1	TIMM29
+translational elongation	1	TSFM
+ DNA-templated transcription elongation	1	TSFM
+pyruvate carboxylase activity	1	PC
+pyruvate metabolic process	1	PC
+NADP metabolic process	1	PC
+negative regulation of gene expression	1	PC
+viral RNA genome packaging	1	PC
+viral release from host cell	1	PC
+positive regulation by host of viral process	1	PC
+glycerophospholipid biosynthetic process	1	HDHD5
+L-glutamate transmembrane transport	1	PRAF2
+endosome membrane	1	PRAF2
+protein transmembrane transporter activity	1	TIMM17A
+protein import into mitochondrial matrix	1	TIMM17A
+TIM23 mitochondrial import inner membrane translocase complex	1	TIMM17A
+enzyme regulator activity	1	COX6A1
+generation of precursor metabolites and energy	1	COX6A1
+mitochondrial electron transport, cytochrome c to oxygen	1	COX6A1
+cellular respiration	1	COX6A1
+mitochondrial respiratory chain complex IV	1	COX6A1
+formate-tetrahydrofolate ligase activity	1	MTHFD1L
+methylenetetrahydrofolate dehydrogenase (NADP+) activity	1	MTHFD1L
+neural tube closure	1	MTHFD1L
+folic acid-containing compound metabolic process	1	MTHFD1L
+10-formyltetrahydrofolate biosynthetic process	1	MTHFD1L
+formate metabolic process	1	MTHFD1L
+tetrahydrofolate interconversion	1	MTHFD1L
+embryonic neurocranium morphogenesis	1	MTHFD1L
+embryonic viscerocranium morphogenesis	1	MTHFD1L
+mitochondrial proton-transporting ATP synthase complex binding	1	TMEM70
+mitochondrial proton-transporting ATP synthase complex assembly	1	TMEM70
+protein complex oligomerization	1	TMEM70
+mitochondrial crista	1	TMEM70
+molecular_function	1	VPS26C
+aminoacyl-tRNA editing activity	1	AARS2
+alanine-tRNA ligase activity	1	AARS2
+amino acid binding	1	AARS2
+tRNA modification	1	AARS2
+alanyl-tRNA aminoacylation	1	AARS2
+mitochondrial alanyl-tRNA aminoacylation	1	AARS2
+aminoacyl-tRNA metabolism involved in translational fidelity	1	AARS2
+aldehyde dehydrogenase (NAD+) activity	1	ALDH1L2
+formyltetrahydrofolate dehydrogenase activity	1	ALDH1L2
+hydroxymethyl-, formyl- and related transferase activity	1	ALDH1L2
+fatty acid beta-oxidation	1	ALDH1L2
+biosynthetic process	1	ALDH1L2
+10-formyltetrahydrofolate catabolic process	1	ALDH1L2
+dolichol-linked oligosaccharide biosynthetic process	1	MPDU1
+oligosaccharide biosynthetic process	1	MPDU1
+nervous system development	1	GMFB
+secretory granule lumen	1	GMFG
+ficolin-1-rich granule lumen	1	GMFG
+protein serine/threonine phosphatase activity	1	PDP1
+[pyruvate dehydrogenase (lipoamide)] phosphatase activity	1	PDP1
+[pyruvate dehydrogenase (lipoamide)] phosphatase regulator activity	1	PDP1
+protein dephosphorylation	1	PDP1
+peptidyl-threonine dephosphorylation	1	PDP1
+ pyruvate dehydrogenase activity	1	PDP1
+pyruvate dehydrogenase (lipoamide) phosphatase complex	1	PDP1
