@@ -1,0 +1,61 @@
+Write a critical and concise analysis of this system, describing your reasoning as you go and providing references to scientific papers. Format the page with Title, Summary, and References sections.
+What cellular components and complexes are involved in this system?
+What mechanisms and biological processes are performed by this system?
+Propose a name for the system to reflect the function and location, and should be specific but brief. Do not compose an acronym. Place it as the title of your report
+Provide complete paper references with pubmed link
+Proteins: FH, RAB14, CPOX, GALE, UCHL3, SPRYD4, DCPS, GCA, ACOT2, NLN, DDX28, BID, LMO4, ECHS1, AKR7A2, HIBCH, MPST, ICAM3, ECI2, TAGLN, ACO2, PPA2, GCLM, GPD2, HADH, AKR7A3, CPNE3, PPIF, GAA, PPCS, ARG2, IARS2, RAB7A, OXCT1, RBP1.
+
+A critical goal of the analysis is to determine if this is a novel complex or if any proteins are novel members of a known complex
+System features from GO terms: 
+protein binding: 22 proteins: ACOT2, AKR7A2, AKR7A3, ARG2, BID, CPNE3, DCPS, ECHS1, ECI2, FH, GCLM, ICAM3, MPST, PPIF, RAB14, RAB7A, SPRYD4, TAGLN, UCHL3, LMO4, RBP1, GCA
+mitochondrion: 21 proteins: ACO2, ACOT2, AKR7A2, ARG2, BID, CPNE3, CPOX, DCPS, DDX28, ECHS1, ECI2, FH, GPD2, HADH, HIBCH, IARS2, MPST, OXCT1, PPA2, PPIF, RAB7A
+cytosol: 21 proteins: ACO2, ACOT2, AKR7A2, AKR7A3, BID, CPNE3, CPOX, DCPS, DDX28, ECI2, FH, GALE, GCLM, MPST, NLN, PPCS, RAB14, RAB7A, UCHL3, RBP1, GCA
+cytoplasm: 13 proteins: AKR7A2, AKR7A3, ARG2, CPNE3, CPOX, DCPS, FH, HADH, PPCS, PPIF, TAGLN, UCHL3, GCA
+mitochondrial matrix: 12 proteins: ACO2, ACOT2, ARG2, ECHS1, FH, HADH, HIBCH, IARS2, MPST, OXCT1, PPA2, PPIF
+extracellular exosome: 10 proteins: AKR7A2, AKR7A3, CPNE3, FH, GAA, ICAM3, MPST, RAB14, RAB7A, GCA
+identical protein binding: 7 proteins: AKR7A3, DCPS, GALE, HADH, MPST, OXCT1, PPCS
+plasma membrane: 7 proteins: CPNE3, GAA, ICAM3, NLN, RAB14, RAB7A, GCA
+nucleus: 6 proteins: CPNE3, DCPS, FH, PPCS, SPRYD4, RBP1
+nucleoplasm: 6 proteins: CPNE3, DCPS, DDX28, HADH, UCHL3, RBP1
+membrane: 4 proteins: BID, ECI2, GAA, PPIF
+protein homodimerization activity: 4 proteins: CPOX, GALE, PPCS, GCA
+Golgi apparatus: 3 proteins: AKR7A2, AKR7A3, RAB7A
+apoptotic mitochondrial changes: 3 proteins: BID, GCLM, PPIF
+metal ion binding: 3 proteins: CPNE3, NLN, LMO4
+ATP binding: 3 proteins: DDX28, IARS2, PPCS
+fatty acid beta-oxidation: 3 proteins: ECHS1, ECI2, HADH
+intracellular membrane-bounded organelle: 3 proteins: ECI2, GAA, RAB14
+lysosome: 3 proteins: GAA, RAB14, RAB7A
+lysosomal membrane: 3 proteins: GAA, RAB14, RAB7A
+response to xenobiotic stimulus: 3 proteins: GCLM, HADH, OXCT1
+response to activity: 3 proteins: GCLM, HADH, OXCT1
+liver development: 2 proteins: ACO2, MPST
+tricarboxylic acid cycle: 2 proteins: ACO2, FH
+peroxisomal matrix: 2 proteins: ACOT2, ECI2
+aldo-keto reductase (NADP) activity: 2 proteins: AKR7A2, AKR7A3
+electron transfer activity: 2 proteins: AKR7A2, AKR7A3
+cellular aldehyde metabolic process: 2 proteins: AKR7A2, AKR7A3
+electron transport chain: 2 proteins: AKR7A2, AKR7A3
+positive regulation of release of cytochrome c from mitochondria: 2 proteins: BID, PPIF
+RNA binding: 2 proteins: CPNE3, DDX28
+cellular response to calcium ion: 2 proteins: CPNE3, PPIF
+nucleolus: 2 proteins: CPNE3, DDX28
+azurophil granule membrane: 2 proteins: CPNE3, GAA
+mitochondrial inner membrane: 2 proteins: CPOX, GPD2
+mitochondrial intermembrane space: 2 proteins: CPOX, NLN
+delta(3)-delta(2)-enoyl-CoA isomerase activity: 2 proteins: ECHS1, ECI2
+branched-chain amino acid catabolic process: 2 proteins: ECHS1, HIBCH
+positive regulation of cold-induced thermogenesis: 2 proteins: FH, HADH
+tertiary granule membrane: 2 proteins: GAA, RAB14
+response to nutrient: 2 proteins: GCLM, OXCT1
+calcium ion binding: 2 proteins: GPD2, GCA
+synapse: 2 proteins: MPST, PPA2
+extracellular region: 2 proteins: NLN, GCA
+GTPase activity: 2 proteins: RAB14, RAB7A
+GTP binding: 2 proteins: RAB14, RAB7A
+GDP binding: 2 proteins: RAB14, RAB7A
+intracellular transport: 2 proteins: RAB14, RAB7A
+phagosome maturation: 2 proteins: RAB14, RAB7A
+late endosome: 2 proteins: RAB14, RAB7A
+phagocytic vesicle: 2 proteins: RAB14, RAB7A
+lipid droplet: 2 proteins: RAB7A, RBP1

@@ -1,0 +1,32 @@
+Your response should be formatted as Markdown paragraphs
+Write a critical and concise analysis of this human protein system, describing your reasoning as you go and providing references to scientific papers.
+
+A critical goal of the analysis is to determine if this is a novel complex or if any proteins are novel members of a known complex
+
+Format with Title, Summary, and References sections.        
+Avoid overly general statements of how the proteins are involved in various cellular processes        
+Avoid repeating the goals of the analysis.
+
+What cellular components and complexes are involved in this system?
+What mechanisms and biological processes are performed by this system?
+Propose a name for the system to reflect the cellular location and function, and should be specific but brief. Do not compose an acronym. Place it as the title of your report
+Human Proteins: THOC2, ELAVL2, WDR33, MSI1, THOC5, MTMR7, MDP1, THOC7.
+
+System features from GO terms: 
+protein binding: 6 proteins: THOC2, ELAVL2, MSI1, THOC5, MTMR7, THOC7
+nucleoplasm: 4 proteins: THOC2, WDR33, THOC5, THOC7
+RNA binding: 4 proteins: ELAVL2, WDR33, MSI1, THOC7
+nucleus: 4 proteins: WDR33, MSI1, THOC5, THOC7
+cytoplasm: 4 proteins: MSI1, THOC5, MTMR7, THOC7
+mRNA binding: 3 proteins: THOC2, MSI1, THOC5
+mRNA processing: 3 proteins: THOC2, THOC5, THOC7
+mRNA export from nucleus: 3 proteins: THOC2, THOC5, THOC7
+RNA splicing: 3 proteins: THOC2, THOC5, THOC7
+viral mRNA export from host cell nucleus: 3 proteins: THOC2, THOC5, THOC7
+transcription export complex: 3 proteins: THOC2, THOC5, THOC7
+THO complex: 3 proteins: THOC2, THOC5, THOC7
+THO complex part of transcription export complex: 3 proteins: THOC2, THOC5, THOC7
+chromosome, telomeric region: 3 proteins: THOC2, THOC5, THOC7
+nuclear speck: 2 proteins: THOC2, THOC7
+protein tyrosine phosphatase activity: 2 proteins: MTMR7, MDP1
+cytosol: 2 proteins: MTMR7, THOC7

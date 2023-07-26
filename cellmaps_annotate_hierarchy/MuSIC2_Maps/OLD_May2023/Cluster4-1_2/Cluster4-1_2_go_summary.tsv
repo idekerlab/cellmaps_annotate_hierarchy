@@ -1,0 +1,207 @@
+Feature	Number of Genes	Genes
+protein binding	11	DHX36, MRM1, MTPAP, POLRMT, TFAM, ZKSCAN1, NRDE2, PDCD2L, DHRS2, LRPPRC, MTERF4
+mitochondrion	10	GPX1, DHX36, MRM1, MTPAP, POLRMT, TFAM, DHRS2, PITRM1, LRPPRC, MTERF4
+nucleus	7	GPX1, DHX36, TFAM, ZKSCAN1, NRDE2, DHRS2, LRPPRC
+mitochondrial matrix	7	GPX1, MRM1, POLRMT, TFAM, DHRS2, PITRM1, MTERF4
+RNA binding	7	DHX36, MRM1, MTPAP, POLRMT, TFAM, ZCCHC24, LRPPRC
+nucleoplasm	5	DHX36, MTPAP, NRDE2, DHRS2, LRPPRC
+cytoplasm	4	GPX1, DHX36, PDCD2L, DHRS2
+cytosol	4	GPX1, DHX36, TFAM, MTERF4
+mitochondrial transcription	3	POLRMT, TFAM, MTERF4
+mitochondrial nucleoid	3	POLRMT, TFAM, LRPPRC
+cellular response to oxidative stress	2	GPX1, DHRS2
+magnesium ion binding	2	DHX36, MTPAP
+transcription cis-regulatory region binding	2	DHX36, TFAM
+RNA polymerase II cis-regulatory region sequence-specific DNA binding	2	DHX36, ZKSCAN1
+single-stranded DNA binding	2	DHX36, LRPPRC
+mRNA 3'-UTR binding	2	DHX36, LRPPRC
+ATP binding	2	DHX36, MTPAP
+nuclear speck	2	DHX36, NRDE2
+mitochondrial promoter sequence-specific DNA binding	2	POLRMT, TFAM
+sequence-specific DNA binding	2	POLRMT, TFAM
+transcription initiation at mitochondrial promoter	2	POLRMT, TFAM
+protein-containing complex	2	POLRMT, TFAM
+zinc ion binding	2	ZCCHC24, PITRM1
+membrane	2	PDCD2L, LRPPRC
+protein targeting to mitochondrion	2	PITRM1, MTERF4
+glutathione peroxidase activity	1	GPX1
+SH3 domain binding	1	GPX1
+phospholipid-hydroperoxide glutathione peroxidase activity	1	GPX1
+temperature homeostasis	1	GPX1
+endothelial cell development	1	GPX1
+negative regulation of inflammatory response to antigenic stimulus	1	GPX1
+triglyceride metabolic process	1	GPX1
+glutathione metabolic process	1	GPX1
+sensory perception of sound	1	GPX1
+intrinsic apoptotic signaling pathway in response to oxidative stress	1	GPX1
+response to xenobiotic stimulus	1	GPX1
+response to symbiotic bacterium	1	GPX1
+UV protection	1	GPX1
+response to hormone	1	GPX1
+response to selenium ion	1	GPX1
+response to gamma radiation	1	GPX1
+protein oxidation	1	GPX1
+arachidonic acid metabolic process	1	GPX1
+lipoxygenase pathway	1	GPX1
+response to estradiol	1	GPX1
+response to hydroperoxide	1	GPX1
+response to vitamin E	1	GPX1
+regulation of mammary gland epithelial cell proliferation	1	GPX1
+response to nicotine	1	GPX1
+epigenetic regulation of gene expression	1	GPX1
+vasodilation	1	GPX1
+response to hydrogen peroxide	1	GPX1
+hydrogen peroxide catabolic process	1	GPX1
+negative regulation of cysteine-type endopeptidase activity involved in apoptotic process	1	GPX1
+skeletal muscle tissue regeneration	1	GPX1
+blood vessel endothelial cell migration	1	GPX1
+fat cell differentiation	1	GPX1
+myoblast differentiation	1	GPX1
+cell redox homeostasis	1	GPX1
+fibroblast proliferation	1	GPX1
+skeletal muscle fiber development	1	GPX1
+neuron apoptotic process	1	GPX1
+myoblast proliferation	1	GPX1
+response to folic acid	1	GPX1
+biological process involved in interaction with symbiont	1	GPX1
+positive regulation of protein kinase B signaling	1	GPX1
+heart contraction	1	GPX1
+angiogenesis involved in wound healing	1	GPX1
+regulation of proteasomal protein catabolic process	1	GPX1
+cellular response to glucose stimulus	1	GPX1
+negative regulation of release of cytochrome c from mitochondria	1	GPX1
+cellular oxidant detoxification	1	GPX1
+negative regulation of extrinsic apoptotic signaling pathway via death domain receptors	1	GPX1
+negative regulation of oxidative stress-induced intrinsic apoptotic signaling pathway	1	GPX1
+positive regulation of supramolecular fiber organization	1	GPX1
+Lewy body	1	GPX1
+G-quadruplex RNA binding	1	DHX36
+DNA helicase activity	1	DHX36
+RNA helicase activity	1	DHX36
+double-stranded RNA binding	1	DHX36
+ATP-dependent activity, acting on DNA	1	DHX36
+ATP hydrolysis activity	1	DHX36
+mRNA 3'-UTR AU-rich region binding	1	DHX36
+histone deacetylase binding	1	DHX36
+mRNA 5'-UTR binding	1	DHX36
+G-quadruplex DNA binding	1	DHX36
+telomerase RNA binding	1	DHX36
+pre-miRNA binding	1	DHX36
+ossification	1	DHX36
+positive regulation of myeloid dendritic cell cytokine production	1	DHX36
+regulation of transcription by RNA polymerase III	1	DHX36
+spermatogenesis	1	DHX36
+RNA secondary structure unwinding	1	DHX36
+positive regulation of gene expression	1	DHX36
+negative regulation of translation	1	DHX36
+cell differentiation	1	DHX36
+positive regulation of mRNA 3'-end processing	1	DHX36
+positive regulation of telomere maintenance	1	DHX36
+DNA duplex unwinding	1	DHX36
+positive regulation of interferon-alpha production	1	DHX36
+cellular response to heat	1	DHX36
+cellular response to UV	1	DHX36
+positive regulation of I-kappaB kinase/NF-kappaB signaling	1	DHX36
+response to exogenous dsRNA	1	DHX36
+regulation of mRNA stability	1	DHX36
+G-quadruplex DNA unwinding	1	DHX36
+innate immune response	1	DHX36
+positive regulation of transcription by RNA polymerase II	1	DHX36
+regulation of embryonic development	1	DHX36
+defense response to virus	1	DHX36
+positive regulation of cardioblast differentiation	1	DHX36
+positive regulation of transcription initiation by RNA polymerase II	1	DHX36
+positive regulation of dendritic spine morphogenesis	1	DHX36
+3'-UTR-mediated mRNA destabilization	1	DHX36
+telomerase RNA stabilization	1	DHX36
+positive regulation of nuclear-transcribed mRNA catabolic process, deadenylation-dependent decay	1	DHX36
+positive regulation of hematopoietic progenitor cell differentiation	1	DHX36
+cellular response to arsenite ion	1	DHX36
+positive regulation of telomere maintenance via telomere lengthening	1	DHX36
+positive regulation of intracellular mRNA localization	1	DHX36
+positive regulation of cytoplasmic translation	1	DHX36
+chromosome, telomeric region	1	DHX36
+intracellular anatomical structure	1	DHX36
+cytoplasmic stress granule	1	DHX36
+axon	1	DHX36
+dendrite	1	DHX36
+perikaryon	1	DHX36
+extracellular exosome	1	DHX36
+rRNA (guanine) methyltransferase activity	1	MRM1
+rRNA (guanosine-2'-O-)-methyltransferase activity	1	MRM1
+rRNA modification	1	MRM1
+rRNA 2'-O-methylation	1	MRM1
+UTP binding	1	MTPAP
+manganese ion binding	1	MTPAP
+identical protein binding	1	MTPAP
+protein homodimerization activity	1	MTPAP
+poly(A) RNA polymerase activity	1	MTPAP
+mRNA polyadenylation	1	MTPAP
+histone mRNA catabolic process	1	MTPAP
+intracellular membrane-bounded organelle	1	MTPAP
+3'-5'-RNA exonuclease activity	1	POLRMT
+DNA primase activity	1	POLRMT
+DNA-directed 5'-3' RNA polymerase activity	1	POLRMT
+DNA replication, synthesis of RNA primer	1	POLRMT
+RNA phosphodiester bond hydrolysis, exonucleolytic	1	POLRMT
+mitochondrial DNA-directed RNA polymerase complex	1	POLRMT
+transcription coactivator binding	1	TFAM
+chromatin binding	1	TFAM
+heat shock protein binding	1	TFAM
+mitochondrial transcription factor activity	1	TFAM
+mitochondrial respiratory chain complex assembly	1	TFAM
+positive regulation of DNA-templated transcription	1	TFAM
+DNA-binding transcription factor activity, RNA polymerase II-specific	1	ZKSCAN1
+metal ion binding	1	ZKSCAN1
+regulation of transcription by RNA polymerase II	1	ZKSCAN1
+molecular_function	1	NRDE2
+mitotic cell cycle	1	NRDE2
+mRNA processing	1	NRDE2
+DNA damage response	1	NRDE2
+RNA splicing	1	NRDE2
+small ncRNA-mediated heterochromatin formation	1	NRDE2
+positive regulation of RNA export from nucleus	1	NRDE2
+mRNA stabilization	1	NRDE2
+cell division	1	NRDE2
+negative regulation of RNA catabolic process	1	NRDE2
+nucleolus	1	NRDE2
+apoptotic process	1	PDCD2L
+cell cycle	1	PDCD2L
+carbonyl reductase (NADPH) activity	1	DHRS2
+oxidoreductase activity, acting on the CH-OH group of donors, NAD or NADP as acceptor	1	DHRS2
+C21-steroid hormone metabolic process	1	DHRS2
+negative regulation of cell population proliferation	1	DHRS2
+response to toxic substance	1	DHRS2
+electron transport chain	1	DHRS2
+myeloid dendritic cell differentiation	1	DHRS2
+negative regulation of apoptotic process	1	DHRS2
+nuclear envelope	1	DHRS2
+metalloendopeptidase activity	1	PITRM1
+enzyme activator activity	1	PITRM1
+metallopeptidase activity	1	PITRM1
+proteolysis	1	PITRM1
+protein processing	1	PITRM1
+microtubule binding	1	LRPPRC
+ubiquitin protein ligase binding	1	LRPPRC
+beta-tubulin binding	1	LRPPRC
+actin filament binding	1	LRPPRC
+mitochondrial RNA catabolic process	1	LRPPRC
+negative regulation of mitochondrial RNA catabolic process	1	LRPPRC
+mitochondrion transport along microtubule	1	LRPPRC
+mRNA transport	1	LRPPRC
+regulation of mitochondrial translation	1	LRPPRC
+condensed nuclear chromosome	1	LRPPRC
+nuclear inner membrane	1	LRPPRC
+nuclear outer membrane	1	LRPPRC
+cytoskeleton	1	LRPPRC
+microtubule	1	LRPPRC
+perinuclear region of cytoplasm	1	LRPPRC
+ribonucleoprotein complex	1	LRPPRC
+double-stranded DNA binding	1	MTERF4
+rRNA binding	1	MTERF4
+regulation of DNA-templated transcription	1	MTERF4
+rRNA processing	1	MTERF4
+heart development	1	MTERF4
+camera-type eye development	1	MTERF4
+mitochondrial ribosome assembly	1	MTERF4
+mitochondrial large ribosomal subunit	1	MTERF4

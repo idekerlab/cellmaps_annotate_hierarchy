@@ -1,0 +1,33 @@
+Your response should be formatted as Markdown paragraphs
+Write a critical and concise analysis of this human protein system, describing your reasoning as you go and providing references to scientific papers.
+
+A critical goal of the analysis is to determine if this is a novel complex or if any proteins are novel members of a known complex
+
+Format with Title, Summary, and References sections.        
+Avoid overly general statements of how the proteins are involved in various cellular processes        
+Avoid repeating the goals of the analysis.
+
+What cellular components and complexes are involved in this system?
+What mechanisms and biological processes are performed by this system?
+Propose a name for the system to reflect the cellular location and function, and should be specific but brief. Do not compose an acronym. Place it as the title of your report
+Human Proteins: ADD1, ADD2, ADD3, CRCP.
+
+System features from GO terms: 
+cytosol: 4 proteins: ADD1, ADD2, ADD3, CRCP
+plasma membrane: 4 proteins: ADD1, ADD2, ADD3, CRCP
+calmodulin binding: 3 proteins: ADD1, ADD2, ADD3
+actin filament binding: 3 proteins: ADD1, ADD2, ADD3
+barbed-end actin filament capping: 3 proteins: ADD1, ADD2, ADD3
+cytoskeleton: 3 proteins: ADD1, ADD2, ADD3
+postsynaptic density: 3 proteins: ADD1, ADD2, ADD3
+actin binding: 2 proteins: ADD1, ADD2
+protein binding: 2 proteins: ADD1, CRCP
+spectrin binding: 2 proteins: ADD1, ADD2
+protein homodimerization activity: 2 proteins: ADD1, ADD2
+protein heterodimerization activity: 2 proteins: ADD1, ADD2
+actin cytoskeleton organization: 2 proteins: ADD1, ADD2
+ protein binding: 2 proteins: ADD1, ADD2
+actin filament bundle assembly: 2 proteins: ADD1, ADD2
+nucleoplasm: 2 proteins: ADD1, CRCP
+F-actin capping protein complex: 2 proteins: ADD1, ADD2
+structural constituent of cytoskeleton: 2 proteins: ADD2, ADD3

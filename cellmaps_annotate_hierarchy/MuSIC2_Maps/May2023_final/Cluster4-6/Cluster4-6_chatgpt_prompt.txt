@@ -1,0 +1,69 @@
+Your response should be formatted as Markdown paragraphs
+Write a critical and concise analysis of this human protein system, describing your reasoning as you go and providing references to scientific papers.
+
+A critical goal of the analysis is to determine if this is a novel complex or if any proteins are novel members of a known complex
+
+Format with Title, Summary, and References sections.        
+Avoid overly general statements of how the proteins are involved in various cellular processes        
+Avoid repeating the goals of the analysis.
+
+What cellular components and complexes are involved in this system?
+What mechanisms and biological processes are performed by this system?
+Propose a name for the system to reflect the cellular location and function, and should be specific but brief. Do not compose an acronym. Place it as the title of your report
+Human Proteins: ZNF672, FUS, ZNF354C, ZNF35, MAN2C1, PRPF39, SLFN11, DUS3L, ADAM32, CABCOCO1, CGRRF1, CHID1, CHPF2, CPD, CRP, ECEL1, FBXO2, GGT7, IGSF3, IL31RA, LOXL2, MAN2B1, NAALAD2, NXPE3, OLFM2, OLFML2A, PLXNA1, POGLUT2, POGLUT3, PVR, RBM12B, SDK2, TENM3, TPBG, TRNAU1AP, TTC13, ZNF627.
+
+System features from GO terms: 
+protein binding: 22 proteins: ZNF672, FUS, ZNF35, PRPF39, SLFN11, DUS3L, ADAM32, CABCOCO1, CGRRF1, CHID1, CRP, FBXO2, GGT7, LOXL2, NAALAD2, NXPE3, OLFM2, PVR, RBM12B, SDK2, TRNAU1AP, ZNF627
+nucleoplasm: 12 proteins: ZNF672, FUS, ZNF354C, MAN2C1, SLFN11, CGRRF1, LOXL2, MAN2B1, OLFM2, PLXNA1, POGLUT2, RBM12B
+metal ion binding: 11 proteins: ZNF672, FUS, ZNF354C, ZNF35, MAN2C1, DUS3L, CGRRF1, ECEL1, MAN2B1, NAALAD2, ZNF627
+plasma membrane: 11 proteins: ADAM32, CPD, ECEL1, GGT7, IL31RA, NAALAD2, PLXNA1, PVR, SDK2, TENM3, TPBG
+membrane: 10 proteins: CHID1, CHPF2, CPD, FBXO2, IGSF3, IL31RA, LOXL2, NAALAD2, PVR, TENM3
+nucleus: 9 proteins: ZNF672, FUS, ZNF35, SLFN11, CHID1, LOXL2, OLFM2, TRNAU1AP, ZNF627
+extracellular space: 8 proteins: CHID1, CPD, CRP, LOXL2, MAN2B1, OLFM2, OLFML2A, PVR
+cytoplasm: 6 proteins: FUS, CABCOCO1, FBXO2, OLFM2, PVR, TRNAU1AP
+cytosol: 5 proteins: MAN2C1, SLFN11, FBXO2, PLXNA1, POGLUT2
+extracellular region: 5 proteins: CHID1, CRP, MAN2B1, NXPE3, OLFM2
+RNA binding: 4 proteins: FUS, DUS3L, RBM12B, TRNAU1AP
+ DNA-templated transcription: 4 proteins: FUS, ZNF354C, ZNF35, IL31RA
+endoplasmic reticulum: 4 proteins: CGRRF1, FBXO2, LOXL2, TPBG
+extracellular exosome: 4 proteins: CHID1, CPD, MAN2B1, PLXNA1
+ transcription by RNA polymerase II: 3 proteins: ZNF672, FUS, ZNF627
+identical protein binding: 3 proteins: FUS, CRP, OLFML2A
+carbohydrate binding: 3 proteins: MAN2C1, FBXO2, MAN2B1
+proteolysis: 3 proteins: ADAM32, FBXO2, NAALAD2
+cell adhesion: 3 proteins: ADAM32, LOXL2, TPBG
+calcium ion binding: 3 proteins: CABCOCO1, CRP, LOXL2
+endomembrane system: 3 proteins: CHID1, POGLUT2, POGLUT3
+protein modification process: 3 proteins: FBXO2, LOXL2, MAN2B1
+cell surface: 3 proteins: IGSF3, PVR, TPBG
+signal transduction: 3 proteins: OLFM2, OLFML2A, TENM3
+homophilic cell adhesion via plasma membrane adhesion molecules: 3 proteins: PVR, SDK2, TENM3
+DNA-binding transcription factor activity, RNA polymerase II-specific: 2 proteins: ZNF672, ZNF627
+sequence-specific DNA binding: 2 proteins: ZNF672, ZNF35
+DNA binding: 2 proteins: FUS, ZNF35
+transcription coactivator activity: 2 proteins: FUS, IL31RA
+ RNA splicing: 2 proteins: FUS, RBM12B
+alpha-mannosidase activity: 2 proteins: MAN2C1, MAN2B1
+mannose metabolic process: 2 proteins: MAN2C1, MAN2B1
+oligosaccharide catabolic process: 2 proteins: MAN2C1, MAN2B1
+tRNA binding: 2 proteins: SLFN11, TRNAU1AP
+metalloendopeptidase activity: 2 proteins: ADAM32, ECEL1
+negative regulation of cell population proliferation: 2 proteins: CGRRF1, TPBG
+intracellular membrane-bounded organelle: 2 proteins: CGRRF1, MAN2B1
+oligosaccharide binding: 2 proteins: CHID1, LOXL2
+innate immune response: 2 proteins: CHID1, CRP
+lysosome: 2 proteins: CHID1, MAN2B1
+lysosomal lumen: 2 proteins: CHID1, MAN2B1
+metallocarboxypeptidase activity: 2 proteins: CPD, NAALAD2
+protein processing: 2 proteins: CPD, ECEL1
+axon: 2 proteins: IL31RA, TENM3
+synapse: 2 proteins: OLFM2, SDK2
+UDP-glucosyltransferase activity: 2 proteins: POGLUT2, POGLUT3
+UDP-xylosyltransferase activity: 2 proteins: POGLUT2, POGLUT3
+glucosyltransferase activity: 2 proteins: POGLUT2, POGLUT3
+EGF-domain serine glucosyltransferase activity: 2 proteins: POGLUT2, POGLUT3
+EGF-domain serine xylosyltransferase activity: 2 proteins: POGLUT2, POGLUT3
+protein O-linked glycosylation via serine: 2 proteins: POGLUT2, POGLUT3
+endoplasmic reticulum lumen: 2 proteins: POGLUT2, POGLUT3
+cell adhesion molecule binding: 2 proteins: PVR, TENM3
+heterophilic cell-cell adhesion via plasma membrane cell adhesion molecules: 2 proteins: PVR, TENM3

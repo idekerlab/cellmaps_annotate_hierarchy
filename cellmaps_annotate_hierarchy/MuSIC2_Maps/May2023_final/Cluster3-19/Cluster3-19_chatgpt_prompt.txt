@@ -1,0 +1,107 @@
+Your response should be formatted as Markdown paragraphs
+Write a critical and concise analysis of this human protein system, describing your reasoning as you go and providing references to scientific papers.
+
+A critical goal of the analysis is to determine if this is a novel complex or if any proteins are novel members of a known complex
+
+Format with Title, Summary, and References sections.        
+Avoid overly general statements of how the proteins are involved in various cellular processes        
+Avoid repeating the goals of the analysis.
+
+What cellular components and complexes are involved in this system?
+What mechanisms and biological processes are performed by this system?
+Propose a name for the system to reflect the cellular location and function, and should be specific but brief. Do not compose an acronym. Place it as the title of your report
+Human Proteins: STAG2, RANGRF, MPLKIP, STN1, RNF220, MTMR7, CLP1, TBP, HIRIP3, NEIL2, CHAMP1, IWS1, CDC7, PDS5B, RAD21, SMC1A, DBR1, CTC1, GTF2H4, EAF1, DBF4, ELL2, TEN1, ANKRD11, HDGFL2, CDCA5, SMC3, STAG1, ERCC2, ERCC3, ERCC5, GTF2H1, GTF2H3, MNAT1.
+
+System features from GO terms: 
+protein binding: 31 proteins: STAG2, MPLKIP, STN1, RNF220, MTMR7, CLP1, TBP, HIRIP3, NEIL2, CHAMP1, IWS1, CDC7, PDS5B, RAD21, SMC1A, CTC1, GTF2H4, EAF1, DBF4, ELL2, TEN1, HDGFL2, CDCA5, SMC3, STAG1, ERCC2, ERCC3, ERCC5, GTF2H1, GTF2H3, MNAT1
+nucleoplasm: 31 proteins: STAG2, RANGRF, MPLKIP, STN1, CLP1, TBP, HIRIP3, NEIL2, CHAMP1, IWS1, CDC7, PDS5B, RAD21, SMC1A, DBR1, CTC1, GTF2H4, EAF1, DBF4, ELL2, TEN1, ANKRD11, CDCA5, SMC3, STAG1, ERCC2, ERCC3, ERCC5, GTF2H1, GTF2H3, MNAT1
+nucleus: 28 proteins: STAG2, RANGRF, MPLKIP, STN1, RNF220, CLP1, TBP, HIRIP3, NEIL2, CHAMP1, IWS1, CDC7, PDS5B, RAD21, SMC1A, DBR1, CTC1, GTF2H4, TEN1, ANKRD11, HDGFL2, CDCA5, SMC3, STAG1, ERCC2, ERCC3, ERCC5, GTF2H3
+cytosol: 13 proteins: STAG2, RANGRF, MTMR7, CLP1, PDS5B, RAD21, SMC1A, CTC1, ANKRD11, CDCA5, SMC3, STAG1, ERCC2
+cytoplasm: 11 proteins: RANGRF, MPLKIP, RNF220, MTMR7, TBP, NEIL2, CHAMP1, CDC7, HDGFL2, CDCA5, ERCC2
+cell division: 9 proteins: STAG2, MPLKIP, CDC7, PDS5B, RAD21, SMC1A, CDCA5, SMC3, STAG1
+DNA repair: 9 proteins: PDS5B, SMC1A, GTF2H4, HDGFL2, SMC3, ERCC3, GTF2H1, GTF2H3, MNAT1
+nucleotide-excision repair: 8 proteins: STN1, GTF2H4, ERCC2, ERCC3, ERCC5, GTF2H1, GTF2H3, MNAT1
+chromatin binding: 7 proteins: STAG2, RAD21, SMC1A, CDCA5, SMC3, STAG1, GTF2H1
+chromosome, centromeric region: 7 proteins: STAG2, PDS5B, RAD21, SMC1A, CDCA5, SMC3, STAG1
+chromatin: 7 proteins: STAG2, TBP, PDS5B, RAD21, CDCA5, SMC3, STAG1
+chromosome: 7 proteins: STAG2, PDS5B, RAD21, SMC1A, CDCA5, SMC3, STAG1
+metal ion binding: 7 proteins: RNF220, CHAMP1, CDC7, DBR1, ERCC2, ERCC5, GTF2H3
+transcription by RNA polymerase II: 7 proteins: TBP, GTF2H4, ERCC2, ERCC3, GTF2H1, GTF2H3, MNAT1
+ATP binding: 6 proteins: CLP1, CDC7, SMC1A, SMC3, ERCC2, ERCC3
+transcription factor TFIIH core complex: 6 proteins: GTF2H4, ERCC2, ERCC3, GTF2H1, GTF2H3, MNAT1
+transcription factor TFIIH holo complex: 6 proteins: GTF2H4, ERCC2, ERCC3, GTF2H1, GTF2H3, MNAT1
+sister chromatid cohesion: 5 proteins: STAG2, RAD21, SMC1A, SMC3, STAG1
+establishment of mitotic sister chromatid cohesion: 5 proteins: STAG2, RAD21, SMC1A, SMC3, STAG1
+cohesin complex: 5 proteins: STAG2, RAD21, SMC1A, SMC3, STAG1
+nuclear matrix: 5 proteins: STAG2, RAD21, SMC1A, SMC3, STAG1
+transcription factor TFIID complex: 5 proteins: TBP, GTF2H4, ERCC2, ERCC3, GTF2H3
+mitotic spindle assembly: 4 proteins: STAG2, SMC1A, SMC3, STAG1
+mitotic spindle pole: 4 proteins: STAG2, SMC1A, SMC3, STAG1
+intracellular membrane-bounded organelle: 4 proteins: MPLKIP, STN1, NEIL2, EAF1
+single-stranded DNA binding: 4 proteins: STN1, CTC1, TEN1, ERCC5
+damaged DNA binding: 4 proteins: NEIL2, ERCC2, ERCC3, ERCC5
+nuclear body: 4 proteins: CHAMP1, EAF1, DBF4, STAG1
+DNA binding: 4 proteins: PDS5B, RAD21, SMC1A, ERCC3
+mitotic sister chromatid cohesion: 4 proteins: PDS5B, SMC1A, CDCA5, SMC3
+ATP hydrolysis activity: 4 proteins: SMC1A, SMC3, ERCC2, ERCC3
+meiotic cell cycle: 3 proteins: STAG2, SMC1A, SMC3
+membrane: 3 proteins: STAG2, MTMR7, RAD21
+telomeric DNA binding: 3 proteins: STN1, CTC1, TEN1
+telomere capping: 3 proteins: STN1, CTC1, TEN1
+negative regulation of telomere maintenance via telomerase: 3 proteins: STN1, CTC1, TEN1
+ DNA replication: 3 proteins: STN1, CTC1, SMC3
+chromosome, telomeric region: 3 proteins: STN1, CTC1, TEN1
+CST complex: 3 proteins: STN1, CTC1, TEN1
+protein-containing complex: 3 proteins: RNF220, TBP, ERCC5
+RNA polymerase II general transcription initiation factor activity: 3 proteins: TBP, GTF2H4, GTF2H3
+zinc ion binding: 3 proteins: NEIL2, DBF4, MNAT1
+G1/S transition of mitotic cell cycle: 3 proteins: CDC7, DBF4, MNAT1
+apoptotic process: 3 proteins: RAD21, ERCC2, ERCC3
+establishment of meiotic sister chromatid cohesion: 3 proteins: RAD21, SMC1A, SMC3
+double-stranded DNA binding: 3 proteins: GTF2H4, SMC3, ERCC5
+transcription elongation by RNA polymerase II: 3 proteins: EAF1, ELL2, ERCC3
+transcription-coupled nucleotide-excision repair: 3 proteins: ERCC2, ERCC3, ERCC5
+fibrillar center: 2 proteins: STAG2, STN1
+nucleolus: 2 proteins: STAG2, HIRIP3
+midbody: 2 proteins: MPLKIP, RAD21
+telomere maintenance: 2 proteins: STN1, CTC1
+double-strand break repair via homologous recombination: 2 proteins: STN1, ERCC5
+DNA replication: 2 proteins: STN1, DBF4
+telomere maintenance via telomere lengthening: 2 proteins: STN1, CTC1
+transcription initiation at RNA polymerase II promoter: 2 proteins: TBP, ERCC3
+mitotic spindle: 2 proteins: NEIL2, CDC7
+kinetochore: 2 proteins: CHAMP1, SMC1A
+spindle: 2 proteins: CHAMP1, ERCC2
+chromatin remodeling: 2 proteins: IWS1, HDGFL2
+ cell population proliferation: 2 proteins: CDC7, PDS5B
+ nuclear cell cycle DNA replication: 2 proteins: CDC7, DBF4
+ G2/M transition of mitotic cell cycle: 2 proteins: CDC7, CTC1
+intercellular bridge: 2 proteins: CDC7, EAF1
+double-strand break repair: 2 proteins: RAD21, CDCA5
+DNA recombination: 2 proteins: RAD21, HDGFL2
+ transcription by RNA polymerase II: 2 proteins: RAD21, MNAT1
+chromosome segregation: 2 proteins: RAD21, ERCC2
+condensed nuclear chromosome: 2 proteins: RAD21, SMC1A
+RNA binding: 2 proteins: SMC1A, DBR1
+mediator complex binding: 2 proteins: SMC1A, SMC3
+protein heterodimerization activity: 2 proteins: SMC1A, SMC3
+meiotic cohesin complex: 2 proteins: SMC1A, SMC3
+multicellular organism growth: 2 proteins: CTC1, ERCC2
+hematopoietic stem cell proliferation: 2 proteins: CTC1, ERCC2
+core TFIIH complex portion of holo TFIIH complex: 2 proteins: GTF2H4, GTF2H3
+nuclear speck: 2 proteins: GTF2H4, EAF1
+ transcription elongation by RNA polymerase II: 2 proteins: EAF1, ELL2
+transcription elongation factor complex: 2 proteins: EAF1, ELL2
+enzyme activator activity: 2 proteins: DBF4, ERCC5
+protein-containing complex binding: 2 proteins: CDCA5, ERCC5
+mitotic cell cycle: 2 proteins: CDCA5, SMC3
+response to oxidative stress: 2 proteins: ERCC2, ERCC3
+UV protection: 2 proteins: ERCC2, ERCC3
+hair cell differentiation: 2 proteins: ERCC2, ERCC3
+ mitotic cell cycle phase transition: 2 proteins: ERCC2, ERCC3
+CAK-ERCC2 complex: 2 proteins: ERCC2, MNAT1
+response to UV: 2 proteins: ERCC3, ERCC5
+transcription preinitiation complex: 2 proteins: ERCC3, GTF2H3
+negative regulation of apoptotic process: 2 proteins: ERCC5, MNAT1
+ cyclin-dependent protein serine/threonine kinase activity: 2 proteins: GTF2H1, MNAT1
+ DNA-templated transcription: 2 proteins: GTF2H1, GTF2H3

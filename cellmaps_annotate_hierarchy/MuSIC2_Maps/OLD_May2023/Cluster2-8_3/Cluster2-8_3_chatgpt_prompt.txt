@@ -1,0 +1,82 @@
+Write a critical and concise analysis of this system, describing your reasoning as you go and providing references to scientific papers. Format the page with Title, Summary, and References sections.
+What cellular components and complexes are involved in this system?
+What mechanisms and biological processes are performed by this system?
+Propose a name for the system to reflect the function and location, and should be specific but brief. Do not compose an acronym. Place it as the title of your report
+Provide complete paper references with pubmed link
+Proteins: TYMP, PYCARD, TALDO1, TFAP2D, HSD17B4, MYCBP, CST3, RPL7L1, CTSL, CTSH, GTF2A1, MAB21L4, SLC35F6, EEA1, HMOX2, TUFT1, CPM, ECM1, AP1M2, NAPRT, POF1B, PPA1, ZG16B, DHDH, MAN1B1, SULT2B1, NLRP10, APOA1, GLUL.
+
+A critical goal of the analysis is to determine if this is a novel complex or if any proteins are novel members of a known complex
+System features from GO terms: 
+protein binding: 21 proteins: GTF2A1, TUFT1, EEA1, HMOX2, SULT2B1, TFAP2D, AP1M2, ECM1, CTSL, SLC35F6, RPL7L1, CTSH, GLUL, CST3, NAPRT, ZG16B, APOA1, PYCARD, MYCBP, TALDO1, TYMP
+cytosol: 15 proteins: GTF2A1, EEA1, SULT2B1, AP1M2, SLC35F6, PPA1, CTSH, NLRP10, GLUL, NAPRT, APOA1, PYCARD, TALDO1, HSD17B4, TYMP
+extracellular exosome: 14 proteins: EEA1, SULT2B1, ECM1, CTSL, SLC35F6, PPA1, CTSH, GLUL, CST3, NAPRT, ZG16B, CPM, APOA1, TALDO1
+cytoplasm: 10 proteins: TUFT1, EEA1, SULT2B1, PPA1, NLRP10, GLUL, CST3, PYCARD, MYCBP, TALDO1
+extracellular region: 9 proteins: TUFT1, ECM1, CTSL, CTSH, CST3, NAPRT, CPM, APOA1, PYCARD
+nucleus: 8 proteins: GTF2A1, SULT2B1, TFAP2D, CTSL, GLUL, PYCARD, MYCBP, TALDO1
+extracellular space: 7 proteins: ECM1, CTSL, CTSH, CST3, ZG16B, CPM, APOA1
+plasma membrane: 6 proteins: HMOX2, CTSL, GLUL, CST3, CPM, APOA1
+nucleoplasm: 5 proteins: GTF2A1, SLC35F6, NLRP10, PYCARD, MYCBP
+protein homodimerization activity: 5 proteins: EEA1, APOA1, PYCARD, HSD17B4, TYMP
+membrane: 5 proteins: EEA1, HMOX2, SLC35F6, MAN1B1, HSD17B4
+intracellular membrane-bounded organelle: 5 proteins: SULT2B1, AP1M2, CTSL, SLC35F6, CTSH
+endoplasmic reticulum: 4 proteins: SULT2B1, MAN1B1, CST3, PYCARD
+collagen-containing extracellular matrix: 4 proteins: ECM1, CTSL, CTSH, APOA1
+mitochondrion: 4 proteins: SLC35F6, GLUL, PYCARD, MYCBP
+identical protein binding: 4 proteins: GLUL, CST3, APOA1, PYCARD
+protease binding: 3 proteins: ECM1, CST3, PYCARD
+angiogenesis: 3 proteins: ECM1, GLUL, TYMP
+inflammatory response: 3 proteins: ECM1, NLRP10, PYCARD
+signal transduction: 3 proteins: ECM1, PYCARD, TYMP
+cysteine-type endopeptidase activator activity involved in apoptotic process: 3 proteins: CTSL, CTSH, PYCARD
+adaptive immune response: 3 proteins: CTSL, CTSH, NLRP10
+Golgi apparatus: 3 proteins: CTSL, MAN1B1, CST3
+secretory granule lumen: 3 proteins: CTSH, APOA1, PYCARD
+transcription by RNA polymerase II: 2 proteins: GTF2A1, TFAP2D
+positive regulation of transcription by RNA polymerase II: 2 proteins: GTF2A1, TFAP2D
+intracellular anatomical structure: 2 proteins: TUFT1, TALDO1
+zinc ion binding: 2 proteins: EEA1, CPM
+early endosome: 2 proteins: EEA1, APOA1
+extrinsic component of plasma membrane: 2 proteins: EEA1, NLRP10
+metal ion binding: 2 proteins: HMOX2, NAPRT
+response to oxidative stress: 2 proteins: HMOX2, NAPRT
+endoplasmic reticulum membrane: 2 proteins: HMOX2, MAN1B1
+cholesterol binding: 2 proteins: SULT2B1, APOA1
+cholesterol metabolic process: 2 proteins: SULT2B1, APOA1
+regulation of transcription by RNA polymerase II: 2 proteins: TFAP2D, ECM1
+Golgi membrane: 2 proteins: AP1M2, PYCARD
+lysosomal membrane: 2 proteins: AP1M2, SLC35F6
+negative regulation of peptidase activity: 2 proteins: ECM1, CST3
+positive regulation of angiogenesis: 2 proteins: ECM1, CTSH
+cysteine-type endopeptidase activity: 2 proteins: CTSL, CTSH
+cysteine-type peptidase activity: 2 proteins: CTSL, CTSH
+proteolysis: 2 proteins: CTSL, CTSH
+immune response: 2 proteins: CTSL, CTSH
+positive regulation of peptidase activity: 2 proteins: CTSL, CTSH
+antigen processing and presentation: 2 proteins: CTSL, CTSH
+zymogen activation: 2 proteins: CTSL, CTSH
+proteolysis involved in protein catabolic process: 2 proteins: CTSL, CTSH
+cellular response to thyroid hormone stimulus: 2 proteins: CTSL, CTSH
+positive regulation of apoptotic signaling pathway: 2 proteins: CTSL, CTSH
+lysosome: 2 proteins: CTSL, CTSH
+endocytic vesicle lumen: 2 proteins: CTSL, APOA1
+positive regulation of cell population proliferation: 2 proteins: SLC35F6, CTSH
+nucleolus: 2 proteins: RPL7L1, PYCARD
+cytoplasmic vesicle: 2 proteins: MAN1B1, APOA1
+extracellular vesicle: 2 proteins: MAN1B1, APOA1
+magnesium ion binding: 2 proteins: PPA1, GLUL
+apoptotic process: 2 proteins: CTSH, PYCARD
+ERK1 and ERK2 cascade: 2 proteins: CTSH, APOA1
+tertiary granule lumen: 2 proteins: CTSH, CST3
+ficolin-1-rich granule lumen: 2 proteins: CTSH, CST3
+ATP binding: 2 proteins: NLRP10, GLUL
+positive regulation of interleukin-6 production: 2 proteins: NLRP10, PYCARD
+positive regulation of interleukin-8 production: 2 proteins: NLRP10, PYCARD
+innate immune response: 2 proteins: NLRP10, PYCARD
+positive regulation of inflammatory response: 2 proteins: NLRP10, PYCARD
+defense response to Gram-negative bacterium: 2 proteins: NLRP10, PYCARD
+protein-containing complex: 2 proteins: GLUL, PYCARD
+amyloid-beta binding: 2 proteins: CST3, APOA1
+endoplasmic reticulum lumen: 2 proteins: CST3, APOA1
+azurophil granule lumen: 2 proteins: NAPRT, PYCARD
+enzyme binding: 2 proteins: APOA1, PYCARD
+positive regulation of phagocytosis: 2 proteins: APOA1, PYCARD

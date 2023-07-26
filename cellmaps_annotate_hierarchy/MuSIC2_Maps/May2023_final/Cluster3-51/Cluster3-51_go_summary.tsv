@@ -1,0 +1,120 @@
+Feature	Number of Genes	Genes
+protein binding	7	LPAR1, AK6, UBE4A, PARN, EXOSC7, DDX39A, HIKESHI
+nucleus	6	AK6, UBE4A, PARN, EXOSC7, DDX39A, HIKESHI
+nucleoplasm	4	AK6, EXOSC7, DDX39A, HIKESHI
+cytoplasm	4	AK6, UBE4A, PARN, DDX39A
+nuclear speck	4	AK6, PARN, DDX39A, HIKESHI
+nucleolus	3	AK6, PARN, EXOSC7
+RNA binding	3	PARN, EXOSC7, DDX39A
+cytosol	3	PARN, EXOSC7, HIKESHI
+ATP binding	2	AK6, DDX39A
+ATP hydrolysis activity	2	AK6, DDX39A
+membrane	2	AK6, DDX39A
+G-protein alpha-subunit binding	1	LPAR1
+G protein-coupled receptor activity	1	LPAR1
+PDZ domain binding	1	LPAR1
+lysophosphatidic acid binding	1	LPAR1
+lysophosphatidic acid receptor activity	1	LPAR1
+G protein-coupled receptor signaling pathway	1	LPAR1
+adenylate cyclase-inhibiting G protein-coupled receptor signaling pathway	1	LPAR1
+activation of phospholipase C activity	1	LPAR1
+ cytosolic calcium ion concentration	1	LPAR1
+ cell shape	1	LPAR1
+negative regulation of neuron projection development	1	LPAR1
+oligodendrocyte development	1	LPAR1
+cerebellum development	1	LPAR1
+optic nerve development	1	LPAR1
+neurogenesis	1	LPAR1
+corpus callosum development	1	LPAR1
+bleb assembly	1	LPAR1
+ Rho protein signal transduction	1	LPAR1
+myelination	1	LPAR1
+ apoptotic process	1	LPAR1
+ I-kappaB kinase/NF-kappaB signaling	1	LPAR1
+ MAPK cascade	1	LPAR1
+negative regulation of cAMP-mediated signaling	1	LPAR1
+ cytosolic calcium ion concentration involved in phospholipase C-activating G protein-coupled signaling pathway	1	LPAR1
+ stress fiber assembly	1	LPAR1
+cell chemotaxis	1	LPAR1
+ dendritic spine development	1	LPAR1
+cellular response to oxygen levels	1	LPAR1
+ smooth muscle cell chemotaxis	1	LPAR1
+ synaptic vesicle cycle	1	LPAR1
+ postsynaptic neurotransmitter receptor internalization	1	LPAR1
+cellular response to 1-oleoyl-sn-glycerol 3-phosphate	1	LPAR1
+endosome	1	LPAR1
+plasma membrane	1	LPAR1
+cell surface	1	LPAR1
+endocytic vesicle	1	LPAR1
+presynaptic membrane	1	LPAR1
+neuronal cell body	1	LPAR1
+dendritic spine	1	LPAR1
+dendritic shaft	1	LPAR1
+postsynaptic membrane	1	LPAR1
+glutamatergic synapse	1	LPAR1
+GABA-ergic synapse	1	LPAR1
+adenylate kinase activity	1	AK6
+nucleoside monophosphate kinase activity	1	AK6
+nucleobase-containing small molecule interconversion	1	AK6
+phosphorylation	1	AK6
+nucleoside monophosphate phosphorylation	1	AK6
+centrosome	1	AK6
+Cajal body	1	AK6
+ubiquitin-ubiquitin ligase activity	1	UBE4A
+protein polyubiquitination	1	UBE4A
+ubiquitin-dependent protein catabolic process	1	UBE4A
+ubiquitin-dependent ERAD pathway	1	UBE4A
+ubiquitin ligase complex	1	UBE4A
+mRNA 3'-UTR binding	1	PARN
+nuclease activity	1	PARN
+poly(A)-specific ribonuclease activity	1	PARN
+protein kinase binding	1	PARN
+cation binding	1	PARN
+metal ion binding	1	PARN
+telomerase RNA binding	1	PARN
+nuclear-transcribed mRNA catabolic process, nonsense-mediated decay	1	PARN
+nuclear-transcribed mRNA poly(A) tail shortening	1	PARN
+box H/ACA RNA 3'-end processing	1	PARN
+female gamete generation	1	PARN
+RNA modification	1	PARN
+miRNA catabolic process	1	PARN
+ telomere maintenance via telomerase	1	PARN
+ telomerase activity	1	PARN
+polyadenylation-dependent snoRNA 3'-end processing	1	PARN
+RNA phosphodiester bond hydrolysis, exonucleolytic	1	PARN
+telomerase RNA stabilization	1	PARN
+ncRNA deadenylation	1	PARN
+ telomerase RNA localization to Cajal body	1	PARN
+3'-5'-RNA exonuclease activity	1	EXOSC7
+RNA exonuclease activity	1	EXOSC7
+exonucleolytic trimming to generate mature 3'-end of 5.8S rRNA from tricistronic rRNA transcript (SSU-rRNA, 5.8S rRNA, LSU-rRNA)	1	EXOSC7
+rRNA processing	1	EXOSC7
+RNA processing	1	EXOSC7
+RNA catabolic process	1	EXOSC7
+nuclear-transcribed mRNA catabolic process, exonucleolytic, 3'-5'	1	EXOSC7
+U1 snRNA 3'-end processing	1	EXOSC7
+U4 snRNA 3'-end processing	1	EXOSC7
+U5 snRNA 3'-end processing	1	EXOSC7
+exonucleolytic catabolism of deadenylated mRNA	1	EXOSC7
+nuclear mRNA surveillance	1	EXOSC7
+nuclear polyadenylation-dependent rRNA catabolic process	1	EXOSC7
+nuclear polyadenylation-dependent tRNA catabolic process	1	EXOSC7
+nuclear polyadenylation-dependent mRNA catabolic process	1	EXOSC7
+nuclear exosome (RNase complex)	1	EXOSC7
+cytoplasmic exosome (RNase complex)	1	EXOSC7
+exosome (RNase complex)	1	EXOSC7
+nucleolar exosome (RNase complex)	1	EXOSC7
+RNA helicase activity	1	DDX39A
+identical protein binding	1	DDX39A
+mRNA splicing, via spliceosome	1	DDX39A
+RNA export from nucleus	1	DDX39A
+mRNA export from nucleus	1	DDX39A
+Hsp70 protein binding	1	HIKESHI
+molecular adaptor activity	1	HIKESHI
+nuclear import signal receptor activity	1	HIKESHI
+protein import into nucleus	1	HIKESHI
+Golgi organization	1	HIKESHI
+protein transport	1	HIKESHI
+lung development	1	HIKESHI
+cellular response to heat	1	HIKESHI
+nuclear body	1	HIKESHI

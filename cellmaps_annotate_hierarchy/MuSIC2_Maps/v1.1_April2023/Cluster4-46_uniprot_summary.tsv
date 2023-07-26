@@ -1,0 +1,127 @@
+Feature	Number of Genes	Genes
+plasma membrane	5	COLQ, FLT4, MYADM, NMT2, SLC4A2
+membrane	5	FLT4, MYADM, NMT2, SLC4A2, TOR1B
+Disease variant	2	COLQ, FLT4
+cytosol	2	FLT4, NMT2
+ATP binding	2	FLT4, TOR1B
+positive regulation of cell migration	2	FLT4, MYADM
+cytoplasm	2	FLT4, NMT2
+cell membrane	2	FLT4, SLC4A2
+nucleus	2	FLT4, TOR1B
+basement membrane	1	COLQ
+cell junction	1	COLQ
+collagen trimer	1	COLQ
+collagen-containing extracellular matrix	1	COLQ
+extracellular matrix	1	COLQ
+extracellular space	1	COLQ
+neuromuscular junction	1	COLQ
+synaptic cleft	1	COLQ
+extracellular matrix structural constituent	1	COLQ
+heparin binding	1	COLQ
+acetylcholine catabolic process in synaptic cleft	1	COLQ
+establishment of protein localization to membrane	1	COLQ
+extracellular matrix organization	1	COLQ
+regulation of synaptic assembly at neuromuscular junction	1	COLQ
+skeletal muscle acetylcholine-gated channel clustering	1	COLQ
+synapse	1	COLQ
+Myasthenic syndrome	1	COLQ
+Congenital myasthenic syndrome	1	COLQ
+extracellular region	1	FLT4
+nucleoplasm	1	FLT4
+receptor complex	1	FLT4
+growth factor binding	1	FLT4
+protein homodimerization activity	1	FLT4
+protein phosphatase binding	1	FLT4
+transmembrane receptor protein tyrosine kinase activity	1	FLT4
+vascular endothelial growth factor receptor activity	1	FLT4
+angiogenesis	1	FLT4
+blood vessel morphogenesis	1	FLT4
+cellular response to vascular endothelial growth factor stimulus	1	FLT4
+hematopoietic progenitor cell differentiation	1	FLT4
+lung alveolus development	1	FLT4
+lymph vessel development	1	FLT4
+lymphangiogenesis	1	FLT4
+negative regulation of apoptotic process	1	FLT4
+peptidyl-tyrosine phosphorylation	1	FLT4
+positive regulation of cell population proliferation	1	FLT4
+positive regulation of endothelial cell migration	1	FLT4
+positive regulation of endothelial cell proliferation	1	FLT4
+positive regulation of ERK1 and ERK2 cascade	1	FLT4
+positive regulation of JNK cascade	1	FLT4
+positive regulation of kinase activity	1	FLT4
+positive regulation of MAPK cascade	1	FLT4
+positive regulation of protein kinase C signaling	1	FLT4
+positive regulation of protein phosphorylation	1	FLT4
+positive regulation of vascular endothelial growth factor production	1	FLT4
+protein autophosphorylation	1	FLT4
+regulation of blood vessel remodeling	1	FLT4
+regulation of MAPK cascade	1	FLT4
+respiratory system process	1	FLT4
+sprouting angiogenesis	1	FLT4
+transmembrane receptor protein tyrosine kinase signaling pathway	1	FLT4
+vascular endothelial growth factor receptor signaling pathway	1	FLT4
+vascular endothelial growth factor signaling pathway	1	FLT4
+vasculature development	1	FLT4
+secreted	1	FLT4
+Lymphatic malformation 1	1	FLT4
+Hemangioma	1	FLT4
+Congenital heart defects	1	FLT4
+cell-cell junction	1	MYADM
+cortical actin cytoskeleton	1	MYADM
+membrane raft	1	MYADM
+ruffle	1	MYADM
+establishment of endothelial barrier	1	MYADM
+membrane raft organization	1	MYADM
+negative regulation of actin filament polymerization	1	MYADM
+negative regulation of gene expression	1	MYADM
+negative regulation of heterotypic cell-cell adhesion	1	MYADM
+negative regulation of protein kinase C signaling	1	MYADM
+negative regulation of protein phosphorylation	1	MYADM
+positive regulation of substrate adhesion-dependent cell spreading	1	MYADM
+protein localization to plasma membrane raft	1	MYADM
+extrinsic component of membrane	1	NMT2
+Golgi apparatus	1	NMT2
+host cell	1	NMT2
+glycylpeptide N-tetradecanoyltransferase activity	1	NMT2
+peptidyl-lysine N6-myristoyltransferase activity	1	NMT2
+intracellular transport of virus	1	NMT2
+N-terminal peptidyl-glycine N-myristoylation	1	NMT2
+regulation of rhodopsin mediated signaling pathway	1	NMT2
+apical plasma membrane	1	SLC4A2
+basolateral plasma membrane	1	SLC4A2
+focal adhesion	1	SLC4A2
+anion transmembrane transporter activity	1	SLC4A2
+chloride	1	SLC4A2
+enzyme binding	1	SLC4A2
+solute	1	SLC4A2
+transmembrane transporter activity	1	SLC4A2
+amelogenesis	1	SLC4A2
+anion transport	1	SLC4A2
+bicarbonate transport	1	SLC4A2
+digestive tract development	1	SLC4A2
+ion homeostasis	1	SLC4A2
+negative regulation of CD8-positive, alpha-beta T cell differentiation	1	SLC4A2
+negative regulation of CD8-positive, alpha-beta T cell proliferation	1	SLC4A2
+osteoclast differentiation	1	SLC4A2
+positive regulation of enamel mineralization	1	SLC4A2
+regulation of actin cytoskeleton organization	1	SLC4A2
+regulation of bone resorption	1	SLC4A2
+regulation of intracellular pH	1	SLC4A2
+spermatogenesis	1	SLC4A2
+transmembrane transport	1	SLC4A2
+apical cell membrane	1	SLC4A2
+basolateral cell membrane	1	SLC4A2
+endoplasmic reticulum	1	TOR1B
+endoplasmic reticulum lumen	1	TOR1B
+extracellular exosome	1	TOR1B
+nuclear envelope	1	TOR1B
+nuclear membrane	1	TOR1B
+ATP hydrolysis activity	1	TOR1B
+identical protein binding	1	TOR1B
+kinesin binding	1	TOR1B
+chaperone cofactor-dependent protein refolding	1	TOR1B
+endoplasmic reticulum organization	1	TOR1B
+nuclear membrane organization	1	TOR1B
+protein localization to nucleus	1	TOR1B
+response to unfolded protein	1	TOR1B
+nucleus membrane	1	TOR1B

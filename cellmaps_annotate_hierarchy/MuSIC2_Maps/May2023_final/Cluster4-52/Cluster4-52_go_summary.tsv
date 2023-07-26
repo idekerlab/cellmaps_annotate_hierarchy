@@ -1,0 +1,32 @@
+Feature	Number of Genes	Genes
+protein binding	4	ABTB1, CARS1, EEF1A2, VARS1
+cytoplasm	3	ABTB1, CARS1, EEF1A2
+cytosol	3	ABTB1, CARS1, VARS1
+translation elongation factor activity	2	ABTB1, EEF1A2
+translational elongation	2	ABTB1, EEF1A2
+ATP binding	2	CARS1, VARS1
+ubiquitin ligase complex	1	ABTB1
+nucleolus	1	ABTB1
+plasma membrane	1	ABTB1
+tRNA binding	1	CARS1
+cysteine-tRNA ligase activity	1	CARS1
+identical protein binding	1	CARS1
+metal ion binding	1	CARS1
+cysteinyl-tRNA aminoacylation	1	CARS1
+GTPase activity	1	EEF1A2
+GTP binding	1	EEF1A2
+translation factor activity, RNA binding	1	EEF1A2
+protein kinase binding	1	EEF1A2
+translation	1	EEF1A2
+ apoptotic process	1	EEF1A2
+ lipid kinase activity	1	EEF1A2
+ chaperone-mediated autophagy	1	EEF1A2
+nucleus	1	EEF1A2
+eukaryotic translation elongation factor 1 complex	1	EEF1A2
+synapse	1	EEF1A2
+cytoplasmic side of lysosomal membrane	1	EEF1A2
+aminoacyl-tRNA editing activity	1	VARS1
+valine-tRNA ligase activity	1	VARS1
+tRNA aminoacylation for protein translation	1	VARS1
+valyl-tRNA aminoacylation	1	VARS1
+aminoacyl-tRNA metabolism involved in translational fidelity	1	VARS1

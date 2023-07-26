@@ -1,0 +1,30 @@
+Feature	Number of Genes	Genes
+cytoplasm	2	NRBP2, TSC22D4
+protein binding	2	ZFYVE9, TSC22D4
+response to osmotic stress	2	TSC22D2, TSC22D4
+protein serine/threonine kinase activity	1	NRBP2
+ATP binding	1	NRBP2
+protein phosphorylation	1	NRBP2
+negative regulation of macroautophagy	1	NRBP2
+neuron differentiation	1	NRBP2
+negative regulation of neuron apoptotic process	1	NRBP2
+1-phosphatidylinositol binding	1	ZFYVE9
+protein domain specific binding	1	ZFYVE9
+metal ion binding	1	ZFYVE9
+endocytosis	1	ZFYVE9
+transforming growth factor beta receptor signaling pathway	1	ZFYVE9
+endosomal transport	1	ZFYVE9
+early endosome	1	ZFYVE9
+cytosol	1	ZFYVE9
+early endosome membrane	1	ZFYVE9
+protein-containing complex	1	ZFYVE9
+intracellular membrane-bounded organelle	1	ZFYVE9
+ transcription by RNA polymerase II	1	TSC22D2
+negative regulation of transcription by RNA polymerase II	1	TSC22D4
+glucose homeostasis	1	TSC22D4
+negative regulation of DNA-templated transcription	1	TSC22D4
+neuron cellular homeostasis	1	TSC22D4
+neuron projection extension	1	TSC22D4
+nucleus	1	TSC22D4
+dendrite	1	TSC22D4
+synapse	1	TSC22D4

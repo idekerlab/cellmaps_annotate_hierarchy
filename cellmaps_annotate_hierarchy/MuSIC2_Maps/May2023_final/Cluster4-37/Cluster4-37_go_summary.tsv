@@ -1,0 +1,44 @@
+Feature	Number of Genes	Genes
+protein binding	4	LMF2, DYNC2I1, ERCC6L, RABL2B
+membrane	2	LMF2, ERCC6L
+cilium assembly	2	DYNC2I1, RABL2B
+pericentriolar material	2	DYNC2I1, RABL2B
+cytoplasm	2	DYNC2I1, RABL2B
+protein maturation	1	LMF2
+endoplasmic reticulum membrane	1	LMF2
+guanyl-nucleotide exchange factor activity	1	DENND10
+small GTPase binding	1	DENND10
+protein transport	1	DENND10
+endosome transport via multivesicular body sorting pathway	1	DENND10
+ early endosome to late endosome transport	1	DENND10
+late endosome	1	DENND10
+dynein light chain binding	1	DYNC2I1
+dynein heavy chain binding	1	DYNC2I1
+intraciliary retrograde transport	1	DYNC2I1
+embryonic skeletal system morphogenesis	1	DYNC2I1
+spindle pole	1	DYNC2I1
+extracellular space	1	DYNC2I1
+centrosome	1	DYNC2I1
+cytoplasmic dynein complex	1	DYNC2I1
+cilium	1	DYNC2I1
+interphase microtubule organizing center	1	DYNC2I1
+ciliary tip	1	DYNC2I1
+ciliary base	1	DYNC2I1
+DNA binding	1	ERCC6L
+helicase activity	1	ERCC6L
+ATP binding	1	ERCC6L
+DNA translocase activity	1	ERCC6L
+ATP hydrolysis activity	1	ERCC6L
+ATP-dependent chromatin remodeler activity	1	ERCC6L
+chromatin remodeling	1	ERCC6L
+cell cycle	1	ERCC6L
+cell division	1	ERCC6L
+kinetochore	1	ERCC6L
+cytosol	1	ERCC6L
+GTPase activity	1	RABL2B
+GTP binding	1	RABL2B
+intracellular protein transport	1	RABL2B
+intraciliary transport	1	RABL2B
+centriole	1	RABL2B
+endomembrane system	1	RABL2B
+ciliary basal body	1	RABL2B

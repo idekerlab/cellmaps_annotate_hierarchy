@@ -1,0 +1,15 @@
+Title: Mitochondrial Respiratory Chain Complex I Assembly and Function
+
+Summary: The system of proteins analyzed is primarily involved in the assembly and function of the mitochondrial respiratory chain complex I (MRCI). The majority of the proteins are localized in the mitochondrion, particularly in the inner membrane, and are involved in aerobic respiration, proton motive force-driven mitochondrial ATP synthesis, NADH dehydrogenase (ubiquinone) activity, and mitochondrial electron transport from NADH to ubiquinone. Additionally, some proteins are involved in the regulation of mitochondrial membrane potential, response to oxidative stress, and negative regulation of apoptotic processes. This system appears to be a known complex, with no novel proteins identified as members of the MRCI.
+
+References:
+
+1. Stroud, D. A., Surgenor, E. E., Formosa, L. E., Reljic, B., Frazier, A. E., Dibley, M. G., ... & Thorburn, D. R. (2016). Accessory subunits are integral for assembly and function of human mitochondrial complex I. Nature, 538(7623), 123-126. [PubMed](https://pubmed.ncbi.nlm.nih.gov/27626371/)
+
+2. Guerrero-Castillo, S., Baertling, F., Kownatzki, D., Wessels, H. J., Arnold, S., Brandt, U., & Nijtmans, L. (2017). The assembly pathway of mitochondrial respiratory chain complex I. Cell metabolism, 25(1), 128-139. [PubMed](https://pubmed.ncbi.nlm.nih.gov/27923773/)
+
+3. Vinothkumar, K. R., Zhu, J., & Hirst, J. (2014). Architecture of mammalian respiratory complex I. Nature, 515(7525), 80-84. [PubMed](https://pubmed.ncbi.nlm.nih.gov/25119048/)
+
+4. Fiedorczuk, K., Letts, J. A., Degliesposti, G., Kaszuba, K., Skehel, M., & Sazanov, L. A. (2016). Atomic structure of the entire mammalian mitochondrial complex I. Nature, 538(7625), 406-410. [PubMed](https://pubmed.ncbi.nlm.nih.gov/27732578/)
+
+5. Letts, J. A., Fiedorczuk, K., & Sazanov, L. A. (2016). The architecture of respiratory supercomplexes. Nature, 537(7622), 644-648. [PubMed](https://pubmed.ncbi.nlm.nih.gov/27626380/)

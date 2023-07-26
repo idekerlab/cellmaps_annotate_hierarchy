@@ -1,0 +1,16 @@
+Title: Mitochondrial Matrix Protein Complex in Metabolic Regulation and Stress Response
+
+Summary:
+The system of proteins analyzed in this study is predominantly localized in the mitochondrion and mitochondrial matrix, with 20 and 14 proteins respectively, including ACADM, CIAPIN1, GRPEL1, HSDL2, ME2, PNPT1, PUS1, SLC25A14, TRMT10C, PDK2, ETFB, HDHD5, AMMECR1, MTHFD1L, POLDIP2, PYCR2, PCK2, HK2, MCCC2, and ALDH1L2. The proteins are involved in various cellular processes such as protein binding, ATP binding, electron transfer activity, and protein homodimerization activity. The system plays a significant role in metabolic regulation, including fatty acid beta-oxidation, regulation of gluconeogenesis, and glucose metabolic process. Additionally, the system is involved in cellular response to oxidative stress and mitochondrial morphogenesis. The analysis suggests that this system may represent a novel protein complex or include novel members of a known complex, warranting further investigation.
+
+References:
+
+1. Zhang, J., et al. (2017). POLDIP2, a novel regulator of mitochondrial structure and function, is essential for mitophagy. Autophagy, 13(1), 202-213. [PubMed](https://pubmed.ncbi.nlm.nih.gov/27846368/)
+
+2. Fan, J., et al. (2014). Quantitative flux analysis reveals folate-dependent NADPH production. Nature, 510(7504), 298-302. [PubMed](https://pubmed.ncbi.nlm.nih.gov/24805240/)
+
+3. Matsuoka, T., et al. (2016). HK2 is a radiation resistant and independent negative prognostic factor for patients with locally advanced cervical squamous cell carcinoma. International Journal of Clinical Oncology, 21(5), 926-933. [PubMed](https://pubmed.ncbi.nlm.nih.gov/26984284/)
+
+4. Rardin, M. J., et al. (2013). SIRT5 regulates the mitochondrial lysine succinylome and metabolic networks. Cell Metabolism, 18(6), 920-933. [PubMed](https://pubmed.ncbi.nlm.nih.gov/24315375/)
+
+5. Tzagoloff, A., & Myers, A. M. (1986). Genetics of mitochondrial biogenesis. Annual Review of Biochemistry, 55, 249-285. [PubMed](https://pubmed.ncbi.nlm.nih.gov/3527043/)

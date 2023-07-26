@@ -1,0 +1,93 @@
+Feature	Number of Genes	Genes
+mitochondrion	4	ATP5MPL, DMAC2, SLC25A25, VWA8
+cytoplasm	4	MCM3AP, TTC21B, TULP2, VWA8
+mitochondrial inner membrane	2	ATP5MPL, SLC25A25
+membrane	2	ATP5MPL, SLC25A25
+secreted	2	DKK3, TULP2
+chromatin binding	2	MCM3AP, TTC21B
+Intellectual disability	2	MCM3AP, TTC21B
+cilium	2	TTC21B, TULP2
+protein localization to cilium	2	TTC21B, TULP2
+mitochondrial proton-transporting ATP synthase complex	1	ATP5MPL
+proton motive force-driven ATP synthesis	1	ATP5MPL
+mitochondrion membrane	1	ATP5MPL
+extracellular space	1	DKK3
+co-receptor binding	1	DKK3
+receptor antagonist activity	1	DKK3
+adrenal gland development	1	DKK3
+anatomical structure morphogenesis	1	DKK3
+negative regulation of aldosterone biosynthetic process	1	DKK3
+negative regulation of anti-Mullerian hormone signaling pathway	1	DKK3
+negative regulation of canonical Wnt signaling pathway	1	DKK3
+negative regulation of cortisol biosynthetic process	1	DKK3
+negative regulation of DNA-templated transcription	1	DKK3
+regulation of transforming growth factor beta receptor signaling pathway	1	DKK3
+Wnt signaling pathway	1	DKK3
+SCF ubiquitin ligase complex	1	DMAC2
+mitochondrial respiratory chain complex I assembly	1	DMAC2
+SCF-dependent proteasomal ubiquitin-dependent protein catabolic process	1	DMAC2
+chromosome	1	MCM3AP
+cytosol	1	MCM3AP
+nuclear membrane	1	MCM3AP
+nuclear pore nuclear basket	1	MCM3AP
+nucleoplasm	1	MCM3AP
+nucleus	1	MCM3AP
+transcription export complex 2	1	MCM3AP
+histone acetyltransferase activity	1	MCM3AP
+histone binding	1	MCM3AP
+histone H3 acetyltransferase activity	1	MCM3AP
+nucleic acid binding	1	MCM3AP
+mRNA export from nucleus	1	MCM3AP
+nucleosome organization	1	MCM3AP
+poly(A)+ mRNA export from nucleus	1	MCM3AP
+protein transport	1	MCM3AP
+somatic hypermutation of immunoglobulin genes	1	MCM3AP
+nuclear pore complex	1	MCM3AP
+nucleus envelope	1	MCM3AP
+Peripheral neuropathy	1	MCM3AP
+Neuropathy	1	MCM3AP
+calcium ion binding	1	SLC25A25
+adipose tissue development	1	SLC25A25
+ATP metabolic process	1	SLC25A25
+calcium ion transmembrane transport	1	SLC25A25
+camera-type eye development	1	SLC25A25
+cellular respiration	1	SLC25A25
+multicellular organism growth	1	SLC25A25
+response to activity	1	SLC25A25
+response to dietary excess	1	SLC25A25
+response to food	1	SLC25A25
+mitochondrion inner membrane	1	SLC25A25
+ciliary tip	1	TTC21B
+cytoskeleton	1	TTC21B
+intraciliary transport particle A	1	TTC21B
+Bergmann glial cell differentiation	1	TTC21B
+cerebellar Purkinje cell differentiation	1	TTC21B
+cilium assembly	1	TTC21B
+forebrain dorsal/ventral pattern formation	1	TTC21B
+intraciliary retrograde transport	1	TTC21B
+negative regulation of eating behavior	1	TTC21B
+positive regulation of canonical Wnt signaling pathway	1	TTC21B
+positive regulation of gene expression	1	TTC21B
+protein localization to non-motile cilium	1	TTC21B
+regulation of intraciliary retrograde transport	1	TTC21B
+regulation of smoothened signaling pathway	1	TTC21B
+regulation of transcription by RNA polymerase II	1	TTC21B
+smoothened signaling pathway	1	TTC21B
+ventricular system development	1	TTC21B
+cilium axoneme	1	TTC21B
+cell projection	1	TTC21B
+Nephronophthisis 12	1	TTC21B
+Short-rib thoracic dysplasia 4 with or without polydactyly	1	TTC21B
+Joubert syndrome 11	1	TTC21B
+Ciliopathy	1	TTC21B
+Disease variant	1	TTC21B
+Joubert syndrome	1	TTC21B
+Meckel syndrome	1	TTC21B
+Nephronophthisis	1	TTC21B
+Obesity	1	TTC21B
+extracellular region	1	TULP2
+protein-containing complex binding	1	TULP2
+visual perception	1	TULP2
+peroxisome	1	VWA8
+ATP binding	1	VWA8
+ATP hydrolysis activity	1	VWA8

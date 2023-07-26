@@ -1,0 +1,72 @@
+Feature	Number of Genes	Genes
+protein binding	10	ATAD5, CHTF18, DSCC1, RAD17, RAD9A, RFC1, RFC2, RFC3, RFC4, RFC5
+nucleus	9	ATAD5, CHTF18, RAD17, RAD9A, RFC1, RFC2, RFC3, RFC4, RFC5
+nucleoplasm	9	CHTF18, DSCC1, RAD17, RAD9A, RFC1, RFC2, RFC3, RFC4, RFC5
+DNA binding	8	ATAD5, CHTF18, DSCC1, RFC1, RFC2, RFC3, RFC4, RFC5
+DNA clamp loader activity	8	CHTF18, DSCC1, RAD17, RFC1, RFC2, RFC3, RFC4, RFC5
+ATP binding	7	ATAD5, CHTF18, RAD17, RFC1, RFC2, RFC4, RFC5
+DNA repair	7	RAD17, RAD9A, RFC1, RFC2, RFC3, RFC4, RFC5
+ATP hydrolysis activity	6	ATAD5, CHTF18, RFC1, RFC2, RFC4, RFC5
+single-stranded DNA helicase activity	6	CHTF18, DSCC1, RFC2, RFC3, RFC4, RFC5
+DNA duplex unwinding	6	CHTF18, DSCC1, RFC2, RFC3, RFC4, RFC5
+ DNA-directed DNA polymerase activity	6	CHTF18, DSCC1, RFC2, RFC3, RFC4, RFC5
+Ctf18 RFC-like complex	6	CHTF18, DSCC1, RFC2, RFC3, RFC4, RFC5
+DNA-templated DNA replication	5	RFC1, RFC2, RFC3, RFC4, RFC5
+DNA replication factor C complex	5	RFC1, RFC2, RFC3, RFC4, RFC5
+DNA replication	4	CHTF18, DSCC1, RFC3, RFC5
+Elg1 RFC-like complex	3	ATAD5, RFC1, RFC4
+enzyme binding	3	RAD9A, RFC2, RFC5
+DNA clamp unloader activity	2	ATAD5, RFC1
+ DNA replication	2	ATAD5, DSCC1
+DNA clamp unloading	2	ATAD5, RFC1
+DNA replication checkpoint signaling	2	RAD17, RAD9A
+DNA damage checkpoint signaling	2	RAD17, RAD9A
+DNA damage response	2	RAD17, RAD9A
+mitotic intra-S DNA damage checkpoint signaling	2	RAD17, RAD9A
+nucleolus	2	RAD17, RFC1
+cytoplasm	2	RAD9A, RFC1
+DNA strand elongation involved in DNA replication	2	RFC3, RFC4
+cell population proliferation	1	ATAD5
+ B cell proliferation	1	ATAD5
+nuclear DNA replication	1	ATAD5
+signal transduction in response to DNA damage	1	ATAD5
+intrinsic apoptotic signaling pathway in response to DNA damage by p53 class mediator	1	ATAD5
+isotype switching	1	ATAD5
+ isotype switching to IgG isotypes	1	ATAD5
+nucleic acid phosphodiester bond hydrolysis	1	ATAD5
+ mitotic cell cycle phase transition	1	ATAD5
+negative regulation of intrinsic apoptotic signaling pathway in response to DNA damage by p53 class mediator	1	ATAD5
+ cell cycle G2/M phase transition	1	ATAD5
+cell cycle	1	CHTF18
+cytosol	1	CHTF18
+membrane	1	CHTF18
+maintenance of mitotic sister chromatid cohesion	1	DSCC1
+post-translational protein acetylation	1	DSCC1
+chromosome, centromeric region	1	DSCC1
+chromatin	1	DSCC1
+chromatin binding	1	RAD17
+negative regulation of DNA replication	1	RAD17
+mitotic DNA replication checkpoint signaling	1	RAD17
+ phosphorylation	1	RAD17
+chromosome, telomeric region	1	RAD17
+Rad17 RFC-like complex	1	RAD17
+double-stranded DNA 3'-5' DNA exonuclease activity	1	RAD9A
+3'-5' exonuclease activity	1	RAD9A
+SH3 domain binding	1	RAD9A
+protein kinase binding	1	RAD9A
+histone deacetylase binding	1	RAD9A
+intrinsic apoptotic signaling pathway in response to DNA damage	1	RAD9A
+cellular response to ionizing radiation	1	RAD9A
+ intrinsic apoptotic signaling pathway in response to DNA damage	1	RAD9A
+checkpoint clamp complex	1	RAD9A
+double-stranded DNA binding	1	RFC1
+enzyme activator activity	1	RFC1
+protein domain specific binding	1	RFC1
+sequence-specific DNA binding	1	RFC1
+negative regulation of transcription by RNA polymerase II	1	RFC1
+telomere maintenance via telomerase	1	RFC1
+ DNA-templated transcription	1	RFC1
+extracellular exosome	1	RFC1
+ATP-dependent activity, acting on DNA	1	RFC3
+DNA synthesis involved in DNA repair	1	RFC3
+response to organophosphorus	1	RFC3

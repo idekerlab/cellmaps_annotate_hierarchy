@@ -1,0 +1,51 @@
+Feature	Number of Genes	Genes
+protein binding	4	FGF11, CBX5, CHD1, PSME3IP1
+nucleus	3	CBX5, CHD1, PSME3IP1
+nucleoplasm	3	CBX5, CHD1, PSME3IP1
+cytoplasm	2	FGF11, CHD1
+chromatin binding	2	CBX5, CHD1
+methylated histone binding	2	CBX5, CHD1
+growth factor activity	1	FGF11
+signal transduction	1	FGF11
+cell-cell signaling	1	FGF11
+nervous system development	1	FGF11
+ voltage-gated sodium channel activity	1	FGF11
+protein-macromolecule adaptor activity	1	CBX5
+identical protein binding	1	CBX5
+histone deacetylase binding	1	CBX5
+ribonucleoprotein complex binding	1	CBX5
+protein-containing complex binding	1	CBX5
+DNA-binding transcription factor binding	1	CBX5
+negative regulation of transcription by RNA polymerase II	1	CBX5
+chromatin organization	1	CBX5
+DNA damage response	1	CBX5
+negative regulation of DNA-templated transcription	1	CBX5
+histone deacetylase complex	1	CBX5
+kinetochore	1	CBX5
+chromosome, telomeric region	1	CBX5
+heterochromatin	1	CBX5
+nuclear envelope	1	CBX5
+pericentric heterochromatin	1	CBX5
+nucleolus	1	CBX5
+chromocenter	1	CBX5
+PML body	1	CBX5
+transcription repressor complex	1	CBX5
+protein-containing complex	1	CBX5
+histone methyltransferase complex	1	CBX5
+site of DNA damage	1	CBX5
+ribonucleoprotein complex	1	CBX5
+DNA binding	1	CHD1
+helicase activity	1	CHD1
+ATP binding	1	CHD1
+ATP hydrolysis activity	1	CHD1
+histone binding	1	CHD1
+ATP-dependent chromatin remodeler activity	1	CHD1
+chromatin remodeling	1	CHD1
+ transcription by RNA polymerase II	1	CHD1
+nucleosome organization	1	CHD1
+positive regulation by host of viral transcription	1	CHD1
+nuclear chromosome	1	CHD1
+chromatin	1	CHD1
+negative regulation of protein binding	1	PSME3IP1
+negative regulation of proteasomal protein catabolic process	1	PSME3IP1
+intracellular membrane-bounded organelle	1	PSME3IP1

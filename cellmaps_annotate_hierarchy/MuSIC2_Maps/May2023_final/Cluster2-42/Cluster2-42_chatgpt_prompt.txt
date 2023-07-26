@@ -1,0 +1,57 @@
+Your response should be formatted as Markdown paragraphs
+Write a critical and concise analysis of this human protein system, describing your reasoning as you go and providing references to scientific papers.
+
+A critical goal of the analysis is to determine if this is a novel complex or if any proteins are novel members of a known complex
+
+Format with Title, Summary, and References sections.        
+Avoid overly general statements of how the proteins are involved in various cellular processes        
+Avoid repeating the goals of the analysis.
+
+What cellular components and complexes are involved in this system?
+What mechanisms and biological processes are performed by this system?
+Propose a name for the system to reflect the cellular location and function, and should be specific but brief. Do not compose an acronym. Place it as the title of your report
+Human Proteins: SNX6, RPS6KC1, COMMD7, BIRC6, VPS35, SNX2, RAB5A, EEA1, SNX1, VPS26A.
+
+System features from GO terms: 
+protein binding: 10 proteins: SNX6, RPS6KC1, COMMD7, BIRC6, VPS35, SNX2, RAB5A, EEA1, SNX1, VPS26A
+endosome: 8 proteins: SNX6, RPS6KC1, BIRC6, VPS35, SNX2, RAB5A, SNX1, VPS26A
+cytosol: 8 proteins: SNX6, BIRC6, VPS35, SNX2, RAB5A, EEA1, SNX1, VPS26A
+intracellular protein transport: 6 proteins: SNX6, VPS35, SNX2, RAB5A, SNX1, VPS26A
+lysosome: 6 proteins: SNX6, RPS6KC1, VPS35, SNX2, SNX1, VPS26A
+retrograde transport, endosome to Golgi: 5 proteins: SNX6, VPS35, SNX2, SNX1, VPS26A
+cytoplasm: 5 proteins: SNX6, SNX2, RAB5A, EEA1, SNX1
+retromer complex: 5 proteins: SNX6, VPS35, SNX2, SNX1, VPS26A
+early endosome membrane: 5 proteins: SNX6, SNX2, RAB5A, EEA1, SNX1
+early endosome: 5 proteins: RPS6KC1, VPS35, RAB5A, EEA1, VPS26A
+membrane: 5 proteins: RPS6KC1, BIRC6, SNX2, EEA1, SNX1
+endosome membrane: 5 proteins: VPS35, SNX2, RAB5A, SNX1, VPS26A
+phosphatidylinositol binding: 4 proteins: SNX6, RPS6KC1, SNX2, SNX1
+protein homodimerization activity: 4 proteins: SNX6, SNX2, EEA1, SNX1
+ macroautophagy: 3 proteins: SNX6, VPS35, VPS26A
+retromer, tubulation complex: 3 proteins: SNX6, SNX2, SNX1
+tubular endosome: 3 proteins: SNX6, VPS35, VPS26A
+glutamatergic synapse: 3 proteins: SNX6, VPS35, EEA1
+extracellular exosome: 3 proteins: VPS35, RAB5A, EEA1
+negative regulation of DNA-templated transcription: 2 proteins: SNX6, COMMD7
+nucleus: 2 proteins: SNX6, BIRC6
+protein phosphorylation: 2 proteins: RPS6KC1, BIRC6
+endocytic recycling: 2 proteins: VPS35, VPS26A
+ protein catabolic process: 2 proteins: VPS35, SNX1
+retromer, cargo-selective complex: 2 proteins: VPS35, VPS26A
+neuronal cell body: 2 proteins: VPS35, RAB5A
+epidermal growth factor receptor binding: 2 proteins: SNX2, SNX1
+insulin receptor binding: 2 proteins: SNX2, SNX1
+identical protein binding: 2 proteins: SNX2, SNX1
+cadherin binding: 2 proteins: SNX2, SNX1
+protein heterodimerization activity: 2 proteins: SNX2, SNX1
+transferrin receptor binding: 2 proteins: SNX2, SNX1
+leptin receptor binding: 2 proteins: SNX2, SNX1
+early endosome to Golgi transport: 2 proteins: SNX2, SNX1
+lamellipodium morphogenesis: 2 proteins: SNX2, SNX1
+lamellipodium: 2 proteins: SNX2, SNX1
+protein-containing complex: 2 proteins: SNX2, SNX1
+endocytosis: 2 proteins: RAB5A, EEA1
+modulation by host of viral process: 2 proteins: RAB5A, EEA1
+early endosome to late endosome transport: 2 proteins: RAB5A, EEA1
+intracellular membrane-bounded organelle: 2 proteins: RAB5A, SNX1
+vesicle: 2 proteins: SNX1, VPS26A

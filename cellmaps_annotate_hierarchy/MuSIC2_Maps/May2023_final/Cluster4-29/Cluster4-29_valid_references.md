@@ -1,0 +1,3 @@
+### Validated References: 
+[1] Pijnappel, Wwm Pim, Kolkman, Annemieke, Baltissen, Marijke Pa, Heck, Albert Jr, Timmers, Ht Marc. "Quantitative mass spectrometry of TATA binding protein-containing complexes and subunit phosphorylations during the cell cycle." Proteome science, 2009, pp. 46.
+[2] Pointud, Jean-Christophe, Mengus, Gabrielle, Brancorsini, Stefano, Monaco, Lucia, Parvinen, Martti, Sassone-Corsi, Paolo, Davidson, Irwin. "The intracellular localisation of TAF7L, a paralogue of transcription factor TFIID subunit TAF7, is developmentally regulated during male germ-cell differentiation." Journal of cell science, 2003, pp. 1847-58.

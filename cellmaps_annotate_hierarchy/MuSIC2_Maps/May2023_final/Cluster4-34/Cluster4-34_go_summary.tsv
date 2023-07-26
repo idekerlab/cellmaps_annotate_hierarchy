@@ -1,0 +1,165 @@
+Feature	Number of Genes	Genes
+protein binding	5	APBA2, APBA3, APLP2, APP, TJAP1
+plasma membrane	5	APBA2, APBA3, APLP2, APP, TJAP1
+identical protein binding	3	APBA2, APLP2, APP
+ gene expression	3	APBA2, APBA3, APP
+cytoplasm	3	APBA2, APBA3, APP
+dendritic spine	3	APBA2, APBA3, APP
+amyloid-beta binding	2	APBA2, APBA3
+in utero embryonic development	2	APBA2, APBA3
+chemical synaptic transmission	2	APBA2, APBA3
+locomotory behavior	2	APBA2, APP
+protein transport	2	APBA2, APBA3
+enzyme binding	2	APBA3, APP
+perinuclear region of cytoplasm	2	APBA3, APP
+DNA binding	2	APLP2, APP
+serine-type endopeptidase inhibitor activity	2	APLP2, APP
+heparin binding	2	APLP2, APP
+transition metal ion binding	2	APLP2, APP
+axonogenesis	2	APLP2, APP
+central nervous system development	2	APLP2, APP
+negative regulation of peptidase activity	2	APLP2, APP
+endoplasmic reticulum lumen	2	APLP2, APP
+membrane	2	APLP2, APP
+extracellular exosome	2	APLP2, APP
+endosome	2	APP, TJAP1
+Golgi apparatus	2	APP, TJAP1
+nervous system development	1	APBA2
+multicellular organism growth	1	APBA2
+presynaptic modulation of chemical synaptic transmission	1	APBA2
+Schaffer collateral - CA1 synapse	1	APBA2
+presynapse	1	APBA2
+enzyme inhibitor activity	1	APBA3
+negative regulation of catalytic activity	1	APBA3
+G protein-coupled receptor signaling pathway	1	APLP2
+nucleus	1	APLP2
+platelet alpha granule membrane	1	APLP2
+RNA polymerase II cis-regulatory region sequence-specific DNA binding	1	APP
+signaling receptor binding	1	APP
+peptidase activator activity	1	APP
+signaling receptor activator activity	1	APP
+receptor ligand activity	1	APP
+PTB domain binding	1	APP
+growth factor receptor binding	1	APP
+G2/M transition of mitotic cell cycle	1	APP
+microglial cell activation	1	APP
+ protein phosphorylation	1	APP
+suckling behavior	1	APP
+astrocyte activation involved in immune response	1	APP
+mRNA polyadenylation	1	APP
+ translation	1	APP
+protein phosphorylation	1	APP
+intracellular copper ion homeostasis	1	APP
+endocytosis	1	APP
+response to oxidative stress	1	APP
+cell adhesion	1	APP
+ epidermal growth factor-activated receptor activity	1	APP
+Notch signaling pathway	1	APP
+learning or memory	1	APP
+learning	1	APP
+mating behavior	1	APP
+axo-dendritic transport	1	APP
+cholesterol metabolic process	1	APP
+negative regulation of cell population proliferation	1	APP
+adult locomotory behavior	1	APP
+visual learning	1	APP
+response to lead ion	1	APP
+negative regulation of gene expression	1	APP
+ peptidyl-threonine phosphorylation	1	APP
+ G2/M transition of mitotic cell cycle	1	APP
+microglia development	1	APP
+axon midline choice point recognition	1	APP
+neuron remodeling	1	APP
+dendrite development	1	APP
+ Wnt signaling pathway	1	APP
+extracellular matrix organization	1	APP
+forebrain development	1	APP
+neuron projection development	1	APP
+ protein binding	1	APP
+ chemokine production	1	APP
+ interleukin-1 beta production	1	APP
+ interleukin-6 production	1	APP
+ tumor necrosis factor production	1	APP
+ peptidyl-serine phosphorylation	1	APP
+ionotropic glutamate receptor signaling pathway	1	APP
+ multicellular organism growth	1	APP
+ phosphorylation	1	APP
+negative regulation of neuron differentiation	1	APP
+ glycolytic process	1	APP
+ mitotic cell cycle	1	APP
+ transcription by RNA polymerase II	1	APP
+ JNK cascade	1	APP
+astrocyte activation	1	APP
+ long-term neuronal synaptic plasticity	1	APP
+collateral sprouting in absence of injury	1	APP
+ inflammatory response	1	APP
+ peptidyl-tyrosine phosphorylation	1	APP
+ synapse structure or activity	1	APP
+synapse organization	1	APP
+neuromuscular process controlling balance	1	APP
+cognition	1	APP
+ DNA-binding transcription factor activity	1	APP
+ NF-kappaB transcription factor activity	1	APP
+synaptic assembly at neuromuscular junction	1	APP
+ protein metabolic process	1	APP
+neuron apoptotic process	1	APP
+smooth endoplasmic reticulum calcium ion homeostasis	1	APP
+neuron cellular homeostasis	1	APP
+ ERK1 and ERK2 cascade	1	APP
+response to interleukin-1	1	APP
+cellular response to copper ion	1	APP
+cellular response to manganese ion	1	APP
+cellular response to cAMP	1	APP
+cellular response to norepinephrine stimulus	1	APP
+modulation of excitatory postsynaptic potential	1	APP
+ spontaneous synaptic transmission	1	APP
+negative regulation of long-term synaptic potentiation	1	APP
+ long-term synaptic potentiation	1	APP
+ NIK/NF-kappaB signaling	1	APP
+cellular response to amyloid-beta	1	APP
+negative regulation of low-density lipoprotein receptor activity	1	APP
+ presynapse assembly	1	APP
+ amyloid fibril formation	1	APP
+amyloid fibril formation	1	APP
+cellular response to nerve growth factor stimulus	1	APP
+neuron projection maintenance	1	APP
+ NMDA receptor activity	1	APP
+ T cell migration	1	APP
+extracellular region	1	APP
+extracellular space	1	APP
+nuclear envelope lumen	1	APP
+early endosome	1	APP
+endoplasmic reticulum	1	APP
+smooth endoplasmic reticulum	1	APP
+rough endoplasmic reticulum	1	APP
+Golgi lumen	1	APP
+Golgi-associated vesicle	1	APP
+cytosol	1	APP
+clathrin-coated pit	1	APP
+cell-cell junction	1	APP
+synaptic vesicle	1	APP
+cell surface	1	APP
+COPII-coated ER to Golgi transport vesicle	1	APP
+axon	1	APP
+platelet alpha granule lumen	1	APP
+neuromuscular junction	1	APP
+endosome lumen	1	APP
+trans-Golgi network membrane	1	APP
+ciliary rootlet	1	APP
+dendritic shaft	1	APP
+perikaryon	1	APP
+receptor complex	1	APP
+main axon	1	APP
+membrane raft	1	APP
+apical part of cell	1	APP
+synapse	1	APP
+presynaptic active zone	1	APP
+spindle midzone	1	APP
+recycling endosome	1	APP
+astrocyte projection	1	APP
+neuronal dense core vesicle	1	APP
+growth cone lamellipodium	1	APP
+growth cone filopodium	1	APP
+Golgi organization	1	TJAP1
+trans-Golgi network	1	TJAP1
+bicellular tight junction	1	TJAP1

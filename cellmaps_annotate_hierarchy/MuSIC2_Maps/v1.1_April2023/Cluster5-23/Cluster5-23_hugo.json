@@ -1,0 +1,746 @@
+{
+    "CDH2": {
+        "hgnc_id": "HGNC:1759",
+        "symbol": "CDH2",
+        "name": "cadherin 2",
+        "status": "Approved",
+        "locus_type": "gene with protein product",
+        "prev_symbol": [
+            "NCAD"
+        ],
+        "prev_name": [
+            "cadherin 2, type 1, N-cadherin (neuronal)"
+        ],
+        "alias_symbol": [
+            "CDHN",
+            "CD325"
+        ],
+        "alias_name": [
+            "N-cadherin"
+        ],
+        "location": "18q12.1",
+        "date_approved_reserved": "1991-09-13T00:00:00Z",
+        "date_modified": "2023-01-20T00:00:00Z",
+        "date_name_changed": "2016-01-15T00:00:00Z",
+        "ena": [
+            "S42303"
+        ],
+        "entrez_id": "1000",
+        "mgd_id": [
+            "MGI:88355"
+        ],
+        "cd": "CDw325",
+        "pubmed_id": [
+            2384753,
+            7731968,
+            2216790
+        ],
+        "refseq_accession": [
+            "NM_001792"
+        ],
+        "gene_group": [
+            "CD molecules",
+            "Type I classical cadherins"
+        ],
+        "vega_id": "OTTHUMG00000059940",
+        "ensembl_gene_id": "ENSG00000170558",
+        "ccds_id": [
+            "CCDS11891",
+            "CCDS77172"
+        ],
+        "locus_group": "protein-coding gene",
+        "omim_id": [
+            "114020"
+        ],
+        "uniprot_ids": [
+            "P19022"
+        ],
+        "ucsc_id": "uc002kwg.3",
+        "rgd_id": [
+            "RGD:69280"
+        ],
+        "gene_group_id": [
+            471,
+            1185
+        ],
+        "location_sortable": "18q12.1",
+        "agr": "HGNC:1759",
+        "symbol_report_tag": [
+            "Stable symbol"
+        ],
+        "mane_select": [
+            "ENST00000269141.8",
+            "NM_001792.5"
+        ],
+        "gencc": "HGNC:1759",
+        "uuid": "88ba3d46-47cb-42fe-99b5-310c121508af",
+        "_version_": 1764660392051605505
+    },
+    "CDH4": {
+        "hgnc_id": "HGNC:1763",
+        "symbol": "CDH4",
+        "name": "cadherin 4",
+        "status": "Approved",
+        "locus_type": "gene with protein product",
+        "prev_name": [
+            "cadherin 4, type 1, R-cadherin (retinal)"
+        ],
+        "alias_symbol": [
+            "R-CAD"
+        ],
+        "alias_name": [
+            "R-Cadherin"
+        ],
+        "location": "20q13.33",
+        "date_approved_reserved": "1995-08-11T00:00:00Z",
+        "date_modified": "2023-01-20T00:00:00Z",
+        "date_name_changed": "2016-01-15T00:00:00Z",
+        "ena": [
+            "L34059"
+        ],
+        "entrez_id": "1002",
+        "mgd_id": [
+            "MGI:99218"
+        ],
+        "pubmed_id": [
+            10191097,
+            10516427
+        ],
+        "refseq_accession": [
+            "NM_001794"
+        ],
+        "gene_group": [
+            "Type I classical cadherins"
+        ],
+        "vega_id": "OTTHUMG00000032890",
+        "ensembl_gene_id": "ENSG00000179242",
+        "ccds_id": [
+            "CCDS13488",
+            "CCDS58784"
+        ],
+        "locus_group": "protein-coding gene",
+        "omim_id": [
+            "603006"
+        ],
+        "uniprot_ids": [
+            "P55283"
+        ],
+        "ucsc_id": "uc032pok.1",
+        "rgd_id": [
+            "RGD:621091"
+        ],
+        "gene_group_id": [
+            1185
+        ],
+        "location_sortable": "20q13.33",
+        "agr": "HGNC:1763",
+        "symbol_report_tag": [
+            "Stable symbol"
+        ],
+        "mane_select": [
+            "ENST00000614565.5",
+            "NM_001794.5"
+        ],
+        "gencc": "HGNC:1763",
+        "uuid": "c878f54a-8965-47f4-81ef-5c6ca21153da",
+        "_version_": 1764660392053702656
+    },
+    "CDH8": {
+        "hgnc_id": "HGNC:1767",
+        "symbol": "CDH8",
+        "name": "cadherin 8",
+        "status": "Approved",
+        "locus_type": "gene with protein product",
+        "prev_name": [
+            "cadherin 8, type 2"
+        ],
+        "location": "16q21",
+        "date_approved_reserved": "1997-02-10T00:00:00Z",
+        "date_modified": "2023-01-20T00:00:00Z",
+        "date_name_changed": "2016-01-15T00:00:00Z",
+        "ena": [
+            "L34060"
+        ],
+        "entrez_id": "1006",
+        "mgd_id": [
+            "MGI:107434"
+        ],
+        "pubmed_id": [
+            9615235,
+            2059658
+        ],
+        "refseq_accession": [
+            "NM_001796"
+        ],
+        "gene_group": [
+            "Type II classical cadherins"
+        ],
+        "vega_id": "OTTHUMG00000137493",
+        "ensembl_gene_id": "ENSG00000150394",
+        "ccds_id": [
+            "CCDS10802",
+            "CCDS92168"
+        ],
+        "locus_group": "protein-coding gene",
+        "omim_id": [
+            "603008"
+        ],
+        "uniprot_ids": [
+            "P55286"
+        ],
+        "ucsc_id": "uc002eog.3",
+        "rgd_id": [
+            "RGD:69286"
+        ],
+        "gene_group_id": [
+            1186
+        ],
+        "location_sortable": "16q21",
+        "agr": "HGNC:1767",
+        "mane_select": [
+            "ENST00000577390.6",
+            "NM_001796.5"
+        ],
+        "uuid": "cff4ab59-b536-4a83-81e4-a61af36326b9",
+        "_version_": 1764660392055799808
+    },
+    "CTNNA1": {
+        "hgnc_id": "HGNC:2509",
+        "symbol": "CTNNA1",
+        "name": "catenin alpha 1",
+        "status": "Approved",
+        "locus_type": "gene with protein product",
+        "prev_name": [
+            "catenin (cadherin-associated protein), alpha 1 (102kD)"
+        ],
+        "alias_symbol": [
+            "CAP102"
+        ],
+        "alias_name": [
+            "alpha-E-catenin"
+        ],
+        "location": "5q31.2",
+        "date_approved_reserved": "1993-07-13T00:00:00Z",
+        "date_modified": "2023-01-20T00:00:00Z",
+        "date_name_changed": "2015-11-19T00:00:00Z",
+        "ena": [
+            "D13866"
+        ],
+        "entrez_id": "1495",
+        "mgd_id": [
+            "MGI:88274"
+        ],
+        "orphanet": 436845,
+        "pubmed_id": [
+            1924379
+        ],
+        "refseq_accession": [
+            "NM_001903"
+        ],
+        "gene_group": [
+            "Alpha catenins"
+        ],
+        "vega_id": "OTTHUMG00000163502",
+        "ensembl_gene_id": "ENSG00000044115",
+        "ccds_id": [
+            "CCDS78064",
+            "CCDS75315",
+            "CCDS34243"
+        ],
+        "locus_group": "protein-coding gene",
+        "omim_id": [
+            "116805"
+        ],
+        "uniprot_ids": [
+            "P35221"
+        ],
+        "ucsc_id": "uc003ldh.4",
+        "rgd_id": [
+            "RGD:1359485"
+        ],
+        "gene_group_id": [
+            1543
+        ],
+        "location_sortable": "05q31.2",
+        "agr": "HGNC:2509",
+        "symbol_report_tag": [
+            "Stable symbol"
+        ],
+        "mane_select": [
+            "ENST00000302763.12",
+            "NM_001903.5"
+        ],
+        "gencc": "HGNC:2509",
+        "uuid": "2e1145e5-e73b-4a2e-b27a-ebf457699d9b",
+        "_version_": 1764660394541973504
+    },
+    "CTNNB1": {
+        "hgnc_id": "HGNC:2514",
+        "symbol": "CTNNB1",
+        "name": "catenin beta 1",
+        "status": "Approved",
+        "locus_type": "gene with protein product",
+        "prev_symbol": [
+            "CTNNB"
+        ],
+        "prev_name": [
+            "catenin (cadherin-associated protein), beta 1 (88kD)",
+            "catenin (cadherin-associated protein), beta 1, 88kDa",
+            "catenin (cadherin-associated protein), beta 1"
+        ],
+        "alias_symbol": [
+            "beta-catenin",
+            "armadillo"
+        ],
+        "location": "3p22.1",
+        "date_approved_reserved": "1993-07-13T00:00:00Z",
+        "date_modified": "2023-01-20T00:00:00Z",
+        "date_name_changed": "2015-11-19T00:00:00Z",
+        "ena": [
+            "X87838"
+        ],
+        "entrez_id": "1499",
+        "mgd_id": [
+            "MGI:88276"
+        ],
+        "iuphar": "ligandId:5371",
+        "cosmic": "CTNNB1",
+        "orphanet": 120881,
+        "pubmed_id": [
+            7829088
+        ],
+        "refseq_accession": [
+            "NM_001098210"
+        ],
+        "gene_group": [
+            "Armadillo repeat containing",
+            "Beta catenins",
+            "Wnt enhanceosome complex"
+        ],
+        "vega_id": "OTTHUMG00000131393",
+        "lsdb": [
+            "LRG_1108|http://ftp.ebi.ac.uk/pub/databases/lrgex/LRG_1108.xml"
+        ],
+        "ensembl_gene_id": "ENSG00000168036",
+        "ccds_id": [
+            "CCDS2694",
+            "CCDS87067"
+        ],
+        "locus_group": "protein-coding gene",
+        "omim_id": [
+            "116806"
+        ],
+        "uniprot_ids": [
+            "P35222"
+        ],
+        "ucsc_id": "uc010hia.2",
+        "rgd_id": [
+            "RGD:70487"
+        ],
+        "gene_group_id": [
+            409,
+            1542,
+            1677
+        ],
+        "location_sortable": "03p22.1",
+        "agr": "HGNC:2514",
+        "symbol_report_tag": [
+            "Stable symbol"
+        ],
+        "mane_select": [
+            "ENST00000349496.11",
+            "NM_001904.4"
+        ],
+        "gencc": "HGNC:2514",
+        "uuid": "90f110be-a33c-4c8a-8b1d-b4e5ef969848",
+        "_version_": 1764660394545119233
+    },
+    "EPB41L2": {
+        "hgnc_id": "HGNC:3379",
+        "symbol": "EPB41L2",
+        "name": "erythrocyte membrane protein band 4.1 like 2",
+        "status": "Approved",
+        "locus_type": "gene with protein product",
+        "alias_symbol": [
+            "4.1-G",
+            "4.1G"
+        ],
+        "location": "6q23.1-q23.2",
+        "date_approved_reserved": "1998-06-04T00:00:00Z",
+        "date_modified": "2023-01-20T00:00:00Z",
+        "date_name_changed": "2016-04-01T00:00:00Z",
+        "ena": [
+            "AF027299"
+        ],
+        "entrez_id": "2037",
+        "mgd_id": [
+            "MGI:103009"
+        ],
+        "pubmed_id": [
+            9598318,
+            9828140
+        ],
+        "refseq_accession": [
+            "NM_001135554"
+        ],
+        "gene_group": [
+            "Erythrocyte membrane protein band 4.1",
+            "FERM domain containing"
+        ],
+        "vega_id": "OTTHUMG00000015560",
+        "ensembl_gene_id": "ENSG00000079819",
+        "ccds_id": [
+            "CCDS94000",
+            "CCDS59037",
+            "CCDS87439",
+            "CCDS47474",
+            "CCDS5141",
+            "CCDS56450",
+            "CCDS87440"
+        ],
+        "locus_group": "protein-coding gene",
+        "omim_id": [
+            "603237"
+        ],
+        "uniprot_ids": [
+            "O43491"
+        ],
+        "ucsc_id": "uc003qch.3",
+        "rgd_id": [
+            "RGD:1563977"
+        ],
+        "gene_group_id": [
+            951,
+            1293
+        ],
+        "location_sortable": "06q23.1-q23.2",
+        "agr": "HGNC:3379",
+        "mane_select": [
+            "ENST00000337057.8",
+            "NM_001431.4"
+        ],
+        "uuid": "65507047-a94c-4dc3-b56e-a457e041fcbd",
+        "_version_": 1764660395742593025
+    },
+    "PCDH7": {
+        "hgnc_id": "HGNC:8659",
+        "symbol": "PCDH7",
+        "name": "protocadherin 7",
+        "status": "Approved",
+        "locus_type": "gene with protein product",
+        "prev_name": [
+            "BH-protocadherin (brain-heart)"
+        ],
+        "alias_symbol": [
+            "BH-Pcdh",
+            "PPP1R120"
+        ],
+        "alias_name": [
+            "protein phosphatase 1, regulatory subunit 120"
+        ],
+        "location": "4p15.1",
+        "date_approved_reserved": "1997-10-30T00:00:00Z",
+        "date_modified": "2023-03-15T00:00:00Z",
+        "date_name_changed": "2007-02-12T00:00:00Z",
+        "ena": [
+            "AB006755"
+        ],
+        "entrez_id": "5099",
+        "mgd_id": [
+            "MGI:1860487"
+        ],
+        "pubmed_id": [
+            9615233
+        ],
+        "refseq_accession": [
+            "NM_032457",
+            "NM_002589"
+        ],
+        "gene_group": [
+            "Non-clustered protocadherins",
+            "Protein phosphatase 1 regulatory subunits"
+        ],
+        "vega_id": "OTTHUMG00000160364",
+        "ensembl_gene_id": "ENSG00000169851",
+        "ccds_id": [
+            "CCDS93490",
+            "CCDS33971"
+        ],
+        "locus_group": "protein-coding gene",
+        "omim_id": [
+            "602988"
+        ],
+        "uniprot_ids": [
+            "O60245"
+        ],
+        "ucsc_id": "uc003gsk.2",
+        "rgd_id": [
+            "RGD:1303209"
+        ],
+        "gene_group_id": [
+            21,
+            694
+        ],
+        "location_sortable": "04p15.1",
+        "agr": "HGNC:8659",
+        "mane_select": [
+            "ENST00000695919.1",
+            "NM_001173523.2"
+        ],
+        "uuid": "fbead2f1-2261-4ad3-aef1-a689734d1de3",
+        "_version_": 1764660409171705857
+    },
+    "PCDHA1": {
+        "hgnc_id": "HGNC:8663",
+        "symbol": "PCDHA1",
+        "name": "protocadherin alpha 1",
+        "status": "Approved",
+        "locus_type": "complex locus constituent",
+        "alias_name": [
+            "KIAA0345-like 13"
+        ],
+        "location": "5q31.3",
+        "date_approved_reserved": "2000-06-28T00:00:00Z",
+        "date_modified": "2023-03-15T00:00:00Z",
+        "ena": [
+            "AF152479"
+        ],
+        "entrez_id": "56147",
+        "mgd_id": [
+            "MGI:2150982"
+        ],
+        "pubmed_id": [
+            10380929
+        ],
+        "refseq_accession": [
+            "NM_018900"
+        ],
+        "gene_group": [
+            "Clustered protocadherins"
+        ],
+        "vega_id": "OTTHUMG00000163368",
+        "ensembl_gene_id": "ENSG00000204970",
+        "ccds_id": [
+            "CCDS54913",
+            "CCDS54912"
+        ],
+        "locus_group": "other",
+        "omim_id": [
+            "606307"
+        ],
+        "uniprot_ids": [
+            "Q9Y5I3"
+        ],
+        "ucsc_id": "uc003lhb.4",
+        "rgd_id": [
+            "RGD:735016"
+        ],
+        "gene_group_id": [
+            20
+        ],
+        "location_sortable": "05q31.3",
+        "agr": "HGNC:8663",
+        "mane_select": [
+            "ENST00000504120.4",
+            "NM_018900.4"
+        ],
+        "uuid": "542a57ca-2301-4933-8492-5f64ba7db59b",
+        "_version_": 1764660409181143040
+    },
+    "PKP4": {
+        "hgnc_id": "HGNC:9026",
+        "symbol": "PKP4",
+        "name": "plakophilin 4",
+        "status": "Approved",
+        "locus_type": "gene with protein product",
+        "alias_symbol": [
+            "p0071"
+        ],
+        "location": "2q24.1",
+        "date_approved_reserved": "1998-10-14T00:00:00Z",
+        "date_modified": "2023-01-20T00:00:00Z",
+        "ena": [
+            "X81889"
+        ],
+        "entrez_id": "8502",
+        "mgd_id": [
+            "MGI:109281"
+        ],
+        "pubmed_id": [
+            9342840,
+            8937994
+        ],
+        "refseq_accession": [
+            "NM_001005476"
+        ],
+        "gene_group": [
+            "Armadillo repeat containing",
+            "p120 catenin family"
+        ],
+        "vega_id": "OTTHUMG00000153969",
+        "ensembl_gene_id": "ENSG00000144283",
+        "ccds_id": [
+            "CCDS33306",
+            "CCDS33305"
+        ],
+        "locus_group": "protein-coding gene",
+        "omim_id": [
+            "604276"
+        ],
+        "uniprot_ids": [
+            "Q99569"
+        ],
+        "ucsc_id": "uc002tzv.4",
+        "rgd_id": [
+            "RGD:1307840"
+        ],
+        "gene_group_id": [
+            409,
+            1539
+        ],
+        "location_sortable": "02q24.1",
+        "agr": "HGNC:9026",
+        "mane_select": [
+            "ENST00000389759.8",
+            "NM_003628.6"
+        ],
+        "uuid": "d06a683c-4ec0-4ac9-8d72-a78523330688",
+        "_version_": 1764660409616302082
+    },
+    "SPECC1": {
+        "hgnc_id": "HGNC:30615",
+        "symbol": "SPECC1",
+        "name": "sperm antigen with calponin homology and coiled-coil domains 1",
+        "status": "Approved",
+        "locus_type": "gene with protein product",
+        "prev_symbol": [
+            "CYTSB"
+        ],
+        "prev_name": [
+            "cytospin B"
+        ],
+        "alias_symbol": [
+            "HCMOGT-1",
+            "FLJ36955",
+            "NSP"
+        ],
+        "alias_name": [
+            "sperm antigen HCMOGT 1",
+            "cytokinesis and spindle organization B"
+        ],
+        "location": "17p11.2",
+        "date_approved_reserved": "2005-05-25T00:00:00Z",
+        "date_modified": "2023-01-20T00:00:00Z",
+        "date_name_changed": "2010-09-17T00:00:00Z",
+        "ena": [
+            "AY816329",
+            "AB041533"
+        ],
+        "entrez_id": "92521",
+        "mgd_id": [
+            "MGI:2442356"
+        ],
+        "pubmed_id": [
+            15602574,
+            18763323,
+            15087372
+        ],
+        "refseq_accession": [
+            "NM_152904"
+        ],
+        "date_symbol_changed": "2010-09-17T00:00:00Z",
+        "vega_id": "OTTHUMG00000179808",
+        "ensembl_gene_id": "ENSG00000128487",
+        "ccds_id": [
+            "CCDS42281",
+            "CCDS45628",
+            "CCDS92274",
+            "CCDS92275",
+            "CCDS32590",
+            "CCDS92276",
+            "CCDS58531",
+            "CCDS42280",
+            "CCDS92278",
+            "CCDS92277",
+            "CCDS92279"
+        ],
+        "locus_group": "protein-coding gene",
+        "omim_id": [
+            "608793"
+        ],
+        "uniprot_ids": [
+            "Q5M775"
+        ],
+        "ucsc_id": "uc002gwq.4",
+        "rgd_id": [
+            "RGD:1309718"
+        ],
+        "location_sortable": "17p11.2",
+        "agr": "HGNC:30615",
+        "mane_select": [
+            "ENST00000395527.9",
+            "NM_001243439.2"
+        ],
+        "uuid": "a9e9ce01-9228-4a16-8c2e-bfa9754cf766",
+        "_version_": 1764660416872448000
+    },
+    "TMTC4": {
+        "hgnc_id": "HGNC:25904",
+        "symbol": "TMTC4",
+        "name": "transmembrane O-mannosyltransferase targeting cadherins 4",
+        "status": "Approved",
+        "locus_type": "gene with protein product",
+        "prev_name": [
+            "transmembrane and tetratricopeptide repeat containing 4"
+        ],
+        "alias_symbol": [
+            "FLJ14624",
+            "FLJ22153"
+        ],
+        "location": "13q32.3",
+        "date_approved_reserved": "2006-01-06T00:00:00Z",
+        "date_modified": "2023-01-20T00:00:00Z",
+        "date_name_changed": "2019-06-06T00:00:00Z",
+        "entrez_id": "84899",
+        "mgd_id": [
+            "MGI:1921050"
+        ],
+        "refseq_accession": [
+            "NM_032813"
+        ],
+        "gene_group": [
+            "Tetratricopeptide repeat domain containing",
+            "Transmembrane and tetratricopeptide repeat containing"
+        ],
+        "vega_id": "OTTHUMG00000017289",
+        "ensembl_gene_id": "ENSG00000125247",
+        "ccds_id": [
+            "CCDS41904",
+            "CCDS9497",
+            "CCDS66575"
+        ],
+        "locus_group": "protein-coding gene",
+        "omim_id": [
+            "618203"
+        ],
+        "uniprot_ids": [
+            "Q5T4D3"
+        ],
+        "ucsc_id": "uc001vou.5",
+        "rgd_id": [
+            "RGD:1560183"
+        ],
+        "gene_group_id": [
+            769,
+            1918
+        ],
+        "location_sortable": "13q32.3",
+        "agr": "HGNC:25904",
+        "mane_select": [
+            "ENST00000342624.10",
+            "NM_032813.5"
+        ],
+        "uuid": "e9203b6d-a627-46e0-b549-5254ecc62592",
+        "_version_": 1764660419415244800
+    }
+}

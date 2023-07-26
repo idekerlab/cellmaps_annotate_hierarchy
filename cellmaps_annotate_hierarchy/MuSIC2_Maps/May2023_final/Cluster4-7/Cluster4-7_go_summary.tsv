@@ -1,0 +1,226 @@
+Feature	Number of Genes	Genes
+protein binding	27	CRELD1, GSTM3, TTK, RPL28, EIF4G1, NFU1, PSRC1, RPL26L1, EME1, SERBP1, RPL26, LARP4, HUWE1, RPL10A, RPL17, RBM4B, YBX3, RPS14, RPL37A, RPL13, RPL14, RPL18, RPL30, RPL5, RPS10, RPS11, RPS8
+cytosol	25	GSTM3, RPL35, RPL28, RPL10L, EIF4G1, NFU1, PSRC1, SERBP1, RPL26, LARP4, HUWE1, RPL10A, RPL17, RBM4B, YBX3, RPS14, RPL37A, RPL13, RPL14, RPL18, RPL30, RPL5, RPS10, RPS11, RPS8
+cytoplasm	22	GSTM3, TTK, RPL35, RPL28, EIF4G1, PSRC1, SERBP1, RPL26, HUWE1, RPL10A, RPL17, YBX3, RPS14, RPL37A, RPL13, RPL14, RPL18, RPL30, RPL5, RPS10, RPS11, RPS8
+RNA binding	22	RPL35, RPL28, EIF4G1, RPL26L1, SERBP1, RPL26, LARP4, HUWE1, RPL10A, RPL17, RBM4B, YBX3, RPS14, RPL37A, RPL13, RPL14, RPL18, RPL30, RPL5, RPS10, RPS11, RPS8
+membrane	20	CRELD1, TTK, RPL35, RPL28, RPL10L, EIF4G1, SERBP1, RPL26, LARP4, HUWE1, RPL10A, RPS14, RPL13, RPL14, RPL18, RPL30, RPL5, RPS10, RPS11, RPS8
+translation	18	RPL35, RPL28, RPL10L, EIF4G1, RPL26, LARP4, RPL10A, RPL17, RPS14, RPL37A, RPL13, RPL14, RPL18, RPL30, RPL5, RPS10, RPS11, RPS8
+structural constituent of ribosome	17	RPL35, RPL28, RPL10L, RPL26L1, RPL26, RPL10A, RPL17, RPS14, RPL37A, RPL13, RPL14, RPL18, RPL30, RPL5, RPS10, RPS11, RPS8
+nucleus	16	GSTM3, TTK, RPL10L, EIF4G1, NFU1, SERBP1, HUWE1, RPL10A, RPL17, YBX3, RPL37A, RPL13, RPL18, RPL30, RPL5, RPS8
+cytoplasmic translation	16	RPL35, RPL28, RPL26L1, RPL26, RPL10A, RPL17, RPS14, RPL37A, RPL13, RPL14, RPL18, RPL30, RPL5, RPS10, RPS11, RPS8
+cytosolic ribosome	15	RPL35, RPL28, RPL26, RPL10A, RPL17, RPS14, RPL37A, RPL13, RPL14, RPL18, RPL30, RPL5, RPS10, RPS11, RPS8
+extracellular exosome	14	GSTM3, RPL28, RPL26L1, SERBP1, RPL26, HUWE1, RPL10A, RPS14, RPL37A, RPL14, RPL30, RPL5, RPS11, RPS8
+cytosolic large ribosomal subunit	13	RPL35, RPL28, RPL10L, RPL26L1, RPL26, RPL10A, RPL17, RPL37A, RPL13, RPL14, RPL18, RPL30, RPL5
+nucleolus	11	RPL35, EME1, RPL26, RBM4B, RPS14, RPL13, RPL18, RPL5, RPS10, RPS11, RPS8
+nucleoplasm	11	NFU1, PSRC1, EME1, RPL26, HUWE1, RBM4B, RPS14, RPL5, RPS10, RPS11, RPS8
+focal adhesion	9	RPL10A, RPS14, RPL37A, RPL18, RPL30, RPL5, RPS10, RPS11, RPS8
+synapse	6	RPL28, RPL26, YBX3, RPL37A, RPL13, RPS11
+endoplasmic reticulum	5	RPL10L, RPL13, RPL18, RPL5, RPS8
+ translation	5	RPL26, LARP4, RBM4B, RPS14, RPL5
+ribosomal large subunit biogenesis	4	RPL26L1, RPL26, RPL14, RPL5
+mRNA 3'-UTR binding	4	SERBP1, LARP4, YBX3, RPL5
+cytosolic small ribosomal subunit	4	RPS14, RPS10, RPS11, RPS8
+identical protein binding	3	GSTM3, TTK, EIF4G1
+ribosome	3	RPL10L, RPS10, RPS11
+mRNA 5'-UTR binding	3	RPL26, RPS14, RPL5
+rRNA processing	3	RPL26, RPL14, RPL5
+ribonucleoprotein complex	3	RPL26, RPL5, RPS8
+polysomal ribosome	3	RPL10A, RPL18, RPL30
+ gene expression	3	RBM4B, YBX3, RPL5
+ribosomal small subunit biogenesis	3	RPS14, RPS11, RPS8
+postsynaptic density	3	RPS14, RPL14, RPL30
+small-subunit processome	3	RPS14, RPS11, RPS8
+ATP binding	2	TTK, EIF4G1
+spindle	2	TTK, PSRC1
+mRNA binding	2	RPL35, EIF4G1
+ribosomal large subunit assembly	2	RPL10L, RPL5
+spermatogenesis	2	RPL10L, YBX3
+cell differentiation	2	RPL10L, HUWE1
+polysome	2	RPL10L, EIF4G1
+cytoplasmic stress granule	2	EIF4G1, LARP4
+mitochondrion	2	NFU1, HUWE1
+DNA binding	2	EME1, HUWE1
+metal ion binding	2	EME1, RPL37A
+cadherin binding	2	SERBP1, RPL14
+perinuclear region of cytoplasm	2	SERBP1, YBX3
+circadian regulation of gene expression	2	HUWE1, RBM4B
+protein-containing complex	2	RBM4B, RPL5
+negative regulation of transcription by RNA polymerase II	2	YBX3, RPS14
+maturation of SSU-rRNA from tricistronic rRNA transcript (SSU-rRNA, 5.8S rRNA, LSU-rRNA)	2	RPS14, RPS8
+protein disulfide isomerase activity	1	CRELD1
+extracellular matrix structural constituent	1	CRELD1
+calcium ion binding	1	CRELD1
+endocardial cushion development	1	CRELD1
+cardiac septum development	1	CRELD1
+collagen-containing extracellular matrix	1	CRELD1
+glutathione transferase activity	1	GSTM3
+enzyme binding	1	GSTM3
+protein homodimerization activity	1	GSTM3
+glutathione binding	1	GSTM3
+glutathione metabolic process	1	GSTM3
+establishment of blood-nerve barrier	1	GSTM3
+nitrobenzene metabolic process	1	GSTM3
+xenobiotic catabolic process	1	GSTM3
+response to estrogen	1	GSTM3
+cellular detoxification of nitrogen compound	1	GSTM3
+sperm fibrous sheath	1	GSTM3
+intercellular bridge	1	GSTM3
+protein serine/threonine kinase activity	1	TTK
+protein serine/threonine/tyrosine kinase activity	1	TTK
+protein tyrosine kinase activity	1	TTK
+kinetochore binding	1	TTK
+protein serine kinase activity	1	TTK
+spindle organization	1	TTK
+mitotic spindle organization	1	TTK
+chromosome segregation	1	TTK
+mitotic spindle assembly checkpoint signaling	1	TTK
+ cell population proliferation	1	TTK
+ pathway-restricted SMAD protein phosphorylation	1	TTK
+female meiosis chromosome segregation	1	TTK
+peptidyl-serine phosphorylation	1	TTK
+peptidyl-threonine phosphorylation	1	TTK
+peptidyl-tyrosine phosphorylation	1	TTK
+meiotic spindle assembly checkpoint signaling	1	TTK
+protein localization to kinetochore	1	TTK
+protein autophosphorylation	1	TTK
+protein localization to meiotic spindle midzone	1	TTK
+kinetochore	1	TTK
+maturation of LSU-rRNA from tricistronic rRNA transcript (SSU-rRNA, 5.8S rRNA, LSU-rRNA)	1	RPL35
+dendrite	1	RPL28
+cytoplasmic ribonucleoprotein granule	1	RPL28
+cell body	1	RPL28
+male meiosis I	1	RPL10L
+translation initiation factor activity	1	EIF4G1
+translation factor activity, RNA binding	1	EIF4G1
+eukaryotic initiation factor 4E binding	1	EIF4G1
+translation initiation factor binding	1	EIF4G1
+molecular adaptor activity	1	EIF4G1
+behavioral fear response	1	EIF4G1
+cap-dependent translational initiation	1	EIF4G1
+translational initiation	1	EIF4G1
+ translational initiation	1	EIF4G1
+macromolecule biosynthetic process	1	EIF4G1
+negative regulation of autophagy	1	EIF4G1
+negative regulation of peptidyl-threonine phosphorylation	1	EIF4G1
+ cell death	1	EIF4G1
+neuron differentiation	1	EIF4G1
+ cell growth	1	EIF4G1
+lung development	1	EIF4G1
+cellular response to nutrient levels	1	EIF4G1
+ peptidyl-serine phosphorylation	1	EIF4G1
+miRNA-mediated gene silencing by inhibition of translation	1	EIF4G1
+ translation in response to endoplasmic reticulum stress	1	EIF4G1
+response to ethanol	1	EIF4G1
+ neuron differentiation	1	EIF4G1
+ protein metabolic process	1	EIF4G1
+ miRNA-mediated gene silencing	1	EIF4G1
+ cellular response to stress	1	EIF4G1
+energy homeostasis	1	EIF4G1
+ G1/S transition of mitotic cell cycle	1	EIF4G1
+negative regulation of neuron death	1	EIF4G1
+ eukaryotic translation initiation factor 4F complex assembly	1	EIF4G1
+ presynapse assembly	1	EIF4G1
+ mRNA cap binding	1	EIF4G1
+ polysome binding	1	EIF4G1
+eukaryotic translation initiation factor 4F complex	1	EIF4G1
+postsynapse	1	EIF4G1
+iron ion binding	1	NFU1
+4 iron, 4 sulfur cluster binding	1	NFU1
+iron-sulfur cluster assembly	1	NFU1
+microtubule binding	1	PSRC1
+microtubule bundle formation	1	PSRC1
+mitotic metaphase plate congression	1	PSRC1
+negative regulation of cell growth	1	PSRC1
+ microtubule polymerization	1	PSRC1
+ cyclin-dependent protein serine/threonine kinase activity	1	PSRC1
+ DNA-templated transcription	1	PSRC1
+cell division	1	PSRC1
+ mitotic spindle organization	1	PSRC1
+spindle pole	1	PSRC1
+spindle microtubule	1	PSRC1
+microtubule cytoskeleton	1	PSRC1
+midbody	1	PSRC1
+crossover junction DNA endonuclease activity	1	EME1
+resolution of meiotic recombination intermediates	1	EME1
+double-strand break repair	1	EME1
+replication fork processing	1	EME1
+mitotic intra-S DNA damage checkpoint signaling	1	EME1
+response to intra-S DNA damage checkpoint signaling	1	EME1
+heterochromatin	1	EME1
+nuclear replication fork	1	EME1
+Holliday junction resolvase complex	1	EME1
+endodeoxyribonuclease complex	1	EME1
+translation repressor activity	1	SERBP1
+SUMO binding	1	SERBP1
+ribosome binding	1	SERBP1
+negative regulation of translation	1	SERBP1
+PML body organization	1	SERBP1
+ mRNA stability	1	SERBP1
+DNA damage response, signal transduction by p53 class mediator resulting in cell cycle arrest	1	RPL26
+cellular response to UV	1	RPL26
+cellular response to gamma radiation	1	RPL26
+ DNA damage response, signal transduction by p53 class mediator resulting in transcription of p21 class mediator	1	RPL26
+ intrinsic apoptotic signaling pathway in response to DNA damage by p53 class mediator	1	RPL26
+ translation involved in cellular response to UV	1	RPL26
+poly(A) binding	1	LARP4
+cytoskeleton organization	1	LARP4
+post-transcriptional regulation of gene expression	1	LARP4
+ cell morphogenesis	1	LARP4
+ubiquitin-protein transferase activity	1	HUWE1
+ubiquitin protein ligase activity	1	HUWE1
+histone ubiquitin ligase activity	1	HUWE1
+protein polyubiquitination	1	HUWE1
+base-excision repair	1	HUWE1
+chromatin remodeling	1	HUWE1
+protein monoubiquitination	1	HUWE1
+negative regulation of mitochondrial fusion	1	HUWE1
+ protein ubiquitination	1	HUWE1
+ mitophagy in response to mitochondrial depolarization	1	HUWE1
+ protein targeting to mitochondrion	1	HUWE1
+extracellular region	1	HUWE1
+secretory granule lumen	1	HUWE1
+ficolin-1-rich granule lumen	1	HUWE1
+zinc ion binding	1	RBM4B
+mRNA splicing, via spliceosome	1	RBM4B
+circadian rhythm	1	RBM4B
+entrainment of circadian clock by photoperiod	1	RBM4B
+nuclear speck	1	RBM4B
+RNA polymerase II transcription regulatory region sequence-specific DNA binding	1	YBX3
+nucleic acid binding	1	YBX3
+small GTPase binding	1	YBX3
+polysome binding	1	YBX3
+in utero embryonic development	1	YBX3
+apoptotic process	1	YBX3
+male gonad development	1	YBX3
+fertilization	1	YBX3
+ectopic germ cell programmed cell death	1	YBX3
+ organ growth	1	YBX3
+negative regulation of skeletal muscle tissue development	1	YBX3
+negative regulation of necroptotic process	1	YBX3
+3'-UTR-mediated mRNA stabilization	1	YBX3
+cellular response to tumor necrosis factor	1	YBX3
+cellular hyperosmotic response	1	YBX3
+negative regulation of intrinsic apoptotic signaling pathway in response to osmotic stress	1	YBX3
+negative regulation of reproductive process	1	YBX3
+ cytoplasmic translation	1	YBX3
+bicellular tight junction	1	YBX3
+translation regulator activity	1	RPS14
+small ribosomal subunit rRNA binding	1	RPS14
+ribosomal small subunit assembly	1	RPS14
+erythrocyte differentiation	1	RPS14
+maturation of SSU-rRNA	1	RPS14
+blastocyst development	1	RPL13
+bone development	1	RPL13
+rough endoplasmic reticulum	1	RPL18
+killing of cells of another organism	1	RPL30
+defense response to Gram-negative bacterium	1	RPL30
+antimicrobial humoral immune response mediated by antimicrobial peptide	1	RPL30
+5S rRNA binding	1	RPL5
+ubiquitin protein ligase binding	1	RPL5
+ubiquitin ligase inhibitor activity	1	RPL5
+protein stabilization	1	RPL5
+ signal transduction by p53 class mediator	1	RPL5
+negative regulation of ubiquitin protein ligase activity	1	RPL5
+negative regulation of ubiquitin-dependent protein catabolic process	1	RPL5
+negative regulation of protein neddylation	1	RPL5
+rRNA binding	1	RPS11

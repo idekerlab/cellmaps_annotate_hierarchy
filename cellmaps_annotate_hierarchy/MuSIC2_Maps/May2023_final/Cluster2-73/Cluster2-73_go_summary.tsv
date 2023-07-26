@@ -1,0 +1,40 @@
+Feature	Number of Genes	Genes
+calcium ion binding	2	CDH24, PCDHAC2
+homophilic cell adhesion via plasma membrane adhesion molecules	2	CDH24, PCDHAC2
+plasma membrane	2	CDH24, PCDHAC2
+cadherin binding	1	CDH24
+cell morphogenesis	1	CDH24
+cell-cell junction assembly	1	CDH24
+multicellular organism development	1	CDH24
+calcium-dependent cell-cell adhesion via plasma membrane cell adhesion molecules	1	CDH24
+adherens junction organization	1	CDH24
+cell-cell adhesion mediated by cadherin	1	CDH24
+cell-cell adhesion	1	CDH24
+cell-cell junction	1	CDH24
+adherens junction	1	CDH24
+catenin complex	1	CDH24
+aminoacyl-tRNA editing activity	1	LARS2
+leucine-tRNA ligase activity	1	LARS2
+ATP binding	1	LARS2
+tRNA aminoacylation for protein translation	1	LARS2
+leucyl-tRNA aminoacylation	1	LARS2
+mitochondrial translation	1	LARS2
+aminoacyl-tRNA metabolism involved in translational fidelity	1	LARS2
+mitochondrion	1	LARS2
+mitochondrial matrix	1	LARS2
+cell adhesion	1	PCDHAC2
+nervous system development	1	PCDHAC2
+GTPase inhibitor activity	1	RTKN
+protein binding	1	RTKN
+GTP binding	1	RTKN
+small GTPase binding	1	RTKN
+mitotic cytokinesis	1	RTKN
+actomyosin contractile ring assembly	1	RTKN
+apoptotic process	1	RTKN
+signal transduction	1	RTKN
+Rho protein signal transduction	1	RTKN
+septin ring organization	1	RTKN
+ apoptotic process	1	RTKN
+cellular_component	1	RTKN
+actomyosin contractile ring	1	RTKN
+cytosol	1	RTKN

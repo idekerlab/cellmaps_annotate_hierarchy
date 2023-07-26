@@ -1,0 +1,51 @@
+Feature	Number of Genes	Genes
+protein binding	8	GTF3C4, ZNF688, CENPH, CENPI, CENPO, CENPQ, CENPT, ITGB3BP
+nucleoplasm	8	GTF3C4, CENPH, CENPI, CENPO, CENPQ, CENPT, ITGB3BP, CENPN
+cytosol	7	CENPH, CENPI, CENPO, CENPQ, CENPT, ITGB3BP, CENPN
+kinetochore	5	CENPH, CENPI, CENPT, ITGB3BP, CENPN
+nucleus	4	ZNF688, CENPH, CENPQ, ITGB3BP
+DNA binding	3	GTF3C4, ZNF688, CENPT
+chromosome segregation	3	CENPH, CENPT, CENPN
+CENP-A containing chromatin assembly	3	CENPI, ITGB3BP, CENPN
+nuclear body	3	CENPI, CENPO, CENPT
+ DNA-templated transcription	2	ZNF688, ITGB3BP
+kinetochore assembly	2	CENPH, CENPT
+chromosome, centromeric region	2	CENPQ, CENPT
+cell division	2	CENPT, ITGB3BP
+RNA polymerase III general transcription initiation factor activity	1	GTF3C4
+histone acetyltransferase activity	1	GTF3C4
+enzyme activator activity	1	GTF3C4
+chromatin remodeling	1	GTF3C4
+transcription by RNA polymerase III	1	GTF3C4
+transcription initiation at RNA polymerase III promoter	1	GTF3C4
+5S class rRNA transcription by RNA polymerase III	1	GTF3C4
+tRNA transcription by RNA polymerase III	1	GTF3C4
+transcription factor TFIIIC complex	1	GTF3C4
+mitochondrion	1	GTF3C4
+molecular_function	1	ZNF688
+metal ion binding	1	ZNF688
+biological_process	1	ZNF688
+cellular_component	1	ZNF688
+kinetochore binding	1	CENPH
+mitotic spindle organization	1	CENPH
+kinetochore organization	1	CENPH
+chromosome	1	CENPH
+nucleolus	1	CENPH
+mitotic sister chromatid segregation	1	CENPI
+sex differentiation	1	CENPI
+inner kinetochore	1	CENPI
+centromere complex assembly	1	CENPO
+Mis6-Sim4 complex	1	CENPO
+metaphase plate congression	1	CENPQ
+ protein localization to kinetochore	1	CENPQ
+actin cytoskeleton	1	CENPQ
+protein heterodimerization activity	1	CENPT
+mitotic cell cycle	1	CENPT
+chromosome organization	1	CENPT
+oxidoreductase activity	1	DHRS12
+apoptotic process	1	ITGB3BP
+cell cycle	1	ITGB3BP
+cell adhesion	1	ITGB3BP
+signal transduction	1	ITGB3BP
+cytoplasm	1	ITGB3BP
+membrane	1	ITGB3BP

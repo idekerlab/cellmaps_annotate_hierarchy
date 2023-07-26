@@ -1,0 +1,40 @@
+Feature	Number of Genes	Genes
+protein binding	3	PJA1, COIL, LSM3
+nucleoplasm	3	COIL, LSM3, PCDH1
+nucleus	2	COIL, LSM3
+nucleolus	2	COIL, PCDH1
+cytosol	2	COIL, LSM3
+metal ion binding	1	PJA1
+ubiquitin protein ligase activity	1	PJA1
+protein catabolic process	1	PJA1
+cytoplasm	1	PJA1
+U1 snRNA binding	1	COIL
+U2 snRNA binding	1	COIL
+identical protein binding	1	COIL
+spliceosomal snRNP assembly	1	COIL
+fibrillar center	1	COIL
+Cajal body	1	COIL
+membrane	1	COIL
+nuclear body	1	COIL
+RNA binding	1	LSM3
+U6 snRNA 3'-end binding	1	LSM3
+mRNA splicing, via spliceosome	1	LSM3
+mRNA processing	1	LSM3
+P-body assembly	1	LSM3
+P-body	1	LSM3
+U6 snRNP	1	LSM3
+U4/U6 x U5 tri-snRNP complex	1	LSM3
+U2-type precatalytic spliceosome	1	LSM3
+precatalytic spliceosome	1	LSM3
+catalytic step 2 spliceosome	1	LSM3
+Lsm2-8 complex	1	LSM3
+Lsm1-7-Pat1 complex	1	LSM3
+calcium ion binding	1	PCDH1
+cell adhesion	1	PCDH1
+homophilic cell adhesion via plasma membrane adhesion molecules	1	PCDH1
+cell-cell signaling	1	PCDH1
+nervous system development	1	PCDH1
+plasma membrane	1	PCDH1
+cell-cell junction	1	PCDH1
+cell junction	1	PCDH1
+intracellular membrane-bounded organelle	1	PCDH1

@@ -1,0 +1,34 @@
+Your response should be formatted as Markdown paragraphs
+Write a critical and concise analysis of this human protein system, describing your reasoning as you go and providing references to scientific papers.
+
+A critical goal of the analysis is to determine if this is a novel complex or if any proteins are novel members of a known complex
+
+Format with Title, Summary, and References sections.        
+Avoid overly general statements of how the proteins are involved in various cellular processes        
+Avoid repeating the goals of the analysis.
+
+What cellular components and complexes are involved in this system?
+What mechanisms and biological processes are performed by this system?
+Propose a name for the system to reflect the cellular location and function, and should be specific but brief. Do not compose an acronym. Place it as the title of your report
+Human Proteins: KLC4, PPFIBP2, FRMD6, CFAP410, BAD, ABAT, CREB3L2, FAM53B, HIVEP1, KIF21B, PPP1R3D, YWHAB.
+
+System features from GO terms: 
+protein binding: 8 proteins: KLC4, PPFIBP2, FRMD6, CFAP410, BAD, HIVEP1, PPP1R3D, YWHAB
+cytosol: 5 proteins: PPFIBP2, CFAP410, BAD, HIVEP1, YWHAB
+cytoplasm: 4 proteins: KLC4, FRMD6, CFAP410, YWHAB
+mitochondrion: 4 proteins: CFAP410, BAD, ABAT, HIVEP1
+identical protein binding: 3 proteins: PPFIBP2, ABAT, YWHAB
+nucleus: 3 proteins: CREB3L2, FAM53B, HIVEP1
+microtubule-based movement: 2 proteins: KLC4, KIF21B
+kinesin complex: 2 proteins: KLC4, KIF21B
+microtubule: 2 proteins: KLC4, KIF21B
+molecular_function: 2 proteins: PPFIBP2, CFAP410
+plasma membrane: 2 proteins: FRMD6, CFAP410
+intracellular membrane-bounded organelle: 2 proteins: CFAP410, PPP1R3D
+response to xenobiotic stimulus: 2 proteins: BAD, ABAT
+ insulin secretion: 2 proteins: BAD, ABAT
+response to ethanol: 2 proteins: BAD, ABAT
+metal ion binding: 2 proteins: ABAT, HIVEP1
+DNA-binding transcription factor activity, RNA polymerase II-specific: 2 proteins: CREB3L2, HIVEP1
+ transcription by RNA polymerase II: 2 proteins: CREB3L2, HIVEP1
+nucleoplasm: 2 proteins: CREB3L2, HIVEP1

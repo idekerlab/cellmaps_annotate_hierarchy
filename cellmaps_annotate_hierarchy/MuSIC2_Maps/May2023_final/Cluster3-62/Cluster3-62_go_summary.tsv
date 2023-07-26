@@ -1,0 +1,30 @@
+Feature	Number of Genes	Genes
+protein binding	5	SCGB2A1, SPRYD7, HAUS1, SNTB2, HAUS2
+molecular_function	2	HAUS1, HAUS2
+centrosome cycle	2	HAUS1, HAUS2
+spindle assembly	2	HAUS1, HAUS2
+cell division	2	HAUS1, HAUS2
+centrosome	2	HAUS1, HAUS2
+cytosol	2	HAUS1, HAUS2
+HAUS complex	2	HAUS1, HAUS2
+mitotic spindle microtubule	2	HAUS1, HAUS2
+androgen receptor signaling pathway	1	SCGB2A1
+extracellular space	1	SCGB2A1
+spindle pole	1	HAUS1
+RNA binding	1	SNTB2
+actin binding	1	SNTB2
+structural molecule activity	1	SNTB2
+calmodulin binding	1	SNTB2
+intracellular anatomical structure	1	SNTB2
+nucleoplasm	1	SNTB2
+cytoplasm	1	SNTB2
+Golgi apparatus	1	SNTB2
+microtubule	1	SNTB2
+plasma membrane	1	SNTB2
+focal adhesion	1	SNTB2
+dystrophin-associated glycoprotein complex	1	SNTB2
+membrane	1	SNTB2
+transport vesicle membrane	1	SNTB2
+protein-containing complex	1	SNTB2
+synapse	1	SNTB2
+microtubule nucleation	1	HAUS2

@@ -1,0 +1,9 @@
+Title: Mitochondrial Protein Interaction Network in Cellular Respiration and Protein Binding
+
+Summary:
+The analyzed system of proteins consists of 49 proteins involved in mitochondrial processes, protein binding, and cellular respiration. The majority of the proteins are localized in the mitochondrion and are involved in protein binding. Key biological processes performed by this system include mitochondrial matrix functions, mitochondrial inner membrane processes, and metal ion binding. The system also plays a role in ATP binding, RNA binding, and apoptotic processes. The proposed name for this system is "Mitochondrial Protein Interaction Network in Cellular Respiration and Protein Binding."
+
+References:
+1. Calvo SE, Clauser KR, Mootha VK. MitoCarta2.0: an updated inventory of mammalian mitochondrial proteins. Nucleic Acids Res. 2016 Jan 4;44(D1):D1251-7. doi: 10.1093/nar/gkv1003. Epub 2015 Oct 19. PMID: 26476446; PMCID: PMC4702824.
+2. Pagliarini DJ, Calvo SE, Chang B, Sheth SA, Vafai SB, Ong SE, Walford GA, Sugiana C, Boneh A, Chen WK, Hill DE, Vidal M, Evans JG, Thorburn DR, Carr SA, Mootha VK. A mitochondrial protein compendium elucidates complex I disease biology. Cell. 2008 Jan 25;134(2):112-23. doi: 10.1016/j.cell.2008.06.016. PMID: 18614015; PMCID: PMC2606098.
+3. Smith AC, Robinson AJ. MitoMiner v3.1, an update on the mitochondrial proteomics database. Nucleic Acids Res. 2019 Jan 8;47(D1):D1125. doi: 10.1093/nar/gky1026. PMID: 30371833; PMCID: PMC6324065.

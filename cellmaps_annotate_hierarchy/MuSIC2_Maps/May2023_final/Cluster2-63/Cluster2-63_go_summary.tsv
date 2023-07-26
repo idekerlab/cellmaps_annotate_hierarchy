@@ -1,0 +1,162 @@
+Feature	Number of Genes	Genes
+protein binding	4	HSPA1L, HSPA1A, HSPA2, HSPA8
+ATP binding	4	HSPA1L, HSPA1A, HSPA2, HSPA8
+ATP hydrolysis activity	4	HSPA1L, HSPA1A, HSPA2, HSPA8
+heat shock protein binding	4	HSPA1L, HSPA1A, HSPA2, HSPA8
+protein folding chaperone	4	HSPA1L, HSPA1A, HSPA2, HSPA8
+unfolded protein binding	4	HSPA1L, HSPA1A, HSPA2, HSPA8
+ATP-dependent protein folding chaperone	4	HSPA1L, HSPA1A, HSPA2, HSPA8
+response to unfolded protein	4	HSPA1L, HSPA1A, HSPA2, HSPA8
+protein refolding	4	HSPA1L, HSPA1A, HSPA2, HSPA8
+chaperone cofactor-dependent protein refolding	4	HSPA1L, HSPA1A, HSPA2, HSPA8
+nucleus	4	HSPA1L, HSPA1A, HSPA2, HSPA8
+cytoplasm	4	HSPA1L, HSPA1A, HSPA2, HSPA8
+cytosol	4	HSPA1L, HSPA1A, HSPA2, HSPA8
+blood microparticle	4	HSPA1L, HSPA1A, HSPA2, HSPA8
+ubiquitin protein ligase binding	3	HSPA1L, HSPA1A, HSPA8
+nucleoplasm	3	HSPA1L, HSPA1A, HSPA8
+enzyme binding	3	HSPA1A, HSPA2, HSPA8
+extracellular exosome	3	HSPA1A, HSPA2, HSPA8
+G protein-coupled receptor binding	2	HSPA1A, HSPA8
+RNA binding	2	HSPA1A, HSPA8
+cadherin binding	2	HSPA1A, HSPA8
+C3HC4-type RING finger domain binding	2	HSPA1A, HSPA8
+disordered domain specific binding	2	HSPA1A, HSPA2
+ATP-dependent protein disaggregase activity	2	HSPA1A, HSPA8
+ATP metabolic process	2	HSPA1A, HSPA8
+cellular response to steroid hormone stimulus	2	HSPA1A, HSPA8
+negative regulation of inclusion body assembly	2	HSPA1A, HSPA2
+extracellular region	2	HSPA1A, HSPA8
+extracellular space	2	HSPA1A, HSPA8
+focal adhesion	2	HSPA1A, HSPA8
+perinuclear region of cytoplasm	2	HSPA1A, HSPA8
+ficolin-1-rich granule lumen	2	HSPA1A, HSPA8
+ribonucleoprotein complex	2	HSPA1A, HSPA8
+protein-folding chaperone binding	2	HSPA2, HSPA8
+plasma membrane	2	HSPA2, HSPA8
+membrane	2	HSPA2, HSPA8
+binding of sperm to zona pellucida	1	HSPA1L
+ protein targeting to mitochondrion	1	HSPA1L
+zona pellucida receptor complex	1	HSPA1L
+mitochondrial matrix	1	HSPA1L
+cell body	1	HSPA1L
+polypeptide N-acetylgalactosaminyltransferase activity	1	GALNT9
+carbohydrate binding	1	GALNT9
+metal ion binding	1	GALNT9
+protein O-linked glycosylation	1	GALNT9
+O-glycan processing	1	GALNT9
+Golgi membrane	1	GALNT9
+Golgi apparatus	1	GALNT9
+virus receptor activity	1	HSPA1A
+transcription corepressor activity	1	HSPA1A
+signaling receptor binding	1	HSPA1A
+denatured protein binding	1	HSPA1A
+death receptor agonist activity	1	HSPA1A
+histone deacetylase binding	1	HSPA1A
+receptor ligand activity	1	HSPA1A
+misfolded protein binding	1	HSPA1A
+transcription regulator inhibitor activity	1	HSPA1A
+negative regulation of transcription by RNA polymerase II	1	HSPA1A
+mRNA catabolic process	1	HSPA1A
+lysosomal transport	1	HSPA1A
+signal transduction	1	HSPA1A
+negative regulation of cell population proliferation	1	HSPA1A
+ gene expression	1	HSPA1A
+negative regulation of cell growth	1	HSPA1A
+negative regulation of transforming growth factor beta receptor signaling pathway	1	HSPA1A
+ protein ubiquitination	1	HSPA1A
+negative regulation of protein ubiquitination	1	HSPA1A
+ proteasomal ubiquitin-dependent protein catabolic process	1	HSPA1A
+ interleukin-8 production	1	HSPA1A
+ RNA splicing	1	HSPA1A
+cellular response to oxidative stress	1	HSPA1A
+cellular response to heat	1	HSPA1A
+cellular response to unfolded protein	1	HSPA1A
+negative regulation of apoptotic process	1	HSPA1A
+ erythrocyte differentiation	1	HSPA1A
+viral entry into host cell	1	HSPA1A
+protein stabilization	1	HSPA1A
+ NF-kappaB transcription factor activity	1	HSPA1A
+chaperone-mediated protein complex assembly	1	HSPA1A
+cellular heat acclimation	1	HSPA1A
+ nucleotide-binding oligomerization domain containing 2 signaling pathway	1	HSPA1A
+ microtubule nucleation	1	HSPA1A
+negative regulation of mitochondrial outer membrane permeabilization involved in apoptotic signaling pathway	1	HSPA1A
+ mitotic spindle assembly	1	HSPA1A
+negative regulation of endoplasmic reticulum stress-induced intrinsic apoptotic signaling pathway	1	HSPA1A
+ endoribonuclease activity	1	HSPA1A
+ tumor necrosis factor-mediated signaling pathway	1	HSPA1A
+negative regulation of extrinsic apoptotic signaling pathway in absence of ligand	1	HSPA1A
+mitochondrion	1	HSPA1A
+endoplasmic reticulum	1	HSPA1A
+centrosome	1	HSPA1A
+centriole	1	HSPA1A
+inclusion body	1	HSPA1A
+aggresome	1	HSPA1A
+nuclear speck	1	HSPA1A
+vesicle	1	HSPA1A
+protein-containing complex	1	HSPA1A
+tau protein binding	1	HSPA2
+glycolipid binding	1	HSPA2
+ protein phosphorylation	1	HSPA2
+male meiotic nuclear division	1	HSPA2
+male meiosis I	1	HSPA2
+spermatogenesis	1	HSPA2
+spermatid development	1	HSPA2
+response to heat	1	HSPA2
+response to cold	1	HSPA2
+ G2/M transition of mitotic cell cycle	1	HSPA2
+synaptonemal complex disassembly	1	HSPA2
+ ATPase-coupled calcium transmembrane transporter activity	1	HSPA2
+synaptonemal complex	1	HSPA2
+male germ cell nucleus	1	HSPA2
+cell surface	1	HSPA2
+CatSper complex	1	HSPA2
+meiotic spindle	1	HSPA2
+phosphatidylserine binding	1	HSPA8
+MHC class II protein complex binding	1	HSPA8
+protein-macromolecule adaptor activity	1	HSPA8
+protein carrier chaperone	1	HSPA8
+clathrin-uncoating ATPase activity	1	HSPA8
+mRNA splicing, via spliceosome	1	HSPA8
+protein folding	1	HSPA8
+cellular response to starvation	1	HSPA8
+ protein stability	1	HSPA8
+ protein-containing complex assembly	1	HSPA8
+positive regulation by host of viral genome replication	1	HSPA8
+negative regulation of DNA-templated transcription	1	HSPA8
+ mRNA splicing, via spliceosome	1	HSPA8
+ cell cycle	1	HSPA8
+membrane organization	1	HSPA8
+ protein complex stability	1	HSPA8
+chaperone-mediated autophagy	1	HSPA8
+late endosomal microautophagy	1	HSPA8
+protein targeting to lysosome involved in chaperone-mediated autophagy	1	HSPA8
+clathrin coat disassembly	1	HSPA8
+ postsynapse organization	1	HSPA8
+negative regulation of NLRP3 inflammasome complex assembly	1	HSPA8
+negative regulation of supramolecular fiber organization	1	HSPA8
+ protein import	1	HSPA8
+chaperone-mediated autophagy translocation complex disassembly	1	HSPA8
+slow axonal transport	1	HSPA8
+Prp19 complex	1	HSPA8
+spliceosomal complex	1	HSPA8
+nucleolus	1	HSPA8
+lysosome	1	HSPA8
+lysosomal membrane	1	HSPA8
+late endosome	1	HSPA8
+autophagosome	1	HSPA8
+dendrite	1	HSPA8
+secretory granule lumen	1	HSPA8
+melanosome	1	HSPA8
+terminal bouton	1	HSPA8
+lysosomal lumen	1	HSPA8
+clathrin-sculpted gamma-aminobutyric acid transport vesicle membrane	1	HSPA8
+lumenal side of lysosomal membrane	1	HSPA8
+photoreceptor ribbon synapse	1	HSPA8
+glycinergic synapse	1	HSPA8
+glutamatergic synapse	1	HSPA8
+presynaptic cytosol	1	HSPA8
+postsynaptic cytosol	1	HSPA8
+postsynaptic specialization membrane	1	HSPA8
+protein folding chaperone complex	1	HSPA8

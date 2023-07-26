@@ -1,0 +1,2 @@
+### Validated References: 
+[1] Arfelli, Vanessa C, Chang, Yun-Chien, Bagnoli, Johannes W, Kerbs, Paul, Ciamponi, Felipe E, Paz, Laissa M da S, Pankivskyi, Serhii, de Matha Salone, Jean, Maucuer, Alexandre, Massirer, Katlin B, Enard, Wolfgang, Kuster, Bernhard, Greif, Philipp A, Archangelo, Leticia Fröhlich. "UHMK1 is a novel splicing regulatory kinase." The Journal of biological chemistry, 2023, pp. 103041.

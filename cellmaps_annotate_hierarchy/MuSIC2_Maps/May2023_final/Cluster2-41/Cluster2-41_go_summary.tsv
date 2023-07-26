@@ -1,0 +1,116 @@
+Feature	Number of Genes	Genes
+protein binding	10	TRAPPC4, TLN1, NME2, NME1, KANK4, NME3, NUBP1, TRAPPC14, TRAPPC3, TRAPPC6B
+cytosol	9	TRAPPC4, TLN1, NME2, NME1, KANK4, NME3, NUBP1, TRAPPC3, TRAPPC6B
+cytoplasm	6	TRAPPC4, NME2, NME1, KANK4, TRAPPC3, TRAPPC6B
+TRAPPII protein complex	4	TRAPPC4, TRAPPC14, TRAPPC3, TRAPPC6B
+ATP binding	4	NME2, NME1, NME3, NUBP1
+endoplasmic reticulum to Golgi vesicle-mediated transport	3	TRAPPC4, TRAPPC3, TRAPPC6B
+vesicle coating	3	TRAPPC4, TRAPPC3, TRAPPC6B
+vesicle tethering	3	TRAPPC4, TRAPPC3, TRAPPC6B
+endoplasmic reticulum	3	TRAPPC4, TRAPPC3, TRAPPC6B
+TRAPP complex	3	TRAPPC4, TRAPPC3, TRAPPC6B
+plasma membrane	3	TLN1, NUBP1, TRAPPC14
+extracellular exosome	3	TLN1, NME2, NME1
+nucleoside diphosphate kinase activity	3	NME2, NME1, NME3
+metal ion binding	3	NME2, NME3, NUBP1
+GTP biosynthetic process	3	NME2, NME1, NME3
+UTP biosynthetic process	3	NME2, NME1, NME3
+CTP biosynthetic process	3	NME2, NME1, NME3
+nucleus	3	NME2, NME1, NUBP1
+COPII vesicle coating	2	TRAPPC4, TRAPPC3
+Golgi membrane	2	TRAPPC4, TRAPPC3
+TRAPPIII protein complex	2	TRAPPC4, TRAPPC3
+integrin-mediated signaling pathway	2	TLN1, NME2
+ruffle	2	TLN1, NME2
+extracellular region	2	TLN1, NME2
+cytoskeleton	2	TLN1, KANK4
+focal adhesion	2	TLN1, NME2
+ruffle membrane	2	TLN1, NME1
+ apoptotic process	2	NME2, NME1
+ epithelial cell proliferation	2	NME2, NME1
+nervous system development	2	NME1, TRAPPC6B
+phosphorylation	2	NME1, NME3
+autophagy	1	TRAPPC4
+dendrite development	1	TRAPPC4
+Golgi stack	1	TRAPPC4
+synaptic vesicle	1	TRAPPC4
+dendrite	1	TRAPPC4
+synapse	1	TRAPPC4
+postsynaptic membrane	1	TRAPPC4
+phosphatidylserine binding	1	TLN1
+integrin binding	1	TLN1
+structural constituent of cytoskeleton	1	TLN1
+vinculin binding	1	TLN1
+LIM domain binding	1	TLN1
+phosphatidylinositol binding	1	TLN1
+cadherin binding	1	TLN1
+actin filament binding	1	TLN1
+cell-cell junction assembly	1	TLN1
+cell-substrate junction assembly	1	TLN1
+cortical actin cytoskeleton organization	1	TLN1
+integrin activation	1	TLN1
+ focal adhesion assembly	1	TLN1
+platelet aggregation	1	TLN1
+cell-cell adhesion	1	TLN1
+adherens junction	1	TLN1
+cell surface	1	TLN1
+DNA binding	1	NME2
+transcription coactivator activity	1	NME2
+protein histidine kinase activity	1	NME2
+GDP binding	1	NME2
+G-quadruplex DNA binding	1	NME2
+cell adhesion	1	NME2
+nucleoside triphosphate biosynthetic process	1	NME2
+peptidyl-histidine phosphorylation	1	NME2
+negative regulation of apoptotic process	1	NME2
+ keratinocyte differentiation	1	NME2
+ epidermis development	1	NME2
+ DNA-templated transcription	1	NME2
+ transcription by RNA polymerase II	1	NME2
+lamellipodium	1	NME2
+secretory granule lumen	1	NME2
+perinuclear region of cytoplasm	1	NME2
+cell periphery	1	NME2
+ficolin-1-rich granule lumen	1	NME2
+magnesium ion binding	1	NME1
+RNA binding	1	NME1
+DNA nuclease activity	1	NME1
+GTP binding	1	NME1
+identical protein binding	1	NME1
+ribosomal small subunit binding	1	NME1
+DNA metabolic process	1	NME1
+endocytosis	1	NME1
+lactation	1	NME1
+negative regulation of cell population proliferation	1	NME1
+cell differentiation	1	NME1
+ DNA binding	1	NME1
+membrane	1	NME1
+negative regulation of actin filament polymerization	1	KANK4
+microtubule cytoskeleton	1	KANK4
+apoptotic process	1	NME3
+nucleotide binding	1	NUBP1
+iron-sulfur cluster binding	1	NUBP1
+4 iron, 4 sulfur cluster binding	1	NUBP1
+ATP-dependent FeS chaperone activity	1	NUBP1
+ cell growth	1	NUBP1
+intracellular iron ion homeostasis	1	NUBP1
+negative regulation of centrosome duplication	1	NUBP1
+iron-sulfur cluster assembly	1	NUBP1
+cell projection organization	1	NUBP1
+centrosome localization	1	NUBP1
+protein localization to cell cortex	1	NUBP1
+centriole	1	NUBP1
+cilium	1	NUBP1
+alpha-tubulin binding	1	TRAPPC14
+ cell population proliferation	1	TRAPPC14
+cilium assembly	1	TRAPPC14
+midbody	1	TRAPPC14
+centriolar satellite	1	TRAPPC14
+intracellular membrane-bounded organelle	1	TRAPPC14
+mitotic spindle	1	TRAPPC14
+intra-Golgi vesicle-mediated transport	1	TRAPPC3
+Golgi apparatus	1	TRAPPC3
+cis-Golgi network membrane	1	TRAPPC3
+ GTPase activity	1	TRAPPC6B
+cis-Golgi network	1	TRAPPC6B
+trans-Golgi network	1	TRAPPC6B

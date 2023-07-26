@@ -1,0 +1,36 @@
+Your response should be formatted as Markdown paragraphs
+Write a critical and concise analysis of this human protein system, describing your reasoning as you go and providing references to scientific papers.
+
+A critical goal of the analysis is to determine if this is a novel complex or if any proteins are novel members of a known complex
+
+Format with Title, Summary, and References sections.        
+Avoid overly general statements of how the proteins are involved in various cellular processes        
+Avoid repeating the goals of the analysis.
+
+What cellular components and complexes are involved in this system?
+What mechanisms and biological processes are performed by this system?
+Propose a name for the system to reflect the cellular location and function, and should be specific but brief. Do not compose an acronym. Place it as the title of your report
+Human Proteins: TRRAP, KCTD15, ASH1L, YEATS4, EPC2, EPC1.
+
+System features from GO terms: 
+nucleus: 6 proteins: TRRAP, KCTD15, ASH1L, YEATS4, EPC2, EPC1
+ DNA-templated transcription: 5 proteins: TRRAP, ASH1L, YEATS4, EPC2, EPC1
+ transcription by RNA polymerase II: 5 proteins: TRRAP, ASH1L, YEATS4, EPC2, EPC1
+protein binding: 4 proteins: TRRAP, KCTD15, YEATS4, EPC1
+histone acetylation: 4 proteins: TRRAP, YEATS4, EPC2, EPC1
+ apoptotic process: 4 proteins: TRRAP, YEATS4, EPC2, EPC1
+histone H4 acetylation: 4 proteins: TRRAP, YEATS4, EPC2, EPC1
+histone H2A acetylation: 4 proteins: TRRAP, YEATS4, EPC2, EPC1
+ cell cycle: 4 proteins: TRRAP, YEATS4, EPC2, EPC1
+ double-strand break repair via homologous recombination: 4 proteins: TRRAP, YEATS4, EPC2, EPC1
+ double-strand break repair: 4 proteins: TRRAP, YEATS4, EPC2, EPC1
+nucleosome: 4 proteins: TRRAP, YEATS4, EPC2, EPC1
+nucleoplasm: 4 proteins: TRRAP, ASH1L, YEATS4, EPC1
+NuA4 histone acetyltransferase complex: 4 proteins: TRRAP, YEATS4, EPC2, EPC1
+DNA repair: 2 proteins: TRRAP, EPC2
+chromatin organization: 2 proteins: TRRAP, EPC2
+DNA-templated transcription: 2 proteins: TRRAP, EPC1
+Golgi apparatus: 2 proteins: TRRAP, ASH1L
+chromatin remodeling: 2 proteins: ASH1L, YEATS4
+nuclear membrane: 2 proteins: YEATS4, EPC1
+Piccolo NuA4 histone acetyltransferase complex: 2 proteins: EPC2, EPC1

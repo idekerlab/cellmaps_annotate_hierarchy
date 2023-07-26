@@ -1,0 +1,56 @@
+Feature	Number of Genes	Genes
+protein binding	5	MAP4K2, DPYSL2, DPYSL3, DPYSL4, NAA30
+cytosol	4	DPYSL2, DPYSL3, DPYSL4, NAA30
+dihydropyrimidinase activity	3	DPYSL2, DPYSL3, DPYSL4
+hydrolase activity, acting on carbon-nitrogen (but not peptide) bonds, in cyclic amides	3	DPYSL2, DPYSL3, DPYSL4
+pyrimidine nucleobase catabolic process	3	DPYSL2, DPYSL3, DPYSL4
+cytoplasm	2	MAP4K2, NAA30
+identical protein binding	2	DPYSL2, DPYSL3
+nervous system development	2	DPYSL2, DPYSL4
+filamin binding	2	DPYSL3, DPYSL4
+protein serine/threonine kinase activity	1	MAP4K2
+ATP binding	1	MAP4K2
+MAP kinase kinase kinase kinase activity	1	MAP4K2
+mitogen-activated protein kinase kinase kinase binding	1	MAP4K2
+protein serine kinase activity	1	MAP4K2
+protein phosphorylation	1	MAP4K2
+vesicle targeting	1	MAP4K2
+immune response	1	MAP4K2
+JNK cascade	1	MAP4K2
+intracellular signal transduction	1	MAP4K2
+positive regulation of JUN kinase activity	1	MAP4K2
+innate immune response	1	MAP4K2
+positive regulation of JNK cascade	1	MAP4K2
+Golgi membrane	1	MAP4K2
+basolateral plasma membrane	1	MAP4K2
+nucleobase-containing compound metabolic process	1	DPYSL2
+endocytosis	1	DPYSL2
+cytoskeleton organization	1	DPYSL2
+signal transduction	1	DPYSL2
+cell differentiation	1	DPYSL2
+microtubule	1	DPYSL2
+plasma membrane	1	DPYSL2
+membrane	1	DPYSL2
+extracellular exosome	1	DPYSL2
+SH3 domain binding	1	DPYSL3
+chondroitin sulfate binding	1	DPYSL3
+positive regulation of neuron projection development	1	DPYSL3
+negative regulation of neuron projection development	1	DPYSL3
+negative regulation of cell migration	1	DPYSL3
+neuron development	1	DPYSL3
+response to axon injury	1	DPYSL3
+actin filament bundle assembly	1	DPYSL3
+positive regulation of filopodium assembly	1	DPYSL3
+actin crosslink formation	1	DPYSL3
+cellular response to cytokine stimulus	1	DPYSL3
+extracellular space	1	DPYSL3
+lamellipodium	1	DPYSL3
+growth cone	1	DPYSL3
+filamentous actin	1	DPYSL3
+cell body	1	DPYSL3
+synapse	1	DPYSL3
+exocytic vesicle	1	DPYSL3
+peptide alpha-N-acetyltransferase activity	1	NAA30
+N-terminal peptidyl-methionine acetylation	1	NAA30
+nucleus	1	NAA30
+NatC complex	1	NAA30

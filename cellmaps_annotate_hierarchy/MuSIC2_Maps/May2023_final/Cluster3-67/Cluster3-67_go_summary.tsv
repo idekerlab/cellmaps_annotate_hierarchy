@@ -1,0 +1,67 @@
+Feature	Number of Genes	Genes
+protein binding	4	C9orf78, RELB, NCAPH, KMT2E
+nucleoplasm	4	C9orf78, RELB, NCAPH, KMT2E
+nucleus	3	C9orf78, RELB, KMT2E
+cytosol	3	C9orf78, RELB, NCAPH
+chromatin	2	RELB, KMT2E
+protein-containing complex	2	RELB, KMT2E
+U5 snRNA binding	1	C9orf78
+mRNA splicing, via spliceosome	1	C9orf78
+chromosome segregation	1	C9orf78
+mRNA cis splicing, via spliceosome	1	C9orf78
+ homologous chromosome segregation	1	C9orf78
+chromosome, centromeric region	1	C9orf78
+spliceosomal complex	1	C9orf78
+RNA polymerase II cis-regulatory region sequence-specific DNA binding	1	RELB
+DNA-binding transcription factor activity, RNA polymerase II-specific	1	RELB
+protein kinase binding	1	RELB
+identical protein binding	1	RELB
+ transcription by RNA polymerase II	1	RELB
+inflammatory response	1	RELB
+I-kappaB kinase/NF-kappaB signaling	1	RELB
+antigen processing and presentation	1	RELB
+lymphocyte differentiation	1	RELB
+negative regulation of interferon-beta production	1	RELB
+circadian regulation of gene expression	1	RELB
+cellular response to stress	1	RELB
+response to cytokine	1	RELB
+NIK/NF-kappaB signaling	1	RELB
+myeloid dendritic cell differentiation	1	RELB
+T-helper 1 cell differentiation	1	RELB
+innate immune response	1	RELB
+negative regulation of DNA-templated transcription	1	RELB
+cellular response to osmotic stress	1	RELB
+centrosome	1	RELB
+transcription repressor complex	1	RELB
+synapse	1	RELB
+NF-kappaB complex	1	RELB
+chromatin binding	1	NCAPH
+mitotic chromosome condensation	1	NCAPH
+meiotic chromosome condensation	1	NCAPH
+cell division	1	NCAPH
+female meiosis chromosome separation	1	NCAPH
+ chromosome segregation	1	NCAPH
+ chromosome separation	1	NCAPH
+ chromosome condensation	1	NCAPH
+condensed nuclear chromosome	1	NCAPH
+condensin complex	1	NCAPH
+membrane	1	NCAPH
+transcription coactivator activity	1	KMT2E
+enzyme binding	1	KMT2E
+methylated histone binding	1	KMT2E
+metal ion binding	1	KMT2E
+histone H3 methyltransferase activity	1	KMT2E
+neutrophil mediated immunity	1	KMT2E
+DNA methylation	1	KMT2E
+chromatin organization	1	KMT2E
+cell cycle	1	KMT2E
+erythrocyte differentiation	1	KMT2E
+neutrophil activation	1	KMT2E
+ DNA-templated transcription	1	KMT2E
+ G1/S transition of mitotic cell cycle	1	KMT2E
+euchromatin	1	KMT2E
+cytoplasm	1	KMT2E
+microtubule organizing center	1	KMT2E
+plasma membrane	1	KMT2E
+nuclear body	1	KMT2E
+nuclear speck	1	KMT2E

@@ -1,0 +1,190 @@
+Feature	Number of Genes	Genes
+protein binding	21	CNST, NELFCD, CNNM1, DSN1, MAPKAPK3, CSRNP1, KNL1, NUF2, PPP1R10, PPP1R2, ZFYVE16, NELFA, NELFB, NELFE, TRIM28, ZNF274, ZNF8, DUSP16, MAPKAPK5, RPS6KA4, RPS6KA5
+nucleus	14	NELFCD, MAPKAPK3, CSRNP1, KNL1, PPP1R10, NELFA, NELFB, NELFE, TRIM28, ZNF8, DUSP16, MAPKAPK5, RPS6KA4, RPS6KA5
+nucleoplasm	14	NELFCD, DSN1, MAPKAPK3, KNL1, NUF2, PPP1R10, NELFA, NELFB, NELFE, TRIM28, DUSP16, MAPKAPK5, RPS6KA4, RPS6KA5
+cytosol	9	DSN1, MAPKAPK3, KNL1, NUF2, ZFYVE16, NELFA, DUSP16, MAPKAPK5, RPS6KA4
+cytoplasm	7	MAPKAPK3, NELFB, ZNF274, DUSP16, MAPKAPK5, RPS6KA4, RPS6KA5
+ transcription by RNA polymerase II	6	CSRNP1, NELFA, NELFE, ZNF274, RPS6KA4, RPS6KA5
+RNA binding	5	NELFCD, PPP1R10, NELFB, NELFE, TRIM28
+nuclear body	5	DSN1, KNL1, PPP1R10, NELFA, NELFE
+negative regulation of transcription elongation by RNA polymerase II	4	NELFCD, NELFA, NELFB, NELFE
+NELF complex	4	NELFCD, NELFA, NELFB, NELFE
+protein serine/threonine kinase activity	4	MAPKAPK3, MAPKAPK5, RPS6KA4, RPS6KA5
+ATP binding	4	MAPKAPK3, MAPKAPK5, RPS6KA4, RPS6KA5
+protein serine kinase activity	4	MAPKAPK3, MAPKAPK5, RPS6KA4, RPS6KA5
+chromatin binding	4	NELFA, NELFE, TRIM28, ZNF274
+negative regulation of transcription by RNA polymerase II	4	NELFE, TRIM28, ZNF274, ZNF8
+ DNA-templated transcription	4	TRIM28, ZNF274, RPS6KA4, RPS6KA5
+plasma membrane	3	CNST, CNNM1, NELFE
+membrane	3	CNST, NELFCD, NUF2
+protein-containing complex	3	CNST, TRIM28, MAPKAPK5
+cell division	3	DSN1, KNL1, NUF2
+kinetochore	3	DSN1, KNL1, NUF2
+mitogen-activated protein kinase binding	3	MAPKAPK3, DUSP16, MAPKAPK5
+signal transduction	3	MAPKAPK3, ZFYVE16, MAPKAPK5
+intracellular signal transduction	3	MAPKAPK3, RPS6KA4, RPS6KA5
+protein autophosphorylation	3	MAPKAPK3, TRIM28, MAPKAPK5
+chromatin	3	CSRNP1, PPP1R10, NELFE
+DNA binding	3	PPP1R10, TRIM28, ZNF8
+metal ion binding	3	PPP1R10, ZFYVE16, ZNF274
+chromatin remodeling	3	ZNF274, RPS6KA4, RPS6KA5
+intracellular membrane-bounded organelle	2	CNST, ZFYVE16
+nucleolus	2	DSN1, ZNF274
+calmodulin-dependent protein kinase activity	2	MAPKAPK3, MAPKAPK5
+MAP kinase kinase activity	2	MAPKAPK3, MAPKAPK5
+calmodulin binding	2	MAPKAPK3, MAPKAPK5
+calcium-dependent protein serine/threonine kinase activity	2	MAPKAPK3, MAPKAPK5
+MAPK cascade	2	MAPKAPK3, MAPKAPK5
+peptidyl-serine phosphorylation	2	MAPKAPK3, MAPKAPK5
+DNA-binding transcription factor activity, RNA polymerase II-specific	2	CSRNP1, ZNF274
+molecular_function	2	CSRNP1, NUF2
+sequence-specific DNA binding	2	CSRNP1, ZNF274
+attachment of spindle microtubules to kinetochore	2	KNL1, NUF2
+protein phosphatase inhibitor activity	2	PPP1R10, PPP1R2
+ histone H3-K4 methylation	2	NELFA, NELFE
+zinc ion binding	2	TRIM28, ZNF8
+negative regulation of DNA-templated transcription	2	TRIM28, RPS6KA5
+RNA polymerase II cis-regulatory region sequence-specific DNA binding	2	ZNF274, ZNF8
+magnesium ion binding	2	RPS6KA4, RPS6KA5
+histone H3S10 kinase activity	2	RPS6KA4, RPS6KA5
+histone H3S28 kinase activity	2	RPS6KA4, RPS6KA5
+negative regulation of cytokine production	2	RPS6KA4, RPS6KA5
+protein phosphorylation	2	RPS6KA4, RPS6KA5
+inflammatory response	2	RPS6KA4, RPS6KA5
+ CREB transcription factor activity	2	RPS6KA4, RPS6KA5
+post-translational protein modification	2	RPS6KA4, RPS6KA5
+ NF-kappaB transcription factor activity	2	RPS6KA4, RPS6KA5
+interleukin-1-mediated signaling pathway	2	RPS6KA4, RPS6KA5
+phosphatase binding	1	CNST
+connexin binding	1	CNST
+ Golgi to plasma membrane protein transport	1	CNST
+trans-Golgi network	1	CNST
+transport vesicle	1	CNST
+transmembrane transporter activity	1	CNNM1
+transport	1	CNNM1
+monoatomic ion transport	1	CNNM1
+magnesium ion homeostasis	1	CNNM1
+transmembrane transport	1	CNNM1
+mitotic sister chromatid segregation	1	DSN1
+MIS12/MIND type complex	1	DSN1
+fibrillar center	1	DSN1
+extracellular region	1	DSN1
+azurophil granule lumen	1	DSN1
+toll-like receptor signaling pathway	1	MAPKAPK3
+response to lipopolysaccharide	1	MAPKAPK3
+response to cytokine	1	MAPKAPK3
+macropinocytosis	1	MAPKAPK3
+vascular endothelial growth factor receptor signaling pathway	1	MAPKAPK3
+DNA-binding transcription activator activity, RNA polymerase II-specific	1	CSRNP1
+DNA-binding transcription factor activity	1	CSRNP1
+apoptotic process	1	CSRNP1
+post-embryonic development	1	CSRNP1
+platelet-derived growth factor receptor signaling pathway	1	CSRNP1
+skeletal system morphogenesis	1	CSRNP1
+roof of mouth development	1	CSRNP1
+face morphogenesis	1	CSRNP1
+acrosome assembly	1	KNL1
+protein localization to kinetochore	1	KNL1
+acrosomal vesicle	1	KNL1
+protein-containing complex binding	1	NUF2
+mitotic spindle organization	1	NUF2
+chromosome segregation	1	NUF2
+mitotic spindle assembly checkpoint signaling	1	NUF2
+meiotic chromosome segregation	1	NUF2
+attachment of mitotic spindle microtubules to kinetochore	1	NUF2
+kinetochore organization	1	NUF2
+chromosome, centromeric region	1	NUF2
+Ndc80 complex	1	NUF2
+protein phosphatase 1 binding	1	PPP1R10
+protein import into nucleus	1	PPP1R10
+negative regulation of cardiac muscle cell apoptotic process	1	PPP1R10
+ telomere maintenance	1	PPP1R10
+negative regulation of mitotic DNA damage checkpoint	1	PPP1R10
+chromosome, telomeric region	1	PPP1R10
+PTW/PP1 phosphatase complex	1	PPP1R10
+protein serine/threonine phosphatase inhibitor activity	1	PPP1R2
+molecular function inhibitor activity	1	PPP1R2
+glycogen metabolic process	1	PPP1R2
+generation of precursor metabolites and energy	1	PPP1R2
+ signal transduction	1	PPP1R2
+ phosphoprotein phosphatase activity	1	PPP1R2
+1-phosphatidylinositol binding	1	ZFYVE16
+phosphatidylinositol-3,4,5-trisphosphate binding	1	ZFYVE16
+protein targeting to lysosome	1	ZFYVE16
+vesicle organization	1	ZFYVE16
+endosomal transport	1	ZFYVE16
+ endocytosis	1	ZFYVE16
+early endosome	1	ZFYVE16
+early endosome membrane	1	ZFYVE16
+molecular adaptor activity	1	NELFA
+cell population proliferation	1	NELFB
+stem cell differentiation	1	NELFB
+negative regulation of stem cell differentiation	1	NELFB
+mRNA binding	1	NELFE
+localization	1	NELFE
+ ERK1 and ERK2 cascade	1	NELFE
+transcription coactivator activity	1	TRIM28
+transcription corepressor activity	1	TRIM28
+protein kinase activity	1	TRIM28
+ubiquitin-protein transferase activity	1	TRIM28
+SUMO transferase activity	1	TRIM28
+ubiquitin protein ligase binding	1	TRIM28
+Krueppel-associated box domain binding	1	TRIM28
+ubiquitin protein ligase activity	1	TRIM28
+chromo shadow domain binding	1	TRIM28
+promoter-specific chromatin binding	1	TRIM28
+epithelial to mesenchymal transition	1	TRIM28
+DNA repair	1	TRIM28
+chromatin organization	1	TRIM28
+embryo implantation	1	TRIM28
+protein sumoylation	1	TRIM28
+ protein binding	1	TRIM28
+ protein import into nucleus	1	TRIM28
+DNA methylation involved in embryo development	1	TRIM28
+ DNA binding	1	TRIM28
+suppression of viral release by host	1	TRIM28
+innate immune response	1	TRIM28
+ DNA repair	1	TRIM28
+negative regulation of single stranded viral RNA replication via double stranded DNA intermediate	1	TRIM28
+convergent extension involved in axis elongation	1	TRIM28
+embryonic placenta morphogenesis	1	TRIM28
+ DNA methylation-dependent heterochromatin formation	1	TRIM28
+negative regulation of DNA demethylation	1	TRIM28
+ genetic imprinting	1	TRIM28
+euchromatin	1	TRIM28
+heterochromatin	1	TRIM28
+RNA polymerase II transcription regulator complex	1	TRIM28
+sequence-specific double-stranded DNA binding	1	ZNF274
+BMP signaling pathway	1	ZNF8
+phosphoprotein phosphatase activity	1	DUSP16
+protein tyrosine/threonine phosphatase activity	1	DUSP16
+JUN kinase binding	1	DUSP16
+phosphatase activity	1	DUSP16
+MAP kinase tyrosine/serine/threonine phosphatase activity	1	DUSP16
+myosin phosphatase activity	1	DUSP16
+MAP kinase tyrosine phosphatase activity	1	DUSP16
+mitogen-activated protein kinase p38 binding	1	DUSP16
+protein dephosphorylation	1	DUSP16
+dephosphorylation	1	DUSP16
+negative regulation of MAPK cascade	1	DUSP16
+negative regulation of JUN kinase activity	1	DUSP16
+MAPK export from nucleus	1	DUSP16
+cytoplasmic vesicle	1	DUSP16
+p53 binding	1	MAPKAPK5
+ translation	1	MAPKAPK5
+Ras protein signal transduction	1	MAPKAPK5
+negative regulation of TOR signaling	1	MAPKAPK5
+ telomere maintenance via telomerase	1	MAPKAPK5
+ telomerase activity	1	MAPKAPK5
+ dendritic spine development	1	MAPKAPK5
+cellular senescence	1	MAPKAPK5
+stress-induced premature senescence	1	MAPKAPK5
+ signal transduction by p53 class mediator	1	MAPKAPK5
+ telomere capping	1	MAPKAPK5
+septin cytoskeleton	1	MAPKAPK5
+ribosomal protein S6 kinase activity	1	RPS6KA4
+synapse	1	RPS6KA4
+protein tyrosine kinase activity	1	RPS6KA5
+histone H2AS1 kinase activity	1	RPS6KA5
+axon guidance	1	RPS6KA5
+ postsynapse organization	1	RPS6KA5

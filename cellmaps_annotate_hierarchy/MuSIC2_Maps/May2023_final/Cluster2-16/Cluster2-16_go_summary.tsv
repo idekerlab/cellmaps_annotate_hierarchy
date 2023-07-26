@@ -1,0 +1,502 @@
+Feature	Number of Genes	Genes
+protein binding	34	NDN, SMIM20, UHMK1, MFSD10, STX16, FKRP, NEURL1B, MAOA, SCGB2A1, EI24, STX8, TRDN, DKK3, SELENON, FEZ1, SPRYD7, SNAP47, HAUS1, CREB3, ANKMY2, MUL1, NDRG2, STXBP3, TNIP2, ABCB1, RNF167, CENPO, SCO2, PEX19, PBXIP1, SNAP29, PTTG1IP, SNTB2, HAUS2
+cytosol	23	MYO1D, NDN, STXBP5, STX16, FKRP, NEURL1B, MAOA, EI24, STX8, TRDN, HAUS1, CREB3, NDRG2, STXBP3, DGKE, TNIP2, RNF167, CENPO, PEX19, PBXIP1, SNAP29, HAUS2, RDH14
+plasma membrane	15	MYO1D, STXBP5, SLC27A4, CYP2C18, STX8, TRDN, FEZ1, SNAP47, ANKH, STXBP3, DGKE, ABCB1, RNF167, SNAP29, SNTB2
+cytoplasm	14	MYO1D, STXBP5, STX16, CYP2C18, FEZ1, METTL16, NDRG2, DGKE, ABCB1, RNF167, PEX19, SNAP29, PTTG1IP, SNTB2
+nucleoplasm	13	NDN, UHMK1, FKRP, CREB3, SAAL1, DGKE, TNIP2, CENPO, PEX19, PBXIP1, PTTG1IP, SNTB2, RDH14
+membrane	13	BCAP29, MFSD10, SLC27A4, DHRS13, EI24, TRDN, MUL1, ANKH, DGKE, ABCB1, PTTG1IP, SNTB2, RDH14
+nucleus	9	NDN, UHMK1, METTL16, CREB3, SAAL1, NDRG2, PBXIP1, PTTG1IP, RDH14
+endoplasmic reticulum membrane	7	BCAP29, SLC27A4, EI24, CYP2C18, SELENON, CREB3, RDH14
+centrosome	6	NDN, TRDN, FEZ1, HAUS1, SNAP29, HAUS2
+syntaxin binding	6	STXBP5, STX16, STX8, SNAP47, STXBP3, SNAP29
+Golgi apparatus	6	STX16, FKRP, EI24, FEZ1, NDRG2, SNTB2
+metal ion binding	6	FKRP, NEURL1B, ANKMY2, MUL1, DGKE, TNIP2
+endoplasmic reticulum	6	SLC27A4, EI24, STX8, TRDN, CREB3, RDH14
+extracellular exosome	5	MYO1D, NDRG2, STXBP3, ABCB1, PTTG1IP
+apoptotic process	5	BCAP29, MFSD10, EI24, MUL1, TNIP2
+SNARE complex	5	STXBP5, STX16, STX8, SNAP47, SNAP29
+molecular_function	5	HAUS1, SAAL1, NDRG2, PTTG1IP, HAUS2
+ATP binding	4	MYO1D, UHMK1, DGKE, ABCB1
+axon	4	MYO1D, UHMK1, FEZ1, MUL1
+intracellular protein transport	4	BCAP29, STX16, STX8, STXBP3
+SNAP receptor activity	4	STX16, STX8, SNAP47, SNAP29
+Golgi membrane	4	STX16, FKRP, CREB3, SNAP29
+perinuclear region of cytoplasm	4	STX16, STX8, SNAP47, NDRG2
+mitochondrion	4	MAOA, FEZ1, MUL1, SCO2
+protein transport	3	MYO1D, STXBP5, SNAP29
+endosome	3	MYO1D, STX8, RNF167
+early endosome	3	MYO1D, NEURL1B, STX8
+neuronal cell body	3	MYO1D, FEZ1, MUL1
+ transcription by RNA polymerase II	3	NDN, CREB3, TNIP2
+protein-containing complex	3	NDN, PEX19, SNTB2
+extracellular region	3	SMIM20, DHRS13, ANKH
+RNA binding	3	UHMK1, METTL16, SNTB2
+intracellular membrane-bounded organelle	3	UHMK1, STX16, CYP2C18
+exocytosis	3	STXBP5, SNAP47, SNAP29
+brush border membrane	3	MFSD10, SLC27A4, PEX19
+endomembrane system	3	STX16, STX8, SNAP47
+identical protein binding	3	FKRP, CREB3, MUL1
+extracellular space	3	FKRP, SCGB2A1, DKK3
+ubiquitin protein ligase activity	3	NEURL1B, MUL1, RNF167
+ubiquitin protein ligase binding	3	STX8, MUL1, ABCB1
+lysosomal membrane	3	STX8, RNF167, RDH14
+microtubule	3	FEZ1, PBXIP1, SNTB2
+presynapse	3	SNAP47, STXBP3, SNAP29
+protein stabilization	3	MUL1, TNIP2, PEX19
+calmodulin binding	2	MYO1D, SNTB2
+microvillus	2	MYO1D, SLC27A4
+actin cytoskeleton	2	MYO1D, NEURL1B
+basolateral plasma membrane	2	MYO1D, STXBP3
+vesicle	2	MYO1D, STX8
+perikaryon	2	MYO1D, NDN
+RNA polymerase II cis-regulatory region sequence-specific DNA binding	2	NDN, CREB3
+DNA-binding transcription activator activity, RNA polymerase II-specific	2	NDN, CREB3
+gamma-tubulin binding	2	NDN, FEZ1
+respiratory system process	2	NDN, SELENON
+mitochondrial cytochrome c oxidase assembly	2	SMIM20, SCO2
+mitochondrial inner membrane	2	SMIM20, SCO2
+enzyme binding	2	UHMK1, ANKMY2
+osteoblast differentiation	2	BCAP29, RDH14
+syntaxin-1 binding	2	STXBP5, STXBP3
+SNARE binding	2	STX16, STX8
+vesicle fusion	2	STX16, STX8
+vesicle docking	2	STX16, STX8
+trans-Golgi network	2	STX16, STX8
+focal adhesion	2	STX16, SNTB2
+protein ubiquitination	2	NEURL1B, MUL1
+establishment of localization in cell	2	SLC27A4, TRDN
+transport across blood-brain barrier	2	SLC27A4, ABCB1
+mitochondrial outer membrane	2	MAOA, MUL1
+oxidoreductase activity	2	DHRS13, SELENON
+negative regulation of cell growth	2	EI24, MUL1
+xenobiotic metabolic process	2	CYP2C18, ABCB1
+retinol metabolic process	2	CYP2C18, RDH14
+cellular response to type II interferon	2	STX8, STXBP3
+phagocytic vesicle	2	STX8, STXBP3
+ ryanodine-sensitive calcium-release channel activity	2	TRDN, SELENON
+Wnt signaling pathway	2	DKK3, NDRG2
+negative regulation of DNA-templated transcription	2	DKK3, PBXIP1
+calcium ion homeostasis	2	SELENON, ANKH
+cell adhesion	2	FEZ1, PBXIP1
+growth cone	2	FEZ1, NDRG2
+synaptic vesicle priming	2	SNAP47, SNAP29
+synaptic vesicle fusion to presynaptic active zone membrane	2	SNAP47, SNAP29
+centrosome cycle	2	HAUS1, HAUS2
+spindle assembly	2	HAUS1, HAUS2
+cell division	2	HAUS1, HAUS2
+HAUS complex	2	HAUS1, HAUS2
+mitotic spindle microtubule	2	HAUS1, HAUS2
+chromatin	2	CREB3, PBXIP1
+p53 binding	2	MUL1, PTTG1IP
+ubiquitin-protein transferase activity	2	MUL1, RNF167
+protein polyubiquitination	2	MUL1, RNF167
+ I-kappaB kinase/NF-kappaB signaling	2	MUL1, TNIP2
+peroxisome	2	MUL1, PEX19
+transmembrane transport	2	ANKH, ABCB1
+apical plasma membrane	2	STXBP3, ABCB1
+microfilament motor activity	1	MYO1D
+protein domain specific binding	1	MYO1D
+calcium-dependent protein binding	1	MYO1D
+actin filament binding	1	MYO1D
+actin filament organization	1	MYO1D
+vesicle transport along actin filament	1	MYO1D
+cellular localization	1	MYO1D
+early endosome to recycling endosome transport	1	MYO1D
+smooth endoplasmic reticulum	1	MYO1D
+brush border	1	MYO1D
+cell cortex	1	MYO1D
+myosin complex	1	MYO1D
+axolemma	1	MYO1D
+cytoplasmic vesicle	1	MYO1D
+neuron projection	1	MYO1D
+myelin sheath	1	MYO1D
+apical dendrite	1	MYO1D
+promoter-specific chromatin binding	1	NDN
+negative regulation of transcription by RNA polymerase II	1	NDN
+neuron migration	1	NDN
+axonal fasciculation	1	NDN
+central nervous system development	1	NDN
+glial cell migration	1	NDN
+post-embryonic development	1	NDN
+sensory perception of pain	1	NDN
+negative regulation of DNA-binding transcription factor activity	1	NDN
+neurotrophin TRK receptor signaling pathway	1	NDN
+axon extension	1	NDN
+multicellular organismal-level homeostasis	1	NDN
+genomic imprinting	1	NDN
+ protein deacetylation	1	NDN
+cell projection	1	NDN
+protein serine/threonine kinase activity	1	UHMK1
+transferase activity	1	UHMK1
+ribonucleoprotein complex binding	1	UHMK1
+protein serine kinase activity	1	UHMK1
+splicing factor binding	1	UHMK1
+peptidyl-serine phosphorylation	1	UHMK1
+neuron projection development	1	UHMK1
+ translational initiation	1	UHMK1
+protein autophosphorylation	1	UHMK1
+ protein export from nucleus	1	UHMK1
+ cell cycle	1	UHMK1
+nuclear speck	1	UHMK1
+dendrite cytoplasm	1	UHMK1
+neuronal ribonucleoprotein granule	1	UHMK1
+endoplasmic reticulum to Golgi vesicle-mediated transport	1	BCAP29
+protein localization to endoplasmic reticulum exit site	1	BCAP29
+GTPase activator activity	1	STXBP5
+myosin II binding	1	STXBP5
+ synaptic vesicle priming	1	STXBP5
+ exocytosis	1	STXBP5
+ protein secretion	1	STXBP5
+ synaptic vesicle exocytosis	1	STXBP5
+acetylcholine-gated channel complex	1	STXBP5
+synaptic vesicle	1	STXBP5
+extrinsic component of neuronal dense core vesicle membrane	1	STXBP5
+hippocampal mossy fiber to CA3 synapse	1	STXBP5
+tetracycline transmembrane transporter activity	1	MFSD10
+organic anion transmembrane transporter activity	1	MFSD10
+tetracycline transmembrane transport	1	MFSD10
+sodium-independent organic anion transport	1	MFSD10
+nuclear inner membrane	1	MFSD10
+cytoplasmic vesicle membrane	1	MFSD10
+endocytic recycling	1	STX16
+retrograde transport, endosome to Golgi	1	STX16
+synaptic vesicle membrane	1	STX16
+Golgi cisterna	1	STX16
+trans-Golgi network membrane	1	STX16
+dystroglycan binding	1	FKRP
+phosphotransferase activity, for other substituted phosphate groups	1	FKRP
+protein processing	1	FKRP
+protein O-linked mannosylation	1	FKRP
+protein tetramerization	1	FKRP
+rough endoplasmic reticulum	1	FKRP
+sarcolemma	1	FKRP
+Notch signaling pathway	1	NEURL1B
+ubiquitin-dependent endocytosis	1	NEURL1B
+nucleotide binding	1	SLC27A4
+long-chain fatty acid-CoA ligase activity	1	SLC27A4
+long-chain fatty acid transporter activity	1	SLC27A4
+fatty acid transmembrane transporter activity	1	SLC27A4
+very long-chain fatty acid-CoA ligase activity	1	SLC27A4
+arachidonate-CoA ligase activity	1	SLC27A4
+palmitoyl-CoA ligase activity	1	SLC27A4
+oleoyl-CoA ligase activity	1	SLC27A4
+oleate transmembrane transporter activity	1	SLC27A4
+medium-chain fatty acid transport	1	SLC27A4
+long-chain fatty acid metabolic process	1	SLC27A4
+fatty acid metabolic process	1	SLC27A4
+response to nutrient	1	SLC27A4
+fatty acid transport	1	SLC27A4
+long-chain fatty acid transport	1	SLC27A4
+very long-chain fatty acid catabolic process	1	SLC27A4
+ apoptotic process	1	SLC27A4
+skin development	1	SLC27A4
+glucose import in response to insulin stimulus	1	SLC27A4
+long-chain fatty acid import into cell	1	SLC27A4
+negative regulation of insulin receptor signaling pathway	1	SLC27A4
+negative regulation of all-trans-retinyl-ester hydrolase, 11-cis retinol forming activity	1	SLC27A4
+activation of GTPase activity	1	SLC27A4
+lipid transport across blood-brain barrier	1	SLC27A4
+primary amine oxidase activity	1	MAOA
+aliphatic amine oxidase activity	1	MAOA
+phenethylamine:oxygen oxidoreductase (deaminating) activity	1	MAOA
+monoamine oxidase activity	1	MAOA
+biogenic amine metabolic process	1	MAOA
+ signal transduction	1	MAOA
+neurotransmitter catabolic process	1	MAOA
+dopamine catabolic process	1	MAOA
+androgen receptor signaling pathway	1	SCGB2A1
+importin-alpha family protein binding	1	EI24
+macroautophagy	1	EI24
+nuclear membrane	1	EI24
+monooxygenase activity	1	CYP2C18
+iron ion binding	1	CYP2C18
+arachidonic acid epoxygenase activity	1	CYP2C18
+retinoic acid 4-hydroxylase activity	1	CYP2C18
+oxidoreductase activity, acting on paired donors, with incorporation or reduction of molecular oxygen, reduced flavin or flavoprotein as one donor, and incorporation of one atom of oxygen	1	CYP2C18
+oxygen binding	1	CYP2C18
+heme binding	1	CYP2C18
+aromatase activity	1	CYP2C18
+linoleic acid epoxygenase activity	1	CYP2C18
+epoxygenase P450 pathway	1	CYP2C18
+retinoic acid metabolic process	1	CYP2C18
+linoleic acid metabolic process	1	CYP2C18
+chloride channel inhibitor activity	1	STX8
+endosome to lysosome transport	1	STX8
+early endosome to late endosome transport	1	STX8
+ protein localization to plasma membrane	1	STX8
+late endosome	1	STX8
+late endosome membrane	1	STX8
+recycling endosome	1	STX8
+signaling receptor binding	1	TRDN
+protein-macromolecule adaptor activity	1	TRDN
+transmembrane transporter binding	1	TRDN
+intracellular calcium ion homeostasis	1	TRDN
+muscle contraction	1	TRDN
+response to bacterium	1	TRDN
+ cell communication by electrical coupling	1	TRDN
+ release of sequestered calcium ion into cytosol by sarcoplasmic reticulum	1	TRDN
+release of sequestered calcium ion into cytosol by sarcoplasmic reticulum	1	TRDN
+cytoplasmic microtubule organization	1	TRDN
+ release of sequestered calcium ion into cytosol	1	TRDN
+heart contraction	1	TRDN
+negative regulation of ryanodine-sensitive calcium-release channel activity	1	TRDN
+ cardiac muscle cell membrane potential	1	TRDN
+endoplasmic reticulum membrane organization	1	TRDN
+ cell communication by electrical coupling involved in cardiac conduction	1	TRDN
+junctional sarcoplasmic reticulum membrane	1	TRDN
+sarcoplasmic reticulum	1	TRDN
+junctional membrane complex	1	TRDN
+sarcoplasmic reticulum membrane	1	TRDN
+sarcoplasmic reticulum lumen	1	TRDN
+co-receptor binding	1	DKK3
+receptor antagonist activity	1	DKK3
+anatomical structure morphogenesis	1	DKK3
+ transforming growth factor beta receptor signaling pathway	1	DKK3
+adrenal gland development	1	DKK3
+negative regulation of aldosterone biosynthetic process	1	DKK3
+negative regulation of canonical Wnt signaling pathway	1	DKK3
+negative regulation of anti-Mullerian hormone signaling pathway	1	DKK3
+negative regulation of cortisol biosynthetic process	1	DKK3
+calcium ion binding	1	SELENON
+mitochondrion organization	1	SELENON
+skeletal muscle satellite cell differentiation	1	SELENON
+skeletal muscle satellite cell maintenance involved in skeletal muscle regeneration	1	SELENON
+ skeletal muscle cell proliferation	1	SELENON
+response to muscle activity involved in regulation of muscle adaptation	1	SELENON
+multicellular organismal response to stress	1	SELENON
+cellular response to oxidative stress	1	SELENON
+lung alveolus development	1	SELENON
+skeletal muscle fiber development	1	SELENON
+cellular response to caffeine	1	SELENON
+ response to oxidative stress	1	SELENON
+protein kinase C binding	1	FEZ1
+nervous system development	1	FEZ1
+axon guidance	1	FEZ1
+ neuron projection development	1	FEZ1
+hippocampus development	1	FEZ1
+establishment of cell polarity	1	FEZ1
+establishment of mitochondrion localization	1	FEZ1
+ anterograde axonal transport of mitochondrion	1	FEZ1
+mitochondrion morphogenesis	1	FEZ1
+cellular response to growth factor stimulus	1	FEZ1
+negative regulation of autophagosome assembly	1	FEZ1
+dendrite	1	FEZ1
+mRNA (N6-adenosine)-methyltransferase activity	1	METTL16
+U6 snRNA 3'-end binding	1	METTL16
+RNA stem-loop binding	1	METTL16
+23S rRNA (adenine(1618)-N(6))-methyltransferase activity	1	METTL16
+U6 snRNA (adenine-(43)-N(6))-methyltransferase activity	1	METTL16
+mRNA catabolic process	1	METTL16
+S-adenosylmethionine biosynthetic process	1	METTL16
+post-transcriptional regulation of gene expression	1	METTL16
+ mRNA splicing, via spliceosome	1	METTL16
+mRNA destabilization	1	METTL16
+rRNA base methylation	1	METTL16
+mRNA methylation	1	METTL16
+snRNA (adenine-N6)-methylation	1	METTL16
+negative regulation of 3'-UTR-mediated mRNA stabilization	1	METTL16
+spindle pole	1	HAUS1
+RNA polymerase II transcription regulatory region sequence-specific DNA binding	1	CREB3
+DNA-binding transcription factor activity, RNA polymerase II-specific	1	CREB3
+transcription coregulator binding	1	CREB3
+sequence-specific double-stranded DNA binding	1	CREB3
+chemotaxis	1	CREB3
+ transcription from RNA polymerase II promoter involved in unfolded protein response	1	CREB3
+ monocyte chemotaxis	1	CREB3
+integrated stress response signaling	1	CREB3
+negative regulation of endoplasmic reticulum stress-induced intrinsic apoptotic signaling pathway	1	CREB3
+RNA polymerase II transcription regulator complex	1	CREB3
+cilium	1	ANKMY2
+SUMO transferase activity	1	MUL1
+mitochondrial fission	1	MUL1
+activation of cysteine-type endopeptidase activity involved in apoptotic process	1	MUL1
+negative regulation of mitochondrial fusion	1	MUL1
+ mitochondrion organization	1	MUL1
+protein sumoylation	1	MUL1
+protein destabilization	1	MUL1
+ protein sumoylation	1	MUL1
+negative regulation of innate immune response	1	MUL1
+negative regulation of defense response to virus by host	1	MUL1
+mitochondrion localization	1	MUL1
+ mitochondrial membrane potential	1	MUL1
+negative regulation of protein kinase B signaling	1	MUL1
+negative regulation of type I interferon-mediated signaling pathway	1	MUL1
+cellular response to exogenous dsRNA	1	MUL1
+negative regulation of chemokine (C-C motif) ligand 5 production	1	MUL1
+ mitochondrial fission	1	MUL1
+ mitochondrial outer membrane permeabilization involved in apoptotic signaling pathway	1	MUL1
+ dendrite extension	1	MUL1
+ autophagy of mitochondrion in response to mitochondrial depolarization	1	MUL1
+inorganic phosphate transmembrane transporter activity	1	ANKH
+phosphate ion transmembrane transporter activity	1	ANKH
+inorganic diphosphate transmembrane transporter activity	1	ANKH
+skeletal system development	1	ANKH
+locomotory behavior	1	ANKH
+gene expression	1	ANKH
+bone mineralization	1	ANKH
+ bone mineralization	1	ANKH
+inorganic diphosphate transport	1	ANKH
+phosphate ion transmembrane transport	1	ANKH
+muscle cell cellular homeostasis	1	ANKH
+phosphate ion homeostasis	1	ANKH
+diphosphate metabolic process	1	ANKH
+cementum mineralization	1	ANKH
+inhibition of non-skeletal tissue mineralization	1	ANKH
+response to sodium phosphate	1	ANKH
+outer membrane	1	ANKH
+ synoviocyte proliferation	1	SAAL1
+negative regulation of cytokine production	1	NDRG2
+signal transduction	1	NDRG2
+ vascular endothelial growth factor production	1	NDRG2
+substantia nigra development	1	NDRG2
+cell differentiation	1	NDRG2
+negative regulation of ERK1 and ERK2 cascade	1	NDRG2
+ platelet-derived growth factor production	1	NDRG2
+negative regulation of vascular associated smooth muscle cell proliferation	1	NDRG2
+vascular associated smooth muscle cell proliferation	1	NDRG2
+protein-containing complex binding	1	STXBP3
+intracellular glucose homeostasis	1	STXBP3
+vesicle docking involved in exocytosis	1	STXBP3
+neurotransmitter secretion	1	STXBP3
+brain development	1	STXBP3
+vesicle-mediated transport	1	STXBP3
+protein to membrane docking	1	STXBP3
+insulin secretion	1	STXBP3
+response to insulin	1	STXBP3
+neutrophil degranulation	1	STXBP3
+negative regulation of calcium ion-dependent exocytosis	1	STXBP3
+negative regulation of glucose import	1	STXBP3
+platelet aggregation	1	STXBP3
+secretory granule	1	STXBP3
+platelet alpha granule	1	STXBP3
+specific granule	1	STXBP3
+tertiary granule	1	STXBP3
+diacylglycerol kinase activity	1	DGKE
+kinase activity	1	DGKE
+phosphatidic acid biosynthetic process	1	DGKE
+phosphatidylinositol biosynthetic process	1	DGKE
+protein kinase C-activating G protein-coupled receptor signaling pathway	1	DGKE
+platelet activation	1	DGKE
+diacylglycerol metabolic process	1	DGKE
+lipid phosphorylation	1	DGKE
+modulation of chemical synaptic transmission	1	DGKE
+glutamatergic synapse	1	DGKE
+protein kinase binding	1	TNIP2
+polyubiquitin modification-dependent protein binding	1	TNIP2
+K63-linked polyubiquitin modification-dependent protein binding	1	TNIP2
+inflammatory response	1	TNIP2
+CD40 signaling pathway	1	TNIP2
+toll-like receptor 2 signaling pathway	1	TNIP2
+toll-like receptor 3 signaling pathway	1	TNIP2
+toll-like receptor 9 signaling pathway	1	TNIP2
+ macrophage activation	1	TNIP2
+ B cell activation	1	TNIP2
+interleukin-1-mediated signaling pathway	1	TNIP2
+cellular response to lipopolysaccharide	1	TNIP2
+negative regulation of endothelial cell apoptotic process	1	TNIP2
+ABC-type xenobiotic transporter activity	1	ABCB1
+efflux transmembrane transporter activity	1	ABCB1
+ATP hydrolysis activity	1	ABCB1
+transmembrane transporter activity	1	ABCB1
+ATPase-coupled transmembrane transporter activity	1	ABCB1
+xenobiotic transmembrane transporter activity	1	ABCB1
+carboxylic acid transmembrane transporter activity	1	ABCB1
+phosphatidylcholine floppase activity	1	ABCB1
+phosphatidylethanolamine flippase activity	1	ABCB1
+ceramide floppase activity	1	ABCB1
+floppase activity	1	ABCB1
+G2/M transition of mitotic cell cycle	1	ABCB1
+response to xenobiotic stimulus	1	ABCB1
+phospholipid translocation	1	ABCB1
+terpenoid transport	1	ABCB1
+ response to osmotic stress	1	ABCB1
+transepithelial transport	1	ABCB1
+stem cell proliferation	1	ABCB1
+ceramide translocation	1	ABCB1
+export across plasma membrane	1	ABCB1
+ anion channel activity	1	ABCB1
+carboxylic acid transmembrane transport	1	ABCB1
+xenobiotic detoxification by transmembrane export across the plasma membrane	1	ABCB1
+xenobiotic transport across blood-brain barrier	1	ABCB1
+ chloride transport	1	ABCB1
+cell surface	1	ABCB1
+external side of apical plasma membrane	1	ABCB1
+GTPase inhibitor activity	1	RNF167
+zinc ion binding	1	RNF167
+molecular function activator activity	1	RNF167
+molecular function inhibitor activity	1	RNF167
+ubiquitin-dependent protein catabolic process	1	RNF167
+lysosome localization	1	RNF167
+protein K29-linked ubiquitination	1	RNF167
+negative regulation of cell cycle	1	RNF167
+organelle localization	1	RNF167
+ synaptic transmission, glutamatergic	1	RNF167
+protein K63-linked ubiquitination	1	RNF167
+negative regulation of TORC1 signaling	1	RNF167
+ TORC1 signaling	1	RNF167
+cellular response to leucine starvation	1	RNF167
+lysosome	1	RNF167
+endolysosome membrane	1	RNF167
+centromere complex assembly	1	CENPO
+nuclear body	1	CENPO
+Mis6-Sim4 complex	1	CENPO
+copper ion binding	1	SCO2
+protein-disulfide reductase activity	1	SCO2
+copper chaperone activity	1	SCO2
+eye development	1	SCO2
+in utero embryonic development	1	SCO2
+muscle system process	1	SCO2
+intracellular copper ion homeostasis	1	SCO2
+response to activity	1	SCO2
+respiratory electron transport chain	1	SCO2
+mitochondrial matrix	1	SCO2
+myofibril	1	SCO2
+peroxisome membrane targeting sequence binding	1	PEX19
+peroxisome membrane class-1 targeting sequence binding	1	PEX19
+ATPase binding	1	PEX19
+protein carrier chaperone	1	PEX19
+protein targeting to peroxisome	1	PEX19
+peroxisome organization	1	PEX19
+peroxisome fission	1	PEX19
+protein import into peroxisome membrane	1	PEX19
+chaperone-mediated protein folding	1	PEX19
+establishment of protein localization to peroxisome	1	PEX19
+negative regulation of lipid binding	1	PEX19
+peroxisomal membrane	1	PEX19
+transcription coactivator activity	1	PBXIP1
+transcription corepressor activity	1	PBXIP1
+DNA-binding transcription factor binding	1	PBXIP1
+production of molecular mediator involved in inflammatory response	1	PBXIP1
+cell migration	1	PBXIP1
+extracellular matrix disassembly	1	PBXIP1
+hemopoiesis	1	PBXIP1
+ Wnt signaling pathway	1	PBXIP1
+ DNA-templated transcription	1	PBXIP1
+articular cartilage development	1	PBXIP1
+gene expression involved in extracellular matrix organization	1	PBXIP1
+ chondrocyte proliferation	1	PBXIP1
+transcription regulator complex	1	PBXIP1
+vesicle targeting	1	SNAP29
+autophagosome membrane docking	1	SNAP29
+cilium assembly	1	SNAP29
+membrane fusion	1	SNAP29
+autophagosome maturation	1	SNAP29
+autophagosome membrane	1	SNAP29
+autophagosome	1	SNAP29
+ciliary pocket membrane	1	SNAP29
+azurophil granule membrane	1	SNAP29
+protein import into nucleus	1	PTTG1IP
+ protein ubiquitination	1	PTTG1IP
+negative regulation of DNA damage response, signal transduction by p53 class mediator	1	PTTG1IP
+negative regulation of intrinsic apoptotic signaling pathway by p53 class mediator	1	PTTG1IP
+mitochondrial membrane	1	CEBPZOS
+actin binding	1	SNTB2
+structural molecule activity	1	SNTB2
+intracellular anatomical structure	1	SNTB2
+dystrophin-associated glycoprotein complex	1	SNTB2
+transport vesicle membrane	1	SNTB2
+synapse	1	SNTB2
+microtubule nucleation	1	HAUS2
+steroid dehydrogenase activity	1	RDH14
+NADP-retinol dehydrogenase activity	1	RDH14
+11-cis-retinol dehydrogenase activity	1	RDH14

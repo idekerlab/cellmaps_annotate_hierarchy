@@ -1,0 +1,4 @@
+### Validated References: 
+[1] Gromova, Kira V, Muhia, Mary, Rothammer, Nicola, Gee, Christine E, Thies, Edda, Schaefer, Irina, Kress, Sabrina, Kilimann, Manfred W, Shevchuk, Olga, Oertner, Thomas G, Kneussel, Matthias. "Neurobeachin and the Kinesin KIF21B Are Critical for Endocytic Recycling of NMDA Receptors and Regulate Social Behavior." Cell reports, 2018, pp. 2705-2717.
+[2] Hu, Ling-Yueh, Chang, Che-Chang, Huang, Yen-Sung, Chou, Wen-Cheng, Lin, Ying-Mei, Ho, Chun-Chen, Chen, Wei-Ting, Shih, Hsiu-Ming, Hsiung, Chia-Ni, Wu, Pei-Ei, Shen, Chen-Yang. "SUMOylation of XRCC1 activated by poly (ADP-ribosyl)ation regulates DNA repair." Human molecular genetics, 2018, pp. 2306-2317.
+[3] Ashraf, Shazia, Deshpande, Neha, Vasanth, Shivakumar, Melangath, Geetha, Wong, Raymond J, Zhao, Yan, Price, Marianne O, Price, Francis W, Jurkunas, Ula V. "Dysregulation of DNA repair genes in Fuchs endothelial corneal dystrophy." Experimental eye research, 2023, pp. 109499.

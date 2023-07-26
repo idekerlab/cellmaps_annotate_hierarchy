@@ -1,0 +1,176 @@
+Feature	Number of Genes	Genes
+protein binding	4	PIK3CA, BMPR1A, IFNLR1, CALCOCO2
+plasma membrane	3	PIK3CA, BMPR1A, IFNLR1
+membrane	3	BMPR1A, IFNLR1, CALCOCO2
+protein serine/threonine kinase activity	2	PIK3CA, BMPR1A
+ATP binding	2	PIK3CA, BMPR1A
+angiogenesis	2	PIK3CA, BMPR1A
+negative regulation of gene expression	2	PIK3CA, BMPR1A
+ cellular respiration	2	PIK3CA, IFNLR1
+cytoplasm	2	PIK3CA, CALCOCO2
+cytosol	2	PIK3CA, CALCOCO2
+perinuclear region of cytoplasm	2	PIK3CA, CALCOCO2
+protein homodimerization activity	2	BMPR1A, CALCOCO2
+metal ion binding	2	BMPR1A, CALCOCO2
+kinase activity	1	PIK3CA
+1-phosphatidylinositol-3-kinase activity	1	PIK3CA
+phosphatidylinositol 3-kinase activity	1	PIK3CA
+1-phosphatidylinositol-4-phosphate 3-kinase activity	1	PIK3CA
+protein serine/threonine kinase activator activity	1	PIK3CA
+insulin receptor substrate binding	1	PIK3CA
+phosphatidylinositol-4,5-bisphosphate 3-kinase activity	1	PIK3CA
+phosphatidylinositol-3,4-bisphosphate 5-kinase activity	1	PIK3CA
+protein serine kinase activity	1	PIK3CA
+liver development	1	PIK3CA
+vasculature development	1	PIK3CA
+glucose metabolic process	1	PIK3CA
+phagocytosis	1	PIK3CA
+epidermal growth factor receptor signaling pathway	1	PIK3CA
+ lamellipodium assembly	1	PIK3CA
+phosphatidylinositol 3-kinase signaling	1	PIK3CA
+response to activity	1	PIK3CA
+response to muscle inactivity	1	PIK3CA
+negative regulation of macroautophagy	1	PIK3CA
+phosphorylation	1	PIK3CA
+cell migration	1	PIK3CA
+actin cytoskeleton organization	1	PIK3CA
+platelet activation	1	PIK3CA
+negative regulation of actin filament depolymerization	1	PIK3CA
+T cell costimulation	1	PIK3CA
+ TOR signaling	1	PIK3CA
+ peptidyl-serine phosphorylation	1	PIK3CA
+response to muscle stretch	1	PIK3CA
+phosphatidylinositol-3-phosphate biosynthetic process	1	PIK3CA
+insulin receptor signaling pathway via phosphatidylinositol 3-kinase	1	PIK3CA
+vascular endothelial growth factor signaling pathway	1	PIK3CA
+ multicellular organism growth	1	PIK3CA
+response to leucine	1	PIK3CA
+anoikis	1	PIK3CA
+protein kinase B signaling	1	PIK3CA
+negative regulation of neuron apoptotic process	1	PIK3CA
+endothelial cell migration	1	PIK3CA
+ gene expression via CpG island demethylation	1	PIK3CA
+phosphatidylinositol phosphate biosynthetic process	1	PIK3CA
+insulin-like growth factor receptor signaling pathway	1	PIK3CA
+ smooth muscle cell proliferation	1	PIK3CA
+T cell receptor signaling pathway	1	PIK3CA
+ protein kinase B signaling	1	PIK3CA
+relaxation of cardiac muscle	1	PIK3CA
+cardiac muscle contraction	1	PIK3CA
+adipose tissue development	1	PIK3CA
+cellular response to glucose stimulus	1	PIK3CA
+cellular response to hydrostatic pressure	1	PIK3CA
+response to dexamethasone	1	PIK3CA
+cardiac muscle cell contraction	1	PIK3CA
+energy homeostasis	1	PIK3CA
+ actin filament organization	1	PIK3CA
+response to butyrate	1	PIK3CA
+negative regulation of fibroblast apoptotic process	1	PIK3CA
+ genetic imprinting	1	PIK3CA
+negative regulation of anoikis	1	PIK3CA
+phosphatidylinositol 3-kinase complex	1	PIK3CA
+phosphatidylinositol 3-kinase complex, class IA	1	PIK3CA
+phosphatidylinositol 3-kinase complex, class IB	1	PIK3CA
+intercalated disc	1	PIK3CA
+lamellipodium	1	PIK3CA
+transmembrane receptor protein serine/threonine kinase activity	1	BMPR1A
+transforming growth factor beta receptor activity, type I	1	BMPR1A
+BMP binding	1	BMPR1A
+SMAD binding	1	BMPR1A
+BMP receptor activity	1	BMPR1A
+osteoblast differentiation	1	BMPR1A
+in utero embryonic development	1	BMPR1A
+mesoderm formation	1	BMPR1A
+somitogenesis	1	BMPR1A
+Mullerian duct regression	1	BMPR1A
+ mesenchymal cell proliferation	1	BMPR1A
+chondrocyte differentiation	1	BMPR1A
+outflow tract septum morphogenesis	1	BMPR1A
+outflow tract morphogenesis	1	BMPR1A
+cardiac conduction system development	1	BMPR1A
+atrioventricular valve development	1	BMPR1A
+mitral valve morphogenesis	1	BMPR1A
+tricuspid valve morphogenesis	1	BMPR1A
+endocardial cushion morphogenesis	1	BMPR1A
+cardiac right ventricle morphogenesis	1	BMPR1A
+ventricular trabecula myocardium morphogenesis	1	BMPR1A
+ventricular compact myocardium morphogenesis	1	BMPR1A
+endocardial cushion formation	1	BMPR1A
+protein phosphorylation	1	BMPR1A
+immune response	1	BMPR1A
+transforming growth factor beta receptor signaling pathway	1	BMPR1A
+ectoderm development	1	BMPR1A
+dorsal/ventral axis specification	1	BMPR1A
+dorsal/ventral pattern formation	1	BMPR1A
+ gene expression	1	BMPR1A
+ cardiac muscle cell apoptotic process	1	BMPR1A
+ pathway-restricted SMAD protein phosphorylation	1	BMPR1A
+neural crest cell development	1	BMPR1A
+negative regulation of smooth muscle cell migration	1	BMPR1A
+central nervous system neuron differentiation	1	BMPR1A
+pituitary gland development	1	BMPR1A
+neural plate mediolateral regionalization	1	BMPR1A
+lung development	1	BMPR1A
+ bone mineralization	1	BMPR1A
+BMP signaling pathway	1	BMPR1A
+ transforming growth factor beta2 production	1	BMPR1A
+somatic stem cell population maintenance	1	BMPR1A
+hindlimb morphogenesis	1	BMPR1A
+dorsal aorta morphogenesis	1	BMPR1A
+odontogenesis of dentin-containing tooth	1	BMPR1A
+embryonic digit morphogenesis	1	BMPR1A
+ osteoblast differentiation	1	BMPR1A
+ transcription by RNA polymerase II	1	BMPR1A
+paraxial mesoderm structural organization	1	BMPR1A
+lateral mesoderm development	1	BMPR1A
+ lateral mesodermal cell fate specification	1	BMPR1A
+mesendoderm development	1	BMPR1A
+embryonic organ development	1	BMPR1A
+developmental growth	1	BMPR1A
+epithelial cell proliferation	1	BMPR1A
+ epithelial cell proliferation	1	BMPR1A
+negative regulation of neurogenesis	1	BMPR1A
+negative regulation of muscle cell differentiation	1	BMPR1A
+roof of mouth development	1	BMPR1A
+ cardiac muscle cell proliferation	1	BMPR1A
+ SMAD protein signal transduction	1	BMPR1A
+ventricular septum morphogenesis	1	BMPR1A
+heart formation	1	BMPR1A
+atrioventricular node cell development	1	BMPR1A
+BMP signaling pathway involved in heart development	1	BMPR1A
+pharyngeal arch artery morphogenesis	1	BMPR1A
+cellular response to growth factor stimulus	1	BMPR1A
+cellular response to BMP stimulus	1	BMPR1A
+ miRNA transcription	1	BMPR1A
+ cardiac ventricle development	1	BMPR1A
+ vascular associated smooth muscle cell proliferation	1	BMPR1A
+fibrous ring of heart morphogenesis	1	BMPR1A
+ neural crest cell differentiation	1	BMPR1A
+ cellular senescence	1	BMPR1A
+caveola	1	BMPR1A
+external side of plasma membrane	1	BMPR1A
+dendrite	1	BMPR1A
+neuronal cell body	1	BMPR1A
+receptor complex	1	BMPR1A
+HFE-transferrin receptor complex	1	BMPR1A
+cytokine receptor activity	1	IFNLR1
+mucosal immune response	1	IFNLR1
+negative regulation of cell population proliferation	1	IFNLR1
+response to type III interferon	1	IFNLR1
+type III interferon-mediated signaling pathway	1	IFNLR1
+ defense response to virus by host	1	IFNLR1
+defense response to virus	1	IFNLR1
+cellular response to virus	1	IFNLR1
+interleukin-28 receptor complex	1	IFNLR1
+viral process	1	CALCOCO2
+response to type II interferon	1	CALCOCO2
+selective autophagy	1	CALCOCO2
+xenophagy	1	CALCOCO2
+ autophagosome maturation	1	CALCOCO2
+autophagosome membrane	1	CALCOCO2
+nucleus	1	CALCOCO2
+autophagosome	1	CALCOCO2
+cytoskeleton	1	CALCOCO2
+PML body	1	CALCOCO2
+cytoplasmic vesicle	1	CALCOCO2
+intracellular membrane-bounded organelle	1	CALCOCO2

@@ -1,0 +1,94 @@
+Your response should be formatted as Markdown paragraphs
+Write a critical and concise analysis of this human protein system, describing your reasoning as you go and providing references to scientific papers.
+
+A critical goal of the analysis is to determine if this is a novel complex or if any proteins are novel members of a known complex
+
+Format with Title, Summary, and References sections.        
+Avoid overly general statements of how the proteins are involved in various cellular processes        
+Avoid repeating the goals of the analysis.
+
+What cellular components and complexes are involved in this system?
+What mechanisms and biological processes are performed by this system?
+Propose a name for the system to reflect the cellular location and function, and should be specific but brief. Do not compose an acronym. Place it as the title of your report
+Human Proteins: BRK1, C12orf57, CDK5RAP1, FBXO38, ZNF843, TOR1B, DPCD, POLR3B, MNS1, TADA2B, ZNF446, NAMPT, CDYL, KIF22, KAT6A, TLCD4, MAST3, AK6, NFATC4, NUP43, VPS72, TGIF2, POMP, NSL1, ANXA9, MORF4L1, UBR2, FBXL4, LMNA, UFC1, TBC1D8, TCP11L2, POLDIP3, ATXN7L3, UBE4A, RFXAP, ILRUN, FHIP2A, SMTNL2, WRN, SERPINB13, NDC80, SCAND1, TNIP1, SOHLH1, TMEM259, TLE5, CHD5, HAUS6, RALGAPB, GCAT, USP22, IQUB, TAF5L, USP43, ZNF217, TCF12, CCDC32, PARN, PHLDB3, N4BP2L2, OIP5, EXOSC7, ALMS1, ARMCX5, BORCS7, CRY2, CSTPP1, GNAQ, GNB5, IFT57, INTS5, LIMK1, LMTK2, MAGEA4, MAPK14, PLEKHN1, PPP1R16B, PRKAA1, SMC4, TAB1, TAB3, TSC22D3.
+
+System features from GO terms: 
+protein binding: 74 proteins: BRK1, C12orf57, FBXO38, ZNF843, TOR1B, DPCD, MNS1, TADA2B, ZNF446, NAMPT, CDYL, KIF22, KAT6A, TLCD4, MAST3, AK6, NFATC4, NUP43, VPS72, POMP, NSL1, ANXA9, MORF4L1, UBR2, FBXL4, LMNA, UFC1, TBC1D8, TCP11L2, POLDIP3, ATXN7L3, UBE4A, RFXAP, ILRUN, FHIP2A, WRN, SERPINB13, NDC80, SCAND1, TNIP1, SOHLH1, TLE5, CHD5, HAUS6, RALGAPB, USP22, IQUB, TAF5L, ZNF217, TCF12, CCDC32, PARN, N4BP2L2, OIP5, EXOSC7, ARMCX5, BORCS7, CRY2, CSTPP1, GNAQ, GNB5, IFT57, INTS5, LIMK1, LMTK2, MAGEA4, MAPK14, PLEKHN1, PPP1R16B, PRKAA1, SMC4, TAB1, TAB3, TSC22D3
+nucleus: 43 proteins: FBXO38, DPCD, TADA2B, ZNF446, CDYL, KIF22, KAT6A, AK6, NFATC4, VPS72, TGIF2, POMP, UBR2, LMNA, POLDIP3, ATXN7L3, UBE4A, RFXAP, ILRUN, WRN, NDC80, SCAND1, SOHLH1, TLE5, CHD5, GCAT, TAF5L, ZNF217, TCF12, PARN, N4BP2L2, OIP5, EXOSC7, CRY2, GNB5, INTS5, LIMK1, MAGEA4, MAPK14, PPP1R16B, PRKAA1, SMC4, TSC22D3
+cytosol: 36 proteins: BRK1, CDK5RAP1, FBXO38, POLR3B, NAMPT, KIF22, KAT6A, NFATC4, NUP43, POMP, NSL1, ANXA9, UBR2, FBXL4, LMNA, POLDIP3, ILRUN, SERPINB13, NDC80, TNIP1, CHD5, HAUS6, PARN, EXOSC7, ALMS1, CRY2, GNB5, INTS5, LIMK1, LMTK2, MAPK14, PRKAA1, SMC4, TAB1, TAB3, TSC22D3
+nuclear speck: 33 proteins: C12orf57, NAMPT, CDYL, KIF22, KAT6A, AK6, NFATC4, NUP43, VPS72, POMP, NSL1, MORF4L1, FBXL4, LMNA, POLDIP3, RFXAP, ILRUN, WRN, SERPINB13, CHD5, GCAT, TAF5L, ZNF217, TCF12, PARN, OIP5, CRY2, LIMK1, MAPK14, PPP1R16B, PRKAA1, SMC4, TAB1
+nucleoplasm: 27 proteins: CDK5RAP1, POLR3B, TADA2B, KAT6A, AK6, NUP43, VPS72, TGIF2, MORF4L1, LMNA, POLDIP3, WRN, SERPINB13, NDC80, TNIP1, CHD5, GCAT, USP22, USP43, ZNF217, TCF12, OIP5, EXOSC7, INTS5, MAPK14, PRKAA1, SMC4
+cytoplasm: 25 proteins: C12orf57, FBXO38, CDYL, MAST3, AK6, POMP, ANXA9, UBR2, POLDIP3, UBE4A, ILRUN, WRN, SERPINB13, SOHLH1, TCF12, PARN, CRY2, CSTPP1, GNAQ, GNB5, INTS5, LIMK1, MAPK14, PPP1R16B, PRKAA1
+ transcription by RNA polymerase II: 14 proteins: TADA2B, ZNF446, NAMPT, NFATC4, ATXN7L3, RFXAP, TNIP1, SOHLH1, CHD5, USP22, TAF5L, TCF12, MAPK14, TSC22D3
+metal ion binding: 11 proteins: CDK5RAP1, ZNF843, POLR3B, ZNF446, CHD5, ZNF217, PARN, OIP5, GNAQ, LIMK1, PRKAA1
+ATP binding: 11 proteins: TOR1B, KIF22, MAST3, AK6, WRN, CHD5, LIMK1, LMTK2, MAPK14, PRKAA1, SMC4
+ DNA-templated transcription: 11 proteins: TADA2B, KAT6A, VPS72, TGIF2, MORF4L1, ATXN7L3, SCAND1, USP22, TAF5L, ZNF217, PRKAA1
+chromatin: 10 proteins: ZNF446, KIF22, NFATC4, TGIF2, UBR2, SOHLH1, CHD5, TCF12, OIP5, PRKAA1
+DNA binding: 9 proteins: POLR3B, KIF22, KAT6A, VPS72, WRN, SOHLH1, CHD5, CRY2, IFT57
+membrane: 9 proteins: TLCD4, AK6, POMP, TBC1D8, NDC80, CHD5, INTS5, LIMK1, LMTK2
+negative regulation of transcription by RNA polymerase II: 9 proteins: NFATC4, VPS72, TGIF2, TLE5, CHD5, ZNF217, N4BP2L2, CRY2, MAGEA4
+extracellular exosome: 8 proteins: BRK1, TOR1B, NAMPT, UFC1, SERPINB13, N4BP2L2, GNAQ, TAB3
+centrosome: 8 proteins: AK6, TGIF2, ILRUN, WRN, NDC80, HAUS6, ALMS1, IFT57
+identical protein binding: 7 proteins: BRK1, TOR1B, MNS1, NAMPT, NDC80, TNIP1, OIP5
+chromatin binding: 7 proteins: TADA2B, CDYL, MORF4L1, WRN, CHD5, PRKAA1, SMC4
+molecular_function: 6 proteins: C12orf57, TLCD4, HAUS6, N4BP2L2, ALMS1, MAGEA4
+mitochondrion: 6 proteins: CDK5RAP1, GCAT, ZNF217, CRY2, MAPK14, PLEKHN1
+ATP hydrolysis activity: 6 proteins: TOR1B, KIF22, AK6, WRN, CHD5, SMC4
+zinc ion binding: 6 proteins: TADA2B, KAT6A, UBR2, ATXN7L3, USP22, TAB3
+DNA-binding transcription factor activity, RNA polymerase II-specific: 6 proteins: ZNF446, NFATC4, TGIF2, SOHLH1, ZNF217, TCF12
+signal transduction: 6 proteins: NAMPT, TCP11L2, GNB5, LIMK1, MAPK14, PRKAA1
+nucleolus: 6 proteins: KAT6A, AK6, WRN, SERPINB13, PARN, EXOSC7
+cell division: 6 proteins: NUP43, NSL1, NDC80, HAUS6, OIP5, SMC4
+protein-containing complex binding: 5 proteins: BRK1, POLDIP3, WRN, PRKAA1, TAB1
+endoplasmic reticulum: 5 proteins: TOR1B, TLCD4, POMP, TMEM259, TAB3
+transcription coactivator activity: 5 proteins: TADA2B, KAT6A, ATXN7L3, USP22, TAF5L
+RNA polymerase II cis-regulatory region sequence-specific DNA binding: 5 proteins: ZNF446, NFATC4, TGIF2, ZNF217, TCF12
+negative regulation of DNA-templated transcription: 5 proteins: CDYL, KAT6A, TLE5, ZNF217, CRY2
+ gene expression: 5 proteins: KAT6A, LMNA, TCF12, MAPK14, PRKAA1
+protein serine/threonine kinase activity: 5 proteins: MAST3, LIMK1, LMTK2, MAPK14, PRKAA1
+protein serine kinase activity: 5 proteins: MAST3, LIMK1, LMTK2, MAPK14, PRKAA1
+cytoskeleton: 4 proteins: BRK1, IQUB, LIMK1, PLEKHN1
+nuclear envelope: 4 proteins: TOR1B, MNS1, NUP43, LMNA
+nuclear membrane: 4 proteins: TOR1B, LMNA, GNAQ, INTS5
+spermatogenesis: 4 proteins: DPCD, CDYL, UBR2, SOHLH1
+ DNA repair: 4 proteins: TADA2B, ATXN7L3, USP22, TAF5L
+chromatin remodeling: 4 proteins: TADA2B, CHD5, USP22, PRKAA1
+monoubiquitinated histone deubiquitination: 4 proteins: TADA2B, ATXN7L3, USP22, TAF5L
+monoubiquitinated histone H2A deubiquitination: 4 proteins: TADA2B, ATXN7L3, USP22, TAF5L
+ RNA splicing: 4 proteins: TADA2B, ATXN7L3, USP22, TAF5L
+histone H3 acetylation: 4 proteins: TADA2B, ATXN7L3, USP22, TAF5L
+SAGA complex: 4 proteins: TADA2B, ATXN7L3, USP22, TAF5L
+kinetochore: 4 proteins: KIF22, NUP43, NSL1, NDC80
+histone acetylation: 4 proteins: KAT6A, VPS72, MORF4L1, TAF5L
+cellular senescence: 4 proteins: KAT6A, LMNA, WRN, MAPK14
+ apoptotic process: 4 proteins: VPS72, MORF4L1, IFT57, PLEKHN1
+ubiquitin-dependent protein catabolic process: 4 proteins: FBXL4, UBE4A, USP22, USP43
+GTPase activator activity: 4 proteins: TBC1D8, RALGAPB, GNAQ, GNB5
+enzyme binding: 4 proteins: USP22, PHLDB3, N4BP2L2, MAPK14
+plasma membrane: 4 proteins: GNAQ, PLEKHN1, PPP1R16B, TAB3
+protein kinase binding: 3 proteins: CDK5RAP1, PARN, CRY2
+brain development: 3 proteins: CDK5RAP1, UFC1, WRN
+cellular_component: 3 proteins: CDK5RAP1, TLCD4, MAGEA4
+extracellular region: 3 proteins: DPCD, CRY2, MAPK14
+ cell population proliferation: 3 proteins: NAMPT, TBC1D8, PRKAA1
+transcription corepressor activity: 3 proteins: CDYL, TLE5, N4BP2L2
+microtubule binding: 3 proteins: KIF22, HAUS6, ALMS1
+nucleosome: 3 proteins: KAT6A, VPS72, MORF4L1
+peptidyl-serine phosphorylation: 3 proteins: MAST3, LMTK2, MAPK14
+intracellular signal transduction: 3 proteins: MAST3, MAPK14, PRKAA1
+DNA-binding transcription repressor activity, RNA polymerase II-specific: 3 proteins: NFATC4, TGIF2, ZNF217
+sequence-specific double-stranded DNA binding: 3 proteins: NFATC4, TGIF2, TCF12
+transcription by RNA polymerase II: 3 proteins: NFATC4, TAF5L, MAPK14
+chromosome segregation: 3 proteins: NUP43, NDC80, OIP5
+ cell cycle: 3 proteins: VPS72, MORF4L1, MAGEA4
+DNA-binding transcription factor activity: 3 proteins: TGIF2, ZNF217, TCF12
+mitotic sister chromatid segregation: 3 proteins: NSL1, NDC80, SMC4
+ubiquitin ligase complex: 3 proteins: UBR2, FBXL4, UBE4A
+RNA binding: 3 proteins: POLDIP3, PARN, EXOSC7
+transcription factor TFTC complex: 3 proteins: ATXN7L3, USP22, TAF5L
+chromosome, centromeric region: 3 proteins: NDC80, OIP5, SMC4
+protein heterodimerization activity: 3 proteins: SOHLH1, RALGAPB, TCF12
+transcription cis-regulatory region binding: 3 proteins: ZNF217, TCF12, CRY2
+Golgi apparatus: 3 proteins: GNAQ, IFT57, LMTK2
+protein kinase activity: 3 proteins: LIMK1, LMTK2, PRKAA1
+protein phosphorylation: 3 proteins: LIMK1, LMTK2, PRKAA1

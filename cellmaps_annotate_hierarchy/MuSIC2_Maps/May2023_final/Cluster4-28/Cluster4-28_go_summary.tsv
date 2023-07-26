@@ -1,0 +1,79 @@
+Feature	Number of Genes	Genes
+nucleus	6	TRRAP, KCTD15, ASH1L, YEATS4, EPC2, EPC1
+ DNA-templated transcription	5	TRRAP, ASH1L, YEATS4, EPC2, EPC1
+ transcription by RNA polymerase II	5	TRRAP, ASH1L, YEATS4, EPC2, EPC1
+protein binding	4	TRRAP, KCTD15, YEATS4, EPC1
+histone acetylation	4	TRRAP, YEATS4, EPC2, EPC1
+ apoptotic process	4	TRRAP, YEATS4, EPC2, EPC1
+histone H4 acetylation	4	TRRAP, YEATS4, EPC2, EPC1
+histone H2A acetylation	4	TRRAP, YEATS4, EPC2, EPC1
+ cell cycle	4	TRRAP, YEATS4, EPC2, EPC1
+ double-strand break repair via homologous recombination	4	TRRAP, YEATS4, EPC2, EPC1
+ double-strand break repair	4	TRRAP, YEATS4, EPC2, EPC1
+nucleosome	4	TRRAP, YEATS4, EPC2, EPC1
+nucleoplasm	4	TRRAP, ASH1L, YEATS4, EPC1
+NuA4 histone acetyltransferase complex	4	TRRAP, YEATS4, EPC2, EPC1
+DNA repair	2	TRRAP, EPC2
+chromatin organization	2	TRRAP, EPC2
+DNA-templated transcription	2	TRRAP, EPC1
+Golgi apparatus	2	TRRAP, ASH1L
+chromatin remodeling	2	ASH1L, YEATS4
+nuclear membrane	2	YEATS4, EPC1
+Piccolo NuA4 histone acetyltransferase complex	2	EPC2, EPC1
+transcription coregulator activity	1	TRRAP
+kinase activity	1	TRRAP
+ DNA repair	1	TRRAP
+monoubiquitinated histone deubiquitination	1	TRRAP
+monoubiquitinated histone H2A deubiquitination	1	TRRAP
+ RNA splicing	1	TRRAP
+histone H3 acetylation	1	TRRAP
+SAGA complex	1	TRRAP
+Swr1 complex	1	TRRAP
+transcription factor TFTC complex	1	TRRAP
+identical protein binding	1	KCTD15
+protein homooligomerization	1	KCTD15
+DNA binding	1	ASH1L
+chromatin binding	1	ASH1L
+histone H3K4 methyltransferase activity	1	ASH1L
+metal ion binding	1	ASH1L
+histone H3K9 methyltransferase activity	1	ASH1L
+histone H3K36 methyltransferase activity	1	ASH1L
+histone H3K9me2 methyltransferase activity	1	ASH1L
+histone H3K9 monomethyltransferase activity	1	ASH1L
+histone H3K36 trimethyltransferase activity	1	ASH1L
+MAPK cascade	1	ASH1L
+skeletal system development	1	ASH1L
+negative regulation of acute inflammatory response	1	ASH1L
+transcription by RNA polymerase II	1	ASH1L
+inflammatory response	1	ASH1L
+I-kappaB kinase/NF-kappaB signaling	1	ASH1L
+single fertilization	1	ASH1L
+post-embryonic development	1	ASH1L
+flagellated sperm motility	1	ASH1L
+negative regulation of I-kappaB kinase/NF-kappaB signaling	1	ASH1L
+negative regulation of MAPK cascade	1	ASH1L
+decidualization	1	ASH1L
+uterus morphogenesis	1	ASH1L
+histone H3-K36 dimethylation	1	ASH1L
+tarsal gland development	1	ASH1L
+uterine gland development	1	ASH1L
+chromosome	1	ASH1L
+bicellular tight junction	1	ASH1L
+structural constituent of cytoskeleton	1	YEATS4
+histone binding	1	YEATS4
+lysine-acetylated histone binding	1	YEATS4
+modification-dependent protein binding	1	YEATS4
+mitotic cell cycle	1	YEATS4
+cytoskeleton organization	1	YEATS4
+nuclear matrix	1	YEATS4
+chromatin-protein adaptor activity	1	EPC1
+molecular function activator activity	1	EPC1
+enzyme-substrate adaptor activity	1	EPC1
+negative regulation of transcription by RNA polymerase II	1	EPC1
+double-strand break repair via homologous recombination	1	EPC1
+spermatid development	1	EPC1
+sperm DNA condensation	1	EPC1
+negative regulation of gene expression, epigenetic	1	EPC1
+negative regulation of DNA-templated transcription	1	EPC1
+cytoplasm	1	EPC1
+site of double-strand break	1	EPC1

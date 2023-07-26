@@ -1,0 +1,42 @@
+Your response should be formatted as Markdown paragraphs
+Write a critical and concise analysis of this human protein system, describing your reasoning as you go and providing references to scientific papers.
+
+A critical goal of the analysis is to determine if this is a novel complex or if any proteins are novel members of a known complex
+
+Format with Title, Summary, and References sections.        
+Avoid overly general statements of how the proteins are involved in various cellular processes        
+Avoid repeating the goals of the analysis.
+
+What cellular components and complexes are involved in this system?
+What mechanisms and biological processes are performed by this system?
+Propose a name for the system to reflect the cellular location and function, and should be specific but brief. Do not compose an acronym. Place it as the title of your report
+Human Proteins: PRMT5, XRN1, LSM1, CLNS1A, DPP8, FARP1, LSM4, RIOK1, TUT1, USP15, WDR77.
+
+System features from GO terms: 
+protein binding: 11 proteins: PRMT5, XRN1, LSM1, CLNS1A, DPP8, FARP1, LSM4, RIOK1, TUT1, USP15, WDR77
+cytosol: 11 proteins: PRMT5, XRN1, LSM1, CLNS1A, DPP8, FARP1, LSM4, RIOK1, TUT1, USP15, WDR77
+nucleus: 7 proteins: PRMT5, XRN1, LSM1, CLNS1A, LSM4, USP15, WDR77
+nucleoplasm: 7 proteins: PRMT5, CLNS1A, LSM4, RIOK1, TUT1, USP15, WDR77
+cytoplasm: 5 proteins: PRMT5, LSM1, DPP8, USP15, WDR77
+RNA binding: 5 proteins: XRN1, LSM1, CLNS1A, LSM4, TUT1
+spliceosomal snRNP assembly: 4 proteins: PRMT5, CLNS1A, LSM4, WDR77
+histone H4-R3 methylation: 3 proteins: PRMT5, CLNS1A, WDR77
+ mRNA splicing, via spliceosome: 3 proteins: PRMT5, CLNS1A, WDR77
+methylosome: 3 proteins: PRMT5, CLNS1A, WDR77
+histone mRNA catabolic process: 3 proteins: XRN1, LSM1, TUT1
+P-body: 3 proteins: XRN1, LSM1, LSM4
+methyl-CpG binding: 2 proteins: PRMT5, WDR77
+identical protein binding: 2 proteins: PRMT5, USP15
+ DNA-templated transcription: 2 proteins: PRMT5, WDR77
+Golgi apparatus: 2 proteins: PRMT5, WDR77
+nuclear-transcribed mRNA catabolic process: 2 proteins: XRN1, LSM4
+plasma membrane: 2 proteins: XRN1, CLNS1A
+membrane: 2 proteins: XRN1, LSM4
+dendrite: 2 proteins: XRN1, FARP1
+RNA splicing: 2 proteins: LSM1, LSM4
+cytoskeleton: 2 proteins: CLNS1A, FARP1
+U6 snRNA binding: 2 proteins: LSM4, TUT1
+ATP binding: 2 proteins: RIOK1, TUT1
+metal ion binding: 2 proteins: RIOK1, TUT1
+mitochondrion: 2 proteins: TUT1, USP15
+ubiquitin-dependent protein catabolic process: 2 proteins: USP15, WDR77

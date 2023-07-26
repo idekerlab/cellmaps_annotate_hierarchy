@@ -1,0 +1,14 @@
+Title: Nucleoplasmic Protein Complex Involved in Transcription Regulation and Heterochromatin Formation
+
+Summary:
+The system of proteins ARL14EP, ATF7IP, SETDB1, and VHL appears to form a nucleoplasmic protein complex involved in the regulation of DNA-templated transcription, protein stabilization, and heterochromatin formation. All four proteins are found in the nucleoplasm, with three of them (ATF7IP, SETDB1, and VHL) also present in the nucleus. ARL14EP, ATF7IP, and VHL are found in the cytosol, while ARL14EP and SETDB1 are present in intracellular membrane-bounded organelles. The proteins ATF7IP and VHL are involved in positive regulation of DNA-templated transcription, while SETDB1 and VHL negatively regulate gene expression. ATF7IP and SETDB1 are also involved in the positive regulation of DNA methylation-dependent heterochromatin formation. This analysis suggests that the system may represent a novel protein complex or that some proteins may be novel members of a known complex.
+
+References:
+
+1. Hori, T., Shang, W. H., Takeuchi, K., & Fukagawa, T. (2013). The CCAN recruits CENP-A to the centromere and forms the structural core for kinetochore assembly. The Journal of Cell Biology, 200(1), 45-60. [PubMed](https://pubmed.ncbi.nlm.nih.gov/23277424/)
+
+2. Liu, N., Lee, C. H., Swigut, T., Grow, E., Gu, B., Bassik, M. C., & Wysocka, J. (2018). Selective silencing of euchromatic L1s revealed by genome-wide screens for L1 regulators. Nature, 553(7687), 228-232. [PubMed](https://pubmed.ncbi.nlm.nih.gov/29300007/)
+
+3. Tchasovnikarova, I. A., Timms, R. T., Matheson, N. J., Wals, K., Antrobus, R., Göttgens, B., Dougan, G., Dawson, M. A., & Lehner, P. J. (2015). GENE SILENCING. Epigenetic silencing by the HUSH complex mediates position-effect variegation in human cells. Science, 348(6242), 1481-1485. [PubMed](https://pubmed.ncbi.nlm.nih.gov/26089353/)
+
+4. Kaelin, W. G., Jr. (2002). Molecular basis of the VHL hereditary cancer syndrome. Nature Reviews Cancer, 2(9), 673-682. [PubMed](https://pubmed.ncbi.nlm.nih.gov/12209154/)

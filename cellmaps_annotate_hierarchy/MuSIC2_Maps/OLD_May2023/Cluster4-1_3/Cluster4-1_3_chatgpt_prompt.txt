@@ -1,0 +1,62 @@
+Write a critical and concise analysis of this system, describing your reasoning as you go and providing references to scientific papers.         
+Format with Title, Summary, and References sections.        
+Avoid overly general statements of how the proteins are involved in various cellular processes
+        
+Avoid recapitulating the goals of the analysis. 
+What cellular components and complexes are involved in this system?
+What mechanisms and biological processes are performed by this system?
+Propose a name for the system to reflect the function and location, and should be specific but brief. Do not compose an acronym. Place it as the title of your report
+Provide complete paper references with pubmed link
+Proteins: FKBP9, CCM2, MTFR1, LARS2, PLEKHO1, S100A10, RASSF8, MTG1, GTPBP8, COX6C, DCAF5, USP54, TMCO6, ARMCX2, TIMM50, HSPBAP1, KLHL29, INTS6L, CNKSR3, ADNP2, NARS2, SLC25A25, ZNF223, FBXL12, WDR70, ZNFX1, GART, GNG12, RCAN2, JADE1, RTKN, RICTOR, PDPR, DDAH2, NIPSNAP2, UBE2H, DTNB, BCKDK, MRPS23, MCL1, P4HA1, RNF138, GCDH, LACTB, L2HGDH, PPP3CB, DNA2, COA7.
+
+A critical goal of the analysis is to determine if this is a novel complex or if any proteins are novel members of a known complex
+System features from GO terms: 
+protein binding: 33 proteins: UBE2H, TIMM50, PLEKHO1, P4HA1, S100A10, DNA2, MTG1, HSPBAP1, KLHL29, USP54, NIPSNAP2, DTNB, FBXL12, JADE1, RNF138, CCM2, TMCO6, ZNF223, CNKSR3, GTPBP8, MTFR1, MRPS23, ADNP2, RTKN, PPP3CB, GNG12, COX6C, DDAH2, BCKDK, RICTOR, MCL1, DCAF5, COA7
+mitochondrion: 21 proteins: TIMM50, LARS2, DNA2, MTG1, GCDH, L2HGDH, NIPSNAP2, CCM2, PDPR, GTPBP8, MTFR1, MRPS23, LACTB, ARMCX2, NARS2, COX6C, DDAH2, BCKDK, MCL1, SLC25A25, COA7
+cytoplasm: 13 proteins: PLEKHO1, S100A10, DNA2, HSPBAP1, DTNB, JADE1, CCM2, PDPR, CNKSR3, PPP3CB, MCL1, RCAN2, DCAF5
+nucleus: 11 proteins: UBE2H, PLEKHO1, DNA2, DTNB, JADE1, RNF138, ZNF223, ADNP2, MCL1, WDR70, RCAN2
+cytosol: 11 proteins: UBE2H, GART, FBXL12, MTFR1, RTKN, PPP3CB, LACTB, NARS2, DDAH2, RICTOR, MCL1
+nucleoplasm: 9 proteins: TIMM50, DNA2, JADE1, PPP3CB, NARS2, MCL1, WDR70, DCAF5, COA7
+metal ion binding: 7 proteins: DNA2, GART, JADE1, RNF138, ZNF223, GTPBP8, ADNP2
+ATP binding: 6 proteins: UBE2H, LARS2, DNA2, GART, NARS2, BCKDK
+mitochondrial inner membrane: 6 proteins: TIMM50, MTG1, L2HGDH, MRPS23, COX6C, SLC25A25
+mitochondrial matrix: 6 proteins: LARS2, MTG1, GCDH, PDPR, NARS2, BCKDK
+plasma membrane: 5 proteins: DTNB, JADE1, MTFR1, PPP3CB, GNG12
+RNA binding: 4 proteins: TIMM50, DNA2, ZNFX1, MRPS23
+membrane: 4 proteins: P4HA1, L2HGDH, TMCO6, MCL1
+extracellular exosome: 4 proteins: S100A10, GART, GNG12, DDAH2
+mitochondrial outer membrane: 4 proteins: NIPSNAP2, ZNFX1, ARMCX2, MCL1
+signal transduction: 4 proteins: RTKN, PPP3CB, GNG12, RASSF8
+protein dephosphorylation: 3 proteins: TIMM50, PDPR, PPP3CB
+calcium ion binding: 3 proteins: FKBP9, PPP3CB, SLC25A25
+mitochondrial translation: 3 proteins: LARS2, MTG1, MRPS23
+DNA binding: 3 proteins: DNA2, ZNF223, ADNP2
+GTP binding: 3 proteins: MTG1, GTPBP8, RTKN
+protein ubiquitination: 3 proteins: FBXL12, RNF138, DCAF5
+cellular_component: 3 proteins: ADNP2, RTKN, RCAN2
+negative regulation of apoptotic process: 3 proteins: DDAH2, RICTOR, MCL1
+protein serine/threonine phosphatase activity: 2 proteins: TIMM50, PPP3CB
+release of cytochrome c from mitochondria: 2 proteins: TIMM50, MCL1
+nuclear speck: 2 proteins: TIMM50, JADE1
+endoplasmic reticulum: 2 proteins: FKBP9, P4HA1
+identical protein binding: 2 proteins: P4HA1, LACTB
+protein homodimerization activity: 2 proteins: S100A10, MCL1
+positive regulation of transcription by RNA polymerase II: 2 proteins: S100A10, PPP3CB
+helicase activity: 2 proteins: DNA2, ZNFX1
+mitochondrion organization: 2 proteins: NIPSNAP2, MTFR1
+zinc ion binding: 2 proteins: DTNB, ZNFX1
+regulation of DNA-templated transcription: 2 proteins: JADE1, ZNF223
+regulation of transcription by RNA polymerase II: 2 proteins: JADE1, ADNP2
+apoptotic process: 2 proteins: JADE1, RTKN
+positive regulation of DNA-templated transcription: 2 proteins: JADE1, PPP3CB
+protein kinase binding: 2 proteins: RNF138, RICTOR
+site of double-strand break: 2 proteins: RNF138, WDR70
+heart development: 2 proteins: CCM2, PPP3CB
+multicellular organism growth: 2 proteins: CCM2, SLC25A25
+regulation of gene expression: 2 proteins: ADNP2, RICTOR
+enzyme binding: 2 proteins: PPP3CB, WDR70
+protein phosphorylation: 2 proteins: PPP3CB, BCKDK
+response to cytokine: 2 proteins: PPP3CB, MCL1
+nucleic acid binding: 2 proteins: NARS2, RCAN2
+cellular respiration: 2 proteins: COX6C, SLC25A25
+phosphorylation: 2 proteins: BCKDK, RICTOR

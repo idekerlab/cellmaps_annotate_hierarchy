@@ -1,0 +1,443 @@
+Feature	Number of Genes	Genes
+protein binding	28	APOA1, EPHX4, PEX19, FBXW7, SEC24C, EXOC2, GSTK1, TDGF1, PPP1R11, GYG1, FAM98A, SLC25A17, MIA3, PEX14, SEC24A, RAB11FIP2, TUFT1, STMN2, NIF3L1, NAP1L3, CAB39L, WDR48, UBR1, AMBRA1, ECI2, RABGGTB, SEC23B, SEC24B
+cytosol	24	APOA1, HSD17B4, PEX19, FBXW7, SEC24C, EXOC2, GSTK1, ACOX3, GYG1, ACBD5, SLC25A17, PEX14, SEC24A, OSBPL5, STMN2, CAB39L, WDR48, UBR1, AMBRA1, ECI2, RABGGTB, RAB11FIP1, SEC23B, SEC24B
+membrane	14	HSD17B4, EPHX4, EXOC2, GSTK1, ACOX3, GYG1, GLIPR1L2, ACBD5, SLC25A17, MIA3, PEX14, OSBPL5, STMN2, ECI2
+cytoplasm	12	PEX19, FBXW7, PPP1R11, GYG1, FAM98A, ACBD5, TUFT1, STMN2, NIF3L1, CAB39L, UBR1, AMBRA1
+peroxisome	8	HSD17B4, PEX19, GSTK1, ACOX3, ACBD5, SLC25A17, PEX14, ECI2
+nucleus	8	FBXW7, PPP1R11, FAM98A, PEX14, NIF3L1, NAP1L3, WDR48, AMBRA1
+intracellular membrane-bounded organelle	7	MIA3, OSBPL5, RAB11FIP2, WDR48, AMBRA1, ECI2, RAB11FIP1
+zinc ion binding	6	SEC24C, SEC24A, UBR1, RABGGTB, SEC23B, SEC24B
+endoplasmic reticulum membrane	6	SEC24C, MIA3, SEC24A, OSBPL5, SEC23B, SEC24B
+identical protein binding	5	APOA1, FBXW7, PEX14, RAB11FIP2, NIF3L1
+peroxisomal membrane	5	HSD17B4, PEX19, ACBD5, SLC25A17, PEX14
+nucleoplasm	5	PEX19, FBXW7, ACBD5, RAB11FIP2, WDR48
+mitochondrion	5	FBXW7, GSTK1, NIF3L1, AMBRA1, ECI2
+COPII-coated vesicle cargo loading	5	SEC24C, MIA3, SEC24A, SEC23B, SEC24B
+endoplasmic reticulum exit site	5	SEC24C, MIA3, SEC24A, SEC23B, SEC24B
+protein homodimerization activity	4	APOA1, HSD17B4, GYG1, RAB11FIP2
+extracellular region	4	APOA1, TDGF1, GYG1, TUFT1
+plasma membrane	4	APOA1, EXOC2, TDGF1, RABGGTB
+peroxisomal matrix	4	HSD17B4, GSTK1, ACOX3, ECI2
+perinuclear region of cytoplasm	4	FBXW7, STMN2, AMBRA1, SEC23B
+intracellular protein transport	4	SEC24C, SEC24A, SEC23B, SEC24B
+endoplasmic reticulum to Golgi vesicle-mediated transport	4	SEC24C, MIA3, SEC24A, SEC24B
+COPII vesicle coat	4	SEC24C, SEC24A, SEC23B, SEC24B
+small GTPase binding	4	EXOC2, RAB11FIP2, RABGGTB, RAB11FIP1
+signaling receptor binding	3	APOA1, TDGF1, PEX14
+protein stabilization	3	APOA1, PEX19, FBXW7
+extracellular space	3	APOA1, TDGF1, GLIPR1L2
+fatty acid beta-oxidation	3	HSD17B4, SLC25A17, ECI2
+protein ubiquitination	3	FBXW7, PPP1R11, UBR1
+endoplasmic reticulum	3	FBXW7, AMBRA1, SEC23B
+SNARE binding	3	SEC24C, SEC24A, SEC24B
+ER to Golgi transport vesicle membrane	3	SEC24C, SEC24A, SEC24B
+protein transport	3	EXOC2, MIA3, RAB11FIP1
+cholesterol binding	2	APOA1, OSBPL5
+cholesterol metabolic process	2	APOA1, OSBPL5
+cholesterol transport	2	APOA1, OSBPL5
+cholesterol homeostasis	2	APOA1, SEC24A
+intermembrane lipid transfer	2	APOA1, OSBPL5
+endoplasmic reticulum lumen	2	APOA1, MIA3
+secretory granule lumen	2	APOA1, GYG1
+extracellular exosome	2	APOA1, GSTK1
+peroxisome organization	2	PEX19, PEX14
+protein-containing complex	2	PEX19, PEX14
+protein-macromolecule adaptor activity	2	FBXW7, PEX14
+ubiquitin protein ligase binding	2	FBXW7, AMBRA1
+ubiquitin binding	2	FBXW7, WDR48
+proteasome-mediated ubiquitin-dependent protein catabolic process	2	FBXW7, AMBRA1
+lipid homeostasis	2	FBXW7, ACOX3
+Golgi apparatus	2	FBXW7, STMN2
+protein kinase binding	2	EXOC2, RAB11FIP2
+exocytosis	2	EXOC2, MIA3
+Golgi to plasma membrane transport	2	EXOC2, OSBPL5
+cell migration involved in sprouting angiogenesis	2	TDGF1, MIA3
+ cell population proliferation	2	TDGF1, FAM98A
+cell differentiation	2	TDGF1, AMBRA1
+ubiquitin protein ligase activity	2	PPP1R11, UBR1
+molecular function inhibitor activity	2	PPP1R11, AMBRA1
+fatty-acyl-CoA binding	2	ACBD5, ECI2
+regulated exocytosis	2	RAB11FIP2, RAB11FIP1
+endosome	2	RAB11FIP2, STMN2
+intracellular signal transduction	2	TUFT1, CAB39L
+amyloid-beta binding	1	APOA1
+phospholipid binding	1	APOA1
+high-density lipoprotein particle binding	1	APOA1
+enzyme binding	1	APOA1
+heat shock protein binding	1	APOA1
+apolipoprotein receptor binding	1	APOA1
+apolipoprotein A-I receptor binding	1	APOA1
+chemorepellent activity	1	APOA1
+phosphatidylcholine-sterol O-acyltransferase activator activity	1	APOA1
+high-density lipoprotein particle receptor binding	1	APOA1
+cholesterol transfer activity	1	APOA1
+ protein phosphorylation	1	APOA1
+endothelial cell proliferation	1	APOA1
+negative regulation of cytokine production involved in immune response	1	APOA1
+phosphatidylcholine biosynthetic process	1	APOA1
+cholesterol biosynthetic process	1	APOA1
+transforming growth factor beta receptor signaling pathway	1	APOA1
+G protein-coupled receptor signaling pathway	1	APOA1
+integrin-mediated signaling pathway	1	APOA1
+glucocorticoid metabolic process	1	APOA1
+negative regulation of tumor necrosis factor-mediated signaling pathway	1	APOA1
+ cholesterol efflux	1	APOA1
+negative regulation of very-low-density lipoprotein particle remodeling	1	APOA1
+protein oxidation	1	APOA1
+peptidyl-methionine modification	1	APOA1
+lipid storage	1	APOA1
+ intestinal cholesterol absorption	1	APOA1
+adrenal gland development	1	APOA1
+ Cdc42 protein signal transduction	1	APOA1
+negative regulation of interleukin-1 beta production	1	APOA1
+cholesterol efflux	1	APOA1
+phospholipid efflux	1	APOA1
+negative regulation of heterotypic cell-cell adhesion	1	APOA1
+high-density lipoprotein particle remodeling	1	APOA1
+high-density lipoprotein particle assembly	1	APOA1
+high-density lipoprotein particle clearance	1	APOA1
+ Rho protein signal transduction	1	APOA1
+lipoprotein biosynthetic process	1	APOA1
+blood vessel endothelial cell migration	1	APOA1
+reverse cholesterol transport	1	APOA1
+phosphatidylcholine metabolic process	1	APOA1
+negative regulation of inflammatory response	1	APOA1
+ phagocytosis	1	APOA1
+negative chemotaxis	1	APOA1
+vitamin transport	1	APOA1
+ hydrolase activity	1	APOA1
+negative regulation of hydrolase activity	1	APOA1
+ stress fiber assembly	1	APOA1
+phospholipid homeostasis	1	APOA1
+negative regulation of cell adhesion molecule production	1	APOA1
+negative regulation of response to cytokine stimulus	1	APOA1
+triglyceride homeostasis	1	APOA1
+ERK1 and ERK2 cascade	1	APOA1
+cholesterol import	1	APOA1
+ cholesterol metabolic process	1	APOA1
+ substrate adhesion-dependent cell spreading	1	APOA1
+ phospholipid efflux	1	APOA1
+ CoA-transferase activity	1	APOA1
+early endosome	1	APOA1
+endocytic vesicle	1	APOA1
+cytoplasmic vesicle	1	APOA1
+very-low-density lipoprotein particle	1	APOA1
+high-density lipoprotein particle	1	APOA1
+spherical high-density lipoprotein particle	1	APOA1
+collagen-containing extracellular matrix	1	APOA1
+endocytic vesicle lumen	1	APOA1
+blood microparticle	1	APOA1
+extracellular vesicle	1	APOA1
+3-hydroxyacyl-CoA dehydrogenase activity	1	HSD17B4
+enoyl-CoA hydratase activity	1	HSD17B4
+estradiol 17-beta-dehydrogenase [NAD(P)] activity	1	HSD17B4
+isomerase activity	1	HSD17B4
+3-hydroxyacyl-CoA dehydratase activity	1	HSD17B4
+3alpha,7alpha,12alpha-trihydroxy-5beta-cholest-24-enoyl-CoA hydratase activity	1	HSD17B4
+17-beta-hydroxysteroid dehydrogenase (NAD+) activity	1	HSD17B4
+(3R)-hydroxyacyl-CoA dehydrogenase (NAD) activity	1	HSD17B4
+very long-chain fatty acid metabolic process	1	HSD17B4
+osteoblast differentiation	1	HSD17B4
+androgen metabolic process	1	HSD17B4
+estrogen metabolic process	1	HSD17B4
+very long-chain fatty-acyl-CoA metabolic process	1	HSD17B4
+medium-chain fatty-acyl-CoA metabolic process	1	HSD17B4
+Sertoli cell development	1	HSD17B4
+hydrolase activity	1	EPHX4
+peroxisome membrane targeting sequence binding	1	PEX19
+peroxisome membrane class-1 targeting sequence binding	1	PEX19
+ATPase binding	1	PEX19
+protein carrier chaperone	1	PEX19
+protein targeting to peroxisome	1	PEX19
+peroxisome fission	1	PEX19
+protein import into peroxisome membrane	1	PEX19
+chaperone-mediated protein folding	1	PEX19
+establishment of protein localization to peroxisome	1	PEX19
+negative regulation of lipid binding	1	PEX19
+brush border membrane	1	PEX19
+cyclin binding	1	FBXW7
+phosphothreonine residue binding	1	FBXW7
+ubiquitin-protein transferase activator activity	1	FBXW7
+vasculogenesis	1	FBXW7
+vasculature development	1	FBXW7
+DNA repair	1	FBXW7
+sister chromatid cohesion	1	FBXW7
+Notch signaling pathway	1	FBXW7
+negative regulation of gene expression	1	FBXW7
+negative regulation of triglyceride biosynthetic process	1	FBXW7
+ lipid storage	1	FBXW7
+ubiquitin recycling	1	FBXW7
+lung development	1	FBXW7
+SCF-dependent proteasomal ubiquitin-dependent protein catabolic process	1	FBXW7
+ protein ubiquitination	1	FBXW7
+protein destabilization	1	FBXW7
+ protein localization	1	FBXW7
+ circadian rhythm	1	FBXW7
+ epidermal growth factor-activated receptor activity	1	FBXW7
+negative regulation of Notch signaling pathway	1	FBXW7
+rhythmic process	1	FBXW7
+ ubiquitin-protein transferase activity	1	FBXW7
+ ERK1 and ERK2 cascade	1	FBXW7
+ cell migration involved in sprouting angiogenesis	1	FBXW7
+ proteasomal protein catabolic process	1	FBXW7
+ cell cycle G1/S phase transition	1	FBXW7
+negative regulation of RNA polymerase II regulatory region sequence-specific DNA binding	1	FBXW7
+ autophagy of mitochondrion	1	FBXW7
+ oxidative stress-induced neuron intrinsic apoptotic signaling pathway	1	FBXW7
+ protein targeting to mitochondrion	1	FBXW7
+ ubiquitin-dependent protein catabolic process	1	FBXW7
+negative regulation of hepatocyte proliferation	1	FBXW7
+negative regulation of SREBP signaling pathway	1	FBXW7
+negative regulation of osteoclast development	1	FBXW7
+chromosome	1	FBXW7
+nucleolus	1	FBXW7
+SCF ubiquitin ligase complex	1	FBXW7
+Parkin-FBXW7-Cul1 ubiquitin ligase complex	1	FBXW7
+in utero embryonic development	1	SEC24C
+mitotic cytokinesis	1	EXOC2
+vesicle docking involved in exocytosis	1	EXOC2
+membrane fission	1	EXOC2
+vesicle tethering involved in exocytosis	1	EXOC2
+ entry of bacterium into host cell	1	EXOC2
+exocyst	1	EXOC2
+Flemming body	1	EXOC2
+glutathione transferase activity	1	GSTK1
+glutathione peroxidase activity	1	GSTK1
+glutathione metabolic process	1	GSTK1
+epithelial cell differentiation	1	GSTK1
+cellular oxidant detoxification	1	GSTK1
+mitochondrial matrix	1	GSTK1
+growth factor activity	1	TDGF1
+morphogenesis of a branching structure	1	TDGF1
+epidermal growth factor receptor signaling pathway	1	TDGF1
+heart development	1	TDGF1
+anterior/posterior axis specification, embryo	1	TDGF1
+embryo development ending in birth or egg hatching	1	TDGF1
+ signal transduction	1	TDGF1
+ endothelial cell migration	1	TDGF1
+peptidyl-serine phosphorylation	1	TDGF1
+ cell migration	1	TDGF1
+mammary gland development	1	TDGF1
+cellular response to hepatocyte growth factor stimulus	1	TDGF1
+negative regulation of apoptotic process	1	TDGF1
+ MAP kinase activity	1	TDGF1
+ MAPK cascade	1	TDGF1
+cellular response to fibroblast growth factor stimulus	1	TDGF1
+anatomical structure development	1	TDGF1
+ peptidyl-tyrosine phosphorylation	1	TDGF1
+cellular response to type II interferon	1	TDGF1
+cellular response to interleukin-6	1	TDGF1
+cellular response to tumor necrosis factor	1	TDGF1
+cellular response to epidermal growth factor stimulus	1	TDGF1
+cell surface	1	TDGF1
+apical plasma membrane	1	TDGF1
+extrinsic component of plasma membrane	1	TDGF1
+membrane raft	1	TDGF1
+protein serine/threonine phosphatase inhibitor activity	1	PPP1R11
+protein phosphatase 1 binding	1	PPP1R11
+negative regulation of cytokine production	1	PPP1R11
+ubiquitin-dependent protein catabolic process	1	PPP1R11
+negative regulation of phosphoprotein phosphatase activity	1	PPP1R11
+defense response to Gram-positive bacterium	1	PPP1R11
+fatty acid binding	1	ACOX3
+pristanoyl-CoA oxidase activity	1	ACOX3
+flavin adenine dinucleotide binding	1	ACOX3
+FAD binding	1	ACOX3
+fatty acid beta-oxidation using acyl-CoA oxidase	1	ACOX3
+glycogenin glucosyltransferase activity	1	GYG1
+glycosyltransferase activity	1	GYG1
+manganese ion binding	1	GYG1
+UDP-alpha-D-glucose:glucosyl-glycogenin alpha-D-glucosyltransferase activity	1	GYG1
+glycogen biosynthetic process	1	GYG1
+lysosomal lumen	1	GYG1
+ficolin-1-rich granule lumen	1	GYG1
+RNA binding	1	FAM98A
+protein methyltransferase activity	1	FAM98A
+tRNA splicing, via endonucleolytic cleavage and ligation	1	FAM98A
+protein methylation	1	FAM98A
+ gene expression	1	FAM98A
+lysosome localization	1	FAM98A
+ ruffle assembly	1	FAM98A
+tRNA-splicing ligase complex	1	FAM98A
+molecular_function	1	ACBD5
+fatty acid metabolic process	1	ACBD5
+macroautophagy	1	ACBD5
+autophagy of peroxisome	1	ACBD5
+aggrephagy	1	ACBD5
+adenine nucleotide transmembrane transporter activity	1	SLC25A17
+ATP transmembrane transporter activity	1	SLC25A17
+ADP transmembrane transporter activity	1	SLC25A17
+coenzyme A transmembrane transporter activity	1	SLC25A17
+FAD transmembrane transporter activity	1	SLC25A17
+antiporter activity	1	SLC25A17
+FMN transmembrane transporter activity	1	SLC25A17
+protein-folding chaperone binding	1	SLC25A17
+NAD transmembrane transporter activity	1	SLC25A17
+AMP transmembrane transporter activity	1	SLC25A17
+fatty acid alpha-oxidation	1	SLC25A17
+transport	1	SLC25A17
+ADP transport	1	SLC25A17
+ATP transport	1	SLC25A17
+fatty acid transport	1	SLC25A17
+coenzyme A transmembrane transport	1	SLC25A17
+FAD transmembrane transport	1	SLC25A17
+NAD transmembrane transport	1	SLC25A17
+AMP transport	1	SLC25A17
+cargo receptor activity	1	MIA3
+ leukocyte migration	1	MIA3
+endocytosis	1	MIA3
+endoplasmic reticulum organization	1	MIA3
+negative regulation of cell adhesion	1	MIA3
+protein secretion	1	MIA3
+negative regulation of cell migration	1	MIA3
+vesicle cargo loading	1	MIA3
+wound healing	1	MIA3
+lipoprotein transport	1	MIA3
+protein localization to endoplasmic reticulum exit site	1	MIA3
+cellular response to oxidised low-density lipoprotein particle stimulus	1	MIA3
+negative regulation of leukocyte cell-cell adhesion	1	MIA3
+negative regulation of lymphocyte migration	1	MIA3
+transcription corepressor activity	1	PEX14
+microtubule binding	1	PEX14
+protein transmembrane transporter activity	1	PEX14
+beta-tubulin binding	1	PEX14
+protein import into peroxisome matrix	1	PEX14
+protein import into peroxisome matrix, docking	1	PEX14
+protein import into peroxisome matrix, translocation	1	PEX14
+negative regulation of protein binding	1	PEX14
+microtubule anchoring	1	PEX14
+cellular response to reactive oxygen species	1	PEX14
+peroxisome transport along microtubule	1	PEX14
+negative regulation of DNA-binding transcription factor activity	1	PEX14
+protein import into peroxisome matrix, substrate release	1	PEX14
+negative regulation of DNA-templated transcription	1	PEX14
+protein-containing complex assembly	1	PEX14
+fibrillar center	1	PEX14
+peroxisomal importomer complex	1	PEX14
+ cholesterol transport	1	SEC24A
+ protein secretion	1	SEC24A
+phosphatidylserine binding	1	OSBPL5
+phospholipid transporter activity	1	OSBPL5
+oxysterol binding	1	OSBPL5
+sterol transporter activity	1	OSBPL5
+sterol binding	1	OSBPL5
+phosphatidylinositol-4-phosphate binding	1	OSBPL5
+phosphatidylserine transfer activity	1	OSBPL5
+phospholipid transport	1	OSBPL5
+phosphatidylserine acyl-chain remodeling	1	OSBPL5
+endoplasmic reticulum-plasma membrane contact site	1	OSBPL5
+phagocytosis	1	RAB11FIP2
+establishment of cell polarity	1	RAB11FIP2
+TRAM-dependent toll-like receptor 4 signaling pathway	1	RAB11FIP2
+insulin secretion involved in cellular response to glucose stimulus	1	RAB11FIP2
+ GTPase activity	1	RAB11FIP2
+phagocytic cup	1	RAB11FIP2
+cytoplasmic vesicle membrane	1	RAB11FIP2
+cell projection	1	RAB11FIP2
+recycling endosome membrane	1	RAB11FIP2
+structural constituent of tooth enamel	1	TUFT1
+bone mineralization	1	TUFT1
+odontogenesis	1	TUFT1
+intracellular anatomical structure	1	TUFT1
+tubulin binding	1	STMN2
+calcium-dependent protein binding	1	STMN2
+microtubule depolymerization	1	STMN2
+negative regulation of microtubule depolymerization	1	STMN2
+ neuron projection development	1	STMN2
+negative regulation of neuron projection development	1	STMN2
+ microtubule polymerization or depolymerization	1	STMN2
+negative regulation of microtubule polymerization	1	STMN2
+ microtubule depolymerization	1	STMN2
+neuron projection development	1	STMN2
+cellular response to nerve growth factor stimulus	1	STMN2
+lamellipodium	1	STMN2
+growth cone	1	STMN2
+neuron projection	1	STMN2
+neuronal cell body	1	STMN2
+RNA polymerase II-specific DNA-binding transcription factor binding	1	NIF3L1
+negative regulation of transcription by RNA polymerase II	1	NIF3L1
+neuron differentiation	1	NIF3L1
+ DNA-templated transcription	1	NIF3L1
+chromatin binding	1	NAP1L3
+histone binding	1	NAP1L3
+nucleosome assembly	1	NAP1L3
+chromatin	1	NAP1L3
+protein serine/threonine kinase activator activity	1	CAB39L
+activation of protein kinase activity	1	CAB39L
+serine/threonine protein kinase complex	1	CAB39L
+DNA binding	1	WDR48
+double-stranded DNA binding	1	WDR48
+single-stranded DNA binding	1	WDR48
+deubiquitinase activator activity	1	WDR48
+double-strand break repair via homologous recombination	1	WDR48
+DNA damage response	1	WDR48
+spermatogenesis	1	WDR48
+single fertilization	1	WDR48
+multicellular organism growth	1	WDR48
+skin development	1	WDR48
+embryonic organ development	1	WDR48
+skeletal system morphogenesis	1	WDR48
+homeostasis of number of cells	1	WDR48
+ epithelial cell proliferation	1	WDR48
+seminiferous tubule development	1	WDR48
+ protein monoubiquitination	1	WDR48
+ double-strand break repair via homologous recombination	1	WDR48
+lysosome	1	WDR48
+late endosome	1	WDR48
+leucine binding	1	UBR1
+negative regulation of TOR signaling	1	UBR1
+cellular response to leucine	1	UBR1
+ubiquitin-dependent protein catabolic process via the N-end rule pathway	1	UBR1
+ubiquitin ligase complex	1	UBR1
+proteasome complex	1	UBR1
+protein phosphatase binding	1	AMBRA1
+GTPase binding	1	AMBRA1
+ubiquitin ligase-substrate adaptor activity	1	AMBRA1
+autophagosome assembly	1	AMBRA1
+protein polyubiquitination	1	AMBRA1
+autophagy of mitochondrion	1	AMBRA1
+mitophagy	1	AMBRA1
+ transcription by RNA polymerase II	1	AMBRA1
+autophagy	1	AMBRA1
+cell cycle	1	AMBRA1
+negative regulation of cell population proliferation	1	AMBRA1
+cellular response to starvation	1	AMBRA1
+ autophagy	1	AMBRA1
+negative regulation of cardiac muscle cell apoptotic process	1	AMBRA1
+neural tube development	1	AMBRA1
+ protein dephosphorylation	1	AMBRA1
+negative regulation of neuron apoptotic process	1	AMBRA1
+ phosphatidylinositol 3-kinase activity	1	AMBRA1
+ regulatory T cell differentiation	1	AMBRA1
+response to mitochondrial depolarisation	1	AMBRA1
+ mitophagy	1	AMBRA1
+ free ubiquitin chain polymerization	1	AMBRA1
+ G1/S transition of mitotic cell cycle	1	AMBRA1
+mitochondrial outer membrane	1	AMBRA1
+autophagosome	1	AMBRA1
+cytoskeleton	1	AMBRA1
+focal adhesion	1	AMBRA1
+axoneme	1	AMBRA1
+phagocytic vesicle	1	AMBRA1
+Cul4-RING E3 ubiquitin ligase complex	1	AMBRA1
+delta(3)-delta(2)-enoyl-CoA isomerase activity	1	ECI2
+Rab geranylgeranyltransferase activity	1	RABGGTB
+visual perception	1	RABGGTB
+protein geranylgeranylation	1	RABGGTB
+protein modification process	1	RABGGTB
+Rab-protein geranylgeranyltransferase complex	1	RABGGTB
+negative regulation of adiponectin secretion	1	RAB11FIP1
+phagocytic vesicle membrane	1	RAB11FIP1
+recycling endosome	1	RAB11FIP1
+GTPase activator activity	1	SEC23B
+endomembrane system	1	SEC23B
+neural tube closure	1	SEC24B
+outflow tract morphogenesis	1	SEC24B
+cochlear nucleus development	1	SEC24B
+aorta morphogenesis	1	SEC24B
+auditory receptor cell stereocilium organization	1	SEC24B
+lung lobe morphogenesis	1	SEC24B
+coronary artery morphogenesis	1	SEC24B
+pulmonary artery morphogenesis	1	SEC24B
+ establishment of planar polarity involved in neural tube closure	1	SEC24B
+ cargo loading into COPII-coated vesicle	1	SEC24B

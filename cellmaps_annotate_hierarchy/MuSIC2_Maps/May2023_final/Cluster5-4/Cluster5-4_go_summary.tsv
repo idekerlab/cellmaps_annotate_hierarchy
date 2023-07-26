@@ -1,0 +1,64 @@
+Feature	Number of Genes	Genes
+cytosol	11	RPS24, EIF3E, ARHGEF10L, EIF3I, EIF3B, EIF3C, EIF3D, EIF3H, EIF3J, EIF3K, EIF3M
+protein binding	10	KCTD21, EIF3E, EIF3I, EIF3B, EIF3C, EIF3D, EIF3H, EIF3J, EIF3K, EIF3M
+translation initiation factor activity	9	EIF3E, EIF3I, EIF3B, EIF3C, EIF3D, EIF3H, EIF3J, EIF3K, EIF3M
+formation of cytoplasmic translation initiation complex	9	EIF3E, EIF3I, EIF3B, EIF3C, EIF3D, EIF3H, EIF3J, EIF3K, EIF3M
+translational initiation	9	EIF3E, EIF3I, EIF3B, EIF3C, EIF3D, EIF3H, EIF3J, EIF3K, EIF3M
+eukaryotic translation initiation factor 3 complex	9	EIF3E, EIF3I, EIF3B, EIF3C, EIF3D, EIF3H, EIF3J, EIF3K, EIF3M
+eukaryotic 43S preinitiation complex	9	EIF3E, EIF3I, EIF3B, EIF3C, EIF3D, EIF3H, EIF3J, EIF3K, EIF3M
+eukaryotic 48S preinitiation complex	9	EIF3E, EIF3I, EIF3B, EIF3C, EIF3D, EIF3H, EIF3J, EIF3K, EIF3M
+RNA binding	8	RPS24, EIF3E, EIF3I, EIF3B, EIF3C, EIF3D, EIF3H, EIF3K
+membrane	5	RPS24, EIF3E, EIF3D, EIF3H, EIF3K
+eukaryotic translation initiation factor 3 complex, eIF3m	5	EIF3I, EIF3B, EIF3D, EIF3H, EIF3M
+translation initiation factor binding	4	RPS24, EIF3B, EIF3C, EIF3M
+ translational initiation	4	EIF3E, EIF3B, EIF3H, EIF3K
+extracellular exosome	4	EIF3E, EIF3I, EIF3B, EIF3H
+nucleus	3	RPS24, EIF3E, EIF3K
+ translation	3	EIF3E, EIF3C, EIF3D
+ mRNA binding	3	EIF3E, EIF3C, EIF3D
+synapse	3	EIF3I, EIF3B, EIF3D
+nucleoplasm	2	RPS24, EIF3E
+cytoplasm	2	RPS24, EIF3E
+identical protein binding	2	KCTD21, EIF3J
+cytoplasmic translational initiation	2	EIF3I, EIF3M
+IRES-dependent viral translational initiation	2	EIF3B, EIF3D
+viral translational termination-reinitiation	2	EIF3B, EIF3D
+ribosome binding	2	EIF3C, EIF3K
+structural constituent of ribosome	1	RPS24
+cytoplasmic translation	1	RPS24
+rRNA processing	1	RPS24
+translation	1	RPS24
+erythrocyte homeostasis	1	RPS24
+ribosomal small subunit biogenesis	1	RPS24
+nucleolus	1	RPS24
+endoplasmic reticulum	1	RPS24
+small ribosomal subunit	1	RPS24
+cytosolic ribosome	1	RPS24
+cytosolic small ribosomal subunit	1	RPS24
+small-subunit processome	1	RPS24
+histone deacetylase binding	1	KCTD21
+cullin family protein binding	1	KCTD21
+ubiquitin-dependent protein catabolic process	1	KCTD21
+protein ubiquitination	1	KCTD21
+negative regulation of smoothened signaling pathway	1	KCTD21
+protein homooligomerization	1	KCTD21
+cadherin binding	1	EIF3E
+nuclear-transcribed mRNA catabolic process, nonsense-mediated decay	1	EIF3E
+negative regulation of translational initiation	1	EIF3E
+postsynaptic density	1	EIF3E
+PML body	1	EIF3E
+eukaryotic translation initiation factor 3 complex, eIF3e	1	EIF3E
+guanyl-nucleotide exchange factor activity	1	ARHGEF10L
+GTPase activator activity	1	ARHGEF10L
+actin cytoskeleton organization	1	ARHGEF10L
+SREBP signaling pathway	1	ARHGEF10L
+ small GTPase mediated signal transduction	1	ARHGEF10L
+ stress fiber assembly	1	ARHGEF10L
+molecular adaptor activity	1	EIF3B
+cytoplasmic stress granule	1	EIF3B
+mRNA cap binding	1	EIF3D
+cap-dependent translational initiation	1	EIF3D
+metallopeptidase activity	1	EIF3H
+metal-dependent deubiquitinase activity	1	EIF3H
+negative regulation of proteasomal ubiquitin-dependent protein catabolic process	1	EIF3H
+polysomal ribosome	1	EIF3H

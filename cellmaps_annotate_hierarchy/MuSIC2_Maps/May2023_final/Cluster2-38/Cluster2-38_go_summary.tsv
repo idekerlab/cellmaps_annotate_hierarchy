@@ -1,0 +1,162 @@
+Feature	Number of Genes	Genes
+protein binding	11	PRMT5, XRN1, LSM1, CLNS1A, DPP8, FARP1, LSM4, RIOK1, TUT1, USP15, WDR77
+cytosol	11	PRMT5, XRN1, LSM1, CLNS1A, DPP8, FARP1, LSM4, RIOK1, TUT1, USP15, WDR77
+nucleus	7	PRMT5, XRN1, LSM1, CLNS1A, LSM4, USP15, WDR77
+nucleoplasm	7	PRMT5, CLNS1A, LSM4, RIOK1, TUT1, USP15, WDR77
+cytoplasm	5	PRMT5, LSM1, DPP8, USP15, WDR77
+RNA binding	5	XRN1, LSM1, CLNS1A, LSM4, TUT1
+spliceosomal snRNP assembly	4	PRMT5, CLNS1A, LSM4, WDR77
+histone H4-R3 methylation	3	PRMT5, CLNS1A, WDR77
+ mRNA splicing, via spliceosome	3	PRMT5, CLNS1A, WDR77
+methylosome	3	PRMT5, CLNS1A, WDR77
+histone mRNA catabolic process	3	XRN1, LSM1, TUT1
+P-body	3	XRN1, LSM1, LSM4
+methyl-CpG binding	2	PRMT5, WDR77
+identical protein binding	2	PRMT5, USP15
+ DNA-templated transcription	2	PRMT5, WDR77
+Golgi apparatus	2	PRMT5, WDR77
+nuclear-transcribed mRNA catabolic process	2	XRN1, LSM4
+plasma membrane	2	XRN1, CLNS1A
+membrane	2	XRN1, LSM4
+dendrite	2	XRN1, FARP1
+RNA splicing	2	LSM1, LSM4
+cytoskeleton	2	CLNS1A, FARP1
+U6 snRNA binding	2	LSM4, TUT1
+ATP binding	2	RIOK1, TUT1
+metal ion binding	2	RIOK1, TUT1
+mitochondrion	2	TUT1, USP15
+ubiquitin-dependent protein catabolic process	2	USP15, WDR77
+p53 binding	1	PRMT5
+transcription corepressor activity	1	PRMT5
+methyltransferase activity	1	PRMT5
+histone arginine N-methyltransferase activity	1	PRMT5
+protein-arginine N-methyltransferase activity	1	PRMT5
+protein-arginine omega-N symmetric methyltransferase activity	1	PRMT5
+ribonucleoprotein complex binding	1	PRMT5
+histone H4R3 methyltransferase activity	1	PRMT5
+protein heterodimerization activity	1	PRMT5
+E-box binding	1	PRMT5
+chromatin remodeling	1	PRMT5
+DNA-templated transcription termination	1	PRMT5
+ mitotic nuclear division	1	PRMT5
+peptidyl-arginine methylation	1	PRMT5
+circadian regulation of gene expression	1	PRMT5
+histone arginine methylation	1	PRMT5
+peptidyl-arginine N-methylation	1	PRMT5
+endothelial cell activation	1	PRMT5
+ DNA methylation	1	PRMT5
+negative regulation of cell differentiation	1	PRMT5
+negative regulation of DNA-templated transcription	1	PRMT5
+ oligodendrocyte differentiation	1	PRMT5
+ ERK1 and ERK2 cascade	1	PRMT5
+Golgi ribbon formation	1	PRMT5
+liver regeneration	1	PRMT5
+ signal transduction by p53 class mediator	1	PRMT5
+ adenylate cyclase-inhibiting dopamine receptor signaling pathway	1	PRMT5
+chromatin	1	PRMT5
+histone methyltransferase complex	1	PRMT5
+G-quadruplex RNA binding	1	XRN1
+5'-3' RNA exonuclease activity	1	XRN1
+G-quadruplex DNA binding	1	XRN1
+telomerase RNA binding	1	XRN1
+rRNA catabolic process	1	XRN1
+negative regulation of translation	1	XRN1
+negative regulation of telomere maintenance via telomerase	1	XRN1
+response to testosterone	1	XRN1
+nuclear mRNA surveillance	1	XRN1
+cellular response to cycloheximide	1	XRN1
+RNA phosphodiester bond hydrolysis, exonucleolytic	1	XRN1
+cellular response to puromycin	1	XRN1
+neuronal cell body	1	XRN1
+synapse	1	XRN1
+RNA cap binding	1	LSM1
+deadenylation-dependent decapping of nuclear-transcribed mRNA	1	LSM1
+RNA splicing, via transesterification reactions	1	LSM1
+mRNA processing	1	LSM1
+stem cell population maintenance	1	LSM1
+neuron differentiation	1	LSM1
+negative regulation of neuron differentiation	1	LSM1
+Lsm1-7-Pat1 complex	1	LSM1
+ribonucleoprotein complex	1	LSM1
+chloride transport	1	CLNS1A
+cell volume homeostasis	1	CLNS1A
+mRNA cis splicing, via spliceosome	1	CLNS1A
+spliceosomal complex	1	CLNS1A
+pICln-Sm protein complex	1	CLNS1A
+aminopeptidase activity	1	DPP8
+serine-type peptidase activity	1	DPP8
+dipeptidyl-peptidase activity	1	DPP8
+proteolysis	1	DPP8
+apoptotic process	1	DPP8
+immune response	1	DPP8
+negative regulation of programmed cell death	1	DPP8
+guanyl-nucleotide exchange factor activity	1	FARP1
+cytoskeletal protein binding	1	FARP1
+small GTPase binding	1	FARP1
+synapse assembly	1	FARP1
+dendrite morphogenesis	1	FARP1
+retrograde trans-synaptic signaling by trans-synaptic protein complex	1	FARP1
+postsynaptic actin cytoskeleton organization	1	FARP1
+ presynapse assembly	1	FARP1
+filopodium	1	FARP1
+extrinsic component of cytoplasmic side of plasma membrane	1	FARP1
+dendritic spine	1	FARP1
+extrinsic component of postsynaptic membrane	1	FARP1
+glutamatergic synapse	1	FARP1
+PH domain binding	1	LSM4
+mRNA splicing, via spliceosome	1	LSM4
+P-body assembly	1	LSM4
+U6 snRNP	1	LSM4
+protein-containing complex	1	LSM4
+U4/U6 x U5 tri-snRNP complex	1	LSM4
+U2-type precatalytic spliceosome	1	LSM4
+spliceosomal tri-snRNP complex	1	LSM4
+Lsm2-8 complex	1	LSM4
+protein serine/threonine kinase activity	1	RIOK1
+hydrolase activity	1	RIOK1
+protein serine kinase activity	1	RIOK1
+phosphorylation	1	RIOK1
+maturation of SSU-rRNA	1	RIOK1
+ribosomal small subunit biogenesis	1	RIOK1
+ rRNA processing	1	RIOK1
+preribosome, small subunit precursor	1	RIOK1
+methyltransferase complex	1	RIOK1
+mRNA 3'-UTR binding	1	TUT1
+enzyme binding	1	TUT1
+RNA uridylyltransferase activity	1	TUT1
+poly(A) RNA polymerase activity	1	TUT1
+mRNA polyadenylation	1	TUT1
+snRNA processing	1	TUT1
+U6 snRNA 3'-end processing	1	TUT1
+pre-mRNA cleavage required for polyadenylation	1	TUT1
+nucleolus	1	TUT1
+nuclear speck	1	TUT1
+cysteine-type endopeptidase activity	1	USP15
+cysteine-type deubiquitinase activity	1	USP15
+transforming growth factor beta receptor binding	1	USP15
+enzyme activator activity	1	USP15
+SMAD binding	1	USP15
+ubiquitin modification-dependent histone binding	1	USP15
+deubiquitinase activity	1	USP15
+K48-linked deubiquitinase activity	1	USP15
+transforming growth factor beta receptor signaling pathway	1	USP15
+protein deubiquitination	1	USP15
+BMP signaling pathway	1	USP15
+monoubiquitinated protein deubiquitination	1	USP15
+pathway-restricted SMAD protein phosphorylation	1	USP15
+transcription elongation-coupled chromatin remodeling	1	USP15
+ RIG-I signaling pathway	1	USP15
+ intrinsic apoptotic signaling pathway in response to osmotic stress by p53 class mediator	1	USP15
+negative regulation of antifungal innate immune response	1	USP15
+protein K27-linked deubiquitination	1	USP15
+nuclear body	1	USP15
+nuclear receptor coactivator activity	1	WDR77
+ubiquitin ligase-substrate adaptor activity	1	WDR77
+protein polyubiquitination	1	WDR77
+ transcription by RNA polymerase II	1	WDR77
+oocyte axis specification	1	WDR77
+ cell population proliferation	1	WDR77
+secretory columnal luminar epithelial cell differentiation involved in prostate glandular acinus development	1	WDR77
+epithelial cell proliferation involved in prostate gland development	1	WDR77
+negative regulation of epithelial cell proliferation involved in prostate gland development	1	WDR77
+Cul4B-RING E3 ubiquitin ligase complex	1	WDR77

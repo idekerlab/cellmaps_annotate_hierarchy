@@ -1,0 +1,64 @@
+Your response should be formatted as Markdown paragraphs
+Write a critical and concise analysis of this human protein system, describing your reasoning as you go and providing references to scientific papers.
+
+A critical goal of the analysis is to determine if this is a novel complex or if any proteins are novel members of a known complex
+
+Format with Title, Summary, and References sections.        
+Avoid overly general statements of how the proteins are involved in various cellular processes        
+Avoid repeating the goals of the analysis.
+
+What cellular components and complexes are involved in this system?
+What mechanisms and biological processes are performed by this system?
+Propose a name for the system to reflect the cellular location and function, and should be specific but brief. Do not compose an acronym. Place it as the title of your report
+Human Proteins: TTC39B, PRKAR1A, PITPNM1, LSG1, PRKACB, PRKACA, SCRN1, OSBP2, ARHGEF12, TACC1, AKAP11, PITPNM3.
+
+System features from GO terms: 
+protein binding: 11 proteins: TTC39B, PRKAR1A, PITPNM1, PRKACB, PRKACA, SCRN1, OSBP2, ARHGEF12, TACC1, AKAP11, PITPNM3
+cytosol: 10 proteins: PRKAR1A, PITPNM1, LSG1, PRKACB, PRKACA, OSBP2, ARHGEF12, TACC1, AKAP11, PITPNM3
+cytoplasm: 8 proteins: PRKAR1A, PITPNM1, PRKACA, SCRN1, ARHGEF12, TACC1, AKAP11, PITPNM3
+membrane: 7 proteins: PRKAR1A, PITPNM1, LSG1, OSBP2, ARHGEF12, TACC1, PITPNM3
+nucleus: 4 proteins: PRKACB, PRKACA, SCRN1, TACC1
+ubiquitin protein ligase binding: 3 proteins: PRKAR1A, PRKACB, PRKACA
+centrosome: 3 proteins: PRKAR1A, PRKACB, PRKACA
+cAMP-dependent protein kinase complex: 3 proteins: PRKAR1A, PRKACB, PRKACA
+ciliary base: 3 proteins: PRKAR1A, PRKACB, PRKACA
+nucleoplasm: 3 proteins: LSG1, PRKACB, PRKACA
+renal water homeostasis: 3 proteins: PRKACB, PRKACA, AKAP11
+plasma membrane: 3 proteins: PRKACB, PRKACA, AKAP11
+extracellular exosome: 3 proteins: PRKACB, PRKACA, ARHGEF12
+lipid metabolic process: 2 proteins: TTC39B, PITPNM1
+protein domain specific binding: 2 proteins: PRKAR1A, PRKACA
+mesoderm formation: 2 proteins: PRKAR1A, PRKACA
+adenylate cyclase-activating G protein-coupled receptor signaling pathway: 2 proteins: PRKAR1A, PRKACA
+ insulin secretion: 2 proteins: PRKAR1A, PRKACA
+intracellular signal transduction: 2 proteins: PRKAR1A, AKAP11
+cellular response to glucagon stimulus: 2 proteins: PRKAR1A, PRKACA
+axoneme: 2 proteins: PRKAR1A, PRKACA
+neuromuscular junction: 2 proteins: PRKAR1A, PRKACA
+plasma membrane raft: 2 proteins: PRKAR1A, PRKACA
+glutamatergic synapse: 2 proteins: PRKAR1A, PRKACA
+calcium ion binding: 2 proteins: PITPNM1, PITPNM3
+phosphatidylinositol transfer activity: 2 proteins: PITPNM1, PITPNM3
+receptor tyrosine kinase binding: 2 proteins: PITPNM1, PITPNM3
+phosphatidylinositol biosynthetic process: 2 proteins: PITPNM1, PITPNM3
+protein transport: 2 proteins: PITPNM1, LSG1
+phospholipid transport: 2 proteins: PITPNM1, PITPNM3
+intermembrane lipid transfer: 2 proteins: PITPNM1, PITPNM3
+midbody: 2 proteins: PITPNM1, TACC1
+intracellular membrane-bounded organelle: 2 proteins: PITPNM1, OSBP2
+cell body: 2 proteins: PITPNM1, PITPNM3
+magnesium ion binding: 2 proteins: PRKACB, PRKACA
+protein serine/threonine kinase activity: 2 proteins: PRKACB, PRKACA
+AMP-activated protein kinase activity: 2 proteins: PRKACB, PRKACA
+cAMP-dependent protein kinase activity: 2 proteins: PRKACB, PRKACA
+ATP binding: 2 proteins: PRKACB, PRKACA
+protein serine kinase activity: 2 proteins: PRKACB, PRKACA
+neural tube closure: 2 proteins: PRKACB, PRKACA
+protein phosphorylation: 2 proteins: PRKACB, PRKACA
+protein kinase A signaling: 2 proteins: PRKACB, PRKACA
+peptidyl-serine phosphorylation: 2 proteins: PRKACB, PRKACA
+high-density lipoprotein particle assembly: 2 proteins: PRKACB, PRKACA
+ protein processing: 2 proteins: PRKACB, PRKACA
+negative regulation of smoothened signaling pathway involved in dorsal/ventral neural tube patterning: 2 proteins: PRKACB, PRKACA
+protein kinase A regulatory subunit binding: 2 proteins: PRKACA, AKAP11
+microtubule organizing center: 2 proteins: TACC1, AKAP11

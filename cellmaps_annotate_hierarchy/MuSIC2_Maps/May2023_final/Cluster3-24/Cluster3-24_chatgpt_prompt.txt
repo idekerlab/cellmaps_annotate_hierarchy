@@ -1,0 +1,60 @@
+Your response should be formatted as Markdown paragraphs
+Write a critical and concise analysis of this human protein system, describing your reasoning as you go and providing references to scientific papers.
+
+A critical goal of the analysis is to determine if this is a novel complex or if any proteins are novel members of a known complex
+
+Format with Title, Summary, and References sections.        
+Avoid overly general statements of how the proteins are involved in various cellular processes        
+Avoid repeating the goals of the analysis.
+
+What cellular components and complexes are involved in this system?
+What mechanisms and biological processes are performed by this system?
+Propose a name for the system to reflect the cellular location and function, and should be specific but brief. Do not compose an acronym. Place it as the title of your report
+Human Proteins: INHA, SMG5, UBA5, PHLDB1, PHKG2, TDRP, BLOC1S5, EIF4E, FYCO1, EIF4ENIF1, PLEK2, BRAF, ITPR3, DLG1, DCP1A, DCP1B, DDX6, EDC3, EDC4, KCNQ5, KCTD8, RCOR2.
+
+System features from GO terms: 
+protein binding: 20 proteins: INHA, SMG5, UBA5, PHLDB1, PHKG2, BLOC1S5, EIF4E, FYCO1, EIF4ENIF1, BRAF, ITPR3, DLG1, DCP1A, DCP1B, DDX6, EDC3, EDC4, KCNQ5, KCTD8, RCOR2
+cytosol: 14 proteins: SMG5, UBA5, PHLDB1, PHKG2, TDRP, EIF4E, EIF4ENIF1, BRAF, DLG1, DCP1A, DCP1B, DDX6, EDC3, EDC4
+cytoplasm: 12 proteins: INHA, SMG5, UBA5, TDRP, EIF4E, EIF4ENIF1, PLEK2, ITPR3, DLG1, DCP1A, DDX6, EDC4
+nucleus: 11 proteins: SMG5, UBA5, TDRP, EIF4E, EIF4ENIF1, BRAF, DLG1, DCP1A, DCP1B, DDX6, EDC4
+membrane: 8 proteins: FYCO1, EIF4ENIF1, ITPR3, DCP1A, DCP1B, DDX6, EDC3, EDC4
+intracellular membrane-bounded organelle: 7 proteins: UBA5, PHLDB1, TDRP, FYCO1, EIF4ENIF1, BRAF, DCP1B
+P-body: 7 proteins: EIF4E, EIF4ENIF1, DCP1A, DCP1B, DDX6, EDC3, EDC4
+plasma membrane: 6 proteins: PHLDB1, PLEK2, BRAF, ITPR3, DLG1, KCNQ5
+cytoplasmic ribonucleoprotein granule: 5 proteins: EIF4E, DCP1A, DDX6, EDC3, EDC4
+mRNA binding: 5 proteins: EIF4ENIF1, DCP1A, DCP1B, DDX6, EDC3
+ATP binding: 4 proteins: UBA5, PHKG2, BRAF, DDX6
+deadenylation-independent decapping of nuclear-transcribed mRNA: 4 proteins: DCP1A, DCP1B, EDC3, EDC4
+ cell population proliferation: 3 proteins: INHA, BRAF, DLG1
+nuclear-transcribed mRNA catabolic process, nonsense-mediated decay: 3 proteins: SMG5, DCP1A, DCP1B
+endoplasmic reticulum membrane: 3 proteins: UBA5, ITPR3, DLG1
+Golgi apparatus: 3 proteins: UBA5, FYCO1, DLG1
+enzyme binding: 3 proteins: PHKG2, EIF4E, RCOR2
+RNA binding: 3 proteins: EIF4E, EIF4ENIF1, DDX6
+negative regulation of translation: 3 proteins: EIF4E, EIF4ENIF1, DDX6
+stem cell population maintenance: 3 proteins: EIF4E, EIF4ENIF1, DDX6
+neuron differentiation: 3 proteins: EIF4E, EIF4ENIF1, DDX6
+negative regulation of neuron differentiation: 3 proteins: EIF4E, EIF4ENIF1, DDX6
+P-body assembly: 3 proteins: EIF4ENIF1, DDX6, EDC3
+identical protein binding: 3 proteins: BRAF, DCP1A, EDC3
+erythrocyte differentiation: 2 proteins: INHA, UBA5
+neuronal cell body: 2 proteins: INHA, ITPR3
+protein serine/threonine kinase activity: 2 proteins: PHKG2, BRAF
+protein phosphorylation: 2 proteins: PHKG2, BRAF
+cytoplasmic stress granule: 2 proteins: EIF4E, DDX6
+RISC complex: 2 proteins: EIF4E, DDX6
+perinuclear region of cytoplasm: 2 proteins: EIF4E, DLG1
+extracellular exosome: 2 proteins: EIF4E, DLG1
+glutamatergic synapse: 2 proteins: EIF4E, DLG1
+kinase binding: 2 proteins: EIF4ENIF1, DLG1
+miRNA-mediated gene silencing by inhibition of translation: 2 proteins: EIF4ENIF1, DDX6
+long-term synaptic potentiation: 2 proteins: BRAF, ITPR3
+neuron projection: 2 proteins: BRAF, DLG1
+nucleoplasm: 2 proteins: ITPR3, EDC4
+endoplasmic reticulum: 2 proteins: ITPR3, DLG1
+receptor complex: 2 proteins: ITPR3, KCTD8
+cadherin binding: 2 proteins: DLG1, DDX6
+enzyme activator activity: 2 proteins: DCP1A, DCP1B
+5'-(N(7)-methylguanosine 5'-triphospho)-[mRNA] hydrolase activity: 2 proteins: DCP1A, DCP1B
+deadenylation-dependent decapping of nuclear-transcribed mRNA: 2 proteins: DCP1A, DCP1B
+ catalytic activity: 2 proteins: DCP1A, DCP1B

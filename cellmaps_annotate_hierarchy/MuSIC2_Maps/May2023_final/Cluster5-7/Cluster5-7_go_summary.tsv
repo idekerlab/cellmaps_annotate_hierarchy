@@ -1,0 +1,73 @@
+Feature	Number of Genes	Genes
+cytosol	5	FAM120A, PUM2, RBMS1, RO60, STAT5A
+RNA binding	4	FAM120A, PUM2, RBMS1, RO60
+nucleus	3	FAM120A, RBMS1, STAT5A
+protein binding	3	PUM2, RBMS1, STAT5A
+mRNA 3'-UTR binding	2	PUM2, RBMS1
+ribonucleoprotein complex	2	RBMS1, RO60
+nucleoplasm	2	RO60, STAT5A
+plasma membrane	1	FAM120A
+membrane	1	FAM120A
+miRNA binding	1	PUM2
+pumilio-response element binding	1	PUM2
+lncRNA binding	1	PUM2
+skeletal system development	1	PUM2
+hair follicle development	1	PUM2
+ translation	1	PUM2
+mitochondrion organization	1	PUM2
+post-transcriptional regulation of gene expression	1	PUM2
+respiratory electron transport chain	1	PUM2
+stress granule assembly	1	PUM2
+miRNA processing	1	PUM2
+ mRNA stability	1	PUM2
+chromosome organization	1	PUM2
+ chromosome segregation	1	PUM2
+adipose tissue development	1	PUM2
+ miRNA-mediated gene silencing	1	PUM2
+ RIG-I signaling pathway	1	PUM2
+cytoplasm	1	PUM2
+cytoplasmic stress granule	1	PUM2
+nuclear membrane	1	PUM2
+perinuclear region of cytoplasm	1	PUM2
+double-stranded DNA binding	1	RBMS1
+single-stranded DNA binding	1	RBMS1
+poly(A) binding	1	RBMS1
+poly(U) RNA binding	1	RBMS1
+DNA replication	1	RBMS1
+RNA processing	1	RBMS1
+U2 snRNA binding	1	RO60
+metal ion binding	1	RO60
+immune system development	1	RO60
+transcription by RNA polymerase III	1	RO60
+smoothened signaling pathway	1	RO60
+response to UV	1	RO60
+ gene expression	1	RO60
+cellular response to interferon-alpha	1	RO60
+cilium assembly	1	RO60
+nuclear body	1	RO60
+RNA polymerase II cis-regulatory region sequence-specific DNA binding	1	STAT5A
+DNA-binding transcription factor activity, RNA polymerase II-specific	1	STAT5A
+DNA-binding transcription factor activity	1	STAT5A
+DNA-binding transcription factor binding	1	STAT5A
+ endothelial cell proliferation	1	STAT5A
+ transcription by RNA polymerase II	1	STAT5A
+defense response	1	STAT5A
+receptor signaling pathway via JAK-STAT	1	STAT5A
+lactation	1	STAT5A
+cytokine-mediated signaling pathway	1	STAT5A
+taurine metabolic process	1	STAT5A
+eosinophil differentiation	1	STAT5A
+interleukin-15-mediated signaling pathway	1	STAT5A
+interleukin-4-mediated signaling pathway	1	STAT5A
+reelin-mediated signaling pathway	1	STAT5A
+interleukin-5-mediated signaling pathway	1	STAT5A
+interleukin-2-mediated signaling pathway	1	STAT5A
+interleukin-9-mediated signaling pathway	1	STAT5A
+interleukin-3-mediated signaling pathway	1	STAT5A
+ multicellular organism growth	1	STAT5A
+ cell population proliferation	1	STAT5A
+response to peptide hormone	1	STAT5A
+ blood vessel endothelial cell migration	1	STAT5A
+growth hormone receptor signaling pathway via JAK-STAT	1	STAT5A
+chromatin	1	STAT5A
+RNA polymerase II transcription regulator complex	1	STAT5A

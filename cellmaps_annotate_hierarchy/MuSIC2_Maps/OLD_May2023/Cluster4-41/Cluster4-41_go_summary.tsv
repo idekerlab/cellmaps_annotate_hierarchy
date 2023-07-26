@@ -1,0 +1,70 @@
+Feature	Number of Genes	Genes
+protein binding	4	DBNL, RNF25, UBE2D2, UBE2D3
+cytosol	4	DBNL, RNF25, UBE2D2, UBE2D3
+extracellular exosome	3	DBNL, UBE2D2, UBE2D3
+ubiquitin-protein transferase activity	3	RNF25, UBE2D2, UBE2D3
+ubiquitin protein ligase activity	3	RNF25, UBE2D2, UBE2D3
+ubiquitin-dependent protein catabolic process	3	RNF25, UBE2D2, UBE2D3
+protein ubiquitination	3	RNF25, UBE2D2, UBE2D3
+nucleus	3	RNF25, UBE2D2, UBE2D3
+plasma membrane	2	DBNL, UBE2D3
+ATP binding	2	UBE2D2, UBE2D3
+ubiquitin protein ligase binding	2	UBE2D2, UBE2D3
+ubiquitin conjugating enzyme activity	2	UBE2D2, UBE2D3
+protein polyubiquitination	2	UBE2D2, UBE2D3
+protein modification process	2	UBE2D2, UBE2D3
+protein autoubiquitination	2	UBE2D2, UBE2D3
+protein K48-linked ubiquitination	2	UBE2D2, UBE2D3
+ubiquitin ligase complex	2	UBE2D2, UBE2D3
+nucleoplasm	2	UBE2D2, UBE2D3
+actin binding	1	DBNL
+enzyme activator activity	1	DBNL
+protein domain specific binding	1	DBNL
+cadherin binding	1	DBNL
+actin filament binding	1	DBNL
+structural constituent of postsynaptic actin cytoskeleton	1	DBNL
+adaptive immune response	1	DBNL
+endocytosis	1	DBNL
+synapse assembly	1	DBNL
+Rac protein signal transduction	1	DBNL
+neuron projection morphogenesis	1	DBNL
+membrane organization	1	DBNL
+podosome assembly	1	DBNL
+postsynaptic actin cytoskeleton organization	1	DBNL
+Golgi membrane	1	DBNL
+ruffle	1	DBNL
+podosome	1	DBNL
+extracellular region	1	DBNL
+cytoplasm	1	DBNL
+early endosome	1	DBNL
+cell cortex	1	DBNL
+postsynaptic density	1	DBNL
+membrane	1	DBNL
+lamellipodium	1	DBNL
+dendrite	1	DBNL
+clathrin-coated vesicle membrane	1	DBNL
+secretory granule lumen	1	DBNL
+perikaryon	1	DBNL
+intracellular membrane-bounded organelle	1	DBNL
+anchoring junction	1	DBNL
+presynapse	1	DBNL
+glutamatergic synapse	1	DBNL
+tertiary granule lumen	1	DBNL
+ficolin-1-rich granule lumen	1	DBNL
+metal ion binding	1	RNF25
+NF-kappaB binding	1	RNF25
+molecular function inhibitor activity	1	RNF25
+positive regulation of NF-kappaB transcription factor activity	1	RNF25
+rescue of stalled ribosome	1	RNF25
+protein K6-linked ubiquitination	1	RNF25
+cytosolic ribosome	1	RNF25
+protein-containing complex	1	UBE2D2
+negative regulation of transcription by RNA polymerase II	1	UBE2D3
+DNA repair	1	UBE2D3
+protein monoubiquitination	1	UBE2D3
+apoptotic process	1	UBE2D3
+negative regulation of BMP signaling pathway	1	UBE2D3
+proteasome-mediated ubiquitin-dependent protein catabolic process	1	UBE2D3
+protein K11-linked ubiquitination	1	UBE2D3
+positive regulation of protein targeting to mitochondrion	1	UBE2D3
+endosome membrane	1	UBE2D3

@@ -1,0 +1,444 @@
+Feature	Number of Genes	Genes
+protein binding	25	ESRP1, HES1, GAREM1, CCDC107, ATP6V1D, BCL2L2, PGBD1, YOD1, JPH3, TRIM29, LGALSL, HEY1, KLK6, IMPA2, LSMEM2, TPR, BLMH, RSRP1, GTF2A2, ZC3HC1, PPL, OLFM4, AZGP1, DUSP14, ME1
+cytoplasm	12	HES1, YOD1, HEY1, KLK6, IMPA2, TPR, BLMH, WDR7, ALDH1A3, ANXA8L1, PPL, ME1
+nucleoplasm	10	ESRP1, HES1, ATP6V1D, HEY1, CERKL, KLK6, TPR, GTF2A2, ZC3HC1, OLFM4
+cytosol	10	ATP6V1D, BCL2L2, YOD1, CERKL, IMPA2, BLMH, ALDH1A3, PPL, OLFM4, ME1
+nucleus	9	ESRP1, HES1, HEY1, TPR, BLMH, RSRP1, GTF2A2, ZC3HC1, AZGP1
+protein homodimerization activity	6	HES1, BCL2L2, IMPA2, TPR, ALDH1A3, GTF2A2
+membrane	6	CCDC107, ATP6V1D, PGBD1, JPH3, LSMEM2, PPL
+extracellular exosome	6	ATP6V1D, BLMH, ALDH1A3, PPL, OLFM4, AZGP1
+plasma membrane	5	GAREM1, ATP6V1D, JPH3, PPL, OLFM4
+identical protein binding	5	BCL2L2, PGBD1, TRIM29, BLMH, ME1
+negative regulation of transcription by RNA polymerase II	4	HES1, TRIM29, HEY1, TPR
+extracellular space	4	CPA4, KLK6, OLFM4, AZGP1
+RNA polymerase II-specific DNA-binding transcription factor binding	3	HES1, HEY1, GTF2A2
+cell adhesion	3	HES1, OLFM4, AZGP1
+positive regulation of transcription by RNA polymerase II	3	HES1, HEY1, GTF2A2
+zinc ion binding	3	CPA4, TRIM29, ZC3HC1
+metal ion binding	3	YOD1, DEF8, IMPA2
+extracellular region	3	KLK6, OLFM4, AZGP1
+mitochondrion	3	KLK6, OLFM4, ME1
+nuclear membrane	3	KLK6, TPR, ZC3HC1
+mRNA binding	2	ESRP1, TPR
+DNA-binding transcription factor activity, RNA polymerase II-specific	2	HES1, HEY1
+DNA-binding transcription repressor activity, RNA polymerase II-specific	2	HES1, HEY1
+chromatin binding	2	HES1, TPR
+sequence-specific DNA binding	2	HES1, PGBD1
+protein-containing complex binding	2	HES1, BCL2L2
+sequence-specific double-stranded DNA binding	2	HES1, HEY1
+regulation of transcription by RNA polymerase II	2	HES1, HEY1
+Notch signaling pathway	2	HES1, HEY1
+positive regulation of cell population proliferation	2	HES1, GAREM1
+anterior/posterior pattern specification	2	HES1, HEY1
+negative regulation of neuron differentiation	2	HES1, HEY1
+negative regulation of DNA-templated transcription	2	HES1, HEY1
+regulation of neurogenesis	2	HES1, HEY1
+ventricular septum morphogenesis	2	HES1, HEY1
+labyrinthine layer blood vessel development	2	HES1, HEY1
+chromatin	2	HES1, HEY1
+protein-containing complex	2	HES1, OLFM4
+proteolysis	2	CPA4, BLMH
+protein heterodimerization activity	2	BCL2L2, GTF2A2
+regulation of apoptotic process	2	BCL2L2, OLFM4
+neuromuscular process controlling balance	2	JPH3, ALDH1A3
+nucleolus	2	CERKL, KLK6
+endoplasmic reticulum	2	CERKL, KLK6
+perinuclear region of cytoplasm	2	CERKL, OLFM4
+cornified envelope	2	KLK6, PPL
+intercellular bridge	2	KLK6, OLFM4
+signal transduction	2	IMPA2, OLFM4
+RNA binding	2	TPR, DUSP14
+cell division	2	TPR, ZC3HC1
+protein homotetramerization	2	ALDH1A3, ME1
+structural molecule activity	2	PPL, OLFM4
+cadherin binding	2	PPL, OLFM4
+mRNA processing	1	ESRP1
+RNA splicing	1	ESRP1
+regulation of inner ear auditory receptor cell fate specification	1	ESRP1
+regulation of RNA splicing	1	ESRP1
+nuclear body	1	ESRP1
+ribonucleoprotein complex	1	ESRP1
+transcription corepressor binding	1	HES1
+DNA binding	1	HES1
+JUN kinase binding	1	HES1
+histone deacetylase binding	1	HES1
+HLH domain binding	1	HES1
+protein-folding chaperone binding	1	HES1
+E-box binding	1	HES1
+N-box binding	1	HES1
+cell fate determination	1	HES1
+liver development	1	HES1
+embryonic heart tube morphogenesis	1	HES1
+outflow tract morphogenesis	1	HES1
+regulation of secondary heart field cardioblast proliferation	1	HES1
+ventricular septum development	1	HES1
+pancreatic A cell differentiation	1	HES1
+smoothened signaling pathway	1	HES1
+nervous system development	1	HES1
+positive regulation of gene expression	1	HES1
+negative regulation of gene expression	1	HES1
+negative regulation of neuron projection development	1	HES1
+response to organic cyclic compound	1	HES1
+cell migration	1	HES1
+telencephalon development	1	HES1
+midbrain-hindbrain boundary morphogenesis	1	HES1
+oculomotor nerve development	1	HES1
+trochlear nerve development	1	HES1
+hindbrain morphogenesis	1	HES1
+forebrain radial glial cell differentiation	1	HES1
+Cajal-Retzius cell differentiation	1	HES1
+adenohypophysis development	1	HES1
+lung development	1	HES1
+BMP signaling pathway	1	HES1
+positive regulation of BMP signaling pathway	1	HES1
+midbrain development	1	HES1
+somatic stem cell population maintenance	1	HES1
+amacrine cell differentiation	1	HES1
+ascending aorta morphogenesis	1	HES1
+T cell proliferation	1	HES1
+positive regulation of T cell proliferation	1	HES1
+inner ear auditory receptor cell differentiation	1	HES1
+positive regulation of tyrosine phosphorylation of STAT protein	1	HES1
+regulation of protein-containing complex assembly	1	HES1
+response to alkaloid	1	HES1
+positive regulation of DNA binding	1	HES1
+negative regulation of DNA-binding transcription factor activity	1	HES1
+regulation of fat cell differentiation	1	HES1
+negative regulation of inner ear auditory receptor cell differentiation	1	HES1
+positive regulation of Notch signaling pathway	1	HES1
+positive regulation of mitotic cell cycle, embryonic	1	HES1
+lateral inhibition	1	HES1
+regulation of receptor signaling pathway via JAK-STAT	1	HES1
+positive regulation of receptor signaling pathway via JAK-STAT	1	HES1
+cell maturation	1	HES1
+thymus development	1	HES1
+cell morphogenesis involved in neuron differentiation	1	HES1
+positive regulation of astrocyte differentiation	1	HES1
+negative regulation of oligodendrocyte differentiation	1	HES1
+artery morphogenesis	1	HES1
+regulation of epithelial cell proliferation	1	HES1
+inner ear receptor cell stereocilium organization	1	HES1
+regulation of timing of neuron differentiation	1	HES1
+negative regulation of glial cell proliferation	1	HES1
+ureteric bud morphogenesis	1	HES1
+common bile duct development	1	HES1
+stomach neuroendocrine cell differentiation	1	HES1
+negative regulation of stomach neuroendocrine cell differentiation	1	HES1
+cardiac neural crest cell development involved in outflow tract morphogenesis	1	HES1
+pharyngeal arch artery morphogenesis	1	HES1
+protein-containing complex assembly	1	HES1
+cellular response to interleukin-1	1	HES1
+cellular response to tumor necrosis factor	1	HES1
+cellular response to fatty acid	1	HES1
+glomerulus vasculature development	1	HES1
+comma-shaped body morphogenesis	1	HES1
+S-shaped body morphogenesis	1	HES1
+renal interstitial fibroblast development	1	HES1
+metanephric nephron tubule morphogenesis	1	HES1
+cochlea development	1	HES1
+establishment of epithelial cell polarity	1	HES1
+negative regulation of calcium ion import	1	HES1
+response to thyroid hormone	1	HES1
+vascular associated smooth muscle cell development	1	HES1
+neuronal stem cell population maintenance	1	HES1
+negative regulation of amacrine cell differentiation	1	HES1
+negative regulation of cell fate determination	1	HES1
+cellular response to nerve growth factor stimulus	1	HES1
+negative regulation of pancreatic A cell differentiation	1	HES1
+negative regulation of stem cell differentiation	1	HES1
+negative regulation of pro-B cell differentiation	1	HES1
+negative regulation of forebrain neuron differentiation	1	HES1
+nuclear matrix	1	HES1
+proline-rich region binding	1	GAREM1
+epidermal growth factor receptor signaling pathway	1	GAREM1
+positive regulation of cell division	1	GAREM1
+positive regulation of ERK1 and ERK2 cascade	1	GAREM1
+cellular response to epidermal growth factor stimulus	1	GAREM1
+proton-transporting ATPase activity, rotational mechanism	1	ATP6V1D
+vacuolar acidification	1	ATP6V1D
+lysosomal lumen acidification	1	ATP6V1D
+regulation of macroautophagy	1	ATP6V1D
+endosomal lumen acidification	1	ATP6V1D
+intracellular pH reduction	1	ATP6V1D
+cilium assembly	1	ATP6V1D
+protein localization to cilium	1	ATP6V1D
+Golgi lumen acidification	1	ATP6V1D
+synaptic vesicle lumen acidification	1	ATP6V1D
+proton transmembrane transport	1	ATP6V1D
+vacuolar proton-transporting V-type ATPase, V1 domain	1	ATP6V1D
+lysosomal membrane	1	ATP6V1D
+centrosome	1	ATP6V1D
+cilium	1	ATP6V1D
+clathrin-coated vesicle membrane	1	ATP6V1D
+proton-transporting V-type ATPase complex	1	ATP6V1D
+specific granule membrane	1	ATP6V1D
+extrinsic component of synaptic vesicle membrane	1	ATP6V1D
+transmembrane transporter complex	1	ATP6V1D
+metallocarboxypeptidase activity	1	CPA4
+histone acetylation	1	CPA4
+cellular_component	1	CPA4
+BH domain binding	1	BCL2L2
+disordered domain specific binding	1	BCL2L2
+response to ischemia	1	BCL2L2
+spermatogenesis	1	BCL2L2
+brain development	1	BCL2L2
+intrinsic apoptotic signaling pathway in response to DNA damage	1	BCL2L2
+negative regulation of mitochondrial membrane permeability	1	BCL2L2
+negative regulation of apoptotic process	1	BCL2L2
+Sertoli cell proliferation	1	BCL2L2
+cellular response to estradiol stimulus	1	BCL2L2
+negative regulation of release of cytochrome c from mitochondria	1	BCL2L2
+extrinsic apoptotic signaling pathway in absence of ligand	1	BCL2L2
+cellular response to amyloid-beta	1	BCL2L2
+cellular response to glycine	1	BCL2L2
+negative regulation of intrinsic apoptotic signaling pathway	1	BCL2L2
+mitochondrial outer membrane	1	BCL2L2
+Bcl-2 family protein complex	1	BCL2L2
+scavenger receptor activity	1	PGBD1
+endocytosis	1	PGBD1
+cysteine-type deubiquitinase activity	1	YOD1
+ubiquitin protein ligase binding	1	YOD1
+K63-linked deubiquitinase activity	1	YOD1
+deubiquitinase activity	1	YOD1
+K48-linked deubiquitinase activity	1	YOD1
+macroautophagy	1	YOD1
+protein deubiquitination	1	YOD1
+ubiquitin-dependent ERAD pathway	1	YOD1
+endoplasmic reticulum unfolded protein response	1	YOD1
+protein K29-linked deubiquitination	1	YOD1
+protein K11-linked deubiquitination	1	YOD1
+protein K63-linked deubiquitination	1	YOD1
+protein K48-linked deubiquitination	1	YOD1
+negative regulation of retrograde protein transport, ER to cytosol	1	YOD1
+protein K27-linked deubiquitination	1	YOD1
+protein K33-linked deubiquitination	1	YOD1
+lipid binding	1	FCHSD1
+neuromuscular synaptic transmission	1	FCHSD1
+regulation of actin filament polymerization	1	FCHSD1
+positive regulation of actin filament polymerization	1	FCHSD1
+membrane organization	1	FCHSD1
+neuromuscular junction	1	FCHSD1
+cuticular plate	1	FCHSD1
+cell projection	1	FCHSD1
+perikaryon	1	FCHSD1
+recycling endosome	1	FCHSD1
+molecular_function	1	JPH3
+learning	1	JPH3
+memory	1	JPH3
+exploration behavior	1	JPH3
+locomotion	1	JPH3
+regulation of synaptic plasticity	1	JPH3
+regulation of neuronal synaptic plasticity	1	JPH3
+regulation of ryanodine-sensitive calcium-release channel activity	1	JPH3
+calcium ion transport into cytosol	1	JPH3
+endoplasmic reticulum membrane	1	JPH3
+junctional sarcoplasmic reticulum membrane	1	JPH3
+junctional membrane complex	1	JPH3
+p53 binding	1	TRIM29
+cadherin binding involved in cell-cell adhesion	1	TRIM29
+innate immune response	1	TRIM29
+cell-cell adhesion	1	TRIM29
+negative regulation of protein localization to nucleus	1	TRIM29
+lysosome	1	TRIM29
+adherens junction	1	TRIM29
+carbohydrate binding	1	LGALSL
+RNA polymerase II cis-regulatory region sequence-specific DNA binding	1	HEY1
+DNA-binding transcription factor activity	1	HEY1
+protein dimerization activity	1	HEY1
+angiogenesis	1	HEY1
+cardiac conduction system development	1	HEY1
+aortic valve morphogenesis	1	HEY1
+pulmonary valve morphogenesis	1	HEY1
+atrioventricular valve formation	1	HEY1
+endocardial cushion morphogenesis	1	HEY1
+cardiac ventricle morphogenesis	1	HEY1
+dorsal aorta morphogenesis	1	HEY1
+umbilical cord morphogenesis	1	HEY1
+negative regulation of Notch signaling pathway	1	HEY1
+cardiac epithelial to mesenchymal transition	1	HEY1
+heart trabecula formation	1	HEY1
+cardiac septum morphogenesis	1	HEY1
+arterial endothelial cell differentiation	1	HEY1
+Notch signaling involved in heart development	1	HEY1
+negative regulation of biomineral tissue development	1	HEY1
+circulatory system development	1	HEY1
+negative regulation of transcription regulatory region DNA binding	1	HEY1
+negative regulation of transcription from RNA polymerase II promoter involved in smooth muscle cell differentiation	1	HEY1
+regulation of vasculogenesis	1	HEY1
+lipid kinase activity	1	CERKL
+sphingolipid binding	1	CERKL
+sphingolipid metabolic process	1	CERKL
+phosphorylation	1	CERKL
+sphingolipid biosynthetic process	1	CERKL
+lipid phosphorylation	1	CERKL
+photoreceptor outer segment	1	CERKL
+photoreceptor inner segment	1	CERKL
+Golgi apparatus	1	CERKL
+serine-type endopeptidase activity	1	KLK6
+central nervous system development	1	KLK6
+response to wounding	1	KLK6
+regulation of neuron projection development	1	KLK6
+protein autoprocessing	1	KLK6
+collagen catabolic process	1	KLK6
+tissue regeneration	1	KLK6
+hormone metabolic process	1	KLK6
+myelination	1	KLK6
+amyloid precursor protein metabolic process	1	KLK6
+regulation of cell differentiation	1	KLK6
+positive regulation of G protein-coupled receptor signaling pathway	1	KLK6
+lysosome localization	1	DEF8
+positive regulation of bone resorption	1	DEF8
+positive regulation of ruffle assembly	1	DEF8
+inositol monophosphate 1-phosphatase activity	1	IMPA2
+inositol monophosphate 3-phosphatase activity	1	IMPA2
+inositol monophosphate 4-phosphatase activity	1	IMPA2
+inositol metabolic process	1	IMPA2
+inositol biosynthetic process	1	IMPA2
+phosphate-containing compound metabolic process	1	IMPA2
+response to lithium ion	1	IMPA2
+phosphatidylinositol phosphate biosynthetic process	1	IMPA2
+tubulin binding	1	TPR
+structural constituent of nuclear pore	1	TPR
+heat shock protein binding	1	TPR
+protein-membrane adaptor activity	1	TPR
+mitogen-activated protein kinase binding	1	TPR
+dynein complex binding	1	TPR
+RNA import into nucleus	1	TPR
+RNA export from nucleus	1	TPR
+mRNA export from nucleus	1	TPR
+protein import into nucleus	1	TPR
+protein export from nucleus	1	TPR
+nucleocytoplasmic transport	1	TPR
+nuclear pore organization	1	TPR
+mitotic spindle assembly checkpoint signaling	1	TPR
+regulation of mRNA export from nucleus	1	TPR
+regulation of mitotic sister chromatid separation	1	TPR
+positive regulation of heterochromatin formation	1	TPR
+regulation of protein stability	1	TPR
+mRNA export from nucleus in response to heat stress	1	TPR
+regulation of protein localization	1	TPR
+cellular response to heat	1	TPR
+cellular response to interferon-alpha	1	TPR
+regulation of protein import into nucleus	1	TPR
+positive regulation of protein import into nucleus	1	TPR
+nuclear matrix organization	1	TPR
+negative regulation of translational initiation	1	TPR
+regulation of protein export from nucleus	1	TPR
+positive regulation of protein export from nucleus	1	TPR
+negative regulation of RNA export from nucleus	1	TPR
+nuclear pore complex assembly	1	TPR
+response to epidermal growth factor	1	TPR
+positive regulation of mitotic cell cycle spindle assembly checkpoint	1	TPR
+positive regulation of intracellular protein transport	1	TPR
+regulation of mitotic spindle assembly	1	TPR
+kinetochore	1	TPR
+nuclear envelope	1	TPR
+nuclear pore	1	TPR
+cytoplasmic dynein complex	1	TPR
+extrinsic component of membrane	1	TPR
+nuclear periphery	1	TPR
+nuclear inclusion body	1	TPR
+nuclear pore nuclear basket	1	TPR
+mitotic spindle	1	TPR
+aminopeptidase activity	1	BLMH
+carboxypeptidase activity	1	BLMH
+cysteine-type endopeptidase activity	1	BLMH
+cysteine-type peptidase activity	1	BLMH
+protein polyubiquitination	1	BLMH
+response to xenobiotic stimulus	1	BLMH
+response to toxic substance	1	BLMH
+homocysteine catabolic process	1	BLMH
+hematopoietic progenitor cell differentiation	1	WDR7
+spliceosomal complex assembly	1	RSRP1
+retinal dehydrogenase activity	1	ALDH1A3
+aldehyde dehydrogenase (NAD+) activity	1	ALDH1A3
+aldehyde dehydrogenase [NAD(P)+] activity	1	ALDH1A3
+thyroid hormone binding	1	ALDH1A3
+NAD+ binding	1	ALDH1A3
+optic cup morphogenesis involved in camera-type eye development	1	ALDH1A3
+retinoic acid biosynthetic process	1	ALDH1A3
+apoptotic process	1	ALDH1A3
+locomotory behavior	1	ALDH1A3
+nucleus accumbens development	1	ALDH1A3
+embryonic camera-type eye development	1	ALDH1A3
+inner ear morphogenesis	1	ALDH1A3
+retinol metabolic process	1	ALDH1A3
+retinoic acid metabolic process	1	ALDH1A3
+retinal metabolic process	1	ALDH1A3
+positive regulation of apoptotic process	1	ALDH1A3
+embryonic eye morphogenesis	1	ALDH1A3
+righting reflex	1	ALDH1A3
+olfactory pit development	1	ALDH1A3
+face development	1	ALDH1A3
+Harderian gland development	1	ALDH1A3
+calcium ion binding	1	ANXA8L1
+calcium-dependent phospholipid binding	1	ANXA8L1
+endosome organization	1	ANXA8L1
+endosomal transport	1	ANXA8L1
+negative regulation of serine-type endopeptidase activity	1	ANXA8L1
+negative regulation of phospholipase A2 activity	1	ANXA8L1
+RNA polymerase II general transcription initiation factor binding	1	GTF2A2
+RNA polymerase II general transcription initiation factor activity	1	GTF2A2
+TBP-class protein binding	1	GTF2A2
+transcription by RNA polymerase II	1	GTF2A2
+transcription initiation at RNA polymerase II promoter	1	GTF2A2
+RNA polymerase II preinitiation complex assembly	1	GTF2A2
+positive regulation of transcription initiation by RNA polymerase II	1	GTF2A2
+transcription factor TFIID complex	1	GTF2A2
+transcription factor TFIIA complex	1	GTF2A2
+cell junction	1	GTF2A2
+protein kinase binding	1	ZC3HC1
+cell cycle	1	ZC3HC1
+protein ubiquitination	1	ZC3HC1
+negative regulation of extrinsic apoptotic signaling pathway in absence of ligand	1	ZC3HC1
+structural constituent of cytoskeleton	1	PPL
+response to mechanical stimulus	1	PPL
+keratinization	1	PPL
+wound healing	1	PPL
+intermediate filament cytoskeleton organization	1	PPL
+cytoskeleton	1	PPL
+intermediate filament	1	PPL
+desmosome	1	PPL
+regulation of necrotic cell death	1	OLFM4
+regulation of phagocytosis	1	OLFM4
+positive regulation of substrate adhesion-dependent cell spreading	1	OLFM4
+regulation of neutrophil extravasation	1	OLFM4
+secretory granule	1	OLFM4
+specific granule lumen	1	OLFM4
+specific granule	1	OLFM4
+azurophil granule	1	OLFM4
+tertiary granule lumen	1	OLFM4
+RNA nuclease activity	1	AZGP1
+protein transmembrane transporter activity	1	AZGP1
+detection of chemical stimulus involved in sensory perception of bitter taste	1	AZGP1
+retina homeostasis	1	AZGP1
+immune response	1	AZGP1
+negative regulation of cell population proliferation	1	AZGP1
+protein transmembrane transport	1	AZGP1
+RNA phosphodiester bond hydrolysis	1	AZGP1
+external side of plasma membrane	1	AZGP1
+collagen-containing extracellular matrix	1	AZGP1
+protein tyrosine phosphatase activity	1	DUSP14
+MAP kinase tyrosine/serine/threonine phosphatase activity	1	DUSP14
+myosin phosphatase activity	1	DUSP14
+protein dephosphorylation	1	DUSP14
+magnesium ion binding	1	ME1
+malic enzyme activity	1	ME1
+malate dehydrogenase (decarboxylating) (NAD+) activity	1	ME1
+malate dehydrogenase (decarboxylating) (NADP+) activity	1	ME1
+oxaloacetate decarboxylase activity	1	ME1
+electron transfer activity	1	ME1
+manganese ion binding	1	ME1
+ADP binding	1	ME1
+NADP binding	1	ME1
+NAD binding	1	ME1
+carbohydrate metabolic process	1	ME1
+pyruvate metabolic process	1	ME1
+malate metabolic process	1	ME1
+NADH metabolic process	1	ME1
+NADP metabolic process	1	ME1
+nucleotide biosynthetic process	1	ME1
+response to hormone	1	ME1
+response to carbohydrate	1	ME1
+electron transport chain	1	ME1
+regulation of NADP metabolic process	1	ME1

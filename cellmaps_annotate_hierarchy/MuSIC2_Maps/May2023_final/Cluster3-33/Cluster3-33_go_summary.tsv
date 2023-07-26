@@ -1,0 +1,129 @@
+Feature	Number of Genes	Genes
+cytoplasm	10	HSPB6, MYH15, KLHL41, PRX, MYH1, MYH2, MYH4, MYH6, MYH7, MYH8
+cytosol	10	HSPB6, MYH15, TNNT1, ENO3, KLHL41, FABP3, BTBD1, MYH2, MYH6, MYH8
+protein binding	8	TNNT1, KLHL41, PRX, FABP3, BTBD1, MYH1, MYH2, MYH7
+microfilament motor activity	7	MYH15, MYH1, MYH2, MYH4, MYH6, MYH7, MYH8
+calmodulin binding	7	MYH15, MYH1, MYH2, MYH4, MYH6, MYH7, MYH8
+ATP binding	7	MYH15, MYH1, MYH2, MYH4, MYH6, MYH7, MYH8
+actin filament binding	7	MYH15, MYH1, MYH2, MYH4, MYH6, MYH7, MYH8
+myosin II complex	7	MYH15, MYH1, MYH2, MYH4, MYH6, MYH7, MYH8
+myosin filament	7	MYH15, MYH1, MYH2, MYH4, MYH6, MYH7, MYH8
+muscle contraction	6	MYH1, MYH2, MYH4, MYH6, MYH7, MYH8
+muscle myosin complex	6	MYH1, MYH2, MYH4, MYH6, MYH7, MYH8
+myofibril	5	MYH15, MYH2, MYH4, MYH6, MYH7
+muscle filament sliding	5	MYH2, MYH4, MYH6, MYH7, MYH8
+sarcomere	5	MYH2, MYH4, MYH6, MYH7, MYH8
+ATP metabolic process	4	MYH4, MYH6, MYH7, MYH8
+nucleus	3	HSPB6, PRX, FABP3
+extracellular space	3	MFGE8, ENO3, FABP3
+extracellular exosome	3	MFGE8, ENO3, FABP3
+skeletal muscle contraction	3	TNNT1, MYH7, MYH8
+sarcomere organization	3	TNNT1, MYH6, MYH7
+plasma membrane	3	ENO3, KLHL41, PRX
+striated muscle contraction	3	KLHL41, MYH6, MYH7
+protein homodimerization activity	2	HSPB6, MYOM3
+extracellular region	2	HSPB6, MFGE8
+M band	2	MYOM3, KLHL41
+membrane	2	MFGE8, ENO3
+transition between fast and slow fiber	2	TNNT1, MYH7
+protein ubiquitination	2	KLHL41, BTBD1
+myofibril assembly	2	KLHL41, MYH6
+nucleoplasm	2	KLHL41, BTBD1
+protein-containing complex	2	BTBD1, MYH2
+cytoplasmic ribonucleoprotein granule	2	BTBD1, MYH1
+ATP hydrolysis activity	2	MYH4, MYH8
+myosin phosphatase activity	2	MYH6, MYH8
+ the force of heart contraction	2	MYH6, MYH7
+ heart rate	2	MYH6, MYH7
+adult heart development	2	MYH6, MYH7
+cardiac muscle hypertrophy in response to stress	2	MYH6, MYH7
+ventricular cardiac muscle tissue morphogenesis	2	MYH6, MYH7
+cardiac muscle contraction	2	MYH6, MYH7
+stress fiber	2	MYH6, MYH7
+myosin complex	2	MYH6, MYH7
+Z disc	2	MYH6, MYH7
+structural constituent of eye lens	1	HSPB6
+protein folding chaperone	1	HSPB6
+unfolded protein binding	1	HSPB6
+protein-folding chaperone binding	1	HSPB6
+ angiogenesis	1	HSPB6
+chaperone-mediated protein folding	1	HSPB6
+mitochondrion	1	HSPB6
+nuclear speck	1	HSPB6
+phosphatidylserine binding	1	MFGE8
+integrin binding	1	MFGE8
+extracellular matrix structural constituent	1	MFGE8
+angiogenesis	1	MFGE8
+cell adhesion	1	MFGE8
+single fertilization	1	MFGE8
+apoptotic cell clearance	1	MFGE8
+acrosomal membrane	1	MFGE8
+endoplasmic reticulum lumen	1	MFGE8
+external side of plasma membrane	1	MFGE8
+collagen-containing extracellular matrix	1	MFGE8
+extracellular vesicle	1	MFGE8
+intracellular membrane-bounded organelle	1	MYH15
+tropomyosin binding	1	TNNT1
+troponin T binding	1	TNNT1
+slow-twitch skeletal muscle fiber contraction	1	TNNT1
+negative regulation of muscle contraction	1	TNNT1
+troponin complex	1	TNNT1
+magnesium ion binding	1	ENO3
+phosphopyruvate hydratase activity	1	ENO3
+gluconeogenesis	1	ENO3
+glycolytic process	1	ENO3
+canonical glycolysis	1	ENO3
+phosphopyruvate hydratase complex	1	ENO3
+pseudopodium assembly	1	KLHL41
+skeletal muscle cell differentiation	1	KLHL41
+ myoblast differentiation	1	KLHL41
+ myoblast proliferation	1	KLHL41
+ skeletal muscle cell differentiation	1	KLHL41
+ruffle	1	KLHL41
+endoplasmic reticulum membrane	1	KLHL41
+cytoskeleton	1	KLHL41
+pseudopodium	1	KLHL41
+Cul3-RING ubiquitin ligase complex	1	KLHL41
+sarcoplasmic reticulum membrane	1	KLHL41
+molecular_function	1	PRX
+axon ensheathment	1	PRX
+peripheral nervous system myelin maintenance	1	PRX
+ RNA splicing	1	PRX
+anchoring junction	1	PRX
+cytoskeletal protein binding	1	FABP3
+long-chain fatty acid binding	1	FABP3
+oleic acid binding	1	FABP3
+negative regulation of cell population proliferation	1	FABP3
+long-chain fatty acid transport	1	FABP3
+intracellular lipid transport	1	FABP3
+cholesterol homeostasis	1	FABP3
+ fatty acid oxidation	1	FABP3
+brown fat cell differentiation	1	FABP3
+phospholipid homeostasis	1	FABP3
+ phospholipid biosynthetic process	1	FABP3
+ long-chain fatty acid import into cell	1	FABP3
+ phosphatidylcholine biosynthetic process	1	FABP3
+identical protein binding	1	BTBD1
+cullin family protein binding	1	BTBD1
+muscle organ development	1	BTBD1
+neurogenesis	1	BTBD1
+ protein binding	1	BTBD1
+P-body	1	BTBD1
+intercalated disc	1	MYH1
+A band	1	MYH1
+cell-cell junction	1	MYH2
+double-stranded RNA binding	1	MYH4
+actin filament-based movement	1	MYH4
+protein kinase binding	1	MYH6
+in utero embryonic development	1	MYH6
+visceral muscle development	1	MYH6
+ heart contraction	1	MYH6
+ blood pressure	1	MYH6
+ ATP-dependent activity	1	MYH6
+atrial cardiac muscle tissue morphogenesis	1	MYH6
+cardiac muscle cell development	1	MYH6
+ heart growth	1	MYH6
+ the force of skeletal muscle contraction	1	MYH7
+ slow-twitch skeletal muscle fiber contraction	1	MYH7
+structural constituent of muscle	1	MYH8
+myosin light chain binding	1	MYH8

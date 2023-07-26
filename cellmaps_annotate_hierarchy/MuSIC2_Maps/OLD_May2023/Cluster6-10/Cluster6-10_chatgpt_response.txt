@@ -1,0 +1,18 @@
+Title: Mitochondrial Small Ribosomal Subunit Complex with LRP2 and SMG5
+
+Summary:
+The system of proteins analyzed in this study consists of LRP2, MRPS10, MRPS14, MRPS15, MRPS2, MRPS21, MRPS26, MRPS27, MRPS34, MRPS5, and SMG5. The majority of these proteins (9 out of 11) are involved in mitochondrial translation, mitochondrial inner membrane, and mitochondrial small ribosomal subunit, suggesting that this system is primarily associated with the mitochondrial small ribosomal subunit complex. The two remaining proteins, LRP2 and SMG5, are involved in protein binding and may interact with the mitochondrial small ribosomal subunit complex. This system is involved in various biological processes, including translation, RNA binding, and cell population proliferation. The proposed name for this system is the "Mitochondrial Small Ribosomal Subunit Complex with LRP2 and SMG5."
+
+References:
+
+1. Amunts, A., Brown, A., Toots, J., Scheres, S. H. W., & Ramakrishnan, V. (2015). Ribosome. The structure of the human mitochondrial ribosome. Science, 348(6230), 95-98. [PubMed](https://pubmed.ncbi.nlm.nih.gov/25838379/)
+
+2. Greber, B. J., Boehringer, D., Leibundgut, M., Bieri, P., Leitner, A., Schmitz, N., ... & Ban, N. (2014). The complete structure of the large subunit of the mammalian mitochondrial ribosome. Nature, 515(7526), 283-286. [PubMed](https://pubmed.ncbi.nlm.nih.gov/25119048/)
+
+3. Koc, E. C., & Koc, H. (2012). Regulation of mammalian mitochondrial translation by post-translational modifications. Biochimica et Biophysica Acta (BBA)-Gene Regulatory Mechanisms, 1819(9-10), 1055-1066. [PubMed](https://pubmed.ncbi.nlm.nih.gov/22449962/)
+
+4. Rorbach, J., & Minczuk, M. (2012). The post-transcriptional life of mammalian mitochondrial RNA. Biochemical Journal, 444(3), 357-373. [PubMed](https://pubmed.ncbi.nlm.nih.gov/22694310/)
+
+5. Richter, R., Rorbach, J., Pajak, A., Smith, P. M., Wessels, H. J., Huynen, M. A., ... & Minczuk, M. (2010). A functional peptidyl-tRNA hydrolase, ICT1, has been recruited into the human mitochondrial ribosome. The EMBO Journal, 29(6), 1116-1125. [PubMed](https://pubmed.ncbi.nlm.nih.gov/20150896/)
+
+6. Galmiche, L., Serre, V., Beinat, M., Assouline, Z., Lebre, A. S., Chretien, D., ... & Rötig, A. (2011). Exome sequencing identifies MRPL3 mutation in mitochondrial cardiomyopathy. Human Mutation, 32(11), 1225-1231. [PubMed](https://pubmed.ncbi.nlm.nih.gov/21850686/)

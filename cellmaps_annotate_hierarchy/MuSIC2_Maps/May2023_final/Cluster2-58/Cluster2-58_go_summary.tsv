@@ -1,0 +1,34 @@
+Feature	Number of Genes	Genes
+protein binding	5	ANKS3, MLLT1, ARK2N, ACP1, RNF187
+cytoplasm	4	ARHGAP29, ANKS3, ACP1, RNF187
+cytosol	4	ARHGAP29, MLLT1, ACP1, RNF187
+metal ion binding	2	ARHGAP29, RNF187
+ DNA-templated transcription	2	MLLT1, RNF187
+nucleoplasm	2	MLLT1, RNF187
+GTPase activator activity	1	ARHGAP29
+PDZ domain binding	1	ARHGAP29
+Rho protein signal transduction	1	ARHGAP29
+ small GTPase mediated signal transduction	1	ARHGAP29
+activation of GTPase activity	1	ARHGAP29
+protein-containing complex	1	ARHGAP29
+cilium	1	ANKS3
+chromatin binding	1	MLLT1
+lysine-acetylated histone binding	1	MLLT1
+negative regulation of protein kinase activity	1	MLLT1
+fibrillar center	1	MLLT1
+transcription elongation factor complex	1	MLLT1
+ubiquitin protein ligase activity	1	ARK2N
+ubiquitin-dependent protein catabolic process	1	ARK2N
+acid phosphatase activity	1	ACP1
+protein tyrosine phosphatase activity	1	ACP1
+non-membrane spanning protein tyrosine phosphatase activity	1	ACP1
+protein dephosphorylation	1	ACP1
+cytoplasmic side of plasma membrane	1	ACP1
+sarcolemma	1	ACP1
+extracellular exosome	1	ACP1
+ubiquitin-protein transferase activity	1	RNF187
+ cell population proliferation	1	RNF187
+proteasome-mediated ubiquitin-dependent protein catabolic process	1	RNF187
+protein autoubiquitination	1	RNF187
+protein K48-linked ubiquitination	1	RNF187
+nucleus	1	RNF187

@@ -1,0 +1,476 @@
+Feature	Number of Genes	Genes
+protein binding	27	DNAJC7, HSPA1L, BAG3, TUSC2, EDRF1, NTMT1, HSPH1, IFT122, HSPBP1, TDRKH, PLCB2, DNAJB4, DNAJC2, STIP1, HSPA2, HSPA8, DPH2, HSPA4, BAG1, HSF1, HSF2, SF1, SKI, SKIL, SMAD4, GMNN, CCDC117
+nucleus	21	C3orf38, HSPA1L, BAG3, EDRF1, NTMT1, HSPH1, DNAJC2, STIP1, HSPA2, HSPA8, HSPA4, BAG1, BCL9L, HSF1, HSF2, SF1, SKI, SKIL, SMAD4, GMNN, CCDC117
+cytosol	18	SPAG1, DNAJC7, HSPA1L, BAG3, NTMT1, HSPH1, PLCB2, DNAJB4, DNAJC2, STIP1, HSPA2, HSPA8, DPH2, HSPA4, BAG1, HSF1, SMAD4, GMNN
+cytoplasm	17	SPAG1, DNAJC7, HSPA1L, BAG3, NTMT1, HSPH1, IFT122, DNAJC2, HSPA2, HSPA8, BAG1, HSF1, HSF2, SKI, SMAD4, GMNN, CCDC117
+nucleoplasm	17	DNAJC7, HSPA1L, BAG3, NTMT1, HSPH1, DNAJB4, DNAJC2, HSPA8, BAG1, BCL9L, HSF1, HSF2, SF1, SKI, SKIL, SMAD4, GMNN
+chaperone cofactor-dependent protein refolding	7	DNAJC7, HSPA1L, HSPH1, DNAJB4, HSPA2, HSPA8, BAG1
+protein folding	6	DNAJC7, BAG3, HSPH1, HSPBP1, HSPA8, HSPA4
+membrane	6	DNAJC7, BAG3, IFT122, HSPA2, HSPA8, BAG1
+response to unfolded protein	6	HSPA1L, HSPH1, DNAJB4, HSPA2, HSPA8, HSPA4
+protein folding chaperone complex	5	SPAG1, BAG3, STIP1, HSPA8, HSF1
+heat shock protein binding	5	DNAJC7, HSPA1L, HSPA2, HSPA8, HSF1
+extracellular exosome	5	DNAJC7, HSPH1, HSPA2, HSPA8, HSPA4
+ATP binding	5	HSPA1L, HSPH1, HSPA2, HSPA8, HSPA4
+ubiquitin protein ligase binding	5	HSPA1L, HSPBP1, HSPA8, BAG1, SKI
+ATP-dependent protein folding chaperone	5	HSPA1L, HSPH1, HSPA2, HSPA8, HSPA4
+protein-folding chaperone binding	5	BAG3, DNAJB4, HSPA2, HSPA8, BAG1
+plasma membrane	5	BLTP2, PLCB2, DNAJB4, HSPA2, HSPA8
+protein-containing complex	5	HSPH1, STIP1, DPH2, SKI, SKIL
+RNA binding	5	TDRKH, DNAJC2, STIP1, HSPA8, SF1
+spermatogenesis	5	TDRKH, HSPA2, HSF2, SKIL, SMAD4
+negative regulation of transcription by RNA polymerase II	5	DNAJB4, HSF1, SKI, SKIL, SMAD4
+ transcription by RNA polymerase II	5	BCL9L, HSF1, HSF2, SKI, SMAD4
+RNA polymerase II cis-regulatory region sequence-specific DNA binding	5	HSF1, HSF2, SKI, SKIL, SMAD4
+DNA-binding transcription factor activity, RNA polymerase II-specific	5	HSF1, HSF2, SKI, SKIL, SMAD4
+identical protein binding	5	HSF1, HSF2, SF1, SKI, SMAD4
+unfolded protein binding	4	HSPA1L, DNAJB4, HSPA2, HSPA8
+adenyl-nucleotide exchange factor activity	4	BAG3, HSPH1, HSPBP1, BAG1
+chromatin binding	4	DNAJC2, SKIL, SMAD4, GMNN
+negative regulation of DNA-templated transcription	4	HSPA8, SF1, SMAD4, GMNN
+protein stabilization	3	SPAG1, BAG3, BAG1
+ATPase activator activity	3	DNAJC7, DNAJB4, DNAJC2
+ cellular response to heat	3	DNAJC7, DNAJC2, HSF1
+ATP hydrolysis activity	3	HSPA1L, HSPA2, HSPA8
+protein folding chaperone	3	HSPA1L, HSPA2, HSPA8
+protein refolding	3	HSPA1L, HSPA2, HSPA8
+blood microparticle	3	HSPA1L, HSPA2, HSPA8
+mitochondrion	3	TUSC2, TDRKH, HSPA4
+ DNA-templated transcription	3	EDRF1, DNAJC2, SMAD4
+negative regulation of transforming growth factor beta receptor signaling pathway	3	BCL9L, SKI, SKIL
+DNA-binding transcription repressor activity, RNA polymerase II-specific	3	HSF1, SKI, SKIL
+DNA-binding transcription activator activity, RNA polymerase II-specific	3	HSF1, HSF2, SMAD4
+DNA-binding transcription factor activity	3	HSF1, HSF2, SMAD4
+chromatin	3	HSF1, HSF2, SMAD4
+centrosome	3	HSF1, SKI, SMAD4
+transforming growth factor beta receptor signaling pathway	3	SKI, SKIL, SMAD4
+single fertilization	2	SPAG1, SMAD4
+dynein axonemal particle	2	SPAG1, STIP1
+apoptotic process	2	C3orf38, BAG1
+cadherin binding	2	BAG3, HSPA8
+protein carrier chaperone	2	BAG3, HSPA8
+extrinsic apoptotic signaling pathway via death domain receptors	2	BAG3, SKIL
+cellular response to heat	2	BAG3, HSF1
+cellular response to unfolded protein	2	BAG3, HSF1
+negative regulation of apoptotic process	2	BAG3, BAG1
+chaperone-mediated autophagy	2	BAG3, HSPA8
+extracellular region	2	HSPH1, HSPA8
+neural tube closure	2	IFT122, SKI
+camera-type eye morphogenesis	2	IFT122, SKI
+molecular function inhibitor activity	2	HSPBP1, GMNN
+extracellular space	2	HSPBP1, HSPA8
+male meiotic nuclear division	2	TDRKH, HSPA2
+cell differentiation	2	TDRKH, SMAD4
+Golgi apparatus	2	PLCB2, STIP1
+response to heat	2	DNAJB4, HSPA2
+nucleolus	2	DNAJC2, HSPA8
+Hsp90 protein binding	2	STIP1, HSF1
+enzyme binding	2	HSPA2, HSPA8
+negative regulation of inclusion body assembly	2	HSPA2, HSF1
+mRNA splicing, via spliceosome	2	HSPA8, SF1
+ mRNA splicing, via spliceosome	2	HSPA8, SF1
+ cell cycle	2	HSPA8, SKIL
+spliceosomal complex	2	HSPA8, SF1
+perinuclear region of cytoplasm	2	HSPA8, HSF1
+ribonucleoprotein complex	2	HSPA8, HSF1
+metal ion binding	2	DPH2, SMAD4
+transcription by RNA polymerase II	2	BCL9L, SMAD4
+ epithelial to mesenchymal transition	2	BCL9L, SMAD4
+somatic stem cell population maintenance	2	BCL9L, SKI
+transcription cis-regulatory region binding	2	HSF1, SMAD4
+RNA polymerase II intronic transcription regulatory region sequence-specific DNA binding	2	HSF1, HSF2
+DNA binding	2	HSF1, SMAD4
+protein kinase binding	2	HSF1, SKI
+sequence-specific DNA binding	2	HSF1, SMAD4
+sequence-specific double-stranded DNA binding	2	HSF1, HSF2
+ mitotic cell cycle	2	HSF1, GMNN
+PML body	2	HSF1, SKI
+transcription corepressor activity	2	SF1, GMNN
+zinc ion binding	2	SF1, SKI
+nuclear body	2	SF1, SKI
+SMAD binding	2	SKI, SKIL
+DNA-binding transcription factor binding	2	SKI, GMNN
+negative regulation of cell population proliferation	2	SKI, SMAD4
+negative regulation of BMP signaling pathway	2	SKI, SKIL
+SMAD protein signal transduction	2	SKI, SMAD4
+transcription regulator complex	2	SKI, SMAD4
+transcription repressor complex	2	SKI, GMNN
+GTP binding	1	SPAG1
+hydrolase activity	1	SPAG1
+axonemal dynein complex assembly	1	SPAG1
+molecular_function	1	C3orf38
+ apoptotic process	1	C3orf38
+cytoskeleton	1	DNAJC7
+binding of sperm to zona pellucida	1	HSPA1L
+ protein targeting to mitochondrion	1	HSPA1L
+zona pellucida receptor complex	1	HSPA1L
+mitochondrial matrix	1	HSPA1L
+cell body	1	HSPA1L
+protein-containing complex binding	1	BAG3
+dynein intermediate chain binding	1	BAG3
+autophagosome assembly	1	BAG3
+brain development	1	BAG3
+striated muscle cell apoptotic process	1	BAG3
+negative regulation of striated muscle cell apoptotic process	1	BAG3
+spinal cord development	1	BAG3
+ protein import into nucleus	1	BAG3
+muscle cell cellular homeostasis	1	BAG3
+ protein export from nucleus	1	BAG3
+aggresome assembly	1	BAG3
+cellular response to mechanical stimulus	1	BAG3
+extrinsic apoptotic signaling pathway in absence of ligand	1	BAG3
+negative regulation of transcription from RNA polymerase II promoter in response to stress	1	BAG3
+protein transport along microtubule	1	BAG3
+negative regulation of protein targeting to mitochondrion	1	BAG3
+ aggrephagy	1	BAG3
+stress fiber	1	BAG3
+aggresome	1	BAG3
+Z disc	1	BAG3
+neuron projection	1	BAG3
+phosphatidylinositol binding	1	BLTP2
+endoplasmic reticulum membrane	1	BLTP2
+mitochondrial membrane	1	BLTP2
+endoplasmic reticulum-plasma membrane contact site	1	BLTP2
+natural killer cell differentiation	1	TUSC2
+phagocytosis	1	TUSC2
+inflammatory response	1	TUSC2
+cell cycle	1	TUSC2
+negative regulation of interleukin-17 production	1	TUSC2
+ interleukin-10 production	1	TUSC2
+cell maturation	1	TUSC2
+ mitochondrial membrane potential	1	TUSC2
+neutrophil-mediated killing of gram-negative bacterium	1	TUSC2
+ reactive oxygen species metabolic process	1	TUSC2
+cellular_component	1	EDRF1
+protein methyltransferase activity	1	NTMT1
+histone methyltransferase activity	1	NTMT1
+N-terminal protein N-methyltransferase activity	1	NTMT1
+chromatin remodeling	1	NTMT1
+spindle organization	1	NTMT1
+chromosome segregation	1	NTMT1
+N-terminal peptidyl-alanine methylation	1	NTMT1
+N-terminal peptidyl-alanine trimethylation	1	NTMT1
+N-terminal peptidyl-glycine methylation	1	NTMT1
+N-terminal peptidyl-proline dimethylation	1	NTMT1
+N-terminal peptidyl-proline methylation	1	NTMT1
+N-terminal peptidyl-serine methylation	1	NTMT1
+N-terminal peptidyl-serine dimethylation	1	NTMT1
+N-terminal peptidyl-serine trimethylation	1	NTMT1
+alpha-tubulin binding	1	HSPH1
+ MHC class I biosynthetic process	1	HSPH1
+ NK T cell activation	1	HSPH1
+microtubule	1	HSPH1
+endocytic vesicle lumen	1	HSPH1
+embryonic body morphogenesis	1	IFT122
+embryonic heart tube development	1	IFT122
+intraciliary retrograde transport	1	IFT122
+intraciliary transport	1	IFT122
+negative regulation of smoothened signaling pathway	1	IFT122
+limb development	1	IFT122
+cilium assembly	1	IFT122
+protein localization to cilium	1	IFT122
+non-motile cilium assembly	1	IFT122
+cilium	1	IFT122
+intraciliary transport particle A	1	IFT122
+photoreceptor connecting cilium	1	IFT122
+ciliary basal body	1	IFT122
+ciliary tip	1	IFT122
+non-motile cilium	1	IFT122
+enzyme inhibitor activity	1	HSPBP1
+molecular sequestering activity	1	HSPBP1
+ protein ubiquitination	1	HSPBP1
+ proteasomal ubiquitin-dependent protein catabolic process	1	HSPBP1
+endoplasmic reticulum	1	HSPBP1
+fertilization	1	TDRKH
+piRNA processing	1	TDRKH
+pi-body	1	TDRKH
+piP-body	1	TDRKH
+phosphatidylinositol phospholipase C activity	1	PLCB2
+phospholipase C activity	1	PLCB2
+calcium ion binding	1	PLCB2
+phospholipid binding	1	PLCB2
+G-protein beta/gamma-subunit complex binding	1	PLCB2
+detection of chemical stimulus involved in sensory perception of bitter taste	1	PLCB2
+phospholipid metabolic process	1	PLCB2
+G protein-coupled receptor signaling pathway	1	PLCB2
+phospholipase C-activating G protein-coupled receptor signaling pathway	1	PLCB2
+activation of phospholipase C activity	1	PLCB2
+lipid catabolic process	1	PLCB2
+phosphatidylinositol metabolic process	1	PLCB2
+phosphatidylinositol-mediated signaling	1	PLCB2
+release of sequestered calcium ion into cytosol	1	PLCB2
+G-protein beta/gamma-subunit complex	1	PLCB2
+neuronal dense core vesicle	1	PLCB2
+Hsp70 protein binding	1	DNAJC2
+histone binding	1	DNAJC2
+ribosome binding	1	DNAJC2
+ubiquitin modification-dependent histone binding	1	DNAJC2
+DNA replication	1	DNAJC2
+chromatin organization	1	DNAJC2
+ translational fidelity	1	DNAJC2
+'de novo' cotranslational protein folding	1	DNAJC2
+negative regulation of DNA biosynthetic process	1	DNAJC2
+nuclear membrane	1	DNAJC2
+cellular response to interleukin-7	1	STIP1
+tau protein binding	1	HSPA2
+glycolipid binding	1	HSPA2
+disordered domain specific binding	1	HSPA2
+ protein phosphorylation	1	HSPA2
+male meiosis I	1	HSPA2
+spermatid development	1	HSPA2
+response to cold	1	HSPA2
+ G2/M transition of mitotic cell cycle	1	HSPA2
+synaptonemal complex disassembly	1	HSPA2
+ ATPase-coupled calcium transmembrane transporter activity	1	HSPA2
+synaptonemal complex	1	HSPA2
+male germ cell nucleus	1	HSPA2
+cell surface	1	HSPA2
+CatSper complex	1	HSPA2
+meiotic spindle	1	HSPA2
+G protein-coupled receptor binding	1	HSPA8
+phosphatidylserine binding	1	HSPA8
+MHC class II protein complex binding	1	HSPA8
+protein-macromolecule adaptor activity	1	HSPA8
+C3HC4-type RING finger domain binding	1	HSPA8
+ATP-dependent protein disaggregase activity	1	HSPA8
+clathrin-uncoating ATPase activity	1	HSPA8
+cellular response to starvation	1	HSPA8
+ protein stability	1	HSPA8
+ protein-containing complex assembly	1	HSPA8
+positive regulation by host of viral genome replication	1	HSPA8
+ATP metabolic process	1	HSPA8
+membrane organization	1	HSPA8
+ protein complex stability	1	HSPA8
+late endosomal microautophagy	1	HSPA8
+protein targeting to lysosome involved in chaperone-mediated autophagy	1	HSPA8
+cellular response to steroid hormone stimulus	1	HSPA8
+clathrin coat disassembly	1	HSPA8
+ postsynapse organization	1	HSPA8
+negative regulation of NLRP3 inflammasome complex assembly	1	HSPA8
+negative regulation of supramolecular fiber organization	1	HSPA8
+ protein import	1	HSPA8
+chaperone-mediated autophagy translocation complex disassembly	1	HSPA8
+slow axonal transport	1	HSPA8
+Prp19 complex	1	HSPA8
+lysosome	1	HSPA8
+lysosomal membrane	1	HSPA8
+late endosome	1	HSPA8
+autophagosome	1	HSPA8
+focal adhesion	1	HSPA8
+dendrite	1	HSPA8
+secretory granule lumen	1	HSPA8
+melanosome	1	HSPA8
+terminal bouton	1	HSPA8
+lysosomal lumen	1	HSPA8
+clathrin-sculpted gamma-aminobutyric acid transport vesicle membrane	1	HSPA8
+lumenal side of lysosomal membrane	1	HSPA8
+photoreceptor ribbon synapse	1	HSPA8
+glycinergic synapse	1	HSPA8
+glutamatergic synapse	1	HSPA8
+presynaptic cytosol	1	HSPA8
+postsynaptic cytosol	1	HSPA8
+postsynaptic specialization membrane	1	HSPA8
+ficolin-1-rich granule lumen	1	HSPA8
+4 iron, 4 sulfur cluster binding	1	DPH2
+2-(3-amino-3-carboxypropyl)histidine synthase activity	1	DPH2
+peptidyl-diphthamide biosynthetic process from peptidyl-histidine	1	DPH2
+protein insertion into mitochondrial outer membrane	1	HSPA4
+chaperone-mediated protein complex assembly	1	HSPA4
+cell surface receptor signaling pathway	1	BAG1
+transcription coactivator activity	1	BCL9L
+beta-catenin binding	1	BCL9L
+ cell morphogenesis	1	BCL9L
+skeletal muscle cell differentiation	1	BCL9L
+myoblast differentiation	1	BCL9L
+canonical Wnt signaling pathway	1	BCL9L
+fibrillar center	1	BCL9L
+beta-catenin-TCF complex	1	BCL9L
+chromatin DNA binding	1	HSF1
+protein self-association	1	HSF1
+protein heterodimerization activity	1	HSF1
+translation elongation factor binding	1	HSF1
+STAT family protein binding	1	HSF1
+sequence-specific single stranded DNA binding	1	HSF1
+general transcription initiation factor binding	1	HSF1
+promoter-specific chromatin binding	1	HSF1
+MAPK cascade	1	HSF1
+DNA repair	1	HSF1
+mRNA processing	1	HSF1
+defense response	1	HSF1
+response to nutrient	1	HSF1
+mRNA transcription	1	HSF1
+ gene expression	1	HSF1
+negative regulation of gene expression	1	HSF1
+negative regulation of cardiac muscle cell apoptotic process	1	HSF1
+response to activity	1	HSF1
+negative regulation of protein-containing complex assembly	1	HSF1
+response to testosterone	1	HSF1
+cellular response to potassium ion	1	HSF1
+ tyrosine phosphorylation of STAT protein	1	HSF1
+ cysteine-type endopeptidase activity involved in apoptotic process	1	HSF1
+ macrophage differentiation	1	HSF1
+mRNA transport	1	HSF1
+ DNA-binding transcription factor activity	1	HSF1
+protein-containing complex assembly	1	HSF1
+cellular response to hydrogen peroxide	1	HSF1
+cellular response to lipopolysaccharide	1	HSF1
+cellular response to cadmium ion	1	HSF1
+cellular response to copper ion	1	HSF1
+cellular response to estradiol stimulus	1	HSF1
+cellular response to xenobiotic stimulus	1	HSF1
+cellular response to gamma radiation	1	HSF1
+cellular response to diamide	1	HSF1
+ inclusion body assembly	1	HSF1
+ cold-induced thermogenesis	1	HSF1
+ mRNA polyadenylation	1	HSF1
+negative regulation of neuron death	1	HSF1
+ apoptotic DNA fragmentation	1	HSF1
+cellular response to sodium arsenite	1	HSF1
+cellular response to angiotensin	1	HSF1
+ microtubule binding	1	HSF1
+cellular response to nitroglycerin	1	HSF1
+cellular response to L-glutamine	1	HSF1
+response to hypobaric hypoxia	1	HSF1
+response to psychosocial stress	1	HSF1
+negative regulation of double-strand break repair via nonhomologous end joining	1	HSF1
+kinetochore	1	HSF1
+euchromatin	1	HSF1
+heterochromatin	1	HSF1
+nuclear stress granule	1	HSF1
+mitotic spindle pole	1	HSF1
+RNA polymerase II transcription regulatory region sequence-specific DNA binding	1	HSF2
+mRNA binding	1	SF1
+spliceosomal complex assembly	1	SF1
+mRNA 3'-splice site recognition	1	SF1
+male sex determination	1	SF1
+nuclear body organization	1	SF1
+Leydig cell differentiation	1	SF1
+negative regulation of smooth muscle cell proliferation	1	SF1
+ steroid biosynthetic process	1	SF1
+ribosome	1	SF1
+U2AF complex	1	SF1
+protein domain specific binding	1	SKI
+histone deacetylase inhibitor activity	1	SKI
+lens morphogenesis in camera-type eye	1	SKI
+anterior/posterior axis specification	1	SKI
+negative regulation of Schwann cell proliferation	1	SKI
+myotube differentiation	1	SKI
+olfactory bulb development	1	SKI
+myelination in peripheral nervous system	1	SKI
+ Wnt signaling pathway	1	SKI
+embryonic limb morphogenesis	1	SKI
+negative regulation of activin receptor signaling pathway	1	SKI
+camera-type eye development	1	SKI
+ DNA binding	1	SKI
+nose morphogenesis	1	SKI
+negative regulation of osteoblast differentiation	1	SKI
+negative regulation of fibroblast proliferation	1	SKI
+skeletal muscle fiber development	1	SKI
+cell motility	1	SKI
+roof of mouth development	1	SKI
+cardiac muscle cell proliferation	1	SKI
+retina development in camera-type eye	1	SKI
+face morphogenesis	1	SKI
+bone morphogenesis	1	SKI
+blastocyst formation	1	SKIL
+lymphocyte homeostasis	1	SKIL
+intrinsic apoptotic signaling pathway in response to DNA damage	1	SKIL
+response to cytokine	1	SKIL
+negative regulation of cell differentiation	1	SKIL
+ axonogenesis	1	SKIL
+lens fiber cell differentiation	1	SKIL
+ extrinsic apoptotic signaling pathway via death domain receptors	1	SKIL
+ intrinsic apoptotic signaling pathway in response to DNA damage	1	SKIL
+acrosomal vesicle	1	SKIL
+transcription coactivator binding	1	SMAD4
+collagen binding	1	SMAD4
+filamin binding	1	SMAD4
+protein homodimerization activity	1	SMAD4
+sulfate binding	1	SMAD4
+RNA polymerase II-specific DNA-binding transcription factor binding	1	SMAD4
+I-SMAD binding	1	SMAD4
+R-SMAD binding	1	SMAD4
+ovarian follicle development	1	SMAD4
+osteoblast differentiation	1	SMAD4
+branching involved in ureteric bud morphogenesis	1	SMAD4
+response to hypoxia	1	SMAD4
+in utero embryonic development	1	SMAD4
+gastrulation with mouth forming second	1	SMAD4
+epithelial to mesenchymal transition	1	SMAD4
+outflow tract septum morphogenesis	1	SMAD4
+cardiac conduction system development	1	SMAD4
+atrioventricular valve formation	1	SMAD4
+epithelial to mesenchymal transition involved in endocardial cushion formation	1	SMAD4
+left ventricular cardiac muscle tissue morphogenesis	1	SMAD4
+ cell proliferation involved in heart valve morphogenesis	1	SMAD4
+brainstem development	1	SMAD4
+DNA-templated transcription	1	SMAD4
+intracellular iron ion homeostasis	1	SMAD4
+SMAD protein complex assembly	1	SMAD4
+axon guidance	1	SMAD4
+endoderm development	1	SMAD4
+mesoderm development	1	SMAD4
+cell population proliferation	1	SMAD4
+anatomical structure morphogenesis	1	SMAD4
+negative regulation of cardiac muscle hypertrophy	1	SMAD4
+epithelial cell migration	1	SMAD4
+ cardiac muscle cell apoptotic process	1	SMAD4
+ pathway-restricted SMAD protein phosphorylation	1	SMAD4
+neural crest cell differentiation	1	SMAD4
+ transforming growth factor beta receptor signaling pathway	1	SMAD4
+negative regulation of cell growth	1	SMAD4
+adrenal gland development	1	SMAD4
+BMP signaling pathway	1	SMAD4
+ BMP signaling pathway	1	SMAD4
+somite rostral/caudal axis specification	1	SMAD4
+ transforming growth factor beta2 production	1	SMAD4
+activin receptor signaling pathway	1	SMAD4
+ luteinizing hormone secretion	1	SMAD4
+intracellular signal transduction	1	SMAD4
+atrioventricular canal development	1	SMAD4
+wound healing	1	SMAD4
+endothelial cell activation	1	SMAD4
+negative regulation of protein catabolic process	1	SMAD4
+embryonic digit morphogenesis	1	SMAD4
+ follicle-stimulating hormone secretion	1	SMAD4
+developmental growth	1	SMAD4
+neuron fate commitment	1	SMAD4
+sebaceous gland development	1	SMAD4
+formation of anatomical boundary	1	SMAD4
+ binding	1	SMAD4
+ histone H3-K4 methylation	1	SMAD4
+ hair follicle development	1	SMAD4
+uterus development	1	SMAD4
+ SMAD protein signal transduction	1	SMAD4
+ventricular septum morphogenesis	1	SMAD4
+endocardial cell differentiation	1	SMAD4
+female gonad morphogenesis	1	SMAD4
+secondary palate development	1	SMAD4
+interleukin-6-mediated signaling pathway	1	SMAD4
+ERK1 and ERK2 cascade	1	SMAD4
+negative regulation of ERK1 and ERK2 cascade	1	SMAD4
+cellular response to glucose stimulus	1	SMAD4
+response to transforming growth factor beta	1	SMAD4
+cellular response to BMP stimulus	1	SMAD4
+metanephric mesenchyme morphogenesis	1	SMAD4
+nephrogenic mesenchyme morphogenesis	1	SMAD4
+seminiferous tubule development	1	SMAD4
+ transcription from RNA polymerase II promoter involved in cellular response to chemical stimulus	1	SMAD4
+ miRNA transcription	1	SMAD4
+negative regulation of cardiac myofibril assembly	1	SMAD4
+ histone H3-K9 acetylation	1	SMAD4
+activin responsive factor complex	1	SMAD4
+SMAD protein complex	1	SMAD4
+heteromeric SMAD protein complex	1	SMAD4
+histone deacetylase binding	1	GMNN
+ DNA replication	1	GMNN
+negative regulation of DNA replication	1	GMNN
+animal organ morphogenesis	1	GMNN
+ DNA-templated DNA replication initiation	1	GMNN
+ chromatin binding	1	GMNN
+negative regulation of cell cycle	1	GMNN
+DNA replication preinitiation complex assembly	1	GMNN
+negative regulation of DNA-templated DNA replication	1	GMNN
+ cell population proliferation	1	CCDC117
+ DNA repair	1	CCDC117
+mitotic spindle	1	CCDC117

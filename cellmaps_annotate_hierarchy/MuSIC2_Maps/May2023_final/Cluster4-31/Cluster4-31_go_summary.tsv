@@ -1,0 +1,53 @@
+Feature	Number of Genes	Genes
+cytosol	5	TNNC2, MYH14, PHKA2, CAMK2N2, PDE1C
+calmodulin binding	3	MYH14, PHKA2, PDE1C
+protein binding	2	TNNC2, PHKA2
+skeletal muscle contraction	2	TNNC2, MYH14
+cytoplasm	2	MYH14, SH3BGRL2
+nucleoplasm	2	SH3BGRL2, CAMK2N2
+actin binding	1	TNNC2
+calcium ion binding	1	TNNC2
+ muscle contraction	1	TNNC2
+troponin complex	1	TNNC2
+microfilament motor activity	1	MYH14
+ATP binding	1	MYH14
+actin filament binding	1	MYH14
+skeletal muscle tissue development	1	MYH14
+sensory perception of sound	1	MYH14
+ cell shape	1	MYH14
+neuronal action potential	1	MYH14
+actin filament-based movement	1	MYH14
+actomyosin structure organization	1	MYH14
+mitochondrion morphogenesis	1	MYH14
+vocalization behavior	1	MYH14
+stress fiber	1	MYH14
+brush border	1	MYH14
+membrane	1	MYH14
+myosin II complex	1	MYH14
+growth cone	1	MYH14
+myosin filament	1	MYH14
+actomyosin	1	MYH14
+extracellular exosome	1	MYH14
+myosin II filament	1	MYH14
+phosphorylase kinase activity	1	PHKA2
+carbohydrate metabolic process	1	PHKA2
+glycogen metabolic process	1	PHKA2
+generation of precursor metabolites and energy	1	PHKA2
+protein modification process	1	PHKA2
+plasma membrane	1	PHKA2
+phosphorylase kinase complex	1	PHKA2
+SH3 domain binding	1	SH3BGRL2
+nuclear membrane	1	SH3BGRL2
+calcium-dependent protein kinase inhibitor activity	1	CAMK2N2
+protein kinase binding	1	CAMK2N2
+negative regulation of protein kinase activity	1	CAMK2N2
+centrosome	1	CAMK2N2
+synapse	1	CAMK2N2
+3',5'-cyclic-AMP phosphodiesterase activity	1	PDE1C
+calmodulin-activated dual specificity 3',5'-cyclic-GMP, 3',5'-cyclic-AMP phosphodiesterase activity	1	PDE1C
+metal ion binding	1	PDE1C
+3',5'-cyclic-GMP phosphodiesterase activity	1	PDE1C
+calmodulin-activated 3',5'-cyclic-GMP phosphodiesterase activity	1	PDE1C
+signal transduction	1	PDE1C
+lysosome	1	PDE1C
+neuronal cell body	1	PDE1C

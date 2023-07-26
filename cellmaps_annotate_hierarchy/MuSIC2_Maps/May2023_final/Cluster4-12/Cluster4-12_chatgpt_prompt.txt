@@ -1,0 +1,68 @@
+Your response should be formatted as Markdown paragraphs
+Write a critical and concise analysis of this human protein system, describing your reasoning as you go and providing references to scientific papers.
+
+A critical goal of the analysis is to determine if this is a novel complex or if any proteins are novel members of a known complex
+
+Format with Title, Summary, and References sections.        
+Avoid overly general statements of how the proteins are involved in various cellular processes        
+Avoid repeating the goals of the analysis.
+
+What cellular components and complexes are involved in this system?
+What mechanisms and biological processes are performed by this system?
+Propose a name for the system to reflect the cellular location and function, and should be specific but brief. Do not compose an acronym. Place it as the title of your report
+Human Proteins: ALMS1, ARMCX5, BORCS7, CRY2, CSTPP1, GNAQ, GNB5, IFT57, INTS5, LIMK1, LMTK2, MAGEA4, MAPK14, PLEKHN1, PPP1R16B, PRKAA1, SMC4, TAB1, TAB3, TSC22D3.
+
+System features from GO terms: 
+protein binding: 19 proteins: ARMCX5, BORCS7, CRY2, CSTPP1, GNAQ, GNB5, IFT57, INTS5, LIMK1, LMTK2, MAGEA4, MAPK14, PLEKHN1, PPP1R16B, PRKAA1, SMC4, TAB1, TAB3, TSC22D3
+cytosol: 12 proteins: ALMS1, CRY2, GNB5, INTS5, LIMK1, LMTK2, MAPK14, PRKAA1, SMC4, TAB1, TAB3, TSC22D3
+nucleus: 10 proteins: CRY2, GNB5, INTS5, LIMK1, MAGEA4, MAPK14, PPP1R16B, PRKAA1, SMC4, TSC22D3
+cytoplasm: 9 proteins: CRY2, CSTPP1, GNAQ, GNB5, INTS5, LIMK1, MAPK14, PPP1R16B, PRKAA1
+nuclear speck: 7 proteins: CRY2, LIMK1, MAPK14, PPP1R16B, PRKAA1, SMC4, TAB1
+ATP binding: 5 proteins: LIMK1, LMTK2, MAPK14, PRKAA1, SMC4
+plasma membrane: 4 proteins: GNAQ, PLEKHN1, PPP1R16B, TAB3
+signal transduction: 4 proteins: GNB5, LIMK1, MAPK14, PRKAA1
+nucleoplasm: 4 proteins: INTS5, MAPK14, PRKAA1, SMC4
+protein serine/threonine kinase activity: 4 proteins: LIMK1, LMTK2, MAPK14, PRKAA1
+protein serine kinase activity: 4 proteins: LIMK1, LMTK2, MAPK14, PRKAA1
+mitochondrion: 3 proteins: CRY2, MAPK14, PLEKHN1
+metal ion binding: 3 proteins: GNAQ, LIMK1, PRKAA1
+Golgi apparatus: 3 proteins: GNAQ, IFT57, LMTK2
+membrane: 3 proteins: INTS5, LIMK1, LMTK2
+protein kinase activity: 3 proteins: LIMK1, LMTK2, PRKAA1
+protein phosphorylation: 3 proteins: LIMK1, LMTK2, PRKAA1
+molecular_function: 2 proteins: ALMS1, MAGEA4
+ stress fiber assembly: 2 proteins: ALMS1, LIMK1
+spindle pole: 2 proteins: ALMS1, MAPK14
+centrosome: 2 proteins: ALMS1, IFT57
+cilium: 2 proteins: ALMS1, IFT57
+DNA binding: 2 proteins: CRY2, IFT57
+single-stranded DNA binding: 2 proteins: CRY2, SMC4
+negative regulation of transcription by RNA polymerase II: 2 proteins: CRY2, MAGEA4
+response to activity: 2 proteins: CRY2, PRKAA1
+response to insulin: 2 proteins: CRY2, MAPK14
+glucose homeostasis: 2 proteins: CRY2, PRKAA1
+ circadian rhythm: 2 proteins: CRY2, PRKAA1
+extracellular region: 2 proteins: CRY2, MAPK14
+enzyme activator activity: 2 proteins: CSTPP1, TAB1
+GTPase activity: 2 proteins: GNAQ, GNB5
+GTPase activator activity: 2 proteins: GNAQ, GNB5
+heterotrimeric G-protein complex: 2 proteins: GNAQ, GNB5
+nuclear membrane: 2 proteins: GNAQ, INTS5
+extracellular exosome: 2 proteins: GNAQ, TAB3
+apoptotic process: 2 proteins: IFT57, MAPK14
+ apoptotic process: 2 proteins: IFT57, PLEKHN1
+cytoskeleton: 2 proteins: LIMK1, PLEKHN1
+peptidyl-serine phosphorylation: 2 proteins: LMTK2, MAPK14
+neuronal cell body: 2 proteins: LMTK2, PRKAA1
+perinuclear region of cytoplasm: 2 proteins: LMTK2, PPP1R16B
+negative regulation of apoptotic process: 2 proteins: MAGEA4, PRKAA1
+mitogen-activated protein kinase p38 binding: 2 proteins: MAPK14, TAB1
+glucose metabolic process: 2 proteins: MAPK14, PRKAA1
+ transcription by RNA polymerase II: 2 proteins: MAPK14, TSC22D3
+ gene expression: 2 proteins: MAPK14, PRKAA1
+fatty acid oxidation: 2 proteins: MAPK14, PRKAA1
+intracellular signal transduction: 2 proteins: MAPK14, PRKAA1
+response to hypoxia: 2 proteins: PLEKHN1, PRKAA1
+chromatin binding: 2 proteins: PRKAA1, SMC4
+protein-containing complex binding: 2 proteins: PRKAA1, TAB1
+endosome membrane: 2 proteins: TAB1, TAB3

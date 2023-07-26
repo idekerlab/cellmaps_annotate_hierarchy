@@ -1,0 +1,60 @@
+Feature	Number of Genes	Genes
+protein binding	4	AATF, FBXL19, UBE2R2, USP37
+nucleus	3	AATF, MTUS1, USP37
+nucleolus	3	AATF, MTUS1, NOL10
+cytoplasm	3	AATF, FBXL19, MTUS1
+cytosol	3	FBXL19, UBE2R2, USP37
+RNA binding	2	AATF, NOL10
+protein kinase binding	2	AATF, USP37
+ transcription by RNA polymerase II	2	AATF, FBXL19
+nucleoplasm	2	AATF, USP37
+Golgi apparatus	2	AATF, MTUS1
+small-subunit processome	2	AATF, NOL10
+ubiquitin-dependent protein catabolic process	2	UBE2R2, USP37
+leucine zipper domain binding	1	AATF
+tau protein binding	1	AATF
+DNA damage response	1	AATF
+cell adhesion	1	AATF
+ mitotic cell cycle	1	AATF
+negative regulation of superoxide anion generation	1	AATF
+embryonic cleavage	1	AATF
+ribosomal small subunit biogenesis	1	AATF
+negative regulation of amyloid precursor protein biosynthetic process	1	AATF
+negative regulation of apoptotic process	1	AATF
+negative regulation of reactive oxygen species metabolic process	1	AATF
+negative regulation of apoptotic signaling pathway	1	AATF
+transcription regulator complex	1	AATF
+transcription coregulator activity	1	FBXL19
+zinc ion binding	1	FBXL19
+histone demethylase activity	1	FBXL19
+unmethylated CpG binding	1	FBXL19
+ubiquitin ligase-substrate adaptor activity	1	FBXL19
+chromatin remodeling	1	FBXL19
+DNA-templated transcription	1	FBXL19
+protein demethylation	1	FBXL19
+proteasome-mediated ubiquitin-dependent protein catabolic process	1	FBXL19
+SCF ubiquitin ligase complex	1	FBXL19
+microtubule binding	1	MTUS1
+ macrophage chemotaxis	1	MTUS1
+extracellular space	1	MTUS1
+mitochondrion	1	MTUS1
+microtubule organizing center	1	MTUS1
+spindle	1	MTUS1
+microtubule	1	MTUS1
+plasma membrane	1	MTUS1
+microtubule cytoskeleton	1	MTUS1
+maturation of SSU-rRNA from tricistronic rRNA transcript (SSU-rRNA, 5.8S rRNA, LSU-rRNA)	1	NOL10
+ubiquitin-protein transferase activity	1	UBE2R2
+ATP binding	1	UBE2R2
+ubiquitin conjugating enzyme activity	1	UBE2R2
+protein polyubiquitination	1	UBE2R2
+protein monoubiquitination	1	UBE2R2
+protein K48-linked ubiquitination	1	UBE2R2
+cysteine-type endopeptidase activity	1	USP37
+cysteine-type deubiquitinase activity	1	USP37
+G1/S transition of mitotic cell cycle	1	USP37
+ DNA replication	1	USP37
+protein deubiquitination	1	USP37
+protein K11-linked deubiquitination	1	USP37
+cell division	1	USP37
+protein K48-linked deubiquitination	1	USP37

@@ -1,0 +1,152 @@
+Feature	Number of Genes	Genes
+mitochondrion	12	ACAD9, MIX23, NDUFA12, UQCRQ, SLC25A6, UQCRC2, SFXN3, COX6B1, COX7A2L, HTRA2, MTCH2, UQCRC1
+protein binding	11	ACAD9, NDUFA12, SLC25A6, UQCRC2, SFXN3, FGFR1OP2, HTRA2, TRIM3, MTCH2, SLC38A9, UQCRC1
+mitochondrial inner membrane	8	ACAD9, NDUFA12, UQCRQ, SLC25A6, UQCRC2, COX6B1, COX7A2L, UQCRC1
+nucleus	4	ACAD9, SLC25A6, HTRA2, MTCH2
+cellular respiration	4	UQCRQ, UQCRC2, COX6B1, UQCRC1
+mitochondrial membrane	3	ACAD9, SFXN3, HTRA2
+aerobic respiration	3	NDUFA12, UQCRC2, UQCRC1
+cytosol	3	NDUFA12, FGFR1OP2, HTRA2
+mitochondrial electron transport, ubiquinol to cytochrome c	3	UQCRQ, UQCRC2, UQCRC1
+mitochondrial respiratory chain complex III	3	UQCRQ, UQCRC2, UQCRC1
+membrane	3	SLC25A6, HTRA2, MTCH2
+metal ion binding	3	UQCRC2, SLC38A9, UQCRC1
+mitochondrial respiratory chain complex IV	3	UQCRC2, COX6B1, COX7A2L
+proton transmembrane transport	3	COX6B1, COX7A2L, UQCRC1
+identical protein binding	3	FGFR1OP2, HTRA2, TRIM3
+mitochondrial respiratory chain complex I assembly	2	ACAD9, NDUFA12
+dendrite	2	ACAD9, TRIM3
+mitochondrial intermembrane space	2	MIX23, HTRA2
+oxidative phosphorylation	2	UQCRC2, UQCRC1
+proteolysis	2	UQCRC2, HTRA2
+cytochrome-c oxidase activity	2	COX6B1, COX7A2L
+mitochondrial electron transport, cytochrome c to oxygen	2	COX6B1, COX7A2L
+mitochondrial respirasome	2	COX7A2L, UQCRC1
+positive regulation of apoptotic process	2	HTRA2, MTCH2
+acyl-CoA dehydrogenase activity	1	ACAD9
+long-chain-acyl-CoA dehydrogenase activity	1	ACAD9
+flavin adenine dinucleotide binding	1	ACAD9
+medium-chain-acyl-CoA dehydrogenase activity	1	ACAD9
+long-chain fatty acid metabolic process	1	ACAD9
+medium-chain fatty acid metabolic process	1	ACAD9
+NADH dehydrogenase (ubiquinone) activity	1	NDUFA12
+response to oxidative stress	1	NDUFA12
+respiratory gaseous exchange by respiratory system	1	NDUFA12
+mitochondrial ATP synthesis coupled electron transport	1	NDUFA12
+proton motive force-driven mitochondrial ATP synthesis	1	NDUFA12
+mitochondrial respiratory chain complex I	1	NDUFA12
+subthalamus development	1	UQCRQ
+pons development	1	UQCRQ
+cerebellar Purkinje cell layer development	1	UQCRQ
+hippocampus development	1	UQCRQ
+thalamus development	1	UQCRQ
+hypothalamus development	1	UQCRQ
+pyramidal neuron development	1	UQCRQ
+midbrain development	1	UQCRQ
+ATP:ADP antiporter activity	1	SLC25A6
+apoptotic process	1	SLC25A6
+mitochondrial ADP transmembrane transport	1	SLC25A6
+negative regulation of mitochondrial outer membrane permeabilization involved in apoptotic signaling pathway	1	SLC25A6
+mitochondrial ATP transmembrane transport	1	SLC25A6
+TIM23 mitochondrial import inner membrane translocase complex	1	SLC25A6
+metalloendopeptidase activity	1	UQCRC2
+nucleoplasm	1	UQCRC2
+monoatomic ion transmembrane transporter activity	1	SFXN3
+serine transmembrane transporter activity	1	SFXN3
+one-carbon metabolic process	1	SFXN3
+monoatomic ion transmembrane transport	1	SFXN3
+serine import into mitochondrion	1	SFXN3
+mitochondrial transmembrane transport	1	SFXN3
+substantia nigra development	1	COX6B1
+respiratory chain complex IV	1	COX6B1
+response to wounding	1	FGFR1OP2
+wound healing	1	FGFR1OP2
+regulation of oxidative phosphorylation	1	COX7A2L
+mitochondrial respirasome assembly	1	COX7A2L
+nucleolus	1	COX7A2L
+serine-type endopeptidase activity	1	HTRA2
+peptidase activity	1	HTRA2
+serine-type peptidase activity	1	HTRA2
+unfolded protein binding	1	HTRA2
+ceramide metabolic process	1	HTRA2
+mitochondrion organization	1	HTRA2
+adult walking behavior	1	HTRA2
+intrinsic apoptotic signaling pathway in response to DNA damage	1	HTRA2
+response to herbicide	1	HTRA2
+positive regulation of mitochondrion organization	1	HTRA2
+programmed cell death	1	HTRA2
+protein autoprocessing	1	HTRA2
+pentacyclic triterpenoid metabolic process	1	HTRA2
+protein catabolic process	1	HTRA2
+forebrain development	1	HTRA2
+cellular response to oxidative stress	1	HTRA2
+cellular response to heat	1	HTRA2
+cellular response to interferon-beta	1	HTRA2
+regulation of multicellular organism growth	1	HTRA2
+positive regulation of cysteine-type endopeptidase activity involved in apoptotic process	1	HTRA2
+negative regulation of cell cycle	1	HTRA2
+neuron development	1	HTRA2
+cellular response to retinoic acid	1	HTRA2
+cellular response to growth factor stimulus	1	HTRA2
+execution phase of apoptosis	1	HTRA2
+negative regulation of neuron death	1	HTRA2
+negative regulation of oxidative stress-induced intrinsic apoptotic signaling pathway	1	HTRA2
+regulation of autophagy of mitochondrion	1	HTRA2
+positive regulation of protein targeting to mitochondrion	1	HTRA2
+negative regulation of mitophagy in response to mitochondrial depolarization	1	HTRA2
+positive regulation of extrinsic apoptotic signaling pathway in absence of ligand	1	HTRA2
+positive regulation of cysteine-type endopeptidase activity involved in apoptotic signaling pathway	1	HTRA2
+chromatin	1	HTRA2
+endoplasmic reticulum	1	HTRA2
+endoplasmic reticulum membrane	1	HTRA2
+cytoskeleton	1	HTRA2
+cytoplasmic side of plasma membrane	1	HTRA2
+CD40 receptor complex	1	HTRA2
+serine-type endopeptidase complex	1	HTRA2
+zinc ion binding	1	TRIM3
+translation repressor activity	1	TRIM3
+ubiquitin protein ligase activity	1	TRIM3
+protein polyubiquitination	1	TRIM3
+nervous system development	1	TRIM3
+protein transport	1	TRIM3
+negative regulation of translation	1	TRIM3
+positive regulation of toll-like receptor 3 signaling pathway	1	TRIM3
+proteasome-mediated ubiquitin-dependent protein catabolic process	1	TRIM3
+protein K63-linked ubiquitination	1	TRIM3
+cytoplasm	1	TRIM3
+early endosome	1	TRIM3
+Golgi apparatus	1	TRIM3
+membrane insertase activity	1	MTCH2
+regulation of mitochondrial fusion	1	MTCH2
+protein insertion into mitochondrial outer membrane	1	MTCH2
+lipid homeostasis	1	MTCH2
+protein localization to mitochondrion	1	MTCH2
+positive regulation of stem cell differentiation	1	MTCH2
+mitochondrial outer membrane	1	MTCH2
+guanyl-nucleotide exchange factor activity	1	SLC38A9
+amino acid transmembrane transporter activity	1	SLC38A9
+L-amino acid transmembrane transporter activity	1	SLC38A9
+L-asparagine transmembrane transporter activity	1	SLC38A9
+L-glutamine transmembrane transporter activity	1	SLC38A9
+L-leucine transmembrane transporter activity	1	SLC38A9
+cholesterol binding	1	SLC38A9
+sterol sensor activity	1	SLC38A9
+arginine binding	1	SLC38A9
+L-arginine transmembrane transporter activity	1	SLC38A9
+amino acid transmembrane transport	1	SLC38A9
+asparagine transport	1	SLC38A9
+glutamine transport	1	SLC38A9
+branched-chain amino acid transport	1	SLC38A9
+positive regulation of TOR signaling	1	SLC38A9
+cellular response to amino acid stimulus	1	SLC38A9
+L-arginine transmembrane transport	1	SLC38A9
+positive regulation of TORC1 signaling	1	SLC38A9
+lysosome	1	SLC38A9
+lysosomal membrane	1	SLC38A9
+late endosome	1	SLC38A9
+late endosome membrane	1	SLC38A9
+ubiquinol-cytochrome-c reductase activity	1	UQCRC1
+ubiquitin protein ligase binding	1	UQCRC1
+protein-containing complex binding	1	UQCRC1
+response to activity	1	UQCRC1
+response to alkaloid	1	UQCRC1

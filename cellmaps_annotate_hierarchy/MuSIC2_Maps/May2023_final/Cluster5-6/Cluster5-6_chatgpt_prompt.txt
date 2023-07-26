@@ -1,0 +1,40 @@
+Your response should be formatted as Markdown paragraphs
+Write a critical and concise analysis of this human protein system, describing your reasoning as you go and providing references to scientific papers.
+
+A critical goal of the analysis is to determine if this is a novel complex or if any proteins are novel members of a known complex
+
+Format with Title, Summary, and References sections.        
+Avoid overly general statements of how the proteins are involved in various cellular processes        
+Avoid repeating the goals of the analysis.
+
+What cellular components and complexes are involved in this system?
+What mechanisms and biological processes are performed by this system?
+Propose a name for the system to reflect the cellular location and function, and should be specific but brief. Do not compose an acronym. Place it as the title of your report
+Human Proteins: ERCC2, ERCC3, ERCC5, GTF2H1, GTF2H3, MNAT1.
+
+System features from GO terms: 
+protein binding: 6 proteins: ERCC2, ERCC3, ERCC5, GTF2H1, GTF2H3, MNAT1
+nucleotide-excision repair: 6 proteins: ERCC2, ERCC3, ERCC5, GTF2H1, GTF2H3, MNAT1
+nucleoplasm: 6 proteins: ERCC2, ERCC3, ERCC5, GTF2H1, GTF2H3, MNAT1
+transcription by RNA polymerase II: 5 proteins: ERCC2, ERCC3, GTF2H1, GTF2H3, MNAT1
+transcription factor TFIIH core complex: 5 proteins: ERCC2, ERCC3, GTF2H1, GTF2H3, MNAT1
+transcription factor TFIIH holo complex: 5 proteins: ERCC2, ERCC3, GTF2H1, GTF2H3, MNAT1
+nucleus: 4 proteins: ERCC2, ERCC3, ERCC5, GTF2H3
+DNA repair: 4 proteins: ERCC3, GTF2H1, GTF2H3, MNAT1
+damaged DNA binding: 3 proteins: ERCC2, ERCC3, ERCC5
+metal ion binding: 3 proteins: ERCC2, ERCC5, GTF2H3
+transcription-coupled nucleotide-excision repair: 3 proteins: ERCC2, ERCC3, ERCC5
+transcription factor TFIID complex: 3 proteins: ERCC2, ERCC3, GTF2H3
+ATP binding: 2 proteins: ERCC2, ERCC3
+ATP hydrolysis activity: 2 proteins: ERCC2, ERCC3
+apoptotic process: 2 proteins: ERCC2, ERCC3
+response to oxidative stress: 2 proteins: ERCC2, ERCC3
+UV protection: 2 proteins: ERCC2, ERCC3
+hair cell differentiation: 2 proteins: ERCC2, ERCC3
+ mitotic cell cycle phase transition: 2 proteins: ERCC2, ERCC3
+CAK-ERCC2 complex: 2 proteins: ERCC2, MNAT1
+response to UV: 2 proteins: ERCC3, ERCC5
+transcription preinitiation complex: 2 proteins: ERCC3, GTF2H3
+negative regulation of apoptotic process: 2 proteins: ERCC5, MNAT1
+ cyclin-dependent protein serine/threonine kinase activity: 2 proteins: GTF2H1, MNAT1
+ DNA-templated transcription: 2 proteins: GTF2H1, GTF2H3

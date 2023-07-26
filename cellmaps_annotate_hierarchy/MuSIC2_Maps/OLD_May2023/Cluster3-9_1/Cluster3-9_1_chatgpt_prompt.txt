@@ -1,0 +1,83 @@
+Write a critical and concise analysis of this system, describing your reasoning as you go and providing references to scientific papers. Format the page with Title, Summary, and References sections.
+What cellular components and complexes are involved in this system?
+What mechanisms and biological processes are performed by this system?
+Propose a name for the system to reflect the function and location, and should be specific but brief. Do not compose an acronym. Place it as the title of your report
+Provide complete paper references with pubmed link
+Proteins: EIF4A3, ACAT2, ARL2, C11orf68, CYRIB, DDX19B, DIS3, DNAJC11, EEF1D, FAF1, FARSB, GINS2, GINS4, ILKAP, ITGA2, KIN, NAA38, NAE1, NANS, NFYA, NHLRC2, NSUN2, NT5DC1, NUDCD2, PAPSS1, PPAT, PSME2, PTPN11, PTPN23, QPRT, RAB8A, RAE1, RECQL, TSNAX, UBA2, UBLCP1, UPP1, VENTX.
+
+A critical goal of the analysis is to determine if this is a novel complex or if any proteins are novel members of a known complex
+System features from GO terms: 
+protein binding: 32 proteins: EIF4A3, ACAT2, ARL2, C11orf68, CYRIB, DDX19B, DIS3, DNAJC11, EEF1D, FAF1, FARSB, GINS2, GINS4, ILKAP, ITGA2, KIN, NAA38, NAE1, NFYA, NHLRC2, NUDCD2, PSME2, PTPN11, PTPN23, QPRT, RAB8A, RAE1, RECQL, TSNAX, UBA2, UBLCP1, VENTX
+nucleoplasm: 23 proteins: EIF4A3, ARL2, DDX19B, DIS3, DNAJC11, EEF1D, FAF1, GINS2, GINS4, KIN, NAA38, NFYA, NSUN2, PSME2, PTPN11, PTPN23, RAE1, RECQL, TSNAX, UBA2, UBLCP1, UPP1, VENTX
+nucleus: 21 proteins: EIF4A3, ARL2, DDX19B, DIS3, EEF1D, FAF1, GINS2, GINS4, ILKAP, ITGA2, KIN, NAA38, NAE1, NFYA, NSUN2, PTPN11, PTPN23, RAE1, RECQL, TSNAX, UBLCP1
+cytoplasm: 21 proteins: EIF4A3, ACAT2, ARL2, DDX19B, EEF1D, FARSB, GINS4, KIN, NAA38, NAE1, NANS, NSUN2, NUDCD2, PSME2, PTPN11, PTPN23, QPRT, RAE1, RECQL, TSNAX, UBA2
+cytosol: 21 proteins: EIF4A3, ACAT2, ARL2, DIS3, EEF1D, FAF1, FARSB, ILKAP, NAE1, NANS, NHLRC2, NUDCD2, PAPSS1, PPAT, PSME2, PTPN11, PTPN23, QPRT, RAB8A, TSNAX, UPP1
+RNA binding: 9 proteins: EIF4A3, C11orf68, DDX19B, DIS3, FARSB, KIN, NSUN2, RAE1, TSNAX
+extracellular exosome: 9 proteins: ACAT2, CYRIB, DDX19B, NANS, NSUN2, PSME2, PTPN23, QPRT, RAB8A
+membrane: 7 proteins: EIF4A3, CYRIB, DDX19B, DIS3, FARSB, PSME2, RECQL
+metal ion binding: 7 proteins: ILKAP, ITGA2, KIN, NT5DC1, PPAT, TSNAX, UBLCP1
+ATP binding: 6 proteins: EIF4A3, DDX19B, FARSB, PAPSS1, RECQL, UBA2
+nucleolus: 5 proteins: EIF4A3, ARL2, DIS3, NSUN2, UBLCP1
+mitochondrion: 5 proteins: ACAT2, ARL2, CYRIB, DNAJC11, NSUN2
+DNA binding: 4 proteins: EEF1D, KIN, NFYA, TSNAX
+protein dephosphorylation: 4 proteins: ILKAP, PTPN11, PTPN23, UBLCP1
+ATP hydrolysis activity: 3 proteins: EIF4A3, DDX19B, RECQL
+mRNA export from nucleus: 3 proteins: EIF4A3, DDX19B, RAE1
+cilium: 3 proteins: ARL2, CYRIB, RAB8A
+protein kinase binding: 3 proteins: FAF1, PTPN11, PTPN23
+perinuclear region of cytoplasm: 3 proteins: FAF1, ITGA2, TSNAX
+DNA unwinding involved in DNA replication: 3 proteins: GINS2, GINS4, RECQL
+plasma membrane: 3 proteins: ITGA2, NAE1, RAB8A
+protein-containing complex: 3 proteins: KIN, NAE1, PTPN11
+identical protein binding: 3 proteins: PSME2, QPRT, UPP1
+RNA helicase activity: 2 proteins: EIF4A3, DDX19B
+rRNA processing: 2 proteins: EIF4A3, DIS3
+positive regulation of translation: 2 proteins: EIF4A3, ITGA2
+nuclear speck: 2 proteins: EIF4A3, DNAJC11
+neuronal cell body: 2 proteins: EIF4A3, RAB8A
+glutamatergic synapse: 2 proteins: EIF4A3, RAB8A
+GTPase activity: 2 proteins: ARL2, RAB8A
+GTP binding: 2 proteins: ARL2, RAB8A
+GDP binding: 2 proteins: ARL2, RAB8A
+protein folding: 2 proteins: ARL2, NUDCD2
+Golgi apparatus: 2 proteins: ARL2, TSNAX
+centrosome: 2 proteins: ARL2, RAB8A
+focal adhesion: 2 proteins: ARL2, ITGA2
+microtubule cytoskeleton: 2 proteins: ARL2, NUDCD2
+small GTPase binding: 2 proteins: CYRIB, RAB8A
+extracellular region: 2 proteins: CYRIB, NHLRC2
+platelet alpha granule lumen: 2 proteins: CYRIB, NHLRC2
+nuclear pore: 2 proteins: DDX19B, RAE1
+guanyl-nucleotide exchange factor activity: 2 proteins: DIS3, EEF1D
+cadherin binding: 2 proteins: EEF1D, PTPN11
+fibrillar center: 2 proteins: EEF1D, RAE1
+endoplasmic reticulum: 2 proteins: EEF1D, FAF1
+ubiquitin protein ligase binding: 2 proteins: FAF1, NAE1
+ubiquitin binding: 2 proteins: FAF1, RAE1
+nuclear envelope: 2 proteins: FAF1, RAE1
+magnesium ion binding: 2 proteins: FARSB, UBA2
+double-strand break repair via break-induced replication: 2 proteins: GINS2, GINS4
+positive regulation of DNA-directed DNA polymerase activity: 2 proteins: GINS2, GINS4
+positive regulation of DNA primase activity: 2 proteins: GINS2, GINS4
+GINS complex: 2 proteins: GINS2, GINS4
+CMG complex: 2 proteins: GINS2, GINS4
+myosin phosphatase activity: 2 proteins: ILKAP, UBLCP1
+protein-containing complex binding: 2 proteins: ITGA2, TSNAX
+integrin-mediated signaling pathway: 2 proteins: ITGA2, PTPN11
+DNA repair: 2 proteins: KIN, RECQL
+DNA damage response: 2 proteins: KIN, NAE1
+intracellular membrane-bounded organelle: 2 proteins: KIN, PTPN23
+protein heterodimerization activity: 2 proteins: NAE1, UBA2
+RNA polymerase II cis-regulatory region sequence-specific DNA binding: 2 proteins: NFYA, VENTX
+DNA-binding transcription factor activity, RNA polymerase II-specific: 2 proteins: NFYA, VENTX
+regulation of transcription by RNA polymerase II: 2 proteins: NFYA, VENTX
+positive regulation of transcription by RNA polymerase II: 2 proteins: NFYA, VENTX
+chromatin: 2 proteins: NFYA, VENTX
+cell division: 2 proteins: NSUN2, RAE1
+protein tyrosine phosphatase activity: 2 proteins: PTPN11, PTPN23
+protein tyrosine kinase binding: 2 proteins: PTPN11, RAB8A
+axonogenesis: 2 proteins: PTPN11, RAB8A
+cilium assembly: 2 proteins: PTPN23, RAB8A
+endosome: 2 proteins: PTPN23, RAB8A
+ciliary basal body: 2 proteins: PTPN23, RAB8A
+sequence-specific DNA binding: 2 proteins: TSNAX, VENTX

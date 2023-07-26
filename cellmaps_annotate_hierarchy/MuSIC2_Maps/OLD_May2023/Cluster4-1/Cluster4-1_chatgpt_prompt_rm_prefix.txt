@@ -1,0 +1,416 @@
+Write a critical and concise analysis of this system, describing your reasoning as you go and providing references to scientific papers.         
+Format with Title, Summary, and References sections.        
+Avoid overly general statements of how the proteins are involved in various cellular processes
+        
+Avoid recapitulating the goals of the analysis. 
+What cellular components and complexes are involved in this system?
+What mechanisms and biological processes are performed by this system?
+Propose a name for the system to reflect the function and location, and should be specific but brief. Do not compose an acronym. Place it as the title of your report
+Provide complete paper references with pubmed link
+A critical goal of the analysis is to determine if this is a novel complex or if any proteins are novel members of a known complex
+System features from GO terms: 
+mitochondrion: 201 proteins: IREB2, ACADM, CIAPIN1, ECH1, GPX1, GRPEL1, HSDL2, ME2, PNPT1, PUS1, SLC25A14, TRMT10C, PDK2, TIMM50, DHX36, MRM1, MTPAP, POLRMT, TFAM, ACAD9, NDUFB9, NDUFS4, TIMMDC1, LYRM2, LARS2, DNA2, MTG1, GCDH, L2HGDH, NIPSNAP2, CCM2, PDPR, ETFB, GTPBP8, MTFR1, MRPS23, HDHD5, LACTB, ARMCX2, NARS2, AMMECR1, COX6C, DDAH2, MTHFD1L, BCKDK, DHRS2, PITRM1, POLDIP2, MCL1, LRPPRC, PYCR2, SLC25A25, MTERF4, PCK2, COA7, HK2, MCCC2, ALDH1L2, POLG2, XPNPEP3, CYCS, GRPEL2, OAT, C1QBP, LIAS, NME4, TIMM9, UQCC2, TMLHE, GLRX5, MRPS18B, NOA1, TTC19, FAHD1, ACAA2, OGDH, FASTKD2, SELENOO, DARS2, PDHX, TIMM10, MGME1, UQCRFS1, COX5B, DBT, MIPEP, NDUFAB1, ALDH18A1, MRPS25, MRPS36, SARS2, COX4I1, AGK, PPM1K, MIX23, NDUFA12, UQCRQ, SLC25A6, UQCRC2, SFXN3, COX6B1, COX7A2L, HTRA2, MTCH2, UQCRC1, HINT2, TOMM22, TOMM20, SAMM50, CARD19, TOMM5, CHCHD2, NFKB1, RSAD1, CIBAR1, FOXRED1, LONP1, MTIF2, PRELID1, DIABLO, PMPCA, MTERF3, MRPL53, MRPL37, MRPL58, MRPL28, BCAT2, MRPL14, MRPL23, MRPL42, MALSU1, MRPL48, YARS2, HSPD1, PMPCB, MRPL47, MRPL12, MRPL51, GADD45GIP1, MRPL10, MTFR1L, MRPL40, MRPL9, MRPL46, MRPL19, GTPBP3, COQ3, MRPL41, MRPL50, MRPL44, MRPL22, PARP9, MRPL57, NGRN, MRPS11, DAP3, MRPS22, MRPS9, TRMT61B, MRPL15, MRPL39, MRPL52, MTHFD2, RHOT2, DNLZ, NDUFA13, NDUFA7, NDUFA8, NDUFA9, NDUFAF4, NDUFB1, NDUFB11, NDUFB4, NDUFB5, NDUFB6, NDUFB8, NDUFC2, NDUFS1, NDUFS2, NDUFS8, NDUFV1, NDUFV2, NDUFV3, TMEM126B, TOMM40, AIFM1, GFER, PDHA1, ACAT1, DHTKD1, DLD, ETHE1, GCSH, MRPS10, MRPS14, MRPS15, MRPS2, MRPS26, MRPS27, MRPS34, MRPS5
+protein binding: 195 proteins: IREB2, CIAPIN1, ECH1, GRPEL1, HNRNPLL, PNPT1, TRMT10C, UBE2H, PDK2, TIMM50, DHX36, MRM1, MTPAP, PLEKHO1, POLRMT, TFAM, ZKSCAN1, ACAD9, NDUFB9, NDUFS4, TIMMDC1, CNNM3, LYRM2, ELAVL2, ZNHIT3, WSB1, DCTD, P4HA1, S100A10, DNA2, MTG1, HSPBAP1, KLHL29, USP54, NIPSNAP2, DTNB, FBXL12, JADE1, RNF138, CCM2, TMCO6, ZNF223, ETFB, CNKSR3, GTPBP8, MTFR1, MRPS23, ADNP2, RTKN, PPP3CB, NRDE2, GNG12, AMMECR1, COX6C, PDCD2L, DDAH2, BCKDK, RICTOR, DHRS2, POLDIP2, MCL1, LRPPRC, PYCR2, MTERF4, PCK2, DCAF5, COA7, HK2, MCCC2, ALDH1L2, GRK6, POLG2, XPNPEP3, LRRC15, CYCS, OAT, C1QBP, NME4, TIMM9, UQCC2, GLRX5, FBXW5, MRPS18B, NOA1, TTC19, ACAA2, OGDH, FASTKD2, DARS2, PDHX, TIMM10, MGME1, UQCRFS1, COX5B, NDUFAB1, MMAB, S100A4, RNF151, ALDH18A1, SARS2, COX4I1, AGK, PPM1K, MOCOS, NDUFA12, SLC25A6, UQCRC2, SFXN3, FGFR1OP2, HTRA2, TRIM3, MTCH2, SLC38A9, UQCRC1, TOMM22, TOMM20, SAMM50, FAM136A, CHCHD2, BIRC3, ANKRD52, EIF4E2, NFKB1, SPSB3, CIBAR1, PLEKHJ1, LONP1, PRELID1, CEP85, DIABLO, RNF115, TRAF6, MYH10, PMPCA, MTERF3, MRPL53, MRPL28, MRPL23, MAPK11, MALSU1, MRPL48, YARS2, HSPD1, MRPL12, MRPL51, GADD45GIP1, MRPL10, MTFR1L, MRPL40, MRPL9, MRPL19, GTPBP3, COQ3, MRPL41, MRPL44, PARP9, MRPL57, NGRN, MRPS11, DAP3, MRPS9, TRMT61B, MRPL15, MTHFD2, RHOT2, FAM185A, NDUFA13, NDUFA7, NDUFA8, NDUFA9, NDUFAF4, NDUFB11, NDUFB5, NDUFB6, NDUFC2, NDUFS1, NDUFS2, NDUFS8, NDUFV1, NDUFV2, NDUFV3, TMEM126B, TOMM40, AIFM1, GFER, PDHA1, STK38, DHTKD1, DLD, ETHE1, GCSH, LRP2, MRPS14, MRPS27, SMG5
+mitochondrial inner membrane: 96 proteins: SLC25A14, TIMM50, ACAD9, NDUFB9, NDUFS4, TIMMDC1, MTG1, L2HGDH, MRPS23, COX6C, SLC25A25, CYCS, NME4, TIMM9, UQCC2, MRPS18B, TTC19, TIMM10, UQCRFS1, COX5B, NDUFAB1, ALDH18A1, MRPS25, MRPS36, COX4I1, AGK, NDUFA12, UQCRQ, SLC25A6, UQCRC2, COX6B1, COX7A2L, UQCRC1, CIBAR1, FOXRED1, PMPCA, MRPL53, MRPL37, MRPL58, MRPL28, MRPL14, MRPL23, MRPL42, MRPL48, HSPD1, PMPCB, MRPL47, MRPL12, MRPL51, GADD45GIP1, MRPL10, MRPL40, MRPL9, MRPL46, MRPL19, COQ3, MRPL41, MRPL50, MRPL44, MRPL22, MRPL57, MRPS11, DAP3, MRPS22, MRPS7, MRPS9, MRPL15, MRPL39, MRPL52, ND4, NDUFA13, NDUFA7, NDUFA8, NDUFAF4, NDUFB1, NDUFB11, NDUFB4, NDUFB5, NDUFB6, NDUFB8, NDUFC2, NDUFV1, NDUFV2, NDUFV3, TMEM126B, TOMM40, AIFM1, MRPS10, MRPS14, MRPS15, MRPS2, MRPS21, MRPS26, MRPS27, MRPS34, MRPS5
+cytosol: 70 proteins: RO60, IREB2, ECH1, GPX1, PNPT1, UBE2H, FAM120A, PDK2, DHX36, TFAM, SCLT1, WSB1, DCTD, GART, FBXL12, ATP6V1C2, MTFR1, RTKN, PPP3CB, LACTB, NARS2, DDAH2, MTHFD1L, RICTOR, MCL1, MTERF4, PCK2, HK2, MCCC2, TTLL4, XPNPEP3, CYCS, C1QBP, FBXW5, FAHD1, DBT, S100A4, COX4I1, AGK, MOCOS, NDUFA12, FGFR1OP2, HTRA2, CARD19, BIRC3, EIF4E2, NFKB1, SPSB3, PLEKHJ1, LONP1, CEP85, DIABLO, RNF115, TRAF6, MYH10, MTERF3, MRPL28, MAPK11, MALSU1, YARS2, HSPD1, MRPL50, PARP9, NDUFAF4, NDUFV1, TOMM40, AIFM1, GFER, STK38, SMG5
+mitochondrial matrix: 69 proteins: ACADM, GPX1, GRPEL1, ME2, PNPT1, PUS1, TRMT10C, PDK2, MRM1, POLRMT, TFAM, LARS2, MTG1, GCDH, PDPR, ETFB, NARS2, MTHFD1L, BCKDK, DHRS2, PITRM1, POLDIP2, PYCR2, MTERF4, PCK2, MCCC2, ALDH1L2, GPT2, POLG2, OAT, C1QBP, LIAS, NME4, UQCC2, TMLHE, GLRX5, FAHD1, ACAA2, OGDH, FASTKD2, DARS2, PDHX, DBT, MIPEP, NDUFAB1, MMAB, SARS2, PPM1K, LONP1, MRPL58, BCAT2, MALSU1, YARS2, HSPD1, GADD45GIP1, COQ3, TRMT61B, MTHFD2, NDUFA9, NDUFB8, NDUFS1, NDUFS2, NDUFS8, PDHA1, ACAT1, DHTKD1, DLD, ETHE1, GCSH
+cytoplasm: 57 proteins: IREB2, ACADM, CIAPIN1, GPX1, PNPT1, PUS1, DHX36, PLEKHO1, ZNHIT3, DCTD, S100A10, DNA2, HSPBAP1, DTNB, JADE1, CCM2, PDPR, CNKSR3, PPP3CB, PDCD2L, DHRS2, MCL1, RCAN2, DCAF5, GRK6, POLG2, XPNPEP3, OAT, C1QBP, FBXW5, DBT, RNF151, TRIM3, HINT2, FAM136A, BIRC3, EIF4E2, NFKB1, RSAD1, CIBAR1, FOXRED1, MTIF2, RNF115, TRAF6, MYH10, MAPK11, HSPD1, GTPBP3, PARP9, NDUFA13, NDUFC2, AIFM1, STK38, ETHE1, GCSH, MRPS27, SMG5
+nucleoplasm: 56 proteins: RO60, CIAPIN1, GRPEL1, PUS1, TRMT10C, PDK2, TIMM50, DHX36, MTPAP, TIMMDC1, DNA2, JADE1, PPP3CB, NRDE2, NARS2, AMMECR1, DHRS2, MCL1, LRPPRC, WDR70, DCAF5, COA7, ALDH1L2, OAT, MRPS18B, FAHD1, DARS2, NDUFAB1, S100A4, COX4I1, UQCRC2, BIRC3, NFKB1, LONP1, MTIF2, PRELID1, MRPL58, BCAT2, MAPK11, GADD45GIP1, MRPL10, MRPL46, MRPL44, PARP9, NGRN, DAP3, MRPL52, DNLZ, NDUFA13, NDUFB4, NDUFB5, NDUFB6, NDUFS2, ETHE1, MRPS15, MRPS26
+nucleus: 55 proteins: ACADM, GPX1, HNRNPLL, PNPT1, PUS1, TRMT10C, UBE2H, FAM120A, DHX36, PLEKHO1, TFAM, ZKSCAN1, ACAD9, ZNHIT3, DNA2, DTNB, JADE1, RNF138, ZNF223, ADNP2, NRDE2, AMMECR1, DHRS2, POLDIP2, MCL1, LRPPRC, WDR70, RCAN2, CYCS, C1QBP, GLRX5, OGDH, S100A4, RNF151, SLC25A6, HTRA2, MTCH2, CARD19, CHCHD2, BIRC3, NFKB1, CIBAR1, TRAF6, MYH10, MAPK11, MRPL40, MRPL19, PARP9, NGRN, NDUFA9, AIFM1, PDHA1, STK38, DLD, SMG5
+RNA binding: 54 proteins: RO60, IREB2, HNRNPLL, PNPT1, PUS1, TRMT10C, FAM120A, TIMM50, DHX36, MRM1, MTPAP, POLRMT, TFAM, ZCCHC24, ELAVL2, DNA2, ZNFX1, MRPS23, LRPPRC, NOA1, ACAA2, FASTKD2, S100A4, ALDH18A1, SARS2, EIF4E2, MTIF2, MRPL37, MRPL28, MRPL14, MRPL23, MRPL42, YARS2, HSPD1, MRPL12, MRPL10, MRPL40, MRPL9, MRPL41, MRPL44, MRPL22, NGRN, MRPS11, DAP3, MRPS7, MRPS9, MRPL15, MRPL39, NDUFV3, MRPS14, MRPS15, MRPS21, MRPS26, MRPS5
+mitochondrial translation: 46 proteins: LARS2, MTG1, MRPS23, MRPS18B, FASTKD2, MRPS25, MRPL53, MRPL37, MRPL58, MRPL28, MRPL14, MRPL23, MRPL42, MRPL48, MRPL47, MRPL12, MRPL51, GADD45GIP1, MRPL10, MRPL40, MRPL9, MRPL46, MRPL19, MRPL41, MRPL50, MRPL44, MRPL22, MRPL57, MRPS11, DAP3, MRPS22, MRPS7, MRPS9, MRPL15, MRPL39, MRPL52, NDUFA7, MRPS10, MRPS14, MRPS15, MRPS2, MRPS21, MRPS26, MRPS27, MRPS34, MRPS5
+metal ion binding: 37 proteins: RO60, IREB2, ME2, ZKSCAN1, ZNHIT3, DNA2, GART, JADE1, RNF138, ZNF223, GTPBP8, ADNP2, TTLL4, CYCS, LIAS, NME4, GLRX5, FAHD1, OGDH, SELENOO, UQCRFS1, COX5B, MIPEP, PPM1K, UQCRC2, SLC38A9, UQCRC1, BIRC3, RSAD1, RNF115, PMPCA, PMPCB, NDUFS1, NDUFS2, NDUFS8, NDUFV1, NDUFV2
+structural constituent of ribosome: 33 proteins: MRPS23, MRPS18B, MRPS25, MRPL37, MRPL28, MRPL14, MRPL23, MRPL42, MRPL47, MRPL12, MRPL51, MRPL10, MRPL9, MRPL46, MRPL19, MRPL41, MRPL44, MRPL22, MRPL57, MRPS11, DAP3, MRPS22, MRPS7, MRPS9, MRPL15, MRPL52, NDUFA7, MRPS14, MRPS15, MRPS2, MRPS21, MRPS34, MRPS5
+ATP binding: 30 proteins: UBE2H, PDK2, DHX36, MTPAP, LARS2, DNA2, GART, NARS2, MTHFD1L, BCKDK, HK2, MCCC2, TTLL4, GRK6, NME4, SELENOO, DARS2, MMAB, ALDH18A1, SARS2, AGK, KIAA0232, LONP1, MYH10, MAPK11, CNNM2, YARS2, HSPD1, NDUFA13, STK38
+aerobic respiration: 27 proteins: SLC25A14, NDUFB9, NDUFS4, MTFR1, NDUFAB1, NDUFA12, UQCRC2, UQCRC1, MTFR1L, ND4, NDUFA13, NDUFA7, NDUFA8, NDUFA9, NDUFB1, NDUFB11, NDUFB4, NDUFB5, NDUFB6, NDUFB8, NDUFC2, NDUFS1, NDUFS2, NDUFS8, NDUFV1, NDUFV2, NDUFV3
+membrane: 26 proteins: ECH1, HNRNPLL, HSDL2, FAM120A, CNNM3, P4HA1, L2HGDH, TMCO6, PDCD2L, MTHFD1L, MCL1, LRPPRC, HK2, GRK6, C1QBP, COX4I1, SLC25A6, HTRA2, MTCH2, TOMM22, SAMM50, LONP1, HSPD1, PARP9, RHOT2, TOMM40
+mitochondrial large ribosomal subunit: 26 proteins: MTERF4, MRPL53, MRPL37, MRPL58, MRPL28, MRPL14, MRPL23, MRPL42, MRPL48, MRPL47, MRPL12, MRPL51, GADD45GIP1, MRPL10, MRPL40, MRPL9, MRPL46, MRPL19, MRPL41, MRPL50, MRPL44, MRPL22, MRPL57, MRPL15, MRPL39, MRPL52
+mitochondrial respiratory chain complex I assembly: 23 proteins: ACAD9, NDUFB9, NDUFS4, LYRM2, NDUFAB1, NDUFA12, FOXRED1, ND4, NDUFA13, NDUFA8, NDUFA9, NDUFAF4, NDUFB1, NDUFB11, NDUFB4, NDUFB5, NDUFB6, NDUFB8, NDUFC2, NDUFS1, NDUFS2, NDUFS8, TMEM126B
+mitochondrial respiratory chain complex I: 23 proteins: NDUFB9, NDUFS4, NDUFAB1, NDUFA12, FOXRED1, ND4, NDUFA13, NDUFA7, NDUFA8, NDUFA9, NDUFB1, NDUFB11, NDUFB4, NDUFB5, NDUFB6, NDUFB8, NDUFC2, NDUFS1, NDUFS2, NDUFS8, NDUFV1, NDUFV2, NDUFV3
+plasma membrane: 22 proteins: SLC25A14, FAM120A, CNNM3, DTNB, JADE1, MTFR1, PPP3CB, GNG12, POLDIP2, HK2, GRK6, LRRC15, C1QBP, TM2D3, TRAF6, MRPL58, MRPL42, CNNM2, HSPD1, MRPL44, NDUFC2, LRP2
+proton motive force-driven mitochondrial ATP synthesis: 22 proteins: NDUFB9, NDUFS4, NDUFAB1, NDUFA12, ND4, NDUFA13, NDUFA7, NDUFA8, NDUFA9, NDUFB1, NDUFB11, NDUFB4, NDUFB5, NDUFB6, NDUFB8, NDUFC2, NDUFS1, NDUFS2, NDUFS8, NDUFV1, NDUFV2, NDUFV3
+identical protein binding: 21 proteins: ACADM, GRPEL1, PNPT1, TRMT10C, MTPAP, DCTD, P4HA1, ATP6V1C2, LACTB, POLG2, OAT, S100A4, ALDH18A1, FGFR1OP2, HTRA2, TRIM3, NFKB1, LONP1, TRAF6, ACAT1, ETHE1
+mitochondrial electron transport, NADH to ubiquinone: 20 proteins: NDUFB9, NDUFS4, NDUFAB1, ND4, NDUFA7, NDUFA8, NDUFA9, NDUFB1, NDUFB4, NDUFB5, NDUFB6, NDUFB8, NDUFC2, NDUFS1, NDUFS2, NDUFS8, NDUFV1, NDUFV2, NDUFV3, DLD
+NADH dehydrogenase (ubiquinone) activity: 19 proteins: NDUFB9, NDUFS4, NDUFA12, ND4, NDUFA7, NDUFA8, NDUFA9, NDUFB1, NDUFB4, NDUFB5, NDUFB6, NDUFB8, NDUFC2, NDUFS1, NDUFS2, NDUFS8, NDUFV1, NDUFV2, NDUFV3
+mitochondrial intermembrane space: 18 proteins: CIAPIN1, PNPT1, COA7, CYCS, NME4, TIMM9, UQCC2, TIMM10, AGK, MIX23, HTRA2, CHCHD2, PRELID1, DIABLO, NDUFA8, NDUFS1, AIFM1, GFER
+mitochondrial small ribosomal subunit: 18 proteins: MRPS23, MRPS18B, MRPS25, MRPL42, MRPS11, DAP3, MRPS22, MRPS7, MRPS9, MRPS10, MRPS14, MRPS15, MRPS2, MRPS21, MRPS26, MRPS27, MRPS34, MRPS5
+translation: 18 proteins: MRPS18B, MRPL37, MRPL28, MRPL23, MRPL42, YARS2, MRPL12, MRPL51, MRPL10, MRPL9, MRPL41, MRPS11, MRPS7, MRPL52, MRPS14, MRPS15, MRPS21, MRPS5
+apoptotic process: 15 proteins: CIAPIN1, JADE1, RTKN, PDCD2L, C1QBP, NOA1, FASTKD2, SLC25A6, HINT2, BIRC3, NFKB1, PRELID1, DIABLO, MRPL41, AIFM1
+extracellular exosome: 15 proteins: ECH1, DHX36, S100A10, GART, ATP6V1C2, GNG12, DDAH2, ALDH1L2, LRRC15, S100A4, SAMM50, MYH10, HSPD1, ACAT1, LRP2
+mitochondrial outer membrane: 15 proteins: NIPSNAP2, ZNFX1, ARMCX2, MCL1, HK2, AGK, MTCH2, HINT2, TOMM22, TOMM20, SAMM50, TOMM5, MTERF3, RHOT2, TOMM40
+mitochondrial membrane: 13 proteins: ACADM, ACAD9, OGDH, NDUFAB1, AGK, SFXN3, HTRA2, CARD19, NGRN, NDUFA13, NDUFA9, NDUFAF4, NDUFB6
+negative regulation of apoptotic process: 12 proteins: CIAPIN1, DDAH2, RICTOR, DHRS2, MCL1, BIRC3, NFKB1, PRELID1, HSPD1, NDUFAF4, GFER, LRP2
+protein homodimerization activity: 12 proteins: GRPEL1, PDK2, MTPAP, S100A10, MTHFD1L, MCL1, XPNPEP3, GRPEL2, TIMM9, DARS2, TIMM10, YARS2
+zinc ion binding: 12 proteins: CA10, ZCCHC24, DCTD, DTNB, ZNFX1, PITRM1, TIMM9, TIMM10, RNF151, TRIM3, TRAF6, DNLZ
+mitochondrial ribosome: 12 proteins: MTG1, MRPL37, MRPL28, MRPL48, MRPL51, MRPL40, MRPL9, MRPL57, MRPS22, MRPL39, NDUFA7, MRPS14
+mitochondrial nucleoid: 11 proteins: TRMT10C, POLRMT, TFAM, DNA2, POLDIP2, LRPPRC, POLG2, UQCC2, FASTKD2, DBT, LONP1
+cellular respiration: 11 proteins: NDUFS4, COX6C, SLC25A25, CYCS, COX5B, COX4I1, UQCRQ, UQCRC2, COX6B1, UQCRC1, NDUFS1
+ apoptotic process: 11 proteins: RTKN, MCL1, C1QBP, HTRA2, MTCH2, TOMM22, BIRC3, DIABLO, TRAF6, HSPD1, AIFM1
+nucleolus: 10 proteins: CIAPIN1, NRDE2, C1QBP, COX7A2L, CEP85, MRPL40, MRPS9, PDHA1, MRPS15, MRPS27
+ DNA-templated transcription: 10 proteins: TFAM, ELAVL2, ZNHIT3, JADE1, ZNF223, PPP3CB, MTERF4, NFKB1, MRPL12, PARP9
+4 iron, 4 sulfur cluster binding: 9 proteins: IREB2, CIAPIN1, DNA2, LIAS, RSAD1, NDUFS1, NDUFS2, NDUFS8, NDUFV1
+biological_process: 9 proteins: HSDL2, WSB1, ZNF223, AMMECR1, RSAD1, MRPL47, MRPL46, MRPS22, MRPS10
+ transcription by RNA polymerase II: 9 proteins: DHX36, ZKSCAN1, S100A10, JADE1, ADNP2, PPP3CB, CHCHD2, NFKB1, TRAF6
+protein-containing complex: 9 proteins: POLRMT, TFAM, CCM2, PSMG4, BIRC3, PRELID1, TRAF6, HSPD1, PARP9
+GTP binding: 9 proteins: MTG1, GTPBP8, RTKN, PCK2, NOA1, MTIF2, GTPBP3, DAP3, RHOT2
+protein-folding chaperone binding: 8 proteins: GRPEL1, GRPEL2, TIMM9, OGDH, TIMM10, HSPD1, DNLZ, LRP2
+molecular_function: 8 proteins: HSDL2, CA10, ADNP2, NRDE2, MRPL47, MRPL46, TMEM126B, MRPS10
+ mitochondrial translation: 8 proteins: TRMT10C, MTG1, LRPPRC, C1QBP, UQCC2, FASTKD2, NGRN, MRPS27
+ubiquitin protein ligase activity: 8 proteins: WSB1, RNF138, RNF151, TRIM3, BIRC3, RNF115, TRAF6, UBE3B
+extracellular space: 8 proteins: S100A10, LRRC15, C1QBP, S100A4, PMPCA, HSPD1, MTHFD2, GFER
+protein targeting to mitochondrion: 8 proteins: PITRM1, MTERF4, TIMM9, TIMM10, TOMM22, TOMM20, TOMM5, TOMM40
+ubiquitin protein ligase binding: 8 proteins: LRPPRC, DBT, UQCRC1, EIF4E2, TRAF6, HSPD1, NDUFS2, SMG5
+electron transfer activity: 7 proteins: CIAPIN1, ME2, ETFB, CYCS, NDUFS1, NDUFS2, NDUFV2
+cellular response to oxidative stress: 7 proteins: GPX1, PNPT1, DHRS2, PYCR2, HTRA2, CHCHD2, LONP1
+calcium ion binding: 7 proteins: FKBP9, PPP3CB, SLC25A25, NDUFAB1, S100A4, RHOT2, LRP2
+mitochondrion organization: 7 proteins: NIPSNAP2, MTFR1, NOA1, HTRA2, CHCHD2, LONP1, RHOT2
+protein ubiquitination: 7 proteins: FBXL12, RNF138, DCAF5, FBXW5, RNF151, SPSB3, RNF115
+proton transmembrane transport: 7 proteins: ATP6V1C2, UQCRFS1, COX5B, COX4I1, COX6B1, COX7A2L, UQCRC1
+mitochondrial respiratory chain complex IV: 7 proteins: COX6C, UQCRFS1, COX5B, COX4I1, UQCRC2, COX6B1, COX7A2L
+ribonucleoprotein complex: 6 proteins: RO60, HNRNPLL, ELAVL2, LRPPRC, MRPL10, MRPL41
+protein import into mitochondrial matrix: 6 proteins: GRPEL1, TIMM50, GRPEL2, TOMM20, DNLZ, TOMM40
+intracellular membrane-bounded organelle: 6 proteins: ME2, MTPAP, P4HA1, HK2, AGK, CNNM2
+tRNA binding: 6 proteins: PUS1, TRMT10C, DARS2, SARS2, YARS2, MRPS27
+cellular_component: 6 proteins: CA10, ADNP2, RTKN, RCAN2, MOCOS, RSAD1
+protein phosphorylation: 6 proteins: PDK2, PPP3CB, BCKDK, GRK6, MAPK11, STK38
+dendrite: 6 proteins: DHX36, ACAD9, DTNB, GLRX5, TRIM3, LRP2
+endoplasmic reticulum: 6 proteins: FKBP9, P4HA1, HTRA2, NDUFB8, ACAT1, LRP2
+proteolysis: 6 proteins: LACTB, PITRM1, XPNPEP3, UQCRC2, HTRA2, DLD
+mitochondrial electron transport, cytochrome c to oxygen: 6 proteins: COX6C, CYCS, COX5B, COX4I1, COX6B1, COX7A2L
+protein insertion into mitochondrial outer membrane: 6 proteins: MTCH2, TOMM22, TOMM20, SAMM50, TOMM5, TOMM40
+NADH dehydrogenase activity: 6 proteins: ND4, NDUFA9, NDUFS2, NDUFS8, NDUFV2, AIFM1
+ gene expression: 5 proteins: RO60, DHX36, ADNP2, RICTOR, MAPK11
+nuclear body: 5 proteins: RO60, UQCC2, YARS2, MRPL44, NGRN
+tricarboxylic acid cycle: 5 proteins: IREB2, OGDH, MRPS36, PDHA1, DHTKD1
+flavin adenine dinucleotide binding: 5 proteins: ACADM, ACAD9, GCDH, GFER, DLD
+fatty acid beta-oxidation: 5 proteins: ACADM, ECH1, ALDH1L2, ACAA2, ACAT1
+2 iron, 2 sulfur cluster binding: 5 proteins: CIAPIN1, GLRX5, UQCRFS1, NDUFS1, NDUFV2
+sensory perception of sound: 5 proteins: GPX1, NDUFB9, TIMM9, TIMM10, LRP2
+unfolded protein binding: 5 proteins: GRPEL1, GRPEL2, HTRA2, TOMM20, HSPD1
+protein folding: 5 proteins: GRPEL1, FKBP9, GRPEL2, HSPD1, DNLZ
+TIM23 mitochondrial import inner membrane translocase complex: 5 proteins: GRPEL1, TIMM50, GRPEL2, TIMM10, SLC25A6
+protein polyubiquitination: 5 proteins: UBE2H, WSB1, TRIM3, TRAF6, UBE3B
+nuclear speck: 5 proteins: TIMM50, DHX36, JADE1, NRDE2, NDUFB1
+single-stranded DNA binding: 5 proteins: DHX36, RNF138, LRPPRC, LONP1, HSPD1
+innate immune response: 5 proteins: DHX36, ZNFX1, C1QBP, NFKB1, PARP9
+mitochondrial transcription: 5 proteins: POLRMT, TFAM, MTERF4, MTERF3, MRPL12
+centrosome: 5 proteins: SCLT1, JADE1, HK2, TTC19, CEP85
+DNA binding: 5 proteins: DNA2, ZNF223, ADNP2, POLDIP2, AIFM1
+signal transduction: 5 proteins: RTKN, PPP3CB, GNG12, RASSF8, GFER
+enzyme binding: 5 proteins: PPP3CB, WDR70, HSPD1, PARP9, ACAT1
+protein-containing complex binding: 5 proteins: PSMG4, UQCRC1, BIRC3, NDUFA8, NDUFA9
+metalloendopeptidase activity: 5 proteins: PITRM1, MIPEP, UQCRC2, PMPCA, PMPCB
+rRNA binding: 5 proteins: MTERF4, FASTKD2, NGRN, MRPS7, MRPS27
+mitochondrial ribosome assembly: 5 proteins: MTERF4, NOA1, MTERF3, NGRN, MRPS2
+mitochondrial electron transport, ubiquinol to cytochrome c: 5 proteins: CYCS, UQCRFS1, UQCRQ, UQCRC2, UQCRC1
+response to oxidative stress: 5 proteins: LIAS, NDUFA12, NDUFB4, NDUFS2, NDUFS8
+mitochondrial ATP synthesis coupled electron transport: 5 proteins: NDUFA12, NDUFB6, NDUFS2, NDUFV1, NDUFV3
+iron ion binding: 4 proteins: CIAPIN1, P4HA1, TMLHE, ETHE1
+ protein kinase B signaling: 4 proteins: GPX1, RICTOR, C1QBP, LRP2
+mRNA binding: 4 proteins: HNRNPLL, C1QBP, MRPL12, MRPS7
+mRNA processing: 4 proteins: HNRNPLL, PUS1, NRDE2, C1QBP
+ubiquitin-protein transferase activity: 4 proteins: UBE2H, BIRC3, RNF115, TRAF6
+proteasome-mediated ubiquitin-dependent protein catabolic process: 4 proteins: UBE2H, FBXW5, TRIM3, SPSB3
+mitochondrial pyruvate dehydrogenase complex: 4 proteins: PDK2, PDHX, PDHA1, DLD
+magnesium ion binding: 4 proteins: DHX36, MTPAP, MTHFD2, STK38
+transcription cis-regulatory region binding: 4 proteins: DHX36, TFAM, NFKB1, MTERF3
+ATP hydrolysis activity: 4 proteins: DHX36, DNA2, LONP1, HSPD1
+negative regulation of translation: 4 proteins: DHX36, TRIM3, EIF4E2, MALSU1
+ I-kappaB kinase/NF-kappaB signaling: 4 proteins: DHX36, S100A4, BIRC3, TRAF6
+defense response to virus: 4 proteins: DHX36, ZNFX1, PARP9, NDUFAF4
+sequence-specific DNA binding: 4 proteins: POLRMT, TFAM, CHCHD2, LONP1
+extracellular region: 4 proteins: S100A10, S100A4, NFKB1, NGRN
+GTPase activity: 4 proteins: MTG1, MTIF2, GTPBP3, RHOT2
+2-oxoglutarate metabolic process: 4 proteins: L2HGDH, GPT2, OGDH, MRPS36
+cellular response to leukemia inhibitory factor: 4 proteins: RNF138, HK2, BCAT2, MRPL15
+in utero embryonic development: 4 proteins: CCM2, POLG2, TRAF6, ND4
+generation of precursor metabolites and energy: 4 proteins: COX6C, OGDH, COX4I1, DHTKD1
+neural tube closure: 4 proteins: MTHFD1L, LIAS, TRAF6, LRP2
+branched-chain amino acid catabolic process: 4 proteins: BCKDK, MCCC2, DBT, DLD
+phosphorylation: 4 proteins: BCKDK, RICTOR, NME4, ALDH18A1
+Golgi apparatus: 4 proteins: RICTOR, TRIM3, CEP85, LRP2
+protein transmembrane transporter activity: 4 proteins: MCL1, TOMM22, TOMM20, TOMM40
+perinuclear region of cytoplasm: 4 proteins: LRPPRC, S100A4, TRAF6, AIFM1
+negative regulation of transcription by RNA polymerase II: 4 proteins: C1QBP, NFKB1, TRAF6, PARP9
+protein insertion into mitochondrial inner membrane: 4 proteins: TIMM9, TIMM10, AGK, NDUFA13
+mitochondrial respiratory chain complex III: 4 proteins: UQCRFS1, UQCRQ, UQCRC2, UQCRC1
+cytochrome-c oxidase activity: 4 proteins: COX5B, COX4I1, COX6B1, COX7A2L
+mitochondrial outer membrane translocase complex: 4 proteins: TOMM22, TOMM20, TOMM5, TOMM40
+cilium assembly: 3 proteins: RO60, SCLT1, CIBAR1
+liver development: 3 proteins: ACADM, GFER, ACAT1
+fatty acid beta-oxidation using acyl-CoA dehydrogenase: 3 proteins: ACADM, GCDH, ETFB
+response to starvation: 3 proteins: ACADM, PCK2, ACAT1
+axon: 3 proteins: ACADM, DHX36, LRP2
+iron-sulfur cluster assembly: 3 proteins: CIAPIN1, GLRX5, NDUFAB1
+electron transport chain: 3 proteins: CIAPIN1, ME2, DHRS2
+response to hormone: 3 proteins: GPX1, LONP1, ACAT1
+neuron apoptotic process: 3 proteins: GPX1, DIABLO, AIFM1
+intracellular protein transport: 3 proteins: GRPEL1, TIMM50, GRPEL2
+NAD binding: 3 proteins: ME2, NDUFS2, NDUFV1
+cellular response to interferon-beta: 3 proteins: PNPT1, HTRA2, NDUFA13
+ cellular respiration: 3 proteins: PNPT1, NOA1, PRELID1
+ cell cycle: 3 proteins: PNPT1, JADE1, BIRC3
+mitochondrion morphogenesis: 3 proteins: PNPT1, POLDIP2, POLG2
+endoplasmic reticulum membrane: 3 proteins: PNPT1, HTRA2, CARD19
+RNA splicing: 3 proteins: PUS1, NRDE2, C1QBP
+brain development: 3 proteins: CA10, NDUFS4, ACAT1
+glucose metabolic process: 3 proteins: PDK2, HK2, PDHA1
+protein serine/threonine phosphatase activity: 3 proteins: TIMM50, PPP3CB, PPM1K
+protein dephosphorylation: 3 proteins: TIMM50, PDPR, PPP3CB
+RNA polymerase II cis-regulatory region sequence-specific DNA binding: 3 proteins: DHX36, ZKSCAN1, NFKB1
+double-stranded RNA binding: 3 proteins: DHX36, HSPD1, MRPL44
+mRNA 3'-UTR binding: 3 proteins: DHX36, ELAVL2, LRPPRC
+histone deacetylase binding: 3 proteins: DHX36, TRAF6, SMG5
+mRNA 5'-UTR binding: 3 proteins: DHX36, MYH10, MRPS11
+spermatogenesis: 3 proteins: DHX36, RNF151, BIRC3
+manganese ion binding: 3 proteins: MTPAP, PCK2, XPNPEP3
+mitochondrial promoter sequence-specific DNA binding: 3 proteins: POLRMT, TFAM, LONP1
+mitochondrial respiratory chain complex assembly: 3 proteins: TFAM, SAMM50, AIFM1
+DNA-binding transcription factor activity, RNA polymerase II-specific: 3 proteins: ZKSCAN1, ADNP2, NFKB1
+reactive oxygen species metabolic process: 3 proteins: NDUFS4, NDUFA13, NDUFS1
+intracellular signal transduction: 3 proteins: WSB1, MAPK11, STK38
+cell surface: 3 proteins: S100A10, C1QBP, HSPD1
+collagen-containing extracellular matrix: 3 proteins: S100A10, LRRC15, S100A4
+mitochondrial DNA replication: 3 proteins: DNA2, POLG2, MGME1
+oxidative phosphorylation: 3 proteins: NIPSNAP2, UQCRC2, UQCRC1
+SCF ubiquitin ligase complex: 3 proteins: FBXL12, FBXW5, SPSB3
+ciliary basal body: 3 proteins: JADE1, TTLL4, CIBAR1
+protein kinase binding: 3 proteins: RNF138, RICTOR, FBXW5
+heart development: 3 proteins: CCM2, PPP3CB, MTERF4
+oxidoreductase activity: 3 proteins: PDPR, UQCRFS1, FOXRED1
+respiratory electron transport chain: 3 proteins: ETFB, POLG2, UQCRFS1
+lysosomal membrane: 3 proteins: ATP6V1C2, SLC38A9, LRP2
+nervous system development: 3 proteins: ADNP2, TRIM3, NDUFV2
+chromatin: 3 proteins: ADNP2, HTRA2, NFKB1
+mitotic cytokinesis: 3 proteins: RTKN, TTC19, MYH10
+calmodulin binding: 3 proteins: PPP3CB, MYH10, NDUFAF4
+response to cytokine: 3 proteins: PPP3CB, MCL1, NFKB1
+ insulin secretion: 3 proteins: PPP3CB, PCK2, UQCC2
+glutamatergic synapse: 3 proteins: PPP3CB, C1QBP, STK38
+lipid metabolic process: 3 proteins: LACTB, BCAT2, LRP2
+DNA damage response: 3 proteins: NRDE2, MCL1, TRAF6
+cell cycle: 3 proteins: PDCD2L, GADD45GIP1, MRPL41
+protein serine/threonine kinase activity: 3 proteins: BCKDK, MAPK11, STK38
+mitochondrial alpha-ketoglutarate dehydrogenase complex: 3 proteins: BCKDK, DBT, DLD
+ inflammatory response: 3 proteins: RICTOR, BIRC3, NDUFC2
+midbody: 3 proteins: POLDIP2, TTC19, MYH10
+L-proline biosynthetic process: 3 proteins: PYCR2, OAT, ALDH18A1
+cellular response to tumor necrosis factor: 3 proteins: PCK2, NFKB1, GFER
+response to hypoxia: 3 proteins: HK2, LONP1, ND4
+glycolytic process: 3 proteins: HK2, OGDH, DHTKD1
+apoptotic mitochondrial changes: 3 proteins: HK2, HSPD1, NDUFS1
+pyridoxal phosphate binding: 3 proteins: GPT2, OAT, MOCOS
+ cysteine-type endopeptidase activity involved in apoptotic process: 3 proteins: CYCS, HTRA2, NDUFA13
+protein lipoylation: 3 proteins: LIAS, NDUFAB1, GCSH
+membrane insertase activity: 3 proteins: TIMM9, TIMM10, MTCH2
+TIM22 mitochondrial import inner membrane insertion complex: 3 proteins: TIMM9, TIMM10, AGK
+mitochondrial respiratory chain complex III assembly: 3 proteins: UQCC2, TTC19, UQCRFS1
+oxoglutarate dehydrogenase (succinyl-transferring) activity: 3 proteins: OGDH, MRPS36, DHTKD1
+pyruvate dehydrogenase (NAD+) activity: 3 proteins: PDHX, PDHA1, DLD
+acetyl-CoA biosynthetic process from pyruvate: 3 proteins: PDHX, PDHA1, DLD
+pyruvate dehydrogenase complex: 3 proteins: PDHX, PDHA1, DLD
+protein processing involved in protein targeting to mitochondrion: 3 proteins: MIPEP, PMPCA, PMPCB
+mitochondrial respirasome: 3 proteins: COX7A2L, UQCRC1, NDUFA13
+cytoplasmic side of plasma membrane: 3 proteins: HTRA2, DIABLO, TRAF6
+CD40 receptor complex: 3 proteins: HTRA2, DIABLO, TRAF6
+protein K63-linked ubiquitination: 3 proteins: TRIM3, RNF115, TRAF6
+early endosome: 3 proteins: TRIM3, PLEKHJ1, HSPD1
+I-kappaB kinase/NF-kappaB signaling: 3 proteins: BIRC3, NFKB1, TRAF6
+NIK/NF-kappaB signaling: 3 proteins: BIRC3, NFKB1, TRAF6
+cellular response to lipopolysaccharide: 3 proteins: NFKB1, TRAF6, GFER
+ mitochondrial membrane potential: 3 proteins: PRELID1, NDUFC2, NDUFS1
+activation of cysteine-type endopeptidase activity involved in apoptotic process: 3 proteins: DIABLO, HSPD1, AIFM1
+ interleukin-12 production: 3 proteins: TRAF6, MAPK11, HSPD1
+negative regulation of DNA-templated transcription: 3 proteins: TRAF6, MTERF3, NDUFA13
+post-embryonic development: 2 proteins: IREB2, ACADM
+osteoclast differentiation: 2 proteins: IREB2, TRAF6
+mRNA stabilization: 2 proteins: IREB2, NRDE2
+acyl-CoA dehydrogenase activity: 2 proteins: ACADM, ACAD9
+medium-chain-acyl-CoA dehydrogenase activity: 2 proteins: ACADM, ACAD9
+ gluconeogenesis: 2 proteins: ACADM, PDK2
+response to cold: 2 proteins: ACADM, HSPD1
+carnitine biosynthetic process: 2 proteins: ACADM, TMLHE
+medium-chain fatty acid metabolic process: 2 proteins: ACADM, ACAD9
+hemopoiesis: 2 proteins: CIAPIN1, GLRX5
+peroxisome: 2 proteins: ECH1, HSDL2
+SH3 domain binding: 2 proteins: GPX1, LRP2
+endothelial cell development: 2 proteins: GPX1, CCM2
+glutathione metabolic process: 2 proteins: GPX1, ETHE1
+intrinsic apoptotic signaling pathway in response to oxidative stress: 2 proteins: GPX1, DIABLO
+response to nicotine: 2 proteins: GPX1, ND4
+cell redox homeostasis: 2 proteins: GPX1, GLRX5
+skeletal muscle fiber development: 2 proteins: GPX1, PPP3CB
+biological process involved in interaction with symbiont: 2 proteins: GPX1, HSPD1
+cellular response to glucose stimulus: 2 proteins: GPX1, PCK2
+negative regulation of release of cytochrome c from mitochondria: 2 proteins: GPX1, PRELID1
+negative regulation of oxidative stress-induced intrinsic apoptotic signaling pathway: 2 proteins: GPX1, HTRA2
+adenyl-nucleotide exchange factor activity: 2 proteins: GRPEL1, GRPEL2
+PAM complex, Tim23 associated import motor: 2 proteins: GRPEL1, GRPEL2
+synapse: 2 proteins: HNRNPLL, DTNB
+oxaloacetate decarboxylase activity: 2 proteins: ME2, FAHD1
+pyruvate metabolic process: 2 proteins: ME2, FAHD1
+3'-5'-RNA exonuclease activity: 2 proteins: PNPT1, POLRMT
+mitochondrial RNA catabolic process: 2 proteins: PNPT1, LRPPRC
+mitochondrial RNA 5'-end processing: 2 proteins: PNPT1, TRMT10C
+protein homooligomerization: 2 proteins: PNPT1, TRMT61B
+response to cAMP: 2 proteins: PNPT1, NDUFS4
+RNA phosphodiester bond hydrolysis, exonucleolytic: 2 proteins: PNPT1, POLRMT
+liver regeneration: 2 proteins: PNPT1, GFER
+transmembrane transporter activity: 2 proteins: SLC25A14, CNNM3
+transmembrane transport: 2 proteins: SLC25A14, CNNM3
+tRNA (adenine-N1-)-methyltransferase activity: 2 proteins: TRMT10C, TRMT61B
+mRNA (adenine-N1-)-methyltransferase activity: 2 proteins: TRMT10C, TRMT61B
+mitochondrial tRNA methylation: 2 proteins: TRMT10C, TRMT61B
+mRNA methylation: 2 proteins: TRMT10C, TRMT61B
+ubiquitin-dependent protein catabolic process: 2 proteins: UBE2H, UBE3B
+protein K48-linked ubiquitination: 2 proteins: UBE2H, RNF115
+pyruvate dehydrogenase (acetyl-transferring) kinase activity: 2 proteins: PDK2, BCKDK
+ glucose metabolic process: 2 proteins: PDK2, BCKDK
+release of cytochrome c from mitochondria: 2 proteins: TIMM50, MCL1
+DNA helicase activity: 2 proteins: DHX36, DNA2
+G-quadruplex DNA binding: 2 proteins: DHX36, LONP1
+telomerase RNA binding: 2 proteins: DHX36, SMG5
+ossification: 2 proteins: DHX36, TRAF6
+cell differentiation: 2 proteins: DHX36, RNF151
+ telomere maintenance: 2 proteins: DHX36, SMG5
+DNA duplex unwinding: 2 proteins: DHX36, DNA2
+ interferon-alpha production: 2 proteins: DHX36, HSPD1
+cellular response to heat: 2 proteins: DHX36, HTRA2
+G-quadruplex DNA unwinding: 2 proteins: DHX36, DNA2
+ transcription initiation by RNA polymerase II: 2 proteins: DHX36, NFKB1
+chromosome, telomeric region: 2 proteins: DHX36, DNA2
+cytoplasmic stress granule: 2 proteins: DHX36, ZNFX1
+ cell shape: 2 proteins: PLEKHO1, MYH10
+transcription initiation at mitochondrial promoter: 2 proteins: POLRMT, TFAM
+chromatin binding: 2 proteins: TFAM, NFKB1
+heat shock protein binding: 2 proteins: TFAM, OGDH
+transport: 2 proteins: CNNM3, CNNM2
+monoatomic ion transport: 2 proteins: CNNM3, TOMM40
+magnesium ion homeostasis: 2 proteins: CNNM3, CNNM2
+centriole: 2 proteins: SCLT1, CIBAR1
+ GTPase activity: 2 proteins: S100A10, RICTOR
+ neurogenesis: 2 proteins: S100A10, LRP2
+ focal adhesion assembly: 2 proteins: S100A10, POLDIP2
+ substrate adhesion-dependent cell spreading: 2 proteins: S100A10, C1QBP
+membrane raft: 2 proteins: S100A10, BIRC3
+helicase activity: 2 proteins: DNA2, ZNFX1
+mitochondrial DNA repair: 2 proteins: DNA2, MGME1
+ DNA replication: 2 proteins: DNA2, JADE1
+cerebellum development: 2 proteins: GART, ND4
+neuron differentiation: 2 proteins: DTNB, NGRN
+SCF-dependent proteasomal ubiquitin-dependent protein catabolic process: 2 proteins: FBXL12, FBXW5
+ cell growth: 2 proteins: JADE1, RICTOR
+negative regulation of cell growth: 2 proteins: JADE1, NDUFA13
+ DNA biosynthetic process: 2 proteins: JADE1, GFER
+Wnt signaling pathway: 2 proteins: RNF138, GRK6
+site of double-strand break: 2 proteins: RNF138, WDR70
+multicellular organism growth: 2 proteins: CCM2, SLC25A25
+ angiogenesis: 2 proteins: CCM2, HK2
+stress-activated MAPK cascade: 2 proteins: CCM2, MAPK11
+small ncRNA-mediated heterochromatin formation: 2 proteins: ZNFX1, NRDE2
+amino acid catabolic process: 2 proteins: ETFB, BCKDK
+apical plasma membrane: 2 proteins: CNKSR3, LRP2
+mitochondrial fission: 2 proteins: MTFR1, MTFR1L
+nuclear membrane: 2 proteins: MRPS23, MRPS14
+myosin phosphatase activity: 2 proteins: PPP3CB, PPM1K
+protein dimerization activity: 2 proteins: PPP3CB, AIFM1
+T cell activation: 2 proteins: PPP3CB, HSPD1
+ protein localization to nucleus: 2 proteins: PPP3CB, PARP9
+peptidase activity: 2 proteins: LACTB, HTRA2
+G protein-coupled receptor signaling pathway: 2 proteins: GNG12, GRK6
+nucleic acid binding: 2 proteins: NARS2, RCAN2
+methylenetetrahydrofolate dehydrogenase (NADP+) activity: 2 proteins: MTHFD1L, MTHFD2
+tetrahydrofolate interconversion: 2 proteins: MTHFD1L, MTHFD2
+protein serine/threonine kinase activator activity: 2 proteins: RICTOR, TRAF6
+peptidyl-serine phosphorylation: 2 proteins: RICTOR, STK38
+ TOR signaling: 2 proteins: RICTOR, SLC38A9
+ peptidyl-tyrosine phosphorylation: 2 proteins: RICTOR, LONP1
+response to toxic substance: 2 proteins: DHRS2, AIFM1
+myeloid dendritic cell differentiation: 2 proteins: DHRS2, TRAF6
+protein processing: 2 proteins: PITRM1, XPNPEP3
+mitotic spindle: 2 proteins: POLDIP2, NGRN
+intrinsic apoptotic signaling pathway in response to DNA damage: 2 proteins: MCL1, HTRA2
+cellular homeostasis: 2 proteins: MCL1, RHOT2
+protein transmembrane transport: 2 proteins: MCL1, TOMM22
+actin filament binding: 2 proteins: LRPPRC, MYH10
+mitochondrion transport along microtubule: 2 proteins: LRPPRC, RHOT2
+cytoskeleton: 2 proteins: LRPPRC, HTRA2
+microtubule: 2 proteins: LRPPRC, TTLL4
+proline biosynthetic process: 2 proteins: PYCR2, ALDH18A1
+response to activity: 2 proteins: SLC25A25, UQCRC1
+response to food: 2 proteins: SLC25A25, TMEM126B
+camera-type eye development: 2 proteins: SLC25A25, MTERF4
+ATP metabolic process: 2 proteins: SLC25A25, NDUFS1
+adipose tissue development: 2 proteins: SLC25A25, ACAT1
+double-stranded DNA binding: 2 proteins: MTERF4, POLG2
+rRNA processing: 2 proteins: MTERF4, MRPL44
+response to lipopolysaccharide: 2 proteins: PCK2, LIAS
+Cul4-RING E3 ubiquitin ligase complex: 2 proteins: DCAF5, FBXW5
+response to ischemia: 2 proteins: HK2, AIFM1
+coenzyme A metabolic process: 2 proteins: MCCC2, ACAT1
+one-carbon metabolic process: 2 proteins: ALDH1L2, SFXN3
+biosynthetic process: 2 proteins: ALDH1L2, GPT2
+folic acid metabolic process: 2 proteins: ALDH1L2, MTHFD2
+DNA polymerase binding: 2 proteins: POLG2, LONP1
+heme binding: 2 proteins: CYCS, RSAD1
+activation of cysteine-type endopeptidase activity involved in apoptotic process by cytochrome c: 2 proteins: CYCS, DIABLO
+intrinsic apoptotic signaling pathway: 2 proteins: CYCS, DIABLO
+respirasome: 2 proteins: CYCS, TTC19
+transcription corepressor activity: 2 proteins: C1QBP, PARP9
+mitochondrial ribosome binding: 2 proteins: C1QBP, MRPS27
+negative regulation of interleukin-12 production: 2 proteins: C1QBP, NFKB1
+inflammatory response: 2 proteins: LIAS, NFKB1
+mitochondrial intermembrane space protein transporter complex: 2 proteins: TIMM9, TIMM10
+ oxidative phosphorylation: 2 proteins: UQCC2, COX7A2L
+[2Fe-2S] cluster assembly: 2 proteins: GLRX5, NDUFAB1
+iron-sulfur cluster assembly complex: 2 proteins: GLRX5, NDUFAB1
+cell junction: 2 proteins: MRPS18B, MRPL46
+extrinsic component of mitochondrial inner membrane: 2 proteins: NOA1, COQ3
+acetyl-CoA C-acetyltransferase activity: 2 proteins: ACAA2, ACAT1
+negative regulation of mitochondrial outer membrane permeabilization involved in apoptotic signaling pathway: 2 proteins: ACAA2, SLC25A6
+thiamine pyrophosphate binding: 2 proteins: OGDH, DHTKD1
+hippocampus development: 2 proteins: OGDH, UQCRQ
+thalamus development: 2 proteins: OGDH, UQCRQ
+pyramidal neuron development: 2 proteins: OGDH, UQCRQ
+histone succinylation: 2 proteins: OGDH, DLD
+oxoglutarate dehydrogenase complex: 2 proteins: OGDH, DLD
+tRNA aminoacylation: 2 proteins: DARS2, YARS2
+mitochondrial genome maintenance: 2 proteins: MGME1, LONP1
+ubiquinol-cytochrome-c reductase activity: 2 proteins: UQCRFS1, UQCRC1
+respiratory gaseous exchange by respiratory system: 2 proteins: COX5B, NDUFA12
+mitochondrial large ribosomal subunit binding: 2 proteins: NDUFAB1, MALSU1
+actin binding: 2 proteins: S100A4, MYH10
+serine-type endopeptidase activity: 2 proteins: HTRA2, LONP1
+forebrain development: 2 proteins: HTRA2, LRP2
+cellular response to retinoic acid: 2 proteins: HTRA2, NDUFA13
+cellular response to growth factor stimulus: 2 proteins: HTRA2, LRP2
+protein transport: 2 proteins: TRIM3, LRP2
+lysosome: 2 proteins: SLC38A9, LRP2
+nucleotide binding: 2 proteins: HINT2, MRPL39
+mitochondria-associated endoplasmic reticulum membrane: 2 proteins: TOMM20, TOMM40
+sperm midpiece: 2 proteins: TOMM20, HSPD1
+migrasome: 2 proteins: TOMM20, HSPD1
+inner mitochondrial membrane organization: 2 proteins: SAMM50, CIBAR1
+ protein ubiquitination: 2 proteins: BIRC3, TRAF6
+tumor necrosis factor-mediated signaling pathway: 2 proteins: BIRC3, TRAF6
+ necroptotic process: 2 proteins: BIRC3, AIFM1
+translation initiation factor activity: 2 proteins: EIF4E2, MTIF2
+translation factor activity, RNA binding: 2 proteins: EIF4E2, MTIF2
+negative regulation of gene expression: 2 proteins: NFKB1, PARP9
+cellular response to interleukin-1: 2 proteins: NFKB1, MAPK11
+cellular response to virus: 2 proteins: NFKB1, MAPK11
+ADP binding: 2 proteins: LONP1, MYH10
+chaperone-mediated protein complex assembly: 2 proteins: LONP1, HSPD1
+protein autoubiquitination: 2 proteins: RNF115, TRAF6
+MyD88-dependent toll-like receptor signaling pathway: 2 proteins: TRAF6, HSPD1
+ interleukin-6 production: 2 proteins: TRAF6, HSPD1
+cell cortex: 2 proteins: TRAF6, MYH10
+mitochondrial processing peptidase complex: 2 proteins: PMPCA, PMPCB
+isoleucine catabolic process: 2 proteins: BCAT2, ACAT1
+protein serine kinase activity: 2 proteins: MAPK11, STK38
+protein import into mitochondrial intermembrane space: 2 proteins: HSPD1, AIFM1
+protein stabilization: 2 proteins: HSPD1, DNLZ
+clathrin-coated pit: 2 proteins: HSPD1, LRP2
+ribosomal small subunit assembly: 2 proteins: MRPS11, MRPS7
+apoptotic signaling pathway: 2 proteins: DAP3, NDUFA13
+cell population proliferation: 2 proteins: LRP2, MRPS27

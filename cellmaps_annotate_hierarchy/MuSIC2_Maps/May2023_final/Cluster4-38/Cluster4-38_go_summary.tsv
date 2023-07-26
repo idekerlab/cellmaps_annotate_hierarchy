@@ -1,0 +1,28 @@
+Feature	Number of Genes	Genes
+protein binding	3	METAP1, TXLNA, BTF3L4
+cytoplasm	3	METAP1, TXLNA, NACA2
+cytosol	3	METAP1, TXLNA, TXLNG
+syntaxin binding	2	TXLNA, TXLNG
+aminopeptidase activity	1	METAP1
+metalloexopeptidase activity	1	METAP1
+metal ion binding	1	METAP1
+metalloaminopeptidase activity	1	METAP1
+ translation	1	METAP1
+peptidyl-methionine modification	1	METAP1
+N-terminal protein amino acid modification	1	METAP1
+protein initiator methionine removal involved in protein maturation	1	METAP1
+platelet aggregation	1	METAP1
+exocytosis	1	TXLNA
+B cell activation	1	TXLNA
+extracellular region	1	TXLNA
+membrane	1	TXLNA
+unfolded protein binding	1	NACA2
+protein targeting to membrane	1	NACA2
+nucleus	1	NACA2
+nascent polypeptide-associated complex	1	NACA2
+DNA-binding transcription factor binding	1	TXLNG
+cell cycle	1	TXLNG
+ cell cycle process	1	TXLNG
+ bone mineralization	1	TXLNG
+ cell cycle	1	TXLNG
+nuclear membrane	1	TXLNG

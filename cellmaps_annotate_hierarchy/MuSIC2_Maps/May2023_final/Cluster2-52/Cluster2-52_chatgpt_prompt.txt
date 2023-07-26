@@ -1,0 +1,25 @@
+Your response should be formatted as Markdown paragraphs
+Write a critical and concise analysis of this human protein system, describing your reasoning as you go and providing references to scientific papers.
+
+A critical goal of the analysis is to determine if this is a novel complex or if any proteins are novel members of a known complex
+
+Format with Title, Summary, and References sections.        
+Avoid overly general statements of how the proteins are involved in various cellular processes        
+Avoid repeating the goals of the analysis.
+
+What cellular components and complexes are involved in this system?
+What mechanisms and biological processes are performed by this system?
+Propose a name for the system to reflect the cellular location and function, and should be specific but brief. Do not compose an acronym. Place it as the title of your report
+Human Proteins: CENPI, CENPO, CENPQ, CENPT, DHRS12, ITGB3BP, CENPN.
+
+System features from GO terms: 
+nucleoplasm: 6 proteins: CENPI, CENPO, CENPQ, CENPT, ITGB3BP, CENPN
+cytosol: 6 proteins: CENPI, CENPO, CENPQ, CENPT, ITGB3BP, CENPN
+protein binding: 5 proteins: CENPI, CENPO, CENPQ, CENPT, ITGB3BP
+kinetochore: 4 proteins: CENPI, CENPT, ITGB3BP, CENPN
+CENP-A containing chromatin assembly: 3 proteins: CENPI, ITGB3BP, CENPN
+nuclear body: 3 proteins: CENPI, CENPO, CENPT
+chromosome, centromeric region: 2 proteins: CENPQ, CENPT
+nucleus: 2 proteins: CENPQ, ITGB3BP
+chromosome segregation: 2 proteins: CENPT, CENPN
+cell division: 2 proteins: CENPT, ITGB3BP

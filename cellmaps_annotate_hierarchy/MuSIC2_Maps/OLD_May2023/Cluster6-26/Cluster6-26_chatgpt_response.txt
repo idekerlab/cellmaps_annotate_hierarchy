@@ -1,0 +1,20 @@
+Title: Mitochondrial-Nuclear Protein Interaction System
+
+Summary:
+The system of proteins under investigation consists of AIFM1, GFER, PDHA1, and STK38. These proteins are physically close to each other and/or interact with each other, suggesting a potential functional relationship. The proteins are involved in various cellular processes and are localized in different cellular compartments, including the nucleus, mitochondria, cytosol, and cytoplasm. The analysis aims to determine if this is a novel complex or if any proteins are novel members of a known complex.
+
+The cellular components and complexes involved in this system include the nucleus, mitochondria, cytosol, and cytoplasm. AIFM1, PDHA1, and STK38 are found in the nucleus, while AIFM1, GFER, and PDHA1 are localized in the mitochondria. AIFM1, GFER, and STK38 are present in the cytosol, and AIFM1 and STK38 are found in the cytoplasm. Additionally, AIFM1 and GFER are located in the mitochondrial intermembrane space.
+
+The biological processes and mechanisms performed by this system are diverse. AIFM1 is involved in the regulation of cell death and oxidative phosphorylation (Susin et al., 1999). GFER is a mitochondrial protein that plays a role in the biogenesis and maintenance of the mitochondrial respiratory chain (Di Fonzo et al., 2009). PDHA1 is a component of the pyruvate dehydrogenase complex, which is involved in the conversion of pyruvate to acetyl-CoA, linking glycolysis to the citric acid cycle (Patel et al., 2014). STK38 is a serine/threonine kinase that regulates various cellular processes, including cell survival, apoptosis, and autophagy (Cornils et al., 2011).
+
+Based on the function and location of these proteins, the proposed name for this system is the "Mitochondrial-Nuclear Protein Interaction System."
+
+References:
+
+1. Susin, S. A., Lorenzo, H. K., Zamzami, N., Marzo, I., Snow, B. E., Brothers, G. M., ... & Reed, J. C. (1999). Molecular characterization of mitochondrial apoptosis-inducing factor. Nature, 397(6718), 441-446. [PubMed](https://pubmed.ncbi.nlm.nih.gov/9989411/)
+
+2. Di Fonzo, A., Ronchi, D., Lodi, T., Fassone, E., Tigano, M., Lamperti, C., ... & Comi, G. P. (2009). The mitochondrial disulfide relay system protein GFER is mutated in autosomal-recessive myopathy with cataract and combined respiratory-chain deficiency. The American Journal of Human Genetics, 84(5), 594-604. [PubMed](https://pubmed.ncbi.nlm.nih.gov/19409522/)
+
+3. Patel, M. S., Nemeria, N. S., Furey, W., & Jordan, F. (2014). The pyruvate dehydrogenase complexes: structure-based function and regulation. Journal of Biological Chemistry, 289(24), 16615-16623. [PubMed](https://pubmed.ncbi.nlm.nih.gov/24742682/)
+
+4. Cornils, H., Stegert, M. R., Hergovich, A., Hynx, D., Schmitz, D., Dirnhofer, S., & Hemmings, B. A. (2011). Ablation of the kinase NDR1 predisposes mice to the development of T cell lymphoma. Science signaling, 4(180), ra47. [PubMed](https://pubmed.ncbi.nlm.nih.gov/21730326/)

@@ -1,0 +1,79 @@
+Feature	Number of Genes	Genes
+protein binding	6	NFE2L3, BLOC1S4, CHI3L1, SLMAP, KRIT1, SIKE1
+cytoplasm	3	BLOC1S4, CHI3L1, KRIT1
+cytosol	2	BLOC1S4, SIKE1
+ angiogenesis	2	CHI3L1, KRIT1
+extracellular space	2	CHI3L1, KRIT1
+plasma membrane	2	SLMAP, KRIT1
+RNA polymerase II cis-regulatory region sequence-specific DNA binding	1	NFE2L3
+DNA-binding transcription factor activity, RNA polymerase II-specific	1	NFE2L3
+DNA-binding transcription repressor activity, RNA polymerase II-specific	1	NFE2L3
+DNA-binding transcription factor activity	1	NFE2L3
+negative regulation of transcription by RNA polymerase II	1	NFE2L3
+ transcription by RNA polymerase II	1	NFE2L3
+transcription by RNA polymerase II	1	NFE2L3
+integrated stress response signaling	1	NFE2L3
+chromatin	1	NFE2L3
+nucleus	1	NFE2L3
+RNA polymerase II transcription regulator complex	1	NFE2L3
+anterograde axonal transport	1	BLOC1S4
+neuron projection development	1	BLOC1S4
+melanosome organization	1	BLOC1S4
+anterograde synaptic vesicle transport	1	BLOC1S4
+neuromuscular process controlling balance	1	BLOC1S4
+platelet aggregation	1	BLOC1S4
+BLOC-1 complex	1	BLOC1S4
+axon cytoplasm	1	BLOC1S4
+chitinase activity	1	CHI3L1
+extracellular matrix structural constituent	1	CHI3L1
+chitin binding	1	CHI3L1
+carbohydrate binding	1	CHI3L1
+carbohydrate metabolic process	1	CHI3L1
+chitin catabolic process	1	CHI3L1
+apoptotic process	1	CHI3L1
+inflammatory response	1	CHI3L1
+activation of NF-kappaB-inducing kinase activity	1	CHI3L1
+response to mechanical stimulus	1	CHI3L1
+ peptidyl-threonine phosphorylation	1	CHI3L1
+lung development	1	CHI3L1
+ interleukin-8 production	1	CHI3L1
+response to tumor necrosis factor	1	CHI3L1
+cartilage development	1	CHI3L1
+ protein kinase B signaling	1	CHI3L1
+ ERK1 and ERK2 cascade	1	CHI3L1
+response to interleukin-1	1	CHI3L1
+response to interleukin-6	1	CHI3L1
+cellular response to tumor necrosis factor	1	CHI3L1
+extracellular region	1	CHI3L1
+endoplasmic reticulum	1	CHI3L1
+extracellular matrix	1	CHI3L1
+specific granule lumen	1	CHI3L1
+perinuclear region of cytoplasm	1	CHI3L1
+extracellular exosome	1	CHI3L1
+muscle contraction	1	SLMAP
+protein localization to plasma membrane	1	SLMAP
+ membrane depolarization during cardiac muscle cell action potential	1	SLMAP
+ sodium ion transmembrane transport	1	SLMAP
+ voltage-gated sodium channel activity	1	SLMAP
+smooth endoplasmic reticulum	1	SLMAP
+microtubule organizing center	1	SLMAP
+sarcolemma	1	SLMAP
+phosphatidylinositol-4,5-bisphosphate binding	1	KRIT1
+microtubule binding	1	KRIT1
+GTPase regulator activity	1	KRIT1
+angiogenesis	1	KRIT1
+negative regulation of endothelial cell proliferation	1	KRIT1
+endothelium development	1	KRIT1
+small GTPase mediated signal transduction	1	KRIT1
+negative regulation of endothelial cell migration	1	KRIT1
+negative regulation of angiogenesis	1	KRIT1
+ protein binding	1	KRIT1
+integrin activation	1	KRIT1
+cell redox homeostasis	1	KRIT1
+ establishment of cell polarity	1	KRIT1
+negative regulation of endothelial cell apoptotic process	1	KRIT1
+cytoskeleton	1	KRIT1
+cell-cell junction	1	KRIT1
+protein-containing complex	1	KRIT1
+protein kinase binding	1	SIKE1
+small GTPase binding	1	SIKE1

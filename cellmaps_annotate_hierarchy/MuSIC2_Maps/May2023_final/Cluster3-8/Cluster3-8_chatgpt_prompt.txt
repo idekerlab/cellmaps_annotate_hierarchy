@@ -1,0 +1,16 @@
+Your response should be formatted as Markdown paragraphs
+This is a human protein system high in a cell hierarchy and has child systems connect to it as well as residual proteins only belong to this system. From the protein list and the knowledge of how these proteins cluster, write a critical and concise analysis of this human protein system. Describe your reasoning as you go and providing references to scientific papers.
+
+A critical goal of the analysis is to determine if this is a novel complex or if any proteins are novel members of a known complex
+
+Format with Title, Summary, and References sections.        
+Avoid overly general statements of how the proteins are involved in various cellular processes        
+Avoid recapitulating the goals of the analysis.
+
+What cellular components and complexes are involved in this system?
+What mechanisms and biological processes are performed by this system?
+Propose a name for the system to reflect the function and location, and should be specific but brief. Do not compose an acronym. Place it as the title of your report
+Human Protein List: 
+proteins only in this high level system: AKT1S1, CHEK1, PAK5, R3HDM1, AFDN, BICC1, LPIN2, TSC1, PRAG1, MAST1, CLIP4, MAST2, EPB41, ANKS1A, CEP89, HDAC4, WEE1, DENND4C, TFE3, LPIN3, KIF5B, CRTC2, CEP95, DLG1, MAP3K3, PPFIBP1, YAP1, ATXN1, VPS13D, KLC2, MTMR3, MAPK9, SH2B3, SPEG, PPIP5K2, PLEKHA7, SYDE2, AKAP13, MPRIP, TNFAIP3, RFX7, BECN1, SH3BP5L, ERRFI1, ATXN1L, CEP112, PLEKHA5, LPIN1, HDAC5, KIF5C, PPP1R3E, IRS1, WNK1, TUT4, PHACTR4, RAF1, CDK14, SPIRE1, RAB11FIP1, TAOK1, YWHAQ, ISCU, AHNAK2, YWHAG, PTPN4, SERF2, YWHAE, JCAD, SAMD4B, WDR62, PIK3C2A, PPIL2, TBC1D4, FOXO1, ARHGAP23, MAP3K2, MEX3B, PIK3R4, TESK2, CIC, PAK4, MIIP, CGN, TP53BP2, ARHGAP21, CGNL1, TEAD2, PFKFB4, MAP3K20, ZBTB21, RIPOR1, PARD3, PSD3, MICALL1, RALGPS2, SIPA1, PTPN21, PPM1H, CBARP, BRAF, SH3RF3, ZNF395, RHBDF1, HDAC6, PARP8, CASK, PFKFB2, FAM110A, SIPA1L3, HINT3, EPN2, PNRC2, SRGAP1, PPIP5K1, RGS12, MAPKBP1, WWTR1.
+proteins in child system Cluster4-18: KLC4, PPFIBP2, FRMD6, CFAP410, BAD, ABAT, CREB3L2, FAM53B, HIVEP1, KIF21B, PPP1R3D, YWHAB.
+proteins in child system Cluster4-58: DENND4A, PPP1R3D, DYRK1A, TIAM1.

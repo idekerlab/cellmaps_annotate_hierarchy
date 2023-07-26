@@ -1,0 +1,143 @@
+Feature	Number of Genes	Genes
+nucleoplasm	10	CDCA5, DBR1, MPLKIP, MYCBP2, PDS5B, RAD21, SMC1A, SMC3, TSEN54, UBR4
+nucleus	10	CDCA5, DBR1, MPLKIP, MYCBP2, PDS5B, RAD21, SMC1A, SMC3, TSEN54, UBR4
+cytosol	7	CDCA5, MYCBP2, PDS5B, RAD21, SMC1A, SMC3, UBR4
+cell division	6	CDCA5, MPLKIP, PDS5B, RAD21, SMC1A, SMC3
+Disease variant	6	DBR1, MPLKIP, RAD21, SMC1A, SMC3, TSEN54
+chromosome	5	CDCA5, PDS5B, RAD21, SMC1A, SMC3
+chromosome, centromeric region	5	CDCA5, PDS5B, RAD21, SMC1A, SMC3
+cytoplasm	5	CDCA5, MPLKIP, MYCBP2, RAD21, UBR4
+chromatin	4	CDCA5, PDS5B, RAD21, SMC3
+chromatin binding	4	CDCA5, RAD21, SMC1A, SMC3
+mitotic sister chromatid cohesion	4	CDCA5, PDS5B, SMC1A, SMC3
+cytoskeleton	4	MPLKIP, MYCBP2, RAD21, UBR4
+membrane	4	MYCBP2, PMEPA1, RAD21, UBR4
+intracellular membrane-bounded organelle	3	MPLKIP, MYCBP2, PMEPA1
+plasma membrane	3	MYCBP2, PMEPA1, UBR4
+DNA binding	3	PDS5B, RAD21, SMC1A
+cohesin complex	3	RAD21, SMC1A, SMC3
+nuclear matrix	3	RAD21, SMC1A, SMC3
+establishment of meiotic sister chromatid cohesion	3	RAD21, SMC1A, SMC3
+establishment of mitotic sister chromatid cohesion	3	RAD21, SMC1A, SMC3
+sister chromatid cohesion	3	RAD21, SMC1A, SMC3
+centromere	3	RAD21, SMC1A, SMC3
+Intellectual disability	3	RAD21, SMC1A, SMC3
+double-strand break repair	2	CDCA5, RAD21
+mitotic cell cycle	2	CDCA5, SMC3
+RNA binding	2	DBR1, SMC1A
+centrosome	2	MPLKIP, UBR4
+midbody	2	MPLKIP, RAD21
+ubiquitin protein ligase activity	2	MYCBP2, UBR4
+zinc ion binding	2	MYCBP2, UBR4
+condensed nuclear chromosome	2	RAD21, SMC1A
+meiotic cohesin complex	2	SMC1A, SMC3
+mitotic spindle pole	2	SMC1A, SMC3
+ATP binding	2	SMC1A, SMC3
+ATP hydrolysis activity	2	SMC1A, SMC3
+mediator complex binding	2	SMC1A, SMC3
+protein heterodimerization activity	2	SMC1A, SMC3
+DNA repair	2	SMC1A, SMC3
+meiotic cell cycle	2	SMC1A, SMC3
+mitotic spindle assembly	2	SMC1A, SMC3
+protein-containing complex binding	1	CDCA5
+mitotic chromosome condensation	1	CDCA5
+mitotic metaphase plate congression	1	CDCA5
+positive regulation of exit from mitosis	1	CDCA5
+regulation of cohesin loading	1	CDCA5
+metal ion binding	1	DBR1
+RNA lariat debranching enzyme activity	1	DBR1
+mRNA splicing, via spliceosome	1	DBR1
+RNA splicing, via transesterification reactions	1	DBR1
+Encephalitis	1	DBR1
+Golgi apparatus	1	MPLKIP
+cell cycle	1	MPLKIP
+microtubule organizing center	1	MPLKIP
+Trichothiodystrophy 4	1	MPLKIP
+axon	1	MYCBP2
+microtubule cytoskeleton	1	MYCBP2
+guanyl-nucleotide exchange factor activity	1	MYCBP2
+identical protein binding	1	MYCBP2
+small GTPase binding	1	MYCBP2
+axon guidance	1	MYCBP2
+branchiomotor neuron axon guidance	1	MYCBP2
+central nervous system projection neuron axonogenesis	1	MYCBP2
+circadian regulation of gene expression	1	MYCBP2
+negative regulation of protein catabolic process	1	MYCBP2
+neuromuscular process	1	MYCBP2
+positive regulation of protein ubiquitination	1	MYCBP2
+protein ubiquitination	1	MYCBP2
+regulation of axon guidance	1	MYCBP2
+regulation of cytoskeleton organization	1	MYCBP2
+regulation of protein localization	1	MYCBP2
+regulation of synaptic assembly at neuromuscular junction	1	MYCBP2
+cell projection	1	MYCBP2
+cell population proliferation	1	PDS5B
+negative regulation of cell population proliferation	1	PDS5B
+regulation of cell population proliferation	1	PDS5B
+early endosome membrane	1	PMEPA1
+endosome membrane	1	PMEPA1
+Golgi membrane	1	PMEPA1
+R-SMAD binding	1	PMEPA1
+WW domain binding	1	PMEPA1
+androgen receptor signaling pathway	1	PMEPA1
+negative regulation of pathway-restricted SMAD protein phosphorylation	1	PMEPA1
+negative regulation of SMAD protein complex assembly	1	PMEPA1
+negative regulation of transforming growth factor beta receptor signaling pathway	1	PMEPA1
+endosome	1	PMEPA1
+golgi apparatus membrane	1	PMEPA1
+golgi apparatus	1	PMEPA1
+spindle pole	1	RAD21
+apoptotic process	1	RAD21
+chromatin looping	1	RAD21
+DNA recombination	1	RAD21
+negative regulation of G2/M transition of mitotic cell cycle	1	RAD21
+negative regulation of mitotic metaphase/anaphase transition	1	RAD21
+positive regulation of sister chromatid cohesion	1	RAD21
+protein localization to chromatin	1	RAD21
+reciprocal meiotic recombination	1	RAD21
+regulation of transcription by RNA polymerase II	1	RAD21
+replication-born double-strand break repair via sister chromatid exchange	1	RAD21
+nucleus matrix	1	RAD21
+Cornelia de Lange syndrome 4 with or without midline brain defects	1	RAD21
+Mungan syndrome	1	RAD21
+kinetochore	1	SMC1A
+mitotic sister chromatid segregation	1	SMC1A
+response to DNA damage checkpoint signaling	1	SMC1A
+response to radiation	1	SMC1A
+somatic stem cell population maintenance	1	SMC1A
+Cornelia de Lange syndrome 2	1	SMC1A
+Developmental and epileptic encephalopathy 85 with or without midline brain defects	1	SMC1A
+Epilepsy	1	SMC1A
+lateral element	1	SMC3
+beta-tubulin binding	1	SMC3
+cohesin loader activity	1	SMC3
+double-stranded DNA binding	1	SMC3
+dynein complex binding	1	SMC3
+microtubule motor activity	1	SMC3
+regulation of DNA replication	1	SMC3
+stem cell population maintenance	1	SMC3
+Cornelia de Lange syndrome 3 with or without midline brain defects	1	SMC3
+extracellular region	1	SPATA20
+carbohydrate metabolic process	1	SPATA20
+cell differentiation	1	SPATA20
+spermatogenesis	1	SPATA20
+secreted	1	SPATA20
+nucleolus	1	TSEN54
+tRNA-intron endonuclease complex	1	TSEN54
+mRNA processing	1	TSEN54
+tRNA splicing, via endonucleolytic cleavage and ligation	1	TSEN54
+tRNA-type intron splice site recognition and cleavage	1	TSEN54
+Pontocerebellar hypoplasia 4	1	TSEN54
+Pontocerebellar hypoplasia 2A	1	TSEN54
+Pontocerebellar hypoplasia 5	1	TSEN54
+Neurodegeneration	1	TSEN54
+Pontocerebellar hypoplasia	1	TSEN54
+ficolin-1-rich granule membrane	1	UBR4
+specific granule membrane	1	UBR4
+tertiary granule membrane	1	UBR4
+calmodulin binding	1	UBR4
+ubiquitin-protein transferase activity	1	UBR4
+ubiquitin-dependent protein catabolic process	1	UBR4
+Cul2-RING ubiquitin ligase complex	1	ZYG11B
+positive regulation of proteasomal ubiquitin-dependent protein catabolic process	1	ZYG11B
+protein quality control for misfolded or incompletely synthesized proteins	1	ZYG11B

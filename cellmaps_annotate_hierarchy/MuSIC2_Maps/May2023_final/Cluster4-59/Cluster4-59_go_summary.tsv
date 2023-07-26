@@ -1,0 +1,77 @@
+Feature	Number of Genes	Genes
+protein binding	3	CPS1, LRWD1, MCEE
+metal ion binding	2	CPS1, MCEE
+nucleolus	2	CPS1, LRWD1
+cytoplasm	2	CPS1, LRWD1
+mitochondrial matrix	2	CPS1, MCEE
+magnesium ion binding	1	NUDT8
+CoA pyrophosphatase activity	1	NUDT8
+manganese ion binding	1	NUDT8
+acyl-coenzyme A diphosphatase activity	1	NUDT8
+coenzyme A catabolic process	1	NUDT8
+medium-chain fatty-acyl-CoA catabolic process	1	NUDT8
+butyryl-CoA catabolic process	1	NUDT8
+acetyl-CoA catabolic process	1	NUDT8
+succinyl-CoA catabolic process	1	NUDT8
+propionyl-CoA catabolic process	1	NUDT8
+malonyl-CoA catabolic process	1	NUDT8
+mitochondrion	1	NUDT8
+carbamoyl-phosphate synthase (ammonia) activity	1	CPS1
+carbamoyl-phosphate synthase (glutamine-hydrolyzing) activity	1	CPS1
+endopeptidase activity	1	CPS1
+calcium ion binding	1	CPS1
+ATP binding	1	CPS1
+phospholipid binding	1	CPS1
+glutamate binding	1	CPS1
+potassium ion binding	1	CPS1
+small molecule binding	1	CPS1
+protein-containing complex binding	1	CPS1
+modified amino acid binding	1	CPS1
+urea cycle	1	CPS1
+'de novo' pyrimidine nucleobase biosynthetic process	1	CPS1
+glutamine metabolic process	1	CPS1
+midgut development	1	CPS1
+response to xenobiotic stimulus	1	CPS1
+response to toxic substance	1	CPS1
+response to zinc ion	1	CPS1
+response to amine	1	CPS1
+citrulline biosynthetic process	1	CPS1
+triglyceride catabolic process	1	CPS1
+response to food	1	CPS1
+response to lipopolysaccharide	1	CPS1
+vasodilation	1	CPS1
+response to starvation	1	CPS1
+response to amino acid	1	CPS1
+cellular response to fibroblast growth factor stimulus	1	CPS1
+nitric oxide metabolic process	1	CPS1
+homocysteine metabolic process	1	CPS1
+monoatomic anion homeostasis	1	CPS1
+response to growth hormone	1	CPS1
+hepatocyte differentiation	1	CPS1
+carbamoyl phosphate biosynthetic process	1	CPS1
+cellular response to ammonium ion	1	CPS1
+cellular response to cAMP	1	CPS1
+cellular response to glucagon stimulus	1	CPS1
+cellular response to oleic acid	1	CPS1
+response to dexamethasone	1	CPS1
+mitochondrial inner membrane	1	CPS1
+plasma membrane	1	CPS1
+protein-containing complex	1	CPS1
+mitochondrial nucleoid	1	CPS1
+chromatin binding	1	LRWD1
+methyl-CpG binding	1	LRWD1
+methylated histone binding	1	LRWD1
+DNA replication initiation	1	LRWD1
+chromatin organization	1	LRWD1
+establishment of protein localization to chromatin	1	LRWD1
+kinetochore	1	LRWD1
+chromosome, telomeric region	1	LRWD1
+nucleus	1	LRWD1
+nucleoplasm	1	LRWD1
+nuclear origin of replication recognition complex	1	LRWD1
+pericentric heterochromatin	1	LRWD1
+microtubule organizing center	1	LRWD1
+intracellular membrane-bounded organelle	1	LRWD1
+methylmalonyl-CoA epimerase activity	1	MCEE
+short-chain fatty acid catabolic process	1	MCEE
+L-methylmalonyl-CoA metabolic process	1	MCEE

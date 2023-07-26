@@ -1,0 +1,49 @@
+Your response should be formatted as Markdown paragraphs
+Write a critical and concise analysis of this human protein system, describing your reasoning as you go and providing references to scientific papers.
+
+A critical goal of the analysis is to determine if this is a novel complex or if any proteins are novel members of a known complex
+
+Format with Title, Summary, and References sections.        
+Avoid overly general statements of how the proteins are involved in various cellular processes        
+Avoid repeating the goals of the analysis.
+
+What cellular components and complexes are involved in this system?
+What mechanisms and biological processes are performed by this system?
+Propose a name for the system to reflect the cellular location and function, and should be specific but brief. Do not compose an acronym. Place it as the title of your report
+Human Proteins: SLC38A9, LAMTOR4, BORCS6, LAMTOR1, RRAGC, RRAGB, ITPA, LAMTOR5, LAMTOR2.
+
+System features from GO terms: 
+protein binding: 8 proteins: SLC38A9, LAMTOR4, BORCS6, LAMTOR1, RRAGC, RRAGB, LAMTOR5, LAMTOR2
+ TOR signaling: 7 proteins: SLC38A9, LAMTOR4, LAMTOR1, RRAGC, RRAGB, LAMTOR5, LAMTOR2
+cellular response to amino acid stimulus: 7 proteins: SLC38A9, LAMTOR4, LAMTOR1, RRAGC, RRAGB, LAMTOR5, LAMTOR2
+lysosome: 6 proteins: SLC38A9, LAMTOR4, LAMTOR1, RRAGC, RRAGB, LAMTOR5
+lysosomal membrane: 6 proteins: SLC38A9, LAMTOR4, LAMTOR1, RRAGB, LAMTOR5, LAMTOR2
+guanyl-nucleotide exchange factor activity: 5 proteins: SLC38A9, LAMTOR4, LAMTOR1, LAMTOR5, LAMTOR2
+late endosome membrane: 5 proteins: SLC38A9, LAMTOR4, LAMTOR1, LAMTOR5, LAMTOR2
+ TORC1 signaling: 4 proteins: SLC38A9, RRAGC, RRAGB, LAMTOR5
+molecular adaptor activity: 4 proteins: LAMTOR4, LAMTOR1, LAMTOR5, LAMTOR2
+TORC1 signaling: 4 proteins: LAMTOR4, LAMTOR1, LAMTOR5, LAMTOR2
+Ragulator complex: 4 proteins: LAMTOR4, LAMTOR1, LAMTOR5, LAMTOR2
+protein localization: 4 proteins: LAMTOR1, RRAGC, RRAGB, LAMTOR2
+cytosol: 4 proteins: RRAGC, RRAGB, ITPA, LAMTOR5
+intracellular membrane-bounded organelle: 3 proteins: LAMTOR4, RRAGC, ITPA
+GTPase binding: 3 proteins: LAMTOR1, RRAGC, RRAGB
+cytoplasm: 3 proteins: RRAGC, RRAGB, ITPA
+metal ion binding: 2 proteins: SLC38A9, ITPA
+late endosome: 2 proteins: SLC38A9, LAMTOR2
+ cell size: 2 proteins: LAMTOR4, LAMTOR5
+protein localization to lysosome: 2 proteins: LAMTOR4, LAMTOR5
+identical protein binding: 2 proteins: BORCS6, ITPA
+lysosome localization: 2 proteins: BORCS6, LAMTOR1
+ cell growth: 2 proteins: LAMTOR1, LAMTOR2
+ MAPK cascade: 2 proteins: LAMTOR1, LAMTOR2
+plasma membrane: 2 proteins: LAMTOR1, LAMTOR2
+specific granule membrane: 2 proteins: LAMTOR1, LAMTOR2
+GTPase activity: 2 proteins: RRAGC, RRAGB
+GTP binding: 2 proteins: RRAGC, RRAGB
+cellular response to starvation: 2 proteins: RRAGC, RRAGB
+negative regulation of autophagy: 2 proteins: RRAGC, RRAGB
+cellular response to amino acid starvation: 2 proteins: RRAGC, RRAGB
+nucleus: 2 proteins: RRAGC, RRAGB
+nucleoplasm: 2 proteins: RRAGC, ITPA
+Gtr1-Gtr2 GTPase complex: 2 proteins: RRAGC, RRAGB

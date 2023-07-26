@@ -1,0 +1,18 @@
+Write a critical and concise analysis of this system, describing your reasoning as you go and providing references to scientific papers. Format the page with Title, Summary, and References sections.
+What cellular components and complexes are involved in this system?
+What mechanisms and biological processes are performed by this system?
+Propose a name for the system to reflect the function and location, and should be specific but brief. Do not compose an acronym. Place it as the title of your report
+Provide complete paper references with pubmed link
+Proteins: MAP4K2, DPYSL2, DPYSL3, DPYSL4, NAA30.
+
+A critical goal of the analysis is to determine if this is a novel complex or if any proteins are novel members of a known complex
+System features from GO terms: 
+protein binding: 5 proteins: MAP4K2, DPYSL2, DPYSL3, DPYSL4, NAA30
+cytosol: 4 proteins: DPYSL2, DPYSL3, DPYSL4, NAA30
+dihydropyrimidinase activity: 3 proteins: DPYSL2, DPYSL3, DPYSL4
+hydrolase activity, acting on carbon-nitrogen (but not peptide) bonds, in cyclic amides: 3 proteins: DPYSL2, DPYSL3, DPYSL4
+pyrimidine nucleobase catabolic process: 3 proteins: DPYSL2, DPYSL3, DPYSL4
+cytoplasm: 2 proteins: MAP4K2, NAA30
+identical protein binding: 2 proteins: DPYSL2, DPYSL3
+nervous system development: 2 proteins: DPYSL2, DPYSL4
+filamin binding: 2 proteins: DPYSL3, DPYSL4

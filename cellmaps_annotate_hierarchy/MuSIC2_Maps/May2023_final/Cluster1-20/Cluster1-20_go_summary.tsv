@@ -1,0 +1,115 @@
+Feature	Number of Genes	Genes
+protein binding	5	CSDC2, GCFC2, MYO1E, NEFL, TLE3
+nucleus	4	CSDC2, CCDC82, GCFC2, TLE3
+cytoplasm	3	CSDC2, MYO1E, NEFL
+cytosol	3	GCFC2, KCNAB1, NEFL
+negative regulation of DNA-templated transcription	2	GCFC2, TLE3
+nucleoplasm	2	GCFC2, TLE3
+protein domain specific binding	2	KCNAB1, NEFL
+plasma membrane	2	KCNAB1, MYO1E
+RNA binding	1	CSDC2
+mRNA 3'-UTR binding	1	CSDC2
+mRNA processing	1	CSDC2
+ mRNA stability	1	CSDC2
+DNA binding	1	GCFC2
+spliceosomal complex assembly	1	GCFC2
+mRNA splicing, via spliceosome	1	GCFC2
+ DNA-templated transcription	1	GCFC2
+nucleolus	1	GCFC2
+U2-type post-mRNA release spliceosomal complex	1	GCFC2
+aldo-keto reductase (NADP) activity	1	KCNAB1
+voltage-gated potassium channel activity	1	KCNAB1
+potassium channel regulator activity	1	KCNAB1
+transmembrane transporter binding	1	KCNAB1
+NADPH binding	1	KCNAB1
+molecular function inhibitor activity	1	KCNAB1
+potassium ion transport	1	KCNAB1
+potassium ion transmembrane transport	1	KCNAB1
+ potassium ion transmembrane transport	1	KCNAB1
+ delayed rectifier potassium channel activity	1	KCNAB1
+negative regulation of delayed rectifier potassium channel activity	1	KCNAB1
+negative regulation of voltage-gated potassium channel activity	1	KCNAB1
+voltage-gated potassium channel complex	1	KCNAB1
+extrinsic component of cytoplasmic side of plasma membrane	1	KCNAB1
+potassium channel complex	1	KCNAB1
+juxtaparanode region of axon	1	KCNAB1
+microfilament motor activity	1	MYO1E
+cytoskeletal motor activity	1	MYO1E
+calmodulin binding	1	MYO1E
+ATP binding	1	MYO1E
+ATP hydrolysis activity	1	MYO1E
+phosphatidylinositol binding	1	MYO1E
+actin filament binding	1	MYO1E
+vasculogenesis	1	MYO1E
+in utero embryonic development	1	MYO1E
+glomerular filtration	1	MYO1E
+nitrogen compound metabolic process	1	MYO1E
+endocytosis	1	MYO1E
+actin filament organization	1	MYO1E
+vesicle transport along actin filament	1	MYO1E
+glomerular basement membrane development	1	MYO1E
+post-embryonic hemopoiesis	1	MYO1E
+platelet-derived growth factor receptor signaling pathway	1	MYO1E
+podocyte development	1	MYO1E
+cytoskeleton	1	MYO1E
+microvillus	1	MYO1E
+brush border	1	MYO1E
+adherens junction	1	MYO1E
+actin cytoskeleton	1	MYO1E
+myosin complex	1	MYO1E
+vesicle	1	MYO1E
+cuticular plate	1	MYO1E
+clathrin-coated endocytic vesicle	1	MYO1E
+extracellular exosome	1	MYO1E
+structural constituent of cytoskeleton	1	NEFL
+protein-macromolecule adaptor activity	1	NEFL
+identical protein binding	1	NEFL
+phospholipase binding	1	NEFL
+protein-containing complex binding	1	NEFL
+structural constituent of postsynaptic intermediate filament cytoskeleton	1	NEFL
+microtubule cytoskeleton organization	1	NEFL
+axonogenesis	1	NEFL
+anterograde axonal transport	1	NEFL
+retrograde axonal transport	1	NEFL
+response to toxic substance	1	NEFL
+peripheral nervous system axon regeneration	1	NEFL
+axonal transport of mitochondrion	1	NEFL
+spinal cord development	1	NEFL
+hippocampus development	1	NEFL
+cerebral cortex development	1	NEFL
+ axon diameter	1	NEFL
+neurofilament bundle assembly	1	NEFL
+locomotion	1	NEFL
+response to peptide hormone	1	NEFL
+intermediate filament polymerization or depolymerization	1	NEFL
+intermediate filament organization	1	NEFL
+ axonogenesis	1	NEFL
+neuromuscular process controlling balance	1	NEFL
+protein polymerization	1	NEFL
+response to corticosterone	1	NEFL
+neurofilament cytoskeleton organization	1	NEFL
+ synapse maturation	1	NEFL
+motor neuron apoptotic process	1	NEFL
+postsynaptic modulation of chemical synaptic transmission	1	NEFL
+postsynaptic intermediate filament cytoskeleton organization	1	NEFL
+response to sodium arsenite	1	NEFL
+response to acrylamide	1	NEFL
+negative regulation of motor neuron apoptotic process	1	NEFL
+intermediate filament	1	NEFL
+neurofilament	1	NEFL
+axon	1	NEFL
+growth cone	1	NEFL
+neuromuscular junction	1	NEFL
+Schaffer collateral - CA1 synapse	1	NEFL
+cholinergic synapse	1	NEFL
+postsynaptic intermediate filament cytoskeleton	1	NEFL
+presynaptic intermediate filament cytoskeleton	1	NEFL
+axon cytoplasm	1	NEFL
+transcription corepressor activity	1	TLE3
+signal transduction	1	TLE3
+animal organ morphogenesis	1	TLE3
+Wnt signaling pathway	1	TLE3
+negative regulation of canonical Wnt signaling pathway	1	TLE3
+negative regulation of cold-induced thermogenesis	1	TLE3
+transcription regulator complex	1	TLE3
+beta-catenin-TCF complex	1	TLE3

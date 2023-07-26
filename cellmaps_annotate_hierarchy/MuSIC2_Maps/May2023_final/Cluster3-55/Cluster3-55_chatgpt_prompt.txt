@@ -1,0 +1,27 @@
+Your response should be formatted as Markdown paragraphs
+Write a critical and concise analysis of this human protein system, describing your reasoning as you go and providing references to scientific papers.
+
+A critical goal of the analysis is to determine if this is a novel complex or if any proteins are novel members of a known complex
+
+Format with Title, Summary, and References sections.        
+Avoid overly general statements of how the proteins are involved in various cellular processes        
+Avoid repeating the goals of the analysis.
+
+What cellular components and complexes are involved in this system?
+What mechanisms and biological processes are performed by this system?
+Propose a name for the system to reflect the cellular location and function, and should be specific but brief. Do not compose an acronym. Place it as the title of your report
+Human Proteins: WDR44, RMDN2, CERT1, AFTPH, OSBPL10, MIGA2, OSBPL2.
+
+System features from GO terms: 
+protein binding: 7 proteins: WDR44, RMDN2, CERT1, AFTPH, OSBPL10, MIGA2, OSBPL2
+cytosol: 6 proteins: WDR44, RMDN2, CERT1, AFTPH, OSBPL10, OSBPL2
+Golgi apparatus: 4 proteins: WDR44, RMDN2, CERT1, AFTPH
+perinuclear region of cytoplasm: 3 proteins: WDR44, CERT1, AFTPH
+membrane: 3 proteins: RMDN2, OSBPL10, OSBPL2
+intracellular membrane-bounded organelle: 3 proteins: AFTPH, OSBPL10, OSBPL2
+mitochondrion: 2 proteins: RMDN2, CERT1
+intermembrane lipid transfer: 2 proteins: CERT1, OSBPL2
+nucleoplasm: 2 proteins: CERT1, AFTPH
+sterol transporter activity: 2 proteins: OSBPL10, OSBPL2
+cholesterol binding: 2 proteins: OSBPL10, OSBPL2
+phospholipid transport: 2 proteins: OSBPL10, OSBPL2

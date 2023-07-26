@@ -1,0 +1,305 @@
+Feature	Number of Genes	Genes
+protein binding	17	AZU1, TEX264, USP46, PIK3CD, PPM1B, MVK, AMDHD2, NDRG1, OTUB1, SLK, HS1BP3, ARHGAP1, MANF, NAA50, PITPNA, LAP3, CLTCL1
+cytosol	16	TEX264, USP46, PIK3CD, PPM1B, MVK, AMDHD2, NDRG1, AK1, OTUB1, SORD, SLK, ARHGAP1, MANF, NAA50, PITPNA, CLTCL1
+extracellular exosome	11	AZU1, NDRG1, AK1, OTUB1, SORD, SLK, ARHGAP1, NAA50, PITPNA, LAP3, CLTCL1
+nucleus	11	TEX264, USP46, PPM1B, AMDHD2, NDRG1, OTUB1, MANF, NAA50, PITPNA, LAP3, TRMT5
+cytoplasm	10	PIK3CD, NDRG1, AK1, SLK, ARHGAP1, PGP, NAA50, PITPNA, LAP3, TRMT5
+extracellular region	4	AZU1, CNN2, TEX264, MANF
+cadherin binding	4	CNN2, NDRG1, SLK, ARHGAP1
+membrane	4	CNN2, PPM1B, SORD, CLTCL1
+ATP binding	4	PIK3CD, MVK, AK1, SLK
+perinuclear region of cytoplasm	4	NDRG1, SLK, ARHGAP1, MANF
+positive regulation of gene expression	3	AZU1, CNN2, PIK3CD
+extracellular space	3	AZU1, SORD, MANF
+endoplasmic reticulum	3	TEX264, HS1BP3, MANF
+signal transduction	3	PIK3CD, NDRG1, MANF
+phosphorylation	3	PIK3CD, MVK, AK1
+plasma membrane	3	PIK3CD, NDRG1, CLTCL1
+magnesium ion binding	3	PPM1B, MVK, PGP
+identical protein binding	3	MVK, SORD, SLK
+peptidase activity	2	AZU1, LAP3
+proteolysis	2	AZU1, LAP3
+inflammatory response	2	AZU1, PIK3CD
+intracellular membrane-bounded organelle	2	AZU1, MVK
+UDP-N-acetylglucosamine biosynthetic process	2	UAP1L1, AMDHD2
+focal adhesion	2	CNN2, LAP3
+cysteine-type deubiquitinase activity	2	USP46, OTUB1
+metal ion binding	2	USP46, AMDHD2
+adaptive immune response	2	PIK3CD, OTUB1
+protein phosphorylation	2	PIK3CD, SLK
+manganese ion binding	2	PPM1B, LAP3
+nucleolus	2	PPM1B, NAA50
+small GTPase binding	2	NDRG1, ARHGAP1
+regulation of apoptotic process	2	SLK, HS1BP3
+phosphatidylinositol binding	2	HS1BP3, PITPNA
+mitochondrion	2	HS1BP3, GATD3
+sorting endosome	2	ARHGAP1, CLTCL1
+serine-type endopeptidase activity	1	AZU1
+heparin binding	1	AZU1
+toxic substance binding	1	AZU1
+heparan sulfate proteoglycan binding	1	AZU1
+microglial cell activation	1	AZU1
+protein kinase C-activating G protein-coupled receptor signaling pathway	1	AZU1
+glial cell migration	1	AZU1
+positive regulation of peptidyl-threonine phosphorylation	1	AZU1
+antimicrobial humoral response	1	AZU1
+positive regulation of fractalkine production	1	AZU1
+positive regulation of interleukin-1 beta production	1	AZU1
+positive regulation of tumor necrosis factor production	1	AZU1
+calcium-mediated signaling using intracellular calcium source	1	AZU1
+monocyte activation	1	AZU1
+negative regulation of apoptotic process	1	AZU1
+regulation of vascular permeability	1	AZU1
+cellular extravasation	1	AZU1
+positive regulation of MHC class II biosynthetic process	1	AZU1
+positive regulation of cell adhesion	1	AZU1
+positive regulation of protein kinase activity	1	AZU1
+macrophage chemotaxis	1	AZU1
+positive regulation of phagocytosis	1	AZU1
+defense response to Gram-negative bacterium	1	AZU1
+induction of positive chemotaxis	1	AZU1
+defense response to virus	1	AZU1
+cell chemotaxis	1	AZU1
+protein kinase C signaling	1	AZU1
+neutrophil-mediated killing of bacterium	1	AZU1
+extrinsic component of membrane	1	AZU1
+azurophil granule membrane	1	AZU1
+azurophil granule lumen	1	AZU1
+azurophil granule	1	AZU1
+UDP-N-acetylglucosamine diphosphorylase activity	1	UAP1L1
+actin binding	1	CNN2
+calmodulin binding	1	CNN2
+actin filament binding	1	CNN2
+phagocytosis	1	CNN2
+cytoskeleton organization	1	CNN2
+actin filament organization	1	CNN2
+hemopoiesis	1	CNN2
+actomyosin structure organization	1	CNN2
+regulation of actin filament-based process	1	CNN2
+wound healing	1	CNN2
+negative regulation of phagocytosis	1	CNN2
+establishment of localization in cell	1	CNN2
+regulation of leukocyte proliferation	1	CNN2
+cellular response to mechanical stimulus	1	CNN2
+macrophage migration	1	CNN2
+negative regulation of macrophage migration	1	CNN2
+stress fiber	1	CNN2
+cytoskeleton	1	CNN2
+cell-cell junction	1	CNN2
+actin cytoskeleton	1	CNN2
+specific granule lumen	1	CNN2
+tertiary granule lumen	1	CNN2
+signaling receptor activity	1	TEX264
+reticulophagy	1	TEX264
+protein-DNA covalent cross-linking repair	1	TEX264
+autophagosome membrane	1	TEX264
+replication fork	1	TEX264
+endoplasmic reticulum membrane	1	TEX264
+platelet alpha granule lumen	1	TEX264
+cysteine-type endopeptidase activity	1	USP46
+behavioral fear response	1	USP46
+ubiquitin-dependent protein catabolic process	1	USP46
+adult feeding behavior	1	USP46
+protein deubiquitination	1	USP46
+regulation of synaptic transmission, GABAergic	1	USP46
+behavioral response to ethanol	1	USP46
+righting reflex	1	USP46
+kinase activity	1	PIK3CD
+1-phosphatidylinositol-3-kinase activity	1	PIK3CD
+phosphatidylinositol 3-kinase activity	1	PIK3CD
+1-phosphatidylinositol-4-phosphate 3-kinase activity	1	PIK3CD
+phosphatidylinositol-4,5-bisphosphate 3-kinase activity	1	PIK3CD
+phosphatidylinositol-3,4-bisphosphate 5-kinase activity	1	PIK3CD
+natural killer cell differentiation	1	PIK3CD
+positive regulation of cytokine production	1	PIK3CD
+positive regulation of endothelial cell proliferation	1	PIK3CD
+mast cell chemotaxis	1	PIK3CD
+respiratory burst involved in defense response	1	PIK3CD
+immune response	1	PIK3CD
+positive regulation of endothelial cell migration	1	PIK3CD
+T cell chemotaxis	1	PIK3CD
+phosphatidylinositol 3-kinase signaling	1	PIK3CD
+cell migration	1	PIK3CD
+natural killer cell activation	1	PIK3CD
+B cell differentiation	1	PIK3CD
+T cell differentiation	1	PIK3CD
+positive regulation of cell migration	1	PIK3CD
+neutrophil chemotaxis	1	PIK3CD
+positive regulation of neutrophil apoptotic process	1	PIK3CD
+natural killer cell chemotaxis	1	PIK3CD
+B cell chemotaxis	1	PIK3CD
+phosphatidylinositol-3-phosphate biosynthetic process	1	PIK3CD
+positive regulation of cell migration by vascular endothelial growth factor signaling pathway	1	PIK3CD
+T cell activation	1	PIK3CD
+B cell activation	1	PIK3CD
+mast cell degranulation	1	PIK3CD
+innate immune response	1	PIK3CD
+positive regulation of angiogenesis	1	PIK3CD
+T cell receptor signaling pathway	1	PIK3CD
+B cell receptor signaling pathway	1	PIK3CD
+positive regulation of protein kinase B signaling	1	PIK3CD
+mast cell differentiation	1	PIK3CD
+neutrophil extravasation	1	PIK3CD
+positive regulation of epithelial tube formation	1	PIK3CD
+phosphatidylinositol 3-kinase complex	1	PIK3CD
+phosphatidylinositol 3-kinase complex, class IA	1	PIK3CD
+protein serine/threonine phosphatase activity	1	PPM1B
+myosin phosphatase activity	1	PPM1B
+protein dephosphorylation	1	PPM1B
+N-terminal protein myristoylation	1	PPM1B
+negative regulation of interferon-beta production	1	PPM1B
+peptidyl-threonine dephosphorylation	1	PPM1B
+negative regulation of I-kappaB kinase/NF-kappaB signaling	1	PPM1B
+negative regulation of defense response to virus	1	PPM1B
+positive regulation of canonical Wnt signaling pathway	1	PPM1B
+negative regulation of NIK/NF-kappaB signaling	1	PPM1B
+mevalonate kinase activity	1	MVK
+cholesterol biosynthetic process	1	MVK
+isoprenoid biosynthetic process	1	MVK
+isopentenyl diphosphate biosynthetic process, mevalonate pathway	1	MVK
+negative regulation of inflammatory response	1	MVK
+peroxisome	1	MVK
+N-acetylglucosamine-6-phosphate deacetylase activity	1	AMDHD2
+N-acetylgalactosamine-6-phosphate deacetylase activity	1	AMDHD2
+carbohydrate metabolic process	1	AMDHD2
+N-acetylglucosamine catabolic process	1	AMDHD2
+N-acetylneuraminate catabolic process	1	AMDHD2
+microtubule binding	1	NDRG1
+gamma-tubulin binding	1	NDRG1
+negative regulation of cell population proliferation	1	NDRG1
+response to metal ion	1	NDRG1
+DNA damage response, signal transduction by p53 class mediator	1	NDRG1
+peripheral nervous system myelin maintenance	1	NDRG1
+mast cell activation	1	NDRG1
+cellular response to hypoxia	1	NDRG1
+centrosome	1	NDRG1
+microtubule	1	NDRG1
+adherens junction	1	NDRG1
+microtubule cytoskeleton	1	NDRG1
+recycling endosome membrane	1	NDRG1
+adenylate kinase activity	1	AK1
+nucleoside diphosphate kinase activity	1	AK1
+nucleoside triphosphate adenylate kinase activity	1	AK1
+ADP biosynthetic process	1	AK1
+nucleoside triphosphate biosynthetic process	1	AK1
+nucleobase-containing small molecule interconversion	1	AK1
+AMP metabolic process	1	AK1
+ATP metabolic process	1	AK1
+nucleoside monophosphate phosphorylation	1	AK1
+outer dense fiber	1	AK1
+deNEDDylase activity	1	OTUB1
+ubiquitin protein ligase binding	1	OTUB1
+ubiquitin binding	1	OTUB1
+DNA repair	1	OTUB1
+DNA damage response	1	OTUB1
+protein K48-linked deubiquitination	1	OTUB1
+negative regulation of histone H2A K63-linked ubiquitination	1	OTUB1
+negative regulation of double-strand break repair	1	OTUB1
+nucleoplasm	1	OTUB1
+(R,R)-butanediol dehydrogenase activity	1	SORD
+L-iditol 2-dehydrogenase activity	1	SORD
+zinc ion binding	1	SORD
+carbohydrate binding	1	SORD
+D-xylulose reductase activity	1	SORD
+D-sorbitol dehydrogenase (acceptor) activity	1	SORD
+ribitol 2-dehydrogenase activity	1	SORD
+NAD binding	1	SORD
+glucose metabolic process	1	SORD
+sorbitol catabolic process	1	SORD
+response to osmotic stress	1	SORD
+response to xenobiotic stimulus	1	SORD
+response to hormone	1	SORD
+glucuronate catabolic process to xylulose 5-phosphate	1	SORD
+flagellated sperm motility	1	SORD
+response to nutrient levels	1	SORD
+fructose biosynthetic process	1	SORD
+response to cadmium ion	1	SORD
+response to copper ion	1	SORD
+L-xylitol catabolic process	1	SORD
+L-xylitol metabolic process	1	SORD
+motile cilium	1	SORD
+mitochondrial membrane	1	SORD
+protein serine/threonine kinase activity	1	SLK
+protein homodimerization activity	1	SLK
+protein serine kinase activity	1	SLK
+apoptotic process	1	SLK
+regulation of cell migration	1	SLK
+cytoplasmic microtubule organization	1	SLK
+protein autophosphorylation	1	SLK
+regulation of focal adhesion assembly	1	SLK
+cell leading edge	1	SLK
+GTPase activator activity	1	ARHGAP1
+SH3 domain binding	1	ARHGAP1
+small GTPase mediated signal transduction	1	ARHGAP1
+Rho protein signal transduction	1	ARHGAP1
+endosomal transport	1	ARHGAP1
+transferrin transport	1	ARHGAP1
+regulation of small GTPase mediated signal transduction	1	ARHGAP1
+negative regulation of endocytic recycling	1	ARHGAP1
+endosome membrane	1	ARHGAP1
+RNA binding	1	MANF
+growth factor activity	1	MANF
+sulfatide binding	1	MANF
+response to unfolded protein	1	MANF
+neuron projection development	1	MANF
+dopaminergic neuron differentiation	1	MANF
+regulation of response to endoplasmic reticulum stress	1	MANF
+endoplasmic reticulum lumen	1	MANF
+sarcoplasmic reticulum lumen	1	MANF
+glycerol-1-phosphatase activity	1	PGP
+protein tyrosine phosphatase activity	1	PGP
+phosphoglycolate phosphatase activity	1	PGP
+glycerol-3-phosphatase activity	1	PGP
+ADP phosphatase activity	1	PGP
+glycerol biosynthetic process	1	PGP
+glycerophospholipid metabolic process	1	PGP
+negative regulation of gluconeogenesis	1	PGP
+peptide alpha-N-acetyltransferase activity	1	NAA50
+histone H4 acetyltransferase activity	1	NAA50
+peptidyl-lysine acetyltransferase activity	1	NAA50
+chromatin remodeling	1	NAA50
+N-terminal protein amino acid acetylation	1	NAA50
+mitotic sister chromatid cohesion	1	NAA50
+establishment of mitotic sister chromatid cohesion	1	NAA50
+mitotic sister chromatid cohesion, centromeric	1	NAA50
+NatA complex	1	NAA50
+fatty-acyl-CoA binding	1	PITPNA
+lipid binding	1	PITPNA
+phosphatidylcholine transporter activity	1	PITPNA
+phosphatidylinositol transfer activity	1	PITPNA
+phosphatidylcholine binding	1	PITPNA
+stearic acid binding	1	PITPNA
+phosphatidylcholine transfer activity	1	PITPNA
+phosphatidylglycerol binding	1	PITPNA
+lipid metabolic process	1	PITPNA
+visual perception	1	PITPNA
+phospholipid transport	1	PITPNA
+intermembrane lipid transfer	1	PITPNA
+aminopeptidase activity	1	LAP3
+carboxypeptidase activity	1	LAP3
+metalloexopeptidase activity	1	LAP3
+metalloaminopeptidase activity	1	LAP3
+structural molecule activity	1	CLTCL1
+clathrin light chain binding	1	CLTCL1
+mitotic cell cycle	1	CLTCL1
+intracellular protein transport	1	CLTCL1
+receptor-mediated endocytosis	1	CLTCL1
+anatomical structure morphogenesis	1	CLTCL1
+retrograde transport, endosome to Golgi	1	CLTCL1
+positive regulation of glucose import	1	CLTCL1
+early endosome	1	CLTCL1
+late endosome	1	CLTCL1
+trans-Golgi network	1	CLTCL1
+spindle	1	CLTCL1
+clathrin-coated pit	1	CLTCL1
+clathrin coat of trans-Golgi network vesicle	1	CLTCL1
+coated vesicle	1	CLTCL1
+clathrin-coated vesicle	1	CLTCL1
+clathrin-coated endocytic vesicle	1	CLTCL1
+recycling endosome	1	CLTCL1
+clathrin complex	1	CLTCL1
+tRNA (guanine-N1-)-methyltransferase activity	1	TRMT5
+tRNA (guanine(37)-N(1))-methyltransferase activity	1	TRMT5
+tRNA N1-guanine methylation	1	TRMT5
+mitochondrial tRNA methylation	1	TRMT5
+mitochondrial matrix	1	TRMT5

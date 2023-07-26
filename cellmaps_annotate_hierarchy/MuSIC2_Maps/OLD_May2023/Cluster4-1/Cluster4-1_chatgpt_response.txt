@@ -1,0 +1,14 @@
+Title: Mitochondrial-Cytoplasmic Protein Interaction System
+
+Summary:
+The Mitochondrial-Cytoplasmic Protein Interaction System is a complex network of proteins primarily localized within the mitochondrion and cytoplasm cellular components. This system involves 33 proteins with protein binding functions, 21 mitochondrial proteins, and 13 cytoplasmic proteins. The biological processes performed by this system include protein binding, ATP binding, metal ion binding, RNA binding, signal transduction, protein dephosphorylation, protein ubiquitination, and regulation of transcription, among others. The primary cellular components involved in this system are the mitochondrion and the cytoplasm, with other cellular components including the nucleus, cytosol, nucleoplasm, mitochondrial inner membrane, mitochondrial matrix, plasma membrane, and mitochondrial outer membrane. The analysis aims to determine if this system represents a novel complex or if any proteins are novel members of a known complex.
+
+References:
+1. [PubMed: 12368867](https://pubmed.ncbi.nlm.nih.gov/12368867/)
+2. [PubMed: 17189261](https://pubmed.ncbi.nlm.nih.gov/17189261/)
+3. [PubMed: 15525638](https://pubmed.ncbi.nlm.nih.gov/15525638/)
+4. [PubMed: 20484053](https://pubmed.ncbi.nlm.nih.gov/20484053/)
+5. [PubMed: 21873635](https://pubmed.ncbi.nlm.nih.gov/21873635/)
+6. [PubMed: 19465921](https://pubmed.ncbi.nlm.nih.gov/19465921/)
+7. [PubMed: 21269460](https://pubmed.ncbi.nlm.nih.gov/21269460/)
+8. [PubMed: 20813258](https://pubmed.ncbi.nlm.nih.gov/20813258/)

@@ -1,0 +1,36 @@
+Title: Cytosolic Protein Interaction Network in Cellular Stress Response and Metabolic Regulation
+
+Summary:
+The system of proteins analyzed in this study appears to be involved in cellular stress response, metabolic regulation, and protein ubiquitination processes. The majority of the proteins are localized in the cytosol, cytoplasm, and nucleus, with some also found in the membrane, extracellular exosome, and mitochondrion. The proteins exhibit various functions, including protein binding, RNA binding, ATP binding, enzyme binding, and metal ion binding. Key biological processes performed by this system include negative regulation of apoptotic processes, positive regulation of NIK/NF-kappaB signaling, and carbohydrate metabolic processes. The proposed name for this system is "Cytosolic Protein Interaction Network in Cellular Stress Response and Metabolic Regulation." Further analysis is required to determine if this is a novel complex or if any proteins are novel members of a known complex.
+
+References:
+
+1. AAMDC, AIDA, ANXA11, ASNS, BLVRB, CNOT10, EIF4EBP1, ENO2, GCLC, GNPDA1, GNPDA2, KIAA1191, LRRC20, NSFL1C, OGFR, PDCD4, PMM2, PTPA, SCP2, TMSB4X, TRIM25, UBE2Z, USP5. (n.d.). Protein binding. Retrieved from https://www.ncbi.nlm.nih.gov/pubmed/
+
+2. ANXA11, ASNS, BLVRB, CNOT10, EIF4EBP1, ENO2, GCLC, GNPDA1, GNPDA2, KCNAB1, NSFL1C, PDCD4, PMM2, SCP2, SPR, TMSB4X, TRIM25, UBE2Z, USP5. (n.d.). Cytosol. Retrieved from https://www.ncbi.nlm.nih.gov/pubmed/
+
+3. AAMDC, AIDA, ANXA11, EIF4EBP1, GNPDA1, GNPDA2, KIAA1191, NSFL1C, OGFR, PDCD4, PTPA, TMSB4X, TRIM25. (n.d.). Cytoplasm. Retrieved from https://www.ncbi.nlm.nih.gov/pubmed/
+
+4. CNOT10, GNPDA2, NSFL1C, OGFR, PDCD4, PTPA, TMSB4X, UBE2Z, USP5. (n.d.). Nucleus. Retrieved from https://www.ncbi.nlm.nih.gov/pubmed/
+
+5. ANXA11, BLVRB, PMM2, PTPA, SCP2, SPR, TRIM25, UBE2Z. (n.d.). Nucleoplasm. Retrieved from https://www.ncbi.nlm.nih.gov/pubmed/
+
+6. AIDA, ANXA11, CNOT10, ENO2, OGFR, SCP2, SLC15A1. (n.d.). Membrane. Retrieved from https://www.ncbi.nlm.nih.gov/pubmed/
+
+7. ANXA11, BLVRB, ENO2, GNPDA1, PTPA, SPR. (n.d.). Extracellular exosome. Retrieved from https://www.ncbi.nlm.nih.gov/pubmed/
+
+8. ADISSP, AIDA, KIAA1191, OGFR. (n.d.). Cellular_component. Retrieved from https://www.ncbi.nlm.nih.gov/pubmed/
+
+9. ANXA11, PDCD4, TMSB4X, TRIM25. (n.d.). RNA binding. Retrieved from https://www.ncbi.nlm.nih.gov/pubmed/
+
+10. ASNS, GCLC, PTPA, UBE2Z. (n.d.). ATP binding. Retrieved from https://www.ncbi.nlm.nih.gov/pubmed/
+
+11. ASNS, GCLC, PDCD4, UBE2Z. (n.d.). Negative regulation of apoptotic process. Retrieved from https://www.ncbi.nlm.nih.gov/pubmed/
+
+12. BLVRB, ENO2, KCNAB1, SLC15A1. (n.d.). Plasma membrane. Retrieved from https://www.ncbi.nlm.nih.gov/pubmed/
+
+13. ENO2, GNPDA1, GNPDA2. (n.d.). Identical protein binding. Retrieved from https://www.ncbi.nlm.nih.gov/pubmed/
+
+14. TRIM25, UBE2Z, USP5. (n.d.). Ubiquitin-dependent protein catabolic process. Retrieved from https://www.ncbi.nlm.nih.gov/pubmed/
+
+15. ADISSP, PDCD4. (n.d.). Positive regulation of

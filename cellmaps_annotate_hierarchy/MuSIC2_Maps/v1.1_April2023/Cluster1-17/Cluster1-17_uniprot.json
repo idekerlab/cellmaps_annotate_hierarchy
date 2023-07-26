@@ -1,0 +1,453 @@
+{
+    "CDCA5": {
+        "UniProtKB_ID": "CDCA5_HUMAN",
+        "Description": "Sororin",
+        "GO": [
+            "chromatin",
+            "chromosome",
+            "chromosome, centromeric region",
+            "cytoplasm",
+            "cytosol",
+            "nucleoplasm",
+            "nucleus",
+            "chromatin binding",
+            "protein-containing complex binding",
+            "cell division",
+            "double-strand break repair",
+            "mitotic cell cycle",
+            "mitotic chromosome condensation",
+            "mitotic metaphase plate congression",
+            "mitotic sister chromatid cohesion",
+            "positive regulation of exit from mitosis",
+            "regulation of cohesin loading"
+        ],
+        "Location": [
+            "cytoplasm",
+            "nucleus",
+            "chromosome"
+        ],
+        "Disease": [],
+        "Disease_description": [],
+        "Complexes": [
+            "Interacts with the APC/C complex (By similarity). Interacts with the chromatin-bound cohesin complex; the interaction is indirect, occurs after DNA replication and requires acetylation of the cohesin component SMC3. Interacts (via the FGF motif) with PDS5A and PDS5B; the interaction is direct and prevents the interaction of PDS5A with WAPL"
+        ]
+    },
+    "DBR1": {
+        "UniProtKB_ID": "DBR1_HUMAN",
+        "Description": "Lariat debranching enzyme",
+        "GO": [
+            "nucleoplasm",
+            "nucleus",
+            "metal ion binding",
+            "RNA binding",
+            "RNA lariat debranching enzyme activity",
+            "mRNA splicing, via spliceosome",
+            "RNA splicing, via transesterification reactions"
+        ],
+        "Location": [
+            "nucleus"
+        ],
+        "Disease": [
+            "Encephalitis",
+            "Disease variant"
+        ],
+        "Disease_description": [
+            "Encephalitis: An autosomal recessive disorder characterized by increased susceptibility to viral encephalitis affecting the brainstem and induced by neurotropic viruses, such as herpes simplex virus-1, influenza B virus or norovirus."
+        ],
+        "Complexes": []
+    },
+    "MPLKIP": {
+        "UniProtKB_ID": "MPLKI_HUMAN",
+        "Description": "M-phase-specific PLK1-interacting protein",
+        "GO": [
+            "centrosome",
+            "cytoplasm",
+            "Golgi apparatus",
+            "intracellular membrane-bounded organelle",
+            "midbody",
+            "nucleoplasm",
+            "nucleus",
+            "cell cycle",
+            "cell division"
+        ],
+        "Location": [
+            "nucleus",
+            "centrosome",
+            "microtubule organizing center",
+            "cytoplasm",
+            "cytoskeleton"
+        ],
+        "Disease": [
+            "Trichothiodystrophy 4",
+            "Disease variant"
+        ],
+        "Disease_description": [
+            "Trichothiodystrophy 4: A form of trichothiodystrophy, an autosomal recessive disease characterized by sulfur-deficient brittle hair and multisystem variable abnormalities. The spectrum of clinical features varies from mild disease with only hair involvement to severe disease with cutaneous, neurologic and profound developmental defects. Ichthyosis, intellectual and developmental disabilities, decreased fertility, abnormal characteristics at birth, ocular abnormalities, short stature, and infections are common manifestations. There are both photosensitive and non-photosensitive forms of the disorder. TTD4 patients do not manifest cutaneous photosensitivity."
+        ],
+        "Complexes": [
+            "Interacts with PLK1; phosphorylation-dependent"
+        ]
+    },
+    "MYCBP2": {
+        "UniProtKB_ID": "MYCB2_HUMAN",
+        "Description": "E3 ubiquitin-protein ligase MYCBP2",
+        "GO": [
+            "axon",
+            "cytosol",
+            "intracellular membrane-bounded organelle",
+            "membrane",
+            "microtubule cytoskeleton",
+            "nucleoplasm",
+            "nucleus",
+            "plasma membrane",
+            "guanyl-nucleotide exchange factor activity",
+            "identical protein binding",
+            "small GTPase binding",
+            "ubiquitin protein ligase activity",
+            "zinc ion binding",
+            "axon guidance",
+            "branchiomotor neuron axon guidance",
+            "central nervous system projection neuron axonogenesis",
+            "circadian regulation of gene expression",
+            "negative regulation of protein catabolic process",
+            "neuromuscular process",
+            "positive regulation of protein ubiquitination",
+            "protein ubiquitination",
+            "regulation of axon guidance",
+            "regulation of cytoskeleton organization",
+            "regulation of protein localization",
+            "regulation of synaptic assembly at neuromuscular junction"
+        ],
+        "Location": [
+            "nucleus",
+            "axon",
+            "cytoplasm",
+            "cytoskeleton",
+            "cell projection"
+        ],
+        "Disease": [],
+        "Disease_description": [],
+        "Complexes": [
+            "Interacts with MYC (PubMed:9689053). Interacts with TSC2 (tuberin) when TSC2 is in complex with TSC1 (hamartin) (PubMed:14559897). Interacts with FBXO45 (PubMed:19398581). Interacts with RAE1 (PubMed:22357847). Interacts with CPNE1 (via VWFA domain) and CPNE4 (via VWFA domain) (By similarity). Interacts with (sumoylated) RANGAP1; interaction with sumoylated RANGAP1 inhibits E3 ubiquitin-protein ligase activity and promotes MYCBP2 translocation to the nucleus (PubMed:26304119). Interacts with RAN (PubMed:26304119).Interacts with ATP13A2; the interaction inhibits the ubiquitination of TSC2 by MYCBP2 (PubMed:27278822). Interacts with USP11 (PubMed:29293652)"
+        ]
+    },
+    "PDS5B": {
+        "UniProtKB_ID": "PDS5B_HUMAN",
+        "Description": "Sister chromatid cohesion protein PDS5 homolog B",
+        "GO": [
+            "chromatin",
+            "chromosome",
+            "chromosome, centromeric region",
+            "cytosol",
+            "nucleoplasm",
+            "nucleus",
+            "DNA binding",
+            "cell division",
+            "cell population proliferation",
+            "mitotic sister chromatid cohesion",
+            "negative regulation of cell population proliferation",
+            "regulation of cell population proliferation"
+        ],
+        "Location": [
+            "nucleus"
+        ],
+        "Disease": [],
+        "Disease_description": [],
+        "Complexes": [
+            "Interacts with the cohesin complex. Interacts with RAD21; the interaction is direct. Interacts with WAPL (via FGF motifs) or CDCA5 (via the FGF motif); the interaction is direct, cohesin-dependent and competitive (Probable)"
+        ]
+    },
+    "PMEPA1": {
+        "UniProtKB_ID": "PMEPA_HUMAN",
+        "Description": "Protein TMEPAI",
+        "GO": [
+            "early endosome membrane",
+            "endosome membrane",
+            "Golgi membrane",
+            "intracellular membrane-bounded organelle",
+            "membrane",
+            "plasma membrane",
+            "R-SMAD binding",
+            "WW domain binding",
+            "androgen receptor signaling pathway",
+            "negative regulation of pathway-restricted SMAD protein phosphorylation",
+            "negative regulation of SMAD protein complex assembly",
+            "negative regulation of transforming growth factor beta receptor signaling pathway"
+        ],
+        "Location": [
+            "early endosome membrane",
+            "endosome",
+            "golgi apparatus membrane",
+            "membrane",
+            "golgi apparatus"
+        ],
+        "Disease": [],
+        "Disease_description": [],
+        "Complexes": [
+            "Interacts with NEDD4 (via PPxY motifs). Interacts with AR. Interacts with LDLRAD4. Interacts (via the SMAD interaction motif) with SMAD2 and SMAD3"
+        ]
+    },
+    "RAD21": {
+        "UniProtKB_ID": "RAD21_HUMAN",
+        "Description": "Double-strand-break repair protein rad21 homolog",
+        "GO": [
+            "chromatin",
+            "chromosome",
+            "chromosome, centromeric region",
+            "cohesin complex",
+            "condensed nuclear chromosome",
+            "cytosol",
+            "membrane",
+            "midbody",
+            "nuclear matrix",
+            "nucleoplasm",
+            "nucleus",
+            "spindle pole",
+            "chromatin binding",
+            "DNA binding",
+            "apoptotic process",
+            "cell division",
+            "chromatin looping",
+            "DNA recombination",
+            "double-strand break repair",
+            "establishment of meiotic sister chromatid cohesion",
+            "establishment of mitotic sister chromatid cohesion",
+            "negative regulation of G2/M transition of mitotic cell cycle",
+            "negative regulation of mitotic metaphase/anaphase transition",
+            "positive regulation of sister chromatid cohesion",
+            "protein localization to chromatin",
+            "reciprocal meiotic recombination",
+            "regulation of transcription by RNA polymerase II",
+            "replication-born double-strand break repair via sister chromatid exchange",
+            "sister chromatid cohesion"
+        ],
+        "Location": [
+            "nucleus",
+            "chromosome",
+            "spindle pole",
+            "centromere",
+            "cytoplasm",
+            "cytosol",
+            "cytoskeleton",
+            "nucleus matrix"
+        ],
+        "Disease": [
+            "Cornelia de Lange syndrome 4 with or without midline brain defects",
+            "Mungan syndrome",
+            "Disease variant",
+            "Intellectual disability"
+        ],
+        "Disease_description": [
+            "Cornelia de Lange syndrome 4 with or without midline brain defects: A form of Cornelia de Lange syndrome, a clinically heterogeneous developmental disorder associated with malformations affecting multiple systems. It is characterized by facial dysmorphisms, abnormal hands and feet, growth delay, cognitive retardation, hirsutism, gastroesophageal dysfunction and cardiac, ophthalmologic and genitourinary anomalies.",
+            "Mungan syndrome: An autosomal recessive disease characterized by visceral neuromyopathy, intestinal dysmotility and chronic intestinal pseudoobstruction, megaduodenum, long-segment Barrett esophagus, and a variety of cardiac valve or septal defects such as membranous ventricular septal defect, pulmonary and tricuspid valve regurgitation."
+        ],
+        "Complexes": [
+            "Component of the cohesin complex, which consists of an SMC1A/B and SMC3 heterodimer core and 2 non-Smc subunits RAD21 and STAG1/SA1, STAG2/SA2 or STAG3/SA3 (PubMed:10931856, PubMed:11590136, PubMed:22628566, PubMed:25575569, PubMed:32409525). Interacts (via C-terminus) with SMC1A and (via N-terminus) with SMC3; these interactions are direct (PubMed:12198550, PubMed:32409525). The cohesin complex interacts with NUMA1 (PubMed:11590136). The cohesin complex also interacts with CDCA5, PDS5A and PDS5B; this interaction might regulate the ability of the cohesin complex to mediate sister chromatid cohesion (PubMed:15837422). The interaction with PDS5B is direct and is stimulated by STAG1/SA1 (PubMed:19696148). The cohesin complex interacts with the cohesin loading complex subunits NIPBL/Scc2 (via HEAT repeats) and MAU2/Scc4 (PubMed:22628566). NIPBL directly contacts all members of the complex, RAD21, SMC1A/B, SMC3 and STAG1 (PubMed:32409525). The cohesin complex interacts with DDX11/ChIR1 (PubMed:17105772). Directly interacts with WAPL; this interaction is stimulated by STAG1/SA1 (PubMed:19696148). Interacts with the ISWI chromatin remodeling complex component SMARCA5/SNF2h; the interaction is direct (PubMed:12198550). Interacts with the NuRD complex component CHD4; the interaction is direct (PubMed:12198550)"
+        ]
+    },
+    "SMC1A": {
+        "UniProtKB_ID": "SMC1A_HUMAN",
+        "Description": "Structural maintenance of chromosomes protein 1A",
+        "GO": [
+            "chromosome",
+            "chromosome, centromeric region",
+            "cohesin complex",
+            "condensed nuclear chromosome",
+            "cytosol",
+            "kinetochore",
+            "meiotic cohesin complex",
+            "mitotic spindle pole",
+            "nuclear matrix",
+            "nucleoplasm",
+            "nucleus",
+            "ATP binding",
+            "ATP hydrolysis activity",
+            "chromatin binding",
+            "DNA binding",
+            "mediator complex binding",
+            "protein heterodimerization activity",
+            "RNA binding",
+            "cell division",
+            "DNA repair",
+            "establishment of meiotic sister chromatid cohesion",
+            "establishment of mitotic sister chromatid cohesion",
+            "meiotic cell cycle",
+            "mitotic sister chromatid cohesion",
+            "mitotic sister chromatid segregation",
+            "mitotic spindle assembly",
+            "response to DNA damage checkpoint signaling",
+            "response to radiation",
+            "sister chromatid cohesion",
+            "somatic stem cell population maintenance"
+        ],
+        "Location": [
+            "centromere",
+            "nucleus",
+            "chromosome",
+            "kinetochore"
+        ],
+        "Disease": [
+            "Cornelia de Lange syndrome 2",
+            "Developmental and epileptic encephalopathy 85 with or without midline brain defects",
+            "Disease variant",
+            "Epilepsy",
+            "Intellectual disability"
+        ],
+        "Disease_description": [
+            "Cornelia de Lange syndrome 2: A form of Cornelia de Lange syndrome, a clinically heterogeneous developmental disorder associated with malformations affecting multiple systems. Characterized by facial dysmorphisms, abnormal hands and feet, growth delay, cognitive retardation, hirsutism, gastroesophageal dysfunction and cardiac, ophthalmologic and genitourinary anomalies.",
+            "Developmental and epileptic encephalopathy 85 with or without midline brain defects: An X-linked form of epileptic encephalopathy, a heterogeneous group of severe early-onset epilepsies characterized by refractory seizures, neurodevelopmental impairment, and poor prognosis. Development is normal prior to seizure onset, after which cognitive and motor delays become apparent. DEE85 is characterized by onset of severe refractory seizures in the first year of life, global developmental delay with impaired intellectual development and poor or absent speech, and dysmorphic facial features. Many patients have midline brain defects on brain imaging."
+        ],
+        "Complexes": [
+            "Forms a heterodimer with SMC3 in cohesin complexes (PubMed:22628566). Cohesin complexes are composed of the SMC1 (SMC1A or SMC1B) and SMC3 heterodimer attached via their SMC hinge domain, RAD21 which link them, and one STAG protein (STAG1, STAG2 or STAG3), which interacts with RAD21 (PubMed:11076961, PubMed:22628566, PubMed:32409525). In germ cell cohesin complexes, SMC1A is mutually exclusive with SMC1B (By similarity). Interacts with BRCA1 (PubMed:11877377). Found in a complex with CDCA5, SMC3 and RAD21, PDS5A/SCC-112 and PDS5B/APRIN (PubMed:15837422). Interacts with NDC80 (PubMed:9295362, PubMed:10409732). Interacts with BRAT1 (PubMed:22977523). Found in a complex containing POLE and SMC3. Interacts with RPGR, STAG3 and SYCP2 (By similarity). The cohesin complex interacts with the cohesin loading complex subunits NIPBL/Scc2 (via HEAT repeats) and MAU2/Scc4 (PubMed:22628566). NIPBL directly contacts all members of the complex, RAD21, SMC1A/B, SMC3 and STAG1 (PubMed:22628566, PubMed:32409525)"
+        ]
+    },
+    "SMC3": {
+        "UniProtKB_ID": "SMC3_HUMAN",
+        "Description": "Structural maintenance of chromosomes protein 3",
+        "GO": [
+            "chromatin",
+            "chromosome",
+            "chromosome, centromeric region",
+            "cohesin complex",
+            "cytosol",
+            "lateral element",
+            "meiotic cohesin complex",
+            "mitotic spindle pole",
+            "nuclear matrix",
+            "nucleoplasm",
+            "nucleus",
+            "ATP binding",
+            "ATP hydrolysis activity",
+            "beta-tubulin binding",
+            "chromatin binding",
+            "cohesin loader activity",
+            "double-stranded DNA binding",
+            "dynein complex binding",
+            "mediator complex binding",
+            "microtubule motor activity",
+            "protein heterodimerization activity",
+            "cell division",
+            "DNA repair",
+            "establishment of meiotic sister chromatid cohesion",
+            "establishment of mitotic sister chromatid cohesion",
+            "meiotic cell cycle",
+            "mitotic cell cycle",
+            "mitotic sister chromatid cohesion",
+            "mitotic spindle assembly",
+            "regulation of DNA replication",
+            "sister chromatid cohesion",
+            "stem cell population maintenance"
+        ],
+        "Location": [
+            "centromere",
+            "nucleus",
+            "chromosome"
+        ],
+        "Disease": [
+            "Cornelia de Lange syndrome 3 with or without midline brain defects",
+            "Disease variant",
+            "Intellectual disability"
+        ],
+        "Disease_description": [
+            "Cornelia de Lange syndrome 3 with or without midline brain defects: A form of Cornelia de Lange syndrome, a clinically heterogeneous developmental disorder associated with malformations affecting multiple systems. Characterized by facial dysmorphisms, abnormal hands and feet, growth delay, cognitive retardation, hirsutism, gastroesophageal dysfunction and cardiac, ophthalmologic and genitourinary anomalies. Cornelia de Lange syndrome type 3 is a mild form with absence of major structural anomalies. The phenotype in some instances approaches that of apparently non-syndromic intellectual disability."
+        ],
+        "Complexes": [
+            "Forms a heterodimer with SMC1A or SMC1B in cohesin complexes (PubMed:22628566). Cohesin complexes are composed of the SMC1 (SMC1A or SMC1B) and SMC3 heterodimer attached via their SMC hinge domain, RAD21 which link them, and one STAG protein (STAG1, STAG2 or STAG3), which interacts with RAD21 (PubMed:32409525). Also found in meiosis-specific cohesin complexes (PubMed:11076961). Found in a complex with SMC1A, CDCA5 and RAD21, PDS5A/SCC-112 and PDS5B/APRIN (PubMed:15837422). Interacts with NUMA1, and forms a ternary complex with KIF3B and KIFAP3, suggesting a function in tethering the chromosomes to the spindle pole and in chromosome movement (PubMed:9506951, PubMed:11590136). Interacts with PDS5A and WAPL; regulated by SMC3 acetylation (PubMed:19907496). Interacts (via SMC hinge domain) with KIAA1328 (via N- and C-terminal domains) (PubMed:15656913). Interacts with DDX11 (PubMed:17105772). Found in a cohesin complex with SMC1A, STAG1 and RAD21 (PubMed:22628566). The cohesin complex interacts with the cohesin loading complex subunits NIPBL/Scc2 (via HEAT repeats) and MAU2/Scc4 (PubMed:22628566). NIPBL directly contacts all members of the complex, RAD21, SMC1A/B, SMC3 and STAG1 (PubMed:22628566, PubMed:32409525). Interacts with MXI1, MXD3, MXD4, SYCP2, RPGR and STAG3 (By similarity). Interacts with the NuRD complex component HDAC2; the interaction is direct (PubMed:12198550)"
+        ]
+    },
+    "SPATA20": {
+        "UniProtKB_ID": "SPT20_HUMAN",
+        "Description": "Spermatogenesis-associated protein 20",
+        "GO": [
+            "extracellular region",
+            "carbohydrate metabolic process",
+            "cell differentiation",
+            "spermatogenesis"
+        ],
+        "Location": [
+            "secreted"
+        ],
+        "Disease": [],
+        "Disease_description": [],
+        "Complexes": []
+    },
+    "TSEN54": {
+        "UniProtKB_ID": "SEN54_HUMAN",
+        "Description": "tRNA-splicing endonuclease subunit Sen54",
+        "GO": [
+            "nucleolus",
+            "nucleoplasm",
+            "tRNA-intron endonuclease complex",
+            "mRNA processing",
+            "tRNA splicing, via endonucleolytic cleavage and ligation",
+            "tRNA-type intron splice site recognition and cleavage"
+        ],
+        "Location": [
+            "nucleolus",
+            "nucleus"
+        ],
+        "Disease": [
+            "Pontocerebellar hypoplasia 4",
+            "Pontocerebellar hypoplasia 2A",
+            "Pontocerebellar hypoplasia 5",
+            "Disease variant",
+            "Neurodegeneration",
+            "Pontocerebellar hypoplasia"
+        ],
+        "Disease_description": [
+            "Pontocerebellar hypoplasia 4: A disorder characterized by an abnormally small cerebellum and brainstem, severe neonatal encephalopathy, microcephaly, myoclonus and muscular hypertonia. There is a severe inferior olivary and pontine neuronal loss and a diffuse white matter gliosis.",
+            "Pontocerebellar hypoplasia 2A: A disorder characterized by an abnormally small cerebellum and brainstem, and progressive microcephaly from birth combined with extrapyramidal dyskinesia. Severe chorea occurs and epilepsy is frequent. There are no signs of spinal cord anterior horn cells degeneration.",
+            "Pontocerebellar hypoplasia 5: A form of pontocerebellar hypoplasia, a disorder characterized by structural defects of the pons and cerebellum. Brain MRI shows an abnormally small cerebellum and brainstem, decreased cerebral white matter, and a thin corpus callosum."
+        ],
+        "Complexes": [
+            "tRNA splicing endonuclease is a heterotetramer composed of TSEN2, TSEN15, TSEN34/LENG5 and TSEN54. tRNA splicing endonuclease complex also contains proteins of the pre-mRNA 3'-end processing machinery such as CLP1, CPSF1, CPSF4 and CSTF2. Also belongs to a complex containing isoform 2 of SEN2"
+        ]
+    },
+    "UBR4": {
+        "UniProtKB_ID": "UBR4_HUMAN",
+        "Description": "E3 ubiquitin-protein ligase UBR4",
+        "GO": [
+            "centrosome",
+            "cytosol",
+            "ficolin-1-rich granule membrane",
+            "membrane",
+            "nucleoplasm",
+            "plasma membrane",
+            "specific granule membrane",
+            "tertiary granule membrane",
+            "calmodulin binding",
+            "ubiquitin protein ligase activity",
+            "ubiquitin-protein transferase activity",
+            "zinc ion binding",
+            "ubiquitin-dependent protein catabolic process"
+        ],
+        "Location": [
+            "cytoplasm",
+            "nucleus",
+            "membrane",
+            "cytoskeleton"
+        ],
+        "Disease": [],
+        "Disease_description": [],
+        "Complexes": [
+            "Interacts with RB1 and calmodulin",
+            "(Microbial infection) Interacts with protein E7 from papilloma virus HPV-16, HPV-6B and HPV-11",
+            "(Microbial infection) Interacts with Rift valley fever virus glycoprotein N; this interaction is important for viral RNA production"
+        ]
+    },
+    "ZYG11B": {
+        "UniProtKB_ID": "ZY11B_HUMAN",
+        "Description": "Protein zyg-11 homolog B",
+        "GO": [
+            "Cul2-RING ubiquitin ligase complex",
+            "positive regulation of proteasomal ubiquitin-dependent protein catabolic process",
+            "protein quality control for misfolded or incompletely synthesized proteins"
+        ],
+        "Location": [],
+        "Disease": [],
+        "Disease_description": [],
+        "Complexes": [
+            "Interacts with ELOC/Elongin C. Part of an E3 ubiquitin ligase complex including ZYG11B, CUL2 and Elongin BC"
+        ]
+    }
+}

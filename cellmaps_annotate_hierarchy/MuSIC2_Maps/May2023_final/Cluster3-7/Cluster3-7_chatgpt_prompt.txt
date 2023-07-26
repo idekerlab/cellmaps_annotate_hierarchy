@@ -1,0 +1,16 @@
+Your response should be formatted as Markdown paragraphs
+This is a human protein system high in a cell hierarchy and has child systems connect to it as well as residual proteins only belong to this system. From the protein list and the knowledge of how these proteins cluster, write a critical and concise analysis of this human protein system. Describe your reasoning as you go and providing references to scientific papers.
+
+A critical goal of the analysis is to determine if this is a novel complex or if any proteins are novel members of a known complex
+
+Format with Title, Summary, and References sections.        
+Avoid overly general statements of how the proteins are involved in various cellular processes        
+Avoid recapitulating the goals of the analysis.
+
+What cellular components and complexes are involved in this system?
+What mechanisms and biological processes are performed by this system?
+Propose a name for the system to reflect the function and location, and should be specific but brief. Do not compose an acronym. Place it as the title of your report
+Human Protein List: 
+proteins only in this high level system: PDE2A, GPR180, CYP20A1, RHOBTB3, LTN1, XPO1, GEMIN4, NAA35, TSC2, TNPO3, DCUN1D5, EIF2B1, INTS12, SSTR2, UNC13D, EXOC2, HIP1R, EIF2B5, RAD51C, CUL9, TNPO2, COG3, HEATR5B, HOOK3, C3orf18, XPO6, ECD, EIF2B3, TBC1D8B, CIP2A, NUP133, RUFY1, KIF14, ZW10, IPO5, SPG11, SNX14, VPS51, AP5S1, ATXN10, IRF9, EID1, FANCD2, LRRC1, RGP1, TTI2, VPS8, PLAA, EEF1E1, UNC45A, KNTC1, VPS50, C19orf38, TELO2, NCDN, EXOC7, EIF2B2, TBC1D9, SNF8, IPO9, FRYL, SRGAP2, UCKL1, IGSF8, MAD2L2, UMPS, EFNB1, RIGI, TBC1D9B, SNX25.
+proteins in child system Cluster4-2: TONSL, TFIP11, TXNRD1, RB1, WASHC5, INTS8, AP5Z1, CD226, NCAPD3, RUFY2, SMG1, ARMCX3, INIP, ZMYM1, NUP37, SPAST, PDS5B, AP5B1, ATRIP, BRAT1, BTAF1, CERS5, COG6, CYP2S1, DCK, DERA, DNAAF5, DOCK1, DOP1B, DPY19L1, ELFN1, ERAP1, EVI5L, EXOC6, FAM114A2, FAM200C, FAM241B, FANCA, FAXC, FBXL3, FHIP2B, FZD10, GBA2, GPR17, HEATR3, HTT, IPO11, IPO7, IPO8, LMBRD2, MEN1, MLST8, MON2, NABP2, NBEAL1, NCAPG2, NR2F1, NUP85, OGG1, ORC5, PDS5A, PEX3, PPP2R5D, PPP4R1, RANBP6, RDH10, RIMOC1, SETX, SGPP1, SLC34A2, SMG8, SREBF2, SRR, TAPT1, TBC1D22B, TEX2, TEX261, TMEM184A, TNPO1, TSPAN2, TTC12, TTI1, USP24, USP34, VAC14, VEZT, VPS33A, WAPL, XPO4, XPO5, XPOT.
+proteins in child system Cluster1-14: TFIP11, WASHC5, INTS8, AP5Z1, CD226, EPG5, GADD45A, NCAPD3, PI4KA, RUFY2, SMG1.

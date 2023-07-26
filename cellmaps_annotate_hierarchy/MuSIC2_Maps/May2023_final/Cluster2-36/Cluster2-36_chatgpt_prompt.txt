@@ -1,0 +1,35 @@
+Your response should be formatted as Markdown paragraphs
+Write a critical and concise analysis of this human protein system, describing your reasoning as you go and providing references to scientific papers.
+
+A critical goal of the analysis is to determine if this is a novel complex or if any proteins are novel members of a known complex
+
+Format with Title, Summary, and References sections.        
+Avoid overly general statements of how the proteins are involved in various cellular processes        
+Avoid repeating the goals of the analysis.
+
+What cellular components and complexes are involved in this system?
+What mechanisms and biological processes are performed by this system?
+Propose a name for the system to reflect the cellular location and function, and should be specific but brief. Do not compose an acronym. Place it as the title of your report
+Human Proteins: POP4, SIRT1, RPP25L, XDH, RPP38, RPP14, RPP40, POP7, RPP25, C18orf21, POP1, POP5, RPP30.
+
+System features from GO terms: 
+protein binding: 12 proteins: POP4, SIRT1, RPP25L, XDH, RPP38, RPP14, RPP40, POP7, RPP25, POP1, POP5, RPP30
+tRNA 5'-leader removal: 10 proteins: POP4, RPP25L, RPP38, RPP14, RPP40, POP7, RPP25, POP1, POP5, RPP30
+nucleoplasm: 10 proteins: POP4, SIRT1, RPP38, RPP14, RPP40, POP7, RPP25, POP1, POP5, RPP30
+ribonuclease P activity: 9 proteins: POP4, RPP38, RPP14, RPP40, POP7, RPP25, POP1, POP5, RPP30
+ribonuclease P RNA binding: 9 proteins: POP4, RPP38, RPP14, RPP40, POP7, RPP25, POP1, POP5, RPP30
+ribonuclease MRP complex: 9 proteins: POP4, RPP25L, RPP38, RPP40, POP7, RPP25, POP1, POP5, RPP30
+multimeric ribonuclease P complex: 9 proteins: POP4, RPP38, RPP14, RPP40, POP7, RPP25, POP1, POP5, RPP30
+RNA phosphodiester bond hydrolysis, endonucleolytic: 8 proteins: POP4, RPP38, RPP14, POP7, RPP25, POP1, POP5, RPP30
+nucleolus: 8 proteins: POP4, SIRT1, RPP38, RPP14, POP7, RPP25, POP1, POP5
+rRNA processing: 6 proteins: POP4, RPP38, POP7, RPP25, POP5, RPP30
+nucleolar ribonuclease P complex: 6 proteins: RPP38, RPP40, POP7, POP1, POP5, RPP30
+nucleus: 5 proteins: SIRT1, RPP25L, RPP40, POP7, RPP30
+RNA binding: 5 proteins: RPP25L, POP7, RPP25, POP1, RPP30
+tRNA processing: 3 proteins: POP7, POP1, RPP30
+negative regulation of gene expression: 2 proteins: SIRT1, XDH
+negative regulation of protein kinase B signaling: 2 proteins: SIRT1, XDH
+fibrillar center: 2 proteins: SIRT1, RPP38
+cytoplasm: 2 proteins: SIRT1, POP7
+cytosol: 2 proteins: SIRT1, XDH
+extracellular space: 2 proteins: XDH, POP1

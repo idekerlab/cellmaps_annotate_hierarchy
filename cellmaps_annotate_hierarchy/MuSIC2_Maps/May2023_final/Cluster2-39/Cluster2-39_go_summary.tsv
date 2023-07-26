@@ -1,0 +1,73 @@
+Feature	Number of Genes	Genes
+mitochondrion	10	COX6B1, ATP5F1A, ATP5F1B, ATP5IF1, ATP5ME, ATP5MG, ATP5PB, ATP5PD, ATP5PF, ATP5PO
+proton transmembrane transport	9	COX6B1, ATP5F1A, ATP5F1B, ATP5ME, ATP5MG, ATP5PB, ATP5PD, ATP5PF, ATP5PO
+mitochondrial inner membrane	9	COX6B1, ATP5F1A, ATP5F1B, ATP5ME, ATP5MG, ATP5PB, ATP5PD, ATP5PF, ATP5PO
+protein binding	9	ATP5F1A, ATP5F1B, ATP5IF1, ATP5ME, ATP5MG, ATP5PB, ATP5PD, ATP5PF, ATP5PO
+proton-transporting ATP synthase activity, rotational mechanism	8	ATP5F1A, ATP5F1B, ATP5ME, ATP5MG, ATP5PB, ATP5PD, ATP5PF, ATP5PO
+proton motive force-driven ATP synthesis	8	ATP5F1A, ATP5F1B, ATP5ME, ATP5MG, ATP5PB, ATP5PD, ATP5PF, ATP5PO
+proton motive force-driven mitochondrial ATP synthesis	8	ATP5F1A, ATP5F1B, ATP5ME, ATP5MG, ATP5PB, ATP5PD, ATP5PF, ATP5PO
+mitochondrial proton-transporting ATP synthase complex	8	ATP5F1A, ATP5F1B, ATP5ME, ATP5MG, ATP5PB, ATP5PD, ATP5PF, ATP5PO
+membrane	4	ATP5F1A, ATP5F1B, ATP5PB, GLT8D1
+mitochondrial proton-transporting ATP synthase complex, coupling factor F(o)	4	ATP5ME, ATP5MG, ATP5PB, ATP5PF
+substantia nigra development	3	COX6B1, ATP5PB, ATP5PF
+angiostatin binding	3	ATP5F1A, ATP5F1B, ATP5IF1
+ATP biosynthetic process	3	ATP5F1A, ATP5F1B, ATP5PO
+mitochondrial matrix	3	ATP5F1A, ATP5F1B, ATP5PB
+plasma membrane	3	ATP5F1A, ATP5F1B, ATP5PO
+cell surface	3	ATP5F1A, ATP5F1B, ATP5IF1
+proton-transporting ATP synthase complex, catalytic core F(1)	3	ATP5F1A, ATP5F1B, ATP5PO
+nucleus	3	ATP5F1B, ATP5PB, ATP5PO
+ATP binding	2	ATP5F1A, ATP5F1B
+MHC class I protein binding	2	ATP5F1A, ATP5F1B
+negative regulation of endothelial cell proliferation	2	ATP5F1A, ATP5IF1
+lipid metabolic process	2	ATP5F1A, ATP5F1B
+ blood vessel endothelial cell migration	2	ATP5F1A, ATP5F1B
+mitochondrial proton-transporting ATP synthase, catalytic core	2	ATP5F1A, ATP5F1B
+proton-transporting ATP synthase complex	2	ATP5F1A, ATP5F1B
+extracellular exosome	2	ATP5F1A, ATP5F1B
+angiogenesis	2	ATP5F1B, ATP5IF1
+generation of precursor metabolites and energy	2	ATP5F1B, ATP5IF1
+mitochondrial proton-transporting ATP synthase, stator stalk	2	ATP5PD, ATP5PO
+cytochrome-c oxidase activity	1	COX6B1
+mitochondrial electron transport, cytochrome c to oxygen	1	COX6B1
+cellular respiration	1	COX6B1
+mitochondrial respiratory chain complex IV	1	COX6B1
+respiratory chain complex IV	1	COX6B1
+protease binding	1	ATP5F1A
+RNA binding	1	ATP5F1A
+ATP hydrolysis activity	1	ATP5F1A
+ADP binding	1	ATP5F1A
+apoptotic process	1	ATP5F1A
+response to muscle activity	1	ATP5F1A
+response to ethanol	1	ATP5F1A
+cellular response to dexamethasone stimulus	1	ATP5F1A
+cellular response to nitric oxide	1	ATP5F1A
+membrane raft	1	ATP5F1A
+proton-transporting ATPase activity, rotational mechanism	1	ATP5F1B
+osteoblast differentiation	1	ATP5F1B
+negative regulation of cell adhesion involved in substrate-bound cell migration	1	ATP5F1B
+ intracellular pH	1	ATP5F1B
+cellular response to interleukin-7	1	ATP5F1B
+mitochondrial membrane	1	ATP5F1B
+mitochondrial nucleoid	1	ATP5F1B
+enzyme inhibitor activity	1	ATP5IF1
+calmodulin binding	1	ATP5IF1
+enzyme binding	1	ATP5IF1
+ATPase inhibitor activity	1	ATP5IF1
+identical protein binding	1	ATP5IF1
+ATPase binding	1	ATP5IF1
+mitochondrial proton-transporting ATP synthase complex binding	1	ATP5IF1
+heme biosynthetic process	1	ATP5IF1
+erythrocyte differentiation	1	ATP5IF1
+negative regulation of ATP-dependent activity	1	ATP5IF1
+negative regulation of hydrolase activity	1	ATP5IF1
+mitochondrial depolarization	1	ATP5IF1
+reactive oxygen species metabolic process	1	ATP5IF1
+ mitochondrial outer membrane permeabilization involved in apoptotic signaling pathway	1	ATP5IF1
+ proteolysis involved in protein catabolic process	1	ATP5IF1
+ protein targeting to mitochondrion	1	ATP5IF1
+ ATP metabolic process	1	ATP5IF1
+ autophagy of mitochondrion in response to mitochondrial depolarization	1	ATP5IF1
+protein-containing complex	1	ATP5IF1
+UDP-glycosyltransferase activity	1	GLT8D1
+Golgi apparatus	1	GLT8D1

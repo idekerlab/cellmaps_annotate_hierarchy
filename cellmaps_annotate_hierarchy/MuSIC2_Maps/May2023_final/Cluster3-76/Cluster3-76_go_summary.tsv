@@ -1,0 +1,25 @@
+Feature	Number of Genes	Genes
+DNA binding	2	ZMYM3, ZMYM6
+protein binding	2	ZMYM3, KANK2
+zinc ion binding	2	ZMYM3, ZMYM6
+cytoskeleton organization	2	ZMYM3, ZMYM6
+ cell morphogenesis	2	ZMYM3, ZMYM6
+nucleoplasm	2	ZMYM3, WDR13
+nucleus	2	WDR13, ZMYM6
+negative regulation of transcription by RNA polymerase II	1	KANK2
+apoptotic process	1	KANK2
+negative regulation of cell population proliferation	1	KANK2
+negative regulation of actin filament polymerization	1	KANK2
+negative regulation of intracellular estrogen receptor signaling pathway	1	KANK2
+ Rho protein signal transduction	1	KANK2
+negative regulation of programmed cell death	1	KANK2
+negative regulation of vitamin D receptor signaling pathway	1	KANK2
+kidney epithelium development	1	KANK2
+podocyte cell migration	1	KANK2
+negative regulation of G1/S transition of mitotic cell cycle	1	KANK2
+cytoplasm	1	KANK2
+mitochondrion	1	KANK2
+promoter-specific chromatin binding	1	WDR13
+negative regulation of type B pancreatic cell proliferation	1	WDR13
+plasma membrane	1	WDR13
+centriolar satellite	1	WDR13

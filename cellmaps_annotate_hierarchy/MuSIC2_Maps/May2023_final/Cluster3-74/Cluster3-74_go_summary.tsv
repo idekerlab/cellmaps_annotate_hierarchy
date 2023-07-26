@@ -1,0 +1,49 @@
+Feature	Number of Genes	Genes
+nucleoplasm	3	CDK5RAP1, CTC1, GTF2H4
+protein binding	3	TCP11L2, CTC1, GTF2H4
+cytosol	2	CDK5RAP1, CTC1
+nucleus	2	CTC1, GTF2H4
+protein kinase binding	1	CDK5RAP1
+N6-isopentenyladenosine methylthiotransferase activity	1	CDK5RAP1
+metal ion binding	1	CDK5RAP1
+4 iron, 4 sulfur cluster binding	1	CDK5RAP1
+brain development	1	CDK5RAP1
+tRNA methylthiolation	1	CDK5RAP1
+ neuron differentiation	1	CDK5RAP1
+negative regulation of cyclin-dependent protein serine/threonine kinase activity	1	CDK5RAP1
+ translational fidelity	1	CDK5RAP1
+ mitochondrial translation	1	CDK5RAP1
+mitochondrial tRNA modification	1	CDK5RAP1
+cellular_component	1	CDK5RAP1
+mitochondrion	1	CDK5RAP1
+signal transduction	1	TCP11L2
+single-stranded DNA binding	1	CTC1
+telomeric DNA binding	1	CTC1
+G-rich strand telomeric DNA binding	1	CTC1
+telomere maintenance	1	CTC1
+DNA damage response	1	CTC1
+ G2/M transition of mitotic cell cycle	1	CTC1
+telomere maintenance via telomere lengthening	1	CTC1
+telomere capping	1	CTC1
+negative regulation of telomere maintenance via telomerase	1	CTC1
+multicellular organism growth	1	CTC1
+ DNA replication	1	CTC1
+ fibroblast proliferation	1	CTC1
+spleen development	1	CTC1
+thymus development	1	CTC1
+bone marrow development	1	CTC1
+hematopoietic stem cell proliferation	1	CTC1
+replicative senescence	1	CTC1
+chromosome, telomeric region	1	CTC1
+CST complex	1	CTC1
+ATPase activator activity	1	GTF2H4
+double-stranded DNA binding	1	GTF2H4
+RNA polymerase II general transcription initiation factor activity	1	GTF2H4
+DNA repair	1	GTF2H4
+nucleotide-excision repair	1	GTF2H4
+transcription by RNA polymerase II	1	GTF2H4
+core TFIIH complex portion of holo TFIIH complex	1	GTF2H4
+transcription factor TFIIH core complex	1	GTF2H4
+transcription factor TFIID complex	1	GTF2H4
+transcription factor TFIIH holo complex	1	GTF2H4
+nuclear speck	1	GTF2H4

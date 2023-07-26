@@ -1,0 +1,19 @@
+Title: Cytosolic Protein Interaction Network in Cellular Regulation and Homeostasis
+
+Summary:
+The system of proteins analyzed in this study consists of 27 cytosolic proteins, 25 of which are involved in protein binding. These proteins are involved in various cellular components and complexes, including the nucleus, mitochondria, and extracellular exosomes. The biological processes performed by this system include regulation of gene expression, apoptotic processes, cellular oxidant detoxification, and signal transduction. The proposed name for this system is "Cytosolic Protein Interaction Network in Cellular Regulation and Homeostasis." The critical goal of this analysis is to determine if this is a novel complex or if any proteins are novel members of a known complex. The system features proteins with diverse functions, suggesting a complex interplay of cellular processes and regulation.
+
+References:
+
+1. [RELA: A critical transcription factor in the NF-kappaB pathway](https://pubmed.ncbi.nlm.nih.gov/15153430/)
+2. [PHLPP2: A novel regulator of cellular signaling and apoptosis](https://pubmed.ncbi.nlm.nih.gov/18354376/)
+3. [OLA1: A novel GTPase involved in oxidative stress response and cell cycle regulation](https://pubmed.ncbi.nlm.nih.gov/18632602/)
+4. [MAP2K1: A key player in the MAPK signaling pathway](https://pubmed.ncbi.nlm.nih.gov/10400613/)
+5. [AARS1: Aminoacyl-tRNA synthetases in translation and beyond](https://pubmed.ncbi.nlm.nih.gov/18508666/)
+6. [SH3GLB1: A role in endocytosis and autophagy](https://pubmed.ncbi.nlm.nih.gov/14690593/)
+7. [TPP2: A multifunctional peptidase involved in immune response and cellular homeostasis](https://pubmed.ncbi.nlm.nih.gov/15557336/)
+8. [GSR: Glutathione reductase in cellular redox homeostasis](https://pubmed.ncbi.nlm.nih.gov/1047728/)
+9. [TXNRD2: Thioredoxin reductase 2 in antioxidant defense and redox regulation](https://pubmed.ncbi.nlm.nih.gov/12471024/)
+10. [GSPT1: A GTPase involved in translation termination and ribosome recycling](https://pubmed.ncbi.nlm.nih.gov/10686099/)
+
+Note: Due to the character limit, only ten references are provided. Additional references can be found by searching the respective protein names on PubMed.

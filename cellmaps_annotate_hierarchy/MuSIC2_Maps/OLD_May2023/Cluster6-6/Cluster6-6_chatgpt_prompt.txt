@@ -1,0 +1,49 @@
+Write a critical and concise analysis of this system, describing your reasoning as you go and providing references to scientific papers.         
+Format with Title, Summary, and References sections.        
+Avoid overly general statements of how the proteins are involved in various cellular processes
+        
+Avoid recapitulating the goals of the analysis. 
+What cellular components and complexes are involved in this system?
+What mechanisms and biological processes are performed by this system?
+Propose a name for the system to reflect the function and location, and should be specific but brief. Do not compose an acronym. Place it as the title of your report
+Provide complete paper references with pubmed link
+Proteins: ECH1, GRPEL2, C1QBP, LIAS, GLRX5, ACAA2, OGDH, DARS2, PDHX, MGME1, COX5B, DBT, MIPEP, ALDH18A1, MRPS36, SARS2, DIABLO, RNF115, TRMT61B, ACAT1, DHTKD1, DLD, ETHE1, GCSH.
+
+A critical goal of the analysis is to determine if this is a novel complex or if any proteins are novel members of a known complex
+System features from GO terms: 
+mitochondrion: 23 proteins: ECH1, GRPEL2, C1QBP, LIAS, GLRX5, ACAA2, OGDH, DARS2, PDHX, MGME1, COX5B, DBT, MIPEP, ALDH18A1, MRPS36, SARS2, DIABLO, TRMT61B, ACAT1, DHTKD1, DLD, ETHE1, GCSH
+protein binding: 18 proteins: ECH1, C1QBP, GLRX5, ACAA2, OGDH, DARS2, PDHX, MGME1, COX5B, ALDH18A1, SARS2, DIABLO, RNF115, TRMT61B, DHTKD1, DLD, ETHE1, GCSH
+mitochondrial matrix: 16 proteins: C1QBP, LIAS, GLRX5, ACAA2, OGDH, DARS2, PDHX, DBT, MIPEP, SARS2, TRMT61B, ACAT1, DHTKD1, DLD, ETHE1, GCSH
+metal ion binding: 6 proteins: LIAS, GLRX5, OGDH, COX5B, MIPEP, RNF115
+cytosol: 5 proteins: ECH1, C1QBP, DBT, DIABLO, RNF115
+cytoplasm: 5 proteins: C1QBP, DBT, RNF115, ETHE1, GCSH
+nucleus: 4 proteins: C1QBP, GLRX5, OGDH, DLD
+fatty acid beta-oxidation: 3 proteins: ECH1, ACAA2, ACAT1
+RNA binding: 3 proteins: ACAA2, ALDH18A1, SARS2
+oxoglutarate dehydrogenase (succinyl-transferring) activity: 3 proteins: OGDH, MRPS36, DHTKD1
+tricarboxylic acid cycle: 3 proteins: OGDH, MRPS36, DHTKD1
+ATP binding: 3 proteins: DARS2, ALDH18A1, SARS2
+mitochondrial inner membrane: 3 proteins: COX5B, ALDH18A1, MRPS36
+identical protein binding: 3 proteins: ALDH18A1, ACAT1, ETHE1
+membrane: 2 proteins: ECH1, C1QBP
+extracellular exosome: 2 proteins: ECH1, ACAT1
+protein homodimerization activity: 2 proteins: GRPEL2, DARS2
+protein-folding chaperone binding: 2 proteins: GRPEL2, OGDH
+apoptotic process: 2 proteins: C1QBP, DIABLO
+positive regulation of apoptotic process: 2 proteins: C1QBP, DIABLO
+protein lipoylation: 2 proteins: LIAS, GCSH
+acetyl-CoA C-acetyltransferase activity: 2 proteins: ACAA2, ACAT1
+thiamine pyrophosphate binding: 2 proteins: OGDH, DHTKD1
+generation of precursor metabolites and energy: 2 proteins: OGDH, DHTKD1
+glycolytic process: 2 proteins: OGDH, DHTKD1
+2-oxoglutarate metabolic process: 2 proteins: OGDH, MRPS36
+histone succinylation: 2 proteins: OGDH, DLD
+oxoglutarate dehydrogenase complex: 2 proteins: OGDH, DLD
+tRNA binding: 2 proteins: DARS2, SARS2
+nucleoplasm: 2 proteins: DARS2, ETHE1
+pyruvate dehydrogenase (NAD+) activity: 2 proteins: PDHX, DLD
+acetyl-CoA biosynthetic process from pyruvate: 2 proteins: PDHX, DLD
+mitochondrial pyruvate dehydrogenase complex: 2 proteins: PDHX, DLD
+pyruvate dehydrogenase complex: 2 proteins: PDHX, DLD
+branched-chain amino acid catabolic process: 2 proteins: DBT, DLD
+mitochondrial alpha-ketoglutarate dehydrogenase complex: 2 proteins: DBT, DLD

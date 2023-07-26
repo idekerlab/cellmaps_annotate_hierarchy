@@ -1,0 +1,66 @@
+Feature	Number of Genes	Genes
+protein binding	3	INTS6, MEF2D, WRAP53
+nucleoplasm	3	INTS6, MEF2D, WRAP53
+nucleus	2	INTS6, MEF2D
+RNA binding	2	MTO1, WRAP53
+cytosol	2	MTO1, WRAP53
+transmembrane signaling receptor activity	1	INTS6
+snRNA processing	1	INTS6
+ transcription elongation by RNA polymerase II	1	INTS6
+snRNA 3'-end processing	1	INTS6
+actin cytoskeleton	1	INTS6
+integrator complex	1	INTS6
+flavin adenine dinucleotide binding	1	MTO1
+tRNA wobble uridine modification	1	MTO1
+tRNA methylation	1	MTO1
+mitochondrion	1	MTO1
+RNA polymerase II transcription regulatory region sequence-specific DNA binding	1	MEF2D
+RNA polymerase II cis-regulatory region sequence-specific DNA binding	1	MEF2D
+DNA-binding transcription factor activity, RNA polymerase II-specific	1	MEF2D
+DNA-binding transcription activator activity, RNA polymerase II-specific	1	MEF2D
+DNA-binding transcription factor activity	1	MEF2D
+protein homodimerization activity	1	MEF2D
+histone deacetylase binding	1	MEF2D
+protein heterodimerization activity	1	MEF2D
+RNA polymerase II-specific DNA-binding transcription factor binding	1	MEF2D
+DNA-binding transcription factor binding	1	MEF2D
+sequence-specific double-stranded DNA binding	1	MEF2D
+osteoblast differentiation	1	MEF2D
+endochondral ossification	1	MEF2D
+chondrocyte differentiation	1	MEF2D
+apoptotic process	1	MEF2D
+nervous system development	1	MEF2D
+adult heart development	1	MEF2D
+muscle organ development	1	MEF2D
+cell differentiation	1	MEF2D
+skeletal muscle cell differentiation	1	MEF2D
+ transcription by RNA polymerase II	1	MEF2D
+ vascular associated smooth muscle cell proliferation	1	MEF2D
+chromatin	1	MEF2D
+cytoplasm	1	MEF2D
+intracellular membrane-bounded organelle	1	MEF2D
+ubiquitin protein ligase binding	1	WRAP53
+histone binding	1	WRAP53
+identical protein binding	1	WRAP53
+protein-containing complex binding	1	WRAP53
+protein-folding chaperone binding	1	WRAP53
+telomerase RNA binding	1	WRAP53
+DNA repair	1	WRAP53
+telomere maintenance via telomerase	1	WRAP53
+Cajal body organization	1	WRAP53
+telomere formation via telomerase	1	WRAP53
+RNA folding	1	WRAP53
+ DNA repair	1	WRAP53
+ telomerase activity	1	WRAP53
+scaRNA localization to Cajal body	1	WRAP53
+telomerase RNA localization to Cajal body	1	WRAP53
+ establishment of protein localization to telomere	1	WRAP53
+protein localization to Cajal body	1	WRAP53
+ double-strand break repair via homologous recombination	1	WRAP53
+ double-strand break repair	1	WRAP53
+ double-strand break repair via nonhomologous end joining	1	WRAP53
+chromosome, telomeric region	1	WRAP53
+telomerase holoenzyme complex	1	WRAP53
+Cajal body	1	WRAP53
+nuclear body	1	WRAP53
+site of double-strand break	1	WRAP53

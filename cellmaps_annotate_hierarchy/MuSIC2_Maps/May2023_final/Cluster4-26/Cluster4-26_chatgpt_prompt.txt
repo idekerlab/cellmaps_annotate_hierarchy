@@ -1,0 +1,26 @@
+Your response should be formatted as Markdown paragraphs
+Write a critical and concise analysis of this human protein system, describing your reasoning as you go and providing references to scientific papers.
+
+A critical goal of the analysis is to determine if this is a novel complex or if any proteins are novel members of a known complex
+
+Format with Title, Summary, and References sections.        
+Avoid overly general statements of how the proteins are involved in various cellular processes        
+Avoid repeating the goals of the analysis.
+
+What cellular components and complexes are involved in this system?
+What mechanisms and biological processes are performed by this system?
+Propose a name for the system to reflect the cellular location and function, and should be specific but brief. Do not compose an acronym. Place it as the title of your report
+Human Proteins: ZNF672, ZNF354C, ZNF35, ZNF444, ZBTB9, ZNF627, FST, VWCE.
+
+System features from GO terms: 
+protein binding: 6 proteins: ZNF672, ZNF35, ZBTB9, ZNF627, FST, VWCE
+metal ion binding: 6 proteins: ZNF672, ZNF354C, ZNF35, ZNF444, ZBTB9, ZNF627
+nucleus: 6 proteins: ZNF672, ZNF35, ZNF444, ZBTB9, ZNF627, FST
+DNA-binding transcription factor activity, RNA polymerase II-specific: 4 proteins: ZNF672, ZNF444, ZBTB9, ZNF627
+ transcription by RNA polymerase II: 4 proteins: ZNF672, ZNF444, ZBTB9, ZNF627
+RNA polymerase II cis-regulatory region sequence-specific DNA binding: 3 proteins: ZNF354C, ZNF444, ZBTB9
+sequence-specific DNA binding: 2 proteins: ZNF672, ZNF35
+nucleoplasm: 2 proteins: ZNF672, ZNF354C
+ DNA-templated transcription: 2 proteins: ZNF354C, ZNF35
+extracellular region: 2 proteins: FST, VWCE
+cytoplasm: 2 proteins: FST, VWCE

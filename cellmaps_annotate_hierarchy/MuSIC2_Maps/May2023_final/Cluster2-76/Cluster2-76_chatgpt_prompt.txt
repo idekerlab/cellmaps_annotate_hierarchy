@@ -1,0 +1,24 @@
+Your response should be formatted as Markdown paragraphs
+Write a critical and concise analysis of this human protein system, describing your reasoning as you go and providing references to scientific papers.
+
+A critical goal of the analysis is to determine if this is a novel complex or if any proteins are novel members of a known complex
+
+Format with Title, Summary, and References sections.        
+Avoid overly general statements of how the proteins are involved in various cellular processes        
+Avoid repeating the goals of the analysis.
+
+What cellular components and complexes are involved in this system?
+What mechanisms and biological processes are performed by this system?
+Propose a name for the system to reflect the cellular location and function, and should be specific but brief. Do not compose an acronym. Place it as the title of your report
+Human Proteins: ITGB1BP1, FLII, RAB15, ZMYM1.
+
+System features from GO terms: 
+protein binding: 3 proteins: ITGB1BP1, FLII, RAB15
+nucleus: 3 proteins: ITGB1BP1, FLII, ZMYM1
+cytoplasm: 3 proteins: ITGB1BP1, FLII, RAB15
+nucleoplasm: 2 proteins: ITGB1BP1, FLII
+cytosol: 2 proteins: ITGB1BP1, FLII
+plasma membrane: 2 proteins: ITGB1BP1, RAB15
+focal adhesion: 2 proteins: ITGB1BP1, FLII
+centriolar satellite: 2 proteins: ITGB1BP1, FLII
+perinuclear region of cytoplasm: 2 proteins: ITGB1BP1, RAB15

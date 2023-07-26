@@ -1,0 +1,296 @@
+Feature	Number of Genes	Genes
+protein binding	23	AAMDC, AIDA, ANXA11, ASNS, BLVRB, CNOT10, EIF4EBP1, ENO2, GCLC, GNPDA1, GNPDA2, KIAA1191, LRRC20, NSFL1C, OGFR, PDCD4, PMM2, PTPA, SCP2, TMSB4X, TRIM25, UBE2Z, USP5
+cytosol	19	ANXA11, ASNS, BLVRB, CNOT10, EIF4EBP1, ENO2, GCLC, GNPDA1, GNPDA2, KCNAB1, NSFL1C, PDCD4, PMM2, SCP2, SPR, TMSB4X, TRIM25, UBE2Z, USP5
+cytoplasm	13	AAMDC, AIDA, ANXA11, EIF4EBP1, GNPDA1, GNPDA2, KIAA1191, NSFL1C, OGFR, PDCD4, PTPA, TMSB4X, TRIM25
+nucleus	9	CNOT10, GNPDA2, NSFL1C, OGFR, PDCD4, PTPA, TMSB4X, UBE2Z, USP5
+nucleoplasm	8	ANXA11, BLVRB, PMM2, PTPA, SCP2, SPR, TRIM25, UBE2Z
+membrane	7	AIDA, ANXA11, CNOT10, ENO2, OGFR, SCP2, SLC15A1
+extracellular exosome	6	ANXA11, BLVRB, ENO2, GNPDA1, PTPA, SPR
+cellular_component	4	ADISSP, AIDA, KIAA1191, OGFR
+RNA binding	4	ANXA11, PDCD4, TMSB4X, TRIM25
+ATP binding	4	ASNS, GCLC, PTPA, UBE2Z
+negative regulation of apoptotic process	4	ASNS, GCLC, PDCD4, UBE2Z
+plasma membrane	4	BLVRB, ENO2, KCNAB1, SLC15A1
+identical protein binding	3	ENO2, GNPDA1, GNPDA2
+ubiquitin-dependent protein catabolic process	3	TRIM25, UBE2Z, USP5
+positive regulation of NIK/NF-kappaB signaling	2	ADISSP, PDCD4
+extracellular space	2	ADISSP, ENO2
+protein domain specific binding	2	AIDA, KCNAB1
+negative regulation of JUN kinase activity	2	AIDA, PDCD4
+positive regulation of mitotic cell cycle	2	ASNS, EIF4EBP1
+intracellular membrane-bounded organelle	2	BLVRB, SCP2
+magnesium ion binding	2	ENO2, GCLC
+enzyme binding	2	ENO2, TMSB4X
+protein-containing complex binding	2	ENO2, GCLC
+response to xenobiotic stimulus	2	ENO2, GCLC
+response to oxidative stress	2	GCLC, TRIM25
+positive regulation of proteasomal ubiquitin-dependent protein catabolic process	2	GCLC, USP5
+negative regulation of DNA-templated transcription	2	GCLC, PDCD4
+mitochondrion	2	GCLC, SCP2
+glucosamine-6-phosphate deaminase activity	2	GNPDA1, GNPDA2
+isomerase activity	2	GNPDA1, GNPDA2
+carbohydrate metabolic process	2	GNPDA1, GNPDA2
+glucosamine catabolic process	2	GNPDA1, GNPDA2
+N-acetylglucosamine catabolic process	2	GNPDA1, GNPDA2
+UDP-N-acetylglucosamine biosynthetic process	2	GNPDA1, GNPDA2
+N-acetylneuraminate catabolic process	2	GNPDA1, GNPDA2
+aldo-keto reductase (NADP) activity	2	KCNAB1, SPR
+molecular function inhibitor activity	2	KCNAB1, TRIM25
+ubiquitin binding	2	NSFL1C, USP5
+apoptotic process	2	PDCD4, UBE2Z
+metal ion binding	2	PMM2, TRIM25
+signaling receptor binding	2	PTPA, SCP2
+positive regulation of apoptotic process	2	PTPA, UBE2Z
+protein ubiquitination	2	UBE2Z, USP5
+positive regulation of fat cell differentiation	1	AAMDC
+protein phosphatase 1 binding	1	ADISSP
+positive regulation of protein kinase A signaling	1	ADISSP
+positive regulation of transforming growth factor beta receptor signaling pathway	1	ADISSP
+glucose homeostasis	1	ADISSP
+adaptive thermogenesis	1	ADISSP
+phosphatidylinositol binding	1	AIDA
+dorsal/ventral pattern formation	1	AIDA
+negative regulation of protein-containing complex assembly	1	AIDA
+negative regulation of JNK cascade	1	AIDA
+determination of ventral identity	1	AIDA
+calcium ion binding	1	ANXA11
+calcium-dependent phospholipid binding	1	ANXA11
+phosphatidylethanolamine binding	1	ANXA11
+MHC class II protein complex binding	1	ANXA11
+S100 protein binding	1	ANXA11
+calcium-dependent protein binding	1	ANXA11
+phagocytosis	1	ANXA11
+cytokinetic process	1	ANXA11
+response to calcium ion	1	ANXA11
+nuclear envelope	1	ANXA11
+spindle	1	ANXA11
+midbody	1	ANXA11
+melanosome	1	ANXA11
+specific granule	1	ANXA11
+azurophil granule	1	ANXA11
+phagocytic vesicle	1	ANXA11
+collagen-containing extracellular matrix	1	ANXA11
+asparagine synthase (glutamine-hydrolyzing) activity	1	ASNS
+asparagine biosynthetic process	1	ASNS
+glutamine metabolic process	1	ASNS
+cellular response to glucose starvation	1	ASNS
+L-asparagine biosynthetic process	1	ASNS
+biliverdin reductase (NAD(P)+) activity	1	BLVRB
+riboflavin reductase (NADPH) activity	1	BLVRB
+biliberdin reductase NAD+ activity	1	BLVRB
+biliverdin reductase (NADP+) activity	1	BLVRB
+heme catabolic process	1	BLVRB
+nuclear-transcribed mRNA poly(A) tail shortening	1	CNOT10
+mRNA catabolic process	1	CNOT10
+negative regulation of translation	1	CNOT10
+RNA-mediated gene silencing	1	CNOT10
+CCR4-NOT complex	1	CNOT10
+eukaryotic initiation factor 4E binding	1	EIF4EBP1
+translation repressor activity	1	EIF4EBP1
+G1/S transition of mitotic cell cycle	1	EIF4EBP1
+TOR signaling	1	EIF4EBP1
+negative regulation of translational initiation	1	EIF4EBP1
+phosphopyruvate hydratase activity	1	ENO2
+gluconeogenesis	1	ENO2
+glycolytic process	1	ENO2
+response to estradiol	1	ENO2
+multicellular organismal reproductive process	1	ENO2
+canonical glycolysis	1	ENO2
+negative regulation of neuron death	1	ENO2
+phosphopyruvate hydratase complex	1	ENO2
+photoreceptor inner segment	1	ENO2
+cell cortex	1	ENO2
+cell surface	1	ENO2
+growth cone	1	ENO2
+perikaryon	1	ENO2
+membrane raft	1	ENO2
+synaptic membrane	1	ENO2
+glutamate-cysteine ligase activity	1	GCLC
+glutamate binding	1	GCLC
+ADP binding	1	GCLC
+cysteine metabolic process	1	GCLC
+glutamate metabolic process	1	GCLC
+glutathione biosynthetic process	1	GCLC
+response to nutrient	1	GCLC
+response to heat	1	GCLC
+response to hormone	1	GCLC
+response to activity	1	GCLC
+L-ascorbic acid metabolic process	1	GCLC
+negative regulation of protein ubiquitination	1	GCLC
+cellular response to insulin stimulus	1	GCLC
+cellular response to hepatocyte growth factor stimulus	1	GCLC
+negative regulation of neuron apoptotic process	1	GCLC
+cellular response to fibroblast growth factor stimulus	1	GCLC
+response to human chorionic gonadotropin	1	GCLC
+cell redox homeostasis	1	GCLC
+response to arsenic-containing substance	1	GCLC
+response to cadmium ion	1	GCLC
+response to nitrosative stress	1	GCLC
+regulation of mitochondrial depolarization	1	GCLC
+response to interleukin-1	1	GCLC
+cellular response to mechanical stimulus	1	GCLC
+cellular response to glucose stimulus	1	GCLC
+cellular response to follicle-stimulating hormone stimulus	1	GCLC
+cellular response to thyroxine stimulus	1	GCLC
+blood vessel diameter maintenance	1	GCLC
+negative regulation of mitochondrial outer membrane permeabilization involved in apoptotic signaling pathway	1	GCLC
+negative regulation of hepatic stellate cell activation	1	GCLC
+negative regulation of extrinsic apoptotic signaling pathway	1	GCLC
+glutamate-cysteine ligase complex	1	GCLC
+generation of precursor metabolites and energy	1	GNPDA1
+single fertilization	1	GNPDA1
+voltage-gated potassium channel activity	1	KCNAB1
+potassium channel regulator activity	1	KCNAB1
+transmembrane transporter binding	1	KCNAB1
+NADPH binding	1	KCNAB1
+potassium ion transport	1	KCNAB1
+potassium ion transmembrane transport	1	KCNAB1
+regulation of potassium ion transmembrane transport	1	KCNAB1
+regulation of delayed rectifier potassium channel activity	1	KCNAB1
+negative regulation of delayed rectifier potassium channel activity	1	KCNAB1
+negative regulation of voltage-gated potassium channel activity	1	KCNAB1
+voltage-gated potassium channel complex	1	KCNAB1
+extrinsic component of cytoplasmic side of plasma membrane	1	KCNAB1
+potassium channel complex	1	KCNAB1
+juxtaparanode region of axon	1	KCNAB1
+molecular_function	1	KIAA1191
+oxidoreductase activity	1	KIAA1191
+biological_process	1	KIAA1191
+lipid binding	1	NSFL1C
+autophagosome assembly	1	NSFL1C
+establishment of mitotic spindle orientation	1	NSFL1C
+Golgi organization	1	NSFL1C
+nuclear membrane reassembly	1	NSFL1C
+proteasome-mediated ubiquitin-dependent protein catabolic process	1	NSFL1C
+positive regulation of mitotic centrosome separation	1	NSFL1C
+membrane fusion	1	NSFL1C
+negative regulation of protein localization to centrosome	1	NSFL1C
+chromosome	1	NSFL1C
+Golgi stack	1	NSFL1C
+microtubule organizing center	1	NSFL1C
+VCP-NSFL1C complex	1	NSFL1C
+opioid growth factor receptor activity	1	OGFR
+regulation of cell growth	1	OGFR
+BMP signaling pathway	1	PDCD4
+positive regulation of inflammatory response	1	PDCD4
+epithelial to mesenchymal transition involved in cardiac fibroblast development	1	PDCD4
+cellular response to lipopolysaccharide	1	PDCD4
+negative regulation of cytokine production involved in inflammatory response	1	PDCD4
+negative regulation of vascular associated smooth muscle cell proliferation	1	PDCD4
+negative regulation of myofibroblast differentiation	1	PDCD4
+negative regulation of vascular associated smooth muscle cell differentiation	1	PDCD4
+positive regulation of vascular associated smooth muscle cell apoptotic process	1	PDCD4
+positive regulation of endothelial cell apoptotic process	1	PDCD4
+phosphomannomutase activity	1	PMM2
+mannose metabolic process	1	PMM2
+protein glycosylation	1	PMM2
+protein N-linked glycosylation	1	PMM2
+GDP-mannose biosynthetic process	1	PMM2
+neuronal cell body	1	PMM2
+peptidyl-prolyl cis-trans isomerase activity	1	PTPA
+phosphoprotein phosphatase activity	1	PTPA
+protein tyrosine phosphatase activator activity	1	PTPA
+protein phosphatase regulator activity	1	PTPA
+protein homodimerization activity	1	PTPA
+protein phosphatase 2A binding	1	PTPA
+mitotic spindle organization	1	PTPA
+negative regulation of phosphoprotein phosphatase activity	1	PTPA
+positive regulation of phosphoprotein phosphatase activity	1	PTPA
+positive regulation of protein dephosphorylation	1	PTPA
+negative regulation of protein dephosphorylation	1	PTPA
+regulation of phosphoprotein phosphatase activity	1	PTPA
+protein phosphatase type 2A complex	1	PTPA
+calcium channel complex	1	PTPA
+ATPase complex	1	PTPA
+fatty-acyl-CoA binding	1	SCP2
+acetyl-CoA C-acyltransferase activity	1	SCP2
+cholesterol binding	1	SCP2
+sterol binding	1	SCP2
+propanoyl-CoA C-acyltransferase activity	1	SCP2
+long-chain fatty acyl-CoA binding	1	SCP2
+propionyl-CoA C2-trimethyltridecanoyltransferase activity	1	SCP2
+acetyl-CoA C-myristoyltransferase activity	1	SCP2
+oleic acid binding	1	SCP2
+fatty acid beta-oxidation	1	SCP2
+steroid biosynthetic process	1	SCP2
+bile acid biosynthetic process	1	SCP2
+bile acid metabolic process	1	SCP2
+phospholipid transport	1	SCP2
+positive regulation of intracellular cholesterol transport	1	SCP2
+fatty acid beta-oxidation using acyl-CoA oxidase	1	SCP2
+alpha-linolenic acid metabolic process	1	SCP2
+lipid hydroperoxide transport	1	SCP2
+peroxisome	1	SCP2
+peroxisomal matrix	1	SCP2
+endoplasmic reticulum	1	SCP2
+protein-containing complex	1	SCP2
+proton-dependent oligopeptide secondary active transmembrane transporter activity	1	SLC15A1
+peptide:proton symporter activity	1	SLC15A1
+tripeptide transmembrane transporter activity	1	SLC15A1
+dipeptide transmembrane transporter activity	1	SLC15A1
+monoatomic ion transport	1	SLC15A1
+protein transport	1	SLC15A1
+dipeptide import across plasma membrane	1	SLC15A1
+tripeptide import across plasma membrane	1	SLC15A1
+proton transmembrane transport	1	SLC15A1
+brush border	1	SLC15A1
+apical plasma membrane	1	SLC15A1
+sepiapterin reductase activity	1	SPR
+NADP binding	1	SPR
+tetrahydrobiopterin biosynthetic process	1	SPR
+nitric oxide biosynthetic process	1	SPR
+actin monomer binding	1	TMSB4X
+actin filament organization	1	TMSB4X
+cytoplasmic sequestering of NF-kappaB	1	TMSB4X
+regulation of cell migration	1	TMSB4X
+negative regulation of NF-kappaB transcription factor activity	1	TMSB4X
+negative regulation of interleukin-8 production	1	TMSB4X
+tumor necrosis factor-mediated signaling pathway	1	TMSB4X
+sequestering of actin monomers	1	TMSB4X
+positive regulation of blood vessel endothelial cell migration	1	TMSB4X
+regulation of inflammatory response	1	TMSB4X
+regulation of NIK/NF-kappaB signaling	1	TMSB4X
+negative regulation of NIK/NF-kappaB signaling	1	TMSB4X
+negative regulation of RNA polymerase II regulatory region sequence-specific DNA binding	1	TMSB4X
+positive regulation of proton-transporting ATP synthase activity, rotational mechanism	1	TMSB4X
+positive regulation of endothelial cell chemotaxis	1	TMSB4X
+positive regulation of ATP biosynthetic process	1	TMSB4X
+extracellular region	1	TMSB4X
+cytoskeleton	1	TMSB4X
+platelet alpha granule lumen	1	TMSB4X
+transcription coactivator activity	1	TRIM25
+ubiquitin-protein transferase activity	1	TRIM25
+ligase activity	1	TRIM25
+RIG-I binding	1	TRIM25
+cadherin binding	1	TRIM25
+ubiquitin protein ligase activity	1	TRIM25
+cytosolic pattern recognition receptor signaling pathway	1	TRIM25
+protein monoubiquitination	1	TRIM25
+viral release from host cell	1	TRIM25
+ubiquitin-dependent ERAD pathway	1	TRIM25
+regulation of protein localization	1	TRIM25
+response to vitamin D	1	TRIM25
+RIG-I signaling pathway	1	TRIM25
+positive regulation of I-kappaB kinase/NF-kappaB signaling	1	TRIM25
+response to estrogen	1	TRIM25
+suppression of viral release by host	1	TRIM25
+innate immune response	1	TRIM25
+positive regulation of DNA-templated transcription	1	TRIM25
+regulation of viral entry into host cell	1	TRIM25
+negative regulation of viral entry into host cell	1	TRIM25
+positive regulation of DNA-binding transcription factor activity	1	TRIM25
+positive regulation of NF-kappaB transcription factor activity	1	TRIM25
+protein K48-linked ubiquitination	1	TRIM25
+antiviral innate immune response	1	TRIM25
+cellular response to leukemia inhibitory factor	1	TRIM25
+cytoplasmic stress granule	1	TRIM25
+nuclear body	1	TRIM25
+cysteine-type endopeptidase inhibitor activity	1	UBE2Z
+molecular adaptor activity	1	UBE2Z
+ubiquitin conjugating enzyme activity	1	UBE2Z
+cysteine-type endopeptidase activity	1	USP5
+cysteine-type deubiquitinase activity	1	USP5
+zinc ion binding	1	USP5
+protein deubiquitination	1	USP5
+protein K48-linked deubiquitination	1	USP5
+lysosome	1	USP5

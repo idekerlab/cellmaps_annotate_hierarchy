@@ -1,0 +1,57 @@
+Feature	Number of Genes	Genes
+Golgi apparatus	4	GOPC, RAB20, RAB6A, RAB6B
+protein binding	3	GOPC, RAB6A, RAB6B
+Golgi membrane	3	GOPC, RAB6A, RAB6B
+GTPase activity	3	RAB20, RAB6A, RAB6B
+GTP binding	3	RAB20, RAB6A, RAB6B
+intracellular protein transport	3	RAB20, RAB6A, RAB6B
+endomembrane system	3	RAB20, RAB6A, RAB6B
+plasma membrane	2	GOPC, RAB6A
+membrane	2	GOPC, RAB6A
+myosin V binding	2	RAB6A, RAB6B
+retrograde vesicle-mediated transport, Golgi to endoplasmic reticulum	2	RAB6A, RAB6B
+intra-Golgi vesicle-mediated transport	2	RAB6A, RAB6B
+neuron projection development	2	RAB6A, RAB6B
+retrograde transport, endosome to Golgi	2	RAB6A, RAB6B
+protein localization to Golgi membrane	2	RAB6A, RAB6B
+cytosol	2	RAB6A, RAB6B
+cytoplasmic vesicle	2	RAB6A, RAB6B
+identical protein binding	1	GOPC
+transmembrane transporter binding	1	GOPC
+molecular sequestering activity	1	GOPC
+endoplasmic reticulum to Golgi vesicle-mediated transport	1	GOPC
+Golgi to plasma membrane transport	1	GOPC
+negative regulation of anion channel activity	1	GOPC
+protein transport	1	GOPC
+apical protein localization	1	GOPC
+negative regulation of protein localization to cell surface	1	GOPC
+cytoplasm	1	GOPC
+lysosomal membrane	1	GOPC
+postsynaptic density	1	GOPC
+trans-Golgi network transport vesicle	1	GOPC
+dendrite	1	GOPC
+Golgi-associated vesicle membrane	1	GOPC
+protein-containing complex	1	GOPC
+cellular response to type II interferon	1	RAB20
+phagosome acidification	1	RAB20
+phagosome-lysosome fusion	1	RAB20
+phagocytic vesicle membrane	1	RAB20
+intracellular membrane-bounded organelle	1	RAB20
+phagocytic vesicle	1	RAB20
+protein domain specific binding	1	RAB6A
+peptidyl-cysteine methylation	1	RAB6A
+antigen processing and presentation	1	RAB6A
+protein localization to Golgi apparatus	1	RAB6A
+early endosome to Golgi transport	1	RAB6A
+localization	1	RAB6A
+minus-end-directed organelle transport along microtubule	1	RAB6A
+acrosomal membrane	1	RAB6A
+endoplasmic reticulum membrane	1	RAB6A
+trans-Golgi network	1	RAB6A
+secretory granule membrane	1	RAB6A
+trans-Golgi network membrane	1	RAB6A
+extracellular exosome	1	RAB6A
+endosome to plasma membrane transport vesicle	1	RAB6A
+Golgi organization	1	RAB6B
+endoplasmic reticulum-Golgi intermediate compartment	1	RAB6B
+presynapse	1	RAB6B

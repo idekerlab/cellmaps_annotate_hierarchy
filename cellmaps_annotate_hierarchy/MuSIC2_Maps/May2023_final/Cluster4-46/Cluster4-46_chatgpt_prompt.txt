@@ -1,0 +1,33 @@
+Your response should be formatted as Markdown paragraphs
+Write a critical and concise analysis of this human protein system, describing your reasoning as you go and providing references to scientific papers.
+
+A critical goal of the analysis is to determine if this is a novel complex or if any proteins are novel members of a known complex
+
+Format with Title, Summary, and References sections.        
+Avoid overly general statements of how the proteins are involved in various cellular processes        
+Avoid repeating the goals of the analysis.
+
+What cellular components and complexes are involved in this system?
+What mechanisms and biological processes are performed by this system?
+Propose a name for the system to reflect the cellular location and function, and should be specific but brief. Do not compose an acronym. Place it as the title of your report
+Human Proteins: STAG2, CDCA5, SMC3, STAG1.
+
+System features from GO terms: 
+chromatin binding: 4 proteins: STAG2, CDCA5, SMC3, STAG1
+protein binding: 4 proteins: STAG2, CDCA5, SMC3, STAG1
+cell division: 4 proteins: STAG2, CDCA5, SMC3, STAG1
+chromosome, centromeric region: 4 proteins: STAG2, CDCA5, SMC3, STAG1
+chromatin: 4 proteins: STAG2, CDCA5, SMC3, STAG1
+nucleus: 4 proteins: STAG2, CDCA5, SMC3, STAG1
+nucleoplasm: 4 proteins: STAG2, CDCA5, SMC3, STAG1
+chromosome: 4 proteins: STAG2, CDCA5, SMC3, STAG1
+cytosol: 4 proteins: STAG2, CDCA5, SMC3, STAG1
+sister chromatid cohesion: 3 proteins: STAG2, SMC3, STAG1
+establishment of mitotic sister chromatid cohesion: 3 proteins: STAG2, SMC3, STAG1
+mitotic spindle assembly: 3 proteins: STAG2, SMC3, STAG1
+cohesin complex: 3 proteins: STAG2, SMC3, STAG1
+nuclear matrix: 3 proteins: STAG2, SMC3, STAG1
+mitotic spindle pole: 3 proteins: STAG2, SMC3, STAG1
+meiotic cell cycle: 2 proteins: STAG2, SMC3
+mitotic cell cycle: 2 proteins: CDCA5, SMC3
+mitotic sister chromatid cohesion: 2 proteins: CDCA5, SMC3

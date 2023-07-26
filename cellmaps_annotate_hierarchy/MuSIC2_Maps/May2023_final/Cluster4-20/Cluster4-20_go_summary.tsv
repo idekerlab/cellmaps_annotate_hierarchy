@@ -1,0 +1,93 @@
+Feature	Number of Genes	Genes
+protein binding	11	SNW1, BCAS2, CCDC12, CWC25, CWF19L2, PLRG1, PPIE, PRPF19, SNRPA1, SNRPB2, SYF2
+nucleoplasm	11	SNW1, BCAS2, CCDC12, CWC25, CWF19L2, PLRG1, PPIE, PRPF19, SNRPA1, SNRPB2, SYF2
+mRNA splicing, via spliceosome	10	SNW1, BCAS2, CWC25, CWF19L2, PLRG1, PPIE, PRPF19, SNRPA1, SNRPB2, SYF2
+nucleus	9	SNW1, BCAS2, CWC25, PLRG1, PPIE, PRPF19, SNRPA1, SNRPB2, SYF2
+nuclear speck	9	SNW1, BCAS2, CWC25, PLRG1, PPIE, PRPF19, SNRPA1, SNRPB2, SYF2
+U2-type catalytic step 2 spliceosome	8	SNW1, BCAS2, PLRG1, PPIE, PRPF19, SNRPA1, SNRPB2, SYF2
+catalytic step 2 spliceosome	8	SNW1, BCAS2, PLRG1, PPIE, PRPF19, SNRPA1, SNRPB2, SYF2
+spliceosomal complex	6	SNW1, BCAS2, PLRG1, PRPF19, SNRPA1, SNRPB2
+RNA binding	4	SNW1, PPIE, SNRPA1, SYF2
+Prp19 complex	4	BCAS2, PLRG1, PRPF19, SYF2
+post-mRNA release spliceosomal complex	3	CCDC12, CWF19L2, SYF2
+ mRNA splicing, via spliceosome	2	SNW1, PRPF19
+nuclear body	2	SNW1, SNRPA1
+RNA splicing	2	BCAS2, SNRPA1
+U2-type spliceosomal complex	2	CCDC12, CWC25
+U2-type catalytic step 1 spliceosome	2	CWC25, PRPF19
+fibrillar center	2	PLRG1, SNRPB2
+cytoplasm	2	PPIE, PRPF19
+U2-type prespliceosome assembly	2	SNRPA1, SNRPB2
+U2 snRNP	2	SNRPA1, SNRPB2
+U2-type precatalytic spliceosome	2	SNRPA1, SNRPB2
+transcription coactivator activity	1	SNW1
+transcription corepressor activity	1	SNW1
+Notch binding	1	SNW1
+nuclear receptor binding	1	SNW1
+enzyme binding	1	SNW1
+nuclear vitamin D receptor binding	1	SNW1
+nuclear retinoic acid receptor binding	1	SNW1
+SMAD binding	1	SNW1
+nuclear androgen receptor binding	1	SNW1
+negative regulation of transcription by RNA polymerase II	1	SNW1
+ transcription by RNA polymerase II	1	SNW1
+ transforming growth factor beta receptor signaling pathway	1	SNW1
+intrinsic apoptotic signaling pathway in response to DNA damage by p53 class mediator	1	SNW1
+positive regulation by host of viral transcription	1	SNW1
+negative regulation of DNA-templated transcription	1	SNW1
+retinoic acid receptor signaling pathway	1	SNW1
+ retinoic acid receptor signaling pathway	1	SNW1
+ neurogenesis	1	SNW1
+ vitamin D receptor signaling pathway	1	SNW1
+cellular response to retinoic acid	1	SNW1
+nuclear matrix	1	SNW1
+RNA splicing, via transesterification reactions	1	BCAS2
+nucleolus	1	BCAS2
+centrosome	1	BCAS2
+protein localization to nucleus	1	PLRG1
+ G1/S transition of mitotic cell cycle	1	PLRG1
+nuclear membrane	1	PLRG1
+mRNA binding	1	PPIE
+peptidyl-prolyl cis-trans isomerase activity	1	PPIE
+poly(A) binding	1	PPIE
+cyclosporin A binding	1	PPIE
+protein peptidyl-prolyl isomerization	1	PPIE
+ DNA-templated transcription	1	PPIE
+protein folding	1	PPIE
+ viral genome replication	1	PPIE
+extracellular region	1	PPIE
+cytosol	1	PPIE
+secretory granule lumen	1	PPIE
+intracellular membrane-bounded organelle	1	PPIE
+ficolin-1-rich granule lumen	1	PPIE
+ubiquitin-protein transferase activity	1	PRPF19
+ubiquitin-ubiquitin ligase activity	1	PRPF19
+identical protein binding	1	PRPF19
+ubiquitin protein ligase activity	1	PRPF19
+DNA damage checkpoint signaling	1	PRPF19
+protein polyubiquitination	1	PRPF19
+spliceosomal tri-snRNP complex assembly	1	PRPF19
+spliceosomal complex assembly	1	PRPF19
+double-strand break repair via nonhomologous end joining	1	PRPF19
+protein localization	1	PRPF19
+lipid biosynthetic process	1	PRPF19
+proteasomal protein catabolic process	1	PRPF19
+ neuron differentiation	1	PRPF19
+ astrocyte differentiation	1	PRPF19
+protein K63-linked ubiquitination	1	PRPF19
+lipid droplet	1	PRPF19
+spindle	1	PRPF19
+membrane	1	PRPF19
+site of double-strand break	1	PRPF19
+U2 snRNA binding	1	SNRPA1
+spermatogenesis	1	SNRPA1
+small nuclear ribonucleoprotein complex	1	SNRPA1
+U1 snRNA binding	1	SNRPB2
+snRNP binding	1	SNRPB2
+U1 snRNP	1	SNRPB2
+cytoplasmic ribonucleoprotein granule	1	SNRPB2
+in utero embryonic development	1	SYF2
+mitotic G2 DNA damage checkpoint signaling	1	SYF2
+gastrulation	1	SYF2
+ cell population proliferation	1	SYF2
+embryonic organ development	1	SYF2

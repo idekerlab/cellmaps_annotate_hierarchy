@@ -1,0 +1,116 @@
+Your response should be formatted as Markdown paragraphs
+Write a critical and concise analysis of this human protein system, describing your reasoning as you go and providing references to scientific papers.
+
+A critical goal of the analysis is to determine if this is a novel complex or if any proteins are novel members of a known complex
+
+Format with Title, Summary, and References sections.        
+Avoid overly general statements of how the proteins are involved in various cellular processes        
+Avoid repeating the goals of the analysis.
+
+What cellular components and complexes are involved in this system?
+What mechanisms and biological processes are performed by this system?
+Propose a name for the system to reflect the cellular location and function, and should be specific but brief. Do not compose an acronym. Place it as the title of your report
+Human Proteins: ACSL3, CLTCL1, RETSAT, SLC1A3, TENM2, ATAD1, HEATR1, PIGO, NOC2L, ATP13A3, RPN1, ATP11A, NBAS, ORC4, OTULINL, POLD3, SLC30A5, TSG101, URB2, FANCG, RNF213, ZW10, DOLK, MXRA8, PEX11B, UTP20, TYW1, OSMR, WDFY3, EIPR1, INTS3, MDN1, STAG2, DCUN1D5, GJC1, STEAP3, INTS4, EXOC4, UBXN8, TNPO2, SNX30, PJA1, SLC6A15, CLDND1, CAMLG, DDX11, PACSIN1, ACSL1, ACTL6B, DPH6, UTP6.
+
+System features from GO terms: 
+protein binding: 39 proteins: ACSL3, CLTCL1, SLC1A3, HEATR1, NOC2L, RPN1, ATP11A, NBAS, ORC4, OTULINL, POLD3, TSG101, FANCG, ZW10, DOLK, MXRA8, PEX11B, UTP20, OSMR, WDFY3, EIPR1, INTS3, MDN1, STAG2, DCUN1D5, GJC1, STEAP3, INTS4, EXOC4, UBXN8, TNPO2, SNX30, PJA1, SLC6A15, CLDND1, CAMLG, DDX11, PACSIN1, UTP6
+membrane: 22 proteins: ACSL3, CLTCL1, RETSAT, SLC1A3, ATAD1, HEATR1, PIGO, ATP13A3, RPN1, ATP11A, NBAS, SLC30A5, RNF213, ZW10, PEX11B, WDFY3, MDN1, STAG2, EXOC4, SLC6A15, CAMLG, ACSL1
+cytosol: 17 proteins: CLTCL1, ATAD1, NOC2L, RPN1, NBAS, ORC4, TSG101, FANCG, RNF213, ZW10, PEX11B, WDFY3, MDN1, STAG2, EXOC4, PACSIN1, DPH6
+plasma membrane: 16 proteins: ACSL3, CLTCL1, SLC1A3, TENM2, ATP11A, TSG101, FANCG, UTP20, OSMR, WDFY3, GJC1, STEAP3, EXOC4, SLC6A15, PACSIN1, ACSL1
+nucleoplasm: 16 proteins: HEATR1, NOC2L, ORC4, POLD3, SLC30A5, FANCG, PEX11B, UTP20, WDFY3, INTS3, MDN1, STAG2, INTS4, UBXN8, DDX11, UTP6
+nucleolus: 16 proteins: HEATR1, NOC2L, ORC4, SLC30A5, TSG101, URB2, FANCG, RNF213, UTP20, WDFY3, MDN1, STAG2, INTS4, UBXN8, DDX11, UTP6
+cytoplasm: 15 proteins: OTULINL, POLD3, TSG101, RNF213, UTP20, WDFY3, INTS3, DCUN1D5, STEAP3, EXOC4, TNPO2, PJA1, CAMLG, DDX11, PACSIN1
+nucleus: 14 proteins: TENM2, NOC2L, ORC4, ZW10, MXRA8, INTS3, MDN1, STAG2, DCUN1D5, INTS4, UBXN8, TNPO2, DDX11, ACTL6B
+endoplasmic reticulum membrane: 13 proteins: ACSL3, RETSAT, PIGO, RPN1, ATP11A, NBAS, SLC30A5, ZW10, DOLK, GJC1, UBXN8, CAMLG, ACSL1
+ATP binding: 10 proteins: ACSL3, ATAD1, ATP13A3, ATP11A, ORC4, RNF213, MDN1, DDX11, ACSL1, DPH6
+endoplasmic reticulum: 9 proteins: ACSL3, TENM2, RPN1, ATP11A, NBAS, ZW10, UBXN8, CAMLG, ACSL1
+metal ion binding: 9 proteins: SLC1A3, ATP13A3, SLC30A5, RNF213, TYW1, WDFY3, STEAP3, PJA1, DDX11
+ATP hydrolysis activity: 6 proteins: ATAD1, ATP13A3, ATP11A, RNF213, MDN1, DDX11
+synapse: 5 proteins: SLC1A3, TENM2, GJC1, EXOC4, PACSIN1
+peroxisomal membrane: 4 proteins: ACSL3, ATAD1, PEX11B, ACSL1
+Golgi apparatus: 4 proteins: ACSL3, TENM2, ATP11A, SLC30A5
+early endosome: 4 proteins: CLTCL1, ATP11A, TSG101, SNX30
+extracellular exosome: 4 proteins: CLTCL1, TSG101, MXRA8, DDX11
+RNA binding: 4 proteins: HEATR1, NOC2L, RPN1, UTP20
+mitochondrion: 4 proteins: HEATR1, FANCG, PEX11B, ACSL1
+chromatin binding: 4 proteins: NOC2L, STAG2, DDX11, ACTL6B
+protein transport: 4 proteins: NBAS, ZW10, EXOC4, SNX30
+DNA damage response: 4 proteins: FANCG, INTS3, DCUN1D5, DDX11
+chromatin: 4 proteins: FANCG, STAG2, DDX11, ACTL6B
+mitochondrial outer membrane: 3 proteins: ACSL3, ATAD1, ACSL1
+lipid droplet: 3 proteins: ACSL3, RNF213, ZW10
+perinuclear region of cytoplasm: 3 proteins: ACSL3, SLC1A3, PACSIN1
+chemical synaptic transmission: 3 proteins: SLC1A3, GJC1, EXOC4
+cell surface: 3 proteins: SLC1A3, MXRA8, CLDND1
+protein homodimerization activity: 3 proteins: TENM2, TSG101, PEX11B
+negative regulation of transcription by RNA polymerase II: 3 proteins: TENM2, NOC2L, TSG101
+signal transduction: 3 proteins: TENM2, PEX11B, CAMLG
+ribosomal small subunit biogenesis: 3 proteins: HEATR1, UTP20, UTP6
+small-subunit processome: 3 proteins: HEATR1, UTP20, UTP6
+chromosome: 3 proteins: NOC2L, STAG2, UTP6
+early endosome membrane: 3 proteins: ATP13A3, TSG101, SNX30
+ubiquitin binding: 3 proteins: OTULINL, TSG101, UBXN8
+apical plasma membrane: 3 proteins: SLC30A5, OSMR, CLDND1
+cell division: 3 proteins: TSG101, ZW10, STAG2
+endosome: 3 proteins: TSG101, STEAP3, PACSIN1
+DNA repair: 3 proteins: FANCG, INTS3, DDX11
+long-chain fatty acid-CoA ligase activity: 2 proteins: ACSL3, ACSL1
+arachidonate-CoA ligase activity: 2 proteins: ACSL3, ACSL1
+long-chain fatty acid metabolic process: 2 proteins: ACSL3, ACSL1
+long-chain fatty-acyl-CoA biosynthetic process: 2 proteins: ACSL3, ACSL1
+long-chain fatty acid import into cell: 2 proteins: ACSL3, ACSL1
+late endosome: 2 proteins: CLTCL1, TSG101
+trans-Golgi network: 2 proteins: CLTCL1, EIPR1
+spindle: 2 proteins: CLTCL1, DCUN1D5
+recycling endosome: 2 proteins: CLTCL1, ATP11A
+nuclear membrane: 2 proteins: RETSAT, WDFY3
+neurotransmitter transport: 2 proteins: SLC1A3, SLC6A15
+neutral amino acid transport: 2 proteins: SLC1A3, SLC6A15
+cytoplasmic vesicle: 2 proteins: SLC1A3, SLC30A5
+neuron projection: 2 proteins: SLC1A3, TENM2
+PML body: 2 proteins: TENM2, WDFY3
+postsynaptic membrane: 2 proteins: TENM2, ATAD1
+snoRNA binding: 2 proteins: HEATR1, UTP6
+maturation of SSU-rRNA from tricistronic rRNA transcript (SSU-rRNA, 5.8S rRNA, LSU-rRNA): 2 proteins: HEATR1, UTP6
+fibrillar center: 2 proteins: HEATR1, STAG2
+90S preribosome: 2 proteins: HEATR1, UTP20
+GPI anchor biosynthetic process: 2 proteins: PIGO, SLC30A5
+transcription corepressor activity: 2 proteins: NOC2L, TSG101
+apoptotic process: 2 proteins: NOC2L, STEAP3
+late endosome membrane: 2 proteins: ATP13A3, TSG101
+intracellular membrane-bounded organelle: 2 proteins: ATP11A, PEX11B
+retrograde vesicle-mediated transport, Golgi to endoplasmic reticulum: 2 proteins: NBAS, ZW10
+Dsl1/NZR complex: 2 proteins: NBAS, ZW10
+DNA replication origin binding: 2 proteins: ORC4, DDX11
+nuclear envelope: 2 proteins: OTULINL, WDFY3
+protein-macromolecule adaptor activity: 2 proteins: POLD3, UBXN8
+DNA binding: 2 proteins: TSG101, DDX11
+ubiquitin protein ligase binding: 2 proteins: TSG101, CAMLG
+ cell growth: 2 proteins: TSG101, DCUN1D5
+protein monoubiquitination: 2 proteins: TSG101, FANCG
+cell cycle: 2 proteins: TSG101, STEAP3
+negative regulation of cell population proliferation: 2 proteins: TSG101, UTP20
+ DNA-templated transcription: 2 proteins: TSG101, ACTL6B
+membrane fission: 2 proteins: TSG101, EXOC4
+multivesicular body: 2 proteins: TSG101, STEAP3
+endosome membrane: 2 proteins: TSG101, STEAP3
+Flemming body: 2 proteins: TSG101, EXOC4
+midbody: 2 proteins: URB2, DDX11
+ubiquitin protein ligase activity: 2 proteins: RNF213, PJA1
+protein ubiquitination: 2 proteins: RNF213, EIPR1
+meiotic cell cycle: 2 proteins: ZW10, STAG2
+kinetochore: 2 proteins: ZW10, ACTL6B
+spindle pole: 2 proteins: ZW10, DDX11
+identical protein binding: 2 proteins: PEX11B, PACSIN1
+4 iron, 4 sulfur cluster binding: 2 proteins: TYW1, DDX11
+ cell population proliferation: 2 proteins: OSMR, ACTL6B
+endocytic recycling: 2 proteins: EIPR1, SNX30
+snRNA processing: 2 proteins: INTS3, INTS4
+ transcription elongation by RNA polymerase II: 2 proteins: INTS3, INTS4
+integrator complex: 2 proteins: INTS3, INTS4
+sister chromatid cohesion: 2 proteins: STAG2, DDX11
+nuclear matrix: 2 proteins: STAG2, ACTL6B
+ubiquitin ligase complex: 2 proteins: DCUN1D5, UBXN8
+centrosome: 2 proteins: EXOC4, DDX11
+ double-strand break repair: 2 proteins: DDX11, ACTL6B
+cytoskeleton organization: 2 proteins: PACSIN1, ACTL6B

@@ -1,0 +1,263 @@
+Feature	Number of Genes	Genes
+cytoplasm	15	BTBD1, ENO3, FABP3, HSPB6, KLHL41, MYH1, MYH15, MYH2, MYH4, MYH6, MYH7, MYH8, MYOM3, OBSCN, PRX
+cytosol	13	BTBD1, ENO3, FABP3, HSPB6, KLHL41, MYH15, MYH2, MYH6, MYH8, MYL3, OBSCN, TNNI1, TNNT1
+myofibril	10	KLHL41, MYH1, MYH15, MYH2, MYH4, MYH6, MYH7, MYH8, MYOM3, OBSCN
+Disease variant	9	ENO3, KLHL41, LPL, MYH2, MYH6, MYH7, MYH8, MYL3, PRX
+sarcomere	9	KLHL41, MYH2, MYH4, MYH6, MYH7, MYH8, MYL3, MYOM3, OBSCN
+myosin II complex	8	MYH1, MYH15, MYH2, MYH4, MYH6, MYH7, MYH8, MYL3
+actin filament binding	8	MYH1, MYH15, MYH2, MYH4, MYH6, MYH7, MYH8, MYOM3
+ATP binding	8	MYH1, MYH15, MYH2, MYH4, MYH6, MYH7, MYH8, OBSCN
+calmodulin binding	8	MYH1, MYH15, MYH2, MYH4, MYH6, MYH7, MYH8, OBSCN
+muscle contraction	8	MYH1, MYH2, MYH4, MYH6, MYH7, MYH8, TNNI1, TNNT1
+membrane	7	ENO3, KLHL41, LPL, MFGE8, OBSCN, PLXNA4, PRX
+muscle myosin complex	7	MYH1, MYH2, MYH4, MYH6, MYH7, MYH8, MYL3
+myosin filament	7	MYH1, MYH15, MYH2, MYH4, MYH6, MYH7, MYH8
+microfilament motor activity	7	MYH1, MYH15, MYH2, MYH4, MYH6, MYH7, MYH8
+thick filament	7	MYH1, MYH15, MYH2, MYH4, MYH6, MYH7, MYH8
+plasma membrane	6	ENO3, KLHL41, LPL, OBSCN, PLXNA4, PRX
+muscle filament sliding	5	MYH2, MYH4, MYH6, MYH7, MYH8
+extracellular space	4	ENO3, FABP3, LPL, MFGE8
+nucleus	4	FABP3, HSPB6, OBSCN, PRX
+cell membrane	4	LPL, OBSCN, PLXNA4, PRX
+ATP metabolic process	4	MYH4, MYH6, MYH7, MYH8
+cardiac muscle contraction	4	MYH6, MYH7, MYL3, TNNI1
+sarcomere organization	4	MYH6, MYH7, OBSCN, TNNT1
+ventricular cardiac muscle tissue morphogenesis	4	MYH6, MYH7, MYL3, TNNI1
+skeletal muscle contraction	4	MYH7, MYH8, TNNI1, TNNT1
+extracellular exosome	3	ENO3, FABP3, MFGE8
+extracellular region	3	HSPB6, LPL, MFGE8
+protein homodimerization activity	3	HSPB6, LPL, MYOM3
+secreted	3	HSPB6, LPL, MFGE8
+M band	3	KLHL41, MYOM3, OBSCN
+striated muscle contraction	3	KLHL41, MYH6, MYH7
+m line	3	KLHL41, MYOM3, OBSCN
+Z disc	3	MYH6, MYH7, OBSCN
+regulation of the force of heart contraction	3	MYH6, MYH7, MYL3
+Cardiomyopathy	3	MYH6, MYH7, MYL3
+transition between fast and slow fiber	3	MYH7, TNNI1, TNNT1
+structural constituent of muscle	3	MYH8, MYL3, OBSCN
+cytoplasmic ribonucleoprotein granule	2	BTBD1, MYH1
+nucleoplasm	2	BTBD1, KLHL41
+protein-containing complex	2	BTBD1, MYH2
+protein ubiquitination	2	BTBD1, KLHL41
+cholesterol homeostasis	2	FABP3, LPL
+myofibril assembly	2	KLHL41, MYH6
+Nemaline myopathy	2	KLHL41, TNNT1
+calcium ion binding	2	LPL, MYL3
+A band	2	MYH1, MYL3
+cell-cell junction	2	MYH2, OBSCN
+Myopathy	2	MYH2, MYH7
+ATP hydrolysis activity	2	MYH4, MYH8
+myosin complex	2	MYH6, MYH7
+stress fiber	2	MYH6, MYH7
+myosin phosphatase activity	2	MYH6, MYH8
+adult heart development	2	MYH6, MYH7
+cardiac muscle hypertrophy in response to stress	2	MYH6, MYH7
+regulation of heart rate	2	MYH6, MYH7
+regulation of striated muscle contraction	2	MYL3, TNNI1
+troponin complex	2	TNNI1, TNNT1
+P-body	1	BTBD1
+cullin family protein binding	1	BTBD1
+identical protein binding	1	BTBD1
+muscle organ development	1	BTBD1
+neurogenesis	1	BTBD1
+regulation of protein binding	1	BTBD1
+phosphopyruvate hydratase complex	1	ENO3
+magnesium ion binding	1	ENO3
+phosphopyruvate hydratase activity	1	ENO3
+canonical glycolysis	1	ENO3
+glycolytic process	1	ENO3
+Glycogen storage disease 13	1	ENO3
+Glycogen storage disease	1	ENO3
+cytoskeletal protein binding	1	FABP3
+fatty acid binding	1	FABP3
+long-chain fatty acid binding	1	FABP3
+oleic acid binding	1	FABP3
+brown fat cell differentiation	1	FABP3
+fatty acid transport	1	FABP3
+intracellular lipid transport	1	FABP3
+long-chain fatty acid transport	1	FABP3
+negative regulation of cell population proliferation	1	FABP3
+phospholipid homeostasis	1	FABP3
+positive regulation of long-chain fatty acid import into cell	1	FABP3
+positive regulation of phospholipid biosynthetic process	1	FABP3
+regulation of fatty acid oxidation	1	FABP3
+regulation of phosphatidylcholine biosynthetic process	1	FABP3
+Golgi apparatus	1	HSPB6
+nucleolus	1	HSPB6
+chaperone binding	1	HSPB6
+protein folding chaperone	1	HSPB6
+structural constituent of eye lens	1	HSPB6
+unfolded protein binding	1	HSPB6
+chaperone-mediated protein folding	1	HSPB6
+negative regulation of apoptotic process	1	HSPB6
+positive regulation of angiogenesis	1	HSPB6
+protein refolding	1	HSPB6
+response to heat	1	HSPB6
+Cul3-RING ubiquitin ligase complex	1	KLHL41
+cytoskeleton	1	KLHL41
+endoplasmic reticulum membrane	1	KLHL41
+pseudopodium	1	KLHL41
+ruffle	1	KLHL41
+sarcoplasmic reticulum membrane	1	KLHL41
+pseudopodium assembly	1	KLHL41
+regulation of myoblast differentiation	1	KLHL41
+regulation of myoblast proliferation	1	KLHL41
+regulation of skeletal muscle cell differentiation	1	KLHL41
+skeletal muscle cell differentiation	1	KLHL41
+endoplasmic reticulum	1	KLHL41
+cell projection	1	KLHL41
+sarcoplasmic reticulum	1	KLHL41
+Nemaline myopathy 9	1	KLHL41
+catalytic complex	1	LPL
+cell surface	1	LPL
+chylomicron	1	LPL
+very-low-density lipoprotein particle	1	LPL
+1-acyl-2-lysophosphatidylserine acylhydrolase activity	1	LPL
+apolipoprotein binding	1	LPL
+heparan sulfate proteoglycan binding	1	LPL
+heparin binding	1	LPL
+lipase activity	1	LPL
+lipoprotein lipase activity	1	LPL
+lipoprotein particle binding	1	LPL
+phosphatidylserine 1-acylhydrolase activity	1	LPL
+phospholipase A1 activity	1	LPL
+phospholipase activity	1	LPL
+protein-membrane adaptor activity	1	LPL
+signaling receptor binding	1	LPL
+triglyceride binding	1	LPL
+triglyceride lipase activity	1	LPL
+cellular response to fatty acid	1	LPL
+cellular response to nutrient	1	LPL
+chylomicron remodeling	1	LPL
+fatty acid biosynthetic process	1	LPL
+fatty acid metabolic process	1	LPL
+lipid catabolic process	1	LPL
+low-density lipoprotein particle mediated signaling	1	LPL
+negative regulation of cellular response to insulin stimulus	1	LPL
+phospholipid metabolic process	1	LPL
+positive regulation of chemokine (C-X-C motif) ligand 2 production	1	LPL
+positive regulation of chemokine production	1	LPL
+positive regulation of cholesterol storage	1	LPL
+positive regulation of fat cell differentiation	1	LPL
+positive regulation of inflammatory response	1	LPL
+positive regulation of interleukin-1 beta production	1	LPL
+positive regulation of interleukin-6 production	1	LPL
+positive regulation of lipid storage	1	LPL
+positive regulation of macrophage derived foam cell differentiation	1	LPL
+positive regulation of sequestering of triglyceride	1	LPL
+positive regulation of tumor necrosis factor production	1	LPL
+response to bacterium	1	LPL
+response to cold	1	LPL
+response to glucose	1	LPL
+response to xenobiotic stimulus	1	LPL
+triglyceride biosynthetic process	1	LPL
+triglyceride catabolic process	1	LPL
+triglyceride homeostasis	1	LPL
+triglyceride metabolic process	1	LPL
+very-low-density lipoprotein particle remodeling	1	LPL
+vldl	1	LPL
+extracellular matrix	1	LPL
+Hyperlipoproteinemia 1	1	LPL
+Hyperlipidemia	1	LPL
+acrosomal membrane	1	MFGE8
+collagen-containing extracellular matrix	1	MFGE8
+endoplasmic reticulum lumen	1	MFGE8
+external side of plasma membrane	1	MFGE8
+extracellular vesicle	1	MFGE8
+integrin binding	1	MFGE8
+phosphatidylserine binding	1	MFGE8
+angiogenesis	1	MFGE8
+apoptotic cell clearance	1	MFGE8
+cell adhesion	1	MFGE8
+single fertilization	1	MFGE8
+cytoplasmic vesicle	1	MFGE8
+secretory vesicle	1	MFGE8
+amyloid	1	MFGE8
+acrosome membrane	1	MFGE8
+intercalated disc	1	MYH1
+intracellular membrane-bounded organelle	1	MYH15
+double-stranded RNA binding	1	MYH4
+actin filament-based movement	1	MYH4
+protein kinase binding	1	MYH6
+atrial cardiac muscle tissue morphogenesis	1	MYH6
+cardiac muscle cell development	1	MYH6
+in utero embryonic development	1	MYH6
+regulation of ATP-dependent activity	1	MYH6
+regulation of blood pressure	1	MYH6
+regulation of heart contraction	1	MYH6
+regulation of heart growth	1	MYH6
+visceral muscle development	1	MYH6
+Atrial septal defect 3	1	MYH6
+Sick sinus syndrome 3	1	MYH6
+Atrial septal defect	1	MYH6
+regulation of slow-twitch skeletal muscle fiber contraction	1	MYH7
+regulation of the force of skeletal muscle contraction	1	MYH7
+Scapuloperoneal myopathy MYH7-related	1	MYH7
+Left ventricular non-compaction 5	1	MYH7
+myosin light chain binding	1	MYH8
+Carney complex variant	1	MYH8
+Arthrogryposis	1	MYH8
+I band	1	MYL3
+actin monomer binding	1	MYL3
+myosin II heavy chain binding	1	MYL3
+positive regulation of ATP-dependent activity	1	MYL3
+nuclear body	1	OBSCN
+sarcolemma	1	OBSCN
+ankyrin binding	1	OBSCN
+cell adhesion molecule binding	1	OBSCN
+guanyl-nucleotide exchange factor activity	1	OBSCN
+metal ion binding	1	OBSCN
+phosphatidylinositol-3,4,5-trisphosphate binding	1	OBSCN
+phosphatidylinositol-3,4-bisphosphate binding	1	OBSCN
+phosphatidylinositol-3-phosphate binding	1	OBSCN
+phosphatidylinositol-4,5-bisphosphate binding	1	OBSCN
+phosphatidylinositol-4-phosphate binding	1	OBSCN
+phosphatidylinositol-5-phosphate binding	1	OBSCN
+protein serine kinase activity	1	OBSCN
+protein serine/threonine kinase activity	1	OBSCN
+titin binding	1	OBSCN
+cell-cell adhesion	1	OBSCN
+protein localization to M-band	1	OBSCN
+protein phosphorylation	1	OBSCN
+regulation of small GTPase mediated signal transduction	1	OBSCN
+z line	1	OBSCN
+cerebellar climbing fiber to Purkinje cell synapse	1	PLXNA4
+semaphorin receptor complex	1	PLXNA4
+semaphorin receptor activity	1	PLXNA4
+anterior commissure morphogenesis	1	PLXNA4
+chemorepulsion of branchiomotor axon	1	PLXNA4
+embryonic heart tube development	1	PLXNA4
+facial nerve structural organization	1	PLXNA4
+glossopharyngeal nerve morphogenesis	1	PLXNA4
+maintenance of synapse structure	1	PLXNA4
+negative regulation of cell adhesion	1	PLXNA4
+positive regulation of axonogenesis	1	PLXNA4
+postganglionic parasympathetic fiber development	1	PLXNA4
+regulation of axon extension involved in axon guidance	1	PLXNA4
+regulation of cell migration	1	PLXNA4
+regulation of cell shape	1	PLXNA4
+regulation of GTPase activity	1	PLXNA4
+regulation of negative chemotaxis	1	PLXNA4
+semaphorin-plexin signaling pathway	1	PLXNA4
+semaphorin-plexin signaling pathway involved in axon guidance	1	PLXNA4
+sympathetic nervous system development	1	PLXNA4
+sympathetic neuron axon guidance	1	PLXNA4
+trigeminal nerve structural organization	1	PLXNA4
+vagus nerve morphogenesis	1	PLXNA4
+anchoring junction	1	PRX
+axon ensheathment	1	PRX
+peripheral nervous system myelin maintenance	1	PRX
+regulation of RNA splicing	1	PRX
+cell junction	1	PRX
+Dejerine-Sottas syndrome	1	PRX
+Charcot-Marie-Tooth disease 4F	1	PRX
+Charcot-Marie-Tooth disease	1	PRX
+Neurodegeneration	1	PRX
+Neuropathy	1	PRX
+actin binding	1	TNNI1
+tropomyosin binding	1	TNNT1
+troponin T binding	1	TNNT1
+negative regulation of muscle contraction	1	TNNT1
+slow-twitch skeletal muscle fiber contraction	1	TNNT1
+Nemaline myopathy 5	1	TNNT1

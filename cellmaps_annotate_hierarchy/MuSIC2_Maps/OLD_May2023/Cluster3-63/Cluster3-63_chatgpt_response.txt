@@ -1,0 +1,35 @@
+Title: Cytosolic Membrane-Associated Protein Complex (CMAPC)
+
+Summary:
+
+The Cytosolic Membrane-Associated Protein Complex (CMAPC) is a system of proteins that are physically close to each other and/or interact with each other. This system involves four proteins: AURKA, ABCA12, CPE, and DOCK8. These proteins are involved in various cellular components and complexes, including protein binding, cytosol, plasma membrane, ATP binding, molecular function activator activity, nucleoplasm, cytoplasm, membrane, and transport vesicle membrane. The CMAPC system is involved in several mechanisms and biological processes, such as cell division, lipid transport, and immune response regulation. This analysis aims to determine if this is a novel complex or if any proteins are novel members of a known complex.
+
+Cellular Components and Complexes:
+
+The CMAPC system involves the following cellular components and complexes:
+
+1. Protein binding: All four proteins (AURKA, ABCA12, CPE, DOCK8) are involved in protein binding (1, 2, 3, 4).
+2. Cytosol: Three proteins (AURKA, ABCA12, DOCK8) are located in the cytosol (1, 2, 4).
+3. Plasma membrane: Three proteins (ABCA12, CPE, DOCK8) are associated with the plasma membrane (2, 3, 4).
+4. ATP binding: Two proteins (AURKA, ABCA12) have ATP binding activity (1, 2).
+5. Molecular function activator activity: Two proteins (AURKA, CPE) exhibit molecular function activator activity (1, 3).
+6. Nucleoplasm: Two proteins (AURKA, DOCK8) are found in the nucleoplasm (1, 4).
+7. Cytoplasm: Two proteins (ABCA12, DOCK8) are located in the cytoplasm (2, 4).
+8. Membrane: Two proteins (ABCA12, DOCK8) are associated with membranes (2, 4).
+9. Transport vesicle membrane: Two proteins (ABCA12, CPE) are found in the transport vesicle membrane (2, 3).
+
+Mechanisms and Biological Processes:
+
+The CMAPC system is involved in the following mechanisms and biological processes:
+
+1. AURKA: Involved in cell division, specifically mitotic spindle assembly and centrosome separation (1).
+2. ABCA12: Plays a crucial role in lipid transport, particularly in the formation of the skin barrier (2).
+3. CPE: Functions as a prohormone-processing enzyme and is involved in the regulation of peptide hormone activity (3).
+4. DOCK8: Regulates immune response by controlling the activation and migration of various immune cells (4).
+
+References:
+
+1. Carmena, M., & Earnshaw, W. C. (2003). The cellular geography of aurora kinases. Nature Reviews Molecular Cell Biology, 4(11), 842-854. [PubMed](https://pubmed.ncbi.nlm.nih.gov/14625534/)
+2. Annilo, T., Tammur, J., Hutchinson, A., & Rzhetsky, A. (2002). Human and mouse orthologs of a new ATP-binding cassette gene, ABCA12. Cytogenetic and Genome Research, 98(2-3), 169-174. [PubMed](https://pubmed.ncbi.nlm.nih.gov/12584443/)
+3. Cool, D. R., & Loh, Y. P. (1998). Carboxypeptidase E is a sorting receptor for prohormones: binding and kinetic studies. Molecular and Cellular Endocrinology, 139(1-2), 7-13. [PubMed](https://pubmed.ncbi.nlm.nih.gov/9705077/)
+4. Harada, Y., Tanaka, Y., Terasawa, M., Pieczyk, M., Habiro, K., Katakai, T., ... & Kinashi, T. (2012). DOCK8 is a Cdc42 activator critical for interstitial dendritic cell migration during immune responses. Blood, 119(19), 4451-4461. [PubMed](https://pubmed.ncbi.nlm.nih.gov/22442346/)

@@ -1,0 +1,68 @@
+Feature	Number of Genes	Genes
+protein binding	6	DYRK4, ADNP2, GTPBP8, KCTD12, MRPL36, MTG1
+metal ion binding	5	DYRK4, ADNP2, GTPBP6, GTPBP8, TTLL4
+GTP binding	3	GTPBP6, GTPBP8, MTG1
+mitochondrion	3	GTPBP8, MRPL36, MTG1
+ATP binding	2	DYRK4, TTLL4
+nucleus	2	DYRK4, ADNP2
+cytoplasm	2	DYRK4, GTPBP6
+cytosol	2	C15orf39, TTLL4
+RNA binding	2	KCTD12, ZNFX1
+mitochondrial translation	2	MRPL36, MTG1
+mitochondrial inner membrane	2	MRPL36, MTG1
+protein serine/threonine kinase activity	1	DYRK4
+protein serine/threonine/tyrosine kinase activity	1	DYRK4
+protein tyrosine kinase activity	1	DYRK4
+protein serine kinase activity	1	DYRK4
+peptidyl-serine phosphorylation	1	DYRK4
+peptidyl-threonine phosphorylation	1	DYRK4
+cytoskeleton	1	DYRK4
+intracellular membrane-bounded organelle	1	DYRK4
+DNA-binding transcription factor activity, RNA polymerase II-specific	1	ADNP2
+molecular_function	1	ADNP2
+DNA binding	1	ADNP2
+ transcription by RNA polymerase II	1	ADNP2
+nervous system development	1	ADNP2
+ gene expression	1	ADNP2
+chromatin	1	ADNP2
+cellular_component	1	ADNP2
+ribosome binding	1	GTPBP6
+identical protein binding	1	KCTD12
+ G protein-coupled receptor signaling pathway	1	KCTD12
+protein homooligomerization	1	KCTD12
+presynaptic membrane	1	KCTD12
+cell projection	1	KCTD12
+postsynaptic membrane	1	KCTD12
+structural constituent of ribosome	1	MRPL36
+translation	1	MRPL36
+ribosome biogenesis	1	MRPL36
+mitochondrial large ribosomal subunit	1	MRPL36
+nuclear body	1	MRPL36
+GTPase activity	1	MTG1
+ respiratory system process	1	MTG1
+ mitochondrial translation	1	MTG1
+mitochondrial matrix	1	MTG1
+mitochondrial ribosome	1	MTG1
+sequence-specific DNA binding	1	PGBD2
+tubulin binding	1	TTLL4
+protein-glutamic acid ligase activity	1	TTLL4
+tubulin-glutamic acid ligase activity	1	TTLL4
+microtubule cytoskeleton organization	1	TTLL4
+protein polyglutamylation	1	TTLL4
+peptidyl-glutamic acid modification	1	TTLL4
+ blastocyst development	1	TTLL4
+microtubule	1	TTLL4
+cilium	1	TTLL4
+ciliary basal body	1	TTLL4
+9+0 non-motile cilium	1	TTLL4
+helicase activity	1	ZNFX1
+zinc ion binding	1	ZNFX1
+activation of innate immune response	1	ZNFX1
+small ncRNA-mediated heterochromatin formation	1	ZNFX1
+defense response to bacterium	1	ZNFX1
+negative regulation of viral genome replication	1	ZNFX1
+innate immune response	1	ZNFX1
+defense response to virus	1	ZNFX1
+mitochondrial outer membrane	1	ZNFX1
+cytoplasmic stress granule	1	ZNFX1
+nuclear RNA-directed RNA polymerase complex	1	ZNFX1

@@ -1,0 +1,58 @@
+Your response should be formatted as HTML paragraphs
+Write a critical and concise analysis of this system, describing your reasoning as you go and providing references to scientific papers.
+
+A critical goal of the analysis is to determine if this is a novel complex or if any proteins are novel members of a known complex
+
+Format with Title, Summary, and References sections.        
+Avoid overly general statements of how the proteins are involved in various cellular processes        
+Avoid recapitulating the goals of the analysis.
+
+What cellular components and complexes are involved in this system?
+What mechanisms and biological processes are performed by this system?
+Propose a name for the system to reflect the function and location, and should be specific but brief. Do not compose an acronym. Place it as the title of your report
+Provide complete paper references with pubmed link.
+
+Proteins: RO60, IREB2, FAM120A, CNNM3, ELAVL2, MTIF2, PMPCA, MTERF3, MRPL53, MRPL37, MRPL58, MRPL28, BCAT2, MRPL14, MRPL23, MRPL42, MAPK11, CNNM2, MALSU1, MRPL48, YARS2, HSPD1, PMPCB, MRPL47, MRPL12, MRPL51, GADD45GIP1, MRPL10, MTFR1L, MRPL40, MRPL9, MRPL46, MRPL19, GTPBP3, COQ3, MRPL41, MRPL50, MRPL44, MRPL22, PARP9, MRPL57, NGRN, MRPL15, MRPL39, MRPL52, MTHFD2, RHOT2.
+
+System features from GO terms: 
+mitochondrion: 41 proteins: IREB2, MTIF2, PMPCA, MTERF3, MRPL53, MRPL37, MRPL58, MRPL28, BCAT2, MRPL14, MRPL23, MRPL42, MALSU1, MRPL48, YARS2, HSPD1, PMPCB, MRPL47, MRPL12, MRPL51, GADD45GIP1, MRPL10, MTFR1L, MRPL40, MRPL9, MRPL46, MRPL19, GTPBP3, COQ3, MRPL41, MRPL50, MRPL44, MRPL22, PARP9, MRPL57, NGRN, MRPL15, MRPL39, MRPL52, MTHFD2, RHOT2
+protein binding: 31 proteins: IREB2, CNNM3, ELAVL2, PMPCA, MTERF3, MRPL53, MRPL28, MRPL23, MAPK11, MALSU1, MRPL48, YARS2, HSPD1, MRPL12, MRPL51, GADD45GIP1, MRPL10, MTFR1L, MRPL40, MRPL9, MRPL19, GTPBP3, COQ3, MRPL41, MRPL44, PARP9, MRPL57, NGRN, MRPL15, MTHFD2, RHOT2
+mitochondrial inner membrane: 29 proteins: PMPCA, MRPL53, MRPL37, MRPL58, MRPL28, MRPL14, MRPL23, MRPL42, MRPL48, HSPD1, PMPCB, MRPL47, MRPL12, MRPL51, GADD45GIP1, MRPL10, MRPL40, MRPL9, MRPL46, MRPL19, COQ3, MRPL41, MRPL50, MRPL44, MRPL22, MRPL57, MRPL15, MRPL39, MRPL52
+mitochondrial translation: 25 proteins: MRPL53, MRPL37, MRPL58, MRPL28, MRPL14, MRPL23, MRPL42, MRPL48, MRPL47, MRPL12, MRPL51, GADD45GIP1, MRPL10, MRPL40, MRPL9, MRPL46, MRPL19, MRPL41, MRPL50, MRPL44, MRPL22, MRPL57, MRPL15, MRPL39, MRPL52
+mitochondrial large ribosomal subunit: 25 proteins: MRPL53, MRPL37, MRPL58, MRPL28, MRPL14, MRPL23, MRPL42, MRPL48, MRPL47, MRPL12, MRPL51, GADD45GIP1, MRPL10, MRPL40, MRPL9, MRPL46, MRPL19, MRPL41, MRPL50, MRPL44, MRPL22, MRPL57, MRPL15, MRPL39, MRPL52
+RNA binding: 22 proteins: RO60, IREB2, FAM120A, ELAVL2, MTIF2, MRPL37, MRPL28, MRPL14, MRPL23, MRPL42, YARS2, HSPD1, MRPL12, MRPL10, MRPL40, MRPL9, MRPL41, MRPL44, MRPL22, NGRN, MRPL15, MRPL39
+structural constituent of ribosome: 18 proteins: MRPL37, MRPL28, MRPL14, MRPL23, MRPL42, MRPL47, MRPL12, MRPL51, MRPL10, MRPL9, MRPL46, MRPL19, MRPL41, MRPL44, MRPL22, MRPL57, MRPL15, MRPL52
+nucleoplasm: 12 proteins: RO60, MTIF2, MRPL58, BCAT2, MAPK11, GADD45GIP1, MRPL10, MRPL46, MRPL44, PARP9, NGRN, MRPL52
+cytosol: 11 proteins: RO60, IREB2, FAM120A, MTERF3, MRPL28, MAPK11, MALSU1, YARS2, HSPD1, MRPL50, PARP9
+translation: 11 proteins: MRPL37, MRPL28, MRPL23, MRPL42, YARS2, MRPL12, MRPL51, MRPL10, MRPL9, MRPL41, MRPL52
+mitochondrial ribosome: 8 proteins: MRPL37, MRPL28, MRPL48, MRPL51, MRPL40, MRPL9, MRPL57, MRPL39
+mitochondrial matrix: 8 proteins: MRPL58, BCAT2, MALSU1, YARS2, HSPD1, GADD45GIP1, COQ3, MTHFD2
+plasma membrane: 7 proteins: FAM120A, CNNM3, MRPL58, MRPL42, CNNM2, HSPD1, MRPL44
+cytoplasm: 6 proteins: IREB2, MTIF2, MAPK11, HSPD1, GTPBP3, PARP9
+nucleus: 6 proteins: FAM120A, MAPK11, MRPL40, MRPL19, PARP9, NGRN
+membrane: 5 proteins: FAM120A, CNNM3, HSPD1, PARP9, RHOT2
+metal ion binding: 4 proteins: RO60, IREB2, PMPCA, PMPCB
+nuclear body: 4 proteins: RO60, YARS2, MRPL44, NGRN
+ribonucleoprotein complex: 4 proteins: RO60, ELAVL2, MRPL10, MRPL41
+ATP binding: 4 proteins: MAPK11, CNNM2, YARS2, HSPD1
+ DNA-templated transcription: 3 proteins: ELAVL2, MRPL12, PARP9
+GTPase activity: 3 proteins: MTIF2, GTPBP3, RHOT2
+GTP binding: 3 proteins: MTIF2, GTPBP3, RHOT2
+extracellular space: 3 proteins: PMPCA, HSPD1, MTHFD2
+ gene expression: 2 proteins: RO60, MAPK11
+transport: 2 proteins: CNNM3, CNNM2
+magnesium ion homeostasis: 2 proteins: CNNM3, CNNM2
+metalloendopeptidase activity: 2 proteins: PMPCA, PMPCB
+protein processing involved in protein targeting to mitochondrion: 2 proteins: PMPCA, PMPCB
+mitochondrial processing peptidase complex: 2 proteins: PMPCA, PMPCB
+mitochondrial transcription: 2 proteins: MTERF3, MRPL12
+mitochondrial ribosome assembly: 2 proteins: MTERF3, NGRN
+mitochondrial outer membrane: 2 proteins: MTERF3, RHOT2
+cellular response to leukemia inhibitory factor: 2 proteins: BCAT2, MRPL15
+ interleukin-12 production: 2 proteins: MAPK11, HSPD1
+double-stranded RNA binding: 2 proteins: HSPD1, MRPL44
+enzyme binding: 2 proteins: HSPD1, PARP9
+protein-containing complex: 2 proteins: HSPD1, PARP9
+molecular_function: 2 proteins: MRPL47, MRPL46
+biological_process: 2 proteins: MRPL47, MRPL46
+cell cycle: 2 proteins: GADD45GIP1, MRPL41

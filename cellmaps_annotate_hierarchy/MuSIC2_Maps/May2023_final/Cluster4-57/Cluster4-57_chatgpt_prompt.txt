@@ -1,0 +1,26 @@
+Your response should be formatted as Markdown paragraphs
+Write a critical and concise analysis of this human protein system, describing your reasoning as you go and providing references to scientific papers.
+
+A critical goal of the analysis is to determine if this is a novel complex or if any proteins are novel members of a known complex
+
+Format with Title, Summary, and References sections.        
+Avoid overly general statements of how the proteins are involved in various cellular processes        
+Avoid repeating the goals of the analysis.
+
+What cellular components and complexes are involved in this system?
+What mechanisms and biological processes are performed by this system?
+Propose a name for the system to reflect the cellular location and function, and should be specific but brief. Do not compose an acronym. Place it as the title of your report
+Human Proteins: GPSM2, GNG2, GNB2, GNB4.
+
+System features from GO terms: 
+protein binding: 4 proteins: GPSM2, GNG2, GNB2, GNB4
+G protein-coupled receptor signaling pathway: 4 proteins: GPSM2, GNG2, GNB2, GNB4
+cytoplasm: 3 proteins: GPSM2, GNB2, GNB4
+cytosol: 3 proteins: GPSM2, GNB2, GNB4
+heterotrimeric G-protein complex: 3 proteins: GNG2, GNB2, GNB4
+extracellular exosome: 3 proteins: GNG2, GNB2, GNB4
+plasma membrane: 2 proteins: GNG2, GNB2
+membrane: 2 proteins: GNG2, GNB2
+signaling receptor complex adaptor activity: 2 proteins: GNB2, GNB4
+protein-containing complex binding: 2 proteins: GNB2, GNB4
+lysosomal membrane: 2 proteins: GNB2, GNB4

@@ -1,0 +1,76 @@
+Your response should be formatted as Markdown paragraphs
+Write a critical and concise analysis of this human protein system, describing your reasoning as you go and providing references to scientific papers.
+
+A critical goal of the analysis is to determine if this is a novel complex or if any proteins are novel members of a known complex
+
+Format with Title, Summary, and References sections.        
+Avoid overly general statements of how the proteins are involved in various cellular processes        
+Avoid repeating the goals of the analysis.
+
+What cellular components and complexes are involved in this system?
+What mechanisms and biological processes are performed by this system?
+Propose a name for the system to reflect the cellular location and function, and should be specific but brief. Do not compose an acronym. Place it as the title of your report
+Human Proteins: APOA1, HSD17B4, EPHX4, PEX19, FBXW7, SEC24C, EXOC2, GSTK1, TDGF1, PPP1R11, ACOX3, GYG1, GLIPR1L2, FAM98A, ACBD5, SLC25A17, MIA3, PEX14, SEC24A, OSBPL5, RAB11FIP2, TUFT1, STMN2, NIF3L1, NAP1L3, CAB39L, WDR48, UBR1, AMBRA1, ECI2, RABGGTB, RAB11FIP1, SEC23B, SEC24B.
+
+System features from GO terms: 
+protein binding: 28 proteins: APOA1, EPHX4, PEX19, FBXW7, SEC24C, EXOC2, GSTK1, TDGF1, PPP1R11, GYG1, FAM98A, SLC25A17, MIA3, PEX14, SEC24A, RAB11FIP2, TUFT1, STMN2, NIF3L1, NAP1L3, CAB39L, WDR48, UBR1, AMBRA1, ECI2, RABGGTB, SEC23B, SEC24B
+cytosol: 24 proteins: APOA1, HSD17B4, PEX19, FBXW7, SEC24C, EXOC2, GSTK1, ACOX3, GYG1, ACBD5, SLC25A17, PEX14, SEC24A, OSBPL5, STMN2, CAB39L, WDR48, UBR1, AMBRA1, ECI2, RABGGTB, RAB11FIP1, SEC23B, SEC24B
+membrane: 14 proteins: HSD17B4, EPHX4, EXOC2, GSTK1, ACOX3, GYG1, GLIPR1L2, ACBD5, SLC25A17, MIA3, PEX14, OSBPL5, STMN2, ECI2
+cytoplasm: 12 proteins: PEX19, FBXW7, PPP1R11, GYG1, FAM98A, ACBD5, TUFT1, STMN2, NIF3L1, CAB39L, UBR1, AMBRA1
+peroxisome: 8 proteins: HSD17B4, PEX19, GSTK1, ACOX3, ACBD5, SLC25A17, PEX14, ECI2
+nucleus: 8 proteins: FBXW7, PPP1R11, FAM98A, PEX14, NIF3L1, NAP1L3, WDR48, AMBRA1
+intracellular membrane-bounded organelle: 7 proteins: MIA3, OSBPL5, RAB11FIP2, WDR48, AMBRA1, ECI2, RAB11FIP1
+zinc ion binding: 6 proteins: SEC24C, SEC24A, UBR1, RABGGTB, SEC23B, SEC24B
+endoplasmic reticulum membrane: 6 proteins: SEC24C, MIA3, SEC24A, OSBPL5, SEC23B, SEC24B
+identical protein binding: 5 proteins: APOA1, FBXW7, PEX14, RAB11FIP2, NIF3L1
+peroxisomal membrane: 5 proteins: HSD17B4, PEX19, ACBD5, SLC25A17, PEX14
+nucleoplasm: 5 proteins: PEX19, FBXW7, ACBD5, RAB11FIP2, WDR48
+mitochondrion: 5 proteins: FBXW7, GSTK1, NIF3L1, AMBRA1, ECI2
+COPII-coated vesicle cargo loading: 5 proteins: SEC24C, MIA3, SEC24A, SEC23B, SEC24B
+endoplasmic reticulum exit site: 5 proteins: SEC24C, MIA3, SEC24A, SEC23B, SEC24B
+protein homodimerization activity: 4 proteins: APOA1, HSD17B4, GYG1, RAB11FIP2
+extracellular region: 4 proteins: APOA1, TDGF1, GYG1, TUFT1
+plasma membrane: 4 proteins: APOA1, EXOC2, TDGF1, RABGGTB
+peroxisomal matrix: 4 proteins: HSD17B4, GSTK1, ACOX3, ECI2
+perinuclear region of cytoplasm: 4 proteins: FBXW7, STMN2, AMBRA1, SEC23B
+intracellular protein transport: 4 proteins: SEC24C, SEC24A, SEC23B, SEC24B
+endoplasmic reticulum to Golgi vesicle-mediated transport: 4 proteins: SEC24C, MIA3, SEC24A, SEC24B
+COPII vesicle coat: 4 proteins: SEC24C, SEC24A, SEC23B, SEC24B
+small GTPase binding: 4 proteins: EXOC2, RAB11FIP2, RABGGTB, RAB11FIP1
+signaling receptor binding: 3 proteins: APOA1, TDGF1, PEX14
+protein stabilization: 3 proteins: APOA1, PEX19, FBXW7
+extracellular space: 3 proteins: APOA1, TDGF1, GLIPR1L2
+fatty acid beta-oxidation: 3 proteins: HSD17B4, SLC25A17, ECI2
+protein ubiquitination: 3 proteins: FBXW7, PPP1R11, UBR1
+endoplasmic reticulum: 3 proteins: FBXW7, AMBRA1, SEC23B
+SNARE binding: 3 proteins: SEC24C, SEC24A, SEC24B
+ER to Golgi transport vesicle membrane: 3 proteins: SEC24C, SEC24A, SEC24B
+protein transport: 3 proteins: EXOC2, MIA3, RAB11FIP1
+cholesterol binding: 2 proteins: APOA1, OSBPL5
+cholesterol metabolic process: 2 proteins: APOA1, OSBPL5
+cholesterol transport: 2 proteins: APOA1, OSBPL5
+cholesterol homeostasis: 2 proteins: APOA1, SEC24A
+intermembrane lipid transfer: 2 proteins: APOA1, OSBPL5
+endoplasmic reticulum lumen: 2 proteins: APOA1, MIA3
+secretory granule lumen: 2 proteins: APOA1, GYG1
+extracellular exosome: 2 proteins: APOA1, GSTK1
+peroxisome organization: 2 proteins: PEX19, PEX14
+protein-containing complex: 2 proteins: PEX19, PEX14
+protein-macromolecule adaptor activity: 2 proteins: FBXW7, PEX14
+ubiquitin protein ligase binding: 2 proteins: FBXW7, AMBRA1
+ubiquitin binding: 2 proteins: FBXW7, WDR48
+proteasome-mediated ubiquitin-dependent protein catabolic process: 2 proteins: FBXW7, AMBRA1
+lipid homeostasis: 2 proteins: FBXW7, ACOX3
+Golgi apparatus: 2 proteins: FBXW7, STMN2
+protein kinase binding: 2 proteins: EXOC2, RAB11FIP2
+exocytosis: 2 proteins: EXOC2, MIA3
+Golgi to plasma membrane transport: 2 proteins: EXOC2, OSBPL5
+cell migration involved in sprouting angiogenesis: 2 proteins: TDGF1, MIA3
+ cell population proliferation: 2 proteins: TDGF1, FAM98A
+cell differentiation: 2 proteins: TDGF1, AMBRA1
+ubiquitin protein ligase activity: 2 proteins: PPP1R11, UBR1
+molecular function inhibitor activity: 2 proteins: PPP1R11, AMBRA1
+fatty-acyl-CoA binding: 2 proteins: ACBD5, ECI2
+regulated exocytosis: 2 proteins: RAB11FIP2, RAB11FIP1
+endosome: 2 proteins: RAB11FIP2, STMN2
+intracellular signal transduction: 2 proteins: TUFT1, CAB39L

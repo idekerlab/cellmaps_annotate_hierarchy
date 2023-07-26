@@ -1,0 +1,56 @@
+Your response should be formatted as Markdown paragraphs
+Write a critical and concise analysis of this human protein system, describing your reasoning as you go and providing references to scientific papers.
+
+A critical goal of the analysis is to determine if this is a novel complex or if any proteins are novel members of a known complex
+
+Format with Title, Summary, and References sections.        
+Avoid overly general statements of how the proteins are involved in various cellular processes        
+Avoid repeating the goals of the analysis.
+
+What cellular components and complexes are involved in this system?
+What mechanisms and biological processes are performed by this system?
+Propose a name for the system to reflect the cellular location and function, and should be specific but brief. Do not compose an acronym. Place it as the title of your report
+Human Proteins: PPP1R21, TBL1XR1, NCOR2, FOXJ2, GPS2, NCOR1, KANSL1L, NRIP1, TBL1X, USP3, NCOA2, HDAC3, SLF2.
+
+System features from GO terms: 
+nucleus: 11 proteins: TBL1XR1, NCOR2, FOXJ2, GPS2, NCOR1, NRIP1, TBL1X, USP3, NCOA2, HDAC3, SLF2
+nucleoplasm: 11 proteins: TBL1XR1, NCOR2, FOXJ2, GPS2, NCOR1, NRIP1, TBL1X, USP3, NCOA2, HDAC3, SLF2
+protein binding: 10 proteins: TBL1XR1, NCOR2, FOXJ2, GPS2, NCOR1, NRIP1, TBL1X, NCOA2, HDAC3, SLF2
+negative regulation of transcription by RNA polymerase II: 8 proteins: TBL1XR1, NCOR2, GPS2, NCOR1, NRIP1, TBL1X, NCOA2, HDAC3
+transcription corepressor activity: 7 proteins: TBL1XR1, NCOR2, GPS2, NCOR1, NRIP1, TBL1X, HDAC3
+ transcription by RNA polymerase II: 7 proteins: TBL1XR1, FOXJ2, GPS2, NRIP1, TBL1X, NCOA2, HDAC3
+chromatin: 7 proteins: NCOR2, FOXJ2, NCOR1, NRIP1, USP3, NCOA2, SLF2
+transcription repressor complex: 6 proteins: TBL1XR1, NCOR2, GPS2, NCOR1, TBL1X, HDAC3
+histone deacetylase complex: 5 proteins: TBL1XR1, NCOR1, NRIP1, TBL1X, HDAC3
+mitotic spindle: 4 proteins: TBL1XR1, NCOR1, TBL1X, HDAC3
+histone deacetylase binding: 4 proteins: NCOR2, NCOR1, NRIP1, HDAC3
+cytosol: 4 proteins: GPS2, NCOR1, NRIP1, HDAC3
+membrane: 3 proteins: PPP1R21, NCOR2, NCOR1
+transcription cis-regulatory region binding: 3 proteins: TBL1XR1, NCOR1, TBL1X
+histone binding: 3 proteins: TBL1XR1, TBL1X, USP3
+chromatin organization: 3 proteins: TBL1XR1, NCOR1, HDAC3
+histone deacetylation: 3 proteins: TBL1XR1, TBL1X, HDAC3
+ DNA-templated transcription: 3 proteins: TBL1XR1, TBL1X, NCOA2
+chromatin binding: 3 proteins: NCOR2, NCOA2, HDAC3
+negative regulation of DNA-templated transcription: 3 proteins: NCOR2, NCOR1, HDAC3
+RNA polymerase II cis-regulatory region sequence-specific DNA binding: 3 proteins: FOXJ2, NRIP1, NCOA2
+transcription coactivator activity: 3 proteins: GPS2, NRIP1, NCOA2
+negative regulation of JNK cascade: 3 proteins: GPS2, NCOR1, HDAC3
+nuclear receptor binding: 3 proteins: NCOR1, NRIP1, NCOA2
+circadian regulation of gene expression: 3 proteins: NRIP1, NCOA2, HDAC3
+cytoplasm: 3 proteins: USP3, NCOA2, HDAC3
+proteasome-mediated ubiquitin-dependent protein catabolic process: 2 proteins: TBL1XR1, TBL1X
+ canonical Wnt signaling pathway: 2 proteins: TBL1XR1, TBL1X
+nuclear glucocorticoid receptor binding: 2 proteins: NCOR2, NRIP1
+protein-containing complex binding: 2 proteins: NCOR2, SLF2
+nuclear retinoid X receptor binding: 2 proteins: NCOR2, NRIP1
+negative regulation of androgen receptor signaling pathway: 2 proteins: NCOR2, NCOR1
+negative regulation of miRNA transcription: 2 proteins: NCOR2, NCOR1
+nuclear body: 2 proteins: NCOR2, NCOA2
+fibrillar center: 2 proteins: FOXJ2, NRIP1
+cyclin binding: 2 proteins: GPS2, HDAC3
+DNA-templated transcription: 2 proteins: GPS2, NRIP1
+ lipid metabolic process: 2 proteins: GPS2, NCOA2
+transcription regulator complex: 2 proteins: GPS2, NCOA2
+locomotor rhythm: 2 proteins: NCOR1, NCOA2
+spindle assembly: 2 proteins: NCOR1, HDAC3

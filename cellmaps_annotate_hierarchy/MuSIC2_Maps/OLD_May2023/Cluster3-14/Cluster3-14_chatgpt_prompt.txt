@@ -1,0 +1,121 @@
+Write a critical and concise analysis of this system, describing your reasoning as you go and providing references to scientific papers. Format the page with Title, Summary, and References sections.
+What cellular components and complexes are involved in this system?
+What mechanisms and biological processes are performed by this system?
+Propose a name for the system to reflect the function and location, and should be specific but brief. Do not compose an acronym. Place it as the title of your report
+Provide complete paper references with pubmed link
+Proteins: NAPG, ASPSCR1, STAMBPL1, TWF2, AKAP12, ABTB1, ATG3, ATG7, CALB2, CRK, CSK, DAG1, DDAH1, DFFA, EHD1, EHD3, GABPA, GLRX, HEBP1, KANSL3, LMCD1, LRRFIP1, MIF, NCAM1, NHERF1, NIBAN2, NT5C, PACSIN2, PDLIM5, PHPT1, PREP, PRKCA, PRRC1, PTGES3L-AARSD1, RPEL1, RPIA, S100A13, SAE1, SBDS, SWAP70, TIGAR, TPD52L1, TTLL12, UBQLN2, ZNF185.
+
+A critical goal of the analysis is to determine if this is a novel complex or if any proteins are novel members of a known complex
+System features from GO terms: 
+protein binding: 38 proteins: NAPG, ASPSCR1, STAMBPL1, TWF2, AKAP12, ABTB1, ATG3, ATG7, CRK, CSK, DAG1, DFFA, EHD1, EHD3, GABPA, GLRX, LMCD1, LRRFIP1, MIF, NCAM1, NHERF1, NIBAN2, PACSIN2, PDLIM5, PHPT1, PREP, PRKCA, PRRC1, RPIA, S100A13, SAE1, SBDS, SWAP70, TIGAR, TPD52L1, TTLL12, UBQLN2, ZNF185
+cytosol: 32 proteins: ASPSCR1, STAMBPL1, AKAP12, ABTB1, ATG3, ATG7, CALB2, CRK, CSK, DAG1, DDAH1, DFFA, EHD3, GLRX, LRRFIP1, MIF, NCAM1, NIBAN2, NT5C, PACSIN2, PDLIM5, PHPT1, PREP, PRKCA, RPEL1, RPIA, S100A13, SBDS, SWAP70, TIGAR, TTLL12, UBQLN2
+cytoplasm: 31 proteins: ASPSCR1, TWF2, AKAP12, ABTB1, ATG3, ATG7, CRK, CSK, DAG1, EHD1, EHD3, HEBP1, LMCD1, LRRFIP1, MIF, NHERF1, NIBAN2, NT5C, PACSIN2, PREP, PRKCA, PRRC1, S100A13, SAE1, SBDS, SWAP70, TIGAR, TPD52L1, TTLL12, UBQLN2, ZNF185
+nucleus: 20 proteins: ASPSCR1, CALB2, CRK, DFFA, EHD3, GABPA, GLRX, LMCD1, LRRFIP1, NHERF1, NIBAN2, NT5C, PREP, S100A13, SAE1, SBDS, SWAP70, TIGAR, TTLL12, UBQLN2
+plasma membrane: 20 proteins: ASPSCR1, AKAP12, ABTB1, CRK, CSK, DAG1, DFFA, EHD1, EHD3, LRRFIP1, MIF, NCAM1, NIBAN2, PACSIN2, PHPT1, PRKCA, S100A13, SWAP70, TTLL12, UBQLN2
+extracellular exosome: 16 proteins: NAPG, TWF2, CRK, CSK, DAG1, DDAH1, EHD1, GLRX, HEBP1, MIF, NHERF1, NIBAN2, NT5C, PACSIN2, PHPT1, PRKCA
+nucleoplasm: 13 proteins: ASPSCR1, DAG1, DFFA, GABPA, KANSL3, LMCD1, MIF, NIBAN2, PHPT1, PRKCA, S100A13, SAE1, SBDS
+identical protein binding: 9 proteins: CSK, EHD1, MIF, NHERF1, NT5C, PACSIN2, RPIA, TPD52L1, UBQLN2
+perinuclear region of cytoplasm: 8 proteins: ASPSCR1, TWF2, EHD1, EHD3, NHERF1, PRKCA, S100A13, TPD52L1
+membrane: 8 proteins: STAMBPL1, CRK, DAG1, EHD1, NCAM1, NHERF1, PDLIM5, PREP
+ATP binding: 7 proteins: TWF2, CSK, EHD1, EHD3, PRKCA, SWAP70, TTLL12
+metal ion binding: 6 proteins: STAMBPL1, CSK, DDAH1, NT5C, PDLIM5, RPEL1
+cadherin binding: 6 proteins: TWF2, EHD1, LRRFIP1, NIBAN2, PACSIN2, SWAP70
+extracellular region: 6 proteins: ATG7, DAG1, HEBP1, MIF, NCAM1, S100A13
+calcium ion binding: 6 proteins: CALB2, DAG1, EHD1, EHD3, S100A13, SWAP70
+intracellular membrane-bounded organelle: 5 proteins: ASPSCR1, DAG1, KANSL3, PACSIN2, RPIA
+focal adhesion: 5 proteins: AKAP12, DAG1, EHD3, PACSIN2, ZNF185
+actin cytoskeleton organization: 5 proteins: CRK, NHERF1, PACSIN2, PDLIM5, PHPT1
+cytoskeleton: 4 proteins: AKAP12, DAG1, LRRFIP1, ZNF185
+protein homodimerization activity: 4 proteins: ATG7, LRRFIP1, S100A13, TPD52L1
+actin cytoskeleton: 4 proteins: CRK, NHERF1, PDLIM5, SWAP70
+negative regulation of cell population proliferation: 4 proteins: CSK, DDAH1, NHERF1, NIBAN2
+zinc ion binding: 4 proteins: LMCD1, PRKCA, S100A13, ZNF185
+intracellular protein transport: 3 proteins: NAPG, ASPSCR1, EHD1
+mitochondrion: 3 proteins: NAPG, GLRX, PRKCA
+lamellipodium: 3 proteins: TWF2, DAG1, SWAP70
+filopodium: 3 proteins: TWF2, DAG1, NHERF1
+positive regulation of ERK1 and ERK2 cascade: 3 proteins: AKAP12, MIF, PRKCA
+nucleolus: 3 proteins: ABTB1, S100A13, SBDS
+autophagosome assembly: 3 proteins: ATG3, ATG7, UBQLN2
+protein transport: 3 proteins: ATG7, EHD3, S100A13
+regulation of transcription by RNA polymerase II: 3 proteins: CRK, GABPA, LRRFIP1
+membrane raft: 3 proteins: CRK, CSK, NHERF1
+positive regulation of MAP kinase activity: 3 proteins: CSK, MIF, TPD52L1
+extracellular space: 3 proteins: DAG1, MIF, S100A13
+adherens junction: 3 proteins: DAG1, NIBAN2, PDLIM5
+protein localization to plasma membrane: 3 proteins: EHD1, EHD3, NHERF1
+early endosome: 3 proteins: EHD1, EHD3, PACSIN2
+recycling endosome membrane: 3 proteins: EHD1, EHD3, PACSIN2
+negative regulation of transcription by RNA polymerase II: 3 proteins: GABPA, LMCD1, LRRFIP1
+protein-containing complex assembly: 2 proteins: NAPG, NHERF1
+Golgi apparatus: 2 proteins: NAPG, PRRC1
+positive regulation of protein modification process: 2 proteins: ASPSCR1, ATG7
+endomembrane system: 2 proteins: ASPSCR1, NHERF1
+endosome: 2 proteins: STAMBPL1, PACSIN2
+RNA binding: 2 proteins: TWF2, SBDS
+protein kinase C binding: 2 proteins: TWF2, PDLIM5
+actin filament binding: 2 proteins: TWF2, PHPT1
+positive regulation of neuron projection development: 2 proteins: TWF2, EHD1
+regulation of actin cytoskeleton organization: 2 proteins: TWF2, CRK
+positive regulation of protein kinase A signaling: 2 proteins: AKAP12, MIF
+positive regulation of tumor necrosis factor production: 2 proteins: AKAP12, MIF
+negative regulation of vascular permeability: 2 proteins: AKAP12, DDAH1
+modulation of chemical synaptic transmission: 2 proteins: AKAP12, PACSIN2
+enzyme binding: 2 proteins: ATG3, PRKCA
+autophagy of mitochondrion: 2 proteins: ATG3, ATG7
+protein ubiquitination: 2 proteins: ATG3, SAE1
+negative regulation of phagocytosis: 2 proteins: ATG3, CSK
+phagophore assembly site: 2 proteins: ATG3, ATG7
+positive regulation of apoptotic process: 2 proteins: ATG7, DFFA
+secretory granule lumen: 2 proteins: ATG7, MIF
+ficolin-1-rich granule lumen: 2 proteins: ATG7, MIF
+cytoskeletal protein binding: 2 proteins: CRK, PACSIN2
+SH2 domain binding: 2 proteins: CRK, DAG1
+protein self-association: 2 proteins: CRK, NHERF1
+protein tyrosine kinase binding: 2 proteins: CRK, CSK
+regulation of cell shape: 2 proteins: CRK, NHERF1
+positive regulation of JNK cascade: 2 proteins: CRK, TPD52L1
+cellular response to nerve growth factor stimulus: 2 proteins: CRK, EHD1
+protein-containing complex: 2 proteins: CRK, DFFA
+protein phosphorylation: 2 proteins: CSK, PRKCA
+negative regulation of ERK1 and ERK2 cascade: 2 proteins: CSK, NHERF1
+cell-cell junction: 2 proteins: CSK, PACSIN2
+virus receptor activity: 2 proteins: DAG1, NCAM1
+actin binding: 2 proteins: DAG1, PDLIM5
+tubulin binding: 2 proteins: DAG1, TTLL12
+protein-containing complex binding: 2 proteins: DAG1, NHERF1
+morphogenesis of an epithelium: 2 proteins: DAG1, NHERF1
+axon guidance: 2 proteins: DAG1, NIBAN2
+negative regulation of cell migration: 2 proteins: DAG1, MIF
+viral entry into host cell: 2 proteins: DAG1, NCAM1
+negative regulation of protein kinase B signaling: 2 proteins: DAG1, NHERF1
+commissural neuron axon guidance: 2 proteins: DAG1, NCAM1
+external side of plasma membrane: 2 proteins: DAG1, NCAM1
+collagen-containing extracellular matrix: 2 proteins: DAG1, NCAM1
+glutamatergic synapse: 2 proteins: DAG1, PACSIN2
+positive regulation of angiogenesis: 2 proteins: DDAH1, PRKCA
+chromatin: 2 proteins: DFFA, GABPA
+GTP binding: 2 proteins: EHD1, EHD3
+endocytosis: 2 proteins: EHD1, EHD3
+endocytic recycling: 2 proteins: EHD1, EHD3
+protein homooligomerization: 2 proteins: EHD1, EHD3
+cilium assembly: 2 proteins: EHD1, EHD3
+endosome membrane: 2 proteins: EHD1, EHD3
+ciliary pocket membrane: 2 proteins: EHD1, EHD3
+endocytic vesicle: 2 proteins: EHD1, EHD3
+RNA polymerase II cis-regulatory region sequence-specific DNA binding: 2 proteins: GABPA, LRRFIP1
+DNA-binding transcription factor activity, RNA polymerase II-specific: 2 proteins: GABPA, LRRFIP1
+cell differentiation: 2 proteins: GABPA, NIBAN2
+positive regulation of transcription by RNA polymerase II: 2 proteins: GABPA, KANSL3
+positive regulation of DNA-templated transcription: 2 proteins: KANSL3, NIBAN2
+DNA binding: 2 proteins: LRRFIP1, SWAP70
+positive regulation of cytokine production: 2 proteins: MIF, S100A13
+positive regulation of cell population proliferation: 2 proteins: MIF, S100A13
+positive regulation of lipopolysaccharide-mediated signaling pathway: 2 proteins: MIF, PRKCA
+negative regulation of apoptotic process: 2 proteins: MIF, NIBAN2
+innate immune response: 2 proteins: MIF, TTLL12
+cell surface: 2 proteins: MIF, NCAM1
+vesicle: 2 proteins: MIF, NHERF1
+cell adhesion: 2 proteins: NCAM1, PRKCA
+transmembrane transporter binding: 2 proteins: NHERF1, PHPT1
+pentose-phosphate shunt, non-oxidative branch: 2 proteins: RPEL1, RPIA

@@ -1,0 +1,119 @@
+Feature	Number of Genes	Genes
+protein binding	19	GLMN, APPBP2, COPS3, COPS6, COPS7A, COPS7B, COPS8, COPS9, CUL4A, CUL4B, DCAF11, FEM1B, FEM1C, KCTD9, LRR1, LRRC14, RNF7, SOCS4, SOCS5
+nucleoplasm	13	APPBP2, COPS3, COPS6, COPS7A, COPS7B, COPS8, COPS9, CUL4A, CUL4B, DCAF11, FEM1B, FEM1C, RNF7
+nucleus	12	APPBP2, COPS3, COPS6, COPS7A, COPS7B, COPS8, COPS9, CUL4A, CUL4B, FEM1B, LRR1, RNF7
+cytosol	12	COPS3, COPS6, COPS7A, COPS7B, COPS8, CUL4B, FEM1B, FEM1C, LRR1, LRRC14, RNF7, SOCS5
+cytoplasm	11	GLMN, APPBP2, COPS3, COPS6, COPS7A, COPS7B, COPS8, COPS9, FEM1B, LRRC14, RNF7
+protein ubiquitination	11	APPBP2, CUL4A, CUL4B, DCAF11, FEM1B, FEM1C, KCTD9, LRR1, RNF7, SOCS4, SOCS5
+protein neddylation	6	COPS3, COPS6, COPS7A, COPS7B, COPS8, RNF7
+COP9 signalosome	6	COPS3, COPS6, COPS7A, COPS7B, COPS8, COPS9
+proteasome-mediated ubiquitin-dependent protein catabolic process	5	APPBP2, CUL4A, DCAF11, FEM1B, FEM1C
+protein deneddylation	5	COPS3, COPS6, COPS7A, COPS7B, COPS8
+ protein neddylation	5	COPS3, COPS6, COPS7A, COPS7B, COPS8
+Cul2-RING ubiquitin ligase complex	4	GLMN, APPBP2, FEM1B, FEM1C
+ubiquitin-dependent protein catabolic process	4	COPS3, CUL4B, FEM1C, RNF7
+ubiquitin protein ligase binding	3	GLMN, CUL4A, CUL4B
+ proteasomal ubiquitin-dependent protein catabolic process	3	GLMN, SOCS4, SOCS5
+Cul4A-RING E3 ubiquitin ligase complex	3	GLMN, CUL4A, CUL4B
+ubiquitin ligase-substrate adaptor activity	3	APPBP2, FEM1B, FEM1C
+perinuclear region of cytoplasm	3	COPS3, COPS6, COPS8
+COP9 signalosome assembly	3	COPS7A, COPS7B, COPS8
+cellular response to UV	3	COPS9, CUL4A, CUL4B
+Cul4-RING E3 ubiquitin ligase complex	3	CUL4A, CUL4B, DCAF11
+intracellular signal transduction	3	KCTD9, SOCS4, SOCS5
+negative regulation of cell population proliferation	2	GLMN, COPS8
+in utero embryonic development	2	COPS3, CUL4A
+extracellular exosome	2	COPS8, CUL4B
+ cell population proliferation	2	COPS9, CUL4A
+ubiquitin protein ligase activity	2	CUL4A, RNF7
+G1/S transition of mitotic cell cycle	2	CUL4A, CUL4B
+DNA damage response	2	CUL4A, CUL4B
+ribosome biogenesis	2	CUL4A, CUL4B
+ protein catabolic process	2	CUL4A, CUL4B
+ G1/S transition of mitotic cell cycle	2	CUL4A, CUL4B
+ DNA damage checkpoint	2	CUL4A, FEM1B
+ubiquitin-dependent protein catabolic process via the C-end degron rule pathway	2	FEM1B, FEM1C
+cullin family protein binding	2	KCTD9, RNF7
+1-phosphatidylinositol-3-kinase regulator activity	2	SOCS4, SOCS5
+negative regulation of epidermal growth factor-activated receptor activity	2	SOCS4, SOCS5
+phosphatidylinositol phosphate biosynthetic process	2	SOCS4, SOCS5
+phosphatidylinositol 3-kinase complex	2	SOCS4, SOCS5
+signaling receptor binding	1	GLMN
+hepatocyte growth factor receptor binding	1	GLMN
+ubiquitin-protein transferase inhibitor activity	1	GLMN
+vasculogenesis	1	GLMN
+ cytokine production	1	GLMN
+neural tube closure	1	GLMN
+cell surface receptor signaling pathway	1	GLMN
+negative regulation of protein ubiquitination	1	GLMN
+ interleukin-2 production	1	GLMN
+epigenetic regulation of gene expression	1	GLMN
+negative regulation of T cell proliferation	1	GLMN
+ phosphorylation	1	GLMN
+muscle cell differentiation	1	GLMN
+cullin-RING ubiquitin ligase complex	1	GLMN
+Cul3-RING ubiquitin ligase complex	1	GLMN
+microtubule motor activity	1	APPBP2
+intracellular protein transport	1	APPBP2
+intracellular transport	1	APPBP2
+microtubule	1	APPBP2
+microtubule associated complex	1	APPBP2
+cytoplasmic vesicle membrane	1	APPBP2
+signal transduction	1	COPS3
+response to light stimulus	1	COPS3
+ DNA damage response, signal transduction by p53 class mediator resulting in transcription of p21 class mediator	1	COPS3
+peptidase activity	1	COPS6
+metal-dependent deubiquitinase activity	1	COPS6
+protein phosphorylation	1	COPS8
+activation of NF-kappaB-inducing kinase activity	1	COPS8
+negative regulation of protein neddylation	1	COPS9
+chromatin	1	COPS9
+DNA repair	1	CUL4A
+cell population proliferation	1	CUL4A
+hemopoiesis	1	CUL4A
+negative regulation of granulocyte differentiation	1	CUL4A
+somatic stem cell population maintenance	1	CUL4A
+rhythmic process	1	CUL4A
+intrinsic apoptotic signaling pathway	1	CUL4A
+ nucleotide-excision repair	1	CUL4A
+damaged DNA binding	1	CUL4B
+protein polyubiquitination	1	CUL4B
+gene expression	1	CUL4B
+proteasomal protein catabolic process	1	CUL4B
+neuron projection development	1	CUL4B
+astrocyte differentiation	1	CUL4B
+UV-damage excision repair	1	CUL4B
+Cul4B-RING E3 ubiquitin ligase complex	1	CUL4B
+death receptor binding	1	FEM1B
+apoptotic process	1	FEM1B
+ ubiquitin-protein transferase activity	1	FEM1B
+branching involved in prostate gland morphogenesis	1	FEM1B
+epithelial cell maturation involved in prostate gland development	1	FEM1B
+ extrinsic apoptotic signaling pathway via death domain receptors	1	FEM1B
+ubiquitin ligase complex	1	FEM1C
+identical protein binding	1	KCTD9
+protein self-association	1	KCTD9
+protein homooligomerization	1	KCTD9
+kinase binding	1	LRRC14
+negative regulation of NF-kappaB transcription factor activity	1	LRRC14
+negative regulation of toll-like receptor signaling pathway	1	LRRC14
+copper ion binding	1	RNF7
+zinc ion binding	1	RNF7
+NEDD8 transferase activity	1	RNF7
+NEDD8 ligase activity	1	RNF7
+post-translational protein modification	1	RNF7
+response to redox state	1	RNF7
+Cul5-RING ubiquitin ligase complex	1	RNF7
+epidermal growth factor receptor binding	1	SOCS5
+receptor tyrosine kinase binding	1	SOCS5
+epidermal growth factor receptor signaling pathway	1	SOCS5
+receptor signaling pathway via JAK-STAT	1	SOCS5
+negative regulation of signal transduction	1	SOCS5
+cytokine-mediated signaling pathway	1	SOCS5
+negative regulation of interleukin-6 production	1	SOCS5
+ T-helper 1 cell differentiation	1	SOCS5
+negative regulation of T-helper 2 cell differentiation	1	SOCS5
+negative regulation of inflammatory response	1	SOCS5
+cellular response to low-density lipoprotein particle stimulus	1	SOCS5
+negative regulation of monocyte chemotactic protein-1 production	1	SOCS5
+vascular endothelial cell response to fluid shear stress	1	SOCS5

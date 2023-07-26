@@ -1,0 +1,63 @@
+Your response should be formatted as Markdown paragraphs
+Write a critical and concise analysis of this human protein system, describing your reasoning as you go and providing references to scientific papers.
+
+A critical goal of the analysis is to determine if this is a novel complex or if any proteins are novel members of a known complex
+
+Format with Title, Summary, and References sections.        
+Avoid overly general statements of how the proteins are involved in various cellular processes        
+Avoid repeating the goals of the analysis.
+
+What cellular components and complexes are involved in this system?
+What mechanisms and biological processes are performed by this system?
+Propose a name for the system to reflect the cellular location and function, and should be specific but brief. Do not compose an acronym. Place it as the title of your report
+Human Proteins: CRELD1, GSTM3, TTK, RPL35, RPL28, RPL10L, EIF4G1, NFU1, PSRC1, RPL26L1, EME1, SERBP1, RPL26, LARP4, HUWE1, RPL10A, RPL17, RBM4B, YBX3, RPS14, RPL37A, RPL13, RPL14, RPL18, RPL30, RPL5, RPS10, RPS11, RPS8.
+
+System features from GO terms: 
+protein binding: 27 proteins: CRELD1, GSTM3, TTK, RPL28, EIF4G1, NFU1, PSRC1, RPL26L1, EME1, SERBP1, RPL26, LARP4, HUWE1, RPL10A, RPL17, RBM4B, YBX3, RPS14, RPL37A, RPL13, RPL14, RPL18, RPL30, RPL5, RPS10, RPS11, RPS8
+cytosol: 25 proteins: GSTM3, RPL35, RPL28, RPL10L, EIF4G1, NFU1, PSRC1, SERBP1, RPL26, LARP4, HUWE1, RPL10A, RPL17, RBM4B, YBX3, RPS14, RPL37A, RPL13, RPL14, RPL18, RPL30, RPL5, RPS10, RPS11, RPS8
+cytoplasm: 22 proteins: GSTM3, TTK, RPL35, RPL28, EIF4G1, PSRC1, SERBP1, RPL26, HUWE1, RPL10A, RPL17, YBX3, RPS14, RPL37A, RPL13, RPL14, RPL18, RPL30, RPL5, RPS10, RPS11, RPS8
+RNA binding: 22 proteins: RPL35, RPL28, EIF4G1, RPL26L1, SERBP1, RPL26, LARP4, HUWE1, RPL10A, RPL17, RBM4B, YBX3, RPS14, RPL37A, RPL13, RPL14, RPL18, RPL30, RPL5, RPS10, RPS11, RPS8
+membrane: 20 proteins: CRELD1, TTK, RPL35, RPL28, RPL10L, EIF4G1, SERBP1, RPL26, LARP4, HUWE1, RPL10A, RPS14, RPL13, RPL14, RPL18, RPL30, RPL5, RPS10, RPS11, RPS8
+translation: 18 proteins: RPL35, RPL28, RPL10L, EIF4G1, RPL26, LARP4, RPL10A, RPL17, RPS14, RPL37A, RPL13, RPL14, RPL18, RPL30, RPL5, RPS10, RPS11, RPS8
+structural constituent of ribosome: 17 proteins: RPL35, RPL28, RPL10L, RPL26L1, RPL26, RPL10A, RPL17, RPS14, RPL37A, RPL13, RPL14, RPL18, RPL30, RPL5, RPS10, RPS11, RPS8
+nucleus: 16 proteins: GSTM3, TTK, RPL10L, EIF4G1, NFU1, SERBP1, HUWE1, RPL10A, RPL17, YBX3, RPL37A, RPL13, RPL18, RPL30, RPL5, RPS8
+cytoplasmic translation: 16 proteins: RPL35, RPL28, RPL26L1, RPL26, RPL10A, RPL17, RPS14, RPL37A, RPL13, RPL14, RPL18, RPL30, RPL5, RPS10, RPS11, RPS8
+cytosolic ribosome: 15 proteins: RPL35, RPL28, RPL26, RPL10A, RPL17, RPS14, RPL37A, RPL13, RPL14, RPL18, RPL30, RPL5, RPS10, RPS11, RPS8
+extracellular exosome: 14 proteins: GSTM3, RPL28, RPL26L1, SERBP1, RPL26, HUWE1, RPL10A, RPS14, RPL37A, RPL14, RPL30, RPL5, RPS11, RPS8
+cytosolic large ribosomal subunit: 13 proteins: RPL35, RPL28, RPL10L, RPL26L1, RPL26, RPL10A, RPL17, RPL37A, RPL13, RPL14, RPL18, RPL30, RPL5
+nucleolus: 11 proteins: RPL35, EME1, RPL26, RBM4B, RPS14, RPL13, RPL18, RPL5, RPS10, RPS11, RPS8
+nucleoplasm: 11 proteins: NFU1, PSRC1, EME1, RPL26, HUWE1, RBM4B, RPS14, RPL5, RPS10, RPS11, RPS8
+focal adhesion: 9 proteins: RPL10A, RPS14, RPL37A, RPL18, RPL30, RPL5, RPS10, RPS11, RPS8
+synapse: 6 proteins: RPL28, RPL26, YBX3, RPL37A, RPL13, RPS11
+endoplasmic reticulum: 5 proteins: RPL10L, RPL13, RPL18, RPL5, RPS8
+ translation: 5 proteins: RPL26, LARP4, RBM4B, RPS14, RPL5
+ribosomal large subunit biogenesis: 4 proteins: RPL26L1, RPL26, RPL14, RPL5
+mRNA 3'-UTR binding: 4 proteins: SERBP1, LARP4, YBX3, RPL5
+cytosolic small ribosomal subunit: 4 proteins: RPS14, RPS10, RPS11, RPS8
+identical protein binding: 3 proteins: GSTM3, TTK, EIF4G1
+ribosome: 3 proteins: RPL10L, RPS10, RPS11
+mRNA 5'-UTR binding: 3 proteins: RPL26, RPS14, RPL5
+rRNA processing: 3 proteins: RPL26, RPL14, RPL5
+ribonucleoprotein complex: 3 proteins: RPL26, RPL5, RPS8
+polysomal ribosome: 3 proteins: RPL10A, RPL18, RPL30
+ gene expression: 3 proteins: RBM4B, YBX3, RPL5
+ribosomal small subunit biogenesis: 3 proteins: RPS14, RPS11, RPS8
+postsynaptic density: 3 proteins: RPS14, RPL14, RPL30
+small-subunit processome: 3 proteins: RPS14, RPS11, RPS8
+ATP binding: 2 proteins: TTK, EIF4G1
+spindle: 2 proteins: TTK, PSRC1
+mRNA binding: 2 proteins: RPL35, EIF4G1
+ribosomal large subunit assembly: 2 proteins: RPL10L, RPL5
+spermatogenesis: 2 proteins: RPL10L, YBX3
+cell differentiation: 2 proteins: RPL10L, HUWE1
+polysome: 2 proteins: RPL10L, EIF4G1
+cytoplasmic stress granule: 2 proteins: EIF4G1, LARP4
+mitochondrion: 2 proteins: NFU1, HUWE1
+DNA binding: 2 proteins: EME1, HUWE1
+metal ion binding: 2 proteins: EME1, RPL37A
+cadherin binding: 2 proteins: SERBP1, RPL14
+perinuclear region of cytoplasm: 2 proteins: SERBP1, YBX3
+circadian regulation of gene expression: 2 proteins: HUWE1, RBM4B
+protein-containing complex: 2 proteins: RBM4B, RPL5
+negative regulation of transcription by RNA polymerase II: 2 proteins: YBX3, RPS14
+maturation of SSU-rRNA from tricistronic rRNA transcript (SSU-rRNA, 5.8S rRNA, LSU-rRNA): 2 proteins: RPS14, RPS8

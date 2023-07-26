@@ -1,0 +1,26 @@
+Your response should be formatted as Markdown paragraphs
+Write a critical and concise analysis of this human protein system, describing your reasoning as you go and providing references to scientific papers.
+
+A critical goal of the analysis is to determine if this is a novel complex or if any proteins are novel members of a known complex
+
+Format with Title, Summary, and References sections.        
+Avoid overly general statements of how the proteins are involved in various cellular processes        
+Avoid repeating the goals of the analysis.
+
+What cellular components and complexes are involved in this system?
+What mechanisms and biological processes are performed by this system?
+Propose a name for the system to reflect the cellular location and function, and should be specific but brief. Do not compose an acronym. Place it as the title of your report
+Human Proteins: DYRK4, ADNP2, C15orf39, GTPBP6, GTPBP8, KCTD12, MRPL36, MTG1, PGBD2, TTLL4, ZNFX1.
+
+System features from GO terms: 
+protein binding: 6 proteins: DYRK4, ADNP2, GTPBP8, KCTD12, MRPL36, MTG1
+metal ion binding: 5 proteins: DYRK4, ADNP2, GTPBP6, GTPBP8, TTLL4
+GTP binding: 3 proteins: GTPBP6, GTPBP8, MTG1
+mitochondrion: 3 proteins: GTPBP8, MRPL36, MTG1
+ATP binding: 2 proteins: DYRK4, TTLL4
+nucleus: 2 proteins: DYRK4, ADNP2
+cytoplasm: 2 proteins: DYRK4, GTPBP6
+cytosol: 2 proteins: C15orf39, TTLL4
+RNA binding: 2 proteins: KCTD12, ZNFX1
+mitochondrial translation: 2 proteins: MRPL36, MTG1
+mitochondrial inner membrane: 2 proteins: MRPL36, MTG1

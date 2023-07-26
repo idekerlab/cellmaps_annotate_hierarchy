@@ -1,0 +1,24 @@
+Your response should be formatted as Markdown paragraphs
+Write a critical and concise analysis of this human protein system, describing your reasoning as you go and providing references to scientific papers.
+
+A critical goal of the analysis is to determine if this is a novel complex or if any proteins are novel members of a known complex
+
+Format with Title, Summary, and References sections.        
+Avoid overly general statements of how the proteins are involved in various cellular processes        
+Avoid repeating the goals of the analysis.
+
+What cellular components and complexes are involved in this system?
+What mechanisms and biological processes are performed by this system?
+Propose a name for the system to reflect the cellular location and function, and should be specific but brief. Do not compose an acronym. Place it as the title of your report
+Human Proteins: NUDT3, PCP4, EAPP, EFTUD2, TGS1, TXNL4A.
+
+System features from GO terms: 
+protein binding: 6 proteins: NUDT3, PCP4, EAPP, EFTUD2, TGS1, TXNL4A
+nucleus: 6 proteins: NUDT3, PCP4, EAPP, EFTUD2, TGS1, TXNL4A
+cytosol: 5 proteins: NUDT3, PCP4, EFTUD2, TGS1, TXNL4A
+cytoplasm: 4 proteins: NUDT3, PCP4, EAPP, TGS1
+nucleoplasm: 3 proteins: EFTUD2, TGS1, TXNL4A
+mRNA splicing, via spliceosome: 2 proteins: EFTUD2, TXNL4A
+Cajal body: 2 proteins: EFTUD2, TGS1
+U4/U6 x U5 tri-snRNP complex: 2 proteins: EFTUD2, TXNL4A
+U2-type precatalytic spliceosome: 2 proteins: EFTUD2, TXNL4A

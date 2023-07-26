@@ -1,0 +1,57 @@
+Feature	Number of Genes	Genes
+nucleus	7	ARMC8, GID8, HBP1, RANBP9, RMND5A, TCEAL9, TENT4A
+nucleoplasm	6	ARMC8, GID8, HBP1, RANBP9, RMND5A, TENT4A
+protein binding	5	ARMC8, GID8, HBP1, RANBP9, RMND5A
+ubiquitin ligase complex	4	ARMC8, GID8, RANBP9, RMND5A
+cytoplasm	4	ARMC8, GID8, RANBP9, RMND5A
+proteasome-mediated ubiquitin-dependent protein catabolic process	3	ARMC8, GID8, RMND5A
+cytosol	3	ARMC8, GID8, RANBP9
+GID complex	2	ARMC8, RMND5A
+Wnt signaling pathway	2	GID8, HBP1
+metal ion binding	2	RMND5A, TENT4A
+extracellular region	1	ARMC8
+specific granule lumen	1	ARMC8
+intracellular membrane-bounded organelle	1	ARMC8
+tertiary granule lumen	1	ARMC8
+protein homodimerization activity	1	GID8
+ cell population proliferation	1	GID8
+ canonical Wnt signaling pathway	1	GID8
+cell junction	1	GID8
+RNA polymerase II cis-regulatory region sequence-specific DNA binding	1	HBP1
+DNA-binding transcription factor activity, RNA polymerase II-specific	1	HBP1
+RNA binding	1	HBP1
+ transcription by RNA polymerase II	1	HBP1
+ cell cycle	1	HBP1
+chromatin	1	HBP1
+nuclear speck	1	HBP1
+enzyme binding	1	RANBP9
+small GTPase binding	1	RANBP9
+cytoskeleton organization	1	RANBP9
+microtubule nucleation	1	RANBP9
+protein-containing complex assembly	1	RANBP9
+negative regulation of ERK1 and ERK2 cascade	1	RANBP9
+ amyloid precursor protein catabolic process	1	RANBP9
+microtubule associated complex	1	RANBP9
+plasma membrane	1	RANBP9
+nuclear body	1	RANBP9
+ubiquitin-protein transferase activity	1	RMND5A
+ubiquitin protein ligase activity	1	RMND5A
+protein polyubiquitination	1	RMND5A
+ATP binding	1	TENT4A
+SMC family protein binding	1	TENT4A
+guanylyltransferase activity	1	TENT4A
+poly(A) RNA polymerase activity	1	TENT4A
+double-strand break repair	1	TENT4A
+mRNA processing	1	TENT4A
+sister chromatid cohesion	1	TENT4A
+mitotic chromosome condensation	1	TENT4A
+response to xenobiotic stimulus	1	TENT4A
+RNA 3'-end processing	1	TENT4A
+RNA polyadenylation	1	TENT4A
+negative regulation of nuclear-transcribed mRNA poly(A) tail shortening	1	TENT4A
+RNA 3' uridylation	1	TENT4A
+ 3'-UTR-mediated mRNA stabilization	1	TENT4A
+nucleolus	1	TENT4A
+Golgi apparatus	1	TENT4A
+TRAMP complex	1	TENT4A
+nuclear membrane	1	TENT4A

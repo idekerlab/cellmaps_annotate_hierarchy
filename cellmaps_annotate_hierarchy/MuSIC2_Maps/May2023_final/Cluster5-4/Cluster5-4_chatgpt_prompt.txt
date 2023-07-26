@@ -1,0 +1,40 @@
+Your response should be formatted as Markdown paragraphs
+Write a critical and concise analysis of this human protein system, describing your reasoning as you go and providing references to scientific papers.
+
+A critical goal of the analysis is to determine if this is a novel complex or if any proteins are novel members of a known complex
+
+Format with Title, Summary, and References sections.        
+Avoid overly general statements of how the proteins are involved in various cellular processes        
+Avoid repeating the goals of the analysis.
+
+What cellular components and complexes are involved in this system?
+What mechanisms and biological processes are performed by this system?
+Propose a name for the system to reflect the cellular location and function, and should be specific but brief. Do not compose an acronym. Place it as the title of your report
+Human Proteins: RPS24, KCTD21, EIF3E, ARHGEF10L, SOWAHC, EIF3I, EIF3B, EIF3C, EIF3D, EIF3H, EIF3J, EIF3K, EIF3M.
+
+System features from GO terms: 
+cytosol: 11 proteins: RPS24, EIF3E, ARHGEF10L, EIF3I, EIF3B, EIF3C, EIF3D, EIF3H, EIF3J, EIF3K, EIF3M
+protein binding: 10 proteins: KCTD21, EIF3E, EIF3I, EIF3B, EIF3C, EIF3D, EIF3H, EIF3J, EIF3K, EIF3M
+translation initiation factor activity: 9 proteins: EIF3E, EIF3I, EIF3B, EIF3C, EIF3D, EIF3H, EIF3J, EIF3K, EIF3M
+formation of cytoplasmic translation initiation complex: 9 proteins: EIF3E, EIF3I, EIF3B, EIF3C, EIF3D, EIF3H, EIF3J, EIF3K, EIF3M
+translational initiation: 9 proteins: EIF3E, EIF3I, EIF3B, EIF3C, EIF3D, EIF3H, EIF3J, EIF3K, EIF3M
+eukaryotic translation initiation factor 3 complex: 9 proteins: EIF3E, EIF3I, EIF3B, EIF3C, EIF3D, EIF3H, EIF3J, EIF3K, EIF3M
+eukaryotic 43S preinitiation complex: 9 proteins: EIF3E, EIF3I, EIF3B, EIF3C, EIF3D, EIF3H, EIF3J, EIF3K, EIF3M
+eukaryotic 48S preinitiation complex: 9 proteins: EIF3E, EIF3I, EIF3B, EIF3C, EIF3D, EIF3H, EIF3J, EIF3K, EIF3M
+RNA binding: 8 proteins: RPS24, EIF3E, EIF3I, EIF3B, EIF3C, EIF3D, EIF3H, EIF3K
+membrane: 5 proteins: RPS24, EIF3E, EIF3D, EIF3H, EIF3K
+eukaryotic translation initiation factor 3 complex, eIF3m: 5 proteins: EIF3I, EIF3B, EIF3D, EIF3H, EIF3M
+translation initiation factor binding: 4 proteins: RPS24, EIF3B, EIF3C, EIF3M
+ translational initiation: 4 proteins: EIF3E, EIF3B, EIF3H, EIF3K
+extracellular exosome: 4 proteins: EIF3E, EIF3I, EIF3B, EIF3H
+nucleus: 3 proteins: RPS24, EIF3E, EIF3K
+ translation: 3 proteins: EIF3E, EIF3C, EIF3D
+ mRNA binding: 3 proteins: EIF3E, EIF3C, EIF3D
+synapse: 3 proteins: EIF3I, EIF3B, EIF3D
+nucleoplasm: 2 proteins: RPS24, EIF3E
+cytoplasm: 2 proteins: RPS24, EIF3E
+identical protein binding: 2 proteins: KCTD21, EIF3J
+cytoplasmic translational initiation: 2 proteins: EIF3I, EIF3M
+IRES-dependent viral translational initiation: 2 proteins: EIF3B, EIF3D
+viral translational termination-reinitiation: 2 proteins: EIF3B, EIF3D
+ribosome binding: 2 proteins: EIF3C, EIF3K

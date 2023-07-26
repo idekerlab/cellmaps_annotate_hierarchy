@@ -1,0 +1,56 @@
+Your response should be formatted as Markdown paragraphs
+Write a critical and concise analysis of this human protein system, describing your reasoning as you go and providing references to scientific papers.
+
+A critical goal of the analysis is to determine if this is a novel complex or if any proteins are novel members of a known complex
+
+Format with Title, Summary, and References sections.        
+Avoid overly general statements of how the proteins are involved in various cellular processes        
+Avoid repeating the goals of the analysis.
+
+What cellular components and complexes are involved in this system?
+What mechanisms and biological processes are performed by this system?
+Propose a name for the system to reflect the cellular location and function, and should be specific but brief. Do not compose an acronym. Place it as the title of your report
+Human Proteins: FKBP9, P4HA1, COL11A1, COL22A1, COL5A1, COL16A1, COL8A1, MMP2, P3H4, LOXL1, COL1A1, COL4A2.
+
+System features from GO terms: 
+extracellular region: 9 proteins: COL11A1, COL22A1, COL5A1, COL16A1, COL8A1, MMP2, LOXL1, COL1A1, COL4A2
+extracellular space: 9 proteins: COL11A1, COL22A1, COL5A1, COL16A1, COL8A1, MMP2, LOXL1, COL1A1, COL4A2
+protein binding: 8 proteins: P4HA1, COL5A1, COL16A1, COL8A1, MMP2, LOXL1, COL1A1, COL4A2
+endoplasmic reticulum lumen: 8 proteins: P4HA1, COL11A1, COL22A1, COL5A1, COL16A1, COL8A1, COL1A1, COL4A2
+extracellular matrix organization: 8 proteins: COL11A1, COL22A1, COL5A1, COL16A1, COL8A1, MMP2, COL1A1, COL4A2
+collagen-containing extracellular matrix: 8 proteins: COL11A1, COL5A1, COL16A1, COL8A1, MMP2, LOXL1, COL1A1, COL4A2
+extracellular matrix structural constituent: 7 proteins: COL11A1, COL22A1, COL5A1, COL16A1, COL8A1, COL1A1, COL4A2
+collagen fibril organization: 6 proteins: P4HA1, COL11A1, COL5A1, P3H4, LOXL1, COL1A1
+extracellular matrix structural constituent conferring tensile strength: 6 proteins: COL11A1, COL5A1, COL16A1, COL8A1, COL1A1, COL4A2
+extracellular matrix: 6 proteins: COL11A1, COL22A1, COL5A1, COL16A1, COL8A1, COL1A1
+endodermal cell differentiation: 4 proteins: COL11A1, COL8A1, MMP2, COL4A2
+endoplasmic reticulum: 3 proteins: FKBP9, P4HA1, P3H4
+metal ion binding: 3 proteins: COL11A1, COL5A1, COL1A1
+cell adhesion: 3 proteins: COL5A1, COL16A1, COL8A1
+collagen biosynthetic process: 3 proteins: COL5A1, P3H4, COL1A1
+basement membrane: 3 proteins: COL5A1, LOXL1, COL4A2
+cellular response to amino acid stimulus: 3 proteins: COL16A1, MMP2, COL1A1
+angiogenesis: 3 proteins: COL8A1, MMP2, COL4A2
+identical protein binding: 2 proteins: P4HA1, COL1A1
+intracellular membrane-bounded organelle: 2 proteins: P4HA1, P3H4
+heparin binding: 2 proteins: COL11A1, COL5A1
+ossification: 2 proteins: COL11A1, COL1A1
+visual perception: 2 proteins: COL11A1, COL1A1
+sensory perception of sound: 2 proteins: COL11A1, COL1A1
+tendon development: 2 proteins: COL11A1, COL5A1
+collagen type XI trimer: 2 proteins: COL11A1, COL5A1
+integrin binding: 2 proteins: COL5A1, COL16A1
+platelet-derived growth factor binding: 2 proteins: COL5A1, COL1A1
+blood vessel development: 2 proteins: COL5A1, COL1A1
+skin development: 2 proteins: COL5A1, COL1A1
+intramembranous ossification: 2 proteins: MMP2, COL1A1
+response to xenobiotic stimulus: 2 proteins: MMP2, COL1A1
+response to mechanical stimulus: 2 proteins: MMP2, COL1A1
+response to activity: 2 proteins: MMP2, COL4A2
+ cell migration: 2 proteins: MMP2, COL1A1
+response to hydrogen peroxide: 2 proteins: MMP2, COL1A1
+response to hyperoxia: 2 proteins: MMP2, COL1A1
+face morphogenesis: 2 proteins: MMP2, COL1A1
+bone trabecula formation: 2 proteins: MMP2, COL1A1
+collagen-activated tyrosine kinase receptor signaling pathway: 2 proteins: COL1A1, COL4A2
+cellular response to transforming growth factor beta stimulus: 2 proteins: COL1A1, COL4A2

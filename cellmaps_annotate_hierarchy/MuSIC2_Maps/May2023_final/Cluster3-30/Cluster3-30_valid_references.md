@@ -1,0 +1,2 @@
+### Validated References: 
+[1] Luijsterburg, Martijn S, von Bornstaedt, Gesa, Gourdin, Audrey M, Politi, Antonio Z, Moné, Martijn J, Warmerdam, Daniël O, Goedhart, Joachim, Vermeulen, Wim, van Driel, Roel, Höfer, Thomas. "Stochastic and reversible assembly of a multiprotein DNA repair complex ensures accurate target site recognition and efficient repair." The Journal of cell biology, 2010, pp. 445-63.

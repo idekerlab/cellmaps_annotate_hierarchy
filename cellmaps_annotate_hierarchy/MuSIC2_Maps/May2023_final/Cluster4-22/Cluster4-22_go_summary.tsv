@@ -1,0 +1,160 @@
+Feature	Number of Genes	Genes
+protein binding	9	LAPTM4A, BIRC2, CLTA, CLTC, LDAF1, MB21D2, TOLLIP, TOM1, ZNF114
+cytosol	5	BIRC2, CLTA, CLTC, TOLLIP, TOM1
+extracellular exosome	4	CLTC, TOLLIP, TOM1, ZNF114
+ubiquitin binding	3	BIRC2, TOLLIP, TOM1
+protein-containing complex binding	3	BIRC2, CLTA, MB21D2
+cytoplasm	3	BIRC2, TOLLIP, TOM1
+plasma membrane	3	CLTA, CLTC, TOM1
+membrane	3	CLTA, CLTC, TOM1
+identical protein binding	2	BIRC2, ZNF114
+ DNA-templated transcription	2	BIRC2, ZNF114
+nucleus	2	BIRC2, ZNF114
+molecular_function	2	CLTA, ZNF114
+structural molecule activity	2	CLTA, CLTC
+clathrin heavy chain binding	2	CLTA, TOM1
+intracellular protein transport	2	CLTA, CLTC
+clathrin coat assembly	2	CLTA, CLTC
+cell division	2	CLTA, CLTC
+clathrin-dependent endocytosis	2	CLTA, CLTC
+spindle	2	CLTA, CLTC
+clathrin coat	2	CLTA, CLTC
+clathrin coat of trans-Golgi network vesicle	2	CLTA, CLTC
+clathrin coat of coated pit	2	CLTA, CLTC
+trans-Golgi network membrane	2	CLTA, CLTC
+endolysosome membrane	2	CLTA, CLTC
+clathrin-coated endocytic vesicle	2	CLTA, CLTC
+clathrin complex	2	CLTA, CLTC
+autophagy	2	CLTC, TOLLIP
+endosome	2	CLTC, TOM1
+protein-containing complex	2	CLTC, TOLLIP
+signal transduction	2	TOLLIP, TOM1
+early endosome	2	TOLLIP, TOM1
+lysosomal membrane	1	LAPTM4A
+Golgi apparatus	1	LAPTM4A
+late endosome membrane	1	LAPTM4A
+transcription coactivator activity	1	BIRC2
+ubiquitin-protein transferase activity	1	BIRC2
+zinc ion binding	1	BIRC2
+transferase activity	1	BIRC2
+cysteine-type endopeptidase inhibitor activity involved in apoptotic process	1	BIRC2
+protein-folding chaperone binding	1	BIRC2
+ubiquitin protein ligase activity	1	BIRC2
+FBXO family protein binding	1	BIRC2
+protein polyubiquitination	1	BIRC2
+response to hypoxia	1	BIRC2
+placenta development	1	BIRC2
+apoptotic process	1	BIRC2
+cell surface receptor signaling pathway	1	BIRC2
+I-kappaB kinase/NF-kappaB signaling	1	BIRC2
+ protein ubiquitination	1	BIRC2
+tumor necrosis factor-mediated signaling pathway	1	BIRC2
+ toll-like receptor signaling pathway	1	BIRC2
+NIK/NF-kappaB signaling	1	BIRC2
+ RIG-I signaling pathway	1	BIRC2
+ cell population proliferation	1	BIRC2
+ apoptotic process	1	BIRC2
+negative regulation of apoptotic process	1	BIRC2
+ I-kappaB kinase/NF-kappaB signaling	1	BIRC2
+proteasome-mediated ubiquitin-dependent protein catabolic process	1	BIRC2
+ innate immune response	1	BIRC2
+response to ethanol	1	BIRC2
+ cell differentiation	1	BIRC2
+ inflammatory response	1	BIRC2
+response to cAMP	1	BIRC2
+ cell cycle	1	BIRC2
+ necroptotic process	1	BIRC2
+negative regulation of necroptotic process	1	BIRC2
+necroptotic process	1	BIRC2
+ nucleotide-binding oligomerization domain containing signaling pathway	1	BIRC2
+ NIK/NF-kappaB signaling	1	BIRC2
+negative regulation of ripoptosome assembly involved in necroptotic process	1	BIRC2
+ protein K63-linked ubiquitination	1	BIRC2
+ protein K48-linked ubiquitination	1	BIRC2
+ protein monoubiquitination	1	BIRC2
+ cysteine-type endopeptidase activity	1	BIRC2
+ reactive oxygen species metabolic process	1	BIRC2
+XY body	1	BIRC2
+cytoplasmic side of plasma membrane	1	BIRC2
+CD40 receptor complex	1	BIRC2
+membrane raft	1	BIRC2
+peptide binding	1	CLTA
+GTPase binding	1	CLTA
+cell cycle	1	CLTA
+clathrin vesicle coat	1	CLTA
+synaptic vesicle membrane	1	CLTA
+cytoplasmic vesicle	1	CLTA
+presynaptic endocytic zone membrane	1	CLTA
+postsynaptic endocytic zone cytoplasmic component	1	CLTA
+RNA binding	1	CLTC
+double-stranded RNA binding	1	CLTC
+protein kinase binding	1	CLTC
+clathrin light chain binding	1	CLTC
+low-density lipoprotein particle receptor binding	1	CLTC
+disordered domain specific binding	1	CLTC
+ubiquitin-specific protease binding	1	CLTC
+mitotic cell cycle	1	CLTC
+osteoblast differentiation	1	CLTC
+receptor-mediated endocytosis	1	CLTC
+receptor internalization	1	CLTC
+transferrin transport	1	CLTC
+retrograde transport, endosome to Golgi	1	CLTC
+ mitotic spindle organization	1	CLTC
+amyloid-beta clearance by transcytosis	1	CLTC
+negative regulation of hyaluronan biosynthetic process	1	CLTC
+negative regulation of protein localization to plasma membrane	1	CLTC
+lysosome	1	CLTC
+focal adhesion	1	CLTC
+clathrin-coated vesicle	1	CLTC
+clathrin-coated endocytic vesicle membrane	1	CLTC
+melanosome	1	CLTC
+mitotic spindle	1	CLTC
+extracellular vesicle	1	CLTC
+mitotic spindle microtubule	1	CLTC
+lipid droplet formation	1	LDAF1
+endoplasmic reticulum membrane	1	LDAF1
+lipid droplet	1	LDAF1
+nucleotidyltransferase activity	1	MB21D2
+cadherin binding	1	MB21D2
+interleukin-1, type I receptor binding	1	TOLLIP
+kinase binding	1	TOLLIP
+ubiquitin conjugating enzyme binding	1	TOLLIP
+ubiquitin protein ligase binding	1	TOLLIP
+SUMO binding	1	TOLLIP
+Toll-like receptor binding	1	TOLLIP
+molecular adaptor activity	1	TOLLIP
+ubiquitin-dependent protein catabolic process	1	TOLLIP
+inflammatory response	1	TOLLIP
+phosphorylation	1	TOLLIP
+epithelial cell differentiation	1	TOLLIP
+ protein sumoylation	1	TOLLIP
+protein localization to endosome	1	TOLLIP
+innate immune response	1	TOLLIP
+leukocyte activation	1	TOLLIP
+interleukin-1-mediated signaling pathway	1	TOLLIP
+extracellular region	1	TOLLIP
+nuclear body	1	TOLLIP
+extrinsic component of plasma membrane	1	TOLLIP
+azurophil granule lumen	1	TOLLIP
+specific granule lumen	1	TOLLIP
+perinuclear region of cytoplasm	1	TOLLIP
+phosphatidylinositol-5-phosphate binding	1	TOM1
+clathrin binding	1	TOM1
+polyubiquitin modification-dependent protein binding	1	TOM1
+myosin VI binding	1	TOM1
+endocytosis	1	TOM1
+protein transport	1	TOM1
+endosomal transport	1	TOM1
+substrate localization to autophagosome	1	TOM1
+autophagosome-lysosome fusion	1	TOM1
+ autophagosome maturation	1	TOM1
+ endosome organization	1	TOM1
+endosome membrane	1	TOM1
+early endosome membrane	1	TOM1
+azurophil granule membrane	1	TOM1
+specific granule membrane	1	TOM1
+RNA polymerase II cis-regulatory region sequence-specific DNA binding	1	ZNF114
+DNA-binding transcription factor activity, RNA polymerase II-specific	1	ZNF114
+metal ion binding	1	ZNF114
+ transcription by RNA polymerase II	1	ZNF114
+biological_process	1	ZNF114

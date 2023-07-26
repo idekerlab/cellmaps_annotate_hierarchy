@@ -1,0 +1,328 @@
+Feature	Number of Genes	Genes
+nucleus	8	CRY1, CSNK1D, FBXL17, FBXO11, KDM2A, MDM4, SKP1, TP53
+cytosol	8	CSNK1D, FBXL17, FBXL19, FBXO11, FBXW2, FBXW9, SKP1, TP53
+nucleoplasm	7	CSNK1D, FBXL17, FBXO11, KDM2A, MDM4, SKP1, TP53
+cytoplasm	6	CRY1, CSNK1D, FBXL17, FBXO11, SKP1, TP53
+Disease variant	5	CSNK1D, FBXO11, LZTR1, MDM4, TP53
+zinc ion binding	5	FBXL19, FBXO11, KDM2A, MDM4, TP53
+protein ubiquitination	4	FBXL17, FBXO11, LZTR1, SKP1
+regulation of transcription by RNA polymerase II	4	FBXL19, KDM2A, MDM4, TP53
+circadian regulation of gene expression	3	CRY1, CSNK1D, KDM2A
+entrainment of circadian clock by photoperiod	3	CRY1, FBXL17, TP53
+negative regulation of DNA-templated transcription	3	CRY1, MDM4, TP53
+negative regulation of transcription by RNA polymerase II	3	CRY1, MDM4, TP53
+regulation of circadian rhythm	3	CRY1, CSNK1D, KDM2A
+centrosome	3	CSNK1D, SKP1, TP53
+SCF ubiquitin ligase complex	3	FBXL17, FBXL19, SKP1
+regulation of cell cycle	3	FBXL17, MDM4, TP53
+mitochondrion	2	CRY1, TP53
+DNA binding	2	CRY1, TP53
+histone deacetylase binding	2	CRY1, TP53
+protein kinase binding	2	CRY1, TP53
+Golgi apparatus	2	CSNK1D, LZTR1
+microtubule organizing center	2	CSNK1D, TP53
+membrane	2	CSNK1D, LZTR1
+golgi apparatus	2	CSNK1D, LZTR1
+cytoskeleton	2	CSNK1D, TP53
+proteasome-mediated ubiquitin-dependent protein catabolic process	2	FBXL17, FBXL19
+protein polyubiquitination	2	FBXL17, SKP1
+SCF-dependent proteasomal ubiquitin-dependent protein catabolic process	2	FBXL17, SKP1
+histone demethylase activity	2	FBXL19, KDM2A
+transcription coregulator activity	2	FBXL19, KDM2A
+unmethylated CpG binding	2	FBXL19, KDM2A
+protein demethylation	2	FBXL19, KDM2A
+chromosome	2	FBXO11, KDM2A
+nucleolus	2	FBXO11, TP53
+ubiquitin-protein transferase activity	2	FBXO11, FBXW2
+protein modification process	2	FBXO11, FBXW2
+regulation of apoptotic process	2	FBXO11, TP53
+transcription repressor complex	2	MDM4, TP53
+enzyme binding	2	MDM4, TP53
+p53 binding	2	MDM4, TP53
+cellular response to hypoxia	2	MDM4, TP53
+DNA damage response, signal transduction by p53 class mediator	2	MDM4, TP53
+negative regulation of apoptotic process	2	MDM4, TP53
+negative regulation of cell population proliferation	2	MDM4, TP53
+protein stabilization	2	MDM4, TP53
+protein-containing complex assembly	2	MDM4, TP53
+blue light photoreceptor activity	1	CRY1
+double-stranded DNA binding	1	CRY1
+E-box binding	1	CRY1
+FAD binding	1	CRY1
+nuclear receptor binding	1	CRY1
+phosphatase binding	1	CRY1
+blue light signaling pathway	1	CRY1
+circadian rhythm	1	CRY1
+gluconeogenesis	1	CRY1
+glucose homeostasis	1	CRY1
+lipid storage	1	CRY1
+negative regulation of circadian rhythm	1	CRY1
+negative regulation of G protein-coupled receptor signaling pathway	1	CRY1
+negative regulation of glucocorticoid receptor signaling pathway	1	CRY1
+negative regulation of glucocorticoid secretion	1	CRY1
+negative regulation of gluconeogenesis	1	CRY1
+negative regulation of protein ubiquitination	1	CRY1
+positive regulation of gluconeogenesis	1	CRY1
+positive regulation of protein ubiquitination	1	CRY1
+regulation of DNA damage checkpoint	1	CRY1
+response to activity	1	CRY1
+response to glucagon	1	CRY1
+response to insulin	1	CRY1
+response to light stimulus	1	CRY1
+selective autophagy	1	CRY1
+signal transduction in response to DNA damage	1	CRY1
+Delayed sleep phase syndrome	1	CRY1
+ciliary basal body	1	CSNK1D
+endoplasmic reticulum-Golgi intermediate compartment membrane	1	CSNK1D
+neuron projection	1	CSNK1D
+perinuclear region of cytoplasm	1	CSNK1D
+plasma membrane	1	CSNK1D
+spindle	1	CSNK1D
+spindle microtubule	1	CSNK1D
+ATP binding	1	CSNK1D
+cadherin binding	1	CSNK1D
+protein kinase activity	1	CSNK1D
+protein serine kinase activity	1	CSNK1D
+protein serine/threonine kinase activity	1	CSNK1D
+tau-protein kinase activity	1	CSNK1D
+cellular response to nerve growth factor stimulus	1	CSNK1D
+COPII vesicle coating	1	CSNK1D
+Golgi organization	1	CSNK1D
+microtubule nucleation	1	CSNK1D
+non-motile cilium assembly	1	CSNK1D
+peptidyl-serine phosphorylation	1	CSNK1D
+positive regulation of canonical Wnt signaling pathway	1	CSNK1D
+positive regulation of non-canonical Wnt signaling pathway	1	CSNK1D
+positive regulation of proteasomal ubiquitin-dependent protein catabolic process	1	CSNK1D
+positive regulation of protein phosphorylation	1	CSNK1D
+positive regulation of Wnt-mediated midbrain dopaminergic neuron differentiation	1	CSNK1D
+protein localization to centrosome	1	CSNK1D
+protein localization to cilium	1	CSNK1D
+protein localization to Golgi apparatus	1	CSNK1D
+protein phosphorylation	1	CSNK1D
+signal transduction	1	CSNK1D
+spindle assembly	1	CSNK1D
+Wnt signaling pathway	1	CSNK1D
+perinuclear region	1	CSNK1D
+cell membrane	1	CSNK1D
+Advanced sleep phase syndrome	1	CSNK1D
+G2/M transition of mitotic cell cycle	1	FBXL17
+nervous system development	1	FBXL17
+neural crest cell differentiation	1	FBXL17
+protein quality control for misfolded or incompletely synthesized proteins	1	FBXL17
+regulation of smoothened signaling pathway	1	FBXL17
+ubiquitin ligase complex	1	FBXO11
+protein-arginine N-methyltransferase activity	1	FBXO11
+negative regulation of calcium ion transmembrane transport via high voltage-gated calcium channel	1	FBXO11
+positive regulation of protein catabolic process	1	FBXO11
+sensory perception of sound	1	FBXO11
+ubiquitin-dependent protein catabolic process	1	FBXO11
+Intellectual developmental disorder with dysmorphic facies and behavioral abnormalities	1	FBXO11
+Intellectual disability	1	FBXO11
+proteolysis	1	FBXW2
+histone H3K36 demethylase activity	1	KDM2A
+histone H3K36me/H3K36me2 demethylase activity	1	KDM2A
+chromatin organization	1	KDM2A
+double-strand break repair via nonhomologous end joining	1	KDM2A
+histone H3-K36 demethylation	1	KDM2A
+negative regulation of transcription by competitive promoter binding	1	KDM2A
+Cul3-RING ubiquitin ligase complex	1	LZTR1
+endomembrane system	1	LZTR1
+recycling endosome membrane	1	LZTR1
+small GTPase binding	1	LZTR1
+negative regulation of Ras protein signal transduction	1	LZTR1
+recycling endosome	1	LZTR1
+endosome	1	LZTR1
+Glioma	1	LZTR1
+Schwannomatosis 2	1	LZTR1
+Noonan syndrome 10	1	LZTR1
+Noonan syndrome 2	1	LZTR1
+atrial septum development	1	MDM4
+atrioventricular valve morphogenesis	1	MDM4
+endocardial cushion morphogenesis	1	MDM4
+heart valve development	1	MDM4
+negative regulation of protein catabolic process	1	MDM4
+ventricular septum development	1	MDM4
+Bone marrow failure syndrome 6	1	MDM4
+Cul7-RING ubiquitin ligase complex	1	SKP1
+PcG protein complex	1	SKP1
+beta-catenin binding	1	SKP1
+cullin family protein binding	1	SKP1
+F-box domain binding	1	SKP1
+protein domain specific binding	1	SKP1
+ubiquitin ligase-substrate adaptor activity	1	SKP1
+chromatin remodeling	1	SKP1
+maintenance of protein location in nucleus	1	SKP1
+positive regulation of ubiquitin protein ligase activity	1	SKP1
+protein K48-linked ubiquitination	1	SKP1
+protein monoubiquitination	1	SKP1
+chromatin	1	TP53
+endoplasmic reticulum	1	TP53
+germ cell nucleus	1	TP53
+mitochondrial matrix	1	TP53
+nuclear matrix	1	TP53
+PML body	1	TP53
+protein-containing complex	1	TP53
+replication fork	1	TP53
+site of double-strand break	1	TP53
+transcription regulator complex	1	TP53
+14-3-3 protein binding	1	TP53
+ATP-dependent DNA/DNA annealing activity	1	TP53
+chaperone binding	1	TP53
+chromatin binding	1	TP53
+cis-regulatory region sequence-specific DNA binding	1	TP53
+copper ion binding	1	TP53
+core promoter sequence-specific DNA binding	1	TP53
+disordered domain specific binding	1	TP53
+DNA-binding transcription activator activity, RNA polymerase II-specific	1	TP53
+DNA-binding transcription factor activity	1	TP53
+DNA-binding transcription factor activity, RNA polymerase II-specific	1	TP53
+DNA-binding transcription repressor activity, RNA polymerase II-specific	1	TP53
+general transcription initiation factor binding	1	TP53
+histone acetyltransferase binding	1	TP53
+histone deacetylase regulator activity	1	TP53
+identical protein binding	1	TP53
+MDM2/MDM4 family protein binding	1	TP53
+molecular function activator activity	1	TP53
+mRNA 3'-UTR binding	1	TP53
+promoter-specific chromatin binding	1	TP53
+protease binding	1	TP53
+protein heterodimerization activity	1	TP53
+protein N-terminus binding	1	TP53
+protein phosphatase 2A binding	1	TP53
+protein phosphatase binding	1	TP53
+protein self-association	1	TP53
+receptor tyrosine kinase binding	1	TP53
+RNA polymerase II cis-regulatory region sequence-specific DNA binding	1	TP53
+RNA polymerase II-specific DNA-binding transcription factor binding	1	TP53
+TFIID-class transcription factor complex binding	1	TP53
+transcription cis-regulatory region binding	1	TP53
+ubiquitin protein ligase binding	1	TP53
+autophagy	1	TP53
+B cell lineage commitment	1	TP53
+bone marrow development	1	TP53
+cardiac muscle cell apoptotic process	1	TP53
+cardiac septum morphogenesis	1	TP53
+cellular response to actinomycin D	1	TP53
+cellular response to DNA damage stimulus	1	TP53
+cellular response to gamma radiation	1	TP53
+cellular response to glucose starvation	1	TP53
+cellular response to ionizing radiation	1	TP53
+cellular response to UV	1	TP53
+cellular response to UV-C	1	TP53
+cellular response to xenobiotic stimulus	1	TP53
+cellular senescence	1	TP53
+cerebellum development	1	TP53
+chromosome organization	1	TP53
+circadian behavior	1	TP53
+determination of adult lifespan	1	TP53
+DNA damage response, signal transduction by p53 class mediator resulting in cell cycle arrest	1	TP53
+DNA damage response, signal transduction by p53 class mediator resulting in transcription of p21 class mediator	1	TP53
+double-strand break repair	1	TP53
+embryonic organ development	1	TP53
+ER overload response	1	TP53
+fibroblast proliferation	1	TP53
+gastrulation	1	TP53
+glial cell proliferation	1	TP53
+glucose catabolic process to lactate via pyruvate	1	TP53
+hematopoietic progenitor cell differentiation	1	TP53
+hematopoietic stem cell differentiation	1	TP53
+in utero embryonic development	1	TP53
+intrinsic apoptotic signaling pathway	1	TP53
+intrinsic apoptotic signaling pathway by p53 class mediator	1	TP53
+intrinsic apoptotic signaling pathway in response to DNA damage by p53 class mediator	1	TP53
+intrinsic apoptotic signaling pathway in response to endoplasmic reticulum stress	1	TP53
+intrinsic apoptotic signaling pathway in response to hypoxia	1	TP53
+mitochondrial DNA repair	1	TP53
+mitophagy	1	TP53
+mitotic G1 DNA damage checkpoint signaling	1	TP53
+mRNA transcription	1	TP53
+multicellular organism growth	1	TP53
+necroptotic process	1	TP53
+negative regulation of cell growth	1	TP53
+negative regulation of DNA replication	1	TP53
+negative regulation of fibroblast proliferation	1	TP53
+negative regulation of G1 to G0 transition	1	TP53
+negative regulation of glial cell proliferation	1	TP53
+negative regulation of glucose catabolic process to lactate via pyruvate	1	TP53
+negative regulation of helicase activity	1	TP53
+negative regulation of miRNA maturation	1	TP53
+negative regulation of mitophagy	1	TP53
+negative regulation of neuroblast proliferation	1	TP53
+negative regulation of pentose-phosphate shunt	1	TP53
+negative regulation of proteolysis	1	TP53
+negative regulation of reactive oxygen species metabolic process	1	TP53
+negative regulation of stem cell proliferation	1	TP53
+negative regulation of telomerase activity	1	TP53
+negative regulation of transforming growth factor beta receptor signaling pathway	1	TP53
+neuroblast proliferation	1	TP53
+neuron apoptotic process	1	TP53
+nucleotide-excision repair	1	TP53
+oligodendrocyte apoptotic process	1	TP53
+oxidative stress-induced premature senescence	1	TP53
+positive regulation of apoptotic process	1	TP53
+positive regulation of cardiac muscle cell apoptotic process	1	TP53
+positive regulation of cellular senescence	1	TP53
+positive regulation of DNA-templated transcription	1	TP53
+positive regulation of execution phase of apoptosis	1	TP53
+positive regulation of gene expression	1	TP53
+positive regulation of histone deacetylation	1	TP53
+positive regulation of intrinsic apoptotic signaling pathway	1	TP53
+positive regulation of miRNA transcription	1	TP53
+positive regulation of mitochondrial membrane permeability	1	TP53
+positive regulation of neuron apoptotic process	1	TP53
+positive regulation of peptidyl-tyrosine phosphorylation	1	TP53
+positive regulation of programmed necrotic cell death	1	TP53
+positive regulation of reactive oxygen species metabolic process	1	TP53
+positive regulation of release of cytochrome c from mitochondria	1	TP53
+positive regulation of RNA polymerase II transcription preinitiation complex assembly	1	TP53
+positive regulation of thymocyte apoptotic process	1	TP53
+positive regulation of transcription by RNA polymerase II	1	TP53
+positive regulation of transcription from RNA polymerase II promoter in response to endoplasmic reticulum stress	1	TP53
+positive regulation of transcription from RNA polymerase II promoter in response to hypoxia	1	TP53
+positive regulation of transcription from RNA polymerase II promoter in response to stress	1	TP53
+protein import into nucleus	1	TP53
+protein localization	1	TP53
+protein tetramerization	1	TP53
+Ras protein signal transduction	1	TP53
+reactive oxygen species metabolic process	1	TP53
+regulation of cell cycle G2/M phase transition	1	TP53
+regulation of DNA damage response, signal transduction by p53 class mediator	1	TP53
+regulation of DNA-templated transcription	1	TP53
+regulation of fibroblast apoptotic process	1	TP53
+regulation of intrinsic apoptotic signaling pathway by p53 class mediator	1	TP53
+regulation of mitochondrial membrane permeability involved in apoptotic process	1	TP53
+regulation of tissue remodeling	1	TP53
+regulation of transcription from RNA polymerase II promoter in response to DNA damage	1	TP53
+release of cytochrome c from mitochondria	1	TP53
+replicative senescence	1	TP53
+response to antibiotic	1	TP53
+response to gamma radiation	1	TP53
+response to inorganic substance	1	TP53
+response to ischemia	1	TP53
+response to salt stress	1	TP53
+response to X-ray	1	TP53
+rRNA transcription	1	TP53
+signal transduction by p53 class mediator	1	TP53
+somitogenesis	1	TP53
+stem cell proliferation	1	TP53
+T cell differentiation in thymus	1	TP53
+T cell lineage commitment	1	TP53
+T cell proliferation involved in immune response	1	TP53
+thymocyte apoptotic process	1	TP53
+transcription initiation-coupled chromatin remodeling	1	TP53
+transforming growth factor beta receptor signaling pathway	1	TP53
+tumor necrosis factor-mediated signaling pathway	1	TP53
+type II interferon-mediated signaling pathway	1	TP53
+viral process	1	TP53
+pml body	1	TP53
+mitochondrion matrix	1	TP53
+Esophageal cancer	1	TP53
+Li-Fraumeni syndrome	1	TP53
+Squamous cell carcinoma of the head and neck	1	TP53
+Lung cancer	1	TP53
+Papilloma of choroid plexus	1	TP53
+Adrenocortical carcinoma	1	TP53
+Basal cell carcinoma 7	1	TP53
+Bone marrow failure syndrome 5	1	TP53
+Tumor suppressor	1	TP53

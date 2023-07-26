@@ -1,0 +1,32 @@
+Feature	Number of Genes	Genes
+translation initiation factor activity	7	EIF3B, EIF3C, EIF3D, EIF3H, EIF3J, EIF3K, EIF3M
+protein binding	7	EIF3B, EIF3C, EIF3D, EIF3H, EIF3J, EIF3K, EIF3M
+formation of cytoplasmic translation initiation complex	7	EIF3B, EIF3C, EIF3D, EIF3H, EIF3J, EIF3K, EIF3M
+translational initiation	7	EIF3B, EIF3C, EIF3D, EIF3H, EIF3J, EIF3K, EIF3M
+cytosol	7	EIF3B, EIF3C, EIF3D, EIF3H, EIF3J, EIF3K, EIF3M
+eukaryotic translation initiation factor 3 complex	7	EIF3B, EIF3C, EIF3D, EIF3H, EIF3J, EIF3K, EIF3M
+eukaryotic 43S preinitiation complex	7	EIF3B, EIF3C, EIF3D, EIF3H, EIF3J, EIF3K, EIF3M
+eukaryotic 48S preinitiation complex	7	EIF3B, EIF3C, EIF3D, EIF3H, EIF3J, EIF3K, EIF3M
+RNA binding	5	EIF3B, EIF3C, EIF3D, EIF3H, EIF3K
+eukaryotic translation initiation factor 3 complex, eIF3m	4	EIF3B, EIF3D, EIF3H, EIF3M
+translation initiation factor binding	3	EIF3B, EIF3C, EIF3M
+ translational initiation	3	EIF3B, EIF3H, EIF3K
+membrane	3	EIF3D, EIF3H, EIF3K
+IRES-dependent viral translational initiation	2	EIF3B, EIF3D
+viral translational termination-reinitiation	2	EIF3B, EIF3D
+synapse	2	EIF3B, EIF3D
+extracellular exosome	2	EIF3B, EIF3H
+ribosome binding	2	EIF3C, EIF3K
+ translation	2	EIF3C, EIF3D
+ mRNA binding	2	EIF3C, EIF3D
+molecular adaptor activity	1	EIF3B
+cytoplasmic stress granule	1	EIF3B
+mRNA cap binding	1	EIF3D
+cap-dependent translational initiation	1	EIF3D
+metallopeptidase activity	1	EIF3H
+metal-dependent deubiquitinase activity	1	EIF3H
+negative regulation of proteasomal ubiquitin-dependent protein catabolic process	1	EIF3H
+polysomal ribosome	1	EIF3H
+identical protein binding	1	EIF3J
+nucleus	1	EIF3K
+cytoplasmic translational initiation	1	EIF3M

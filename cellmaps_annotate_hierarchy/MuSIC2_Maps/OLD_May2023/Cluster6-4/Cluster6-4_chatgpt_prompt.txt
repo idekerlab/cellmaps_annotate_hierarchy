@@ -1,0 +1,43 @@
+Write a critical and concise analysis of this system, describing your reasoning as you go and providing references to scientific papers.         
+Format with Title, Summary, and References sections.        
+Avoid overly general statements of how the proteins are involved in various cellular processes
+        
+Avoid recapitulating the goals of the analysis. 
+What cellular components and complexes are involved in this system?
+What mechanisms and biological processes are performed by this system?
+Propose a name for the system to reflect the function and location, and should be specific but brief. Do not compose an acronym. Place it as the title of your report
+Provide complete paper references with pubmed link
+Proteins: NDUFB9, NDUFS4, TIMMDC1, DCTD, PRELID1, DNLZ, FAM185A, ND4, NDUFA13, NDUFA7, NDUFA8, NDUFA9, NDUFAF4, NDUFB1, NDUFB11, NDUFB4, NDUFB5, NDUFB6, NDUFB8, NDUFC2, NDUFS1, NDUFS2, NDUFS8, NDUFV1, NDUFV2, NDUFV3, TMEM126B, TOMM40.
+
+A critical goal of the analysis is to determine if this is a novel complex or if any proteins are novel members of a known complex
+System features from GO terms: 
+mitochondrion: 25 proteins: NDUFB9, NDUFS4, TIMMDC1, PRELID1, DNLZ, NDUFA13, NDUFA7, NDUFA8, NDUFA9, NDUFAF4, NDUFB1, NDUFB11, NDUFB4, NDUFB5, NDUFB6, NDUFB8, NDUFC2, NDUFS1, NDUFS2, NDUFS8, NDUFV1, NDUFV2, NDUFV3, TMEM126B, TOMM40
+protein binding: 23 proteins: NDUFB9, NDUFS4, TIMMDC1, DCTD, PRELID1, FAM185A, NDUFA13, NDUFA7, NDUFA8, NDUFA9, NDUFAF4, NDUFB11, NDUFB5, NDUFB6, NDUFC2, NDUFS1, NDUFS2, NDUFS8, NDUFV1, NDUFV2, NDUFV3, TMEM126B, TOMM40
+aerobic respiration: 20 proteins: NDUFB9, NDUFS4, ND4, NDUFA13, NDUFA7, NDUFA8, NDUFA9, NDUFB1, NDUFB11, NDUFB4, NDUFB5, NDUFB6, NDUFB8, NDUFC2, NDUFS1, NDUFS2, NDUFS8, NDUFV1, NDUFV2, NDUFV3
+proton motive force-driven mitochondrial ATP synthesis: 20 proteins: NDUFB9, NDUFS4, ND4, NDUFA13, NDUFA7, NDUFA8, NDUFA9, NDUFB1, NDUFB11, NDUFB4, NDUFB5, NDUFB6, NDUFB8, NDUFC2, NDUFS1, NDUFS2, NDUFS8, NDUFV1, NDUFV2, NDUFV3
+mitochondrial inner membrane: 20 proteins: NDUFB9, NDUFS4, TIMMDC1, ND4, NDUFA13, NDUFA7, NDUFA8, NDUFAF4, NDUFB1, NDUFB11, NDUFB4, NDUFB5, NDUFB6, NDUFB8, NDUFC2, NDUFV1, NDUFV2, NDUFV3, TMEM126B, TOMM40
+mitochondrial respiratory chain complex I: 20 proteins: NDUFB9, NDUFS4, ND4, NDUFA13, NDUFA7, NDUFA8, NDUFA9, NDUFB1, NDUFB11, NDUFB4, NDUFB5, NDUFB6, NDUFB8, NDUFC2, NDUFS1, NDUFS2, NDUFS8, NDUFV1, NDUFV2, NDUFV3
+NADH dehydrogenase (ubiquinone) activity: 18 proteins: NDUFB9, NDUFS4, ND4, NDUFA7, NDUFA8, NDUFA9, NDUFB1, NDUFB4, NDUFB5, NDUFB6, NDUFB8, NDUFC2, NDUFS1, NDUFS2, NDUFS8, NDUFV1, NDUFV2, NDUFV3
+mitochondrial electron transport, NADH to ubiquinone: 18 proteins: NDUFB9, NDUFS4, ND4, NDUFA7, NDUFA8, NDUFA9, NDUFB1, NDUFB4, NDUFB5, NDUFB6, NDUFB8, NDUFC2, NDUFS1, NDUFS2, NDUFS8, NDUFV1, NDUFV2, NDUFV3
+mitochondrial respiratory chain complex I assembly: 18 proteins: NDUFB9, NDUFS4, ND4, NDUFA13, NDUFA8, NDUFA9, NDUFAF4, NDUFB1, NDUFB11, NDUFB4, NDUFB5, NDUFB6, NDUFB8, NDUFC2, NDUFS1, NDUFS2, NDUFS8, TMEM126B
+nucleoplasm: 8 proteins: TIMMDC1, PRELID1, DNLZ, NDUFA13, NDUFB4, NDUFB5, NDUFB6, NDUFS2
+NADH dehydrogenase activity: 5 proteins: ND4, NDUFA9, NDUFS2, NDUFS8, NDUFV2
+mitochondrial matrix: 5 proteins: NDUFA9, NDUFB8, NDUFS1, NDUFS2, NDUFS8
+metal ion binding: 5 proteins: NDUFS1, NDUFS2, NDUFS8, NDUFV1, NDUFV2
+cytosol: 4 proteins: DCTD, NDUFAF4, NDUFV1, TOMM40
+mitochondrial membrane: 4 proteins: NDUFA13, NDUFA9, NDUFAF4, NDUFB6
+mitochondrial ATP synthesis coupled electron transport: 4 proteins: NDUFB6, NDUFS2, NDUFV1, NDUFV3
+4 iron, 4 sulfur cluster binding: 4 proteins: NDUFS1, NDUFS2, NDUFS8, NDUFV1
+reactive oxygen species metabolic process: 3 proteins: NDUFS4, NDUFA13, NDUFS1
+cytoplasm: 3 proteins: DCTD, NDUFA13, NDUFC2
+mitochondrial intermembrane space: 3 proteins: PRELID1, NDUFA8, NDUFS1
+response to oxidative stress: 3 proteins: NDUFB4, NDUFS2, NDUFS8
+electron transfer activity: 3 proteins: NDUFS1, NDUFS2, NDUFV2
+cellular respiration: 2 proteins: NDUFS4, NDUFS1
+zinc ion binding: 2 proteins: DCTD, DNLZ
+negative regulation of apoptotic process: 2 proteins: PRELID1, NDUFAF4
+regulation of mitochondrial membrane potential: 2 proteins: PRELID1, NDUFS1
+protein import into mitochondrial matrix: 2 proteins: DNLZ, TOMM40
+protein-containing complex binding: 2 proteins: NDUFA8, NDUFA9
+2 iron, 2 sulfur cluster binding: 2 proteins: NDUFS1, NDUFV2
+NAD binding: 2 proteins: NDUFS2, NDUFV1

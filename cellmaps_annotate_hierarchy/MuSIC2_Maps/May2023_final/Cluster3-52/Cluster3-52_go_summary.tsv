@@ -1,0 +1,91 @@
+Feature	Number of Genes	Genes
+protein binding	7	TADA2A, NEUROG3, TADA2B, ATXN7L3, USP22, TAF5L, TCF12
+ transcription by RNA polymerase II	7	TADA2A, NEUROG3, TADA2B, ATXN7L3, USP22, TAF5L, TCF12
+ DNA-templated transcription	6	TADA2A, NEUROG3, TADA2B, ATXN7L3, USP22, TAF5L
+nucleus	6	TADA2A, NEUROG3, TADA2B, ATXN7L3, TAF5L, TCF12
+transcription coactivator activity	5	TADA2A, TADA2B, ATXN7L3, USP22, TAF5L
+histone H3 acetylation	5	TADA2A, TADA2B, ATXN7L3, USP22, TAF5L
+SAGA complex	5	TADA2A, TADA2B, ATXN7L3, USP22, TAF5L
+zinc ion binding	4	TADA2A, TADA2B, ATXN7L3, USP22
+ DNA repair	4	TADA2B, ATXN7L3, USP22, TAF5L
+monoubiquitinated histone deubiquitination	4	TADA2B, ATXN7L3, USP22, TAF5L
+monoubiquitinated histone H2A deubiquitination	4	TADA2B, ATXN7L3, USP22, TAF5L
+ RNA splicing	4	TADA2B, ATXN7L3, USP22, TAF5L
+chromatin remodeling	3	TADA2A, TADA2B, USP22
+nucleoplasm	3	TADA2B, USP22, TCF12
+transcription factor TFTC complex	3	ATXN7L3, USP22, TAF5L
+chromatin binding	2	TADA2A, TADA2B
+histone acetylation	2	TADA2A, TAF5L
+ histone acetylation	2	TADA2A, TADA2B
+SAGA-type complex	2	TADA2A, TADA2B
+RNA polymerase II cis-regulatory region sequence-specific DNA binding	2	NEUROG3, TCF12
+DNA-binding transcription factor activity, RNA polymerase II-specific	2	NEUROG3, TCF12
+DNA-binding transcription activator activity, RNA polymerase II-specific	2	NEUROG3, TCF12
+DNA-binding transcription factor activity	2	NEUROG3, TCF12
+E-box binding	2	NEUROG3, TCF12
+nervous system development	2	NEUROG3, TCF12
+ neuron differentiation	2	NEUROG3, TCF12
+chromatin	2	NEUROG3, TCF12
+cytoplasm	2	NEUROG3, TCF12
+nuclear receptor coactivator activity	2	ATXN7L3, USP22
+nuclear speck	2	TAF5L, TCF12
+DNA binding	1	TADA2A
+histone acetyltransferase activity	1	TADA2A
+ histone deacetylation	1	TADA2A
+histone H3-K14 acetylation	1	TADA2A
+ embryonic development	1	TADA2A
+ cell division	1	TADA2A
+ cell cycle	1	TADA2A
+ tubulin deacetylation	1	TADA2A
+mitotic spindle	1	TADA2A
+ATAC complex	1	TADA2A
+DNA-binding transcription repressor activity, RNA polymerase II-specific	1	NEUROG3
+chromatin DNA binding	1	NEUROG3
+protein dimerization activity	1	NEUROG3
+negative regulation of transcription by RNA polymerase II	1	NEUROG3
+central nervous system development	1	NEUROG3
+peripheral nervous system development	1	NEUROG3
+sensory organ development	1	NEUROG3
+spinal cord development	1	NEUROG3
+epithelial cell differentiation	1	NEUROG3
+forebrain development	1	NEUROG3
+hindbrain development	1	NEUROG3
+ dendrite morphogenesis	1	NEUROG3
+transdifferentiation	1	NEUROG3
+axon development	1	NEUROG3
+chromatin organization	1	ATXN7L3
+histone deubiquitination	1	ATXN7L3
+DUBm complex	1	ATXN7L3
+cysteine-type deubiquitinase activity	1	USP22
+histone H4 acetyltransferase activity	1	USP22
+enzyme binding	1	USP22
+histone H2B deubiquitinase activity	1	USP22
+ubiquitin-dependent protein catabolic process	1	USP22
+cell cycle	1	USP22
+embryo development ending in birth or egg hatching	1	USP22
+protein deubiquitination	1	USP22
+ mitotic cell cycle	1	USP22
+transcription by RNA polymerase II	1	TAF5L
+ somatic stem cell population maintenance	1	TAF5L
+histone acetyltransferase complex	1	TAF5L
+transcription factor TFIID complex	1	TAF5L
+cytoplasmic ribonucleoprotein granule	1	TAF5L
+nuclear protein-containing complex	1	TAF5L
+transcription cis-regulatory region binding	1	TCF12
+cis-regulatory region sequence-specific DNA binding	1	TCF12
+cAMP response element binding	1	TCF12
+bHLH transcription factor binding	1	TCF12
+SMAD binding	1	TCF12
+protein heterodimerization activity	1	TCF12
+HMG box domain binding	1	TCF12
+DNA-binding transcription factor binding	1	TCF12
+sequence-specific double-stranded DNA binding	1	TCF12
+immune response	1	TCF12
+muscle organ development	1	TCF12
+gene expression	1	TCF12
+ gene expression	1	TCF12
+cell differentiation	1	TCF12
+response to gonadotropin-releasing hormone	1	TCF12
+transcription regulator complex	1	TCF12
+intracellular membrane-bounded organelle	1	TCF12
+RNA polymerase II transcription regulator complex	1	TCF12

@@ -1,0 +1,130 @@
+Feature	Number of Genes	Genes
+protein binding	6	NAPRT, GLUL, TALDO1, TFAP2D, CST3, CTSL
+extracellular exosome	5	NAPRT, GLUL, TALDO1, CST3, CTSL
+nucleus	4	GLUL, TALDO1, TFAP2D, CTSL
+extracellular region	3	NAPRT, CST3, CTSL
+cytosol	3	NAPRT, GLUL, TALDO1
+cytoplasm	3	GLUL, TALDO1, CST3
+plasma membrane	3	GLUL, CST3, CTSL
+identical protein binding	2	GLUL, CST3
+extracellular space	2	CST3, CTSL
+Golgi apparatus	2	CST3, CTSL
+nicotinate phosphoribosyltransferase activity	1	NAPRT
+transferase activity	1	NAPRT
+metal ion binding	1	NAPRT
+response to oxidative stress	1	NAPRT
+NAD salvage	1	NAPRT
+azurophil granule lumen	1	NAPRT
+magnesium ion binding	1	GLUL
+glutamate-ammonia ligase activity	1	GLUL
+ATP binding	1	GLUL
+glutamate binding	1	GLUL
+protein-cysteine S-palmitoyltransferase activity	1	GLUL
+manganese ion binding	1	GLUL
+dynein light chain binding	1	GLUL
+angiogenesis	1	GLUL
+glutamate catabolic process	1	GLUL
+glutamine biosynthetic process	1	GLUL
+cell population proliferation	1	GLUL
+cellular response to starvation	1	GLUL
+response to glucose	1	GLUL
+ endothelial cell migration	1	GLUL
+protein palmitoylation	1	GLUL
+ammonia assimilation cycle	1	GLUL
+ insulin secretion	1	GLUL
+ribosome biogenesis	1	GLUL
+ epithelial cell proliferation	1	GLUL
+ synaptic transmission, glutamatergic	1	GLUL
+ sprouting angiogenesis	1	GLUL
+ protein localization to nucleolus	1	GLUL
+mitochondrion	1	GLUL
+rough endoplasmic reticulum	1	GLUL
+protein-containing complex	1	GLUL
+perikaryon	1	GLUL
+myelin sheath	1	GLUL
+axon terminus	1	GLUL
+glial cell projection	1	GLUL
+transaldolase activity	1	TALDO1
+monosaccharide binding	1	TALDO1
+carbohydrate metabolic process	1	TALDO1
+fructose 6-phosphate metabolic process	1	TALDO1
+pentose-phosphate shunt, non-oxidative branch	1	TALDO1
+glyceraldehyde-3-phosphate metabolic process	1	TALDO1
+intracellular anatomical structure	1	TALDO1
+RNA polymerase II transcription regulatory region sequence-specific DNA binding	1	TFAP2D
+DNA-binding transcription factor activity, RNA polymerase II-specific	1	TFAP2D
+ transcription by RNA polymerase II	1	TFAP2D
+transcription by RNA polymerase II	1	TFAP2D
+ cell population proliferation	1	TFAP2D
+negative regulation of neuron apoptotic process	1	TFAP2D
+anatomical structure development	1	TFAP2D
+inferior colliculus development	1	TFAP2D
+chromatin	1	TFAP2D
+transcription regulator complex	1	TFAP2D
+amyloid-beta binding	1	CST3
+protease binding	1	CST3
+endopeptidase inhibitor activity	1	CST3
+cysteine-type endopeptidase inhibitor activity	1	CST3
+peptidase inhibitor activity	1	CST3
+defense response	1	CST3
+negative regulation of peptidase activity	1	CST3
+negative regulation of collagen catabolic process	1	CST3
+negative regulation of extracellular matrix disassembly	1	CST3
+ tissue remodeling	1	CST3
+negative regulation of proteolysis	1	CST3
+negative regulation of elastin catabolic process	1	CST3
+negative regulation of blood vessel remodeling	1	CST3
+supramolecular fiber organization	1	CST3
+negative regulation of cysteine-type endopeptidase activity	1	CST3
+endoplasmic reticulum	1	CST3
+endoplasmic reticulum lumen	1	CST3
+vesicle	1	CST3
+tertiary granule lumen	1	CST3
+ficolin-1-rich granule lumen	1	CST3
+fibronectin binding	1	CTSL
+cysteine-type endopeptidase activity	1	CTSL
+collagen binding	1	CTSL
+cysteine-type peptidase activity	1	CTSL
+cysteine-type endopeptidase activator activity involved in apoptotic process	1	CTSL
+histone binding	1	CTSL
+proteoglycan binding	1	CTSL
+serpin family protein binding	1	CTSL
+adaptive immune response	1	CTSL
+proteolysis	1	CTSL
+immune response	1	CTSL
+ peptidase activity	1	CTSL
+protein autoprocessing	1	CTSL
+fusion of virus membrane with host plasma membrane	1	CTSL
+receptor-mediated endocytosis of virus by host cell	1	CTSL
+antigen processing and presentation	1	CTSL
+antigen processing and presentation of exogenous peptide antigen via MHC class II	1	CTSL
+collagen catabolic process	1	CTSL
+zymogen activation	1	CTSL
+enkephalin processing	1	CTSL
+fusion of virus membrane with host endosome membrane	1	CTSL
+CD4-positive, alpha-beta T cell lineage commitment	1	CTSL
+viral entry into host cell	1	CTSL
+antigen processing and presentation of peptide antigen	1	CTSL
+proteolysis involved in protein catabolic process	1	CTSL
+elastin catabolic process	1	CTSL
+macrophage apoptotic process	1	CTSL
+cellular response to thyroid hormone stimulus	1	CTSL
+ apoptotic signaling pathway	1	CTSL
+lysosome	1	CTSL
+multivesicular body	1	CTSL
+apical plasma membrane	1	CTSL
+endolysosome lumen	1	CTSL
+chromaffin granule	1	CTSL
+lysosomal lumen	1	CTSL
+intracellular membrane-bounded organelle	1	CTSL
+collagen-containing extracellular matrix	1	CTSL
+endocytic vesicle lumen	1	CTSL
+actin filament binding	1	POF1B
+epithelial cell morphogenesis	1	POF1B
+actin filament organization	1	POF1B
+actin cytoskeleton organization	1	POF1B
+bicellular tight junction assembly	1	POF1B
+actin filament	1	POF1B
+adherens junction	1	POF1B
+bicellular tight junction	1	POF1B
+desmosome	1	POF1B

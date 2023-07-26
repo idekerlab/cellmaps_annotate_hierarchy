@@ -1,0 +1,54 @@
+Your response should be formatted as Markdown paragraphs
+Write a critical and concise analysis of this human protein system, describing your reasoning as you go and providing references to scientific papers.
+
+A critical goal of the analysis is to determine if this is a novel complex or if any proteins are novel members of a known complex
+
+Format with Title, Summary, and References sections.        
+Avoid overly general statements of how the proteins are involved in various cellular processes        
+Avoid repeating the goals of the analysis.
+
+What cellular components and complexes are involved in this system?
+What mechanisms and biological processes are performed by this system?
+Propose a name for the system to reflect the cellular location and function, and should be specific but brief. Do not compose an acronym. Place it as the title of your report
+Human Proteins: BAG1, BCL9L, HSF1, HSF2, SF1, SKI, SKIL, SMAD4.
+
+System features from GO terms: 
+nucleus: 8 proteins: BAG1, BCL9L, HSF1, HSF2, SF1, SKI, SKIL, SMAD4
+nucleoplasm: 8 proteins: BAG1, BCL9L, HSF1, HSF2, SF1, SKI, SKIL, SMAD4
+protein binding: 7 proteins: BAG1, HSF1, HSF2, SF1, SKI, SKIL, SMAD4
+cytoplasm: 5 proteins: BAG1, HSF1, HSF2, SKI, SMAD4
+ transcription by RNA polymerase II: 5 proteins: BCL9L, HSF1, HSF2, SKI, SMAD4
+RNA polymerase II cis-regulatory region sequence-specific DNA binding: 5 proteins: HSF1, HSF2, SKI, SKIL, SMAD4
+DNA-binding transcription factor activity, RNA polymerase II-specific: 5 proteins: HSF1, HSF2, SKI, SKIL, SMAD4
+identical protein binding: 5 proteins: HSF1, HSF2, SF1, SKI, SMAD4
+negative regulation of transcription by RNA polymerase II: 4 proteins: HSF1, SKI, SKIL, SMAD4
+cytosol: 3 proteins: BAG1, HSF1, SMAD4
+negative regulation of transforming growth factor beta receptor signaling pathway: 3 proteins: BCL9L, SKI, SKIL
+DNA-binding transcription repressor activity, RNA polymerase II-specific: 3 proteins: HSF1, SKI, SKIL
+DNA-binding transcription activator activity, RNA polymerase II-specific: 3 proteins: HSF1, HSF2, SMAD4
+DNA-binding transcription factor activity: 3 proteins: HSF1, HSF2, SMAD4
+chromatin: 3 proteins: HSF1, HSF2, SMAD4
+centrosome: 3 proteins: HSF1, SKI, SMAD4
+spermatogenesis: 3 proteins: HSF2, SKIL, SMAD4
+transforming growth factor beta receptor signaling pathway: 3 proteins: SKI, SKIL, SMAD4
+ubiquitin protein ligase binding: 2 proteins: BAG1, SKI
+transcription by RNA polymerase II: 2 proteins: BCL9L, SMAD4
+ epithelial to mesenchymal transition: 2 proteins: BCL9L, SMAD4
+somatic stem cell population maintenance: 2 proteins: BCL9L, SKI
+transcription cis-regulatory region binding: 2 proteins: HSF1, SMAD4
+RNA polymerase II intronic transcription regulatory region sequence-specific DNA binding: 2 proteins: HSF1, HSF2
+DNA binding: 2 proteins: HSF1, SMAD4
+protein kinase binding: 2 proteins: HSF1, SKI
+sequence-specific DNA binding: 2 proteins: HSF1, SMAD4
+sequence-specific double-stranded DNA binding: 2 proteins: HSF1, HSF2
+PML body: 2 proteins: HSF1, SKI
+zinc ion binding: 2 proteins: SF1, SKI
+negative regulation of DNA-templated transcription: 2 proteins: SF1, SMAD4
+nuclear body: 2 proteins: SF1, SKI
+SMAD binding: 2 proteins: SKI, SKIL
+negative regulation of cell population proliferation: 2 proteins: SKI, SMAD4
+negative regulation of BMP signaling pathway: 2 proteins: SKI, SKIL
+SMAD protein signal transduction: 2 proteins: SKI, SMAD4
+transcription regulator complex: 2 proteins: SKI, SMAD4
+protein-containing complex: 2 proteins: SKI, SKIL
+chromatin binding: 2 proteins: SKIL, SMAD4

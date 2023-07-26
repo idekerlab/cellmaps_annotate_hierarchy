@@ -1,0 +1,1194 @@
+--openai_api_key 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 --context 'You are assisting a molecular biologist in the analysis of a system of proteins that are physically close to each other and/or interact with each other.' --prompt 'Write a critical and concise analysis of this system, describing your reasoning as you go and providing references to scientific papers. Format the page with Title, Summary, and References sections.
+What cellular components and complexes are involved in this system?
+What mechanisms and biological processes are performed by this system?
+Propose a name for the system to reflect the function and location, and should be specific but brief. Do not compose an acronym. Place it as the title of your report
+Provide complete paper references with pubmed link
+Proteins: GORASP2, OSBP, TRAF3IP2, RNPEP, FAM174A, USO1, CCDC25, AGFG1, RAB1B, RFK, CD99, OSBPL11, UBQLN1, PPP5C, TPK1, QNG1, GGA1, SNX5, NUCB2, CWF19L1, OSBPL9.
+
+A critical goal of the analysis is to determine if this is a novel complex or if any proteins are novel members of a known complex
+System features from GO terms: 
+protein binding: 20 proteins: GORASP2, OSBP, TRAF3IP2, FAM174A, USO1, CCDC25, AGFG1, RAB1B, RFK, CD99, OSBPL11, UBQLN1, PPP5C, TPK1, QNG1, GGA1, SNX5, NUCB2, CWF19L1, OSBPL9
+cytosol: 13 proteins: OSBP, USO1, AGFG1, RAB1B, RFK, OSBPL11, UBQLN1, PPP5C, TPK1, GGA1, SNX5, NUCB2, OSBPL9
+Golgi apparatus: 8 proteins: GORASP2, OSBP, USO1, RAB1B, OSBPL11, GGA1, NUCB2, OSBPL9
+membrane: 7 proteins: GORASP2, OSBP, FAM174A, USO1, OSBPL11, GGA1, OSBPL9
+intracellular membrane-bounded organelle: 7 proteins: OSBP, AGFG1, OSBPL11, PPP5C, GGA1, SNX5, OSBPL9
+plasma membrane: 6 proteins: RNPEP, CCDC25, CD99, UBQLN1, PPP5C, NUCB2
+nucleoplasm: 5 proteins: OSBP, OSBPL11, UBQLN1, PPP5C, GGA1
+cytoplasm: 5 proteins: OSBP, AGFG1, RFK, CD99, UBQLN1
+perinuclear region of cytoplasm: 5 proteins: OSBP, USO1, RAB1B, UBQLN1, SNX5
+Golgi membrane: 4 proteins: GORASP2, OSBP, USO1, RAB1B
+intracellular protein transport: 4 proteins: USO1, RAB1B, GGA1, SNX5
+endoplasmic reticulum membrane: 3 proteins: GORASP2, OSBP, RAB1B
+sterol transporter activity: 3 proteins: OSBP, OSBPL11, OSBPL9
+sterol binding: 3 proteins: OSBP, OSBPL11, OSBPL9
+sterol transport: 3 proteins: OSBP, OSBPL11, OSBPL9
+cellular_component: 3 proteins: TRAF3IP2, QNG1, CWF19L1
+cytoplasmic vesicle: 3 proteins: TRAF3IP2, AGFG1, UBQLN1
+extracellular exosome: 3 proteins: RNPEP, RAB1B, NUCB2
+RNA binding: 3 proteins: USO1, AGFG1, PPP5C
+endoplasmic reticulum: 3 proteins: USO1, UBQLN1, NUCB2
+DNA binding: 3 proteins: CCDC25, AGFG1, NUCB2
+metal ion binding: 3 proteins: AGFG1, RFK, PPP5C
+ATP binding: 3 proteins: RFK, PPP5C, TPK1
+identical protein binding: 3 proteins: UBQLN1, PPP5C, TPK1
+protein-containing complex: 3 proteins: UBQLN1, PPP5C, GGA1
+molecular_function: 3 proteins: QNG1, GGA1, CWF19L1
+Golgi organization: 2 proteins: GORASP2, RAB1B
+response to endoplasmic reticulum stress: 2 proteins: GORASP2, UBQLN1
+phosphatidylinositol-4-phosphate binding: 2 proteins: OSBP, SNX5
+bile acid biosynthetic process: 2 proteins: OSBP, OSBPL9
+trans-Golgi network: 2 proteins: OSBP, GGA1
+positive regulation of I-kappaB kinase/NF-kappaB signaling: 2 proteins: TRAF3IP2, PPP5C
+nucleus: 2 proteins: TRAF3IP2, PPP5C
+extracellular space: 2 proteins: RNPEP, NUCB2
+cadherin binding: 2 proteins: USO1, SNX5
+endoplasmic reticulum to Golgi vesicle-mediated transport: 2 proteins: USO1, RAB1B
+small GTPase mediated signal transduction: 2 proteins: USO1, NUCB2
+transport vesicle: 2 proteins: USO1, RAB1B
+endomembrane system: 2 proteins: CCDC25, RAB1B
+autophagosome assembly: 2 proteins: RAB1B, UBQLN1
+phosphorylation: 2 proteins: RFK, TPK1
+late endosome membrane: 2 proteins: OSBPL11, OSBPL9
+regulation of macroautophagy: 2 proteins: UBQLN1, SNX5
+biological_process: 2 proteins: QNG1, CWF19L1
+phosphatidylinositol binding: 2 proteins: GGA1, SNX5
+retrograde transport, endosome to Golgi: 2 proteins: GGA1, SNX5
+' --model gpt-4 --temperature 0 --max_tokens 800 --rate_per_token 6e-05 --log_file /cellar/users/mhu/Projects/cellmaps_annotate_hierarchy/cellmaps_annotate_hierarchy/MuSIC2_Maps/May2023/branch1-2_log.json --dolor_limit 5.0 --file_path /cellar/users/mhu/Projects/cellmaps_annotate_hierarchy/cellmaps_annotate_hierarchy/MuSIC2_Maps/May2023/Cluster2-31/Cluster2-31_chatgpt_response
+--openai_api_key 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 --context 'You are assisting a molecular biologist in the analysis of a system of proteins that are physically close to each other and/or interact with each other.' --prompt 'Write a critical and concise analysis of this system, describing your reasoning as you go and providing references to scientific papers. Format the page with Title, Summary, and References sections.
+What cellular components and complexes are involved in this system?
+What mechanisms and biological processes are performed by this system?
+Propose a name for the system to reflect the function and location, and should be specific but brief. Do not compose an acronym. Place it as the title of your report
+Provide complete paper references with pubmed link
+Proteins: ATP6V1D, ATP6V1E1, WDR7, ATP6V1C1.
+
+A critical goal of the analysis is to determine if this is a novel complex or if any proteins are novel members of a known complex
+System features from GO terms: 
+protein binding: 3 proteins: ATP6V1D, ATP6V1E1, ATP6V1C1
+proton-transporting ATPase activity, rotational mechanism: 3 proteins: ATP6V1D, ATP6V1E1, ATP6V1C1
+regulation of macroautophagy: 3 proteins: ATP6V1D, ATP6V1E1, ATP6V1C1
+synaptic vesicle lumen acidification: 3 proteins: ATP6V1D, ATP6V1E1, ATP6V1C1
+proton transmembrane transport: 3 proteins: ATP6V1D, ATP6V1E1, ATP6V1C1
+vacuolar proton-transporting V-type ATPase, V1 domain: 3 proteins: ATP6V1D, ATP6V1E1, ATP6V1C1
+lysosomal membrane: 3 proteins: ATP6V1D, ATP6V1E1, ATP6V1C1
+cytosol: 3 proteins: ATP6V1D, ATP6V1E1, ATP6V1C1
+clathrin-coated vesicle membrane: 3 proteins: ATP6V1D, ATP6V1E1, ATP6V1C1
+extracellular exosome: 3 proteins: ATP6V1D, ATP6V1E1, ATP6V1C1
+plasma membrane: 2 proteins: ATP6V1D, ATP6V1C1
+extrinsic component of synaptic vesicle membrane: 2 proteins: ATP6V1D, ATP6V1C1
+transmembrane transporter complex: 2 proteins: ATP6V1D, ATP6V1C1
+proton-transporting two-sector ATPase complex: 2 proteins: ATP6V1E1, ATP6V1C1
+' --model gpt-4 --temperature 0 --max_tokens 800 --rate_per_token 6e-05 --log_file /cellar/users/mhu/Projects/cellmaps_annotate_hierarchy/cellmaps_annotate_hierarchy/MuSIC2_Maps/May2023/branch1-2_log.json --dolor_limit 5.0 --file_path /cellar/users/mhu/Projects/cellmaps_annotate_hierarchy/cellmaps_annotate_hierarchy/MuSIC2_Maps/May2023/Cluster3-52/Cluster3-52_chatgpt_response
+--openai_api_key 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 --context 'You are assisting a molecular biologist in the analysis of a system of proteins that are physically close to each other and/or interact with each other.' --prompt 'Write a critical and concise analysis of this system, describing your reasoning as you go and providing references to scientific papers. Format the page with Title, Summary, and References sections.
+What cellular components and complexes are involved in this system?
+What mechanisms and biological processes are performed by this system?
+Propose a name for the system to reflect the function and location, and should be specific but brief. Do not compose an acronym. Place it as the title of your report
+Provide complete paper references with pubmed link
+Proteins: NAPG, ASPSCR1, STAMBPL1, TWF2, AKAP12, ABTB1, ATG3, ATG7, CALB2, CRK, CSK, DAG1, DDAH1, DFFA, EHD1, EHD3, GABPA, GLRX, HEBP1, KANSL3, LMCD1, LRRFIP1, MIF, NCAM1, NHERF1, NIBAN2, NT5C, PACSIN2, PDLIM5, PHPT1, PREP, PRKCA, PRRC1, PTGES3L-AARSD1, RPEL1, RPIA, S100A13, SAE1, SBDS, SWAP70, TIGAR, TPD52L1, TTLL12, UBQLN2, ZNF185.
+
+A critical goal of the analysis is to determine if this is a novel complex or if any proteins are novel members of a known complex
+System features from GO terms: 
+protein binding: 38 proteins: NAPG, ASPSCR1, STAMBPL1, TWF2, AKAP12, ABTB1, ATG3, ATG7, CRK, CSK, DAG1, DFFA, EHD1, EHD3, GABPA, GLRX, LMCD1, LRRFIP1, MIF, NCAM1, NHERF1, NIBAN2, PACSIN2, PDLIM5, PHPT1, PREP, PRKCA, PRRC1, RPIA, S100A13, SAE1, SBDS, SWAP70, TIGAR, TPD52L1, TTLL12, UBQLN2, ZNF185
+cytosol: 32 proteins: ASPSCR1, STAMBPL1, AKAP12, ABTB1, ATG3, ATG7, CALB2, CRK, CSK, DAG1, DDAH1, DFFA, EHD3, GLRX, LRRFIP1, MIF, NCAM1, NIBAN2, NT5C, PACSIN2, PDLIM5, PHPT1, PREP, PRKCA, RPEL1, RPIA, S100A13, SBDS, SWAP70, TIGAR, TTLL12, UBQLN2
+cytoplasm: 31 proteins: ASPSCR1, TWF2, AKAP12, ABTB1, ATG3, ATG7, CRK, CSK, DAG1, EHD1, EHD3, HEBP1, LMCD1, LRRFIP1, MIF, NHERF1, NIBAN2, NT5C, PACSIN2, PREP, PRKCA, PRRC1, S100A13, SAE1, SBDS, SWAP70, TIGAR, TPD52L1, TTLL12, UBQLN2, ZNF185
+nucleus: 20 proteins: ASPSCR1, CALB2, CRK, DFFA, EHD3, GABPA, GLRX, LMCD1, LRRFIP1, NHERF1, NIBAN2, NT5C, PREP, S100A13, SAE1, SBDS, SWAP70, TIGAR, TTLL12, UBQLN2
+plasma membrane: 20 proteins: ASPSCR1, AKAP12, ABTB1, CRK, CSK, DAG1, DFFA, EHD1, EHD3, LRRFIP1, MIF, NCAM1, NIBAN2, PACSIN2, PHPT1, PRKCA, S100A13, SWAP70, TTLL12, UBQLN2
+extracellular exosome: 16 proteins: NAPG, TWF2, CRK, CSK, DAG1, DDAH1, EHD1, GLRX, HEBP1, MIF, NHERF1, NIBAN2, NT5C, PACSIN2, PHPT1, PRKCA
+nucleoplasm: 13 proteins: ASPSCR1, DAG1, DFFA, GABPA, KANSL3, LMCD1, MIF, NIBAN2, PHPT1, PRKCA, S100A13, SAE1, SBDS
+identical protein binding: 9 proteins: CSK, EHD1, MIF, NHERF1, NT5C, PACSIN2, RPIA, TPD52L1, UBQLN2
+perinuclear region of cytoplasm: 8 proteins: ASPSCR1, TWF2, EHD1, EHD3, NHERF1, PRKCA, S100A13, TPD52L1
+membrane: 8 proteins: STAMBPL1, CRK, DAG1, EHD1, NCAM1, NHERF1, PDLIM5, PREP
+ATP binding: 7 proteins: TWF2, CSK, EHD1, EHD3, PRKCA, SWAP70, TTLL12
+metal ion binding: 6 proteins: STAMBPL1, CSK, DDAH1, NT5C, PDLIM5, RPEL1
+cadherin binding: 6 proteins: TWF2, EHD1, LRRFIP1, NIBAN2, PACSIN2, SWAP70
+extracellular region: 6 proteins: ATG7, DAG1, HEBP1, MIF, NCAM1, S100A13
+calcium ion binding: 6 proteins: CALB2, DAG1, EHD1, EHD3, S100A13, SWAP70
+intracellular membrane-bounded organelle: 5 proteins: ASPSCR1, DAG1, KANSL3, PACSIN2, RPIA
+focal adhesion: 5 proteins: AKAP12, DAG1, EHD3, PACSIN2, ZNF185
+actin cytoskeleton organization: 5 proteins: CRK, NHERF1, PACSIN2, PDLIM5, PHPT1
+cytoskeleton: 4 proteins: AKAP12, DAG1, LRRFIP1, ZNF185
+protein homodimerization activity: 4 proteins: ATG7, LRRFIP1, S100A13, TPD52L1
+actin cytoskeleton: 4 proteins: CRK, NHERF1, PDLIM5, SWAP70
+negative regulation of cell population proliferation: 4 proteins: CSK, DDAH1, NHERF1, NIBAN2
+zinc ion binding: 4 proteins: LMCD1, PRKCA, S100A13, ZNF185
+intracellular protein transport: 3 proteins: NAPG, ASPSCR1, EHD1
+mitochondrion: 3 proteins: NAPG, GLRX, PRKCA
+lamellipodium: 3 proteins: TWF2, DAG1, SWAP70
+filopodium: 3 proteins: TWF2, DAG1, NHERF1
+positive regulation of ERK1 and ERK2 cascade: 3 proteins: AKAP12, MIF, PRKCA
+nucleolus: 3 proteins: ABTB1, S100A13, SBDS
+autophagosome assembly: 3 proteins: ATG3, ATG7, UBQLN2
+protein transport: 3 proteins: ATG7, EHD3, S100A13
+regulation of transcription by RNA polymerase II: 3 proteins: CRK, GABPA, LRRFIP1
+membrane raft: 3 proteins: CRK, CSK, NHERF1
+positive regulation of MAP kinase activity: 3 proteins: CSK, MIF, TPD52L1
+extracellular space: 3 proteins: DAG1, MIF, S100A13
+adherens junction: 3 proteins: DAG1, NIBAN2, PDLIM5
+protein localization to plasma membrane: 3 proteins: EHD1, EHD3, NHERF1
+early endosome: 3 proteins: EHD1, EHD3, PACSIN2
+recycling endosome membrane: 3 proteins: EHD1, EHD3, PACSIN2
+negative regulation of transcription by RNA polymerase II: 3 proteins: GABPA, LMCD1, LRRFIP1
+protein-containing complex assembly: 2 proteins: NAPG, NHERF1
+Golgi apparatus: 2 proteins: NAPG, PRRC1
+positive regulation of protein modification process: 2 proteins: ASPSCR1, ATG7
+endomembrane system: 2 proteins: ASPSCR1, NHERF1
+endosome: 2 proteins: STAMBPL1, PACSIN2
+RNA binding: 2 proteins: TWF2, SBDS
+protein kinase C binding: 2 proteins: TWF2, PDLIM5
+actin filament binding: 2 proteins: TWF2, PHPT1
+positive regulation of neuron projection development: 2 proteins: TWF2, EHD1
+regulation of actin cytoskeleton organization: 2 proteins: TWF2, CRK
+positive regulation of protein kinase A signaling: 2 proteins: AKAP12, MIF
+positive regulation of tumor necrosis factor production: 2 proteins: AKAP12, MIF
+negative regulation of vascular permeability: 2 proteins: AKAP12, DDAH1
+modulation of chemical synaptic transmission: 2 proteins: AKAP12, PACSIN2
+enzyme binding: 2 proteins: ATG3, PRKCA
+autophagy of mitochondrion: 2 proteins: ATG3, ATG7
+protein ubiquitination: 2 proteins: ATG3, SAE1
+negative regulation of phagocytosis: 2 proteins: ATG3, CSK
+phagophore assembly site: 2 proteins: ATG3, ATG7
+positive regulation of apoptotic process: 2 proteins: ATG7, DFFA
+secretory granule lumen: 2 proteins: ATG7, MIF
+ficolin-1-rich granule lumen: 2 proteins: ATG7, MIF
+cytoskeletal protein binding: 2 proteins: CRK, PACSIN2
+SH2 domain binding: 2 proteins: CRK, DAG1
+protein self-association: 2 proteins: CRK, NHERF1
+protein tyrosine kinase binding: 2 proteins: CRK, CSK
+regulation of cell shape: 2 proteins: CRK, NHERF1
+positive regulation of JNK cascade: 2 proteins: CRK, TPD52L1
+cellular response to nerve growth factor stimulus: 2 proteins: CRK, EHD1
+protein-containing complex: 2 proteins: CRK, DFFA
+protein phosphorylation: 2 proteins: CSK, PRKCA
+negative regulation of ERK1 and ERK2 cascade: 2 proteins: CSK, NHERF1
+cell-cell junction: 2 proteins: CSK, PACSIN2
+virus receptor activity: 2 proteins: DAG1, NCAM1
+actin binding: 2 proteins: DAG1, PDLIM5
+tubulin binding: 2 proteins: DAG1, TTLL12
+protein-containing complex binding: 2 proteins: DAG1, NHERF1
+morphogenesis of an epithelium: 2 proteins: DAG1, NHERF1
+axon guidance: 2 proteins: DAG1, NIBAN2
+negative regulation of cell migration: 2 proteins: DAG1, MIF
+viral entry into host cell: 2 proteins: DAG1, NCAM1
+negative regulation of protein kinase B signaling: 2 proteins: DAG1, NHERF1
+commissural neuron axon guidance: 2 proteins: DAG1, NCAM1
+external side of plasma membrane: 2 proteins: DAG1, NCAM1
+collagen-containing extracellular matrix: 2 proteins: DAG1, NCAM1
+glutamatergic synapse: 2 proteins: DAG1, PACSIN2
+positive regulation of angiogenesis: 2 proteins: DDAH1, PRKCA
+chromatin: 2 proteins: DFFA, GABPA
+GTP binding: 2 proteins: EHD1, EHD3
+endocytosis: 2 proteins: EHD1, EHD3
+endocytic recycling: 2 proteins: EHD1, EHD3
+protein homooligomerization: 2 proteins: EHD1, EHD3
+cilium assembly: 2 proteins: EHD1, EHD3
+endosome membrane: 2 proteins: EHD1, EHD3
+ciliary pocket membrane: 2 proteins: EHD1, EHD3
+endocytic vesicle: 2 proteins: EHD1, EHD3
+RNA polymerase II cis-regulatory region sequence-specific DNA binding: 2 proteins: GABPA, LRRFIP1
+DNA-binding transcription factor activity, RNA polymerase II-specific: 2 proteins: GABPA, LRRFIP1
+cell differentiation: 2 proteins: GABPA, NIBAN2
+positive regulation of transcription by RNA polymerase II: 2 proteins: GABPA, KANSL3
+positive regulation of DNA-templated transcription: 2 proteins: KANSL3, NIBAN2
+DNA binding: 2 proteins: LRRFIP1, SWAP70
+positive regulation of cytokine production: 2 proteins: MIF, S100A13
+positive regulation of cell population proliferation: 2 proteins: MIF, S100A13
+positive regulation of lipopolysaccharide-mediated signaling pathway: 2 proteins: MIF, PRKCA
+negative regulation of apoptotic process: 2 proteins: MIF, NIBAN2
+innate immune response: 2 proteins: MIF, TTLL12
+cell surface: 2 proteins: MIF, NCAM1
+vesicle: 2 proteins: MIF, NHERF1
+cell adhesion: 2 proteins: NCAM1, PRKCA
+transmembrane transporter binding: 2 proteins: NHERF1, PHPT1
+pentose-phosphate shunt, non-oxidative branch: 2 proteins: RPEL1, RPIA
+' --model gpt-4 --temperature 0 --max_tokens 800 --rate_per_token 6e-05 --log_file /cellar/users/mhu/Projects/cellmaps_annotate_hierarchy/cellmaps_annotate_hierarchy/MuSIC2_Maps/May2023/branch1-2_log.json --dolor_limit 5.0 --file_path /cellar/users/mhu/Projects/cellmaps_annotate_hierarchy/cellmaps_annotate_hierarchy/MuSIC2_Maps/May2023/Cluster3-14/Cluster3-14_chatgpt_response
+--openai_api_key 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 --context 'You are assisting a molecular biologist in the analysis of a system of proteins that are physically close to each other and/or interact with each other.' --prompt 'Write a critical and concise analysis of this system, describing your reasoning as you go and providing references to scientific papers. Format the page with Title, Summary, and References sections.
+What cellular components and complexes are involved in this system?
+What mechanisms and biological processes are performed by this system?
+Propose a name for the system to reflect the function and location, and should be specific but brief. Do not compose an acronym. Place it as the title of your report
+Provide complete paper references with pubmed link
+Proteins: EEF1D, EEF1A2, ABTB1, VARS1.
+
+A critical goal of the analysis is to determine if this is a novel complex or if any proteins are novel members of a known complex
+System features from GO terms: 
+protein binding: 4 proteins: EEF1D, EEF1A2, ABTB1, VARS1
+translation elongation factor activity: 3 proteins: EEF1D, EEF1A2, ABTB1
+translational elongation: 3 proteins: EEF1D, EEF1A2, ABTB1
+cytoplasm: 3 proteins: EEF1D, EEF1A2, ABTB1
+cytosol: 3 proteins: EEF1D, ABTB1, VARS1
+translation factor activity, RNA binding: 2 proteins: EEF1D, EEF1A2
+nucleus: 2 proteins: EEF1D, EEF1A2
+eukaryotic translation elongation factor 1 complex: 2 proteins: EEF1D, EEF1A2
+' --model gpt-4 --temperature 0 --max_tokens 800 --rate_per_token 6e-05 --log_file /cellar/users/mhu/Projects/cellmaps_annotate_hierarchy/cellmaps_annotate_hierarchy/MuSIC2_Maps/May2023/branch1-2_log.json --dolor_limit 5.0 --file_path /cellar/users/mhu/Projects/cellmaps_annotate_hierarchy/cellmaps_annotate_hierarchy/MuSIC2_Maps/May2023/Cluster3-50/Cluster3-50_chatgpt_response
+--openai_api_key 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 --context 'You are assisting a molecular biologist in the analysis of a system of proteins that are physically close to each other and/or interact with each other.' --prompt 'Write a critical and concise analysis of this system, describing your reasoning as you go and providing references to scientific papers. Format the page with Title, Summary, and References sections.
+What cellular components and complexes are involved in this system?
+What mechanisms and biological processes are performed by this system?
+Propose a name for the system to reflect the function and location, and should be specific but brief. Do not compose an acronym. Place it as the title of your report
+Provide complete paper references with pubmed link
+Proteins: MAP4K2, DPYSL2, DPYSL3, DPYSL4, NAA30.
+
+A critical goal of the analysis is to determine if this is a novel complex or if any proteins are novel members of a known complex
+System features from GO terms: 
+protein binding: 5 proteins: MAP4K2, DPYSL2, DPYSL3, DPYSL4, NAA30
+cytosol: 4 proteins: DPYSL2, DPYSL3, DPYSL4, NAA30
+dihydropyrimidinase activity: 3 proteins: DPYSL2, DPYSL3, DPYSL4
+hydrolase activity, acting on carbon-nitrogen (but not peptide) bonds, in cyclic amides: 3 proteins: DPYSL2, DPYSL3, DPYSL4
+pyrimidine nucleobase catabolic process: 3 proteins: DPYSL2, DPYSL3, DPYSL4
+cytoplasm: 2 proteins: MAP4K2, NAA30
+identical protein binding: 2 proteins: DPYSL2, DPYSL3
+nervous system development: 2 proteins: DPYSL2, DPYSL4
+filamin binding: 2 proteins: DPYSL3, DPYSL4
+' --model gpt-4 --temperature 0 --max_tokens 800 --rate_per_token 6e-05 --log_file /cellar/users/mhu/Projects/cellmaps_annotate_hierarchy/cellmaps_annotate_hierarchy/MuSIC2_Maps/May2023/branch1-2_log.json --dolor_limit 5.0 --file_path /cellar/users/mhu/Projects/cellmaps_annotate_hierarchy/cellmaps_annotate_hierarchy/MuSIC2_Maps/May2023/Cluster2-56/Cluster2-56_chatgpt_response
+--openai_api_key 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 --context 'You are assisting a molecular biologist in the analysis of a system of proteins that are physically close to each other and/or interact with each other.' --prompt 'Write a critical and concise analysis of this system, describing your reasoning as you go and providing references to scientific papers. Format the page with Title, Summary, and References sections.
+What cellular components and complexes are involved in this system?
+What mechanisms and biological processes are performed by this system?
+Propose a name for the system to reflect the function and location, and should be specific but brief. Do not compose an acronym. Place it as the title of your report
+Provide complete paper references with pubmed link
+Proteins: CLDND1, ACOX1, DCXR, KYAT3, LRCH1.
+
+A critical goal of the analysis is to determine if this is a novel complex or if any proteins are novel members of a known complex
+System features from GO terms: 
+protein binding: 4 proteins: CLDND1, ACOX1, DCXR, LRCH1
+protein homodimerization activity: 2 proteins: ACOX1, KYAT3
+cytosol: 2 proteins: ACOX1, DCXR
+cytoplasm: 2 proteins: KYAT3, LRCH1
+' --model gpt-4 --temperature 0 --max_tokens 800 --rate_per_token 6e-05 --log_file /cellar/users/mhu/Projects/cellmaps_annotate_hierarchy/cellmaps_annotate_hierarchy/MuSIC2_Maps/May2023/branch1-2_log.json --dolor_limit 5.0 --file_path /cellar/users/mhu/Projects/cellmaps_annotate_hierarchy/cellmaps_annotate_hierarchy/MuSIC2_Maps/May2023/Cluster3-48/Cluster3-48_chatgpt_response
+--openai_api_key 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 --context 'You are assisting a molecular biologist in the analysis of a system of proteins that are physically close to each other and/or interact with each other.' --prompt 'Write a critical and concise analysis of this system, describing your reasoning as you go and providing references to scientific papers. Format the page with Title, Summary, and References sections.
+What cellular components and complexes are involved in this system?
+What mechanisms and biological processes are performed by this system?
+Propose a name for the system to reflect the function and location, and should be specific but brief. Do not compose an acronym. Place it as the title of your report
+Provide complete paper references with pubmed link
+Proteins: CFAP141, CRABP2, DMKN, HSPB8, IL36G.
+
+A critical goal of the analysis is to determine if this is a novel complex or if any proteins are novel members of a known complex
+System features from GO terms: 
+protein binding: 4 proteins: CFAP141, CRABP2, DMKN, HSPB8
+nucleoplasm: 3 proteins: CRABP2, HSPB8, IL36G
+cytosol: 3 proteins: CRABP2, HSPB8, IL36G
+nucleus: 2 proteins: CRABP2, HSPB8
+cytoplasm: 2 proteins: CRABP2, HSPB8
+extracellular space: 2 proteins: DMKN, IL36G
+' --model gpt-4 --temperature 0 --max_tokens 800 --rate_per_token 6e-05 --log_file /cellar/users/mhu/Projects/cellmaps_annotate_hierarchy/cellmaps_annotate_hierarchy/MuSIC2_Maps/May2023/branch1-2_log.json --dolor_limit 5.0 --file_path /cellar/users/mhu/Projects/cellmaps_annotate_hierarchy/cellmaps_annotate_hierarchy/MuSIC2_Maps/May2023/Cluster3-49/Cluster3-49_chatgpt_response
+--openai_api_key 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 --context 'You are assisting a molecular biologist in the analysis of a system of proteins that are physically close to each other and/or interact with each other.' --prompt 'Write a critical and concise analysis of this system, describing your reasoning as you go and providing references to scientific papers. Format the page with Title, Summary, and References sections.
+What cellular components and complexes are involved in this system?
+What mechanisms and biological processes are performed by this system?
+Propose a name for the system to reflect the function and location, and should be specific but brief. Do not compose an acronym. Place it as the title of your report
+Provide complete paper references with pubmed link
+Proteins: ARL14EP, ATF7IP, SETDB1, VHL.
+
+A critical goal of the analysis is to determine if this is a novel complex or if any proteins are novel members of a known complex
+System features from GO terms: 
+protein binding: 4 proteins: ARL14EP, ATF7IP, SETDB1, VHL
+nucleoplasm: 4 proteins: ARL14EP, ATF7IP, SETDB1, VHL
+cytosol: 3 proteins: ARL14EP, ATF7IP, VHL
+nucleus: 3 proteins: ATF7IP, SETDB1, VHL
+intracellular membrane-bounded organelle: 2 proteins: ARL14EP, SETDB1
+DNA-templated transcription: 2 proteins: ATF7IP, VHL
+regulation of DNA-templated transcription: 2 proteins: ATF7IP, VHL
+positive regulation of DNA-templated transcription: 2 proteins: ATF7IP, VHL
+protein stabilization: 2 proteins: ATF7IP, VHL
+positive regulation of DNA methylation-dependent heterochromatin formation: 2 proteins: ATF7IP, SETDB1
+negative regulation of gene expression: 2 proteins: SETDB1, VHL
+' --model gpt-4 --temperature 0 --max_tokens 800 --rate_per_token 6e-05 --log_file /cellar/users/mhu/Projects/cellmaps_annotate_hierarchy/cellmaps_annotate_hierarchy/MuSIC2_Maps/May2023/branch1-2_log.json --dolor_limit 5.0 --file_path /cellar/users/mhu/Projects/cellmaps_annotate_hierarchy/cellmaps_annotate_hierarchy/MuSIC2_Maps/May2023/Cluster3-51/Cluster3-51_chatgpt_response
+--openai_api_key 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 --context 'You are assisting a molecular biologist in the analysis of a system of proteins that are physically close to each other and/or interact with each other.' --prompt 'Write a critical and concise analysis of this system, describing your reasoning as you go and providing references to scientific papers. Format the page with Title, Summary, and References sections.
+What cellular components and complexes are involved in this system?
+What mechanisms and biological processes are performed by this system?
+Propose a name for the system to reflect the function and location, and should be specific but brief. Do not compose an acronym. Place it as the title of your report
+Provide complete paper references with pubmed link
+Proteins: AURKA, ABCA12, CPE, DOCK8.
+
+A critical goal of the analysis is to determine if this is a novel complex or if any proteins are novel members of a known complex
+System features from GO terms: 
+protein binding: 4 proteins: AURKA, ABCA12, CPE, DOCK8
+cytosol: 3 proteins: AURKA, ABCA12, DOCK8
+plasma membrane: 3 proteins: ABCA12, CPE, DOCK8
+ATP binding: 2 proteins: AURKA, ABCA12
+molecular function activator activity: 2 proteins: AURKA, CPE
+nucleoplasm: 2 proteins: AURKA, DOCK8
+cytoplasm: 2 proteins: ABCA12, DOCK8
+membrane: 2 proteins: ABCA12, DOCK8
+transport vesicle membrane: 2 proteins: ABCA12, CPE
+' --model gpt-4 --temperature 0 --max_tokens 800 --rate_per_token 6e-05 --log_file /cellar/users/mhu/Projects/cellmaps_annotate_hierarchy/cellmaps_annotate_hierarchy/MuSIC2_Maps/May2023/branch1-2_log.json --dolor_limit 5.0 --file_path /cellar/users/mhu/Projects/cellmaps_annotate_hierarchy/cellmaps_annotate_hierarchy/MuSIC2_Maps/May2023/Cluster3-63/Cluster3-63_chatgpt_response
+--openai_api_key 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 --context 'You are assisting a molecular biologist in the analysis of a system of proteins that are physically close to each other and/or interact with each other.' --prompt 'Write a critical and concise analysis of this system, describing your reasoning as you go and providing references to scientific papers. Format the page with Title, Summary, and References sections.
+What cellular components and complexes are involved in this system?
+What mechanisms and biological processes are performed by this system?
+Propose a name for the system to reflect the function and location, and should be specific but brief. Do not compose an acronym. Place it as the title of your report
+Provide complete paper references with pubmed link
+Proteins: DBNL, RNF25, UBE2D2, UBE2D3.
+
+A critical goal of the analysis is to determine if this is a novel complex or if any proteins are novel members of a known complex
+System features from GO terms: 
+protein binding: 4 proteins: DBNL, RNF25, UBE2D2, UBE2D3
+cytosol: 4 proteins: DBNL, RNF25, UBE2D2, UBE2D3
+extracellular exosome: 3 proteins: DBNL, UBE2D2, UBE2D3
+ubiquitin-protein transferase activity: 3 proteins: RNF25, UBE2D2, UBE2D3
+ubiquitin protein ligase activity: 3 proteins: RNF25, UBE2D2, UBE2D3
+ubiquitin-dependent protein catabolic process: 3 proteins: RNF25, UBE2D2, UBE2D3
+protein ubiquitination: 3 proteins: RNF25, UBE2D2, UBE2D3
+nucleus: 3 proteins: RNF25, UBE2D2, UBE2D3
+plasma membrane: 2 proteins: DBNL, UBE2D3
+ATP binding: 2 proteins: UBE2D2, UBE2D3
+ubiquitin protein ligase binding: 2 proteins: UBE2D2, UBE2D3
+ubiquitin conjugating enzyme activity: 2 proteins: UBE2D2, UBE2D3
+protein polyubiquitination: 2 proteins: UBE2D2, UBE2D3
+protein modification process: 2 proteins: UBE2D2, UBE2D3
+protein autoubiquitination: 2 proteins: UBE2D2, UBE2D3
+protein K48-linked ubiquitination: 2 proteins: UBE2D2, UBE2D3
+ubiquitin ligase complex: 2 proteins: UBE2D2, UBE2D3
+nucleoplasm: 2 proteins: UBE2D2, UBE2D3
+' --model gpt-4 --temperature 0 --max_tokens 800 --rate_per_token 6e-05 --log_file /cellar/users/mhu/Projects/cellmaps_annotate_hierarchy/cellmaps_annotate_hierarchy/MuSIC2_Maps/May2023/branch1-2_log.json --dolor_limit 5.0 --file_path /cellar/users/mhu/Projects/cellmaps_annotate_hierarchy/cellmaps_annotate_hierarchy/MuSIC2_Maps/May2023/Cluster4-41/Cluster4-41_chatgpt_response
+--openai_api_key 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 --context 'You are assisting a molecular biologist in the analysis of a system of proteins that are physically close to each other and/or interact with each other.' --prompt 'Write a critical and concise analysis of this system, describing your reasoning as you go and providing references to scientific papers. Format the page with Title, Summary, and References sections.
+What cellular components and complexes are involved in this system?
+What mechanisms and biological processes are performed by this system?
+Propose a name for the system to reflect the function and location, and should be specific but brief. Do not compose an acronym. Place it as the title of your report
+Provide complete paper references with pubmed link
+Proteins: BPNT1, MYOF, VPS35, NAA25, CNOT3, UBA5, NUDCD3, ARL3, MANSC1, NTMT1, RBMS3, AAGAB, SAR1A, CAPN1, ANXA9, WBP2, ANXA4, NRSN2, RPS6KA1, DLGAP4, IREB2, STAT3, NIF3L1, SUGT1, UBXN1, MAP2K2, ZC3H15, VPS26A, PGM2, EEF1B2, CAPG.
+
+A critical goal of the analysis is to determine if this is a novel complex or if any proteins are novel members of a known complex
+System features from GO terms: 
+protein binding: 29 proteins: AAGAB, IREB2, STAT3, VPS35, CAPN1, NTMT1, ANXA9, MAP2K2, ANXA4, EEF1B2, CAPG, NRSN2, UBXN1, NAA25, NIF3L1, CNOT3, WBP2, SUGT1, MANSC1, MYOF, ARL3, UBA5, VPS26A, NUDCD3, DLGAP4, PGM2, RPS6KA1, SAR1A, ZC3H15
+cytosol: 21 proteins: AAGAB, IREB2, STAT3, VPS35, CAPN1, NTMT1, ANXA9, MAP2K2, BPNT1, EEF1B2, UBXN1, NAA25, CNOT3, WBP2, SUGT1, UBA5, VPS26A, RBMS3, PGM2, RPS6KA1, ZC3H15
+cytoplasm: 18 proteins: AAGAB, IREB2, STAT3, CAPN1, NTMT1, ANXA9, ANXA4, EEF1B2, CAPG, UBXN1, NAA25, NIF3L1, WBP2, ARL3, UBA5, NUDCD3, RBMS3, RPS6KA1
+nucleus: 15 proteins: STAT3, NTMT1, MAP2K2, ANXA4, EEF1B2, CAPG, UBXN1, NIF3L1, CNOT3, WBP2, SUGT1, ARL3, UBA5, RBMS3, ZC3H15
+nucleoplasm: 7 proteins: STAT3, NTMT1, CAPG, UBXN1, WBP2, ARL3, RPS6KA1
+extracellular exosome: 7 proteins: VPS35, CAPN1, ANXA4, CAPG, MYOF, ARL3, PGM2
+plasma membrane: 6 proteins: STAT3, CAPN1, ANXA4, NRSN2, MYOF, DLGAP4
+Golgi apparatus: 6 proteins: MAP2K2, NAA25, MANSC1, ARL3, UBA5, SAR1A
+mitochondrion: 5 proteins: IREB2, VPS35, CAPN1, MAP2K2, NIF3L1
+positive regulation of DNA-templated transcription: 5 proteins: STAT3, MAP2K2, NIF3L1, WBP2, RPS6KA1
+metal ion binding: 4 proteins: IREB2, MAP2K2, BPNT1, ZC3H15
+positive regulation of gene expression: 4 proteins: STAT3, VPS35, MAP2K2, RBMS3
+calcium ion binding: 4 proteins: CAPN1, ANXA9, ANXA4, MYOF
+identical protein binding: 3 proteins: STAT3, ANXA4, NIF3L1
+signal transduction: 3 proteins: STAT3, ANXA4, RPS6KA1
+nervous system development: 3 proteins: STAT3, BPNT1, NRSN2
+negative regulation of gene expression: 3 proteins: STAT3, VPS35, RBMS3
+positive regulation of transcription by RNA polymerase II: 3 proteins: STAT3, WBP2, RPS6KA1
+intracellular protein transport: 3 proteins: VPS35, VPS26A, SAR1A
+regulation of macroautophagy: 3 proteins: VPS35, CAPN1, VPS26A
+lysosome: 3 proteins: VPS35, CAPN1, VPS26A
+early endosome: 3 proteins: VPS35, MAP2K2, VPS26A
+perinuclear region of cytoplasm: 3 proteins: VPS35, MAP2K2, ANXA4
+extracellular region: 3 proteins: CAPN1, MAP2K2, PGM2
+ATP binding: 3 proteins: MAP2K2, UBA5, RPS6KA1
+endoplasmic reticulum: 3 proteins: MAP2K2, EEF1B2, UBXN1
+magnesium ion binding: 3 proteins: ARL3, PGM2, RPS6KA1
+protein transport: 2 proteins: AAGAB, ARL3
+RNA binding: 2 proteins: IREB2, ZC3H15
+RNA polymerase II cis-regulatory region sequence-specific DNA binding: 2 proteins: STAT3, WBP2
+chromatin DNA binding: 2 proteins: STAT3, WBP2
+protein homodimerization activity: 2 proteins: STAT3, UBA5
+RNA polymerase II-specific DNA-binding transcription factor binding: 2 proteins: STAT3, NIF3L1
+negative regulation of transcription by RNA polymerase II: 2 proteins: STAT3, NIF3L1
+regulation of DNA-templated transcription: 2 proteins: STAT3, CNOT3
+regulation of transcription by RNA polymerase II: 2 proteins: STAT3, ANXA4
+cytokine-mediated signaling pathway: 2 proteins: STAT3, ZC3H15
+negative regulation of inflammatory response: 2 proteins: STAT3, VPS35
+chromatin: 2 proteins: STAT3, WBP2
+regulation of protein stability: 2 proteins: VPS35, SUGT1
+endocytic recycling: 2 proteins: VPS35, VPS26A
+retrograde transport, endosome to Golgi: 2 proteins: VPS35, VPS26A
+endosome: 2 proteins: VPS35, VPS26A
+late endosome: 2 proteins: VPS35, MAP2K2
+endosome membrane: 2 proteins: VPS35, VPS26A
+retromer complex: 2 proteins: VPS35, VPS26A
+retromer, cargo-selective complex: 2 proteins: VPS35, VPS26A
+neuron projection: 2 proteins: VPS35, NRSN2
+neuronal cell body: 2 proteins: VPS35, NRSN2
+tubular endosome: 2 proteins: VPS35, VPS26A
+glutamatergic synapse: 2 proteins: VPS35, DLGAP4
+focal adhesion: 2 proteins: CAPN1, MAP2K2
+membrane: 2 proteins: CAPN1, MANSC1
+ficolin-1-rich granule lumen: 2 proteins: CAPN1, PGM2
+phospholipid binding: 2 proteins: ANXA9, MYOF
+calcium-dependent phospholipid binding: 2 proteins: ANXA9, ANXA4
+cell surface: 2 proteins: ANXA9, ANXA4
+synapse: 2 proteins: ANXA9, RPS6KA1
+protein serine/threonine kinase activity: 2 proteins: MAP2K2, RPS6KA1
+protein serine/threonine/tyrosine kinase activity: 2 proteins: MAP2K2, RPS6KA1
+protein serine kinase activity: 2 proteins: MAP2K2, RPS6KA1
+negative regulation of apoptotic process: 2 proteins: ANXA4, RPS6KA1
+cytoplasmic vesicle: 2 proteins: ANXA4, MYOF
+nuclear membrane: 2 proteins: ANXA4, MYOF
+cadherin binding: 2 proteins: CAPG, ZC3H15
+intracellular membrane-bounded organelle: 2 proteins: MYOF, UBA5
+GTPase activity: 2 proteins: ARL3, SAR1A
+GTP binding: 2 proteins: ARL3, SAR1A
+cilium assembly: 2 proteins: ARL3, NUDCD3
+' --model gpt-4 --temperature 0 --max_tokens 800 --rate_per_token 6e-05 --log_file /cellar/users/mhu/Projects/cellmaps_annotate_hierarchy/cellmaps_annotate_hierarchy/MuSIC2_Maps/May2023/branch1-2_log.json --dolor_limit 5.0 --file_path /cellar/users/mhu/Projects/cellmaps_annotate_hierarchy/cellmaps_annotate_hierarchy/MuSIC2_Maps/May2023/Cluster1-2_1/Cluster1-2_1_chatgpt_response
+--openai_api_key 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 --context 'You are assisting a molecular biologist in the analysis of a system of proteins that are physically close to each other and/or interact with each other.' --prompt 'Write a critical and concise analysis of this system, describing your reasoning as you go and providing references to scientific papers. Format the page with Title, Summary, and References sections.
+What cellular components and complexes are involved in this system?
+What mechanisms and biological processes are performed by this system?
+Propose a name for the system to reflect the function and location, and should be specific but brief. Do not compose an acronym. Place it as the title of your report
+Provide complete paper references with pubmed link
+Proteins: FH, RAB14, CPOX, GALE, UCHL3, SPRYD4, DCPS, GCA, ACOT2, NLN, DDX28, BID, LMO4, ECHS1, AKR7A2, HIBCH, MPST, ICAM3, ECI2, TAGLN, ACO2, PPA2, GCLM, GPD2, HADH, AKR7A3, CPNE3, PPIF, GAA, PPCS, ARG2, IARS2, RAB7A, OXCT1, RBP1.
+
+A critical goal of the analysis is to determine if this is a novel complex or if any proteins are novel members of a known complex
+System features from GO terms: 
+protein binding: 22 proteins: ACOT2, AKR7A2, AKR7A3, ARG2, BID, CPNE3, DCPS, ECHS1, ECI2, FH, GCLM, ICAM3, MPST, PPIF, RAB14, RAB7A, SPRYD4, TAGLN, UCHL3, LMO4, RBP1, GCA
+mitochondrion: 21 proteins: ACO2, ACOT2, AKR7A2, ARG2, BID, CPNE3, CPOX, DCPS, DDX28, ECHS1, ECI2, FH, GPD2, HADH, HIBCH, IARS2, MPST, OXCT1, PPA2, PPIF, RAB7A
+cytosol: 21 proteins: ACO2, ACOT2, AKR7A2, AKR7A3, BID, CPNE3, CPOX, DCPS, DDX28, ECI2, FH, GALE, GCLM, MPST, NLN, PPCS, RAB14, RAB7A, UCHL3, RBP1, GCA
+cytoplasm: 13 proteins: AKR7A2, AKR7A3, ARG2, CPNE3, CPOX, DCPS, FH, HADH, PPCS, PPIF, TAGLN, UCHL3, GCA
+mitochondrial matrix: 12 proteins: ACO2, ACOT2, ARG2, ECHS1, FH, HADH, HIBCH, IARS2, MPST, OXCT1, PPA2, PPIF
+extracellular exosome: 10 proteins: AKR7A2, AKR7A3, CPNE3, FH, GAA, ICAM3, MPST, RAB14, RAB7A, GCA
+identical protein binding: 7 proteins: AKR7A3, DCPS, GALE, HADH, MPST, OXCT1, PPCS
+plasma membrane: 7 proteins: CPNE3, GAA, ICAM3, NLN, RAB14, RAB7A, GCA
+nucleus: 6 proteins: CPNE3, DCPS, FH, PPCS, SPRYD4, RBP1
+nucleoplasm: 6 proteins: CPNE3, DCPS, DDX28, HADH, UCHL3, RBP1
+membrane: 4 proteins: BID, ECI2, GAA, PPIF
+protein homodimerization activity: 4 proteins: CPOX, GALE, PPCS, GCA
+Golgi apparatus: 3 proteins: AKR7A2, AKR7A3, RAB7A
+apoptotic mitochondrial changes: 3 proteins: BID, GCLM, PPIF
+metal ion binding: 3 proteins: CPNE3, NLN, LMO4
+ATP binding: 3 proteins: DDX28, IARS2, PPCS
+fatty acid beta-oxidation: 3 proteins: ECHS1, ECI2, HADH
+intracellular membrane-bounded organelle: 3 proteins: ECI2, GAA, RAB14
+lysosome: 3 proteins: GAA, RAB14, RAB7A
+lysosomal membrane: 3 proteins: GAA, RAB14, RAB7A
+response to xenobiotic stimulus: 3 proteins: GCLM, HADH, OXCT1
+response to activity: 3 proteins: GCLM, HADH, OXCT1
+liver development: 2 proteins: ACO2, MPST
+tricarboxylic acid cycle: 2 proteins: ACO2, FH
+peroxisomal matrix: 2 proteins: ACOT2, ECI2
+aldo-keto reductase (NADP) activity: 2 proteins: AKR7A2, AKR7A3
+electron transfer activity: 2 proteins: AKR7A2, AKR7A3
+cellular aldehyde metabolic process: 2 proteins: AKR7A2, AKR7A3
+electron transport chain: 2 proteins: AKR7A2, AKR7A3
+positive regulation of release of cytochrome c from mitochondria: 2 proteins: BID, PPIF
+RNA binding: 2 proteins: CPNE3, DDX28
+cellular response to calcium ion: 2 proteins: CPNE3, PPIF
+nucleolus: 2 proteins: CPNE3, DDX28
+azurophil granule membrane: 2 proteins: CPNE3, GAA
+mitochondrial inner membrane: 2 proteins: CPOX, GPD2
+mitochondrial intermembrane space: 2 proteins: CPOX, NLN
+delta(3)-delta(2)-enoyl-CoA isomerase activity: 2 proteins: ECHS1, ECI2
+branched-chain amino acid catabolic process: 2 proteins: ECHS1, HIBCH
+positive regulation of cold-induced thermogenesis: 2 proteins: FH, HADH
+tertiary granule membrane: 2 proteins: GAA, RAB14
+response to nutrient: 2 proteins: GCLM, OXCT1
+calcium ion binding: 2 proteins: GPD2, GCA
+synapse: 2 proteins: MPST, PPA2
+extracellular region: 2 proteins: NLN, GCA
+GTPase activity: 2 proteins: RAB14, RAB7A
+GTP binding: 2 proteins: RAB14, RAB7A
+GDP binding: 2 proteins: RAB14, RAB7A
+intracellular transport: 2 proteins: RAB14, RAB7A
+phagosome maturation: 2 proteins: RAB14, RAB7A
+late endosome: 2 proteins: RAB14, RAB7A
+phagocytic vesicle: 2 proteins: RAB14, RAB7A
+lipid droplet: 2 proteins: RAB7A, RBP1
+' --model gpt-4 --temperature 0 --max_tokens 800 --rate_per_token 6e-05 --log_file /cellar/users/mhu/Projects/cellmaps_annotate_hierarchy/cellmaps_annotate_hierarchy/MuSIC2_Maps/May2023/branch1-2_log.json --dolor_limit 5.0 --file_path /cellar/users/mhu/Projects/cellmaps_annotate_hierarchy/cellmaps_annotate_hierarchy/MuSIC2_Maps/May2023/Cluster2-5_1/Cluster2-5_1_chatgpt_response
+--openai_api_key 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 --context 'You are assisting a molecular biologist in the analysis of a system of proteins that are physically close to each other and/or interact with each other.' --prompt 'Write a critical and concise analysis of this system, describing your reasoning as you go and providing references to scientific papers. Format the page with Title, Summary, and References sections.
+What cellular components and complexes are involved in this system?
+What mechanisms and biological processes are performed by this system?
+Propose a name for the system to reflect the function and location, and should be specific but brief. Do not compose an acronym. Place it as the title of your report
+Provide complete paper references with pubmed link
+Proteins: C1GALT1C1, CD68, NUCB2, GGA1, UBQLN4, RLIG1, AKR1A1, OSBPL11, SEC23IP, RAB5C, TGFBRAP1, QNG1, IRGQ, PEX13, SNX1, PDCD6IP, PPP5C, UBQLN1, CRYZ, RFK, PFAS, FAM114A1, PSAP, TMEM231, PICALM, CCDC25, SNX5, CD99, BROX, SPG21, TPK1, WDTC1, AGFG1, RAB1B.
+
+A critical goal of the analysis is to determine if this is a novel complex or if any proteins are novel members of a known complex
+System features from GO terms: 
+protein binding: 31 proteins: RAB5C, SNX1, WDTC1, CCDC25, SEC23IP, UBQLN4, AGFG1, RAB1B, RFK, FAM114A1, CD99, TGFBRAP1, OSBPL11, PDCD6IP, UBQLN1, PEX13, PPP5C, BROX, TPK1, AKR1A1, TMEM231, QNG1, PSAP, IRGQ, GGA1, PICALM, C1GALT1C1, SPG21, SNX5, NUCB2, CD68
+cytosol: 22 proteins: SNX1, WDTC1, SEC23IP, UBQLN4, AGFG1, RAB1B, RFK, FAM114A1, OSBPL11, PDCD6IP, UBQLN1, PEX13, PPP5C, CRYZ, TPK1, AKR1A1, GGA1, PICALM, SPG21, SNX5, NUCB2, PFAS
+intracellular membrane-bounded organelle: 11 proteins: SNX1, SEC23IP, AGFG1, TGFBRAP1, OSBPL11, PPP5C, PSAP, GGA1, PICALM, SPG21, SNX5
+extracellular exosome: 10 proteins: RAB5C, RAB1B, PDCD6IP, CRYZ, BROX, AKR1A1, PSAP, C1GALT1C1, NUCB2, PFAS
+cytoplasm: 10 proteins: SNX1, WDTC1, SEC23IP, UBQLN4, AGFG1, RFK, CD99, TGFBRAP1, UBQLN1, PFAS
+plasma membrane: 9 proteins: RAB5C, CCDC25, CD99, UBQLN1, PPP5C, PSAP, PICALM, NUCB2, CD68
+Golgi apparatus: 9 proteins: SNX1, SEC23IP, RAB1B, FAM114A1, OSBPL11, GGA1, PICALM, SPG21, NUCB2
+membrane: 8 proteins: SNX1, TGFBRAP1, OSBPL11, PDCD6IP, PEX13, GGA1, PICALM, CD68
+intracellular protein transport: 7 proteins: RAB5C, SNX1, SEC23IP, RAB1B, TGFBRAP1, GGA1, SNX5
+nucleoplasm: 7 proteins: WDTC1, UBQLN4, FAM114A1, OSBPL11, UBQLN1, PPP5C, GGA1
+identical protein binding: 6 proteins: SNX1, UBQLN4, UBQLN1, PPP5C, CRYZ, TPK1
+protein-containing complex: 5 proteins: SNX1, UBQLN4, UBQLN1, PPP5C, GGA1
+metal ion binding: 5 proteins: SEC23IP, AGFG1, RFK, PPP5C, PFAS
+perinuclear region of cytoplasm: 5 proteins: UBQLN4, RAB1B, UBQLN1, PICALM, SNX5
+endosome: 4 proteins: RAB5C, SNX1, PDCD6IP, SNX5
+endosome membrane: 4 proteins: SNX1, GGA1, SPG21, CD68
+ATP binding: 4 proteins: RFK, PPP5C, TPK1, PFAS
+GTP binding: 3 proteins: RAB5C, RAB1B, IRGQ
+endomembrane system: 3 proteins: RAB5C, CCDC25, RAB1B
+early endosome membrane: 3 proteins: RAB5C, SNX1, GGA1
+azurophil granule membrane: 3 proteins: RAB5C, PSAP, CD68
+phosphatidylinositol binding: 3 proteins: SNX1, GGA1, SNX5
+protein homodimerization activity: 3 proteins: SNX1, PDCD6IP, PSAP
+cadherin binding: 3 proteins: SNX1, PICALM, SNX5
+retrograde transport, endosome to Golgi: 3 proteins: SNX1, GGA1, SNX5
+lysosome: 3 proteins: SNX1, PSAP, CD68
+DNA binding: 3 proteins: CCDC25, AGFG1, NUCB2
+RNA binding: 3 proteins: SEC23IP, AGFG1, PPP5C
+endoplasmic reticulum: 3 proteins: SEC23IP, UBQLN1, NUCB2
+nucleus: 3 proteins: UBQLN4, PPP5C, PICALM
+cytoplasmic vesicle: 3 proteins: UBQLN4, AGFG1, UBQLN1
+early endosome: 3 proteins: TGFBRAP1, GGA1, PICALM
+extracellular space: 3 proteins: AKR1A1, PSAP, NUCB2
+GTPase activity: 2 proteins: RAB5C, RAB1B
+G protein activity: 2 proteins: RAB5C, RAB1B
+lysosomal membrane: 2 proteins: RAB5C, PSAP
+melanosome: 2 proteins: RAB5C, PDCD6IP
+receptor internalization: 2 proteins: SNX1, PICALM
+positive regulation of protein catabolic process: 2 proteins: SNX1, GGA1
+retromer complex: 2 proteins: SNX1, SNX5
+retromer, tubulation complex: 2 proteins: SNX1, SNX5
+vesicle: 2 proteins: SNX1, PICALM
+in utero embryonic development: 2 proteins: WDTC1, TMEM231
+endoplasmic reticulum to Golgi vesicle-mediated transport: 2 proteins: SEC23IP, RAB1B
+Golgi organization: 2 proteins: SEC23IP, RAB1B
+endoplasmic reticulum-Golgi intermediate compartment: 2 proteins: SEC23IP, NUCB2
+polyubiquitin modification-dependent protein binding: 2 proteins: UBQLN4, UBQLN1
+autophagy: 2 proteins: UBQLN4, TGFBRAP1
+autophagosome: 2 proteins: UBQLN4, UBQLN1
+endoplasmic reticulum membrane: 2 proteins: UBQLN4, RAB1B
+autophagosome assembly: 2 proteins: RAB1B, UBQLN1
+Golgi membrane: 2 proteins: RAB1B, C1GALT1C1
+apoptotic process: 2 proteins: RFK, PDCD6IP
+phosphorylation: 2 proteins: RFK, TPK1
+focal adhesion: 2 proteins: CD99, PDCD6IP
+regulation of macroautophagy: 2 proteins: UBQLN1, SNX5
+tau protein binding: 2 proteins: PPP5C, PICALM
+nuclear envelope: 2 proteins: BROX, NUCB2
+regulation of protein localization: 2 proteins: TMEM231, PICALM
+molecular_function: 2 proteins: QNG1, GGA1
+small GTPase binding: 2 proteins: GGA1, PICALM
+positive regulation of DNA-templated transcription: 2 proteins: PICALM, SNX5
+' --model gpt-4 --temperature 0 --max_tokens 800 --rate_per_token 6e-05 --log_file /cellar/users/mhu/Projects/cellmaps_annotate_hierarchy/cellmaps_annotate_hierarchy/MuSIC2_Maps/May2023/branch1-2_log.json --dolor_limit 5.0 --file_path /cellar/users/mhu/Projects/cellmaps_annotate_hierarchy/cellmaps_annotate_hierarchy/MuSIC2_Maps/May2023/Cluster2-5_2/Cluster2-5_2_chatgpt_response
+--openai_api_key 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 --context 'You are assisting a molecular biologist in the analysis of a system of proteins that are physically close to each other and/or interact with each other.' --prompt 'Write a critical and concise analysis of this system, describing your reasoning as you go and providing references to scientific papers. Format the page with Title, Summary, and References sections.
+What cellular components and complexes are involved in this system?
+What mechanisms and biological processes are performed by this system?
+Propose a name for the system to reflect the function and location, and should be specific but brief. Do not compose an acronym. Place it as the title of your report
+Provide complete paper references with pubmed link
+Proteins: USP46, GATD3, PGP, LAP3, PITPNA, AMDHD2, ARHGAP1, PIK3CD, SLK, NAA50, HS1BP3, UAP1L1, CNN2, PPM1B, CLTCL1, TRMT5, MANF, AK1, TEX264, SORD, NDRG1, MVK, AZU1, OTUB1.
+
+A critical goal of the analysis is to determine if this is a novel complex or if any proteins are novel members of a known complex
+System features from GO terms: 
+protein binding: 17 proteins: AZU1, TEX264, USP46, PIK3CD, PPM1B, MVK, AMDHD2, NDRG1, OTUB1, SLK, HS1BP3, ARHGAP1, MANF, NAA50, PITPNA, LAP3, CLTCL1
+cytosol: 16 proteins: TEX264, USP46, PIK3CD, PPM1B, MVK, AMDHD2, NDRG1, AK1, OTUB1, SORD, SLK, ARHGAP1, MANF, NAA50, PITPNA, CLTCL1
+extracellular exosome: 11 proteins: AZU1, NDRG1, AK1, OTUB1, SORD, SLK, ARHGAP1, NAA50, PITPNA, LAP3, CLTCL1
+nucleus: 11 proteins: TEX264, USP46, PPM1B, AMDHD2, NDRG1, OTUB1, MANF, NAA50, PITPNA, LAP3, TRMT5
+cytoplasm: 10 proteins: PIK3CD, NDRG1, AK1, SLK, ARHGAP1, PGP, NAA50, PITPNA, LAP3, TRMT5
+extracellular region: 4 proteins: AZU1, CNN2, TEX264, MANF
+cadherin binding: 4 proteins: CNN2, NDRG1, SLK, ARHGAP1
+membrane: 4 proteins: CNN2, PPM1B, SORD, CLTCL1
+ATP binding: 4 proteins: PIK3CD, MVK, AK1, SLK
+perinuclear region of cytoplasm: 4 proteins: NDRG1, SLK, ARHGAP1, MANF
+positive regulation of gene expression: 3 proteins: AZU1, CNN2, PIK3CD
+extracellular space: 3 proteins: AZU1, SORD, MANF
+endoplasmic reticulum: 3 proteins: TEX264, HS1BP3, MANF
+signal transduction: 3 proteins: PIK3CD, NDRG1, MANF
+phosphorylation: 3 proteins: PIK3CD, MVK, AK1
+plasma membrane: 3 proteins: PIK3CD, NDRG1, CLTCL1
+magnesium ion binding: 3 proteins: PPM1B, MVK, PGP
+identical protein binding: 3 proteins: MVK, SORD, SLK
+peptidase activity: 2 proteins: AZU1, LAP3
+proteolysis: 2 proteins: AZU1, LAP3
+inflammatory response: 2 proteins: AZU1, PIK3CD
+intracellular membrane-bounded organelle: 2 proteins: AZU1, MVK
+UDP-N-acetylglucosamine biosynthetic process: 2 proteins: UAP1L1, AMDHD2
+focal adhesion: 2 proteins: CNN2, LAP3
+cysteine-type deubiquitinase activity: 2 proteins: USP46, OTUB1
+metal ion binding: 2 proteins: USP46, AMDHD2
+adaptive immune response: 2 proteins: PIK3CD, OTUB1
+protein phosphorylation: 2 proteins: PIK3CD, SLK
+manganese ion binding: 2 proteins: PPM1B, LAP3
+nucleolus: 2 proteins: PPM1B, NAA50
+small GTPase binding: 2 proteins: NDRG1, ARHGAP1
+regulation of apoptotic process: 2 proteins: SLK, HS1BP3
+phosphatidylinositol binding: 2 proteins: HS1BP3, PITPNA
+mitochondrion: 2 proteins: HS1BP3, GATD3
+sorting endosome: 2 proteins: ARHGAP1, CLTCL1
+' --model gpt-4 --temperature 0 --max_tokens 800 --rate_per_token 6e-05 --log_file /cellar/users/mhu/Projects/cellmaps_annotate_hierarchy/cellmaps_annotate_hierarchy/MuSIC2_Maps/May2023/branch1-2_log.json --dolor_limit 5.0 --file_path /cellar/users/mhu/Projects/cellmaps_annotate_hierarchy/cellmaps_annotate_hierarchy/MuSIC2_Maps/May2023/Cluster2-5_3/Cluster2-5_3_chatgpt_response
+--openai_api_key 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 --context 'You are assisting a molecular biologist in the analysis of a system of proteins that are physically close to each other and/or interact with each other.' --prompt 'Write a critical and concise analysis of this system, describing your reasoning as you go and providing references to scientific papers. Format the page with Title, Summary, and References sections.
+What cellular components and complexes are involved in this system?
+What mechanisms and biological processes are performed by this system?
+Propose a name for the system to reflect the function and location, and should be specific but brief. Do not compose an acronym. Place it as the title of your report
+Provide complete paper references with pubmed link
+Proteins: DUSP14, OLFM4, TPR, IMPA2, JPH3, PGBD1, ANXA8L1, ESRP1, ME1, LGALSL, TRIM29, LSMEM2, AZGP1, RSRP1, HEY1, PPL, BCL2L2, KLK6, CERKL, DEF8, WDR7, ATP6V1D, CCDC107, ALDH1A3, CPA4, GAREM1, GTF2A2, FCHSD1, ZC3HC1, BLMH, HES1, YOD1.
+
+A critical goal of the analysis is to determine if this is a novel complex or if any proteins are novel members of a known complex
+System features from GO terms: 
+protein binding: 25 proteins: ESRP1, HES1, GAREM1, CCDC107, ATP6V1D, BCL2L2, PGBD1, YOD1, JPH3, TRIM29, LGALSL, HEY1, KLK6, IMPA2, LSMEM2, TPR, BLMH, RSRP1, GTF2A2, ZC3HC1, PPL, OLFM4, AZGP1, DUSP14, ME1
+cytoplasm: 12 proteins: HES1, YOD1, HEY1, KLK6, IMPA2, TPR, BLMH, WDR7, ALDH1A3, ANXA8L1, PPL, ME1
+nucleoplasm: 10 proteins: ESRP1, HES1, ATP6V1D, HEY1, CERKL, KLK6, TPR, GTF2A2, ZC3HC1, OLFM4
+cytosol: 10 proteins: ATP6V1D, BCL2L2, YOD1, CERKL, IMPA2, BLMH, ALDH1A3, PPL, OLFM4, ME1
+nucleus: 9 proteins: ESRP1, HES1, HEY1, TPR, BLMH, RSRP1, GTF2A2, ZC3HC1, AZGP1
+protein homodimerization activity: 6 proteins: HES1, BCL2L2, IMPA2, TPR, ALDH1A3, GTF2A2
+membrane: 6 proteins: CCDC107, ATP6V1D, PGBD1, JPH3, LSMEM2, PPL
+extracellular exosome: 6 proteins: ATP6V1D, BLMH, ALDH1A3, PPL, OLFM4, AZGP1
+plasma membrane: 5 proteins: GAREM1, ATP6V1D, JPH3, PPL, OLFM4
+identical protein binding: 5 proteins: BCL2L2, PGBD1, TRIM29, BLMH, ME1
+negative regulation of transcription by RNA polymerase II: 4 proteins: HES1, TRIM29, HEY1, TPR
+extracellular space: 4 proteins: CPA4, KLK6, OLFM4, AZGP1
+RNA polymerase II-specific DNA-binding transcription factor binding: 3 proteins: HES1, HEY1, GTF2A2
+cell adhesion: 3 proteins: HES1, OLFM4, AZGP1
+positive regulation of transcription by RNA polymerase II: 3 proteins: HES1, HEY1, GTF2A2
+zinc ion binding: 3 proteins: CPA4, TRIM29, ZC3HC1
+metal ion binding: 3 proteins: YOD1, DEF8, IMPA2
+extracellular region: 3 proteins: KLK6, OLFM4, AZGP1
+mitochondrion: 3 proteins: KLK6, OLFM4, ME1
+nuclear membrane: 3 proteins: KLK6, TPR, ZC3HC1
+mRNA binding: 2 proteins: ESRP1, TPR
+DNA-binding transcription factor activity, RNA polymerase II-specific: 2 proteins: HES1, HEY1
+DNA-binding transcription repressor activity, RNA polymerase II-specific: 2 proteins: HES1, HEY1
+chromatin binding: 2 proteins: HES1, TPR
+sequence-specific DNA binding: 2 proteins: HES1, PGBD1
+protein-containing complex binding: 2 proteins: HES1, BCL2L2
+sequence-specific double-stranded DNA binding: 2 proteins: HES1, HEY1
+regulation of transcription by RNA polymerase II: 2 proteins: HES1, HEY1
+Notch signaling pathway: 2 proteins: HES1, HEY1
+positive regulation of cell population proliferation: 2 proteins: HES1, GAREM1
+anterior/posterior pattern specification: 2 proteins: HES1, HEY1
+negative regulation of neuron differentiation: 2 proteins: HES1, HEY1
+negative regulation of DNA-templated transcription: 2 proteins: HES1, HEY1
+regulation of neurogenesis: 2 proteins: HES1, HEY1
+ventricular septum morphogenesis: 2 proteins: HES1, HEY1
+labyrinthine layer blood vessel development: 2 proteins: HES1, HEY1
+chromatin: 2 proteins: HES1, HEY1
+protein-containing complex: 2 proteins: HES1, OLFM4
+proteolysis: 2 proteins: CPA4, BLMH
+protein heterodimerization activity: 2 proteins: BCL2L2, GTF2A2
+regulation of apoptotic process: 2 proteins: BCL2L2, OLFM4
+neuromuscular process controlling balance: 2 proteins: JPH3, ALDH1A3
+nucleolus: 2 proteins: CERKL, KLK6
+endoplasmic reticulum: 2 proteins: CERKL, KLK6
+perinuclear region of cytoplasm: 2 proteins: CERKL, OLFM4
+cornified envelope: 2 proteins: KLK6, PPL
+intercellular bridge: 2 proteins: KLK6, OLFM4
+signal transduction: 2 proteins: IMPA2, OLFM4
+RNA binding: 2 proteins: TPR, DUSP14
+cell division: 2 proteins: TPR, ZC3HC1
+protein homotetramerization: 2 proteins: ALDH1A3, ME1
+structural molecule activity: 2 proteins: PPL, OLFM4
+cadherin binding: 2 proteins: PPL, OLFM4
+' --model gpt-4 --temperature 0 --max_tokens 800 --rate_per_token 6e-05 --log_file /cellar/users/mhu/Projects/cellmaps_annotate_hierarchy/cellmaps_annotate_hierarchy/MuSIC2_Maps/May2023/branch1-2_log.json --dolor_limit 5.0 --file_path /cellar/users/mhu/Projects/cellmaps_annotate_hierarchy/cellmaps_annotate_hierarchy/MuSIC2_Maps/May2023/Cluster2-8_1/Cluster2-8_1_chatgpt_response
+--openai_api_key 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 --context 'You are assisting a molecular biologist in the analysis of a system of proteins that are physically close to each other and/or interact with each other.' --prompt 'Write a critical and concise analysis of this system, describing your reasoning as you go and providing references to scientific papers. Format the page with Title, Summary, and References sections.
+What cellular components and complexes are involved in this system?
+What mechanisms and biological processes are performed by this system?
+Propose a name for the system to reflect the function and location, and should be specific but brief. Do not compose an acronym. Place it as the title of your report
+Provide complete paper references with pubmed link
+A critical goal of the analysis is to determine if this is a novel complex or if any proteins are novel members of a known complex
+System features from GO terms: 
+protein binding: 35 proteins: ELOC, AP3S1, RABL6, NECTIN2, CHRNA3, EPS8L2, ATP6V0A4, G6PD, VPS4B, COQ9, SH3GLB2, CTSV, TTC4, FCGBP, DSC2, PRKACG, CLIC3, CD207, SMPD2, EPS8L1, CKB, SELENBP1, S100A16, HES6, BICD2, THOP1, TSN, SCEL, CCDC90B, SERPINB13, ADA, ANKRD27, DOCK6, RAB25, OTUD4
+cytosol: 28 proteins: ELOC, RABL6, EPS8L2, G6PD, VPS4B, SH3GLB2, PRKACG, ALOX12B, EPS8L1, CKB, HAL, PLS3, SELENBP1, EPHX2, S100A16, BICD2, THOP1, TSN, EVPL, RAPSN, LCP1, SPTBN2, SERPINB13, ADA, ANKRD27, DOCK6, OTUD4, PLA2G4D
+plasma membrane: 20 proteins: NECTIN2, CHRNA3, EPS8L2, ATP6V0A4, VPS4B, DSC2, SLC25A13, CD207, SMPD2, EPS8L1, CKB, PLS3, S100A16, BICD2, RAPSN, LCP1, SPTBN2, ADA, ANKRD27, RAB25
+extracellular exosome: 19 proteins: NECTIN2, EPS8L2, ATP6V0A4, G6PD, VPS4B, FCGBP, DSC2, CLIC3, EPS8L1, CKB, SELENBP1, EPHX2, S100A16, EVPL, LCP1, SCEL, SERPINB13, CREG1, RAB25
+cytoplasm: 14 proteins: RABL6, G6PD, VPS4B, SH3GLB2, TTC4, CLIC3, PLS3, SERPINB7, BICD2, TSN, EVPL, LCP1, SCEL, SERPINB13
+nucleus: 11 proteins: RABL6, G6PD, VPS4B, TTC4, PRKACG, CLIC3, CKB, S100A16, HES6, TSN, OTUD4
+membrane: 10 proteins: NECTIN2, CHRNA3, G6PD, SH3GLB2, CLIC3, SELENBP1, EVPL, ADA, ANKRD27, PLA2G4D
+extracellular space: 10 proteins: CTSV, FCGBP, CKB, SELENBP1, S100A16, SERPINB7, LCP1, SPTBN2, SERPINB13, CREG1
+intracellular membrane-bounded organelle: 7 proteins: AP3S1, AP3S2, G6PD, ALOX12B, SPTBN2, CES2, ANKRD27
+nucleoplasm: 6 proteins: ELOC, SH3GLB2, TTC4, PRKACG, TSN, SERPINB13
+identical protein binding: 6 proteins: NECTIN2, G6PD, VPS4B, SH3GLB2, SLC25A13, TSN
+protein homodimerization activity: 6 proteins: NECTIN2, G6PD, VPS4B, COQ9, EPHX2, S100A16
+calcium ion binding: 6 proteins: DSC2, SLC25A13, PLS3, S100A16, LCP1, PLA2G4D
+Golgi apparatus: 5 proteins: AP3S1, AP3S2, BICD2, RAPSN, RAB25
+centrosome: 5 proteins: RABL6, EPS8L2, VPS4B, BICD2, RAPSN
+cadherin binding: 5 proteins: EPS8L2, SH3GLB2, EPS8L1, EVPL, SPTBN2
+protein transport: 5 proteins: VPS4B, SELENBP1, BICD2, ANKRD27, RAB25
+perinuclear region of cytoplasm: 5 proteins: ALOX12B, S100A16, LCP1, SCEL, DOCK6
+actin binding: 4 proteins: EPS8L2, EPS8L1, LCP1, SPTBN2
+guanyl-nucleotide exchange factor activity: 4 proteins: EPS8L2, EPS8L1, ANKRD27, DOCK6
+mitochondrion: 4 proteins: COQ9, SLC25A13, CKB, CCDC90B
+endoplasmic reticulum: 4 proteins: DSC2, SMPD2, TSN, CES2
+metal ion binding: 4 proteins: SMPD2, THOP1, RAPSN, SCEL
+regulation of transcription by RNA polymerase II: 3 proteins: ELOC, HES6, CREG1
+vesicle-mediated transport: 3 proteins: AP3S1, AP3S2, SPTBN2
+early endosome: 3 proteins: AP3S1, AP3S2, ANKRD27
+cytoplasmic vesicle membrane: 3 proteins: AP3S1, AP3S2, ANKRD27
+presynapse: 3 proteins: AP3S1, AP3S2, SPTBN2
+neuronal cell body: 3 proteins: CHRNA3, CKB, SPTBN2
+ruffle membrane: 3 proteins: EPS8L2, EPS8L1, LCP1
+endosome: 3 proteins: ATP6V0A4, VPS4B, CREG1
+ATP binding: 3 proteins: VPS4B, PRKACG, CKB
+lysosome: 3 proteins: CTSV, ADA, ANKRD27
+cornified envelope: 3 proteins: DSC2, EVPL, SCEL
+cytoplasmic vesicle: 3 proteins: DSC2, BICD2, RAB25
+actin filament binding: 3 proteins: PLS3, LCP1, SPTBN2
+nucleolus: 3 proteins: SELENBP1, S100A16, SERPINB13
+RNA binding: 3 proteins: S100A16, TSN, OTUD4
+intracellular protein transport: 2 proteins: AP3S1, AP3S2
+Golgi to vacuole transport: 2 proteins: AP3S1, AP3S2
+anterograde axonal transport: 2 proteins: AP3S1, AP3S2
+synaptic vesicle coating: 2 proteins: AP3S1, AP3S2
+clathrin-coated vesicle cargo loading, AP-3-mediated: 2 proteins: AP3S1, AP3S2
+synaptic vesicle recycling: 2 proteins: AP3S1, AP3S2
+intracellular transport: 2 proteins: AP3S1, AP3S2
+anterograde synaptic vesicle transport: 2 proteins: AP3S1, AP3S2
+platelet dense granule organization: 2 proteins: AP3S1, AP3S2
+melanosome assembly: 2 proteins: AP3S1, AP3S2
+AP-3 adaptor complex: 2 proteins: AP3S1, AP3S2
+transport vesicle: 2 proteins: AP3S1, ANKRD27
+axon cytoplasm: 2 proteins: AP3S1, AP3S2
+GTPase activity: 2 proteins: RABL6, RAB25
+GTP binding: 2 proteins: RABL6, RAB25
+homophilic cell adhesion via plasma membrane adhesion molecules: 2 proteins: NECTIN2, DSC2
+positive regulation of T cell receptor signaling pathway: 2 proteins: NECTIN2, ADA
+focal adhesion: 2 proteins: NECTIN2, LCP1
+cell surface: 2 proteins: NECTIN2, ADA
+signal transduction: 2 proteins: CHRNA3, CLIC3
+chemical synaptic transmission: 2 proteins: CHRNA3, RAPSN
+synaptic transmission, cholinergic: 2 proteins: CHRNA3, RAPSN
+nervous system development: 2 proteins: CHRNA3, HES6
+nuclear speck: 2 proteins: CHRNA3, SERPINB13
+dendrite: 2 proteins: CHRNA3, CKB
+neuron projection: 2 proteins: CHRNA3, ANKRD27
+Rho protein signal transduction: 2 proteins: EPS8L2, EPS8L1
+sensory perception of sound: 2 proteins: EPS8L2, ATP6V0A4
+regulation of Rho protein signal transduction: 2 proteins: EPS8L2, EPS8L1
+positive regulation of ruffle assembly: 2 proteins: EPS8L2, EPS8L1
+protein-containing complex: 2 proteins: EPS8L2, EPS8L1
+proton transmembrane transport: 2 proteins: ATP6V0A4, SLC25A13
+endosome membrane: 2 proteins: ATP6V0A4, VPS4B
+apical plasma membrane: 2 proteins: ATP6V0A4, SPTBN2
+substantia nigra development: 2 proteins: G6PD, CKB
+autophagy: 2 proteins: VPS4B, CREG1
+nuclear pore: 2 proteins: VPS4B, BICD2
+mitochondrial inner membrane: 2 proteins: COQ9, SLC25A13
+extracellular matrix disassembly: 2 proteins: CTSV, LCP1
+extracellular region: 2 proteins: CTSV, CREG1
+lysosomal lumen: 2 proteins: CTSV, SERPINB13
+innate immune response: 2 proteins: TTC4, OTUD4
+defense response to virus: 2 proteins: TTC4, CD207
+cell adhesion: 2 proteins: DSC2, ADA
+desmosome: 2 proteins: DSC2, EVPL
+protein kinase A signaling: 2 proteins: PRKACG, LCP1
+positive regulation of gene expression: 2 proteins: ALOX12B, EPHX2
+ceramide biosynthetic process: 2 proteins: ALOX12B, SMPD2
+response to calcium ion: 2 proteins: SLC25A13, S100A16
+carbohydrate binding: 2 proteins: CD207, CRYBG1
+external side of plasma membrane: 2 proteins: CD207, ADA
+actin filament bundle assembly: 2 proteins: PLS3, LCP1
+actin filament network formation: 2 proteins: PLS3, LCP1
+actin filament: 2 proteins: PLS3, LCP1
+actin filament bundle: 2 proteins: PLS3, LCP1
+serine-type endopeptidase inhibitor activity: 2 proteins: SERPINB7, SERPINB13
+negative regulation of endopeptidase activity: 2 proteins: SERPINB7, SERPINB13
+transcription regulator complex: 2 proteins: HES6, CREG1
+small GTPase binding: 2 proteins: BICD2, ANKRD27
+epidermis development: 2 proteins: EVPL, SCEL
+keratinocyte differentiation: 2 proteins: EVPL, SCEL
+cell junction: 2 proteins: LCP1, SPTBN2
+xenobiotic metabolic process: 2 proteins: CES2, ADA
+' --model gpt-4 --temperature 0 --max_tokens 800 --rate_per_token 6e-05 --log_file /cellar/users/mhu/Projects/cellmaps_annotate_hierarchy/cellmaps_annotate_hierarchy/MuSIC2_Maps/May2023/branch1-2_log.json --dolor_limit 5.0 --file_path /cellar/users/mhu/Projects/cellmaps_annotate_hierarchy/cellmaps_annotate_hierarchy/MuSIC2_Maps/May2023/Cluster2-8_2/Cluster2-8_2_chatgpt_response
+--openai_api_key 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 --context 'You are assisting a molecular biologist in the analysis of a system of proteins that are physically close to each other and/or interact with each other.' --prompt 'Write a critical and concise analysis of this system, describing your reasoning as you go and providing references to scientific papers. Format the page with Title, Summary, and References sections.
+What cellular components and complexes are involved in this system?
+What mechanisms and biological processes are performed by this system?
+Propose a name for the system to reflect the function and location, and should be specific but brief. Do not compose an acronym. Place it as the title of your report
+Provide complete paper references with pubmed link
+Proteins: TYMP, PYCARD, TALDO1, TFAP2D, HSD17B4, MYCBP, CST3, RPL7L1, CTSL, CTSH, GTF2A1, MAB21L4, SLC35F6, EEA1, HMOX2, TUFT1, CPM, ECM1, AP1M2, NAPRT, POF1B, PPA1, ZG16B, DHDH, MAN1B1, SULT2B1, NLRP10, APOA1, GLUL.
+
+A critical goal of the analysis is to determine if this is a novel complex or if any proteins are novel members of a known complex
+System features from GO terms: 
+protein binding: 21 proteins: GTF2A1, TUFT1, EEA1, HMOX2, SULT2B1, TFAP2D, AP1M2, ECM1, CTSL, SLC35F6, RPL7L1, CTSH, GLUL, CST3, NAPRT, ZG16B, APOA1, PYCARD, MYCBP, TALDO1, TYMP
+cytosol: 15 proteins: GTF2A1, EEA1, SULT2B1, AP1M2, SLC35F6, PPA1, CTSH, NLRP10, GLUL, NAPRT, APOA1, PYCARD, TALDO1, HSD17B4, TYMP
+extracellular exosome: 14 proteins: EEA1, SULT2B1, ECM1, CTSL, SLC35F6, PPA1, CTSH, GLUL, CST3, NAPRT, ZG16B, CPM, APOA1, TALDO1
+cytoplasm: 10 proteins: TUFT1, EEA1, SULT2B1, PPA1, NLRP10, GLUL, CST3, PYCARD, MYCBP, TALDO1
+extracellular region: 9 proteins: TUFT1, ECM1, CTSL, CTSH, CST3, NAPRT, CPM, APOA1, PYCARD
+nucleus: 8 proteins: GTF2A1, SULT2B1, TFAP2D, CTSL, GLUL, PYCARD, MYCBP, TALDO1
+extracellular space: 7 proteins: ECM1, CTSL, CTSH, CST3, ZG16B, CPM, APOA1
+plasma membrane: 6 proteins: HMOX2, CTSL, GLUL, CST3, CPM, APOA1
+nucleoplasm: 5 proteins: GTF2A1, SLC35F6, NLRP10, PYCARD, MYCBP
+protein homodimerization activity: 5 proteins: EEA1, APOA1, PYCARD, HSD17B4, TYMP
+membrane: 5 proteins: EEA1, HMOX2, SLC35F6, MAN1B1, HSD17B4
+intracellular membrane-bounded organelle: 5 proteins: SULT2B1, AP1M2, CTSL, SLC35F6, CTSH
+endoplasmic reticulum: 4 proteins: SULT2B1, MAN1B1, CST3, PYCARD
+collagen-containing extracellular matrix: 4 proteins: ECM1, CTSL, CTSH, APOA1
+mitochondrion: 4 proteins: SLC35F6, GLUL, PYCARD, MYCBP
+identical protein binding: 4 proteins: GLUL, CST3, APOA1, PYCARD
+protease binding: 3 proteins: ECM1, CST3, PYCARD
+angiogenesis: 3 proteins: ECM1, GLUL, TYMP
+inflammatory response: 3 proteins: ECM1, NLRP10, PYCARD
+signal transduction: 3 proteins: ECM1, PYCARD, TYMP
+cysteine-type endopeptidase activator activity involved in apoptotic process: 3 proteins: CTSL, CTSH, PYCARD
+adaptive immune response: 3 proteins: CTSL, CTSH, NLRP10
+Golgi apparatus: 3 proteins: CTSL, MAN1B1, CST3
+secretory granule lumen: 3 proteins: CTSH, APOA1, PYCARD
+transcription by RNA polymerase II: 2 proteins: GTF2A1, TFAP2D
+positive regulation of transcription by RNA polymerase II: 2 proteins: GTF2A1, TFAP2D
+intracellular anatomical structure: 2 proteins: TUFT1, TALDO1
+zinc ion binding: 2 proteins: EEA1, CPM
+early endosome: 2 proteins: EEA1, APOA1
+extrinsic component of plasma membrane: 2 proteins: EEA1, NLRP10
+metal ion binding: 2 proteins: HMOX2, NAPRT
+response to oxidative stress: 2 proteins: HMOX2, NAPRT
+endoplasmic reticulum membrane: 2 proteins: HMOX2, MAN1B1
+cholesterol binding: 2 proteins: SULT2B1, APOA1
+cholesterol metabolic process: 2 proteins: SULT2B1, APOA1
+regulation of transcription by RNA polymerase II: 2 proteins: TFAP2D, ECM1
+Golgi membrane: 2 proteins: AP1M2, PYCARD
+lysosomal membrane: 2 proteins: AP1M2, SLC35F6
+negative regulation of peptidase activity: 2 proteins: ECM1, CST3
+positive regulation of angiogenesis: 2 proteins: ECM1, CTSH
+cysteine-type endopeptidase activity: 2 proteins: CTSL, CTSH
+cysteine-type peptidase activity: 2 proteins: CTSL, CTSH
+proteolysis: 2 proteins: CTSL, CTSH
+immune response: 2 proteins: CTSL, CTSH
+positive regulation of peptidase activity: 2 proteins: CTSL, CTSH
+antigen processing and presentation: 2 proteins: CTSL, CTSH
+zymogen activation: 2 proteins: CTSL, CTSH
+proteolysis involved in protein catabolic process: 2 proteins: CTSL, CTSH
+cellular response to thyroid hormone stimulus: 2 proteins: CTSL, CTSH
+positive regulation of apoptotic signaling pathway: 2 proteins: CTSL, CTSH
+lysosome: 2 proteins: CTSL, CTSH
+endocytic vesicle lumen: 2 proteins: CTSL, APOA1
+positive regulation of cell population proliferation: 2 proteins: SLC35F6, CTSH
+nucleolus: 2 proteins: RPL7L1, PYCARD
+cytoplasmic vesicle: 2 proteins: MAN1B1, APOA1
+extracellular vesicle: 2 proteins: MAN1B1, APOA1
+magnesium ion binding: 2 proteins: PPA1, GLUL
+apoptotic process: 2 proteins: CTSH, PYCARD
+ERK1 and ERK2 cascade: 2 proteins: CTSH, APOA1
+tertiary granule lumen: 2 proteins: CTSH, CST3
+ficolin-1-rich granule lumen: 2 proteins: CTSH, CST3
+ATP binding: 2 proteins: NLRP10, GLUL
+positive regulation of interleukin-6 production: 2 proteins: NLRP10, PYCARD
+positive regulation of interleukin-8 production: 2 proteins: NLRP10, PYCARD
+innate immune response: 2 proteins: NLRP10, PYCARD
+positive regulation of inflammatory response: 2 proteins: NLRP10, PYCARD
+defense response to Gram-negative bacterium: 2 proteins: NLRP10, PYCARD
+protein-containing complex: 2 proteins: GLUL, PYCARD
+amyloid-beta binding: 2 proteins: CST3, APOA1
+endoplasmic reticulum lumen: 2 proteins: CST3, APOA1
+azurophil granule lumen: 2 proteins: NAPRT, PYCARD
+enzyme binding: 2 proteins: APOA1, PYCARD
+positive regulation of phagocytosis: 2 proteins: APOA1, PYCARD
+' --model gpt-4 --temperature 0 --max_tokens 800 --rate_per_token 6e-05 --log_file /cellar/users/mhu/Projects/cellmaps_annotate_hierarchy/cellmaps_annotate_hierarchy/MuSIC2_Maps/May2023/branch1-2_log.json --dolor_limit 5.0 --file_path /cellar/users/mhu/Projects/cellmaps_annotate_hierarchy/cellmaps_annotate_hierarchy/MuSIC2_Maps/May2023/Cluster2-8_3/Cluster2-8_3_chatgpt_response
+--openai_api_key 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 --context 'You are assisting a molecular biologist in the analysis of a system of proteins that are physically close to each other and/or interact with each other.' --prompt 'Write a critical and concise analysis of this system, describing your reasoning as you go and providing references to scientific papers. Format the page with Title, Summary, and References sections.
+What cellular components and complexes are involved in this system?
+What mechanisms and biological processes are performed by this system?
+Propose a name for the system to reflect the function and location, and should be specific but brief. Do not compose an acronym. Place it as the title of your report
+Provide complete paper references with pubmed link
+Proteins: DRAP1, PHLPP2, RELA, OLA1, CNPY2, MAP2K1, AARS1, NPPB, CHORDC1, ADSS2, SH3GLB1, TPP2, GRHPR, GSTZ1, YARS1, UROD, MMUT, PPID, GSR, TXNRD2, GLOD4, GSPT1, MEAK7, SH3GL1, LGALS9, RRM1, DRG2, MVD, PLPBP, DNM1L, FTO, ADK, TKFC.
+
+A critical goal of the analysis is to determine if this is a novel complex or if any proteins are novel members of a known complex
+System features from GO terms: 
+cytosol: 27 proteins: RELA, UROD, TPP2, YARS1, TXNRD2, PLPBP, FTO, PHLPP2, GSR, ADK, AARS1, DNM1L, MVD, GSTZ1, SH3GLB1, ADSS2, OLA1, SH3GL1, DRG2, PPID, RRM1, GRHPR, LGALS9, MAP2K1, TKFC, GSPT1, MEAK7
+protein binding: 25 proteins: RELA, UROD, DRAP1, TPP2, YARS1, TXNRD2, CNPY2, PHLPP2, DNM1L, GSTZ1, SH3GLB1, ADSS2, OLA1, SH3GL1, DRG2, PPID, MMUT, RRM1, CHORDC1, NPPB, GRHPR, MAP2K1, TKFC, GSPT1, MEAK7
+cytoplasm: 21 proteins: RELA, TPP2, YARS1, TXNRD2, PLPBP, FTO, PHLPP2, AARS1, DNM1L, SH3GLB1, ADSS2, OLA1, SH3GL1, DRG2, PPID, MMUT, NPPB, GRHPR, LGALS9, GSPT1, MEAK7
+nucleus: 11 proteins: RELA, DRAP1, YARS1, FTO, ADK, DRG2, PPID, NPPB, LGALS9, MAP2K1, TKFC
+mitochondrion: 10 proteins: TXNRD2, GSR, AARS1, DNM1L, GSTZ1, ADSS2, MMUT, RRM1, GLOD4, MAP2K1
+identical protein binding: 9 proteins: RELA, DRAP1, TPP2, DNM1L, GSTZ1, SH3GLB1, SH3GL1, MMUT, RRM1
+nucleoplasm: 9 proteins: RELA, UROD, TPP2, FTO, PHLPP2, ADK, DRG2, PPID, MEAK7
+ATP binding: 9 proteins: YARS1, ADK, AARS1, MVD, OLA1, RRM1, CHORDC1, MAP2K1, TKFC
+protein homodimerization activity: 8 proteins: RELA, TXNRD2, DNM1L, MVD, GSTZ1, SH3GLB1, MMUT, GRHPR
+extracellular exosome: 7 proteins: GSR, AARS1, ADSS2, OLA1, GLOD4, GRHPR, TKFC
+metal ion binding: 6 proteins: PHLPP2, ADK, OLA1, DRG2, MMUT, TKFC
+membrane: 6 proteins: AARS1, DNM1L, SH3GLB1, OLA1, DRG2, MEAK7
+GTP binding: 5 proteins: DNM1L, ADSS2, OLA1, DRG2, GSPT1
+nucleolus: 4 proteins: RELA, OLA1, PPID, MEAK7
+RNA binding: 4 proteins: YARS1, ADK, DRG2, GSPT1
+mitochondrial matrix: 4 proteins: TXNRD2, GSR, GSTZ1, MMUT
+intracellular membrane-bounded organelle: 4 proteins: FTO, PHLPP2, DNM1L, DRG2
+GTPase activity: 4 proteins: DNM1L, DRG2, MMUT, GSPT1
+cadherin binding: 4 proteins: SH3GLB1, OLA1, SH3GL1, GLOD4
+negative regulation of transcription by RNA polymerase II: 3 proteins: RELA, DRAP1, PPID
+positive regulation of gene expression: 3 proteins: RELA, LGALS9, MAP2K1
+apoptotic process: 3 proteins: YARS1, SH3GLB1, PPID
+extracellular space: 3 proteins: YARS1, NPPB, LGALS9
+cellular oxidant detoxification: 3 proteins: TXNRD2, GSR, GSTZ1
+plasma membrane: 3 proteins: FTO, ADK, MAP2K1
+endoplasmic reticulum: 3 proteins: CNPY2, DNM1L, MAP2K1
+lipid binding: 3 proteins: DNM1L, SH3GLB1, SH3GL1
+protein-containing complex: 3 proteins: DNM1L, SH3GLB1, NPPB
+signal transduction: 3 proteins: SH3GL1, DRG2, MAP2K1
+DNA binding: 2 proteins: RELA, DRAP1
+enzyme binding: 2 proteins: RELA, LGALS9
+ubiquitin protein ligase binding: 2 proteins: RELA, DNM1L
+phosphate ion binding: 2 proteins: RELA, ADSS2
+inflammatory response: 2 proteins: RELA, LGALS9
+neuropeptide signaling pathway: 2 proteins: RELA, NPPB
+positive regulation of cell population proliferation: 2 proteins: RELA, MVD
+positive regulation of interleukin-12 production: 2 proteins: RELA, LGALS9
+positive regulation of interleukin-8 production: 2 proteins: RELA, LGALS9
+positive regulation of I-kappaB kinase/NF-kappaB signaling: 2 proteins: RELA, LGALS9
+positive regulation of DNA-templated transcription: 2 proteins: RELA, MAP2K1
+positive regulation of NF-kappaB transcription factor activity: 2 proteins: RELA, LGALS9
+response to interleukin-1: 2 proteins: RELA, LGALS9
+positive regulation of NIK/NF-kappaB signaling: 2 proteins: RELA, LGALS9
+glutamatergic synapse: 2 proteins: RELA, SH3GL1
+nuclear body: 2 proteins: TPP2, YARS1
+tRNA binding: 2 proteins: YARS1, AARS1
+flavin adenine dinucleotide binding: 2 proteins: TXNRD2, GSR
+cell redox homeostasis: 2 proteins: TXNRD2, GSR
+negative regulation of gene expression: 2 proteins: CNPY2, LGALS9
+glutathione metabolic process: 2 proteins: GSR, GSTZ1
+zinc ion binding: 2 proteins: AARS1, CHORDC1
+positive regulation of apoptotic process: 2 proteins: DNM1L, PPID
+positive regulation of protein secretion: 2 proteins: DNM1L, PPID
+protein-containing complex assembly: 2 proteins: DNM1L, PPID
+mitochondrial outer membrane: 2 proteins: DNM1L, SH3GLB1
+peroxisome: 2 proteins: DNM1L, MVD
+Golgi apparatus: 2 proteins: DNM1L, MAP2K1
+Hsp70 protein binding: 2 proteins: MVD, PPID
+extracellular region: 2 proteins: OLA1, NPPB
+Hsp90 protein binding: 2 proteins: PPID, CHORDC1
+protein folding: 2 proteins: PPID, NPPB
+chaperone-mediated protein folding: 2 proteins: PPID, CHORDC1
+chemotaxis: 2 proteins: LGALS9, MAP2K1
+ERK1 and ERK2 cascade: 2 proteins: LGALS9, MAP2K1
+positive regulation of ERK1 and ERK2 cascade: 2 proteins: LGALS9, MAP2K1
+' --model gpt-4 --temperature 0 --max_tokens 800 --rate_per_token 6e-05 --log_file /cellar/users/mhu/Projects/cellmaps_annotate_hierarchy/cellmaps_annotate_hierarchy/MuSIC2_Maps/May2023/branch1-2_log.json --dolor_limit 5.0 --file_path /cellar/users/mhu/Projects/cellmaps_annotate_hierarchy/cellmaps_annotate_hierarchy/MuSIC2_Maps/May2023/Cluster3-11_1/Cluster3-11_1_chatgpt_response
+--openai_api_key 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 --context 'You are assisting a molecular biologist in the analysis of a system of proteins that are physically close to each other and/or interact with each other.' --prompt 'Write a critical and concise analysis of this system, describing your reasoning as you go and providing references to scientific papers. Format the page with Title, Summary, and References sections.
+What cellular components and complexes are involved in this system?
+What mechanisms and biological processes are performed by this system?
+Propose a name for the system to reflect the function and location, and should be specific but brief. Do not compose an acronym. Place it as the title of your report
+Provide complete paper references with pubmed link
+Proteins: TPD52L2, PSPH, TTC1, ISL2, PI15, STAM2, TPD52, IDH1, SMS, CYB5A, PSAT1, PDLIM2, HGS.
+
+A critical goal of the analysis is to determine if this is a novel complex or if any proteins are novel members of a known complex
+System features from GO terms: 
+protein binding: 10 proteins: ISL2, STAM2, TPD52L2, PDLIM2, PSAT1, TTC1, HGS, TPD52, IDH1, CYB5A
+cytosol: 8 proteins: STAM2, SMS, PSAT1, TTC1, HGS, PSPH, IDH1, CYB5A
+cytoplasm: 6 proteins: STAM2, TPD52L2, PSAT1, TPD52, PSPH, IDH1
+extracellular exosome: 5 proteins: SMS, PSAT1, HGS, PI15, IDH1
+metal ion binding: 4 proteins: ISL2, PDLIM2, HGS, CYB5A
+identical protein binding: 3 proteins: PSAT1, PSPH, IDH1
+protein homodimerization activity: 3 proteins: TPD52, PSPH, IDH1
+nucleus: 2 proteins: ISL2, PDLIM2
+phosphatidylinositol binding: 2 proteins: STAM2, HGS
+ubiquitin binding: 2 proteins: STAM2, HGS
+signal transduction: 2 proteins: STAM2, HGS
+macroautophagy: 2 proteins: STAM2, HGS
+multivesicular body assembly: 2 proteins: STAM2, HGS
+protein transport to vacuole involved in ubiquitin-dependent protein catabolic process via the multivesicular body sorting pathway: 2 proteins: STAM2, HGS
+membrane fission: 2 proteins: STAM2, HGS
+early endosome membrane: 2 proteins: STAM2, HGS
+ESCRT-0 complex: 2 proteins: STAM2, HGS
+intracellular membrane-bounded organelle: 2 proteins: STAM2, CYB5A
+L-serine biosynthetic process: 2 proteins: PSAT1, PSPH
+magnesium ion binding: 2 proteins: PSPH, IDH1
+' --model gpt-4 --temperature 0 --max_tokens 800 --rate_per_token 6e-05 --log_file /cellar/users/mhu/Projects/cellmaps_annotate_hierarchy/cellmaps_annotate_hierarchy/MuSIC2_Maps/May2023/branch1-2_log.json --dolor_limit 5.0 --file_path /cellar/users/mhu/Projects/cellmaps_annotate_hierarchy/cellmaps_annotate_hierarchy/MuSIC2_Maps/May2023/Cluster3-11_2/Cluster3-11_2_chatgpt_response
+--openai_api_key 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 --context 'You are assisting a molecular biologist in the analysis of a system of proteins that are physically close to each other and/or interact with each other.' --prompt 'Write a critical and concise analysis of this system, describing your reasoning as you go and providing references to scientific papers. Format the page with Title, Summary, and References sections.
+What cellular components and complexes are involved in this system?
+What mechanisms and biological processes are performed by this system?
+Propose a name for the system to reflect the function and location, and should be specific but brief. Do not compose an acronym. Place it as the title of your report
+Provide complete paper references with pubmed link
+Proteins: FHL1, IST1, HARS1, ATXN2L, PPM1A, NFKB2, NARS1, BIN1, GSPT2, PLCG1, NAA30, BLVRA, XPNPEP1, CARS1, NAGK, EFL1, FERMT2, LCMT2, EEF1A2, MCTS1, YKT6.
+
+A critical goal of the analysis is to determine if this is a novel complex or if any proteins are novel members of a known complex
+System features from GO terms: 
+cytosol: 18 proteins: NAA30, HARS1, BIN1, FERMT2, XPNPEP1, EFL1, IST1, PLCG1, GSPT2, CARS1, NARS1, BLVRA, ATXN2L, PPM1A, YKT6, NFKB2, NAGK, FHL1
+protein binding: 17 proteins: NAA30, MCTS1, BIN1, FERMT2, LCMT2, IST1, PLCG1, GSPT2, CARS1, NARS1, BLVRA, ATXN2L, PPM1A, EEF1A2, NFKB2, NAGK, FHL1
+cytoplasm: 13 proteins: NAA30, HARS1, BIN1, FERMT2, XPNPEP1, LCMT2, PLCG1, CARS1, NARS1, YKT6, EEF1A2, NFKB2, FHL1
+nucleus: 7 proteins: NAA30, BIN1, FERMT2, PPM1A, EEF1A2, NFKB2, FHL1
+plasma membrane: 6 proteins: BIN1, FERMT2, PLCG1, PPM1A, YKT6, FHL1
+extracellular exosome: 5 proteins: XPNPEP1, IST1, NARS1, BLVRA, NAGK
+ATP binding: 4 proteins: HARS1, CARS1, NARS1, NAGK
+identical protein binding: 3 proteins: HARS1, BIN1, CARS1
+translation: 3 proteins: HARS1, GSPT2, EEF1A2
+RNA binding: 3 proteins: MCTS1, GSPT2, ATXN2L
+membrane: 3 proteins: BIN1, ATXN2L, PPM1A
+protein kinase binding: 3 proteins: FERMT2, PLCG1, EEF1A2
+nucleoplasm: 3 proteins: FERMT2, PPM1A, NFKB2
+GTPase activity: 3 proteins: EFL1, GSPT2, EEF1A2
+GTP binding: 3 proteins: EFL1, GSPT2, EEF1A2
+cadherin binding: 3 proteins: IST1, ATXN2L, YKT6
+protein homodimerization activity: 2 proteins: HARS1, XPNPEP1
+tRNA aminoacylation for protein translation: 2 proteins: HARS1, NARS1
+mitochondrion: 2 proteins: HARS1, YKT6
+cell cycle: 2 proteins: MCTS1, GSPT2
+actin filament binding: 2 proteins: BIN1, FERMT2
+negative regulation of transcription by RNA polymerase II: 2 proteins: BIN1, PPM1A
+positive regulation of apoptotic process: 2 proteins: BIN1, EEF1A2
+positive regulation of GTPase activity: 2 proteins: BIN1, FERMT2
+nuclear envelope: 2 proteins: BIN1, IST1
+endosome: 2 proteins: BIN1, YKT6
+I band: 2 proteins: BIN1, FERMT2
+glutamatergic synapse: 2 proteins: BIN1, PLCG1
+focal adhesion: 2 proteins: FERMT2, FHL1
+manganese ion binding: 2 proteins: XPNPEP1, PPM1A
+translation elongation factor activity: 2 proteins: EFL1, EEF1A2
+translational elongation: 2 proteins: EFL1, EEF1A2
+protein transport: 2 proteins: IST1, YKT6
+cell migration: 2 proteins: PLCG1, NARS1
+metal ion binding: 2 proteins: CARS1, FHL1
+' --model gpt-4 --temperature 0 --max_tokens 800 --rate_per_token 6e-05 --log_file /cellar/users/mhu/Projects/cellmaps_annotate_hierarchy/cellmaps_annotate_hierarchy/MuSIC2_Maps/May2023/branch1-2_log.json --dolor_limit 5.0 --file_path /cellar/users/mhu/Projects/cellmaps_annotate_hierarchy/cellmaps_annotate_hierarchy/MuSIC2_Maps/May2023/Cluster3-11_3/Cluster3-11_3_chatgpt_response
+--openai_api_key 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 --context 'You are assisting a molecular biologist in the analysis of a system of proteins that are physically close to each other and/or interact with each other.' --prompt 'Write a critical and concise analysis of this system, describing your reasoning as you go and providing references to scientific papers. Format the page with Title, Summary, and References sections.
+What cellular components and complexes are involved in this system?
+What mechanisms and biological processes are performed by this system?
+Propose a name for the system to reflect the function and location, and should be specific but brief. Do not compose an acronym. Place it as the title of your report
+Provide complete paper references with pubmed link
+Proteins: EIF4A3, ACAT2, ARL2, C11orf68, CYRIB, DDX19B, DIS3, DNAJC11, EEF1D, FAF1, FARSB, GINS2, GINS4, ILKAP, ITGA2, KIN, NAA38, NAE1, NANS, NFYA, NHLRC2, NSUN2, NT5DC1, NUDCD2, PAPSS1, PPAT, PSME2, PTPN11, PTPN23, QPRT, RAB8A, RAE1, RECQL, TSNAX, UBA2, UBLCP1, UPP1, VENTX.
+
+A critical goal of the analysis is to determine if this is a novel complex or if any proteins are novel members of a known complex
+System features from GO terms: 
+protein binding: 32 proteins: EIF4A3, ACAT2, ARL2, C11orf68, CYRIB, DDX19B, DIS3, DNAJC11, EEF1D, FAF1, FARSB, GINS2, GINS4, ILKAP, ITGA2, KIN, NAA38, NAE1, NFYA, NHLRC2, NUDCD2, PSME2, PTPN11, PTPN23, QPRT, RAB8A, RAE1, RECQL, TSNAX, UBA2, UBLCP1, VENTX
+nucleoplasm: 23 proteins: EIF4A3, ARL2, DDX19B, DIS3, DNAJC11, EEF1D, FAF1, GINS2, GINS4, KIN, NAA38, NFYA, NSUN2, PSME2, PTPN11, PTPN23, RAE1, RECQL, TSNAX, UBA2, UBLCP1, UPP1, VENTX
+nucleus: 21 proteins: EIF4A3, ARL2, DDX19B, DIS3, EEF1D, FAF1, GINS2, GINS4, ILKAP, ITGA2, KIN, NAA38, NAE1, NFYA, NSUN2, PTPN11, PTPN23, RAE1, RECQL, TSNAX, UBLCP1
+cytoplasm: 21 proteins: EIF4A3, ACAT2, ARL2, DDX19B, EEF1D, FARSB, GINS4, KIN, NAA38, NAE1, NANS, NSUN2, NUDCD2, PSME2, PTPN11, PTPN23, QPRT, RAE1, RECQL, TSNAX, UBA2
+cytosol: 21 proteins: EIF4A3, ACAT2, ARL2, DIS3, EEF1D, FAF1, FARSB, ILKAP, NAE1, NANS, NHLRC2, NUDCD2, PAPSS1, PPAT, PSME2, PTPN11, PTPN23, QPRT, RAB8A, TSNAX, UPP1
+RNA binding: 9 proteins: EIF4A3, C11orf68, DDX19B, DIS3, FARSB, KIN, NSUN2, RAE1, TSNAX
+extracellular exosome: 9 proteins: ACAT2, CYRIB, DDX19B, NANS, NSUN2, PSME2, PTPN23, QPRT, RAB8A
+membrane: 7 proteins: EIF4A3, CYRIB, DDX19B, DIS3, FARSB, PSME2, RECQL
+metal ion binding: 7 proteins: ILKAP, ITGA2, KIN, NT5DC1, PPAT, TSNAX, UBLCP1
+ATP binding: 6 proteins: EIF4A3, DDX19B, FARSB, PAPSS1, RECQL, UBA2
+nucleolus: 5 proteins: EIF4A3, ARL2, DIS3, NSUN2, UBLCP1
+mitochondrion: 5 proteins: ACAT2, ARL2, CYRIB, DNAJC11, NSUN2
+DNA binding: 4 proteins: EEF1D, KIN, NFYA, TSNAX
+protein dephosphorylation: 4 proteins: ILKAP, PTPN11, PTPN23, UBLCP1
+ATP hydrolysis activity: 3 proteins: EIF4A3, DDX19B, RECQL
+mRNA export from nucleus: 3 proteins: EIF4A3, DDX19B, RAE1
+cilium: 3 proteins: ARL2, CYRIB, RAB8A
+protein kinase binding: 3 proteins: FAF1, PTPN11, PTPN23
+perinuclear region of cytoplasm: 3 proteins: FAF1, ITGA2, TSNAX
+DNA unwinding involved in DNA replication: 3 proteins: GINS2, GINS4, RECQL
+plasma membrane: 3 proteins: ITGA2, NAE1, RAB8A
+protein-containing complex: 3 proteins: KIN, NAE1, PTPN11
+identical protein binding: 3 proteins: PSME2, QPRT, UPP1
+RNA helicase activity: 2 proteins: EIF4A3, DDX19B
+rRNA processing: 2 proteins: EIF4A3, DIS3
+positive regulation of translation: 2 proteins: EIF4A3, ITGA2
+nuclear speck: 2 proteins: EIF4A3, DNAJC11
+neuronal cell body: 2 proteins: EIF4A3, RAB8A
+glutamatergic synapse: 2 proteins: EIF4A3, RAB8A
+GTPase activity: 2 proteins: ARL2, RAB8A
+GTP binding: 2 proteins: ARL2, RAB8A
+GDP binding: 2 proteins: ARL2, RAB8A
+protein folding: 2 proteins: ARL2, NUDCD2
+Golgi apparatus: 2 proteins: ARL2, TSNAX
+centrosome: 2 proteins: ARL2, RAB8A
+focal adhesion: 2 proteins: ARL2, ITGA2
+microtubule cytoskeleton: 2 proteins: ARL2, NUDCD2
+small GTPase binding: 2 proteins: CYRIB, RAB8A
+extracellular region: 2 proteins: CYRIB, NHLRC2
+platelet alpha granule lumen: 2 proteins: CYRIB, NHLRC2
+nuclear pore: 2 proteins: DDX19B, RAE1
+guanyl-nucleotide exchange factor activity: 2 proteins: DIS3, EEF1D
+cadherin binding: 2 proteins: EEF1D, PTPN11
+fibrillar center: 2 proteins: EEF1D, RAE1
+endoplasmic reticulum: 2 proteins: EEF1D, FAF1
+ubiquitin protein ligase binding: 2 proteins: FAF1, NAE1
+ubiquitin binding: 2 proteins: FAF1, RAE1
+nuclear envelope: 2 proteins: FAF1, RAE1
+magnesium ion binding: 2 proteins: FARSB, UBA2
+double-strand break repair via break-induced replication: 2 proteins: GINS2, GINS4
+positive regulation of DNA-directed DNA polymerase activity: 2 proteins: GINS2, GINS4
+positive regulation of DNA primase activity: 2 proteins: GINS2, GINS4
+GINS complex: 2 proteins: GINS2, GINS4
+CMG complex: 2 proteins: GINS2, GINS4
+myosin phosphatase activity: 2 proteins: ILKAP, UBLCP1
+protein-containing complex binding: 2 proteins: ITGA2, TSNAX
+integrin-mediated signaling pathway: 2 proteins: ITGA2, PTPN11
+DNA repair: 2 proteins: KIN, RECQL
+DNA damage response: 2 proteins: KIN, NAE1
+intracellular membrane-bounded organelle: 2 proteins: KIN, PTPN23
+protein heterodimerization activity: 2 proteins: NAE1, UBA2
+RNA polymerase II cis-regulatory region sequence-specific DNA binding: 2 proteins: NFYA, VENTX
+DNA-binding transcription factor activity, RNA polymerase II-specific: 2 proteins: NFYA, VENTX
+regulation of transcription by RNA polymerase II: 2 proteins: NFYA, VENTX
+positive regulation of transcription by RNA polymerase II: 2 proteins: NFYA, VENTX
+chromatin: 2 proteins: NFYA, VENTX
+cell division: 2 proteins: NSUN2, RAE1
+protein tyrosine phosphatase activity: 2 proteins: PTPN11, PTPN23
+protein tyrosine kinase binding: 2 proteins: PTPN11, RAB8A
+axonogenesis: 2 proteins: PTPN11, RAB8A
+cilium assembly: 2 proteins: PTPN23, RAB8A
+endosome: 2 proteins: PTPN23, RAB8A
+ciliary basal body: 2 proteins: PTPN23, RAB8A
+sequence-specific DNA binding: 2 proteins: TSNAX, VENTX
+' --model gpt-4 --temperature 0 --max_tokens 800 --rate_per_token 6e-05 --log_file /cellar/users/mhu/Projects/cellmaps_annotate_hierarchy/cellmaps_annotate_hierarchy/MuSIC2_Maps/May2023/branch1-2_log.json --dolor_limit 5.0 --file_path /cellar/users/mhu/Projects/cellmaps_annotate_hierarchy/cellmaps_annotate_hierarchy/MuSIC2_Maps/May2023/Cluster3-9_1/Cluster3-9_1_chatgpt_response
+--openai_api_key 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 --context 'You are assisting a molecular biologist in the analysis of a system of proteins that are physically close to each other and/or interact with each other.' --prompt 'Write a critical and concise analysis of this system, describing your reasoning as you go and providing references to scientific papers. Format the page with Title, Summary, and References sections.
+What cellular components and complexes are involved in this system?
+What mechanisms and biological processes are performed by this system?
+Propose a name for the system to reflect the function and location, and should be specific but brief. Do not compose an acronym. Place it as the title of your report
+Provide complete paper references with pubmed link
+Proteins: MDP1, YBEY, ADPRS, ALOX5, ARIH2, CELF1, CMPK1, CPNE1, GABPB1, GINS1, GINS3, MAB21L3, MBNL1, MCMBP, MRTFB, NAXE, PAK2, PAPOLA, PCDHGA9, PEF1, PEX7, PGLS, PNPO, PPP1R8, PTRHD1, RANBP3, RBM12, SEPHS1, SGTA, SMCHD1, SNRNP27, SSBP2, TRIP10, TTC9C, UBE2M, WDHD1, ZNF331.
+
+A critical goal of the analysis is to determine if this is a novel complex or if any proteins are novel members of a known complex
+System features from GO terms: 
+protein binding: 30 proteins: ADPRS, ALOX5, ARIH2, CELF1, CPNE1, GABPB1, GINS3, MAB21L3, MBNL1, MCMBP, MRTFB, NAXE, PAK2, PAPOLA, PEF1, PEX7, PGLS, PNPO, PPP1R8, PTRHD1, RANBP3, RBM12, SEPHS1, SGTA, SMCHD1, SNRNP27, TRIP10, TTC9C, UBE2M, WDHD1
+nucleus: 21 proteins: YBEY, ADPRS, ARIH2, CELF1, CMPK1, CPNE1, GABPB1, GINS1, GINS3, MBNL1, MCMBP, MRTFB, PAK2, PAPOLA, PPP1R8, RANBP3, SGTA, SNRNP27, SSBP2, UBE2M, ZNF331
+nucleoplasm: 19 proteins: ADPRS, ALOX5, ARIH2, CELF1, CMPK1, CPNE1, GABPB1, GINS1, GINS3, MBNL1, MCMBP, PAPOLA, PPP1R8, RANBP3, RBM12, SNRNP27, TRIP10, UBE2M, WDHD1
+cytoplasm: 17 proteins: ADPRS, ARIH2, CELF1, CMPK1, CPNE1, GINS1, MBNL1, PAK2, PAPOLA, PEF1, PPP1R8, RANBP3, SEPHS1, SGTA, SSBP2, TRIP10, WDHD1
+cytosol: 12 proteins: ALOX5, CMPK1, CPNE1, MBNL1, MCMBP, PAK2, PEX7, PGLS, PNPO, SGTA, TRIP10, UBE2M
+RNA binding: 7 proteins: CELF1, MBNL1, PAPOLA, PCDHGA9, PEF1, PPP1R8, RBM12
+identical protein binding: 7 proteins: CPNE1, NAXE, PAK2, PEF1, SEPHS1, SGTA, TRIP10
+ATP binding: 6 proteins: CMPK1, PAK2, PAPOLA, SEPHS1, SMCHD1, UBE2M
+extracellular exosome: 6 proteins: CMPK1, CPNE1, NAXE, PEF1, PGLS, TRIP10
+metal ion binding: 5 proteins: MDP1, YBEY, MBNL1, NAXE, SEPHS1
+plasma membrane: 4 proteins: CPNE1, PAK2, PCDHGA9, SEPHS1
+nuclear membrane: 3 proteins: ALOX5, CPNE1, SEPHS1
+perinuclear region of cytoplasm: 3 proteins: ALOX5, PAK2, TRIP10
+mRNA processing: 3 proteins: CELF1, MBNL1, PPP1R8
+regulation of RNA splicing: 3 proteins: CELF1, MBNL1, RBM12
+membrane: 3 proteins: CELF1, CPNE1, SGTA
+phosphorylation: 3 proteins: CMPK1, PAK2, SEPHS1
+calcium ion binding: 3 proteins: CPNE1, PCDHGA9, PEF1
+positive regulation of transcription by RNA polymerase II: 3 proteins: GABPB1, MRTFB, SSBP2
+protein homodimerization activity: 3 proteins: PEX7, PNPO, SMCHD1
+DNA binding: 3 proteins: PPP1R8, SMCHD1, WDHD1
+magnesium ion binding: 2 proteins: ADPRS, PAPOLA
+DNA repair: 2 proteins: ADPRS, WDHD1
+mitochondrial matrix: 2 proteins: ADPRS, NAXE
+negative regulation of angiogenesis: 2 proteins: ALOX5, NAXE
+regulation of inflammatory response: 2 proteins: ALOX5, CELF1
+extracellular region: 2 proteins: ALOX5, NAXE
+extracellular space: 2 proteins: ALOX5, NAXE
+ubiquitin-protein transferase activity: 2 proteins: ARIH2, UBE2M
+zinc ion binding: 2 proteins: ARIH2, ZNF331
+mRNA binding: 2 proteins: CELF1, PPP1R8
+negative regulation of gene expression: 2 proteins: CELF1, CPNE1
+cytoplasmic stress granule: 2 proteins: CELF1, MBNL1
+ribonucleoprotein complex: 2 proteins: CELF1, RBM12
+DNA unwinding involved in DNA replication: 2 proteins: GINS1, GINS3
+positive regulation of DNA-directed DNA polymerase activity: 2 proteins: GINS1, GINS3
+positive regulation of DNA primase activity: 2 proteins: GINS1, GINS3
+GINS complex: 2 proteins: GINS1, GINS3
+CMG complex: 2 proteins: GINS1, GINS3
+nervous system development: 2 proteins: MBNL1, PCDHGA9
+RNA splicing: 2 proteins: MBNL1, PPP1R8
+chromatin binding: 2 proteins: MCMBP, WDHD1
+DNA-templated DNA replication: 2 proteins: MCMBP, WDHD1
+cadherin binding: 2 proteins: MRTFB, PAK2
+signal transduction: 2 proteins: PAK2, TRIP10
+protein modification process: 2 proteins: SEPHS1, UBE2M
+regulation of DNA-templated transcription: 2 proteins: SSBP2, ZNF331
+' --model gpt-4 --temperature 0 --max_tokens 800 --rate_per_token 6e-05 --log_file /cellar/users/mhu/Projects/cellmaps_annotate_hierarchy/cellmaps_annotate_hierarchy/MuSIC2_Maps/May2023/branch1-2_log.json --dolor_limit 5.0 --file_path /cellar/users/mhu/Projects/cellmaps_annotate_hierarchy/cellmaps_annotate_hierarchy/MuSIC2_Maps/May2023/Cluster3-9_2/Cluster3-9_2_chatgpt_response
+--openai_api_key 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 --context 'You are assisting a molecular biologist in the analysis of a system of proteins that are physically close to each other and/or interact with each other.' --prompt 'Write a critical and concise analysis of this system, describing your reasoning as you go and providing references to scientific papers. Format the page with Title, Summary, and References sections.
+What cellular components and complexes are involved in this system?
+What mechanisms and biological processes are performed by this system?
+Propose a name for the system to reflect the function and location, and should be specific but brief. Do not compose an acronym. Place it as the title of your report
+Provide complete paper references with pubmed link
+Proteins: AAMDC, ADISSP, AIDA, ANXA11, ASNS, BLVRB, CNOT10, EIF4EBP1, ENO2, GCLC, GNPDA1, GNPDA2, KCNAB1, KIAA1191, LRRC20, NSFL1C, OGFR, PDCD4, PMM2, PTPA, SCP2, SLC15A1, SPR, TMSB4X, TRIM25, UBE2Z, USP5.
+
+A critical goal of the analysis is to determine if this is a novel complex or if any proteins are novel members of a known complex
+System features from GO terms: 
+protein binding: 23 proteins: AAMDC, AIDA, ANXA11, ASNS, BLVRB, CNOT10, EIF4EBP1, ENO2, GCLC, GNPDA1, GNPDA2, KIAA1191, LRRC20, NSFL1C, OGFR, PDCD4, PMM2, PTPA, SCP2, TMSB4X, TRIM25, UBE2Z, USP5
+cytosol: 19 proteins: ANXA11, ASNS, BLVRB, CNOT10, EIF4EBP1, ENO2, GCLC, GNPDA1, GNPDA2, KCNAB1, NSFL1C, PDCD4, PMM2, SCP2, SPR, TMSB4X, TRIM25, UBE2Z, USP5
+cytoplasm: 13 proteins: AAMDC, AIDA, ANXA11, EIF4EBP1, GNPDA1, GNPDA2, KIAA1191, NSFL1C, OGFR, PDCD4, PTPA, TMSB4X, TRIM25
+nucleus: 9 proteins: CNOT10, GNPDA2, NSFL1C, OGFR, PDCD4, PTPA, TMSB4X, UBE2Z, USP5
+nucleoplasm: 8 proteins: ANXA11, BLVRB, PMM2, PTPA, SCP2, SPR, TRIM25, UBE2Z
+membrane: 7 proteins: AIDA, ANXA11, CNOT10, ENO2, OGFR, SCP2, SLC15A1
+extracellular exosome: 6 proteins: ANXA11, BLVRB, ENO2, GNPDA1, PTPA, SPR
+cellular_component: 4 proteins: ADISSP, AIDA, KIAA1191, OGFR
+RNA binding: 4 proteins: ANXA11, PDCD4, TMSB4X, TRIM25
+ATP binding: 4 proteins: ASNS, GCLC, PTPA, UBE2Z
+negative regulation of apoptotic process: 4 proteins: ASNS, GCLC, PDCD4, UBE2Z
+plasma membrane: 4 proteins: BLVRB, ENO2, KCNAB1, SLC15A1
+identical protein binding: 3 proteins: ENO2, GNPDA1, GNPDA2
+ubiquitin-dependent protein catabolic process: 3 proteins: TRIM25, UBE2Z, USP5
+positive regulation of NIK/NF-kappaB signaling: 2 proteins: ADISSP, PDCD4
+extracellular space: 2 proteins: ADISSP, ENO2
+protein domain specific binding: 2 proteins: AIDA, KCNAB1
+negative regulation of JUN kinase activity: 2 proteins: AIDA, PDCD4
+positive regulation of mitotic cell cycle: 2 proteins: ASNS, EIF4EBP1
+intracellular membrane-bounded organelle: 2 proteins: BLVRB, SCP2
+magnesium ion binding: 2 proteins: ENO2, GCLC
+enzyme binding: 2 proteins: ENO2, TMSB4X
+protein-containing complex binding: 2 proteins: ENO2, GCLC
+response to xenobiotic stimulus: 2 proteins: ENO2, GCLC
+response to oxidative stress: 2 proteins: GCLC, TRIM25
+positive regulation of proteasomal ubiquitin-dependent protein catabolic process: 2 proteins: GCLC, USP5
+negative regulation of DNA-templated transcription: 2 proteins: GCLC, PDCD4
+mitochondrion: 2 proteins: GCLC, SCP2
+glucosamine-6-phosphate deaminase activity: 2 proteins: GNPDA1, GNPDA2
+isomerase activity: 2 proteins: GNPDA1, GNPDA2
+carbohydrate metabolic process: 2 proteins: GNPDA1, GNPDA2
+glucosamine catabolic process: 2 proteins: GNPDA1, GNPDA2
+N-acetylglucosamine catabolic process: 2 proteins: GNPDA1, GNPDA2
+UDP-N-acetylglucosamine biosynthetic process: 2 proteins: GNPDA1, GNPDA2
+N-acetylneuraminate catabolic process: 2 proteins: GNPDA1, GNPDA2
+aldo-keto reductase (NADP) activity: 2 proteins: KCNAB1, SPR
+molecular function inhibitor activity: 2 proteins: KCNAB1, TRIM25
+ubiquitin binding: 2 proteins: NSFL1C, USP5
+apoptotic process: 2 proteins: PDCD4, UBE2Z
+metal ion binding: 2 proteins: PMM2, TRIM25
+signaling receptor binding: 2 proteins: PTPA, SCP2
+positive regulation of apoptotic process: 2 proteins: PTPA, UBE2Z
+protein ubiquitination: 2 proteins: UBE2Z, USP5
+' --model gpt-4 --temperature 0 --max_tokens 800 --rate_per_token 6e-05 --log_file /cellar/users/mhu/Projects/cellmaps_annotate_hierarchy/cellmaps_annotate_hierarchy/MuSIC2_Maps/May2023/branch1-2_log.json --dolor_limit 5.0 --file_path /cellar/users/mhu/Projects/cellmaps_annotate_hierarchy/cellmaps_annotate_hierarchy/MuSIC2_Maps/May2023/Cluster3-9_3/Cluster3-9_3_chatgpt_response

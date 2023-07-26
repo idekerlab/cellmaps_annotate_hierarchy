@@ -1,0 +1,58 @@
+Your response should be formatted as Markdown paragraphs
+Write a critical and concise analysis of this human protein system, describing your reasoning as you go and providing references to scientific papers.
+
+A critical goal of the analysis is to determine if this is a novel complex or if any proteins are novel members of a known complex
+
+Format with Title, Summary, and References sections.        
+Avoid overly general statements of how the proteins are involved in various cellular processes        
+Avoid repeating the goals of the analysis.
+
+What cellular components and complexes are involved in this system?
+What mechanisms and biological processes are performed by this system?
+Propose a name for the system to reflect the cellular location and function, and should be specific but brief. Do not compose an acronym. Place it as the title of your report
+Human Proteins: CCDC138, CCNC, CDK19, CDK8, ILK, MED1, MED12, MED13, MED14, MED15, MED17, MED18, MED21, MED22, MED23, MED25, MED27, MED28, MED29, MED30, MED31, MED4, MED6, MED9, PDZK1.
+
+System features from GO terms: 
+protein binding: 22 proteins: CCNC, CDK8, ILK, MED1, MED12, MED14, MED15, MED17, MED18, MED21, MED22, MED23, MED25, MED27, MED28, MED29, MED30, MED31, MED4, MED6, MED9, PDZK1
+nucleus: 22 proteins: CCNC, CDK19, CDK8, MED1, MED12, MED13, MED14, MED15, MED17, MED18, MED21, MED22, MED23, MED25, MED27, MED28, MED29, MED30, MED31, MED4, MED6, MED9
+mediator complex: 22 proteins: CCNC, CDK19, CDK8, MED1, MED12, MED13, MED14, MED15, MED17, MED18, MED21, MED22, MED23, MED25, MED27, MED28, MED29, MED30, MED31, MED4, MED6, MED9
+nucleoplasm: 19 proteins: CCNC, CDK19, CDK8, ILK, MED1, MED12, MED13, MED14, MED15, MED17, MED23, MED25, MED27, MED28, MED29, MED30, MED31, MED4, MED6
+ transcription initiation by RNA polymerase II: 19 proteins: MED1, MED12, MED13, MED14, MED15, MED17, MED18, MED21, MED22, MED23, MED25, MED27, MED28, MED29, MED30, MED31, MED4, MED6, MED9
+ transcription elongation by RNA polymerase II: 17 proteins: MED1, MED14, MED15, MED17, MED18, MED21, MED22, MED23, MED25, MED27, MED28, MED29, MED30, MED31, MED4, MED6, MED9
+RNA polymerase II preinitiation complex assembly: 17 proteins: MED1, MED14, MED15, MED17, MED18, MED21, MED22, MED23, MED25, MED27, MED28, MED29, MED30, MED31, MED4, MED6, MED9
+core mediator complex: 17 proteins: MED1, MED14, MED15, MED17, MED18, MED21, MED22, MED23, MED25, MED27, MED28, MED29, MED30, MED31, MED4, MED6, MED9
+ transcription by RNA polymerase II: 16 proteins: CCNC, CDK8, MED1, MED12, MED13, MED14, MED17, MED18, MED21, MED23, MED25, MED27, MED29, MED31, MED4, MED6
+transcription coregulator activity: 14 proteins: MED1, MED12, MED13, MED14, MED15, MED17, MED18, MED21, MED22, MED29, MED30, MED31, MED4, MED9
+transcription coactivator activity: 11 proteins: MED1, MED12, MED13, MED14, MED17, MED21, MED23, MED27, MED30, MED4, MED6
+membrane: 10 proteins: ILK, MED1, MED12, MED13, MED14, MED15, MED17, MED28, MED4, MED6
+ DNA-templated transcription: 9 proteins: ILK, MED1, MED12, MED13, MED14, MED17, MED23, MED30, MED4
+somatic stem cell population maintenance: 9 proteins: MED12, MED14, MED15, MED17, MED21, MED27, MED28, MED30, MED6
+nuclear receptor coactivator activity: 7 proteins: MED1, MED12, MED13, MED14, MED17, MED30, MED4
+nuclear vitamin D receptor binding: 7 proteins: MED1, MED12, MED13, MED14, MED17, MED30, MED4
+nuclear thyroid hormone receptor binding: 6 proteins: MED1, MED12, MED13, MED17, MED30, MED4
+ubiquitin protein ligase activity: 5 proteins: MED12, MED17, MED27, MED30, MED31
+protein ubiquitination: 5 proteins: MED12, MED17, MED27, MED30, MED31
+ubiquitin ligase complex: 5 proteins: MED12, MED17, MED27, MED30, MED31
+transcription regulator complex: 4 proteins: MED17, MED23, MED25, MED27
+ATP binding: 3 proteins: CDK19, CDK8, ILK
+protein serine kinase activity: 3 proteins: CDK19, CDK8, ILK
+protein phosphorylation: 3 proteins: CDK19, CDK8, ILK
+cytosol: 3 proteins: CDK19, ILK, MED27
+nucleolus: 3 proteins: CDK8, MED1, MED27
+transcription coactivator binding: 3 proteins: MED1, MED25, MED6
+transcription initiation at RNA polymerase II promoter: 3 proteins: MED17, MED23, MED27
+G0 to G1 transition: 2 proteins: CCNC, MED1
+cyclin-dependent protein serine/threonine kinase activity: 2 proteins: CDK19, CDK8
+ cell cycle: 2 proteins: CDK19, CDK8
+cell morphogenesis: 2 proteins: ILK, MED1
+plasma membrane: 2 proteins: ILK, PDZK1
+DNA binding: 2 proteins: MED1, MED6
+chromatin binding: 2 proteins: MED1, MED12
+nuclear retinoic acid receptor binding: 2 proteins: MED1, MED25
+protein-containing complex binding: 2 proteins: MED1, PDZK1
+negative regulation of transcription by RNA polymerase II: 2 proteins: MED1, MED25
+ gene expression: 2 proteins: MED1, MED23
+transcription factor binding: 2 proteins: MED12, MED29
+DNA-templated transcription: 2 proteins: MED12, MED13
+cytoplasm: 2 proteins: MED15, MED22
+negative regulation of fibroblast proliferation: 2 proteins: MED25, MED31

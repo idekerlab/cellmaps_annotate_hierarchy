@@ -1,0 +1,794 @@
+Feature	Number of Genes	Genes
+protein binding	68	TONSL, TFIP11, TXNRD1, RB1, WASHC5, INTS8, AP5Z1, CD226, NCAPD3, SMG1, ARMCX3, INIP, NUP37, SPAST, PDS5B, AP5B1, ATRIP, BRAT1, COG6, CYP2S1, DERA, DOCK1, DOP1B, ERAP1, EVI5L, EXOC6, FAM114A2, FAM200C, FAM241B, FANCA, FBXL3, FZD10, HTT, IPO11, IPO7, IPO8, MEN1, MLST8, MON2, NABP2, NCAPG2, NR2F1, NUP85, OGG1, ORC5, PDS5A, PEX3, PPP2R5D, PPP4R1, RANBP6, RDH10, RIMOC1, SETX, SMG8, SREBF2, SRR, TBC1D22B, TNPO1, TSPAN2, TTI1, USP24, USP34, VAC14, VPS33A, WAPL, XPO4, XPO5, XPOT
+nucleoplasm	48	TONSL, TFIP11, TXNRD1, RB1, WASHC5, INTS8, AP5Z1, NCAPD3, SMG1, INIP, NUP37, SPAST, PDS5B, ATRIP, BRAT1, BTAF1, DCK, DERA, DOCK1, FAM200C, FANCA, FZD10, HTT, IPO11, IPO7, IPO8, MEN1, MLST8, NABP2, NCAPG2, NR2F1, NUP85, OGG1, ORC5, PDS5A, PEX3, PPP2R5D, RIMOC1, SETX, SREBF2, TAPT1, TSPAN2, USP24, VEZT, WAPL, XPO4, XPO5, XPOT
+cytosol	45	TXNRD1, RB1, WASHC5, SMG1, ARMCX3, NUP37, SPAST, PDS5B, DCK, DERA, DOCK1, DOP1B, ERAP1, EXOC6, FBXL3, GBA2, HTT, IPO11, IPO7, IPO8, MEN1, MLST8, MON2, NABP2, NBEAL1, NR2F1, NUP85, OGG1, ORC5, PDS5A, PPP2R5D, RIMOC1, SMG8, SREBF2, SRR, TAPT1, TNPO1, USP24, USP34, VAC14, VEZT, WAPL, XPO4, XPO5, XPOT
+nucleus	35	RB1, INTS8, AP5Z1, RUFY2, SMG1, ARMCX3, INIP, ZMYM1, NUP37, SPAST, PDS5B, ATRIP, BRAT1, FANCA, FBXL3, HTT, MEN1, NABP2, NCAPG2, NR2F1, OGG1, ORC5, PDS5A, PPP2R5D, RANBP6, RDH10, SETX, SREBF2, TNPO1, TTI1, USP24, USP34, WAPL, XPO4, XPO5
+cytoplasm	31	TONSL, TFIP11, TXNRD1, AP5Z1, RUFY2, SMG1, SPAST, BRAT1, CYP2S1, DCK, DNAAF5, DOCK1, ERAP1, FANCA, FAXC, FZD10, HTT, MEN1, MLST8, RANBP6, RDH10, SETX, SREBF2, SRR, TNPO1, TTC12, TTI1, WAPL, XPO4, XPO5, XPOT
+membrane	20	NCAPD3, BRAT1, DPY19L1, ELFN1, ERAP1, FAM241B, FAXC, GBA2, IPO7, LMBRD2, NBEAL1, NCAPG2, NUP85, PEX3, RDH10, SLC34A2, TAPT1, TEX2, TEX261, TSPAN2
+plasma membrane	14	CD226, DOCK1, EXOC6, FZD10, GBA2, GPR17, LMBRD2, PDS5A, SGPP1, SLC34A2, SRR, TMEM184A, TSPAN2, VEZT
+signal transduction	9	TXNRD1, CD226, DOCK1, IPO8, NR2F1, PPP2R5D, PPP4R1, TEX2, VAC14
+endoplasmic reticulum	9	WASHC5, SPAST, CYP2S1, ERAP1, HTT, PEX3, SREBF2, TEX2, VAC14
+small GTPase binding	9	DOCK1, EVI5L, IPO11, IPO7, IPO8, TNPO1, XPO4, XPO5, XPOT
+chromatin	8	RB1, PDS5B, FANCA, MEN1, ORC5, PDS5A, SREBF2, WAPL
+DNA repair	8	SMG1, INIP, PDS5B, ATRIP, FANCA, MEN1, NABP2, PDS5A
+DNA damage response	8	SMG1, INIP, BRAT1, MEN1, MLST8, NABP2, OGG1, SETX
+endoplasmic reticulum membrane	8	SPAST, CERS5, CYP2S1, ERAP1, RDH10, SGPP1, SREBF2, TEX2
+identical protein binding	7	TXNRD1, RB1, CD226, HTT, SETX, SRR, VAC14
+cell division	7	RB1, NCAPD3, NUP37, PDS5B, NCAPG2, PDS5A, WAPL
+protein transport	7	WASHC5, AP5Z1, NUP37, AP5B1, COG6, DOP1B, MON2
+ATP binding	7	SMG1, SPAST, BTAF1, DCK, ORC5, SETX, SRR
+protein import into nucleus	7	HEATR3, IPO11, IPO7, IPO8, NUP85, RANBP6, TNPO1
+extracellular exosome	6	TXNRD1, SPAST, DOP1B, ERAP1, MON2, TNPO1
+ transcription by RNA polymerase II	6	RB1, ARMCX3, MEN1, NR2F1, SETX, SREBF2
+intracellular membrane-bounded organelle	6	BTAF1, CYP2S1, FAM241B, SREBF2, VAC14, WAPL
+chromosome, telomeric region	5	TFIP11, MEN1, NABP2, ORC5, SETX
+nuclear speck	5	TFIP11, AP5Z1, DOCK1, NCAPG2, OGG1
+endosome	5	WASHC5, RUFY2, SPAST, DOP1B, TMEM184A
+early endosome membrane	5	WASHC5, DOP1B, MON2, TMEM184A, VAC14
+nuclear envelope	5	NUP37, IPO11, IPO7, IPO8, NUP85
+nuclear pore	5	NUP37, IPO7, NUP85, XPO4, XPOT
+perinuclear region of cytoplasm	5	SPAST, EXOC6, HTT, TMEM184A, VPS33A
+DNA binding	5	PDS5B, BTAF1, CERS5, NABP2, SETX
+double-strand break repair via homologous recombination	4	TONSL, AP5Z1, INIP, NABP2
+negative regulation of transcription by RNA polymerase II	4	RB1, MEN1, NR2F1, SREBF2
+late endosome	4	AP5Z1, AP5B1, HTT, VPS33A
+RNA binding	4	SMG1, SETX, TNPO1, XPO5
+Golgi membrane	4	COG6, DOP1B, SREBF2, VAC14
+protein-containing complex	4	HTT, MEN1, OGG1, PEX3
+histone binding	3	TONSL, NCAPD3, IPO7
+nuclear body	3	TONSL, FBXL3, SETX
+site of double-strand break	3	TONSL, INIP, NABP2
+cell population proliferation	3	TXNRD1, PDS5B, BRAT1
+mitochondrion	3	TXNRD1, ARMCX3, DCK
+chromatin remodeling	3	RB1, BTAF1, TTI1
+ DNA-templated transcription	3	RB1, NUP85, OGG1
+cell differentiation	3	RB1, NR2F1, SETX
+negative regulation of DNA-templated transcription	3	RB1, BTAF1, MEN1
+endosomal transport	3	WASHC5, AP5Z1, AP5B1
+early endosome	3	WASHC5, HTT, VPS33A
+vesicle-mediated transport	3	AP5Z1, AP5B1, VPS33A
+response to ionizing radiation	3	INIP, BRAT1, NABP2
+zinc ion binding	3	ZMYM1, ERAP1, NR2F1
+centrosome	3	SPAST, TAPT1, TTC12
+axon	3	SPAST, HTT, SETX
+nuclear membrane	3	SPAST, NUP85, TEX2
+chromosome, centromeric region	3	PDS5B, PDS5A, WAPL
+chromosome	3	PDS5B, PDS5A, WAPL
+apoptotic process	3	BRAT1, DOCK1, HTT
+GTPase activator activity	3	DOCK1, EVI5L, TBC1D22B
+molecular_function	3	DOP1B, ORC5, TEX2
+ GTPase activity	3	EVI5L, FZD10, MLST8
+intracellular protein transport	3	EXOC6, VPS33A, XPOT
+G protein-coupled receptor signaling pathway	3	FZD10, GPR17, TAPT1
+ cilium assembly	3	HTT, TAPT1, TBC1D22B
+nuclear import signal receptor activity	3	IPO11, RANBP6, TNPO1
+brain development	3	MEN1, SRR, TSPAN2
+nuclear matrix	3	MEN1, OGG1, XPOT
+negative regulation of apoptotic process	3	MLST8, OGG1, SETX
+nervous system development	3	NR2F1, PPP2R5D, SETX
+protein localization to chromatin	2	TONSL, WAPL
+RNA processing	2	TFIP11, SETX
+nucleolus	2	TFIP11, SETX
+extracellular matrix	2	TFIP11, ELFN1
+kinase binding	2	RB1, HTT
+phosphoprotein binding	2	RB1, MEN1
+spermatogenesis	2	RB1, SETX
+negative regulation of DNA-binding transcription factor activity	2	RB1, MEN1
+negative regulation of cell cycle	2	RB1, MEN1
+negative regulation of epithelial cell proliferation	2	RB1, MEN1
+spindle	2	RB1, NUP85
+AP-type membrane coat adaptor complex	2	AP5Z1, AP5B1
+AP-5 adaptor complex	2	AP5Z1, AP5B1
+protein kinase binding	2	CD226, NBEAL1
+cell surface	2	CD226, FZD10
+methylated histone binding	2	NCAPD3, NCAPG2
+ chromosome segregation	2	NCAPD3, NCAPG2
+ chromosome separation	2	NCAPD3, NCAPG2
+ chromosome condensation	2	NCAPD3, NCAPG2
+condensed nuclear chromosome	2	NCAPD3, NCAPG2
+condensin complex	2	NCAPD3, NCAPG2
+SH3 domain binding	2	RUFY2, DOCK1
+metal ion binding	2	RUFY2, SMG1
+biological_process	2	RUFY2, FAM114A2
+nuclear-transcribed mRNA catabolic process, nonsense-mediated decay	2	SMG1, SMG8
+mRNA export from nucleus	2	SMG1, NUP85
+protein phosphorylation	2	SMG1, PPP4R1
+protein localization	2	ARMCX3, NBEAL1
+axonal transport of mitochondrion	2	ARMCX3, SPAST
+axon cytoplasm	2	ARMCX3, SPAST
+mitotic G2/M transition checkpoint	2	INIP, NABP2
+SOSS complex	2	INIP, NABP2
+protein dimerization activity	2	ZMYM1, SREBF2
+nucleocytoplasmic transport	2	NUP37, NUP85
+kinetochore	2	NUP37, NUP85
+nuclear pore outer ring	2	NUP37, NUP85
+microtubule binding	2	SPAST, OGG1
+ATP hydrolysis activity	2	SPAST, BTAF1
+beta-tubulin binding	2	SPAST, HTT
+mitotic cytokinesis	2	SPAST, EXOC6
+endoplasmic reticulum to Golgi vesicle-mediated transport	2	SPAST, TEX261
+membrane fission	2	SPAST, EXOC6
+lipid droplet	2	SPAST, RDH10
+mitotic sister chromatid cohesion	2	PDS5B, PDS5A
+negative regulation of cell population proliferation	2	PDS5B, MEN1
+lysosomal membrane	2	AP5B1, VPS33A
+cell migration	2	BRAT1, DOCK1
+ cell growth	2	BRAT1, MLST8
+negative regulation of chromatin binding	2	BTAF1, WAPL
+sphingolipid biosynthetic process	2	CERS5, SGPP1
+Golgi organization	2	COG6, HTT
+protein homodimerization activity	2	DCK, SRR
+phosphorylation	2	DCK, MLST8
+extracellular region	2	DERA, ERAP1
+dynein intermediate chain binding	2	DNAAF5, HTT
+Golgi to endosome transport	2	DOP1B, MON2
+extracellular space	2	ELFN1, ERAP1
+dendrite	2	ELFN1, HTT
+endoplasmic reticulum lumen	2	ERAP1, MEN1
+activation of GTPase activity	2	EVI5L, TBC1D22B
+growth cone	2	EXOC6, SETX
+cellular_component	2	FAM114A2, SMG8
+protein destabilization	2	FBXL3, HTT
+G protein-coupled receptor activity	2	FZD10, GPR17
+ actin cytoskeleton organization	2	FZD10, MLST8
+cellular response to retinoic acid	2	FZD10, SETX
+cholesterol metabolic process	2	GBA2, SREBF2
+ actin filament polymerization	2	GBA2, MLST8
+oligodendrocyte differentiation	2	GPR17, TSPAN2
+ apoptotic process	2	HTT, TEX261
+ autophagy of mitochondrion	2	HTT, SREBF2
+autophagosome	2	HTT, VPS33A
+cytoplasmic vesicle membrane	2	HTT, TMEM184A
+negative regulation of cyclin-dependent protein serine/threonine kinase activity	2	IPO7, MEN1
+protein-macromolecule adaptor activity	2	MEN1, PEX3
+MAPK cascade	2	MEN1, SETX
+ TOR signaling	2	MLST8, TTI1
+TORC1 complex	2	MLST8, TTI1
+TORC2 complex	2	MLST8, TTI1
+mitotic sister chromatid segregation	2	NCAPG2, WAPL
+RNA polymerase II cis-regulatory region sequence-specific DNA binding	2	NR2F1, SREBF2
+DNA-binding transcription repressor activity, RNA polymerase II-specific	2	NR2F1, SREBF2
+sequence-specific double-stranded DNA binding	2	NR2F1, SREBF2
+response to xenobiotic stimulus	2	OGG1, SRR
+negative regulation of DNA replication	2	PDS5A, WAPL
+lipid binding	2	PEX3, TEX2
+phosphoprotein phosphatase activity	2	PPP2R5D, PPP4R1
+protein phosphatase regulator activity	2	PPP2R5D, PPP4R1
+protein dephosphorylation	2	PPP2R5D, PPP4R1
+nuclear localization sequence binding	2	RANBP6, TNPO1
+in utero embryonic development	2	RDH10, SLC34A2
+neural crest cell development	2	RDH10, TAPT1
+intercellular bridge	2	SETX, WAPL
+cysteine-type endopeptidase activity	2	USP24, USP34
+cysteine-type deubiquitinase activity	2	USP24, USP34
+ubiquitin-dependent protein catabolic process	2	USP24, USP34
+protein deubiquitination	2	USP24, USP34
+endosome membrane	2	VAC14, VPS33A
+late endosome membrane	2	VAC14, VPS33A
+nuclear export signal receptor activity	2	XPO4, XPO5
+protein export from nucleus	2	XPO4, XPO5
+tRNA binding	2	XPO5, XPOT
+histone reader activity	1	TONSL
+chromatin organization	1	TONSL
+replication fork processing	1	TONSL
+nuclear replication fork	1	TONSL
+nucleic acid binding	1	TFIP11
+spliceosomal complex disassembly	1	TFIP11
+mRNA splicing, via spliceosome	1	TFIP11
+biomineral tissue development	1	TFIP11
+negative regulation of protein-containing complex assembly	1	TFIP11
+protection from non-homologous end joining at telomere	1	TFIP11
+negative regulation of protein binding	1	TFIP11
+negative regulation of DNA ligase activity	1	TFIP11
+negative regulation of double-strand break repair via nonhomologous end joining	1	TFIP11
+spliceosomal complex	1	TFIP11
+U2-type post-mRNA release spliceosomal complex	1	TFIP11
+catalytic step 2 spliceosome	1	TFIP11
+thioredoxin-disulfide reductase activity	1	TXNRD1
+NADPH peroxidase activity	1	TXNRD1
+FAD binding	1	TXNRD1
+mesoderm formation	1	TXNRD1
+cell redox homeostasis	1	TXNRD1
+cellular oxidant detoxification	1	TXNRD1
+fibrillar center	1	TXNRD1
+RNA polymerase II transcription regulatory region sequence-specific DNA binding	1	RB1
+transcription corepressor activity	1	RB1
+ubiquitin protein ligase binding	1	RB1
+molecular adaptor activity	1	RB1
+RNA polymerase II-specific DNA-binding transcription factor binding	1	RB1
+importin-alpha family protein binding	1	RB1
+disordered domain specific binding	1	RB1
+DNA-binding transcription factor binding	1	RB1
+tissue homeostasis	1	RB1
+chondrocyte differentiation	1	RB1
+aortic valve morphogenesis	1	RB1
+transcription by RNA polymerase II	1	RB1
+negative regulation of protein kinase activity	1	RB1
+smoothened signaling pathway	1	RB1
+Ras protein signal transduction	1	RB1
+ mitotic cell cycle	1	RB1
+negative regulation of gene expression	1	RB1
+glial cell proliferation	1	RB1
+negative regulation of cell growth	1	RB1
+sister chromatid biorientation	1	RB1
+neuron projection development	1	RB1
+heterochromatin formation	1	RB1
+cellular response to insulin stimulus	1	RB1
+maintenance of mitotic sister chromatid cohesion	1	RB1
+glial cell apoptotic process	1	RB1
+skeletal muscle cell differentiation	1	RB1
+neuron maturation	1	RB1
+enucleate erythrocyte differentiation	1	RB1
+ lipid kinase activity	1	RB1
+myoblast differentiation	1	RB1
+ macrophage differentiation	1	RB1
+ mitotic metaphase/anaphase transition	1	RB1
+negative regulation of smoothened signaling pathway	1	RB1
+digestive tract development	1	RB1
+cell morphogenesis involved in neuron differentiation	1	RB1
+epithelial cell proliferation	1	RB1
+negative regulation of inflammatory response	1	RB1
+striated muscle cell differentiation	1	RB1
+chromosome organization	1	RB1
+neuron apoptotic process	1	RB1
+ cell cycle	1	RB1
+negative regulation of glial cell proliferation	1	RB1
+protein localization to chromosome, centromeric region	1	RB1
+cellular response to xenobiotic stimulus	1	RB1
+negative regulation of protein serine/threonine kinase activity	1	RB1
+negative regulation of transcription involved in G1/S transition of mitotic cell cycle	1	RB1
+ centromere complex assembly	1	RB1
+hepatocyte apoptotic process	1	RB1
+negative regulation of cold-induced thermogenesis	1	RB1
+negative regulation of tau-protein kinase activity	1	RB1
+ extracellular matrix organization	1	RB1
+negative regulation of hepatocyte apoptotic process	1	RB1
+ collagen fibril organization	1	RB1
+negative regulation of myofibroblast differentiation	1	RB1
+negative regulation of G1/S transition of mitotic cell cycle	1	RB1
+ transcription regulatory region DNA binding	1	RB1
+negative regulation of apoptotic signaling pathway	1	RB1
+SWI/SNF complex	1	RB1
+PML body	1	RB1
+Rb-E2F complex	1	RB1
+chromatin lock complex	1	RB1
+oocyte maturation	1	WASHC5
+endosome organization	1	WASHC5
+lysosome organization	1	WASHC5
+actin filament polymerization	1	WASHC5
+protein-containing complex localization	1	WASHC5
+ Arp2/3 complex-mediated actin nucleation	1	WASHC5
+polar body extrusion after meiotic divisions	1	WASHC5
+ actin nucleation	1	WASHC5
+meiotic spindle assembly	1	WASHC5
+ vesicle size	1	WASHC5
+endosome fission	1	WASHC5
+WASH complex	1	WASHC5
+snRNA processing	1	INTS8
+ transcription elongation by RNA polymerase II	1	INTS8
+snRNA 3'-end processing	1	INTS8
+integrator complex	1	INTS8
+integrin binding	1	CD226
+cell adhesion molecule binding	1	CD226
+cytokine production	1	CD226
+ natural killer cell cytokine production	1	CD226
+ natural killer cell mediated cytotoxicity directed against tumor cell target	1	CD226
+ immunoglobulin mediated immune response	1	CD226
+cell adhesion	1	CD226
+cell recognition	1	CD226
+ type II interferon production	1	CD226
+ mast cell activation	1	CD226
+ natural killer cell mediated cytotoxicity	1	CD226
+ T cell receptor signaling pathway	1	CD226
+ Fc receptor mediated stimulatory signaling pathway	1	CD226
+external side of plasma membrane	1	CD226
+membrane raft	1	CD226
+mitotic chromosome condensation	1	NCAPD3
+meiotic chromosome condensation	1	NCAPD3
+condensed chromosome, centromeric region	1	NCAPD3
+pericentric heterochromatin	1	NCAPD3
+ endocytosis	1	RUFY2
+protein kinase activity	1	SMG1
+protein serine/threonine kinase activity	1	SMG1
+protein kinase C activity	1	SMG1
+telomeric DNA binding	1	SMG1
+protein serine kinase activity	1	SMG1
+peptidyl-serine phosphorylation	1	SMG1
+ telomere maintenance	1	SMG1
+protein autophosphorylation	1	SMG1
+phosphatidylinositol phosphate biosynthetic process	1	SMG1
+chromatoid body	1	SMG1
+mitochondrion organization	1	ARMCX3
+mitochondrial outer membrane	1	ARMCX3
+chromosome segregation	1	NUP37
+mRNA transport	1	NUP37
+microtubule severing ATPase activity	1	SPAST
+isomerase activity	1	SPAST
+alpha-tubulin binding	1	SPAST
+protein-containing complex binding	1	SPAST
+microtubule bundle formation	1	SPAST
+mitotic nuclear membrane reassembly	1	SPAST
+axonogenesis	1	SPAST
+anterograde axonal transport	1	SPAST
+metabolic process	1	SPAST
+exit from mitosis	1	SPAST
+ microtubule depolymerization	1	SPAST
+nuclear membrane reassembly	1	SPAST
+ cytokinesis	1	SPAST
+cytokinetic process	1	SPAST
+protein hexamerization	1	SPAST
+microtubule severing	1	SPAST
+mitotic spindle disassembly	1	SPAST
+protein homooligomerization	1	SPAST
+cytoskeleton-dependent cytokinesis	1	SPAST
+spindle pole	1	SPAST
+microtubule	1	SPAST
+microtubule cytoskeleton	1	SPAST
+midbody	1	SPAST
+cytoplasmic vesicle	1	SPAST
+ cell population proliferation	1	PDS5B
+K63-linked polyubiquitin modification-dependent protein binding	1	ATRIP
+DNA damage checkpoint signaling	1	ATRIP
+nucleobase-containing compound metabolic process	1	ATRIP
+ double-strand break repair	1	ATRIP
+ATR-ATRIP complex	1	ATRIP
+ protein phosphorylation	1	BRAT1
+glucose metabolic process	1	BRAT1
+mitochondrion localization	1	BRAT1
+transcription coregulator activity	1	BTAF1
+helicase activity	1	BTAF1
+ATP-dependent activity, acting on DNA	1	BTAF1
+TBP-class protein binding	1	BTAF1
+ATP-dependent chromatin remodeler activity	1	BTAF1
+DNA-templated transcription	1	BTAF1
+sphingosine N-acyltransferase activity	1	CERS5
+ceramide biosynthetic process	1	CERS5
+retrograde transport, vesicle recycling within Golgi	1	COG6
+intra-Golgi vesicle-mediated transport	1	COG6
+glycosylation	1	COG6
+Golgi transport complex	1	COG6
+trans-Golgi network membrane	1	COG6
+monooxygenase activity	1	CYP2S1
+thromboxane-A synthase activity	1	CYP2S1
+iron ion binding	1	CYP2S1
+arachidonic acid epoxygenase activity	1	CYP2S1
+retinoic acid 4-hydroxylase activity	1	CYP2S1
+oxidoreductase activity, acting on paired donors, with incorporation or reduction of molecular oxygen, reduced flavin or flavoprotein as one donor, and incorporation of one atom of oxygen	1	CYP2S1
+hydro-lyase activity	1	CYP2S1
+heme binding	1	CYP2S1
+12-hydroxyheptadecatrienoic acid synthase activity	1	CYP2S1
+hydroperoxy icosatetraenoate dehydratase activity	1	CYP2S1
+icosanoid metabolic process	1	CYP2S1
+prostaglandin metabolic process	1	CYP2S1
+xenobiotic metabolic process	1	CYP2S1
+epoxygenase P450 pathway	1	CYP2S1
+retinoic acid metabolic process	1	CYP2S1
+deoxyadenosine kinase activity	1	DCK
+deoxycytidine kinase activity	1	DCK
+deoxyguanosine kinase activity	1	DCK
+cytidine kinase activity	1	DCK
+pyrimidine nucleotide metabolic process	1	DCK
+CMP biosynthetic process	1	DCK
+dAMP salvage	1	DCK
+nucleoside phosphate biosynthetic process	1	DCK
+deoxyribose-phosphate aldolase activity	1	DERA
+pentose-phosphate shunt	1	DERA
+deoxyribonucleotide catabolic process	1	DERA
+carbohydrate catabolic process	1	DERA
+deoxyribonucleoside catabolic process	1	DERA
+deoxyribose phosphate catabolic process	1	DERA
+secretory granule lumen	1	DERA
+ficolin-1-rich granule lumen	1	DERA
+cilium movement	1	DNAAF5
+outer dynein arm assembly	1	DNAAF5
+inner dynein arm assembly	1	DNAAF5
+motile cilium	1	DNAAF5
+dynein axonemal particle	1	DNAAF5
+guanyl-nucleotide exchange factor activity	1	DOCK1
+phagocytosis, engulfment	1	DOCK1
+integrin-mediated signaling pathway	1	DOCK1
+small GTPase mediated signal transduction	1	DOCK1
+myoblast fusion	1	DOCK1
+ epithelial cell migration	1	DOCK1
+ substrate adhesion-dependent cell spreading	1	DOCK1
+guanyl-nucleotide exchange factor complex	1	DOCK1
+endoplasmic reticulum organization	1	DOP1B
+embryonic pattern specification	1	DOP1B
+cognition	1	DOP1B
+trans-Golgi network	1	DOP1B
+mannosyltransferase activity	1	DPY19L1
+protein C-linked glycosylation via 2'-alpha-mannosyl-L-tryptophan	1	DPY19L1
+nuclear inner membrane	1	DPY19L1
+protein phosphatase inhibitor activity	1	ELFN1
+synapse organization	1	ELFN1
+excitatory synapse	1	ELFN1
+endopeptidase activity	1	ERAP1
+aminopeptidase activity	1	ERAP1
+interleukin-6 receptor binding	1	ERAP1
+interleukin-1, type II receptor binding	1	ERAP1
+metalloexopeptidase activity	1	ERAP1
+peptide binding	1	ERAP1
+metalloaminopeptidase activity	1	ERAP1
+angiogenesis	1	ERAP1
+adaptive immune response	1	ERAP1
+antigen processing and presentation of peptide antigen via MHC class I	1	ERAP1
+proteolysis	1	ERAP1
+membrane protein ectodomain proteolysis	1	ERAP1
+ blood pressure	1	ERAP1
+response to bacterium	1	ERAP1
+antigen processing and presentation of endogenous peptide antigen via MHC class I	1	ERAP1
+peptide catabolic process	1	ERAP1
+ innate immune response	1	ERAP1
+fat cell differentiation	1	ERAP1
+ angiogenesis	1	ERAP1
+negative regulation of cilium assembly	1	EVI5L
+exocytosis	1	EXOC6
+Golgi to plasma membrane transport	1	EXOC6
+vesicle docking involved in exocytosis	1	EXOC6
+vesicle tethering involved in exocytosis	1	EXOC6
+exocyst	1	EXOC6
+Flemming body	1	EXOC6
+purine nucleotide binding	1	FAM114A2
+protein monoubiquitination	1	FANCA
+male meiotic nuclear division	1	FANCA
+male gonad development	1	FANCA
+female gonad development	1	FANCA
+interstrand cross-link repair	1	FANCA
+ regulatory T cell differentiation	1	FANCA
+ inflammatory response	1	FANCA
+ DNA-binding transcription factor activity	1	FANCA
+protein-containing complex assembly	1	FANCA
+ germ cell proliferation	1	FANCA
+ CD40 signaling pathway	1	FANCA
+Fanconi anaemia nuclear complex	1	FANCA
+ubiquitin-protein transferase activity	1	FBXL3
+protein ubiquitination	1	FBXL3
+SCF-dependent proteasomal ubiquitin-dependent protein catabolic process	1	FBXL3
+ circadian rhythm	1	FBXL3
+entrainment of circadian clock by photoperiod	1	FBXL3
+rhythmic process	1	FBXL3
+ubiquitin ligase complex	1	FBXL3
+SCF ubiquitin ligase complex	1	FBXL3
+Wnt-protein binding	1	FZD10
+Wnt receptor activity	1	FZD10
+neuron differentiation	1	FZD10
+negative regulation of GTPase activity	1	FZD10
+non-canonical Wnt signaling pathway	1	FZD10
+non-canonical Wnt signaling pathway via JNK cascade	1	FZD10
+ JUN kinase activity	1	FZD10
+canonical Wnt signaling pathway	1	FZD10
+galactosylceramidase activity	1	GBA2
+glucosylceramidase activity	1	GBA2
+beta-glucosidase activity	1	GBA2
+glucosyltransferase activity	1	GBA2
+steryl-beta-glucosidase activity	1	GBA2
+carbohydrate metabolic process	1	GBA2
+glucosylceramide catabolic process	1	GBA2
+glycosphingolipid metabolic process	1	GBA2
+central nervous system development	1	GBA2
+bile acid metabolic process	1	GBA2
+glycoside catabolic process	1	GBA2
+central nervous system neuron development	1	GBA2
+lipid glycosylation	1	GBA2
+ microtubule polymerization	1	GBA2
+ membrane lipid distribution	1	GBA2
+smooth endoplasmic reticulum	1	GBA2
+extrinsic component of membrane	1	GBA2
+extrinsic component of endoplasmic reticulum membrane	1	GBA2
+extrinsic component of Golgi membrane	1	GBA2
+chemokine receptor activity	1	GPR17
+receptor serine/threonine kinase binding	1	GPR17
+negative regulation of inflammatory response to antigenic stimulus	1	GPR17
+ Rho protein signal transduction	1	GPR17
+ cytosolic calcium ion concentration involved in phospholipase C-activating G protein-coupled signaling pathway	1	GPR17
+chemokine-mediated signaling pathway	1	GPR17
+unfolded protein binding	1	HEATR3
+ribosomal large subunit biogenesis	1	HEATR3
+erythrocyte maturation	1	HEATR3
+p53 binding	1	HTT
+profilin binding	1	HTT
+heat shock protein binding	1	HTT
+dynactin binding	1	HTT
+transmembrane transporter binding	1	HTT
+establishment of mitotic spindle orientation	1	HTT
+retrograde vesicle-mediated transport, Golgi to endoplasmic reticulum	1	HTT
+ inositol 1,4,5-trisphosphate-sensitive calcium-release channel activity	1	HTT
+vocal learning	1	HTT
+ phosphoprotein phosphatase activity	1	HTT
+vesicle transport along microtubule	1	HTT
+microtubule-based transport	1	HTT
+ lipophagy	1	HTT
+ CAMKK-AMPK signaling cascade	1	HTT
+ aggrephagy	1	HTT
+ cAMP-dependent protein kinase activity	1	HTT
+negative regulation of extrinsic apoptotic signaling pathway	1	HTT
+Golgi apparatus	1	HTT
+centriole	1	HTT
+inclusion body	1	HTT
+presynaptic cytosol	1	HTT
+postsynaptic cytosol	1	HTT
+ribosomal protein import into nucleus	1	IPO11
+GTPase regulator activity	1	IPO7
+SMAD binding	1	IPO7
+innate immune response	1	IPO7
+adrenergic receptor signaling pathway	1	LMBRD2
+four-way junction DNA binding	1	MEN1
+Y-form DNA binding	1	MEN1
+transcription cis-regulatory region binding	1	MEN1
+chromatin binding	1	MEN1
+double-stranded DNA binding	1	MEN1
+R-SMAD binding	1	MEN1
+mitotic cell cycle	1	MEN1
+negative regulation of protein phosphorylation	1	MEN1
+osteoblast development	1	MEN1
+type B pancreatic cell differentiation	1	MEN1
+response to UV	1	MEN1
+response to gamma radiation	1	MEN1
+negative regulation of cell-substrate adhesion	1	MEN1
+ transforming growth factor beta receptor signaling pathway	1	MEN1
+ activin receptor signaling pathway	1	MEN1
+T-helper 2 cell differentiation	1	MEN1
+negative regulation of osteoblast differentiation	1	MEN1
+transcription initiation-coupled chromatin remodeling	1	MEN1
+negative regulation of JNK cascade	1	MEN1
+decidualization	1	MEN1
+histone H3-K4 methylation	1	MEN1
+negative regulation of telomerase activity	1	MEN1
+ type B pancreatic cell proliferation	1	MEN1
+cellular response to glucose stimulus	1	MEN1
+cellular response to peptide hormone stimulus	1	MEN1
+response to transforming growth factor beta	1	MEN1
+negative regulation of cell cycle G1/S phase transition	1	MEN1
+transcription repressor complex	1	MEN1
+cleavage furrow	1	MEN1
+histone methyltransferase complex	1	MEN1
+MLL1/2 complex	1	MEN1
+MLL1 complex	1	MEN1
+protein serine/threonine kinase activator activity	1	MLST8
+cytoskeleton organization	1	MLST8
+negative regulation of autophagy	1	MLST8
+cellular response to nutrient levels	1	MLST8
+TOR signaling	1	MLST8
+TORC1 signaling	1	MLST8
+ glycolytic process	1	MLST8
+ lipid biosynthetic process	1	MLST8
+ peptidyl-tyrosine phosphorylation	1	MLST8
+cellular response to hypoxia	1	MLST8
+cellular response to osmotic stress	1	MLST8
+ pentose-phosphate shunt	1	MLST8
+single-stranded DNA binding	1	NABP2
+C-rich strand telomeric DNA binding	1	NABP2
+DNA polymerase binding	1	NABP2
+G-rich strand telomeric DNA binding	1	NABP2
+mitotic cell cycle checkpoint signaling	1	NABP2
+ telomerase activity	1	NABP2
+establishment of protein localization to telomere	1	NABP2
+ telomere capping	1	NABP2
+bHLH transcription factor binding	1	NCAPG2
+inner cell mass cell proliferation	1	NCAPG2
+erythrocyte differentiation	1	NCAPG2
+chromosome condensation	1	NCAPG2
+DNA-binding transcription factor activity	1	NR2F1
+nuclear receptor activity	1	NR2F1
+sequence-specific DNA binding	1	NR2F1
+retinoic acid-responsive element binding	1	NR2F1
+negative regulation of neuron projection development	1	NR2F1
+intracellular receptor signaling pathway	1	NR2F1
+anatomical structure development	1	NR2F1
+structural constituent of nuclear pore	1	NUP85
+lamellipodium assembly	1	NUP85
+macrophage chemotaxis	1	NUP85
+nephron development	1	NUP85
+damaged DNA binding	1	OGG1
+endonuclease activity	1	OGG1
+oxidized purine nucleobase lesion DNA N-glycosylase activity	1	OGG1
+oxidized purine DNA binding	1	OGG1
+8-oxo-7,8-dihydroguanine DNA N-glycosylase activity	1	OGG1
+class I DNA-(apurinic or apyrimidinic site) endonuclease activity	1	OGG1
+acute inflammatory response	1	OGG1
+base-excision repair	1	OGG1
+base-excision repair, AP site formation	1	OGG1
+nucleotide-excision repair	1	OGG1
+response to oxidative stress	1	OGG1
+response to radiation	1	OGG1
+response to light stimulus	1	OGG1
+response to estradiol	1	OGG1
+depurination	1	OGG1
+depyrimidination	1	OGG1
+response to ethanol	1	OGG1
+response to folic acid	1	OGG1
+cellular response to cadmium ion	1	OGG1
+negative regulation of double-strand break repair via single-strand annealing	1	OGG1
+mitochondrial matrix	1	OGG1
+nucleotide binding	1	ORC5
+DNA replication origin binding	1	ORC5
+DNA replication	1	ORC5
+DNA replication initiation	1	ORC5
+ DNA replication	1	ORC5
+origin recognition complex	1	ORC5
+nuclear origin of replication recognition complex	1	ORC5
+peroxisome organization	1	PEX3
+protein import into peroxisome membrane	1	PEX3
+peroxisome	1	PEX3
+peroxisomal membrane	1	PEX3
+protein-lipid complex	1	PEX3
+protein phosphatase activator activity	1	PPP2R5D
+ protein dephosphorylation	1	PPP2R5D
+protein phosphatase type 2A complex	1	PPP2R5D
+protein phosphatase 4 complex	1	PPP4R1
+synapse	1	RANBP6
+NAD-retinol dehydrogenase activity	1	RDH10
+oxidoreductase activity, acting on the CH-OH group of donors, NAD or NADP as acceptor	1	RDH10
+NADP-retinol dehydrogenase activity	1	RDH10
+retinoid metabolic process	1	RDH10
+metanephros development	1	RDH10
+retinoic acid biosynthetic process	1	RDH10
+visual perception	1	RDH10
+gonad development	1	RDH10
+embryonic camera-type eye development	1	RDH10
+embryonic forelimb morphogenesis	1	RDH10
+retinol metabolic process	1	RDH10
+retinal metabolic process	1	RDH10
+ear development	1	RDH10
+nose development	1	RDH10
+embryonic viscerocranium morphogenesis	1	RDH10
+primary lung bud formation	1	RDH10
+bud elongation involved in lung branching	1	RDH10
+ retinoic acid biosynthetic process	1	RDH10
+mitophagy	1	RIMOC1
+transcription termination site sequence-specific DNA binding	1	SETX
+DNA helicase activity	1	SETX
+hydrolase activity	1	SETX
+double-strand break repair	1	SETX
+DNA recombination	1	SETX
+DNA-templated transcription termination	1	SETX
+termination of RNA polymerase II transcription	1	SETX
+mRNA splice site recognition	1	SETX
+circadian rhythm	1	SETX
+fibroblast growth factor receptor signaling pathway	1	SETX
+ neuron projection development	1	SETX
+DNA duplex unwinding	1	SETX
+ RNA splicing	1	SETX
+cellular response to oxidative stress	1	SETX
+protein kinase B signaling	1	SETX
+cellular response to fibroblast growth factor stimulus	1	SETX
+ termination of DNA-templated transcription	1	SETX
+cellular response to hydrogen peroxide	1	SETX
+ DNA-templated transcription initiation	1	SETX
+ termination of RNA polymerase II transcription, poly(A)-coupled	1	SETX
+nuclear chromosome	1	SETX
+sphingosine-1-phosphate phosphatase activity	1	SGPP1
+dihydrosphingosine-1-phosphate phosphatase activity	1	SGPP1
+sphinganine-1-phosphate metabolic process	1	SGPP1
+sphingosine metabolic process	1	SGPP1
+ER to Golgi ceramide transport	1	SGPP1
+ keratinocyte differentiation	1	SGPP1
+ epidermis development	1	SGPP1
+phospholipid dephosphorylation	1	SGPP1
+extrinsic apoptotic signaling pathway	1	SGPP1
+intrinsic apoptotic signaling pathway	1	SGPP1
+sodium:phosphate symporter activity	1	SLC34A2
+sodium ion binding	1	SLC34A2
+phosphate ion binding	1	SLC34A2
+phosphate ion transport	1	SLC34A2
+protein metabolic process	1	SLC34A2
+intracellular phosphate ion homeostasis	1	SLC34A2
+sodium ion transmembrane transport	1	SLC34A2
+response to estrogen	1	SLC34A2
+sodium-dependent phosphate transport	1	SLC34A2
+brush border	1	SLC34A2
+apical plasma membrane	1	SLC34A2
+brush border membrane	1	SLC34A2
+vesicle	1	SLC34A2
+ protein kinase activity	1	SMG8
+C-8 sterol isomerase activity	1	SREBF2
+DNA-binding transcription factor activity, RNA polymerase II-specific	1	SREBF2
+E-box binding	1	SREBF2
+lipid metabolic process	1	SREBF2
+ Notch signaling pathway	1	SREBF2
+cellular response to starvation	1	SREBF2
+ cholesterol storage	1	SREBF2
+SREBP signaling pathway	1	SREBF2
+cholesterol homeostasis	1	SREBF2
+ cholesterol biosynthetic process	1	SREBF2
+cellular response to low-density lipoprotein particle stimulus	1	SREBF2
+cellular response to laminar fluid shear stress	1	SREBF2
+negative regulation of cholesterol efflux	1	SREBF2
+ miRNA transcription	1	SREBF2
+ protein targeting to mitochondrion	1	SREBF2
+ER to Golgi transport vesicle membrane	1	SREBF2
+SREBP-SCAP-Insig complex	1	SREBF2
+magnesium ion binding	1	SRR
+L-serine ammonia-lyase activity	1	SRR
+calcium ion binding	1	SRR
+D-serine ammonia-lyase activity	1	SRR
+glycine binding	1	SRR
+threonine racemase activity	1	SRR
+PDZ domain binding	1	SRR
+pyridoxal phosphate binding	1	SRR
+serine racemase activity	1	SRR
+L-serine metabolic process	1	SRR
+serine family amino acid metabolic process	1	SRR
+response to lipopolysaccharide	1	SRR
+pyruvate biosynthetic process	1	SRR
+response to morphine	1	SRR
+D-serine metabolic process	1	SRR
+D-serine biosynthetic process	1	SRR
+neuronal cell body	1	SRR
+apical part of cell	1	SRR
+growth hormone-releasing hormone receptor activity	1	TAPT1
+ossification	1	TAPT1
+cell projection organization	1	TAPT1
+embryonic skeletal system development	1	TAPT1
+cartilage development	1	TAPT1
+ cartilage development	1	TAPT1
+ bone development	1	TAPT1
+ciliary basal body	1	TAPT1
+14-3-3 protein binding	1	TBC1D22B
+sphingolipid metabolic process	1	TEX2
+lipid transport	1	TEX2
+COPII receptor activity	1	TEX261
+endocytosis	1	TEX261
+COPII-coated ER to Golgi transport vesicle	1	TEX261
+transporter activity	1	TMEM184A
+heparin binding	1	TMEM184A
+transport	1	TMEM184A
+transport vesicle membrane	1	TMEM184A
+secretory granule membrane	1	TMEM184A
+cilium	1	TNPO1
+inflammatory response	1	TSPAN2
+astrocyte development	1	TSPAN2
+microglia development	1	TSPAN2
+myelination	1	TSPAN2
+axon development	1	TSPAN2
+myelin sheath	1	TSPAN2
+sperm axoneme assembly	1	TTC12
+axonemal dynein complex assembly	1	TTC12
+protein stabilization	1	TTI1
+ DNA damage checkpoint	1	TTI1
+ASTRA complex	1	TTI1
+TTT complex	1	TTI1
+Wnt signaling pathway	1	USP34
+protein K48-linked deubiquitination	1	USP34
+ canonical Wnt signaling pathway	1	USP34
+signaling receptor activity	1	VAC14
+phosphatidylinositol biosynthetic process	1	VAC14
+ kinase activity	1	VAC14
+ postsynaptic neurotransmitter receptor internalization	1	VAC14
+PAS complex	1	VAC14
+presynaptic endosome	1	VAC14
+myosin binding	1	VEZT
+cell-cell adhesion	1	VEZT
+acrosomal vesicle	1	VEZT
+stereocilia ankle link complex	1	VEZT
+adherens junction	1	VEZT
+stereocilium membrane	1	VEZT
+endosome to lysosome transport	1	VPS33A
+platelet formation	1	VPS33A
+melanosome localization	1	VPS33A
+lysosome localization	1	VPS33A
+endosomal vesicle fusion	1	VPS33A
+ SNARE complex assembly	1	VPS33A
+ lysosomal lumen pH	1	VPS33A
+ developmental pigmentation	1	VPS33A
+autophagosome maturation	1	VPS33A
+lysosome	1	VPS33A
+clathrin-coated vesicle	1	VPS33A
+HOPS complex	1	VPS33A
+CORVET complex	1	VPS33A
+ATP-dependent protein-DNA unloader activity	1	WAPL
+negative regulation of sister chromatid cohesion	1	WAPL
+ cohesin loading	1	WAPL
+mitotic spindle	1	WAPL
+ protein export from nucleus	1	XPO4
+mRNA binding	1	XPO5
+pre-miRNA binding	1	XPO5
+RISC complex binding	1	XPO5
+RNA export from nucleus	1	XPO5
+miRNA metabolic process	1	XPO5
+pre-miRNA export from nucleus	1	XPO5
+ post-transcriptional gene silencing by RNA	1	XPO5
+RISC complex	1	XPO5
+RNA nuclear export complex	1	XPO5
+tRNA export from nucleus	1	XPOT
+tRNA re-export from nucleus	1	XPOT

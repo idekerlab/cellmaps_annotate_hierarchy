@@ -1,0 +1,74 @@
+Your response should be formatted as Markdown paragraphs
+Write a critical and concise analysis of this human protein system, describing your reasoning as you go and providing references to scientific papers.
+
+A critical goal of the analysis is to determine if this is a novel complex or if any proteins are novel members of a known complex
+
+Format with Title, Summary, and References sections.        
+Avoid overly general statements of how the proteins are involved in various cellular processes        
+Avoid repeating the goals of the analysis.
+
+What cellular components and complexes are involved in this system?
+What mechanisms and biological processes are performed by this system?
+Propose a name for the system to reflect the cellular location and function, and should be specific but brief. Do not compose an acronym. Place it as the title of your report
+Human Proteins: WASHC2A, CRACD, WASHC2C, GGNBP2, CNOT2, CNOT6L, CAPZA2, CAPZB, CD2AP, CNOT11, CNOT3, CNOT9, DCTN2, DCTN6, SH3BP1, TWF1, WASHC1.
+
+System features from GO terms: 
+protein binding: 15 proteins: WASHC2A, CRACD, WASHC2C, CNOT2, CNOT6L, CAPZA2, CAPZB, CD2AP, CNOT11, CNOT3, CNOT9, DCTN2, SH3BP1, TWF1, WASHC1
+cytosol: 15 proteins: WASHC2A, CRACD, WASHC2C, CNOT2, CNOT6L, CAPZA2, CAPZB, CNOT11, CNOT3, CNOT9, DCTN2, DCTN6, SH3BP1, TWF1, WASHC1
+nucleus: 7 proteins: GGNBP2, CNOT2, CNOT6L, CNOT11, CNOT3, CNOT9, SH3BP1
+cytoplasm: 6 proteins: GGNBP2, CNOT2, CNOT6L, CD2AP, DCTN2, TWF1
+nuclear-transcribed mRNA poly(A) tail shortening: 5 proteins: CNOT2, CNOT6L, CNOT11, CNOT3, CNOT9
+RNA-mediated gene silencing: 5 proteins: CNOT2, CNOT6L, CNOT11, CNOT3, CNOT9
+membrane: 5 proteins: CNOT2, CAPZA2, CAPZB, CNOT9, DCTN2
+CCR4-NOT complex: 5 proteins: CNOT2, CNOT6L, CNOT11, CNOT3, CNOT9
+plasma membrane: 4 proteins: WASHC2A, WASHC2C, CNOT2, CD2AP
+WASH complex: 4 proteins: WASHC2A, WASHC2C, CAPZB, WASHC1
+actin cytoskeleton: 4 proteins: CAPZA2, CAPZB, CD2AP, TWF1
+extracellular exosome: 4 proteins: CAPZA2, CAPZB, CD2AP, DCTN2
+protein transport: 3 proteins: WASHC2A, WASHC2C, WASHC1
+endosomal transport: 3 proteins: WASHC2A, WASHC2C, WASHC1
+ Arp2/3 complex-mediated actin nucleation: 3 proteins: WASHC2A, WASHC2C, WASHC1
+retrograde transport, endosome to Golgi: 3 proteins: WASHC2A, WASHC2C, WASHC1
+early endosome: 3 proteins: WASHC2A, WASHC2C, WASHC1
+early endosome membrane: 3 proteins: WASHC2A, WASHC2C, WASHC1
+P-body: 3 proteins: CNOT2, CNOT3, CNOT9
+CCR4-NOT core complex: 3 proteins: CNOT2, CNOT3, CNOT9
+actin filament binding: 3 proteins: CAPZA2, CAPZB, TWF1
+barbed-end actin filament capping: 3 proteins: CAPZA2, CAPZB, TWF1
+actin binding: 3 proteins: CAPZB, TWF1, WASHC1
+cadherin binding: 3 proteins: CAPZB, CD2AP, TWF1
+phosphatidylinositol phosphate binding: 2 proteins: WASHC2A, WASHC2C
+retromer complex binding: 2 proteins: WASHC2A, WASHC2C
+protein localization to endosome: 2 proteins: WASHC2A, WASHC2C
+nucleolus: 2 proteins: WASHC2A, WASHC2C
+intracellular membrane-bounded organelle: 2 proteins: WASHC2A, WASHC2C
+negative regulation of barbed-end actin filament capping: 2 proteins: CRACD, WASHC2C
+phosphatidylinositol-4,5-bisphosphate binding: 2 proteins: WASHC2C, TWF1
+endocytic recycling: 2 proteins: WASHC2C, WASHC1
+poly(A)-specific ribonuclease activity: 2 proteins: CNOT2, CNOT6L
+trophectodermal cell differentiation: 2 proteins: CNOT2, CNOT3
+ cytoplasmic mRNA processing body assembly: 2 proteins: CNOT2, CNOT6L
+negative regulation of intracellular estrogen receptor signaling pathway: 2 proteins: CNOT2, CNOT9
+RNA phosphodiester bond hydrolysis, exonucleolytic: 2 proteins: CNOT2, CNOT6L
+ stem cell population maintenance: 2 proteins: CNOT2, CNOT3
+protein-containing complex assembly: 2 proteins: CAPZA2, CD2AP
+brush border: 2 proteins: CAPZA2, CAPZB
+F-actin capping protein complex: 2 proteins: CAPZA2, CAPZB
+cortical cytoskeleton: 2 proteins: CAPZA2, CAPZB
+ lamellipodium assembly: 2 proteins: CAPZB, TWF1
+lamellipodium: 2 proteins: CAPZB, SH3BP1
+SH3 domain binding: 2 proteins: CD2AP, SH3BP1
+identical protein binding: 2 proteins: CD2AP, DCTN2
+actin filament organization: 2 proteins: CD2AP, SH3BP1
+cell migration: 2 proteins: CD2AP, SH3BP1
+ actin cytoskeleton organization: 2 proteins: CD2AP, SH3BP1
+negative regulation of small GTPase mediated signal transduction: 2 proteins: CD2AP, SH3BP1
+cell-cell junction: 2 proteins: CD2AP, TWF1
+cell leading edge: 2 proteins: CD2AP, SH3BP1
+vesicle: 2 proteins: CD2AP, DCTN2
+perinuclear region of cytoplasm: 2 proteins: CD2AP, TWF1
+ DNA-templated transcription: 2 proteins: CNOT3, CNOT9
+mitotic spindle organization: 2 proteins: DCTN2, DCTN6
+kinetochore: 2 proteins: DCTN2, DCTN6
+centrosome: 2 proteins: DCTN2, DCTN6
+dynactin complex: 2 proteins: DCTN2, DCTN6

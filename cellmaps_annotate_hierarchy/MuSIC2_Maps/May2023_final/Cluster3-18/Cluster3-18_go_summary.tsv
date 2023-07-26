@@ -1,0 +1,307 @@
+Feature	Number of Genes	Genes
+protein binding	27	RNF181, AGL, ARHGEF10, ARNT, DNAJB1, DNAJB6, EID2, HNRNPH1, HNRNPH2, KCTD10, KCTD13, KDM3A, LSM2, LTO1, MLF1, NICN1, POGK, RBM11, RUNX1, RUNX2, TCEAL1, TRAK1, USP11, USP7, WIZ, ZNF451, ZNF511
+nucleus	24	AGL, ARNT, DNAJB1, DNAJB6, EID2, HNRNPH1, HNRNPH2, KDM3A, LSM2, LTO1, MLF1, NPAS1, POGK, RBM11, RUNX1, RUNX2, TCEAL1, TRAK1, USP11, USP7, WIZ, ZBTB20, ZNF451, ZNF511
+nucleoplasm	20	ARNT, DNAJB1, DNAJB6, EID2, HNRNPH1, HNRNPH2, KCTD10, KCTD13, KDM3A, LSM2, NICN1, POGK, RBM11, RUNX1, RUNX2, TCEAL1, USP11, USP7, WIZ, ZBTB20
+cytosol	13	AGL, ARHGEF10, DNAJB1, DNAJB6, HNRNPH1, HNRNPH2, KCTD10, KCTD13, LSM2, RUNX2, TRAK1, USP11, USP7
+cytoplasm	11	RNF181, AGL, ARNT, DNAJB1, DNAJB6, KDM3A, LSM2, MLF1, SMTN, TRAK1, ZBTB20
+ transcription by RNA polymerase II	7	ARNT, KDM3A, NPAS1, RUNX1, RUNX2, TRAK1, WIZ
+DNA-binding transcription factor activity, RNA polymerase II-specific	6	ARNT, NPAS1, RUNX1, RUNX2, WIZ, ZNF451
+metal ion binding	5	RNF181, WIZ, ZBTB20, ZNF451, ZNF511
+chromatin	5	ARNT, KDM3A, NPAS1, RUNX1, RUNX2
+ DNA-templated transcription	5	KDM3A, MLF1, POGK, RUNX1, RUNX2
+protein ubiquitination	4	RNF181, KCTD10, KCTD13, USP7
+RNA polymerase II cis-regulatory region sequence-specific DNA binding	4	ARNT, RUNX1, RUNX2, WIZ
+nuclear body	4	ARNT, KCTD13, USP7, ZBTB20
+negative regulation of transcription by RNA polymerase II	4	DNAJB1, NPAS1, RUNX1, ZBTB20
+DNA binding	4	DNAJB6, MLF1, POGK, ZNF511
+negative regulation of DNA-templated transcription	4	DNAJB6, EID2, NPAS1, RUNX2
+membrane	4	DNAJB6, HNRNPH1, HNRNPH2, KDM3A
+RNA binding	4	FLYWCH2, HNRNPH1, HNRNPH2, LSM2
+ubiquitin-protein transferase activity	3	RNF181, KCTD10, KCTD13
+actin cytoskeleton organization	3	ARHGEF10, DNAJB6, SMTN
+DNA-binding transcription factor activity	3	ARNT, NPAS1, RUNX2
+sequence-specific double-stranded DNA binding	3	ARNT, RUNX2, ZBTB20
+cell differentiation	3	ARNT, EID2, RBM11
+transcription corepressor activity	3	DNAJB1, EID2, ZNF451
+identical protein binding	3	HNRNPH1, KCTD10, KCTD13
+ubiquitin-dependent protein catabolic process	3	KCTD10, USP11, USP7
+protein domain specific binding	3	KCTD13, MLF1, RUNX2
+protein homodimerization activity	2	ARNT, RBM11
+sequence-specific DNA binding	2	ARNT, ZNF451
+protein heterodimerization activity	2	ARNT, NPAS1
+ glycolytic process	2	ARNT, ZBTB20
+ATPase activator activity	2	DNAJB1, DNAJB6
+Hsp70 protein binding	2	DNAJB1, DNAJB6
+protein folding chaperone	2	DNAJB1, DNAJB6
+unfolded protein binding	2	DNAJB1, DNAJB6
+protein-folding chaperone binding	2	DNAJB1, DNAJB6
+transcription regulator inhibitor activity	2	DNAJB1, ZNF451
+negative regulation of inclusion body assembly	2	DNAJB1, DNAJB6
+ cellular response to heat	2	DNAJB1, DNAJB6
+postsynaptic density	2	DNAJB1, HNRNPH2
+extracellular exosome	2	DNAJB1, WIZ
+perinuclear region of cytoplasm	2	DNAJB6, MLF1
+muscle organ development	2	EID2, SMTN
+negative regulation of transforming growth factor beta receptor signaling pathway	2	EID2, ZNF451
+cellular_component	2	FLYWCH2, LTO1
+poly(U) RNA binding	2	HNRNPH1, RBM11
+mRNA splicing, via spliceosome	2	HNRNPH1, LSM2
+ RNA splicing	2	HNRNPH1, HNRNPH2
+catalytic step 2 spliceosome	2	HNRNPH1, LSM2
+ribonucleoprotein complex	2	HNRNPH1, HNRNPH2
+negative regulation of Rho protein signal transduction	2	KCTD10, KCTD13
+proteasome-mediated ubiquitin-dependent protein catabolic process	2	KCTD10, KCTD13
+protein homooligomerization	2	KCTD10, KCTD13
+Cul3-RING ubiquitin ligase complex	2	KCTD10, KCTD13
+small GTPase binding	2	KCTD13, LSM2
+chromatin DNA binding	2	KDM3A, RUNX2
+DNA-templated transcription	2	KDM3A, MLF1
+ signal transduction by p53 class mediator	2	MLF1, USP7
+RNA polymerase II transcription regulatory region sequence-specific DNA binding	2	NPAS1, RUNX1
+transcription cis-regulatory region binding	2	RUNX1, ZBTB20
+DNA-binding transcription activator activity, RNA polymerase II-specific	2	RUNX1, RUNX2
+ATP binding	2	RUNX1, RUNX2
+hemopoiesis	2	RUNX1, RUNX2
+neuron differentiation	2	RUNX1, RUNX2
+ cell differentiation	2	RUNX1, RUNX2
+negative regulation of gene expression	2	TCEAL1, ZBTB20
+transcription corepressor binding	2	USP11, WIZ
+cysteine-type endopeptidase activity	2	USP11, USP7
+cysteine-type deubiquitinase activity	2	USP11, USP7
+protein deubiquitination	2	USP11, USP7
+chromosome	2	USP11, USP7
+protein stabilization	2	USP7, WIZ
+PML body	2	USP7, ZNF451
+ubiquitin protein ligase activity	1	RNF181
+protein autoubiquitination	1	RNF181
+glycogen debranching enzyme activity	1	AGL
+4-alpha-glucanotransferase activity	1	AGL
+amylo-alpha-1,6-glucosidase activity	1	AGL
+polysaccharide binding	1	AGL
+polyubiquitin modification-dependent protein binding	1	AGL
+beta-maltose 4-alpha-glucanotransferase activity	1	AGL
+glycogen biosynthetic process	1	AGL
+glycogen catabolic process	1	AGL
+response to nutrient	1	AGL
+response to glucocorticoid	1	AGL
+extracellular region	1	AGL
+inclusion body	1	AGL
+sarcoplasmic reticulum	1	AGL
+secretory granule lumen	1	AGL
+isoamylase complex	1	AGL
+ficolin-1-rich granule lumen	1	AGL
+guanyl-nucleotide exchange factor activity	1	ARHGEF10
+kinesin binding	1	ARHGEF10
+myelination in peripheral nervous system	1	ARHGEF10
+ small GTPase mediated signal transduction	1	ARHGEF10
+centrosome duplication	1	ARHGEF10
+ stress fiber assembly	1	ARHGEF10
+mitotic spindle assembly	1	ARHGEF10
+activation of GTPase activity	1	ARHGEF10
+centrosome	1	ARHGEF10
+cis-regulatory region sequence-specific DNA binding	1	ARNT
+nuclear receptor activity	1	ARNT
+aryl hydrocarbon receptor binding	1	ARNT
+RNA polymerase II-specific DNA-binding transcription factor binding	1	ARNT
+response to hypoxia	1	ARNT
+embryonic placenta development	1	ARNT
+ endothelial cell proliferation	1	ARNT
+ vascular endothelial growth factor production	1	ARNT
+intracellular receptor signaling pathway	1	ARNT
+ vascular endothelial growth factor receptor signaling pathway	1	ARNT
+ protein sumoylation	1	ARNT
+ transcription from RNA polymerase II promoter in response to oxidative stress	1	ARNT
+ erythrocyte differentiation	1	ARNT
+ hormone biosynthetic process	1	ARNT
+negative regulation of inflammatory response	1	ARNT
+aryl hydrocarbon receptor complex	1	ARNT
+nuclear aryl hydrocarbon receptor complex	1	ARNT
+RNA polymerase II transcription regulator complex	1	ARNT
+cadherin binding	1	DNAJB1
+ATPase binding	1	DNAJB1
+response to unfolded protein	1	DNAJB1
+forebrain development	1	DNAJB1
+ ATP-dependent activity	1	DNAJB1
+cellular response to heat	1	DNAJB1
+chaperone cofactor-dependent protein refolding	1	DNAJB1
+nucleolus	1	DNAJB1
+neuronal cell body	1	DNAJB1
+dendritic spine	1	DNAJB1
+sperm head	1	DNAJB1
+glutamatergic synapse	1	DNAJB1
+heat shock protein binding	1	DNAJB6
+protein folding	1	DNAJB6
+extracellular matrix organization	1	DNAJB6
+ protein localization	1	DNAJB6
+protein localization to nucleus	1	DNAJB6
+negative regulation of cysteine-type endopeptidase activity involved in apoptotic process	1	DNAJB6
+intermediate filament organization	1	DNAJB6
+chorio-allantoic fusion	1	DNAJB6
+syncytiotrophoblast cell differentiation involved in labyrinthine layer development	1	DNAJB6
+chorion development	1	DNAJB6
+chaperone-mediated protein folding	1	DNAJB6
+Z disc	1	DNAJB6
+SMAD binding	1	EID2
+transforming growth factor beta receptor complex assembly	1	EID2
+SMAD protein complex assembly	1	EID2
+ transforming growth factor beta receptor signaling pathway	1	EID2
+ cell population proliferation	1	EID2
+biological_process	1	FLYWCH2
+RNA processing	1	HNRNPH1
+Notch binding	1	KCTD10
+cell migration	1	KCTD13
+stress fiber assembly	1	KCTD13
+ DNA replication	1	KCTD13
+ synaptic transmission	1	KCTD13
+neural precursor cell proliferation	1	KCTD13
+transcription coregulator activity	1	KDM3A
+iron ion binding	1	KDM3A
+histone H3K9 demethylase activity	1	KDM3A
+nuclear androgen receptor binding	1	KDM3A
+histone H3K9me/H3K9me2 demethylase activity	1	KDM3A
+chromatin remodeling	1	KDM3A
+spermatid nucleus elongation	1	KDM3A
+hormone-mediated signaling pathway	1	KDM3A
+androgen receptor signaling pathway	1	KDM3A
+histone H3-K9 demethylation	1	KDM3A
+formaldehyde biosynthetic process	1	KDM3A
+ cold-induced thermogenesis	1	KDM3A
+cellular response to leukemia inhibitory factor	1	KDM3A
+ stem cell population maintenance	1	KDM3A
+ stem cell differentiation	1	KDM3A
+histone deacetylase complex	1	KDM3A
+male germ cell nucleus	1	KDM3A
+U6 snRNA binding	1	LSM2
+spliceosomal tri-snRNP complex assembly	1	LSM2
+mRNA catabolic process	1	LSM2
+P-body	1	LSM2
+U6 snRNP	1	LSM2
+U4/U6 x U5 tri-snRNP complex	1	LSM2
+U2-type precatalytic spliceosome	1	LSM2
+precatalytic spliceosome	1	LSM2
+Lsm2-8 complex	1	LSM2
+Lsm1-7-Pat1 complex	1	LSM2
+telomere maintenance	1	LTO1
+translational initiation	1	LTO1
+ribosomal large subunit biogenesis	1	LTO1
+protein maturation by [4Fe-4S] cluster transfer	1	LTO1
+myeloid progenitor cell differentiation	1	MLF1
+cell cycle	1	MLF1
+ cell cycle G1/S phase transition	1	MLF1
+cilium	1	MLF1
+ciliary basal body	1	MLF1
+microtubule	1	NICN1
+startle response	1	NPAS1
+central nervous system development	1	NPAS1
+maternal behavior	1	NPAS1
+single-stranded RNA binding	1	RBM11
+ alternative mRNA splicing, via spliceosome	1	RBM11
+mRNA processing	1	RBM11
+RNA splicing	1	RBM11
+cellular response to oxidative stress	1	RBM11
+nuclear speck	1	RBM11
+myeloid leukocyte differentiation	1	RUNX1
+ plasminogen activation	1	RUNX1
+ granulocyte differentiation	1	RUNX1
+ interleukin-2 production	1	RUNX1
+ collagen biosynthetic process	1	RUNX1
+negative regulation of CD4-positive, alpha-beta T cell differentiation	1	RUNX1
+ CD8-positive, alpha-beta T cell differentiation	1	RUNX1
+ angiogenesis	1	RUNX1
+peripheral nervous system neuron development	1	RUNX1
+ cardiac muscle cell proliferation	1	RUNX1
+cardiac muscle tissue regeneration	1	RUNX1
+hematopoietic stem cell proliferation	1	RUNX1
+ extracellular matrix organization	1	RUNX1
+ connective tissue replacement	1	RUNX1
+core-binding factor complex	1	RUNX1
+intracellular membrane-bounded organelle	1	RUNX1
+bHLH transcription factor binding	1	RUNX2
+ossification	1	RUNX2
+osteoblast differentiation	1	RUNX2
+endochondral ossification	1	RUNX2
+osteoblast fate commitment	1	RUNX2
+chondrocyte development	1	RUNX2
+osteoblast development	1	RUNX2
+smoothened signaling pathway	1	RUNX2
+gene expression	1	RUNX2
+ gene expression	1	RUNX2
+T cell differentiation	1	RUNX2
+ ossification	1	RUNX2
+BMP signaling pathway	1	RUNX2
+ chondrocyte differentiation	1	RUNX2
+response to L-ascorbic acid	1	RUNX2
+embryonic forelimb morphogenesis	1	RUNX2
+ligamentous ossification	1	RUNX2
+ fibroblast growth factor receptor signaling pathway	1	RUNX2
+odontogenesis of dentin-containing tooth	1	RUNX2
+ odontogenesis of dentin-containing tooth	1	RUNX2
+ osteoblast differentiation	1	RUNX2
+negative regulation of smoothened signaling pathway	1	RUNX2
+cell maturation	1	RUNX2
+embryonic cranial skeleton morphogenesis	1	RUNX2
+stem cell differentiation	1	RUNX2
+epithelial cell proliferation	1	RUNX2
+ epithelial cell proliferation	1	RUNX2
+SMAD protein signal transduction	1	RUNX2
+cellular response to BMP stimulus	1	RUNX2
+stem cell proliferation	1	RUNX2
+ transcription from RNA polymerase II promoter involved in cellular response to chemical stimulus	1	RUNX2
+response to sodium phosphate	1	RUNX2
+ stem cell proliferation	1	RUNX2
+transcription regulator complex	1	RUNX2
+actin binding	1	SMTN
+structural constituent of muscle	1	SMTN
+smooth muscle contraction	1	SMTN
+microtubule organizing center	1	SMTN
+cytoskeleton	1	SMTN
+actin cytoskeleton	1	SMTN
+filamentous actin	1	SMTN
+myosin binding	1	TRAK1
+GABA receptor binding	1	TRAK1
+protein O-linked glycosylation	1	TRAK1
+protein targeting	1	TRAK1
+endosome to lysosome transport	1	TRAK1
+neurogenesis	1	TRAK1
+vesicle transport along microtubule	1	TRAK1
+mitochondrion distribution	1	TRAK1
+anterograde axonal transport of mitochondrion	1	TRAK1
+mitochondrion	1	TRAK1
+early endosome	1	TRAK1
+cell cortex	1	TRAK1
+dendrite	1	TRAK1
+mitochondrial membrane	1	TRAK1
+axon cytoplasm	1	TRAK1
+p53 binding	1	USP7
+deubiquitinase activity	1	USP7
+K48-linked deubiquitinase activity	1	USP7
+transcription-coupled nucleotide-excision repair	1	USP7
+ protein stability	1	USP7
+negative regulation of NF-kappaB transcription factor activity	1	USP7
+negative regulation of proteasomal ubiquitin-dependent protein catabolic process	1	USP7
+monoubiquitinated protein deubiquitination	1	USP7
+ circadian rhythm	1	USP7
+negative regulation of gene expression via CpG island methylation	1	USP7
+negative regulation of gluconeogenesis	1	USP7
+rhythmic process	1	USP7
+ DNA-binding transcription factor activity	1	USP7
+ DNA demethylation	1	USP7
+ telomere capping	1	USP7
+ retrograde transport, endosome to Golgi	1	USP7
+protein-containing complex	1	USP7
+protein-containing complex binding	1	WIZ
+histone methyltransferase binding	1	WIZ
+ nuclear cell cycle DNA replication	1	WIZ
+midbody	1	WIZ
+DNA-binding transcription repressor activity, RNA polymerase II-specific	1	ZBTB20
+ cytokine production	1	ZBTB20
+ immune system process	1	ZBTB20
+ interferon-beta production	1	ZBTB20
+ interleukin-6 production	1	ZBTB20
+ tumor necrosis factor production	1	ZBTB20
+ lipid biosynthetic process	1	ZBTB20
+lipid homeostasis	1	ZBTB20
+cellular response to glucose stimulus	1	ZBTB20
+SUMO ligase activity	1	ZNF451
+protein sumoylation	1	ZNF451
+negative regulation of transcription initiation by RNA polymerase II	1	ZNF451

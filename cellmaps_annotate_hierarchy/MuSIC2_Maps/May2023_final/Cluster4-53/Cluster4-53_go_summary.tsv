@@ -1,0 +1,43 @@
+Feature	Number of Genes	Genes
+protein binding	4	SELENOF, ADAMTS12, CERCAM, ZNF330
+endoplasmic reticulum lumen	2	SELENOF, CERCAM
+metal ion binding	2	ADAMTS12, ZNF330
+thioredoxin peroxidase activity	1	SELENOF
+selenium binding	1	SELENOF
+oxidoreductase activity	1	SELENOF
+sperm DNA condensation	1	SELENOF
+'de novo' post-translational protein folding	1	SELENOF
+cellular oxidant detoxification	1	SELENOF
+metalloendopeptidase activity	1	ADAMTS12
+chondrocyte differentiation	1	ADAMTS12
+proteolysis	1	ADAMTS12
+cell-matrix adhesion	1	ADAMTS12
+cell migration	1	ADAMTS12
+proteoglycan catabolic process	1	ADAMTS12
+extracellular matrix organization	1	ADAMTS12
+collagen fibril organization	1	ADAMTS12
+negative regulation of chondrocyte differentiation	1	ADAMTS12
+ossification involved in bone maturation	1	ADAMTS12
+ inflammatory response	1	ADAMTS12
+proteolysis involved in protein catabolic process	1	ADAMTS12
+cellular response to interleukin-1	1	ADAMTS12
+cellular response to tumor necrosis factor	1	ADAMTS12
+cellular response to BMP stimulus	1	ADAMTS12
+ endothelial tube morphogenesis	1	ADAMTS12
+negative regulation of hepatocyte growth factor receptor signaling pathway	1	ADAMTS12
+negative regulation of cellular response to vascular endothelial growth factor stimulus	1	ADAMTS12
+negative regulation of cellular response to hepatocyte growth factor stimulus	1	ADAMTS12
+extracellular region	1	ADAMTS12
+extracellular matrix	1	ADAMTS12
+identical protein binding	1	CERCAM
+procollagen galactosyltransferase activity	1	CERCAM
+cell adhesion	1	CERCAM
+leukocyte cell-cell adhesion	1	CERCAM
+plasma membrane	1	CERCAM
+zinc ion binding	1	ZNF330
+biological_process	1	ZNF330
+chromosome, centromeric region	1	ZNF330
+nucleus	1	ZNF330
+nucleoplasm	1	ZNF330
+nucleolus	1	ZNF330
+midbody	1	ZNF330

@@ -1,0 +1,361 @@
+Feature	Number of Genes	Genes
+protein binding	26	ASPH, ATP2A1, BCAP31, CALR, CALU, CHM, CYFIP2, DNAJB11, ESYT1, FKBP8, GCG, GDAP2, IKBIP, KTN1, LRRC59, NSDHL, P4HB, PDIA6, RCN1, SLC39A7, SMAP2, SOAT1, VAPA, VAPB, VIP, ZSCAN21
+endoplasmic reticulum	20	ASPH, BCAP31, CALR, CALU, DNAJB11, ESYT1, FKBP8, IKBIP, KTN1, LRRC59, MOGS, NSDHL, P4HB, PDIA6, RCN1, SLC39A7, SOAT1, STC2, VAPA, VAPB
+endoplasmic reticulum membrane	17	ASPH, ATP2A1, BCAP31, CALR, CALU, ESYT1, FKBP8, IKBIP, KTN1, LRRC59, MOGS, NSDHL, PDIA6, SLC39A7, SOAT1, VAPA, VAPB
+membrane	14	ATP2A1, BCAP31, CALR, CALU, CYFIP2, DNAJB11, ESYT1, FKBP8, IKBIP, KTN1, LRRC59, MOGS, SLC39A7, SOAT1
+cytosol	9	BCAP31, CALR, CHM, CYFIP2, FKBP8, P4HB, PDIA6, SMAP2, VAPA
+endoplasmic reticulum lumen	9	CALR, CALU, DNAJB11, GCG, KTN1, P4HB, PDIA6, RCN1, STC2
+plasma membrane	8	ASPH, BCAP31, ESYT1, GCG, KTN1, PDIA6, VAPA, VAPB
+cytoplasm	7	CALR, CHM, CYFIP2, KCTD20, LRRC59, SMAP2, VAPB
+calcium ion binding	6	ASPH, ATP2A1, CALR, CALU, ESYT1, RCN1
+protein folding	6	CALR, DNAJB11, FKBP8, MOGS, P4HB, PDIA6
+extracellular region	5	CALR, CALU, GCG, P4HB, VIP
+extracellular space	5	CALR, DNAJB11, GCG, PDIA6, STC2
+nucleus	5	CALR, CHM, CYFIP2, DNAJB11, ZSCAN21
+Golgi apparatus	5	CALR, CALU, SLC39A7, STC2, VAPB
+extracellular exosome	5	CALR, CYFIP2, MOGS, P4HB, PDIA6
+intracellular calcium ion homeostasis	4	ATP2A1, CALR, STC2, VAPB
+response to endoplasmic reticulum stress	4	ATP2A1, BCAP31, P4HB, PDIA6
+endoplasmic reticulum to Golgi vesicle-mediated transport	4	BCAP31, P4HB, VAPA, VAPB
+RNA binding	4	CALR, KTN1, LRRC59, P4HB
+perinuclear region of cytoplasm	4	CALR, CYFIP2, STC2, VAPA
+cadherin binding	4	KTN1, LRRC59, VAPA, VAPB
+protein homodimerization activity	3	ATP2A1, STC2, VAPB
+mitochondrion	3	ATP2A1, BCAP31, FKBP8
+apoptotic process	3	BCAP31, CYFIP2, FKBP8
+spermatogenesis	3	BCAP31, CALR, ZSCAN21
+protein folding in endoplasmic reticulum	3	CALR, P4HB, VAPA
+melanosome	3	CALU, P4HB, PDIA6
+endoplasmic reticulum chaperone complex	3	DNAJB11, P4HB, PDIA6
+identical protein binding	3	ESYT1, FKBP8, GCG
+metal ion binding	3	FKBP8, SMAP2, ZSCAN21
+negative regulation of apoptotic process	3	FKBP8, GCG, VIP
+hormone activity	3	GCG, STC2, VIP
+enzyme binding	3	P4HB, STC2, VAPB
+protein heterodimerization activity	3	P4HB, VAPA, VAPB
+ proteolysis	2	ASPH, CYFIP2
+activation of cysteine-type endopeptidase activity	2	ASPH, CYFIP2
+sarcoplasmic reticulum membrane	2	ASPH, ATP2A1
+negative regulation of endoplasmic reticulum calcium ion concentration	2	ATP2A1, BCAP31
+ mitochondrial calcium ion concentration	2	ATP2A1, BCAP31
+Golgi membrane	2	BCAP31, VAPA
+lipid droplet	2	BCAP31, NSDHL
+endoplasmic reticulum-Golgi intermediate compartment membrane	2	BCAP31, CALR
+lumenal side of endoplasmic reticulum membrane	2	BCAP31, CALR
+integrin binding	2	CALR, P4HB
+protein folding chaperone	2	CALR, FKBP8
+unfolded protein binding	2	CALR, DNAJB11
+ DNA-templated transcription	2	CALR, ZSCAN21
+ cell population proliferation	2	CALR, VIP
+ gene expression	2	CALR, FKBP8
+ substrate adhesion-dependent cell spreading	2	CALR, P4HB
+nuclear envelope	2	CALR, LRRC59
+focal adhesion	2	CALR, P4HB
+external side of plasma membrane	2	CALR, P4HB
+sarcoplasmic reticulum lumen	2	CALR, CALU
+GTPase activator activity	2	CHM, SMAP2
+small GTPase binding	2	CHM, CYFIP2
+neuron projection	2	CYFIP2, VIP
+signaling receptor binding	2	DNAJB11, GCG
+phospholipid transport	2	ESYT1, VAPA
+endoplasmic reticulum-plasma membrane tethering	2	ESYT1, VAPB
+smoothened signaling pathway	2	FKBP8, NSDHL
+camera-type eye development	2	FKBP8, RCN1
+protein-containing complex	2	FKBP8, P4HB
+G protein-coupled receptor signaling pathway	2	GCG, VIP
+adenylate cyclase-activating G protein-coupled receptor signaling pathway	2	GCG, VIP
+cholesterol metabolic process	2	NSDHL, SOAT1
+protein disulfide isomerase activity	2	P4HB, PDIA6
+protein-disulfide reductase activity	2	P4HB, PDIA6
+cellular response to hypoxia	2	P4HB, STC2
+endoplasmic reticulum-Golgi intermediate compartment	2	P4HB, PDIA6
+nucleoplasm	2	SLC39A7, SMAP2
+endoplasmic reticulum unfolded protein response	2	STC2, VAPB
+microtubule binding	2	VAPA, VAPB
+FFAT motif binding	2	VAPA, VAPB
+endoplasmic reticulum organization	2	VAPA, VAPB
+COPII-coated vesicle budding	2	VAPA, VAPB
+endoplasmic reticulum exit site	2	VAPA, VAPB
+structural molecule activity	1	ASPH
+structural constituent of muscle	1	ASPH
+electron transfer activity	1	ASPH
+peptidyl-aspartic acid 3-dioxygenase activity	1	ASPH
+muscle contraction	1	ASPH
+pattern specification process	1	ASPH
+cell population proliferation	1	ASPH
+negative regulation of cell population proliferation	1	ASPH
+electron transport chain	1	ASPH
+ protein stability	1	ASPH
+limb morphogenesis	1	ASPH
+peptidyl-aspartic acid hydroxylation	1	ASPH
+roof of mouth development	1	ASPH
+face morphogenesis	1	ASPH
+ protein depolymerization	1	ASPH
+cortical endoplasmic reticulum	1	ASPH
+P-type calcium transporter activity	1	ATP2A1
+ATP binding	1	ATP2A1
+ATP hydrolysis activity	1	ATP2A1
+calcium-dependent ATPase activity	1	ATP2A1
+calcium ion transport	1	ATP2A1
+apoptotic mitochondrial changes	1	ATP2A1
+ fast-twitch skeletal muscle fiber contraction	1	ATP2A1
+ endoplasmic reticulum calcium ion concentration	1	ATP2A1
+monoatomic ion transmembrane transport	1	ATP2A1
+maintenance of mitochondrion location	1	ATP2A1
+intrinsic apoptotic signaling pathway in response to endoplasmic reticulum stress	1	ATP2A1
+calcium ion import	1	ATP2A1
+calcium ion transmembrane transport	1	ATP2A1
+relaxation of skeletal muscle	1	ATP2A1
+ cardiac muscle cell contraction	1	ATP2A1
+ ATPase-coupled calcium transmembrane transporter activity	1	ATP2A1
+ calcium ion import into sarcoplasmic reticulum	1	ATP2A1
+ cardiac conduction	1	ATP2A1
+calcium ion import into sarcoplasmic reticulum	1	ATP2A1
+sarcoplasmic reticulum	1	ATP2A1
+platelet dense tubular network membrane	1	ATP2A1
+calcium channel complex	1	ATP2A1
+MHC class I protein binding	1	BCAP31
+protein-containing complex binding	1	BCAP31
+protein targeting to mitochondrion	1	BCAP31
+ cytosolic calcium ion concentration	1	BCAP31
+calcium-mediated signaling using intracellular calcium source	1	BCAP31
+ cysteine-type endopeptidase activity involved in apoptotic process	1	BCAP31
+protein localization to endoplasmic reticulum exit site	1	BCAP31
+ ER-associated ubiquitin-dependent protein catabolic process	1	BCAP31
+ retrograde protein transport, ER to cytosol	1	BCAP31
+ intrinsic apoptotic signaling pathway	1	BCAP31
+clathrin-coated vesicle	1	BCAP31
+Golgi cisterna membrane	1	BCAP31
+mitochondria-associated endoplasmic reticulum membrane	1	BCAP31
+perinuclear endoplasmic reticulum	1	BCAP31
+complement component C1q complex binding	1	CALR
+DNA binding	1	CALR
+mRNA binding	1	CALR
+nuclear export signal receptor activity	1	CALR
+iron ion binding	1	CALR
+zinc ion binding	1	CALR
+carbohydrate binding	1	CALR
+ubiquitin protein ligase binding	1	CALR
+peptide binding	1	CALR
+hormone binding	1	CALR
+nuclear androgen receptor binding	1	CALR
+protein-folding chaperone binding	1	CALR
+negative regulation of transcription by RNA polymerase II	1	CALR
+peptide antigen assembly with MHC class I protein complex	1	CALR
+protein export from nucleus	1	CALR
+response to xenobiotic stimulus	1	CALR
+ endothelial cell migration	1	CALR
+negative regulation of translation	1	CALR
+protein maturation by protein folding	1	CALR
+ubiquitin-dependent ERAD pathway	1	CALR
+cortical actin cytoskeleton organization	1	CALR
+response to estradiol	1	CALR
+negative regulation of intracellular steroid hormone receptor signaling pathway	1	CALR
+response to testosterone	1	CALR
+protein localization to nucleus	1	CALR
+ meiotic nuclear division	1	CALR
+glucocorticoid receptor signaling pathway	1	CALR
+ apoptotic process	1	CALR
+negative regulation of neuron differentiation	1	CALR
+ cell cycle	1	CALR
+negative regulation of DNA-templated transcription	1	CALR
+negative regulation of retinoic acid receptor signaling pathway	1	CALR
+ phagocytosis	1	CALR
+protein stabilization	1	CALR
+sequestering of calcium ion	1	CALR
+cardiac muscle cell differentiation	1	CALR
+selective autophagy	1	CALR
+cellular response to electrical stimulus	1	CALR
+cellular response to lithium ion	1	CALR
+cellular senescence	1	CALR
+cellular response to virus	1	CALR
+negative regulation of trophoblast cell migration	1	CALR
+ NIK/NF-kappaB signaling	1	CALR
+response to glycoside	1	CALR
+ dendritic cell chemotaxis	1	CALR
+acrosomal vesicle	1	CALR
+smooth endoplasmic reticulum	1	CALR
+polysome	1	CALR
+cell surface	1	CALR
+phagocytic vesicle membrane	1	CALR
+MHC class I peptide loading complex	1	CALR
+cytolytic granule	1	CALR
+endoplasmic reticulum quality control compartment	1	CALR
+cortical granule	1	CALR
+collagen-containing extracellular matrix	1	CALR
+endocytic vesicle lumen	1	CALR
+biological_process	1	CALU
+Rab geranylgeranyltransferase activity	1	CHM
+GDP-dissociation inhibitor activity	1	CHM
+protein targeting to membrane	1	CHM
+small GTPase mediated signal transduction	1	CHM
+visual perception	1	CHM
+vesicle-mediated transport	1	CHM
+protein geranylgeranylation	1	CHM
+Rab-protein geranylgeranyltransferase complex	1	CHM
+RNA 7-methylguanosine cap binding	1	CYFIP2
+cell morphogenesis	1	CYFIP2
+axon guidance	1	CYFIP2
+cell projection assembly	1	CYFIP2
+ actin filament polymerization	1	CYFIP2
+ neurotrophin TRK receptor signaling pathway	1	CYFIP2
+dendrite extension	1	CYFIP2
+cell-cell adhesion	1	CYFIP2
+SCAR complex	1	CYFIP2
+synapse	1	CYFIP2
+misfolded protein binding	1	DNAJB11
+mRNA modification	1	DNAJB11
+ ATP-dependent activity	1	DNAJB11
+negative regulation of neurogenesis	1	DNAJB11
+protein maturation	1	DNAJB11
+protein folding chaperone complex	1	DNAJB11
+calcium-dependent phospholipid binding	1	ESYT1
+phosphatidylethanolamine binding	1	ESYT1
+phosphatidylcholine binding	1	ESYT1
+phosphatidylinositol binding	1	ESYT1
+phospholipid transfer activity	1	ESYT1
+intermembrane lipid transfer	1	ESYT1
+peptidyl-prolyl cis-trans isomerase activity	1	FKBP8
+calmodulin binding	1	FKBP8
+disordered domain specific binding	1	FKBP8
+negative regulation of protein phosphorylation	1	FKBP8
+dorsal/ventral neural tube patterning	1	FKBP8
+BMP signaling pathway	1	FKBP8
+ BMP signaling pathway	1	FKBP8
+multicellular organism growth	1	FKBP8
+intracellular signal transduction	1	FKBP8
+neuron fate specification	1	FKBP8
+protein localization to mitochondrion	1	FKBP8
+ autophagy of mitochondrion	1	FKBP8
+mitochondrial envelope	1	FKBP8
+endomembrane system	1	FKBP8
+mitochondrial membrane	1	FKBP8
+glucagon receptor binding	1	GCG
+gluconeogenesis	1	GCG
+adenylate cyclase-modulating G protein-coupled receptor signaling pathway	1	GCG
+feeding behavior	1	GCG
+protein kinase A signaling	1	GCG
+ peptidyl-threonine phosphorylation	1	GCG
+response to activity	1	GCG
+ protein binding	1	GCG
+ peptidyl-serine phosphorylation	1	GCG
+ insulin secretion involved in cellular response to glucose stimulus	1	GCG
+glucose homeostasis	1	GCG
+ gluconeogenesis	1	GCG
+ protein kinase activity	1	GCG
+ insulin secretion	1	GCG
+ histone H3-K4 methylation	1	GCG
+ ERK1 and ERK2 cascade	1	GCG
+cellular response to glucagon stimulus	1	GCG
+ calcium ion import	1	GCG
+negative regulation of execution phase of apoptosis	1	GCG
+secretory granule lumen	1	GCG
+response to retinoic acid	1	GDAP2
+lysosomal membrane	1	GDAP2
+response to X-ray	1	IKBIP
+ phosphorylation	1	KCTD20
+kinesin binding	1	KTN1
+microtubule-based movement	1	KTN1
+protein transport	1	KTN1
+mitochondrial nucleoid	1	LRRC59
+intracellular membrane-bounded organelle	1	LRRC59
+Glc3Man9GlcNAc2 oligosaccharide glucosidase activity	1	MOGS
+glucosidase activity	1	MOGS
+protein N-linked glycosylation	1	MOGS
+oligosaccharide metabolic process	1	MOGS
+viral protein processing	1	MOGS
+C-3 sterol dehydrogenase (C-4 sterol decarboxylase) activity	1	NSDHL
+3-beta-hydroxy-delta5-steroid dehydrogenase activity	1	NSDHL
+oxidoreductase activity, acting on the CH-OH group of donors, NAD or NADP as acceptor	1	NSDHL
+sterol-4-alpha-carboxylate 3-dehydrogenase (decarboxylating) activity	1	NSDHL
+3-beta-hydroxysteroid dehydrogenase/C4-decarboxylase activity	1	NSDHL
+4alpha-carboxy-4beta-methyl-5alpha-cholesta-8-en-3beta-ol:NAD(P)+ 3-oxidoreductase (decarboxylating) activity	1	NSDHL
+4alpha-carboxy-5alpha-cholesta-8-en-3beta-ol:NAD(P)+ 3-dehydrogenase (decarboxylating) activity	1	NSDHL
+hair follicle development	1	NSDHL
+cholesterol biosynthetic process	1	NSDHL
+labyrinthine layer blood vessel development	1	NSDHL
+actin binding	1	P4HB
+procollagen-proline 4-dioxygenase activity	1	P4HB
+thiol oxidase activity	1	P4HB
+peptidyl-proline hydroxylation to 4-hydroxy-L-proline	1	P4HB
+insulin processing	1	P4HB
+interleukin-12-mediated signaling pathway	1	P4HB
+interleukin-23-mediated signaling pathway	1	P4HB
+ cell adhesion	1	P4HB
+ viral entry into host cell	1	P4HB
+cellular response to interleukin-7	1	P4HB
+ oxidative stress-induced intrinsic apoptotic signaling pathway	1	P4HB
+cytoskeleton	1	P4HB
+procollagen-proline 4-dioxygenase complex	1	P4HB
+lamellipodium	1	P4HB
+in utero embryonic development	1	RCN1
+zinc ion transmembrane transporter activity	1	SLC39A7
+intracellular zinc ion homeostasis	1	SLC39A7
+B cell differentiation	1	SLC39A7
+zinc ion transmembrane transport	1	SLC39A7
+skin epidermis development	1	SLC39A7
+ ferroptosis	1	SLC39A7
+fatty-acyl-CoA binding	1	SOAT1
+sterol O-acyltransferase activity	1	SOAT1
+cholesterol binding	1	SOAT1
+cholesterol O-acyltransferase activity	1	SOAT1
+macrophage derived foam cell differentiation	1	SOAT1
+cholesterol storage	1	SOAT1
+cholesterol efflux	1	SOAT1
+very-low-density lipoprotein particle assembly	1	SOAT1
+low-density lipoprotein particle clearance	1	SOAT1
+cholesterol homeostasis	1	SOAT1
+ amyloid precursor protein biosynthetic process	1	SOAT1
+heme binding	1	STC2
+response to oxidative stress	1	STC2
+embryo implantation	1	STC2
+negative regulation of gene expression	1	STC2
+response to vitamin D	1	STC2
+negative regulation of multicellular organism growth	1	STC2
+response to peptide hormone	1	STC2
+decidualization	1	STC2
+ hormone biosynthetic process	1	STC2
+ store-operated calcium entry	1	STC2
+protein domain specific binding	1	VAPA
+sphingomyelin biosynthetic process	1	VAPA
+sterol transport	1	VAPA
+viral release from host cell	1	VAPA
+neuron projection development	1	VAPA
+ceramide transport	1	VAPA
+ I-kappaB kinase/NF-kappaB signaling	1	VAPA
+negative regulation by host of viral genome replication	1	VAPA
+positive regulation by host of viral genome replication	1	VAPA
+membrane fusion	1	VAPA
+protein localization to endoplasmic reticulum	1	VAPA
+bicellular tight junction	1	VAPA
+microtubule cytoskeleton	1	VAPA
+nuclear membrane	1	VAPA
+vesicle	1	VAPA
+azurophil granule membrane	1	VAPA
+beta-tubulin binding	1	VAPB
+IRE1-mediated unfolded protein response	1	VAPB
+ viral genome replication	1	VAPB
+endoplasmic reticulum membrane organization	1	VAPB
+neuropeptide hormone activity	1	VIP
+peptide hormone receptor binding	1	VIP
+ endothelial cell proliferation	1	VIP
+phospholipase C-activating G protein-coupled receptor signaling pathway	1	VIP
+body fluid secretion	1	VIP
+learning or memory	1	VIP
+ epinephrine secretion	1	VIP
+ protein localization	1	VIP
+negative regulation of potassium ion transport	1	VIP
+ protein catabolic process	1	VIP
+epinephrine secretion	1	VIP
+mRNA stabilization	1	VIP
+negative regulation of smooth muscle cell proliferation	1	VIP
+ sensory perception of pain	1	VIP
+ penile erection	1	VIP
+prolactin secretion	1	VIP
+perikaryon	1	VIP
+RNA polymerase II cis-regulatory region sequence-specific DNA binding	1	ZSCAN21
+DNA-binding transcription factor activity, RNA polymerase II-specific	1	ZSCAN21
+DNA-binding transcription activator activity, RNA polymerase II-specific	1	ZSCAN21
+ transcription by RNA polymerase II	1	ZSCAN21
+male meiosis I	1	ZSCAN21
+cell differentiation	1	ZSCAN21

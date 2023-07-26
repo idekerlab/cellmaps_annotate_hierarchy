@@ -1,0 +1,143 @@
+Feature	Number of Genes	Genes
+protein binding	10	TFIP11, WASHC5, INTS8, AP5Z1, CD226, EPG5, GADD45A, NCAPD3, PI4KA, SMG1
+nucleoplasm	7	TFIP11, WASHC5, INTS8, AP5Z1, GADD45A, NCAPD3, SMG1
+cytoplasm	7	TFIP11, AP5Z1, EPG5, GADD45A, PI4KA, RUFY2, SMG1
+nucleus	5	INTS8, AP5Z1, GADD45A, RUFY2, SMG1
+nuclear speck	3	TFIP11, AP5Z1, GADD45A
+cytosol	3	WASHC5, PI4KA, SMG1
+protein transport	2	WASHC5, AP5Z1
+endosomal transport	2	WASHC5, AP5Z1
+endosome	2	WASHC5, RUFY2
+signal transduction	2	CD226, PI4KA
+plasma membrane	2	CD226, PI4KA
+DNA repair	2	GADD45A, SMG1
+membrane	2	NCAPD3, PI4KA
+ATP binding	2	PI4KA, SMG1
+phosphatidylinositol phosphate biosynthetic process	2	PI4KA, SMG1
+metal ion binding	2	RUFY2, SMG1
+nucleic acid binding	1	TFIP11
+spliceosomal complex disassembly	1	TFIP11
+mRNA splicing, via spliceosome	1	TFIP11
+RNA processing	1	TFIP11
+biomineral tissue development	1	TFIP11
+negative regulation of protein-containing complex assembly	1	TFIP11
+protection from non-homologous end joining at telomere	1	TFIP11
+negative regulation of protein binding	1	TFIP11
+negative regulation of DNA ligase activity	1	TFIP11
+negative regulation of double-strand break repair via nonhomologous end joining	1	TFIP11
+chromosome, telomeric region	1	TFIP11
+spliceosomal complex	1	TFIP11
+nucleolus	1	TFIP11
+extracellular matrix	1	TFIP11
+U2-type post-mRNA release spliceosomal complex	1	TFIP11
+catalytic step 2 spliceosome	1	TFIP11
+oocyte maturation	1	WASHC5
+endosome organization	1	WASHC5
+lysosome organization	1	WASHC5
+actin filament polymerization	1	WASHC5
+protein-containing complex localization	1	WASHC5
+ Arp2/3 complex-mediated actin nucleation	1	WASHC5
+polar body extrusion after meiotic divisions	1	WASHC5
+ actin nucleation	1	WASHC5
+meiotic spindle assembly	1	WASHC5
+ vesicle size	1	WASHC5
+endosome fission	1	WASHC5
+early endosome	1	WASHC5
+endoplasmic reticulum	1	WASHC5
+early endosome membrane	1	WASHC5
+WASH complex	1	WASHC5
+snRNA processing	1	INTS8
+ transcription elongation by RNA polymerase II	1	INTS8
+snRNA 3'-end processing	1	INTS8
+integrator complex	1	INTS8
+double-strand break repair via homologous recombination	1	AP5Z1
+vesicle-mediated transport	1	AP5Z1
+late endosome	1	AP5Z1
+AP-type membrane coat adaptor complex	1	AP5Z1
+AP-5 adaptor complex	1	AP5Z1
+integrin binding	1	CD226
+protein kinase binding	1	CD226
+identical protein binding	1	CD226
+cell adhesion molecule binding	1	CD226
+cytokine production	1	CD226
+ natural killer cell cytokine production	1	CD226
+ natural killer cell mediated cytotoxicity directed against tumor cell target	1	CD226
+ immunoglobulin mediated immune response	1	CD226
+cell adhesion	1	CD226
+cell recognition	1	CD226
+ type II interferon production	1	CD226
+ mast cell activation	1	CD226
+ natural killer cell mediated cytotoxicity	1	CD226
+ T cell receptor signaling pathway	1	CD226
+ Fc receptor mediated stimulatory signaling pathway	1	CD226
+external side of plasma membrane	1	CD226
+cell surface	1	CD226
+membrane raft	1	CD226
+nucleotide transport	1	EPG5
+endosome to lysosome transport	1	EPG5
+endocytic recycling	1	EPG5
+toll-like receptor 9 signaling pathway	1	EPG5
+autophagosome maturation	1	EPG5
+cellular response to dsDNA	1	EPG5
+lysosome	1	EPG5
+perinuclear region of cytoplasm	1	EPG5
+kinase binding	1	GADD45A
+protein homodimerization activity	1	GADD45A
+protein heterodimerization activity	1	GADD45A
+promoter-specific chromatin binding	1	GADD45A
+ cyclin-dependent protein serine/threonine kinase activity	1	GADD45A
+negative regulation of transcription by RNA polymerase II	1	GADD45A
+apoptotic process	1	GADD45A
+centrosome cycle	1	GADD45A
+negative regulation of angiogenesis	1	GADD45A
+negative regulation of peptidyl-serine phosphorylation of STAT protein	1	GADD45A
+signal transduction in response to DNA damage	1	GADD45A
+ apoptotic process	1	GADD45A
+negative regulation of blood vessel endothelial cell migration	1	GADD45A
+ JNK cascade	1	GADD45A
+ cell cycle	1	GADD45A
+cellular response to mechanical stimulus	1	GADD45A
+cellular response to ionizing radiation	1	GADD45A
+negative regulation of protein serine/threonine kinase activity	1	GADD45A
+ p38MAPK cascade	1	GADD45A
+ reactive oxygen species metabolic process	1	GADD45A
+methylated histone binding	1	NCAPD3
+histone binding	1	NCAPD3
+mitotic chromosome condensation	1	NCAPD3
+meiotic chromosome condensation	1	NCAPD3
+cell division	1	NCAPD3
+ chromosome segregation	1	NCAPD3
+ chromosome separation	1	NCAPD3
+ chromosome condensation	1	NCAPD3
+condensed chromosome, centromeric region	1	NCAPD3
+condensed nuclear chromosome	1	NCAPD3
+condensin complex	1	NCAPD3
+pericentric heterochromatin	1	NCAPD3
+1-phosphatidylinositol 4-kinase activity	1	PI4KA
+kinase activity	1	PI4KA
+cadherin binding	1	PI4KA
+phosphatidylinositol biosynthetic process	1	PI4KA
+phosphorylation	1	PI4KA
+modulation by host of viral process	1	PI4KA
+phosphatidylinositol-mediated signaling	1	PI4KA
+reorganization of cellular membranes to establish viral sites of replication	1	PI4KA
+focal adhesion	1	PI4KA
+Golgi-associated vesicle membrane	1	PI4KA
+extracellular exosome	1	PI4KA
+SH3 domain binding	1	RUFY2
+biological_process	1	RUFY2
+ endocytosis	1	RUFY2
+RNA binding	1	SMG1
+protein kinase activity	1	SMG1
+protein serine/threonine kinase activity	1	SMG1
+protein kinase C activity	1	SMG1
+telomeric DNA binding	1	SMG1
+protein serine kinase activity	1	SMG1
+nuclear-transcribed mRNA catabolic process, nonsense-mediated decay	1	SMG1
+mRNA export from nucleus	1	SMG1
+protein phosphorylation	1	SMG1
+DNA damage response	1	SMG1
+peptidyl-serine phosphorylation	1	SMG1
+ telomere maintenance	1	SMG1
+protein autophosphorylation	1	SMG1
+chromatoid body	1	SMG1

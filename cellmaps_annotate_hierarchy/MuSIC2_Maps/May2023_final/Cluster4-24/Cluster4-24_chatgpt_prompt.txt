@@ -1,0 +1,30 @@
+Your response should be formatted as Markdown paragraphs
+Write a critical and concise analysis of this human protein system, describing your reasoning as you go and providing references to scientific papers.
+
+A critical goal of the analysis is to determine if this is a novel complex or if any proteins are novel members of a known complex
+
+Format with Title, Summary, and References sections.        
+Avoid overly general statements of how the proteins are involved in various cellular processes        
+Avoid repeating the goals of the analysis.
+
+What cellular components and complexes are involved in this system?
+What mechanisms and biological processes are performed by this system?
+Propose a name for the system to reflect the cellular location and function, and should be specific but brief. Do not compose an acronym. Place it as the title of your report
+Human Proteins: ATG12, BEGAIN, CEP63, GTF2E2, NAV2, NUMA1, TECPR1, TRAK2.
+
+System features from GO terms: 
+protein binding: 8 proteins: ATG12, BEGAIN, CEP63, GTF2E2, NAV2, NUMA1, TECPR1, TRAK2
+nucleoplasm: 5 proteins: ATG12, GTF2E2, NAV2, NUMA1, TECPR1
+cytosol: 5 proteins: ATG12, CEP63, GTF2E2, NUMA1, TRAK2
+protein-containing complex: 3 proteins: ATG12, NUMA1, TECPR1
+macroautophagy: 2 proteins: ATG12, TECPR1
+negative regulation of innate immune response: 2 proteins: ATG12, CEP63
+ autophagosome maturation: 2 proteins: ATG12, TECPR1
+intracellular membrane-bounded organelle: 2 proteins: ATG12, TECPR1
+cytoplasm: 2 proteins: BEGAIN, TRAK2
+cell division: 2 proteins: CEP63, NUMA1
+spindle pole: 2 proteins: CEP63, NUMA1
+centrosome: 2 proteins: CEP63, NUMA1
+plasma membrane: 2 proteins: CEP63, TRAK2
+neurogenesis: 2 proteins: NAV2, TRAK2
+dendrite: 2 proteins: NUMA1, TRAK2

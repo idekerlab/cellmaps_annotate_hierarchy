@@ -1,0 +1,25 @@
+Write a critical and concise analysis of this system, describing your reasoning as you go and providing references to scientific papers.         
+Format with Title, Summary, and References sections.        
+Avoid overly general statements of how the proteins are involved in various cellular processes
+        
+Avoid recapitulating the goals of the analysis. 
+What cellular components and complexes are involved in this system?
+What mechanisms and biological processes are performed by this system?
+Propose a name for the system to reflect the function and location, and should be specific but brief. Do not compose an acronym. Place it as the title of your report
+Provide complete paper references with pubmed link
+Proteins: LRP2, MRPS10, MRPS14, MRPS15, MRPS2, MRPS21, MRPS26, MRPS27, MRPS34, MRPS5, SMG5.
+
+A critical goal of the analysis is to determine if this is a novel complex or if any proteins are novel members of a known complex
+System features from GO terms: 
+mitochondrial translation: 9 proteins: MRPS10, MRPS14, MRPS15, MRPS2, MRPS21, MRPS26, MRPS27, MRPS34, MRPS5
+mitochondrial inner membrane: 9 proteins: MRPS10, MRPS14, MRPS15, MRPS2, MRPS21, MRPS26, MRPS27, MRPS34, MRPS5
+mitochondrial small ribosomal subunit: 9 proteins: MRPS10, MRPS14, MRPS15, MRPS2, MRPS21, MRPS26, MRPS27, MRPS34, MRPS5
+mitochondrion: 8 proteins: MRPS10, MRPS14, MRPS15, MRPS2, MRPS26, MRPS27, MRPS34, MRPS5
+structural constituent of ribosome: 6 proteins: MRPS14, MRPS15, MRPS2, MRPS21, MRPS34, MRPS5
+RNA binding: 5 proteins: MRPS14, MRPS15, MRPS21, MRPS26, MRPS5
+protein binding: 4 proteins: LRP2, MRPS14, MRPS27, SMG5
+translation: 4 proteins: MRPS14, MRPS15, MRPS21, MRPS5
+cell population proliferation: 2 proteins: LRP2, MRPS27
+nucleoplasm: 2 proteins: MRPS15, MRPS26
+nucleolus: 2 proteins: MRPS15, MRPS27
+cytoplasm: 2 proteins: MRPS27, SMG5

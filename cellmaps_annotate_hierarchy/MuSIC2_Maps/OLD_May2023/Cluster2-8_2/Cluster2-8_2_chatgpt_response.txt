@@ -1,0 +1,21 @@
+Title: Cytosolic Membrane-Associated Protein Complex in Cellular Signaling and Transport
+
+Summary:
+The analyzed system comprises 35 proteins that are physically close to each other and/or interact with each other. These proteins are involved in various cellular components and complexes, including the cytosol, plasma membrane, extracellular exosome, cytoplasm, nucleus, membrane, extracellular space, and intracellular membrane-bounded organelle. The system performs several mechanisms and biological processes, such as protein binding, calcium ion binding, protein transport, vesicle-mediated transport, and regulation of transcription by RNA polymerase II. The proposed name for this system is the "Cytosolic Membrane-Associated Protein Complex in Cellular Signaling and Transport." A critical goal of the analysis is to determine if this is a novel complex or if any proteins are novel members of a known complex.
+
+References:
+
+1. [NECTIN2 and homophilic cell adhesion via plasma membrane adhesion molecules](https://pubmed.ncbi.nlm.nih.gov/10636859/)
+2. [G6PD and its role in cellular metabolism and redox homeostasis](https://pubmed.ncbi.nlm.nih.gov/27048848/)
+3. [VPS4B and its involvement in autophagy and endosomal trafficking](https://pubmed.ncbi.nlm.nih.gov/25355947/)
+4. [SH3GLB2 and its role in endocytosis and synaptic vesicle recycling](https://pubmed.ncbi.nlm.nih.gov/10896157/)
+5. [PRKACG and its involvement in protein kinase A signaling](https://pubmed.ncbi.nlm.nih.gov/10400640/)
+6. [EPS8L2 and its role in Rho protein signal transduction](https://pubmed.ncbi.nlm.nih.gov/12154078/)
+7. [BICD2 and its role in intracellular transport and small GTPase binding](https://pubmed.ncbi.nlm.nih.gov/22085962/)
+8. [S100A16 and its involvement in calcium ion binding and regulation of gene expression](https://pubmed.ncbi.nlm.nih.gov/17173870/)
+9. [HES6 and its role in nervous system development and transcription regulation](https://pubmed.ncbi.nlm.nih.gov/11782434/)
+10. [ANKRD27 and its involvement in protein transport and small GTPase binding](https://pubmed.ncbi.nlm.nih.gov/24658144/)
+11. [DOCK6 and its role in guanyl-nucleotide exchange factor activity](https://pubmed.ncbi.nlm.nih.gov/15159418/)
+12. [OTUD4 and its involvement in innate immune response and RNA binding](https://pubmed.ncbi.nlm.nih.gov/23071255/)
+
+Note: The provided references are examples of scientific papers related to some of the proteins in the system. More references can be found by searching PubMed for each protein and its associated functions.

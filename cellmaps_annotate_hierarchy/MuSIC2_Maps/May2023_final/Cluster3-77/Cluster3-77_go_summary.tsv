@@ -1,0 +1,64 @@
+Feature	Number of Genes	Genes
+guanyl-nucleotide exchange factor activity	3	SLC38A9, LAMTOR5, LAMTOR2
+protein binding	3	SLC38A9, LAMTOR5, LAMTOR2
+ TOR signaling	3	SLC38A9, LAMTOR5, LAMTOR2
+cellular response to amino acid stimulus	3	SLC38A9, LAMTOR5, LAMTOR2
+lysosomal membrane	3	SLC38A9, LAMTOR5, LAMTOR2
+late endosome membrane	3	SLC38A9, LAMTOR5, LAMTOR2
+metal ion binding	2	SLC38A9, ITPA
+ TORC1 signaling	2	SLC38A9, LAMTOR5
+lysosome	2	SLC38A9, LAMTOR5
+late endosome	2	SLC38A9, LAMTOR2
+cytosol	2	ITPA, LAMTOR5
+molecular adaptor activity	2	LAMTOR5, LAMTOR2
+TORC1 signaling	2	LAMTOR5, LAMTOR2
+Ragulator complex	2	LAMTOR5, LAMTOR2
+amino acid transmembrane transporter activity	1	SLC38A9
+L-amino acid transmembrane transporter activity	1	SLC38A9
+L-asparagine transmembrane transporter activity	1	SLC38A9
+L-glutamine transmembrane transporter activity	1	SLC38A9
+L-leucine transmembrane transporter activity	1	SLC38A9
+cholesterol binding	1	SLC38A9
+sterol sensor activity	1	SLC38A9
+arginine binding	1	SLC38A9
+L-arginine transmembrane transporter activity	1	SLC38A9
+amino acid transmembrane transport	1	SLC38A9
+asparagine transport	1	SLC38A9
+glutamine transport	1	SLC38A9
+branched-chain amino acid transport	1	SLC38A9
+L-arginine transmembrane transport	1	SLC38A9
+nucleotide binding	1	ITPA
+dITP diphosphatase activity	1	ITPA
+ITP diphosphatase activity	1	ITPA
+XTP diphosphatase activity	1	ITPA
+identical protein binding	1	ITPA
+nucleoside triphosphate diphosphatase activity	1	ITPA
+ITP catabolic process	1	ITPA
+nucleoside triphosphate catabolic process	1	ITPA
+deoxyribonucleoside triphosphate catabolic process	1	ITPA
+chromosome organization	1	ITPA
+nucleoplasm	1	ITPA
+cytoplasm	1	ITPA
+intracellular membrane-bounded organelle	1	ITPA
+ cell size	1	LAMTOR5
+response to virus	1	LAMTOR5
+ gene expression	1	LAMTOR5
+viral genome replication	1	LAMTOR5
+ interleukin-8 production	1	LAMTOR5
+ I-kappaB kinase/NF-kappaB signaling	1	LAMTOR5
+negative regulation of cysteine-type endopeptidase activity involved in apoptotic process	1	LAMTOR5
+ NF-kappaB transcription factor activity	1	LAMTOR5
+protein localization to lysosome	1	LAMTOR5
+ protein localization to nucleus	1	LAMTOR5
+ RNA polymerase II regulatory region sequence-specific DNA binding	1	LAMTOR5
+protein-containing complex	1	LAMTOR5
+ cell growth	1	LAMTOR2
+protein localization	1	LAMTOR2
+fibroblast migration	1	LAMTOR2
+ MAPK cascade	1	LAMTOR2
+ cell-substrate junction organization	1	LAMTOR2
+protein localization to cell junction	1	LAMTOR2
+plasma membrane	1	LAMTOR2
+endosome membrane	1	LAMTOR2
+specific granule membrane	1	LAMTOR2
+tertiary granule membrane	1	LAMTOR2

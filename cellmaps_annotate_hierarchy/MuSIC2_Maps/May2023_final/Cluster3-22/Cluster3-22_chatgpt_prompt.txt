@@ -1,0 +1,96 @@
+Your response should be formatted as Markdown paragraphs
+Write a critical and concise analysis of this human protein system, describing your reasoning as you go and providing references to scientific papers.
+
+A critical goal of the analysis is to determine if this is a novel complex or if any proteins are novel members of a known complex
+
+Format with Title, Summary, and References sections.        
+Avoid overly general statements of how the proteins are involved in various cellular processes        
+Avoid repeating the goals of the analysis.
+
+What cellular components and complexes are involved in this system?
+What mechanisms and biological processes are performed by this system?
+Propose a name for the system to reflect the cellular location and function, and should be specific but brief. Do not compose an acronym. Place it as the title of your report
+Human Proteins: ENY2, TAF7L, TAF9, TADA1, TAF9B, TADA2A, KIF20B, HMGB2, SGF29, ZZZ3, TAF4B, ATXN7L2, SUPT20H, ATE1, KAT2B, TAF7, MBIP, ATXN7L1, ATXN7, SF3B5, TADA3, TAF1, TAF3, TAF4, TAF5, TAF6, TAF8.
+
+System features from GO terms: 
+protein binding: 24 proteins: ENY2, TAF7L, TAF9, TAF9B, TADA2A, KIF20B, HMGB2, SGF29, ZZZ3, SUPT20H, ATE1, KAT2B, TAF7, MBIP, ATXN7L1, ATXN7, SF3B5, TADA3, TAF1, TAF3, TAF4, TAF5, TAF6, TAF8
+nucleoplasm: 20 proteins: ENY2, TAF9, TADA1, TAF9B, KIF20B, HMGB2, ZZZ3, TAF4B, KAT2B, TAF7, MBIP, ATXN7, SF3B5, TADA3, TAF1, TAF3, TAF4, TAF5, TAF6, TAF8
+nucleus: 20 proteins: TAF9, TADA1, TADA2A, KIF20B, HMGB2, SGF29, TAF4B, SUPT20H, ATE1, KAT2B, TAF7, ATXN7, SF3B5, TADA3, TAF1, TAF3, TAF4, TAF5, TAF6, TAF8
+ transcription by RNA polymerase II: 17 proteins: ENY2, TAF9, TADA1, TADA2A, HMGB2, SGF29, ZZZ3, SUPT20H, KAT2B, TAF7, MBIP, ATXN7, TADA3, TAF3, TAF4, TAF5, TAF6
+ DNA-templated transcription: 17 proteins: ENY2, TAF9, TADA1, TADA2A, HMGB2, SGF29, ZZZ3, SUPT20H, KAT2B, TAF7, MBIP, ATXN7, SF3B5, TADA3, TAF4, TAF5, TAF6
+histone H3 acetylation: 15 proteins: ENY2, TAF9, TADA1, TADA2A, SGF29, SUPT20H, KAT2B, TAF7, MBIP, ATXN7, SF3B5, TADA3, TAF4, TAF5, TAF6
+ DNA repair: 13 proteins: ENY2, TAF9, TADA1, SGF29, SUPT20H, KAT2B, TAF7, ATXN7, SF3B5, TADA3, TAF4, TAF5, TAF6
+monoubiquitinated histone deubiquitination: 13 proteins: ENY2, TAF9, TADA1, SGF29, SUPT20H, KAT2B, TAF7, ATXN7, SF3B5, TADA3, TAF4, TAF5, TAF6
+monoubiquitinated histone H2A deubiquitination: 13 proteins: ENY2, TAF9, TADA1, SGF29, SUPT20H, KAT2B, TAF7, ATXN7, SF3B5, TADA3, TAF4, TAF5, TAF6
+SAGA complex: 11 proteins: ENY2, TAF9, TADA1, TADA2A, SGF29, SUPT20H, KAT2B, ATXN7, SF3B5, TADA3, TAF6
+RNA polymerase II general transcription initiation factor activity: 11 proteins: TAF7L, TAF9, TAF9B, TAF4B, TAF7, TAF1, TAF3, TAF4, TAF5, TAF6, TAF8
+transcription factor TFIID complex: 11 proteins: TAF7L, TAF9, TAF9B, TAF4B, TAF7, TAF1, TAF3, TAF4, TAF5, TAF6, TAF8
+RNA polymerase II preinitiation complex assembly: 10 proteins: TAF7L, TAF9, TAF4B, TAF7, TAF1, TAF3, TAF4, TAF5, TAF6, TAF8
+ RNA splicing: 9 proteins: ENY2, TAF9, TADA1, SGF29, SUPT20H, KAT2B, ATXN7, SF3B5, TADA3
+transcription factor TFTC complex: 9 proteins: ENY2, TAF9, TAF9B, TAF7, ATXN7, TADA3, TAF4, TAF5, TAF6
+protein heterodimerization activity: 9 proteins: TAF9, TAF9B, TAF4B, TAF7, TAF1, TAF3, TAF4, TAF6, TAF8
+protein phosphorylation: 9 proteins: TAF9, TAF4B, TAF7, TAF1, TAF3, TAF4, TAF5, TAF6, TAF8
+mRNA transcription by RNA polymerase II: 9 proteins: TAF9, TAF4B, TAF7, TAF1, TAF3, TAF4, TAF5, TAF6, TAF8
+ transcription initiation by RNA polymerase II: 9 proteins: TAF9, TAF4B, TAF7, TAF1, TAF3, TAF4, TAF5, TAF6, TAF8
+transcription coactivator activity: 8 proteins: ENY2, TAF9, TADA1, TADA2A, HMGB2, KAT2B, TADA3, TAF6
+DNA binding: 7 proteins: TAF9, TADA2A, HMGB2, ZZZ3, TAF4B, TAF4, TAF6
+cytosol: 7 proteins: TADA1, KIF20B, KAT2B, MBIP, ATXN7, TAF4, TAF6
+ cell cycle: 7 proteins: TADA2A, KIF20B, SGF29, ZZZ3, KAT2B, MBIP, TADA3
+nucleolus: 7 proteins: KIF20B, HMGB2, ZZZ3, MBIP, ATXN7, TAF1, TAF5
+transcription initiation at RNA polymerase II promoter: 7 proteins: TAF4B, TAF7, TAF1, TAF4, TAF5, TAF6, TAF8
+cytoplasm: 6 proteins: TAF7L, KIF20B, HMGB2, TAF4B, ATE1, TAF7
+ histone deacetylation: 6 proteins: TADA2A, SGF29, ZZZ3, KAT2B, MBIP, TADA3
+histone H3-K14 acetylation: 6 proteins: TADA2A, SGF29, ZZZ3, KAT2B, MBIP, TADA3
+ embryonic development: 6 proteins: TADA2A, SGF29, ZZZ3, KAT2B, MBIP, TADA3
+ cell division: 6 proteins: TADA2A, SGF29, ZZZ3, KAT2B, MBIP, TADA3
+ tubulin deacetylation: 6 proteins: TADA2A, SGF29, ZZZ3, KAT2B, MBIP, TADA3
+mitotic spindle: 6 proteins: TADA2A, SGF29, ZZZ3, KAT2B, MBIP, TADA3
+ATAC complex: 6 proteins: TADA2A, SGF29, ZZZ3, KAT2B, MBIP, TADA3
+MLL1 complex: 5 proteins: TAF9, TAF7, TAF1, TAF4, TAF6
+negative regulation of transcription by RNA polymerase II: 5 proteins: TAF9B, HMGB2, TAF7, TAF1, TAF3
+DNA-templated transcription initiation: 5 proteins: TAF9B, TAF7, TAF4, TAF5, TAF6
+transcription by RNA polymerase II: 5 proteins: TAF9B, TAF7, TAF1, TAF4, TAF6
+chromatin organization: 4 proteins: ENY2, HMGB2, ZZZ3, TADA3
+histone acetyltransferase activity: 4 proteins: TAF9, TADA2A, KAT2B, TAF1
+DNA-binding transcription factor binding: 4 proteins: TAF9, HMGB2, KAT2B, TAF7
+chromatin remodeling: 4 proteins: TAF9, TADA2A, KAT2B, TAF1
+histone acetylation: 4 proteins: TAF9, TADA2A, KAT2B, TADA3
+chromatin: 4 proteins: HMGB2, TAF1, TAF4, TAF5
+protein-containing complex: 4 proteins: HMGB2, KAT2B, TAF4, TAF6
+chromatin binding: 3 proteins: ENY2, TADA2A, KAT2B
+transcription cis-regulatory region binding: 3 proteins: TAF9, HMGB2, TAF7
+p53 binding: 3 proteins: TAF9, TAF1, TAF3
+protein stabilization: 3 proteins: TAF9, TAF9B, TAF1
+SAGA-type complex: 3 proteins: TADA2A, SGF29, SUPT20H
+cell cycle: 3 proteins: KIF20B, KAT2B, TAF1
+perinuclear region of cytoplasm: 3 proteins: KIF20B, HMGB2, TAF8
+male germ cell nucleus: 3 proteins: TAF7, TAF3, TAF4
+nuclear receptor coactivator activity: 2 proteins: ENY2, TADA3
+spermatogenesis: 2 proteins: TAF7L, TAF4B
+cell differentiation: 2 proteins: TAF7L, TAF8
+DNA damage response: 2 proteins: TAF9, TAF1
+negative regulation of apoptotic process: 2 proteins: TAF9, TAF9B
+negative regulation of intrinsic apoptotic signaling pathway in response to DNA damage by p53 class mediator: 2 proteins: TAF9, TAF9B
+zinc ion binding: 2 proteins: TADA2A, ZZZ3
+ATP binding: 2 proteins: KIF20B, TAF1
+centrosome: 2 proteins: KIF20B, KAT2B
+RNA binding: 2 proteins: HMGB2, SF3B5
+transcription factor binding: 2 proteins: HMGB2, TAF3
+protein domain specific binding: 2 proteins: HMGB2, TADA3
+negative regulation of gene expression: 2 proteins: HMGB2, TAF1
+negative regulation of DNA-templated transcription: 2 proteins: HMGB2, TAF7
+methylated histone binding: 2 proteins: SGF29, ZZZ3
+transcription initiation-coupled chromatin remodeling: 2 proteins: SGF29, KAT2B
+lysine-acetylated histone binding: 2 proteins: ZZZ3, TAF1
+transcription coregulator activity: 2 proteins: SUPT20H, KAT2B
+DNA-templated transcription: 2 proteins: SUPT20H, KAT2B
+H3K27me3 modified histone binding: 2 proteins: TAF7, TAF1
+intracellular estrogen receptor signaling pathway: 2 proteins: TAF7, TADA3
+transcription regulator complex: 2 proteins: TAF7, TAF1
+identical protein binding: 2 proteins: MBIP, TAF5
+ gene expression: 2 proteins: MBIP, TADA3
+nuclear receptor binding: 2 proteins: TADA3, TAF1
+transcription regulator inhibitor activity: 2 proteins: TAF1, TAF3
+negative regulation of DNA-binding transcription factor activity: 2 proteins: TAF1, TAF3
+maintenance of protein location in nucleus: 2 proteins: TAF3, TAF8
+aryl hydrocarbon receptor binding: 2 proteins: TAF4, TAF6

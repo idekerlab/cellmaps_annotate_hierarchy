@@ -1,0 +1,65 @@
+Feature	Number of Genes	Genes
+protein binding	5	FAM86B2, PATL1, MEMO1, EEF2KMT, MPO
+cytosol	3	PATL1, MEMO1, EEF2KMT
+nucleus	3	GNL1, MEMO1, MPO
+protein-lysine N-methyltransferase activity	2	FAM86B2, EEF2KMT
+peptidyl-lysine trimethylation	2	FAM86B2, EEF2KMT
+protein-containing complex	2	FAM86B2, EEF2KMT
+extracellular space	2	GNL1, MPO
+protein homodimerization activity	1	WDR54
+negative regulation of receptor internalization	1	WDR54
+ epidermal growth factor receptor signaling pathway	1	WDR54
+ MAPK cascade	1	WDR54
+cilium assembly	1	WDR54
+axoneme	1	WDR54
+vesicle	1	WDR54
+biological_process	1	FAM86B2
+RNA binding	1	PATL1
+poly(U) RNA binding	1	PATL1
+poly(G) binding	1	PATL1
+deadenylation-dependent decapping of nuclear-transcribed mRNA	1	PATL1
+P-body assembly	1	PATL1
+P-body	1	PATL1
+PML body	1	PATL1
+nuclear speck	1	PATL1
+cytoplasmic ribonucleoprotein granule	1	PATL1
+GTPase activity	1	GNL1
+structural molecule activity	1	GNL1
+GTP binding	1	GNL1
+T cell mediated immunity	1	GNL1
+DNA damage response	1	GNL1
+signal transduction	1	GNL1
+ microtubule-based process	1	MEMO1
+histone methyltransferase activity	1	EEF2KMT
+chromatin remodeling	1	EEF2KMT
+protein methylation	1	EEF2KMT
+cytoplasm	1	EEF2KMT
+chromatin binding	1	MPO
+peroxidase activity	1	MPO
+heparin binding	1	MPO
+heme binding	1	MPO
+metal ion binding	1	MPO
+response to yeast	1	MPO
+hypochlorous acid biosynthetic process	1	MPO
+respiratory burst involved in defense response	1	MPO
+defense response	1	MPO
+response to oxidative stress	1	MPO
+response to mechanical stimulus	1	MPO
+removal of superoxide radicals	1	MPO
+response to food	1	MPO
+response to lipopolysaccharide	1	MPO
+low-density lipoprotein particle remodeling	1	MPO
+defense response to bacterium	1	MPO
+hydrogen peroxide catabolic process	1	MPO
+negative regulation of apoptotic process	1	MPO
+defense response to fungus	1	MPO
+response to gold nanoparticle	1	MPO
+extracellular region	1	MPO
+nucleoplasm	1	MPO
+lysosome	1	MPO
+secretory granule	1	MPO
+azurophil granule lumen	1	MPO
+azurophil granule	1	MPO
+intracellular membrane-bounded organelle	1	MPO
+extracellular exosome	1	MPO
+phagocytic vesicle lumen	1	MPO

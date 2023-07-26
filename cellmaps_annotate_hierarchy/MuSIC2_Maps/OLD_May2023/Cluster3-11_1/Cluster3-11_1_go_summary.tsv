@@ -1,0 +1,515 @@
+Feature	Number of Genes	Genes
+cytosol	27	RELA, UROD, TPP2, YARS1, TXNRD2, PLPBP, FTO, PHLPP2, GSR, ADK, AARS1, DNM1L, MVD, GSTZ1, SH3GLB1, ADSS2, OLA1, SH3GL1, DRG2, PPID, RRM1, GRHPR, LGALS9, MAP2K1, TKFC, GSPT1, MEAK7
+protein binding	25	RELA, UROD, DRAP1, TPP2, YARS1, TXNRD2, CNPY2, PHLPP2, DNM1L, GSTZ1, SH3GLB1, ADSS2, OLA1, SH3GL1, DRG2, PPID, MMUT, RRM1, CHORDC1, NPPB, GRHPR, MAP2K1, TKFC, GSPT1, MEAK7
+cytoplasm	21	RELA, TPP2, YARS1, TXNRD2, PLPBP, FTO, PHLPP2, AARS1, DNM1L, SH3GLB1, ADSS2, OLA1, SH3GL1, DRG2, PPID, MMUT, NPPB, GRHPR, LGALS9, GSPT1, MEAK7
+nucleus	11	RELA, DRAP1, YARS1, FTO, ADK, DRG2, PPID, NPPB, LGALS9, MAP2K1, TKFC
+mitochondrion	10	TXNRD2, GSR, AARS1, DNM1L, GSTZ1, ADSS2, MMUT, RRM1, GLOD4, MAP2K1
+identical protein binding	9	RELA, DRAP1, TPP2, DNM1L, GSTZ1, SH3GLB1, SH3GL1, MMUT, RRM1
+nucleoplasm	9	RELA, UROD, TPP2, FTO, PHLPP2, ADK, DRG2, PPID, MEAK7
+ATP binding	9	YARS1, ADK, AARS1, MVD, OLA1, RRM1, CHORDC1, MAP2K1, TKFC
+protein homodimerization activity	8	RELA, TXNRD2, DNM1L, MVD, GSTZ1, SH3GLB1, MMUT, GRHPR
+extracellular exosome	7	GSR, AARS1, ADSS2, OLA1, GLOD4, GRHPR, TKFC
+metal ion binding	6	PHLPP2, ADK, OLA1, DRG2, MMUT, TKFC
+membrane	6	AARS1, DNM1L, SH3GLB1, OLA1, DRG2, MEAK7
+GTP binding	5	DNM1L, ADSS2, OLA1, DRG2, GSPT1
+nucleolus	4	RELA, OLA1, PPID, MEAK7
+RNA binding	4	YARS1, ADK, DRG2, GSPT1
+mitochondrial matrix	4	TXNRD2, GSR, GSTZ1, MMUT
+intracellular membrane-bounded organelle	4	FTO, PHLPP2, DNM1L, DRG2
+GTPase activity	4	DNM1L, DRG2, MMUT, GSPT1
+cadherin binding	4	SH3GLB1, OLA1, SH3GL1, GLOD4
+negative regulation of transcription by RNA polymerase II	3	RELA, DRAP1, PPID
+positive regulation of gene expression	3	RELA, LGALS9, MAP2K1
+apoptotic process	3	YARS1, SH3GLB1, PPID
+extracellular space	3	YARS1, NPPB, LGALS9
+cellular oxidant detoxification	3	TXNRD2, GSR, GSTZ1
+plasma membrane	3	FTO, ADK, MAP2K1
+endoplasmic reticulum	3	CNPY2, DNM1L, MAP2K1
+lipid binding	3	DNM1L, SH3GLB1, SH3GL1
+protein-containing complex	3	DNM1L, SH3GLB1, NPPB
+signal transduction	3	SH3GL1, DRG2, MAP2K1
+DNA binding	2	RELA, DRAP1
+enzyme binding	2	RELA, LGALS9
+ubiquitin protein ligase binding	2	RELA, DNM1L
+phosphate ion binding	2	RELA, ADSS2
+inflammatory response	2	RELA, LGALS9
+neuropeptide signaling pathway	2	RELA, NPPB
+positive regulation of cell population proliferation	2	RELA, MVD
+positive regulation of interleukin-12 production	2	RELA, LGALS9
+positive regulation of interleukin-8 production	2	RELA, LGALS9
+positive regulation of I-kappaB kinase/NF-kappaB signaling	2	RELA, LGALS9
+positive regulation of DNA-templated transcription	2	RELA, MAP2K1
+positive regulation of NF-kappaB transcription factor activity	2	RELA, LGALS9
+response to interleukin-1	2	RELA, LGALS9
+positive regulation of NIK/NF-kappaB signaling	2	RELA, LGALS9
+glutamatergic synapse	2	RELA, SH3GL1
+nuclear body	2	TPP2, YARS1
+tRNA binding	2	YARS1, AARS1
+flavin adenine dinucleotide binding	2	TXNRD2, GSR
+cell redox homeostasis	2	TXNRD2, GSR
+negative regulation of gene expression	2	CNPY2, LGALS9
+glutathione metabolic process	2	GSR, GSTZ1
+zinc ion binding	2	AARS1, CHORDC1
+positive regulation of apoptotic process	2	DNM1L, PPID
+positive regulation of protein secretion	2	DNM1L, PPID
+protein-containing complex assembly	2	DNM1L, PPID
+mitochondrial outer membrane	2	DNM1L, SH3GLB1
+peroxisome	2	DNM1L, MVD
+Golgi apparatus	2	DNM1L, MAP2K1
+Hsp70 protein binding	2	MVD, PPID
+extracellular region	2	OLA1, NPPB
+Hsp90 protein binding	2	PPID, CHORDC1
+protein folding	2	PPID, NPPB
+chaperone-mediated protein folding	2	PPID, CHORDC1
+chemotaxis	2	LGALS9, MAP2K1
+ERK1 and ERK2 cascade	2	LGALS9, MAP2K1
+positive regulation of ERK1 and ERK2 cascade	2	LGALS9, MAP2K1
+transcription cis-regulatory region binding	1	RELA
+RNA polymerase II transcription regulatory region sequence-specific DNA binding	1	RELA
+RNA polymerase II cis-regulatory region sequence-specific DNA binding	1	RELA
+RNA polymerase II core promoter sequence-specific DNA binding	1	RELA
+DNA-binding transcription factor activity, RNA polymerase II-specific	1	RELA
+transcription coactivator binding	1	RELA
+DNA-binding transcription repressor activity, RNA polymerase II-specific	1	RELA
+DNA-binding transcription activator activity, RNA polymerase II-specific	1	RELA
+chromatin binding	1	RELA
+DNA-binding transcription factor activity	1	RELA
+protein kinase binding	1	RELA
+chromatin DNA binding	1	RELA
+peptide binding	1	RELA
+actinin binding	1	RELA
+histone deacetylase binding	1	RELA
+NF-kappaB binding	1	RELA
+ankyrin repeat binding	1	RELA
+general transcription initiation factor binding	1	RELA
+DNA-binding transcription factor binding	1	RELA
+liver development	1	RELA
+hair follicle development	1	RELA
+defense response to tumor cell	1	RELA
+chromatin organization	1	RELA
+DNA-templated transcription	1	RELA
+regulation of DNA-templated transcription	1	RELA
+regulation of transcription by RNA polymerase II	1	RELA
+cellular defense response	1	RELA
+I-kappaB kinase/NF-kappaB signaling	1	RELA
+animal organ morphogenesis	1	RELA
+response to organic substance	1	RELA
+response to UV-B	1	RELA
+cytokine-mediated signaling pathway	1	RELA
+protein catabolic process	1	RELA
+response to muramyl dipeptide	1	RELA
+tumor necrosis factor-mediated signaling pathway	1	RELA
+negative regulation of protein sumoylation	1	RELA
+cellular response to stress	1	RELA
+response to cytokine	1	RELA
+cellular response to hepatocyte growth factor stimulus	1	RELA
+cellular response to vascular endothelial growth factor stimulus	1	RELA
+response to muscle stretch	1	RELA
+NIK/NF-kappaB signaling	1	RELA
+negative regulation of protein catabolic process	1	RELA
+negative regulation of apoptotic process	1	RELA
+regulation of DNA-templated transcription in response to stress	1	RELA
+innate immune response	1	RELA
+negative regulation of DNA-templated transcription	1	RELA
+positive regulation of transcription by RNA polymerase II	1	RELA
+regulation of inflammatory response	1	RELA
+positive regulation of T cell receptor signaling pathway	1	RELA
+defense response to virus	1	RELA
+cellular response to hydrogen peroxide	1	RELA
+nucleotide-binding oligomerization domain containing 2 signaling pathway	1	RELA
+interleukin-1-mediated signaling pathway	1	RELA
+cellular response to lipopolysaccharide	1	RELA
+cellular response to lipoteichoic acid	1	RELA
+cellular response to peptidoglycan	1	RELA
+cellular response to nicotine	1	RELA
+cellular response to interleukin-1	1	RELA
+cellular response to interleukin-6	1	RELA
+cellular response to tumor necrosis factor	1	RELA
+postsynapse to nucleus signaling pathway	1	RELA
+regulation of NIK/NF-kappaB signaling	1	RELA
+negative regulation of NIK/NF-kappaB signaling	1	RELA
+positive regulation of transcription from RNA polymerase II promoter involved in cellular response to chemical stimulus	1	RELA
+positive regulation of amyloid-beta formation	1	RELA
+negative regulation of miRNA transcription	1	RELA
+positive regulation of miRNA transcription	1	RELA
+cellular response to angiotensin	1	RELA
+positive regulation of leukocyte adhesion to vascular endothelial cell	1	RELA
+positive regulation of miRNA metabolic process	1	RELA
+negative regulation of extrinsic apoptotic signaling pathway	1	RELA
+chromatin	1	RELA
+transcription regulator complex	1	RELA
+NF-kappaB p50/p65 complex	1	RELA
+NF-kappaB complex	1	RELA
+uroporphyrinogen decarboxylase activity	1	UROD
+porphyrin-containing compound metabolic process	1	UROD
+protoporphyrinogen IX biosynthetic process	1	UROD
+heme biosynthetic process	1	UROD
+porphyrin-containing compound catabolic process	1	UROD
+core promoter sequence-specific DNA binding	1	DRAP1
+RNA polymerase II general transcription initiation factor binding	1	DRAP1
+RNA polymerase II general transcription initiation factor activity	1	DRAP1
+TBP-class protein binding	1	DRAP1
+protein heterodimerization activity	1	DRAP1
+transcription by RNA polymerase II	1	DRAP1
+negative cofactor 2 complex	1	DRAP1
+RNA polymerase II transcription regulator complex	1	DRAP1
+endopeptidase activity	1	TPP2
+aminopeptidase activity	1	TPP2
+serine-type endopeptidase activity	1	TPP2
+tripeptidyl-peptidase activity	1	TPP2
+protein polyubiquitination	1	TPP2
+proteolysis	1	TPP2
+intracellular amino acid homeostasis	1	TPP2
+tyrosine-tRNA ligase activity	1	YARS1
+interleukin-8 receptor binding	1	YARS1
+small molecule binding	1	YARS1
+resveratrol binding	1	YARS1
+tyrosyl-tRNA aminoacylation	1	YARS1
+response to starvation	1	YARS1
+thioredoxin-disulfide reductase activity	1	TXNRD2
+protein-containing complex binding	1	TXNRD2
+response to oxygen radical	1	TXNRD2
+response to xenobiotic stimulus	1	TXNRD2
+response to selenium ion	1	TXNRD2
+response to hyperoxia	1	TXNRD2
+axon	1	TXNRD2
+dendrite	1	TXNRD2
+neuronal cell body	1	TXNRD2
+pyridoxal phosphate binding	1	PLPBP
+biological_process	1	PLPBP
+intracellular anatomical structure	1	PLPBP
+ferrous iron binding	1	FTO
+transferase activity	1	FTO
+oxidative RNA demethylase activity	1	FTO
+oxidative DNA demethylase activity	1	FTO
+DNA-N1-methyladenine dioxygenase activity	1	FTO
+mRNA N6-methyladenosine dioxygenase activity	1	FTO
+tRNA demethylase activity	1	FTO
+temperature homeostasis	1	FTO
+DNA dealkylation involved in DNA repair	1	FTO
+regulation of lipid storage	1	FTO
+oxidative single-stranded DNA demethylation	1	FTO
+oxidative single-stranded RNA demethylation	1	FTO
+regulation of multicellular organism growth	1	FTO
+RNA repair	1	FTO
+regulation of respiratory system process	1	FTO
+adipose tissue development	1	FTO
+mRNA destabilization	1	FTO
+regulation of white fat cell proliferation	1	FTO
+oxidative demethylation	1	FTO
+DNA demethylation	1	FTO
+regulation of brown fat cell differentiation	1	FTO
+nuclear speck	1	FTO
+regulation of low-density lipoprotein particle clearance	1	CNPY2
+positive regulation of low-density lipoprotein receptor activity	1	CNPY2
+protein serine/threonine phosphatase activity	1	PHLPP2
+myosin phosphatase activity	1	PHLPP2
+protein dephosphorylation	1	PHLPP2
+hippocampus development	1	PHLPP2
+photoreceptor inner segment	1	PHLPP2
+photoreceptor outer segment membrane	1	PHLPP2
+intercellular bridge	1	PHLPP2
+mitotic spindle	1	PHLPP2
+glutathione-disulfide reductase (NADPH) activity	1	GSR
+electron transfer activity	1	GSR
+NADP binding	1	GSR
+electron transport chain	1	GSR
+cellular response to oxidative stress	1	GSR
+external side of plasma membrane	1	GSR
+adenosine kinase activity	1	ADK
+deoxyadenosine kinase activity	1	ADK
+purine nucleobase metabolic process	1	ADK
+purine ribonucleoside salvage	1	ADK
+dATP biosynthetic process	1	ADK
+ribonucleoside monophosphate biosynthetic process	1	ADK
+phosphorylation	1	ADK
+GMP salvage	1	ADK
+AMP salvage	1	ADK
+dAMP salvage	1	ADK
+aminoacyl-tRNA editing activity	1	AARS1
+Ser-tRNA(Ala) hydrolase activity	1	AARS1
+alanine-tRNA ligase activity	1	AARS1
+amino acid binding	1	AARS1
+translation regulator activity	1	AARS1
+tRNA modification	1	AARS1
+tRNA aminoacylation for protein translation	1	AARS1
+alanyl-tRNA aminoacylation	1	AARS1
+tRNA processing	1	AARS1
+cerebellar Purkinje cell layer development	1	AARS1
+negative regulation of neuron apoptotic process	1	AARS1
+neuromuscular process controlling balance	1	AARS1
+neuron apoptotic process	1	AARS1
+aminoacyl-tRNA metabolism involved in translational fidelity	1	AARS1
+regulation of cytoplasmic translational fidelity	1	AARS1
+GTPase activator activity	1	DNM1L
+microtubule binding	1	DNM1L
+GTP-dependent protein binding	1	DNM1L
+small GTPase binding	1	DNM1L
+mitochondrial fission	1	DNM1L
+release of cytochrome c from mitochondria	1	DNM1L
+calcium ion transport	1	DNM1L
+endocytosis	1	DNM1L
+mitochondrion organization	1	DNM1L
+endoplasmic reticulum organization	1	DNM1L
+regulation of gene expression	1	DNM1L
+regulation of mitochondrion organization	1	DNM1L
+peroxisome fission	1	DNM1L
+mitochondrial fragmentation involved in apoptotic process	1	DNM1L
+intracellular distribution of mitochondria	1	DNM1L
+rhythmic process	1	DNM1L
+protein complex oligomerization	1	DNM1L
+heart contraction	1	DNM1L
+membrane fusion	1	DNM1L
+necroptotic process	1	DNM1L
+mitochondrion morphogenesis	1	DNM1L
+protein localization to mitochondrion	1	DNM1L
+positive regulation of neutrophil chemotaxis	1	DNM1L
+positive regulation of mitochondrial fission	1	DNM1L
+mitochondrial membrane fission	1	DNM1L
+positive regulation of release of cytochrome c from mitochondria	1	DNM1L
+mitocytosis	1	DNM1L
+regulation of peroxisome organization	1	DNM1L
+regulation of autophagy of mitochondrion	1	DNM1L
+regulation of ATP metabolic process	1	DNM1L
+regulation of ubiquitin protein ligase activity	1	DNM1L
+positive regulation of intrinsic apoptotic signaling pathway	1	DNM1L
+endoplasmic reticulum membrane	1	DNM1L
+microtubule	1	DNM1L
+brush border	1	DNM1L
+clathrin-coated pit	1	DNM1L
+synaptic vesicle membrane	1	DNM1L
+perinuclear region of cytoplasm	1	DNM1L
+mitochondrion-derived vesicle	1	DNM1L
+diphosphomevalonate decarboxylase activity	1	MVD
+cholesterol biosynthetic process	1	MVD
+isoprenoid biosynthetic process	1	MVD
+isopentenyl diphosphate biosynthetic process, mevalonate pathway	1	MVD
+glutathione transferase activity	1	GSTZ1
+glutathione peroxidase activity	1	GSTZ1
+maleylacetoacetate isomerase activity	1	GSTZ1
+L-phenylalanine catabolic process	1	GSTZ1
+tyrosine catabolic process	1	GSTZ1
+autophagy	1	SH3GLB1
+positive regulation of autophagy	1	SH3GLB1
+regulation of macroautophagy	1	SH3GLB1
+positive regulation of protein-containing complex assembly	1	SH3GLB1
+regulation of protein stability	1	SH3GLB1
+regulation of cytokinesis	1	SH3GLB1
+receptor catabolic process	1	SH3GLB1
+cellular response to amino acid starvation	1	SH3GLB1
+cellular response to glucose starvation	1	SH3GLB1
+autophagic cell death	1	SH3GLB1
+membrane organization	1	SH3GLB1
+membrane fission	1	SH3GLB1
+positive regulation of membrane tubulation	1	SH3GLB1
+protein localization to vacuolar membrane	1	SH3GLB1
+positive regulation of protein targeting to mitochondrion	1	SH3GLB1
+positive regulation of autophagosome assembly	1	SH3GLB1
+Golgi membrane	1	SH3GLB1
+autophagosome membrane	1	SH3GLB1
+midbody	1	SH3GLB1
+cytoplasmic vesicle	1	SH3GLB1
+magnesium ion binding	1	ADSS2
+adenylosuccinate synthase activity	1	ADSS2
+immune system process	1	ADSS2
+AMP biosynthetic process	1	ADSS2
+aspartate metabolic process	1	ADSS2
+response to purine-containing compound	1	ADSS2
+'de novo' AMP biosynthetic process	1	ADSS2
+IMP metabolic process	1	ADSS2
+response to ammonium ion	1	ADSS2
+cellular response to electrical stimulus	1	ADSS2
+ATP hydrolysis activity	1	OLA1
+ribosomal large subunit binding	1	OLA1
+ATP metabolic process	1	OLA1
+centrosome	1	OLA1
+platelet alpha granule lumen	1	OLA1
+central nervous system development	1	SH3GL1
+synaptic vesicle uncoating	1	SH3GL1
+podosome	1	SH3GL1
+early endosome membrane	1	SH3GL1
+cell projection	1	SH3GL1
+anchoring junction	1	SH3GL1
+presynapse	1	SH3GL1
+cytoplasmic translation	1	DRG2
+peptidyl-prolyl cis-trans isomerase activity	1	PPID
+transcription factor binding	1	PPID
+cyclosporin A binding	1	PPID
+nuclear estrogen receptor binding	1	PPID
+heat shock protein binding	1	PPID
+protein peptidyl-prolyl isomerization	1	PPID
+protein transport	1	PPID
+viral release from host cell	1	PPID
+lipid droplet organization	1	PPID
+positive regulation of viral genome replication	1	PPID
+cellular response to UV-A	1	PPID
+methylmalonyl-CoA mutase activity	1	MMUT
+cobalamin binding	1	MMUT
+modified amino acid binding	1	MMUT
+post-embryonic development	1	MMUT
+propionate metabolic process, methylmalonyl pathway	1	MMUT
+positive regulation of GTPase activity	1	MMUT
+homocysteine metabolic process	1	MMUT
+succinyl-CoA biosynthetic process	1	MMUT
+ribonucleoside-diphosphate reductase activity, thioredoxin disulfide as acceptor	1	RRM1
+ribonucleoside-diphosphate reductase activity	1	RRM1
+disordered domain specific binding	1	RRM1
+DNA synthesis involved in DNA repair	1	RRM1
+mitochondrial DNA replication	1	RRM1
+DNA repair	1	RRM1
+ribonucleoside diphosphate metabolic process	1	RRM1
+deoxyribonucleotide biosynthetic process	1	RRM1
+2'-deoxyribonucleotide biosynthetic process	1	RRM1
+positive regulation of G2/M transition of mitotic cell cycle	1	RRM1
+protein heterotetramerization	1	RRM1
+positive regulation of G0 to G1 transition	1	RRM1
+positive regulation of G1/S transition of mitotic cell cycle	1	RRM1
+ribonucleoside-diphosphate reductase complex	1	RRM1
+ADP binding	1	CHORDC1
+regulation of centrosome duplication	1	CHORDC1
+centrosome duplication	1	CHORDC1
+regulation of cellular response to heat	1	CHORDC1
+negative regulation of Rho-dependent protein serine/threonine kinase activity	1	CHORDC1
+cellular_component	1	CHORDC1
+signaling receptor binding	1	NPPB
+hormone activity	1	NPPB
+diuretic hormone activity	1	NPPB
+hormone receptor binding	1	NPPB
+negative regulation of systemic arterial blood pressure	1	NPPB
+cardiac conduction system development	1	NPPB
+cGMP biosynthetic process	1	NPPB
+cell surface receptor signaling pathway	1	NPPB
+receptor guanylyl cyclase signaling pathway	1	NPPB
+body fluid secretion	1	NPPB
+regulation of blood pressure	1	NPPB
+negative regulation of angiogenesis	1	NPPB
+cGMP-mediated signaling	1	NPPB
+negative regulation of cell growth	1	NPPB
+positive regulation of urine volume	1	NPPB
+positive regulation of renal sodium excretion	1	NPPB
+vasodilation	1	NPPB
+regulation of vascular permeability	1	NPPB
+blood vessel diameter maintenance	1	NPPB
+glycerate dehydrogenase activity	1	GRHPR
+hydroxypyruvate reductase activity	1	GRHPR
+glyoxylate reductase (NADP+) activity	1	GRHPR
+carboxylic acid binding	1	GRHPR
+NAD binding	1	GRHPR
+NADPH binding	1	GRHPR
+carboxylic acid metabolic process	1	GRHPR
+dicarboxylic acid metabolic process	1	GRHPR
+glyoxylate metabolic process	1	GRHPR
+peroxisomal matrix	1	GRHPR
+catalytic complex	1	GRHPR
+galactose binding	1	LGALS9
+galactoside binding	1	LGALS9
+carbohydrate binding	1	LGALS9
+disaccharide binding	1	LGALS9
+natural killer cell tolerance induction	1	LGALS9
+female pregnancy	1	LGALS9
+response to lipopolysaccharide	1	LGALS9
+regulation of interleukin-4 production	1	LGALS9
+regulation of interleukin-5 production	1	LGALS9
+negative regulation of chemokine production	1	LGALS9
+negative regulation of type II interferon production	1	LGALS9
+negative regulation of tumor necrosis factor production	1	LGALS9
+positive regulation of type II interferon production	1	LGALS9
+positive regulation of interleukin-1 beta production	1	LGALS9
+positive regulation of interleukin-10 production	1	LGALS9
+positive regulation of interleukin-13 production	1	LGALS9
+positive regulation of interleukin-4 production	1	LGALS9
+positive regulation of interleukin-6 production	1	LGALS9
+positive regulation of tumor necrosis factor production	1	LGALS9
+positive regulation of CD4-positive, CD25-positive, alpha-beta regulatory T cell differentiation involved in immune response	1	LGALS9
+toll-like receptor 2 signaling pathway	1	LGALS9
+toll-like receptor 4 signaling pathway	1	LGALS9
+p38MAPK cascade	1	LGALS9
+negative regulation of mast cell degranulation	1	LGALS9
+negative regulation of natural killer cell mediated cytotoxicity	1	LGALS9
+negative regulation of activated T cell proliferation	1	LGALS9
+positive regulation of viral entry into host cell	1	LGALS9
+maternal process involved in female pregnancy	1	LGALS9
+positive regulation of activated T cell autonomous cell death	1	LGALS9
+cellular response to type II interferon	1	LGALS9
+positive regulation of transforming growth factor beta production	1	LGALS9
+positive regulation of monocyte chemotactic protein-1 production	1	LGALS9
+mature conventional dendritic cell differentiation	1	LGALS9
+cellular response to virus	1	LGALS9
+regulation of p38MAPK cascade	1	LGALS9
+positive regulation of dendritic cell chemotaxis	1	LGALS9
+negative regulation of CD4-positive, alpha-beta T cell proliferation	1	LGALS9
+positive regulation of CD4-positive, alpha-beta T cell proliferation	1	LGALS9
+positive regulation of dendritic cell apoptotic process	1	LGALS9
+positive regulation of T cell activation via T cell receptor contact with antigen bound to MHC molecule on antigen presenting cell	1	LGALS9
+positive regulation of dendritic cell differentiation	1	LGALS9
+positive regulation of cysteine-type endopeptidase activity involved in apoptotic signaling pathway	1	LGALS9
+collagen-containing extracellular matrix	1	LGALS9
+protein kinase activity	1	MAP2K1
+protein serine/threonine kinase activity	1	MAP2K1
+MAP kinase kinase activity	1	MAP2K1
+protein serine/threonine/tyrosine kinase activity	1	MAP2K1
+protein tyrosine kinase activity	1	MAP2K1
+MAP-kinase scaffold activity	1	MAP2K1
+protein kinase activator activity	1	MAP2K1
+protein serine/threonine kinase activator activity	1	MAP2K1
+scaffold protein binding	1	MAP2K1
+protein serine kinase activity	1	MAP2K1
+MAPK cascade	1	MAP2K1
+protein phosphorylation	1	MAP2K1
+heart development	1	MAP2K1
+negative regulation of cell population proliferation	1	MAP2K1
+cerebellar cortex formation	1	MAP2K1
+neuron differentiation	1	MAP2K1
+keratinocyte differentiation	1	MAP2K1
+thyroid gland development	1	MAP2K1
+regulation of stress-activated MAPK cascade	1	MAP2K1
+endodermal cell differentiation	1	MAP2K1
+type B pancreatic cell proliferation	1	MAP2K1
+insulin-like growth factor receptor signaling pathway	1	MAP2K1
+thymus development	1	MAP2K1
+regulation of axon regeneration	1	MAP2K1
+cell motility	1	MAP2K1
+positive regulation of axonogenesis	1	MAP2K1
+Bergmann glial cell differentiation	1	MAP2K1
+face development	1	MAP2K1
+trachea formation	1	MAP2K1
+epithelial cell proliferation involved in lung morphogenesis	1	MAP2K1
+placenta blood vessel development	1	MAP2K1
+labyrinthine layer development	1	MAP2K1
+positive regulation of protein serine/threonine kinase activity	1	MAP2K1
+regulation of Golgi inheritance	1	MAP2K1
+cellular senescence	1	MAP2K1
+positive regulation of endodermal cell differentiation	1	MAP2K1
+regulation of early endosome to late endosome transport	1	MAP2K1
+early endosome	1	MAP2K1
+late endosome	1	MAP2K1
+microtubule organizing center	1	MAP2K1
+focal adhesion	1	MAP2K1
+glycerone kinase activity	1	TKFC
+FAD-AMP lyase (cyclizing) activity	1	TKFC
+triokinase activity	1	TKFC
+carbohydrate metabolic process	1	TKFC
+glycerol catabolic process	1	TKFC
+negative regulation of MDA-5 signaling pathway	1	TKFC
+regulation of innate immune response	1	TKFC
+carbohydrate phosphorylation	1	TKFC
+fructose catabolic process to hydroxyacetone phosphate and glyceraldehyde-3-phosphate	1	TKFC
+translation release factor activity	1	GSPT1
+molecular function activator activity	1	GSPT1
+G1/S transition of mitotic cell cycle	1	GSPT1
+nuclear-transcribed mRNA catabolic process, nonsense-mediated decay	1	GSPT1
+translation	1	GSPT1
+translational termination	1	GSPT1
+regulation of translational termination	1	GSPT1
+protein methylation	1	GSPT1
+translation release factor complex	1	GSPT1
+cytosolic ribosome	1	GSPT1
+regulation of cell migration	1	MEAK7
+response to nutrient levels	1	MEAK7
+TOR signaling	1	MEAK7
+response to insulin	1	MEAK7
+regulation of cell population proliferation	1	MEAK7
+response to amino acid	1	MEAK7
+positive regulation of protein localization to lysosome	1	MEAK7
+negative regulation of oxidative stress-induced neuron death	1	MEAK7
+lysosomal membrane	1	MEAK7

@@ -1,0 +1,31 @@
+Your response should be formatted as Markdown paragraphs
+Write a critical and concise analysis of this human protein system, describing your reasoning as you go and providing references to scientific papers.
+
+A critical goal of the analysis is to determine if this is a novel complex or if any proteins are novel members of a known complex
+
+Format with Title, Summary, and References sections.        
+Avoid overly general statements of how the proteins are involved in various cellular processes        
+Avoid repeating the goals of the analysis.
+
+What cellular components and complexes are involved in this system?
+What mechanisms and biological processes are performed by this system?
+Propose a name for the system to reflect the cellular location and function, and should be specific but brief. Do not compose an acronym. Place it as the title of your report
+Human Proteins: DAP3, LRP2, MRPS10, MRPS11, MRPS14, MRPS15, MRPS2, MRPS21, MRPS22, MRPS23, MRPS26, MRPS27, MRPS34, MRPS5, MRPS7, MRPS9.
+
+System features from GO terms: 
+mitochondrial translation: 15 proteins: DAP3, MRPS10, MRPS11, MRPS14, MRPS15, MRPS2, MRPS21, MRPS22, MRPS23, MRPS26, MRPS27, MRPS34, MRPS5, MRPS7, MRPS9
+mitochondrial inner membrane: 15 proteins: DAP3, MRPS10, MRPS11, MRPS14, MRPS15, MRPS2, MRPS21, MRPS22, MRPS23, MRPS26, MRPS27, MRPS34, MRPS5, MRPS7, MRPS9
+mitochondrial small ribosomal subunit: 15 proteins: DAP3, MRPS10, MRPS11, MRPS14, MRPS15, MRPS2, MRPS21, MRPS22, MRPS23, MRPS26, MRPS27, MRPS34, MRPS5, MRPS7, MRPS9
+mitochondrion: 13 proteins: DAP3, MRPS10, MRPS11, MRPS14, MRPS15, MRPS2, MRPS22, MRPS23, MRPS26, MRPS27, MRPS34, MRPS5, MRPS9
+structural constituent of ribosome: 12 proteins: DAP3, MRPS11, MRPS14, MRPS15, MRPS2, MRPS21, MRPS22, MRPS23, MRPS34, MRPS5, MRPS7, MRPS9
+RNA binding: 10 proteins: DAP3, MRPS11, MRPS14, MRPS15, MRPS21, MRPS23, MRPS26, MRPS5, MRPS7, MRPS9
+protein binding: 7 proteins: DAP3, LRP2, MRPS11, MRPS14, MRPS23, MRPS27, MRPS9
+translation: 6 proteins: MRPS11, MRPS14, MRPS15, MRPS21, MRPS5, MRPS7
+nucleoplasm: 3 proteins: DAP3, MRPS15, MRPS26
+nucleolus: 3 proteins: MRPS15, MRPS27, MRPS9
+cell population proliferation: 2 proteins: LRP2, MRPS27
+biological_process: 2 proteins: MRPS10, MRPS22
+ribosomal small subunit assembly: 2 proteins: MRPS11, MRPS7
+mitochondrial ribosome: 2 proteins: MRPS14, MRPS22
+nuclear membrane: 2 proteins: MRPS14, MRPS23
+rRNA binding: 2 proteins: MRPS27, MRPS7

@@ -1,0 +1,67 @@
+Feature	Number of Genes	Genes
+protein binding	7	WDR44, RMDN2, CERT1, AFTPH, OSBPL10, MIGA2, OSBPL2
+cytosol	6	WDR44, RMDN2, CERT1, AFTPH, OSBPL10, OSBPL2
+Golgi apparatus	4	WDR44, RMDN2, CERT1, AFTPH
+perinuclear region of cytoplasm	3	WDR44, CERT1, AFTPH
+membrane	3	RMDN2, OSBPL10, OSBPL2
+intracellular membrane-bounded organelle	3	AFTPH, OSBPL10, OSBPL2
+mitochondrion	2	RMDN2, CERT1
+intermembrane lipid transfer	2	CERT1, OSBPL2
+nucleoplasm	2	CERT1, AFTPH
+sterol transporter activity	2	OSBPL10, OSBPL2
+cholesterol binding	2	OSBPL10, OSBPL2
+phospholipid transport	2	OSBPL10, OSBPL2
+endosome membrane	1	WDR44
+microtubule binding	1	RMDN2
+cytoplasm	1	RMDN2
+spindle microtubule	1	RMDN2
+mitotic spindle	1	RMDN2
+mitotic spindle pole	1	RMDN2
+kinase activity	1	CERT1
+ceramide binding	1	CERT1
+ceramide transfer activity	1	CERT1
+ceramide 1-phosphate binding	1	CERT1
+ceramide 1-phosphate transfer activity	1	CERT1
+cell morphogenesis	1	CERT1
+in utero embryonic development	1	CERT1
+heart morphogenesis	1	CERT1
+ceramide metabolic process	1	CERT1
+muscle contraction	1	CERT1
+immune response	1	CERT1
+endoplasmic reticulum organization	1	CERT1
+signal transduction	1	CERT1
+cell population proliferation	1	CERT1
+response to endoplasmic reticulum stress	1	CERT1
+ER to Golgi ceramide transport	1	CERT1
+ceramide transport	1	CERT1
+lipid homeostasis	1	CERT1
+mitochondrion morphogenesis	1	CERT1
+intermembrane sphingolipid transfer	1	CERT1
+ceramide 1-phosphate transport	1	CERT1
+endoplasmic reticulum membrane	1	CERT1
+clathrin binding	1	AFTPH
+protein transport	1	AFTPH
+intracellular transport	1	AFTPH
+AP-1 adaptor complex	1	AFTPH
+trans-Golgi network membrane	1	AFTPH
+phosphatidylserine binding	1	OSBPL10
+phospholipid transporter activity	1	OSBPL10
+sterol transport	1	OSBPL10
+phosphatidylserine acyl-chain remodeling	1	OSBPL10
+cytoskeleton	1	OSBPL10
+protein homodimerization activity	1	MIGA2
+protein heterodimerization activity	1	MIGA2
+mitochondrial fusion	1	MIGA2
+bone development	1	MIGA2
+mitochondrial outer membrane	1	MIGA2
+plasma membrane	1	MIGA2
+phosphatidylinositol-4,5-bisphosphate binding	1	OSBPL2
+phosphatidylinositol transfer activity	1	OSBPL2
+cholesterol transfer activity	1	OSBPL2
+bile acid biosynthetic process	1	OSBPL2
+plasma membrane organization	1	OSBPL2
+cholesterol transport	1	OSBPL2
+intracellular cholesterol transport	1	OSBPL2
+protein homotetramerization	1	OSBPL2
+lipid droplet	1	OSBPL2
+extrinsic component of cytoplasmic side of plasma membrane	1	OSBPL2

@@ -1,0 +1,93 @@
+Feature	Number of Genes	Genes
+protein binding	9	GTF3C4, ZNF688, CENPO, NUP88, RAN, GTF3C1, CENPQ, CENPP, ITGB3BP
+nucleoplasm	8	GTF3C4, CENPO, NUP88, RAN, GTF3C1, CENPQ, CENPP, ITGB3BP
+cytosol	6	CENPO, NUP88, RAN, CENPQ, CENPP, ITGB3BP
+nucleus	5	ZNF688, RAN, CENPQ, CENPP, ITGB3BP
+DNA binding	3	GTF3C4, ZNF688, GTF3C1
+nucleolus	3	RAN, GTF3C1, CENPP
+membrane	3	RAN, GTF3C1, ITGB3BP
+RNA polymerase III general transcription initiation factor activity	2	GTF3C4, GTF3C1
+transcription by RNA polymerase III	2	GTF3C4, GTF3C1
+transcription initiation at RNA polymerase III promoter	2	GTF3C4, GTF3C1
+5S class rRNA transcription by RNA polymerase III	2	GTF3C4, GTF3C1
+tRNA transcription by RNA polymerase III	2	GTF3C4, GTF3C1
+transcription factor TFIIIC complex	2	GTF3C4, GTF3C1
+ DNA-templated transcription	2	ZNF688, ITGB3BP
+ribosomal large subunit export from nucleus	2	NUP88, RAN
+ribosomal small subunit export from nucleus	2	NUP88, RAN
+mitotic cell cycle	2	NUP88, RAN
+protein import into nucleus	2	NUP88, RAN
+nuclear envelope	2	NUP88, RAN
+nuclear pore	2	NUP88, RAN
+cell division	2	RAN, ITGB3BP
+cytoplasm	2	RAN, ITGB3BP
+chromosome, centromeric region	2	CENPQ, CENPP
+CENP-A containing chromatin assembly	2	CENPP, ITGB3BP
+histone acetyltransferase activity	1	GTF3C4
+enzyme activator activity	1	GTF3C4
+chromatin remodeling	1	GTF3C4
+mitochondrion	1	GTF3C4
+molecular_function	1	ZNF688
+metal ion binding	1	ZNF688
+biological_process	1	ZNF688
+cellular_component	1	ZNF688
+centromere complex assembly	1	CENPO
+nuclear body	1	CENPO
+Mis6-Sim4 complex	1	CENPO
+structural constituent of nuclear pore	1	NUP88
+mRNA export from nucleus	1	NUP88
+nucleocytoplasmic transport	1	NUP88
+magnesium ion binding	1	RAN
+chromatin binding	1	RAN
+RNA binding	1	RAN
+GTPase activity	1	RAN
+G protein activity	1	RAN
+nuclear export signal receptor activity	1	RAN
+GTP binding	1	RAN
+GDP binding	1	RAN
+protein domain specific binding	1	RAN
+protein-containing complex binding	1	RAN
+cadherin binding	1	RAN
+dynein intermediate chain binding	1	RAN
+protein heterodimerization activity	1	RAN
+importin-alpha family protein binding	1	RAN
+pre-miRNA binding	1	RAN
+ribosomal subunit export from nucleus	1	RAN
+mitotic sister chromatid segregation	1	RAN
+DNA metabolic process	1	RAN
+protein export from nucleus	1	RAN
+mitotic spindle organization	1	RAN
+spermatid development	1	RAN
+viral process	1	RAN
+hippocampus development	1	RAN
+actin cytoskeleton organization	1	RAN
+ protein binding	1	RAN
+pre-miRNA export from nucleus	1	RAN
+ protein import into nucleus	1	RAN
+GTP metabolic process	1	RAN
+snRNA import into nucleus	1	RAN
+cellular response to mineralocorticoid stimulus	1	RAN
+protein localization to nucleolus	1	RAN
+male germ cell nucleus	1	RAN
+manchette	1	RAN
+centriole	1	RAN
+midbody	1	RAN
+protein-containing complex	1	RAN
+sperm flagellum	1	RAN
+melanosome	1	RAN
+RNA nuclear export complex	1	RAN
+recycling endosome	1	RAN
+extracellular exosome	1	RAN
+Flemming body	1	RAN
+rRNA transcription	1	GTF3C1
+tRNA transcription	1	GTF3C1
+ribonucleoprotein complex	1	GTF3C1
+metaphase plate congression	1	CENPQ
+ protein localization to kinetochore	1	CENPQ
+actin cytoskeleton	1	CENPQ
+oxidoreductase activity	1	DHRS12
+apoptotic process	1	ITGB3BP
+cell cycle	1	ITGB3BP
+cell adhesion	1	ITGB3BP
+signal transduction	1	ITGB3BP
+kinetochore	1	ITGB3BP

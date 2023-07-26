@@ -1,0 +1,24 @@
+Your response should be formatted as Markdown paragraphs
+Write a critical and concise analysis of this human protein system, describing your reasoning as you go and providing references to scientific papers.
+
+A critical goal of the analysis is to determine if this is a novel complex or if any proteins are novel members of a known complex
+
+Format with Title, Summary, and References sections.        
+Avoid overly general statements of how the proteins are involved in various cellular processes        
+Avoid repeating the goals of the analysis.
+
+What cellular components and complexes are involved in this system?
+What mechanisms and biological processes are performed by this system?
+Propose a name for the system to reflect the cellular location and function, and should be specific but brief. Do not compose an acronym. Place it as the title of your report
+Human Proteins: CHAF1A, PROX1, RPS24, STMN1, SUDS3, TBC1D2.
+
+System features from GO terms: 
+protein binding: 5 proteins: CHAF1A, PROX1, STMN1, SUDS3, TBC1D2
+cytosol: 5 proteins: PROX1, RPS24, STMN1, SUDS3, TBC1D2
+nucleus: 4 proteins: CHAF1A, PROX1, RPS24, SUDS3
+nucleoplasm: 4 proteins: PROX1, RPS24, SUDS3, TBC1D2
+cytoplasm: 3 proteins: PROX1, RPS24, STMN1
+chromatin: 2 proteins: CHAF1A, PROX1
+negative regulation of transcription by RNA polymerase II: 2 proteins: PROX1, SUDS3
+negative regulation of DNA-templated transcription: 2 proteins: PROX1, SUDS3
+membrane: 2 proteins: RPS24, STMN1

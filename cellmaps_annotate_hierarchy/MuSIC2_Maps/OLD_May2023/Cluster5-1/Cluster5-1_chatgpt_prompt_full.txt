@@ -1,0 +1,125 @@
+Write a critical and concise analysis of this system, describing your reasoning as you go and providing references to scientific papers.         
+Format with Title, Summary, and References sections.        
+Avoid overly general statements of how the proteins are involved in various cellular processes
+        
+Avoid recapitulating the goals of the analysis. 
+What cellular components and complexes are involved in this system?
+What mechanisms and biological processes are performed by this system?
+Propose a name for the system to reflect the function and location, and should be specific but brief. Do not compose an acronym. Place it as the title of your report
+Provide complete paper references with pubmed link
+A critical goal of the analysis is to determine if this is a novel complex or if any proteins are novel members of a known complex
+System features from GO terms: 
+mitochondrion: 89 proteins: IREB2, LYRM2, XPNPEP3, CYCS, GRPEL2, OAT, C1QBP, LIAS, NME4, TIMM9, UQCC2, TMLHE, GLRX5, MRPS18B, NOA1, TTC19, FAHD1, ACAA2, OGDH, FASTKD2, SELENOO, DARS2, PDHX, TIMM10, MGME1, UQCRFS1, COX5B, DBT, MIPEP, NDUFAB1, ALDH18A1, MRPS25, MRPS36, SARS2, COX4I1, AGK, PPM1K, MTIF2, PMPCA, MTERF3, MRPL53, MRPL37, MRPL58, MRPL28, BCAT2, MRPL14, MRPL23, MRPL42, MALSU1, MRPL48, YARS2, HSPD1, PMPCB, MRPL47, MRPL12, MRPL51, GADD45GIP1, MRPL10, MTFR1L, MRPL40, MRPL9, MRPL46, MRPL19, GTPBP3, COQ3, MRPL41, MRPL50, MRPL44, MRPL22, PARP9, MRPL57, NGRN, MRPS11, DAP3, MRPS22, MRPS9, MRPL15, MRPL39, MRPL52, MTHFD2, RHOT2, MRPS10, MRPS14, MRPS15, MRPS2, MRPS26, MRPS27, MRPS34, MRPS5
+protein binding: 71 proteins: IREB2, CNNM3, LYRM2, ELAVL2, XPNPEP3, LRRC15, CYCS, OAT, C1QBP, NME4, TIMM9, UQCC2, GLRX5, FBXW5, MRPS18B, NOA1, TTC19, ACAA2, OGDH, FASTKD2, DARS2, PDHX, TIMM10, MGME1, UQCRFS1, COX5B, NDUFAB1, MMAB, S100A4, RNF151, ALDH18A1, SARS2, COX4I1, AGK, PPM1K, MOCOS, PMPCA, MTERF3, MRPL53, MRPL28, MRPL23, MAPK11, MALSU1, MRPL48, YARS2, HSPD1, MRPL12, MRPL51, GADD45GIP1, MRPL10, MTFR1L, MRPL40, MRPL9, MRPL19, GTPBP3, COQ3, MRPL41, MRPL44, PARP9, MRPL57, NGRN, MRPS11, DAP3, MRPS9, MRPL15, MTHFD2, RHOT2, LRP2, MRPS14, MRPS27, SMG5
+mitochondrial inner membrane: 58 proteins: CYCS, NME4, TIMM9, UQCC2, MRPS18B, TTC19, TIMM10, UQCRFS1, COX5B, NDUFAB1, ALDH18A1, MRPS25, MRPS36, COX4I1, AGK, PMPCA, MRPL53, MRPL37, MRPL58, MRPL28, MRPL14, MRPL23, MRPL42, MRPL48, HSPD1, PMPCB, MRPL47, MRPL12, MRPL51, GADD45GIP1, MRPL10, MRPL40, MRPL9, MRPL46, MRPL19, COQ3, MRPL41, MRPL50, MRPL44, MRPL22, MRPL57, MRPS11, DAP3, MRPS22, MRPS7, MRPS9, MRPL15, MRPL39, MRPL52, MRPS10, MRPS14, MRPS15, MRPS2, MRPS21, MRPS26, MRPS27, MRPS34, MRPS5
+mitochondrial translation: 42 proteins: MRPS18B, FASTKD2, MRPS25, MRPL53, MRPL37, MRPL58, MRPL28, MRPL14, MRPL23, MRPL42, MRPL48, MRPL47, MRPL12, MRPL51, GADD45GIP1, MRPL10, MRPL40, MRPL9, MRPL46, MRPL19, MRPL41, MRPL50, MRPL44, MRPL22, MRPL57, MRPS11, DAP3, MRPS22, MRPS7, MRPS9, MRPL15, MRPL39, MRPL52, MRPS10, MRPS14, MRPS15, MRPS2, MRPS21, MRPS26, MRPS27, MRPS34, MRPS5
+RNA binding: 37 proteins: RO60, IREB2, FAM120A, ELAVL2, NOA1, ACAA2, FASTKD2, S100A4, ALDH18A1, SARS2, MTIF2, MRPL37, MRPL28, MRPL14, MRPL23, MRPL42, YARS2, HSPD1, MRPL12, MRPL10, MRPL40, MRPL9, MRPL41, MRPL44, MRPL22, NGRN, MRPS11, DAP3, MRPS7, MRPS9, MRPL15, MRPL39, MRPS14, MRPS15, MRPS21, MRPS26, MRPS5
+structural constituent of ribosome: 31 proteins: MRPS18B, MRPS25, MRPL37, MRPL28, MRPL14, MRPL23, MRPL42, MRPL47, MRPL12, MRPL51, MRPL10, MRPL9, MRPL46, MRPL19, MRPL41, MRPL44, MRPL22, MRPL57, MRPS11, DAP3, MRPS22, MRPS7, MRPS9, MRPL15, MRPL52, MRPS14, MRPS15, MRPS2, MRPS21, MRPS34, MRPS5
+mitochondrial matrix: 27 proteins: OAT, C1QBP, LIAS, NME4, UQCC2, TMLHE, GLRX5, FAHD1, ACAA2, OGDH, FASTKD2, DARS2, PDHX, DBT, MIPEP, NDUFAB1, MMAB, SARS2, PPM1K, MRPL58, BCAT2, MALSU1, YARS2, HSPD1, GADD45GIP1, COQ3, MTHFD2
+mitochondrial large ribosomal subunit: 25 proteins: MRPL53, MRPL37, MRPL58, MRPL28, MRPL14, MRPL23, MRPL42, MRPL48, MRPL47, MRPL12, MRPL51, GADD45GIP1, MRPL10, MRPL40, MRPL9, MRPL46, MRPL19, MRPL41, MRPL50, MRPL44, MRPL22, MRPL57, MRPL15, MRPL39, MRPL52
+cytosol: 24 proteins: RO60, IREB2, FAM120A, SCLT1, TTLL4, XPNPEP3, CYCS, C1QBP, FBXW5, FAHD1, DBT, S100A4, COX4I1, AGK, MOCOS, MTERF3, MRPL28, MAPK11, MALSU1, YARS2, HSPD1, MRPL50, PARP9, SMG5
+nucleoplasm: 22 proteins: RO60, OAT, MRPS18B, FAHD1, DARS2, NDUFAB1, S100A4, COX4I1, MTIF2, MRPL58, BCAT2, MAPK11, GADD45GIP1, MRPL10, MRPL46, MRPL44, PARP9, NGRN, DAP3, MRPL52, MRPS15, MRPS26
+translation: 18 proteins: MRPS18B, MRPL37, MRPL28, MRPL23, MRPL42, YARS2, MRPL12, MRPL51, MRPL10, MRPL9, MRPL41, MRPS11, MRPS7, MRPL52, MRPS14, MRPS15, MRPS21, MRPS5
+mitochondrial small ribosomal subunit: 17 proteins: MRPS18B, MRPS25, MRPL42, MRPS11, DAP3, MRPS22, MRPS7, MRPS9, MRPS10, MRPS14, MRPS15, MRPS2, MRPS21, MRPS26, MRPS27, MRPS34, MRPS5
+metal ion binding: 16 proteins: RO60, IREB2, TTLL4, CYCS, LIAS, NME4, GLRX5, FAHD1, OGDH, SELENOO, UQCRFS1, COX5B, MIPEP, PPM1K, PMPCA, PMPCB
+cytoplasm: 14 proteins: IREB2, XPNPEP3, OAT, C1QBP, FBXW5, DBT, RNF151, MTIF2, MAPK11, HSPD1, GTPBP3, PARP9, MRPS27, SMG5
+nucleus: 13 proteins: FAM120A, CYCS, C1QBP, GLRX5, OGDH, S100A4, RNF151, MAPK11, MRPL40, MRPL19, PARP9, NGRN, SMG5
+ATP binding: 12 proteins: TTLL4, NME4, SELENOO, DARS2, MMAB, ALDH18A1, SARS2, AGK, MAPK11, CNNM2, YARS2, HSPD1
+plasma membrane: 10 proteins: FAM120A, CNNM3, LRRC15, C1QBP, MRPL58, MRPL42, CNNM2, HSPD1, MRPL44, LRP2
+mitochondrial ribosome: 10 proteins: MRPL37, MRPL28, MRPL48, MRPL51, MRPL40, MRPL9, MRPL57, MRPS22, MRPL39, MRPS14
+membrane: 7 proteins: FAM120A, CNNM3, C1QBP, COX4I1, HSPD1, PARP9, RHOT2
+protein homodimerization activity: 6 proteins: XPNPEP3, GRPEL2, TIMM9, DARS2, TIMM10, YARS2
+extracellular space: 6 proteins: LRRC15, C1QBP, S100A4, PMPCA, HSPD1, MTHFD2
+mitochondrial intermembrane space: 6 proteins: CYCS, NME4, TIMM9, UQCC2, TIMM10, AGK
+protein-folding chaperone binding: 6 proteins: GRPEL2, TIMM9, OGDH, TIMM10, HSPD1, LRP2
+nuclear body: 5 proteins: RO60, UQCC2, YARS2, MRPL44, NGRN
+positive regulation of mitochondrial translation: 5 proteins: C1QBP, UQCC2, FASTKD2, NGRN, MRPS27
+nucleolus: 5 proteins: C1QBP, MRPL40, MRPS9, MRPS15, MRPS27
+GTP binding: 5 proteins: NOA1, MTIF2, GTPBP3, DAP3, RHOT2
+ribonucleoprotein complex: 4 proteins: RO60, ELAVL2, MRPL10, MRPL41
+extracellular exosome: 4 proteins: LRRC15, S100A4, HSPD1, LRP2
+apoptotic process: 4 proteins: C1QBP, NOA1, FASTKD2, MRPL41
+mitochondrial ribosome assembly: 4 proteins: NOA1, MTERF3, NGRN, MRPS2
+mitochondrial membrane: 4 proteins: OGDH, NDUFAB1, AGK, NGRN
+rRNA binding: 4 proteins: FASTKD2, NGRN, MRPS7, MRPS27
+tRNA binding: 4 proteins: DARS2, SARS2, YARS2, MRPS27
+calcium ion binding: 4 proteins: NDUFAB1, S100A4, RHOT2, LRP2
+biological_process: 4 proteins: MRPL47, MRPL46, MRPS22, MRPS10
+tricarboxylic acid cycle: 3 proteins: IREB2, OGDH, MRPS36
+mitochondrial electron transport, cytochrome c to oxygen: 3 proteins: CYCS, COX5B, COX4I1
+cellular respiration: 3 proteins: CYCS, COX5B, COX4I1
+identical protein binding: 3 proteins: OAT, S100A4, ALDH18A1
+mRNA binding: 3 proteins: C1QBP, MRPL12, MRPS7
+zinc ion binding: 3 proteins: TIMM9, TIMM10, RNF151
+sensory perception of sound: 3 proteins: TIMM9, TIMM10, LRP2
+protein insertion into mitochondrial inner membrane: 3 proteins: TIMM9, TIMM10, AGK
+TIM22 mitochondrial import inner membrane insertion complex: 3 proteins: TIMM9, TIMM10, AGK
+mitochondrial respiratory chain complex III assembly: 3 proteins: UQCC2, TTC19, UQCRFS1
+mitochondrial nucleoid: 3 proteins: UQCC2, FASTKD2, DBT
+proton transmembrane transport: 3 proteins: UQCRFS1, COX5B, COX4I1
+mitochondrial respiratory chain complex IV: 3 proteins: UQCRFS1, COX5B, COX4I1
+ubiquitin protein ligase binding: 3 proteins: DBT, HSPD1, SMG5
+metalloendopeptidase activity: 3 proteins: MIPEP, PMPCA, PMPCB
+protein processing involved in protein targeting to mitochondrion: 3 proteins: MIPEP, PMPCA, PMPCB
+mitochondrial outer membrane: 3 proteins: AGK, MTERF3, RHOT2
+GTPase activity: 3 proteins: MTIF2, GTPBP3, RHOT2
+molecular_function: 3 proteins: MRPL47, MRPL46, MRPS10
+cilium assembly: 2 proteins: RO60, SCLT1
+4 iron, 4 sulfur cluster binding: 2 proteins: IREB2, LIAS
+transport: 2 proteins: CNNM3, CNNM2
+magnesium ion homeostasis: 2 proteins: CNNM3, CNNM2
+mitochondrial respiratory chain complex I assembly: 2 proteins: LYRM2, NDUFAB1
+centrosome: 2 proteins: SCLT1, TTC19
+collagen-containing extracellular matrix: 2 proteins: LRRC15, S100A4
+mitochondrial electron transport, ubiquinol to cytochrome c: 2 proteins: CYCS, UQCRFS1
+respirasome: 2 proteins: CYCS, TTC19
+unfolded protein binding: 2 proteins: GRPEL2, HSPD1
+protein folding: 2 proteins: GRPEL2, HSPD1
+TIM23 mitochondrial import inner membrane translocase complex: 2 proteins: GRPEL2, TIMM10
+pyridoxal phosphate binding: 2 proteins: OAT, MOCOS
+L-proline biosynthetic process: 2 proteins: OAT, ALDH18A1
+transcription corepressor activity: 2 proteins: C1QBP, PARP9
+mitochondrial ribosome binding: 2 proteins: C1QBP, MRPS27
+negative regulation of transcription by RNA polymerase II: 2 proteins: C1QBP, PARP9
+positive regulation of apoptotic process: 2 proteins: C1QBP, HSPD1
+innate immune response: 2 proteins: C1QBP, PARP9
+positive regulation of protein kinase B signaling: 2 proteins: C1QBP, LRP2
+cell surface: 2 proteins: C1QBP, HSPD1
+neural tube closure: 2 proteins: LIAS, LRP2
+protein lipoylation: 2 proteins: LIAS, NDUFAB1
+phosphorylation: 2 proteins: NME4, ALDH18A1
+membrane insertase activity: 2 proteins: TIMM9, TIMM10
+protein targeting to mitochondrion: 2 proteins: TIMM9, TIMM10
+mitochondrial intermembrane space protein transporter complex: 2 proteins: TIMM9, TIMM10
+2 iron, 2 sulfur cluster binding: 2 proteins: GLRX5, UQCRFS1
+iron-sulfur cluster assembly: 2 proteins: GLRX5, NDUFAB1
+[2Fe-2S] cluster assembly: 2 proteins: GLRX5, NDUFAB1
+dendrite: 2 proteins: GLRX5, LRP2
+iron-sulfur cluster assembly complex: 2 proteins: GLRX5, NDUFAB1
+protein ubiquitination: 2 proteins: FBXW5, RNF151
+cell junction: 2 proteins: MRPS18B, MRPL46
+mitochondrion organization: 2 proteins: NOA1, RHOT2
+extrinsic component of mitochondrial inner membrane: 2 proteins: NOA1, COQ3
+oxoglutarate dehydrogenase (succinyl-transferring) activity: 2 proteins: OGDH, MRPS36
+generation of precursor metabolites and energy: 2 proteins: OGDH, COX4I1
+2-oxoglutarate metabolic process: 2 proteins: OGDH, MRPS36
+tRNA aminoacylation: 2 proteins: DARS2, YARS2
+cytochrome-c oxidase activity: 2 proteins: COX5B, COX4I1
+mitochondrial large ribosomal subunit binding: 2 proteins: NDUFAB1, MALSU1
+aerobic respiration: 2 proteins: NDUFAB1, MTFR1L
+extracellular region: 2 proteins: S100A4, NGRN
+intracellular membrane-bounded organelle: 2 proteins: AGK, CNNM2
+mitochondrial processing peptidase complex: 2 proteins: PMPCA, PMPCB
+mitochondrial transcription: 2 proteins: MTERF3, MRPL12
+lipid metabolic process: 2 proteins: BCAT2, LRP2
+cellular response to leukemia inhibitory factor: 2 proteins: BCAT2, MRPL15
+positive regulation of interleukin-12 production: 2 proteins: MAPK11, HSPD1
+double-stranded RNA binding: 2 proteins: HSPD1, MRPL44
+enzyme binding: 2 proteins: HSPD1, PARP9
+negative regulation of apoptotic process: 2 proteins: HSPD1, LRP2
+clathrin-coated pit: 2 proteins: HSPD1, LRP2
+protein-containing complex: 2 proteins: HSPD1, PARP9
+positive regulation of DNA-templated transcription: 2 proteins: MRPL12, PARP9
+cell cycle: 2 proteins: GADD45GIP1, MRPL41
+ribosomal small subunit assembly: 2 proteins: MRPS11, MRPS7
+cell population proliferation: 2 proteins: LRP2, MRPS27

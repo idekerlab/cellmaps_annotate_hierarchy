@@ -1,0 +1,108 @@
+Write a critical and concise analysis of this system, describing your reasoning as you go and providing references to scientific papers. Format the page with Title, Summary, and References sections.
+What cellular components and complexes are involved in this system?
+What mechanisms and biological processes are performed by this system?
+Propose a name for the system to reflect the function and location, and should be specific but brief. Do not compose an acronym. Place it as the title of your report
+Provide complete paper references with pubmed link
+A critical goal of the analysis is to determine if this is a novel complex or if any proteins are novel members of a known complex
+System features from GO terms: 
+protein binding: 35 proteins: ELOC, AP3S1, RABL6, NECTIN2, CHRNA3, EPS8L2, ATP6V0A4, G6PD, VPS4B, COQ9, SH3GLB2, CTSV, TTC4, FCGBP, DSC2, PRKACG, CLIC3, CD207, SMPD2, EPS8L1, CKB, SELENBP1, S100A16, HES6, BICD2, THOP1, TSN, SCEL, CCDC90B, SERPINB13, ADA, ANKRD27, DOCK6, RAB25, OTUD4
+cytosol: 28 proteins: ELOC, RABL6, EPS8L2, G6PD, VPS4B, SH3GLB2, PRKACG, ALOX12B, EPS8L1, CKB, HAL, PLS3, SELENBP1, EPHX2, S100A16, BICD2, THOP1, TSN, EVPL, RAPSN, LCP1, SPTBN2, SERPINB13, ADA, ANKRD27, DOCK6, OTUD4, PLA2G4D
+plasma membrane: 20 proteins: NECTIN2, CHRNA3, EPS8L2, ATP6V0A4, VPS4B, DSC2, SLC25A13, CD207, SMPD2, EPS8L1, CKB, PLS3, S100A16, BICD2, RAPSN, LCP1, SPTBN2, ADA, ANKRD27, RAB25
+extracellular exosome: 19 proteins: NECTIN2, EPS8L2, ATP6V0A4, G6PD, VPS4B, FCGBP, DSC2, CLIC3, EPS8L1, CKB, SELENBP1, EPHX2, S100A16, EVPL, LCP1, SCEL, SERPINB13, CREG1, RAB25
+cytoplasm: 14 proteins: RABL6, G6PD, VPS4B, SH3GLB2, TTC4, CLIC3, PLS3, SERPINB7, BICD2, TSN, EVPL, LCP1, SCEL, SERPINB13
+nucleus: 11 proteins: RABL6, G6PD, VPS4B, TTC4, PRKACG, CLIC3, CKB, S100A16, HES6, TSN, OTUD4
+membrane: 10 proteins: NECTIN2, CHRNA3, G6PD, SH3GLB2, CLIC3, SELENBP1, EVPL, ADA, ANKRD27, PLA2G4D
+extracellular space: 10 proteins: CTSV, FCGBP, CKB, SELENBP1, S100A16, SERPINB7, LCP1, SPTBN2, SERPINB13, CREG1
+intracellular membrane-bounded organelle: 7 proteins: AP3S1, AP3S2, G6PD, ALOX12B, SPTBN2, CES2, ANKRD27
+nucleoplasm: 6 proteins: ELOC, SH3GLB2, TTC4, PRKACG, TSN, SERPINB13
+identical protein binding: 6 proteins: NECTIN2, G6PD, VPS4B, SH3GLB2, SLC25A13, TSN
+protein homodimerization activity: 6 proteins: NECTIN2, G6PD, VPS4B, COQ9, EPHX2, S100A16
+calcium ion binding: 6 proteins: DSC2, SLC25A13, PLS3, S100A16, LCP1, PLA2G4D
+Golgi apparatus: 5 proteins: AP3S1, AP3S2, BICD2, RAPSN, RAB25
+centrosome: 5 proteins: RABL6, EPS8L2, VPS4B, BICD2, RAPSN
+cadherin binding: 5 proteins: EPS8L2, SH3GLB2, EPS8L1, EVPL, SPTBN2
+protein transport: 5 proteins: VPS4B, SELENBP1, BICD2, ANKRD27, RAB25
+perinuclear region of cytoplasm: 5 proteins: ALOX12B, S100A16, LCP1, SCEL, DOCK6
+actin binding: 4 proteins: EPS8L2, EPS8L1, LCP1, SPTBN2
+guanyl-nucleotide exchange factor activity: 4 proteins: EPS8L2, EPS8L1, ANKRD27, DOCK6
+mitochondrion: 4 proteins: COQ9, SLC25A13, CKB, CCDC90B
+endoplasmic reticulum: 4 proteins: DSC2, SMPD2, TSN, CES2
+metal ion binding: 4 proteins: SMPD2, THOP1, RAPSN, SCEL
+regulation of transcription by RNA polymerase II: 3 proteins: ELOC, HES6, CREG1
+vesicle-mediated transport: 3 proteins: AP3S1, AP3S2, SPTBN2
+early endosome: 3 proteins: AP3S1, AP3S2, ANKRD27
+cytoplasmic vesicle membrane: 3 proteins: AP3S1, AP3S2, ANKRD27
+presynapse: 3 proteins: AP3S1, AP3S2, SPTBN2
+neuronal cell body: 3 proteins: CHRNA3, CKB, SPTBN2
+ruffle membrane: 3 proteins: EPS8L2, EPS8L1, LCP1
+endosome: 3 proteins: ATP6V0A4, VPS4B, CREG1
+ATP binding: 3 proteins: VPS4B, PRKACG, CKB
+lysosome: 3 proteins: CTSV, ADA, ANKRD27
+cornified envelope: 3 proteins: DSC2, EVPL, SCEL
+cytoplasmic vesicle: 3 proteins: DSC2, BICD2, RAB25
+actin filament binding: 3 proteins: PLS3, LCP1, SPTBN2
+nucleolus: 3 proteins: SELENBP1, S100A16, SERPINB13
+RNA binding: 3 proteins: S100A16, TSN, OTUD4
+intracellular protein transport: 2 proteins: AP3S1, AP3S2
+Golgi to vacuole transport: 2 proteins: AP3S1, AP3S2
+anterograde axonal transport: 2 proteins: AP3S1, AP3S2
+synaptic vesicle coating: 2 proteins: AP3S1, AP3S2
+clathrin-coated vesicle cargo loading, AP-3-mediated: 2 proteins: AP3S1, AP3S2
+synaptic vesicle recycling: 2 proteins: AP3S1, AP3S2
+intracellular transport: 2 proteins: AP3S1, AP3S2
+anterograde synaptic vesicle transport: 2 proteins: AP3S1, AP3S2
+platelet dense granule organization: 2 proteins: AP3S1, AP3S2
+melanosome assembly: 2 proteins: AP3S1, AP3S2
+AP-3 adaptor complex: 2 proteins: AP3S1, AP3S2
+transport vesicle: 2 proteins: AP3S1, ANKRD27
+axon cytoplasm: 2 proteins: AP3S1, AP3S2
+GTPase activity: 2 proteins: RABL6, RAB25
+GTP binding: 2 proteins: RABL6, RAB25
+homophilic cell adhesion via plasma membrane adhesion molecules: 2 proteins: NECTIN2, DSC2
+positive regulation of T cell receptor signaling pathway: 2 proteins: NECTIN2, ADA
+focal adhesion: 2 proteins: NECTIN2, LCP1
+cell surface: 2 proteins: NECTIN2, ADA
+signal transduction: 2 proteins: CHRNA3, CLIC3
+chemical synaptic transmission: 2 proteins: CHRNA3, RAPSN
+synaptic transmission, cholinergic: 2 proteins: CHRNA3, RAPSN
+nervous system development: 2 proteins: CHRNA3, HES6
+nuclear speck: 2 proteins: CHRNA3, SERPINB13
+dendrite: 2 proteins: CHRNA3, CKB
+neuron projection: 2 proteins: CHRNA3, ANKRD27
+Rho protein signal transduction: 2 proteins: EPS8L2, EPS8L1
+sensory perception of sound: 2 proteins: EPS8L2, ATP6V0A4
+regulation of Rho protein signal transduction: 2 proteins: EPS8L2, EPS8L1
+positive regulation of ruffle assembly: 2 proteins: EPS8L2, EPS8L1
+protein-containing complex: 2 proteins: EPS8L2, EPS8L1
+proton transmembrane transport: 2 proteins: ATP6V0A4, SLC25A13
+endosome membrane: 2 proteins: ATP6V0A4, VPS4B
+apical plasma membrane: 2 proteins: ATP6V0A4, SPTBN2
+substantia nigra development: 2 proteins: G6PD, CKB
+autophagy: 2 proteins: VPS4B, CREG1
+nuclear pore: 2 proteins: VPS4B, BICD2
+mitochondrial inner membrane: 2 proteins: COQ9, SLC25A13
+extracellular matrix disassembly: 2 proteins: CTSV, LCP1
+extracellular region: 2 proteins: CTSV, CREG1
+lysosomal lumen: 2 proteins: CTSV, SERPINB13
+innate immune response: 2 proteins: TTC4, OTUD4
+defense response to virus: 2 proteins: TTC4, CD207
+cell adhesion: 2 proteins: DSC2, ADA
+desmosome: 2 proteins: DSC2, EVPL
+protein kinase A signaling: 2 proteins: PRKACG, LCP1
+positive regulation of gene expression: 2 proteins: ALOX12B, EPHX2
+ceramide biosynthetic process: 2 proteins: ALOX12B, SMPD2
+response to calcium ion: 2 proteins: SLC25A13, S100A16
+carbohydrate binding: 2 proteins: CD207, CRYBG1
+external side of plasma membrane: 2 proteins: CD207, ADA
+actin filament bundle assembly: 2 proteins: PLS3, LCP1
+actin filament network formation: 2 proteins: PLS3, LCP1
+actin filament: 2 proteins: PLS3, LCP1
+actin filament bundle: 2 proteins: PLS3, LCP1
+serine-type endopeptidase inhibitor activity: 2 proteins: SERPINB7, SERPINB13
+negative regulation of endopeptidase activity: 2 proteins: SERPINB7, SERPINB13
+transcription regulator complex: 2 proteins: HES6, CREG1
+small GTPase binding: 2 proteins: BICD2, ANKRD27
+epidermis development: 2 proteins: EVPL, SCEL
+keratinocyte differentiation: 2 proteins: EVPL, SCEL
+cell junction: 2 proteins: LCP1, SPTBN2
+xenobiotic metabolic process: 2 proteins: CES2, ADA

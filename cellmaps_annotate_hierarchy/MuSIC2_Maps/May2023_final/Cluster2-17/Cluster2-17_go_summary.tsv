@@ -1,0 +1,275 @@
+Feature	Number of Genes	Genes
+mitochondrion	41	NDUFS1, NDUFA7, NDUFC2, UQCRQ, MTCH2, NDUFA13, TMEM126B, DNLZ, NDUFB6, NDUFS8, NDUFV3, NDUFA12, NDUFS4, TOMM40, UQCRC2, PRELID1, MCU, TIMMDC1, NDUFV1, COX6B1, NDUFA9, NDUFAF4, NDUFB11, NDUFB1, NDUFV2, TTC19, UQCRFS1, NDUFB5, NDUFB9, NDUFB4, SFXN3, NDUFB8, NDUFA8, NDUFS2, AIFM1, COX7A2L, GFER, HTRA2, MIX23, PDHA1, UQCRC1
+protein binding	36	DCTD, NDUFS1, NDUFA7, NDUFC2, MTCH2, NDUFA13, TMEM126B, NDUFB6, NDUFS8, NDUFV3, NDUFA12, NDUFS4, TOMM40, UQCRC2, PRELID1, MCU, TIMMDC1, NDUFV1, FGFR1OP2, NDUFA9, NDUFAF4, NDUFB11, NDUFV2, TTC19, UQCRFS1, NDUFB5, NDUFB9, SFXN3, NDUFA8, NDUFS2, AIFM1, GFER, HTRA2, PDHA1, STK38, UQCRC1
+mitochondrial inner membrane	30	NDUFA7, NDUFC2, UQCRQ, NDUFA13, TMEM126B, NDUFB6, NDUFV3, NDUFA12, NDUFS4, TOMM40, UQCRC2, MCU, TIMMDC1, NDUFV1, COX6B1, NDUFAF4, NDUFB11, NDUFB1, NDUFV2, TTC19, UQCRFS1, ND4, NDUFB5, NDUFB9, NDUFB4, NDUFB8, NDUFA8, AIFM1, COX7A2L, UQCRC1
+aerobic respiration	23	NDUFS1, NDUFA7, NDUFC2, NDUFA13, NDUFB6, NDUFS8, NDUFV3, NDUFA12, NDUFS4, UQCRC2, NDUFV1, NDUFA9, NDUFB11, NDUFB1, NDUFV2, ND4, NDUFB5, NDUFB9, NDUFB4, NDUFB8, NDUFA8, NDUFS2, UQCRC1
+proton motive force-driven mitochondrial ATP synthesis	21	NDUFS1, NDUFA7, NDUFC2, NDUFA13, NDUFB6, NDUFS8, NDUFV3, NDUFA12, NDUFS4, NDUFV1, NDUFA9, NDUFB11, NDUFB1, NDUFV2, ND4, NDUFB5, NDUFB9, NDUFB4, NDUFB8, NDUFA8, NDUFS2
+mitochondrial respiratory chain complex I	21	NDUFS1, NDUFA7, NDUFC2, NDUFA13, NDUFB6, NDUFS8, NDUFV3, NDUFA12, NDUFS4, NDUFV1, NDUFA9, NDUFB11, NDUFB1, NDUFV2, ND4, NDUFB5, NDUFB9, NDUFB4, NDUFB8, NDUFA8, NDUFS2
+NADH dehydrogenase (ubiquinone) activity	19	NDUFS1, NDUFA7, NDUFC2, NDUFB6, NDUFS8, NDUFV3, NDUFA12, NDUFS4, NDUFV1, NDUFA9, NDUFB1, NDUFV2, ND4, NDUFB5, NDUFB9, NDUFB4, NDUFB8, NDUFA8, NDUFS2
+mitochondrial respiratory chain complex I assembly	19	NDUFS1, NDUFC2, NDUFA13, TMEM126B, NDUFB6, NDUFS8, NDUFA12, NDUFS4, NDUFA9, NDUFAF4, NDUFB11, NDUFB1, ND4, NDUFB5, NDUFB9, NDUFB4, NDUFB8, NDUFA8, NDUFS2
+mitochondrial electron transport, NADH to ubiquinone	18	NDUFS1, NDUFA7, NDUFC2, NDUFB6, NDUFS8, NDUFV3, NDUFS4, NDUFV1, NDUFA9, NDUFB1, NDUFV2, ND4, NDUFB5, NDUFB9, NDUFB4, NDUFB8, NDUFA8, NDUFS2
+cytosol	10	DCTD, NDUFA12, TOMM40, NDUFV1, FGFR1OP2, NDUFAF4, AIFM1, GFER, HTRA2, STK38
+nucleoplasm	9	NDUFA13, DNLZ, NDUFB6, UQCRC2, PRELID1, TIMMDC1, NDUFB5, NDUFB4, NDUFS2
+metal ion binding	8	NDUFS1, NDUFS8, UQCRC2, NDUFV1, NDUFV2, UQCRFS1, NDUFS2, UQCRC1
+mitochondrial intermembrane space	7	NDUFS1, PRELID1, NDUFA8, AIFM1, GFER, HTRA2, MIX23
+cellular respiration	6	NDUFS1, UQCRQ, NDUFS4, UQCRC2, COX6B1, UQCRC1
+mitochondrial matrix	6	NDUFS1, NDUFS8, NDUFA9, NDUFB8, NDUFS2, PDHA1
+nucleus	6	MTCH2, NDUFA9, AIFM1, HTRA2, PDHA1, STK38
+mitochondrial membrane	6	NDUFA13, NDUFB6, NDUFA9, NDUFAF4, SFXN3, HTRA2
+NADH dehydrogenase activity	6	NDUFS8, NDUFA9, NDUFV2, ND4, NDUFS2, AIFM1
+cytoplasm	5	DCTD, NDUFC2, NDUFA13, AIFM1, STK38
+mitochondrial ATP synthesis coupled electron transport	5	NDUFB6, NDUFV3, NDUFA12, NDUFV1, NDUFS2
+4 iron, 4 sulfur cluster binding	4	NDUFS1, NDUFS8, NDUFV1, NDUFS2
+mitochondrial electron transport, ubiquinol to cytochrome c	4	UQCRQ, UQCRC2, UQCRFS1, UQCRC1
+mitochondrial respiratory chain complex III	4	UQCRQ, UQCRC2, UQCRFS1, UQCRC1
+response to oxidative stress	4	NDUFS8, NDUFA12, NDUFB4, NDUFS2
+mitochondrial respiratory chain complex IV	4	UQCRC2, COX6B1, UQCRFS1, COX7A2L
+proton transmembrane transport	4	COX6B1, UQCRFS1, COX7A2L, UQCRC1
+identical protein binding	3	DCTD, FGFR1OP2, HTRA2
+electron transfer activity	3	NDUFS1, NDUFV2, NDUFS2
+2 iron, 2 sulfur cluster binding	3	NDUFS1, NDUFV2, UQCRFS1
+ mitochondrial membrane potential	3	NDUFS1, NDUFC2, PRELID1
+reactive oxygen species metabolic process	3	NDUFS1, NDUFA13, NDUFS4
+ apoptotic process	3	MTCH2, AIFM1, HTRA2
+membrane	3	MTCH2, TOMM40, HTRA2
+mitochondrial respirasome	3	NDUFA13, COX7A2L, UQCRC1
+negative regulation of apoptotic process	3	PRELID1, NDUFAF4, GFER
+protein-containing complex binding	3	NDUFA9, NDUFA8, UQCRC1
+zinc ion binding	2	DCTD, DNLZ
+protein insertion into mitochondrial outer membrane	2	MTCH2, TOMM40
+mitochondrial outer membrane	2	MTCH2, TOMM40
+ATP binding	2	NDUFA13, STK38
+cellular response to interferon-beta	2	NDUFA13, HTRA2
+ cysteine-type endopeptidase activity involved in apoptotic process	2	NDUFA13, HTRA2
+cellular response to retinoic acid	2	NDUFA13, HTRA2
+protein import into mitochondrial matrix	2	DNLZ, TOMM40
+oxidative phosphorylation	2	UQCRC2, UQCRC1
+proteolysis	2	UQCRC2, HTRA2
+apoptotic process	2	PRELID1, AIFM1
+NAD binding	2	NDUFV1, NDUFS2
+cytochrome-c oxidase activity	2	COX6B1, COX7A2L
+mitochondrial electron transport, cytochrome c to oxygen	2	COX6B1, COX7A2L
+mitochondrial respiratory chain complex III assembly	2	TTC19, UQCRFS1
+ubiquinol-cytochrome-c reductase activity	2	UQCRFS1, UQCRC1
+endoplasmic reticulum	2	NDUFB8, HTRA2
+ubiquitin protein ligase binding	2	NDUFS2, UQCRC1
+nucleolus	2	COX7A2L, PDHA1
+dCMP deaminase activity	1	DCTD
+pyrimidine nucleotide metabolic process	1	DCTD
+nucleotide biosynthetic process	1	DCTD
+apoptotic mitochondrial changes	1	NDUFS1
+ATP metabolic process	1	NDUFS1
+structural constituent of ribosome	1	NDUFA7
+mitochondrial translation	1	NDUFA7
+mitochondrial ribosome	1	NDUFA7
+ inflammatory response	1	NDUFC2
+negative regulation of necrotic cell death	1	NDUFC2
+negative regulation of NIK/NF-kappaB signaling	1	NDUFC2
+negative regulation of reactive oxygen species biosynthetic process	1	NDUFC2
+ ATP biosynthetic process	1	NDUFC2
+plasma membrane	1	NDUFC2
+azurophil granule membrane	1	NDUFC2
+subthalamus development	1	UQCRQ
+pons development	1	UQCRQ
+cerebellar Purkinje cell layer development	1	UQCRQ
+hippocampus development	1	UQCRQ
+thalamus development	1	UQCRQ
+hypothalamus development	1	UQCRQ
+pyramidal neuron development	1	UQCRQ
+midbrain development	1	UQCRQ
+membrane insertase activity	1	MTCH2
+ mitochondrial fusion	1	MTCH2
+lipid homeostasis	1	MTCH2
+protein localization to mitochondrion	1	MTCH2
+ stem cell differentiation	1	MTCH2
+ peptidase activity	1	NDUFA13
+negative regulation of cell growth	1	NDUFA13
+protein insertion into mitochondrial inner membrane	1	NDUFA13
+ protein catabolic process	1	NDUFA13
+negative regulation of DNA-templated transcription	1	NDUFA13
+apoptotic signaling pathway	1	NDUFA13
+extrinsic apoptotic signaling pathway	1	NDUFA13
+negative regulation of intrinsic apoptotic signaling pathway	1	NDUFA13
+molecular_function	1	TMEM126B
+response to food	1	TMEM126B
+protein-folding chaperone binding	1	DNLZ
+protein folding	1	DNLZ
+protein stabilization	1	DNLZ
+RNA binding	1	NDUFV3
+respiratory gaseous exchange by respiratory system	1	NDUFA12
+ protein phosphorylation	1	NDUFS4
+brain development	1	NDUFS4
+ fibroblast proliferation	1	NDUFS4
+response to cAMP	1	NDUFS4
+protein transmembrane transporter activity	1	TOMM40
+porin activity	1	TOMM40
+protein targeting to mitochondrion	1	TOMM40
+monoatomic ion transport	1	TOMM40
+mitochondrial outer membrane translocase complex	1	TOMM40
+mitochondria-associated endoplasmic reticulum membrane	1	TOMM40
+pore complex	1	TOMM40
+metalloendopeptidase activity	1	UQCRC2
+phosphatidic acid transfer activity	1	PRELID1
+negative regulation of mitochondrial membrane potential	1	PRELID1
+ endopeptidase activity	1	PRELID1
+phospholipid transport	1	PRELID1
+ T cell differentiation	1	PRELID1
+ T cell apoptotic process	1	PRELID1
+negative regulation of release of cytochrome c from mitochondria	1	PRELID1
+ membrane lipid distribution	1	PRELID1
+intermembrane lipid transfer	1	PRELID1
+ cellular respiration	1	PRELID1
+ phospholipid transport	1	PRELID1
+protein-containing complex	1	PRELID1
+calcium channel activity	1	MCU
+uniporter activity	1	MCU
+mitochondrial calcium ion transmembrane transport	1	MCU
+calcium-mediated signaling	1	MCU
+ insulin secretion	1	MCU
+calcium import into the mitochondrion	1	MCU
+glucose homeostasis	1	MCU
+protein complex oligomerization	1	MCU
+mitochondrial calcium ion homeostasis	1	MCU
+ mitochondrial calcium ion concentration	1	MCU
+ neutrophil chemotaxis	1	MCU
+ mitochondrial fission	1	MCU
+actin filament reorganization	1	MCU
+calcium channel complex	1	MCU
+uniplex complex	1	MCU
+FMN binding	1	NDUFV1
+substantia nigra development	1	COX6B1
+respiratory chain complex IV	1	COX6B1
+response to wounding	1	FGFR1OP2
+wound healing	1	FGFR1OP2
+sodium ion transport	1	NDUFA9
+circadian rhythm	1	NDUFA9
+ubiquinone-6 biosynthetic process	1	NDUFA9
+calmodulin binding	1	NDUFAF4
+ cell population proliferation	1	NDUFAF4
+defense response to virus	1	NDUFAF4
+nuclear speck	1	NDUFB1
+nervous system development	1	NDUFV2
+cardiac muscle tissue development	1	NDUFV2
+mitotic cytokinesis	1	TTC19
+centrosome	1	TTC19
+midbody	1	TTC19
+respirasome	1	TTC19
+oxidoreductase activity	1	UQCRFS1
+respiratory electron transport chain	1	UQCRFS1
+ubiquinone binding	1	ND4
+response to hypoxia	1	ND4
+in utero embryonic development	1	ND4
+electron transport coupled proton transport	1	ND4
+cerebellum development	1	ND4
+response to nicotine	1	ND4
+response to ethanol	1	ND4
+sensory perception of sound	1	NDUFB9
+monoatomic ion transmembrane transporter activity	1	SFXN3
+serine transmembrane transporter activity	1	SFXN3
+one-carbon metabolic process	1	SFXN3
+monoatomic ion transmembrane transport	1	SFXN3
+serine import into mitochondrion	1	SFXN3
+mitochondrial transmembrane transport	1	SFXN3
+oxygen sensor activity	1	NDUFS2
+quinone binding	1	NDUFS2
+neurogenesis	1	NDUFS2
+gliogenesis	1	NDUFS2
+neural precursor cell proliferation	1	NDUFS2
+cellular response to oxygen levels	1	NDUFS2
+DNA binding	1	AIFM1
+NAD(P)H oxidase H2O2-forming activity	1	AIFM1
+oxidoreductase activity, acting on NAD(P)H	1	AIFM1
+protein dimerization activity	1	AIFM1
+FAD binding	1	AIFM1
+poly-ADP-D-ribose binding	1	AIFM1
+response to ischemia	1	AIFM1
+activation of cysteine-type endopeptidase activity involved in apoptotic process	1	AIFM1
+response to toxic substance	1	AIFM1
+chromosome condensation	1	AIFM1
+mitochondrial respiratory chain complex assembly	1	AIFM1
+ neuron apoptotic process	1	AIFM1
+protein import into mitochondrial intermembrane space	1	AIFM1
+neuron apoptotic process	1	AIFM1
+ necroptotic process	1	AIFM1
+intrinsic apoptotic signaling pathway in response to endoplasmic reticulum stress	1	AIFM1
+cellular response to hydrogen peroxide	1	AIFM1
+cellular response to estradiol stimulus	1	AIFM1
+cellular response to nitric oxide	1	AIFM1
+cellular response to oxygen-glucose deprivation	1	AIFM1
+response to L-glutamate	1	AIFM1
+ apoptotic DNA fragmentation	1	AIFM1
+cellular response to aldosterone	1	AIFM1
+perinuclear region of cytoplasm	1	AIFM1
+ oxidative phosphorylation	1	COX7A2L
+mitochondrial respirasome assembly	1	COX7A2L
+growth factor activity	1	GFER
+protein-disulfide reductase activity	1	GFER
+flavin-linked sulfhydryl oxidase activity	1	GFER
+flavin adenine dinucleotide binding	1	GFER
+liver development	1	GFER
+signal transduction	1	GFER
+negative regulation of natural killer cell mediated cytotoxicity	1	GFER
+cellular response to lipopolysaccharide	1	GFER
+cellular response to tumor necrosis factor	1	GFER
+cellular response to actinomycin D	1	GFER
+cellular response to toxic substance	1	GFER
+liver regeneration	1	GFER
+negative regulation of oxidative stress-induced neuron death	1	GFER
+ DNA biosynthetic process	1	GFER
+extracellular space	1	GFER
+serine-type endopeptidase activity	1	HTRA2
+peptidase activity	1	HTRA2
+serine-type peptidase activity	1	HTRA2
+unfolded protein binding	1	HTRA2
+ceramide metabolic process	1	HTRA2
+mitochondrion organization	1	HTRA2
+adult walking behavior	1	HTRA2
+intrinsic apoptotic signaling pathway in response to DNA damage	1	HTRA2
+response to herbicide	1	HTRA2
+ mitochondrion organization	1	HTRA2
+programmed cell death	1	HTRA2
+protein autoprocessing	1	HTRA2
+pentacyclic triterpenoid metabolic process	1	HTRA2
+protein catabolic process	1	HTRA2
+forebrain development	1	HTRA2
+cellular response to oxidative stress	1	HTRA2
+cellular response to heat	1	HTRA2
+ multicellular organism growth	1	HTRA2
+negative regulation of cell cycle	1	HTRA2
+neuron development	1	HTRA2
+cellular response to growth factor stimulus	1	HTRA2
+execution phase of apoptosis	1	HTRA2
+negative regulation of neuron death	1	HTRA2
+negative regulation of oxidative stress-induced intrinsic apoptotic signaling pathway	1	HTRA2
+ autophagy of mitochondrion	1	HTRA2
+ protein targeting to mitochondrion	1	HTRA2
+negative regulation of mitophagy in response to mitochondrial depolarization	1	HTRA2
+ extrinsic apoptotic signaling pathway in absence of ligand	1	HTRA2
+ cysteine-type endopeptidase activity involved in apoptotic signaling pathway	1	HTRA2
+chromatin	1	HTRA2
+endoplasmic reticulum membrane	1	HTRA2
+cytoskeleton	1	HTRA2
+cytoplasmic side of plasma membrane	1	HTRA2
+CD40 receptor complex	1	HTRA2
+serine-type endopeptidase complex	1	HTRA2
+pyruvate dehydrogenase (acetyl-transferring) activity	1	PDHA1
+pyruvate dehydrogenase (NAD+) activity	1	PDHA1
+glucose metabolic process	1	PDHA1
+acetyl-CoA biosynthetic process from pyruvate	1	PDHA1
+tricarboxylic acid cycle	1	PDHA1
+mitochondrial pyruvate dehydrogenase complex	1	PDHA1
+pyruvate dehydrogenase complex	1	PDHA1
+magnesium ion binding	1	STK38
+protein serine/threonine kinase activity	1	STK38
+mitogen-activated protein kinase kinase kinase binding	1	STK38
+cadherin binding	1	STK38
+protein serine kinase activity	1	STK38
+protein phosphorylation	1	STK38
+peptidyl-serine phosphorylation	1	STK38
+intracellular signal transduction	1	STK38
+protein modification process	1	STK38
+negative regulation of MAP kinase activity	1	STK38
+postsynapse organization	1	STK38
+glutamatergic synapse	1	STK38
+response to activity	1	UQCRC1
+response to alkaloid	1	UQCRC1

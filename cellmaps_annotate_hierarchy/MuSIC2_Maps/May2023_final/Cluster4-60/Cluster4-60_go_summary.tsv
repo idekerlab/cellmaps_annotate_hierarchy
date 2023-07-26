@@ -1,0 +1,114 @@
+Feature	Number of Genes	Genes
+protein binding	4	ARRB2, EPB41L3, SMOC1, VANGL1
+plasma membrane	3	ARRB2, EPB41L3, VANGL1
+cytosol	2	ARRB2, EPB41L3
+G protein-coupled receptor binding	1	ARRB2
+signaling receptor binding	1	ARRB2
+enzyme binding	1	ARRB2
+protein domain specific binding	1	ARRB2
+ubiquitin protein ligase binding	1	ARRB2
+alpha-1A adrenergic receptor binding	1	ARRB2
+alpha-1B adrenergic receptor binding	1	ARRB2
+angiotensin receptor binding	1	ARRB2
+type 1 angiotensin receptor binding	1	ARRB2
+D1 dopamine receptor binding	1	ARRB2
+follicle-stimulating hormone receptor binding	1	ARRB2
+type 2A serotonin receptor binding	1	ARRB2
+platelet activating factor receptor binding	1	ARRB2
+identical protein binding	1	ARRB2
+protein kinase B binding	1	ARRB2
+protein-containing complex binding	1	ARRB2
+mitogen-activated protein kinase binding	1	ARRB2
+molecular adaptor activity	1	ARRB2
+14-3-3 protein binding	1	ARRB2
+arrestin family protein binding	1	ARRB2
+negative regulation of protein phosphorylation	1	ARRB2
+G protein-coupled receptor internalization	1	ARRB2
+desensitization of G protein-coupled receptor signaling pathway by arrestin	1	ARRB2
+ receptor internalization	1	ARRB2
+transcription by RNA polymerase II	1	ARRB2
+transforming growth factor beta receptor signaling pathway	1	ARRB2
+dopamine receptor signaling pathway	1	ARRB2
+brain development	1	ARRB2
+adult walking behavior	1	ARRB2
+ gene expression	1	ARRB2
+protein transport	1	ARRB2
+protein ubiquitination	1	ARRB2
+negative regulation of protein ubiquitination	1	ARRB2
+receptor internalization	1	ARRB2
+negative regulation of NF-kappaB transcription factor activity	1	ARRB2
+ synaptic transmission, dopaminergic	1	ARRB2
+negative regulation of interleukin-1 beta production	1	ARRB2
+negative regulation of interleukin-12 production	1	ARRB2
+negative regulation of interleukin-6 production	1	ARRB2
+negative regulation of tumor necrosis factor production	1	ARRB2
+ collagen biosynthetic process	1	ARRB2
+ peptidyl-serine phosphorylation	1	ARRB2
+negative regulation of toll-like receptor signaling pathway	1	ARRB2
+negative regulation of GTPase activity	1	ARRB2
+negative regulation of smooth muscle cell apoptotic process	1	ARRB2
+follicle-stimulating hormone signaling pathway	1	ARRB2
+negative regulation of I-kappaB kinase/NF-kappaB signaling	1	ARRB2
+negative regulation of cysteine-type endopeptidase activity involved in apoptotic process	1	ARRB2
+proteasome-mediated ubiquitin-dependent protein catabolic process	1	ARRB2
+negative regulation of neuron apoptotic process	1	ARRB2
+negative regulation of natural killer cell mediated cytotoxicity	1	ARRB2
+ peptidyl-tyrosine phosphorylation	1	ARRB2
+detection of temperature stimulus involved in sensory perception of pain	1	ARRB2
+ protein kinase B signaling	1	ARRB2
+negative regulation of protein kinase B signaling	1	ARRB2
+ calcium ion transport	1	ARRB2
+excitatory postsynaptic potential	1	ARRB2
+cell chemotaxis	1	ARRB2
+ ERK1 and ERK2 cascade	1	ARRB2
+negative regulation of release of cytochrome c from mitochondria	1	ARRB2
+postsynaptic signal transduction	1	ARRB2
+ epithelial cell apoptotic process	1	ARRB2
+ DNA biosynthetic process	1	ARRB2
+ cardiac muscle cell differentiation	1	ARRB2
+nucleus	1	ARRB2
+nucleoplasm	1	ARRB2
+cytoplasm	1	ARRB2
+endosome	1	ARRB2
+clathrin-coated pit	1	ARRB2
+postsynaptic density	1	ARRB2
+basolateral plasma membrane	1	ARRB2
+endocytic vesicle	1	ARRB2
+cytoplasmic vesicle	1	ARRB2
+dendritic spine	1	ARRB2
+postsynaptic membrane	1	ARRB2
+glutamatergic synapse	1	ARRB2
+actin binding	1	EPB41L3
+structural constituent of cytoskeleton	1	EPB41L3
+cytoskeletal protein-membrane anchor activity	1	EPB41L3
+protein localization to paranode region of axon	1	EPB41L3
+apoptotic process	1	EPB41L3
+biological_process	1	EPB41L3
+ cell shape	1	EPB41L3
+cortical cytoskeleton organization	1	EPB41L3
+cortical actin cytoskeleton organization	1	EPB41L3
+paranodal junction assembly	1	EPB41L3
+actomyosin structure organization	1	EPB41L3
+myelin maintenance	1	EPB41L3
+neuron projection morphogenesis	1	EPB41L3
+protein localization to juxtaparanode region of axon	1	EPB41L3
+protein localization to plasma membrane	1	EPB41L3
+cytoskeleton	1	EPB41L3
+cell-cell junction	1	EPB41L3
+cell junction	1	EPB41L3
+axolemma	1	EPB41L3
+paranode region of axon	1	EPB41L3
+juxtaparanode region of axon	1	EPB41L3
+calcium ion binding	1	SMOC1
+heparin binding	1	SMOC1
+extracellular matrix binding	1	SMOC1
+eye development	1	SMOC1
+cell differentiation	1	SMOC1
+extracellular matrix organization	1	SMOC1
+ osteoblast differentiation	1	SMOC1
+limb development	1	SMOC1
+basement membrane	1	SMOC1
+extracellular space	1	SMOC1
+pigmentation	1	VANGL1
+Wnt signaling pathway, planar cell polarity pathway	1	VANGL1
+lateral plasma membrane	1	VANGL1

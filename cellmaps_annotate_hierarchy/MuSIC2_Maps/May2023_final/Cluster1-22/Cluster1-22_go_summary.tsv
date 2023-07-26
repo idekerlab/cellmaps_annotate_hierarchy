@@ -1,0 +1,62 @@
+Feature	Number of Genes	Genes
+protein binding	6	NUDT3, PCP4, EAPP, EFTUD2, TGS1, TXNL4A
+nucleus	6	NUDT3, PCP4, EAPP, EFTUD2, TGS1, TXNL4A
+cytosol	5	NUDT3, PCP4, EFTUD2, TGS1, TXNL4A
+cytoplasm	4	NUDT3, PCP4, EAPP, TGS1
+nucleoplasm	3	EFTUD2, TGS1, TXNL4A
+mRNA splicing, via spliceosome	2	EFTUD2, TXNL4A
+Cajal body	2	EFTUD2, TGS1
+U4/U6 x U5 tri-snRNP complex	2	EFTUD2, TXNL4A
+U2-type precatalytic spliceosome	2	EFTUD2, TXNL4A
+magnesium ion binding	1	NUDT3
+endopolyphosphatase activity	1	NUDT3
+diphosphoinositol-polyphosphate diphosphatase activity	1	NUDT3
+bis(5'-adenosyl)-hexaphosphatase activity	1	NUDT3
+bis(5'-adenosyl)-pentaphosphatase activity	1	NUDT3
+inositol diphosphate tetrakisphosphate diphosphatase activity	1	NUDT3
+inositol diphosphate pentakisphosphate diphosphatase activity	1	NUDT3
+inositol-5-diphosphate-1,2,3,4,6-pentakisphosphate diphosphatase activity	1	NUDT3
+inositol-3,5-bisdiphosphate-2,3,4,6-tetrakisphosphate 5-diphosphatase activity	1	NUDT3
+cell-cell signaling	1	NUDT3
+diadenosine polyphosphate catabolic process	1	NUDT3
+diphosphoinositol polyphosphate metabolic process	1	NUDT3
+diphosphoinositol polyphosphate catabolic process	1	NUDT3
+RNA decapping	1	NUDT3
+diadenosine pentaphosphate catabolic process	1	NUDT3
+diadenosine hexaphosphate catabolic process	1	NUDT3
+adenosine 5'-(hexahydrogen pentaphosphate) catabolic process	1	NUDT3
+calcium ion binding	1	PCP4
+calmodulin binding	1	PCP4
+ neuron differentiation	1	PCP4
+calmodulin dependent kinase signaling pathway	1	PCP4
+protein-containing complex	1	PCP4
+ cell population proliferation	1	EAPP
+ transcription elongation by RNA polymerase II	1	EAPP
+negative regulation of transcription elongation by RNA polymerase II	1	EAPP
+RNA binding	1	EFTUD2
+GTPase activity	1	EFTUD2
+GTP binding	1	EFTUD2
+U5 snRNA binding	1	EFTUD2
+response to cocaine	1	EFTUD2
+cellular response to xenobiotic stimulus	1	EFTUD2
+membrane	1	EFTUD2
+nuclear speck	1	EFTUD2
+intracellular membrane-bounded organelle	1	EFTUD2
+U2-type catalytic step 2 spliceosome	1	EFTUD2
+catalytic step 2 spliceosome	1	EFTUD2
+RNA methyltransferase activity	1	TGS1
+RNA trimethylguanosine synthase activity	1	TGS1
+spliceosomal snRNP assembly	1	TGS1
+7-methylguanosine RNA capping	1	TGS1
+ribonucleoprotein complex biogenesis	1	TGS1
+7-methylguanosine cap hypermethylation	1	TGS1
+extracellular space	1	TGS1
+nucleolus	1	TGS1
+small nuclear ribonucleoprotein complex	1	TGS1
+spliceosomal complex assembly	1	TXNL4A
+RNA splicing, via transesterification reactions	1	TXNL4A
+cell cycle	1	TXNL4A
+cell division	1	TXNL4A
+spliceosomal complex	1	TXNL4A
+U5 snRNP	1	TXNL4A
+nuclear membrane	1	TXNL4A

@@ -1,0 +1,129 @@
+Your response should be formatted as Markdown paragraphs
+Write a critical and concise analysis of this human protein system, describing your reasoning as you go and providing references to scientific papers.
+
+A critical goal of the analysis is to determine if this is a novel complex or if any proteins are novel members of a known complex
+
+Format with Title, Summary, and References sections.        
+Avoid overly general statements of how the proteins are involved in various cellular processes        
+Avoid repeating the goals of the analysis.
+
+What cellular components and complexes are involved in this system?
+What mechanisms and biological processes are performed by this system?
+Propose a name for the system to reflect the cellular location and function, and should be specific but brief. Do not compose an acronym. Place it as the title of your report
+Human Proteins: TMEM185A, SCN3B, TMEM185B, UAP1L1, CD99L2, ALS2, ANAPC4, APOBEC3C, AZU1, BAG2, C19orf25, CARD10, CLK3, DISC1, DNAJA2, DRG1, DTNA, DVL3, EIF1AD, EXD2, FHOD1, ITFG1, KIF3C, MCC, NES, PGM2, PHLDB2, PJA2, PKN2, PLEC, PSMD10, PTPRE, RB1CC1, RBM23, RCAN1, RGS14, RWDD4, SPINT2, TANC2, TOM1L2, TRIM32, UNC13B, USP47, VIM, VPS4B, WDR37, ZYG11B.
+
+System features from GO terms: 
+protein binding: 42 proteins: TMEM185A, SCN3B, CD99L2, ALS2, ANAPC4, APOBEC3C, AZU1, BAG2, C19orf25, CARD10, CLK3, DISC1, DNAJA2, DRG1, DTNA, DVL3, EIF1AD, EXD2, FHOD1, KIF3C, MCC, NES, PGM2, PHLDB2, PJA2, PKN2, PLEC, PSMD10, PTPRE, RB1CC1, RBM23, RCAN1, RGS14, RWDD4, TOM1L2, TRIM32, UNC13B, USP47, VIM, VPS4B, WDR37, ZYG11B
+cytoplasm: 23 proteins: ALS2, APOBEC3C, CARD10, DNAJA2, DRG1, DTNA, EXD2, FHOD1, MCC, NES, PJA2, PKN2, PLEC, PSMD10, PTPRE, RCAN1, RGS14, SPINT2, TRIM32, USP47, VIM, VPS4B, WDR37
+cytosol: 22 proteins: ALS2, ANAPC4, BAG2, DISC1, DNAJA2, DRG1, DVL3, EIF1AD, FHOD1, KIF3C, MCC, PGM2, PHLDB2, PKN2, PLEC, PSMD10, RB1CC1, TRIM32, UNC13B, USP47, VIM, VPS4B
+nucleus: 20 proteins: ALS2, ANAPC4, APOBEC3C, CLK3, DISC1, DRG1, EIF1AD, EXD2, FHOD1, MCC, PKN2, PSMD10, PTPRE, RBM23, RCAN1, RGS14, TRIM32, USP47, VPS4B, WDR37
+plasma membrane: 16 proteins: SCN3B, CD99L2, DTNA, ITFG1, MCC, PHLDB2, PJA2, PKN2, PLEC, PSMD10, PTPRE, RGS14, SPINT2, UNC13B, VIM, VPS4B
+membrane: 12 proteins: TMEM185A, SCN3B, TMEM185B, ALS2, CLK3, DNAJA2, DRG1, FHOD1, RBM23, SPINT2, TOM1L2, UNC13B
+intermediate filament cytoskeleton: 11 proteins: CLK3, DISC1, DTNA, EXD2, NES, PHLDB2, PJA2, PKN2, PLEC, PSMD10, VIM
+nucleoplasm: 10 proteins: ANAPC4, CLK3, DRG1, DTNA, EIF1AD, FHOD1, MCC, PKN2, PSMD10, USP47
+identical protein binding: 9 proteins: ALS2, BAG2, CLK3, DISC1, DRG1, FHOD1, TRIM32, VIM, VPS4B
+extracellular exosome: 8 proteins: AZU1, DNAJA2, ITFG1, PGM2, PLEC, TOM1L2, VIM, VPS4B
+RNA binding: 7 proteins: APOBEC3C, CLK3, EIF1AD, PKN2, PLEC, RBM23, TRIM32
+centrosome: 6 proteins: ALS2, DISC1, PJA2, PKN2, RGS14, VPS4B
+dendrite: 5 proteins: TMEM185A, ALS2, BAG2, PLEC, RGS14
+ATP binding: 5 proteins: CLK3, DNAJA2, KIF3C, PKN2, VPS4B
+extracellular region: 4 proteins: CD99L2, AZU1, PGM2, SPINT2
+focal adhesion: 4 proteins: CD99L2, PHLDB2, PLEC, VIM
+small GTPase binding: 4 proteins: ALS2, DVL3, PKN2, UNC13B
+postsynaptic density: 4 proteins: ALS2, DISC1, PJA2, RGS14
+microtubule: 4 proteins: BAG2, DISC1, KIF3C, RGS14
+axon: 4 proteins: BAG2, PLEC, TANC2, VIM
+signal transduction: 4 proteins: DTNA, MCC, PKN2, TOM1L2
+transmembrane transporter binding: 3 proteins: SCN3B, BAG2, PSMD10
+protein homodimerization activity: 3 proteins: ALS2, EXD2, VPS4B
+response to oxidative stress: 3 proteins: ALS2, RCAN1, RGS14
+ GTPase activity: 3 proteins: ALS2, DVL3, RGS14
+lamellipodium: 3 proteins: ALS2, MCC, PKN2
+protein-containing complex: 3 proteins: ALS2, DTNA, PKN2
+dendritic spine: 3 proteins: ALS2, RGS14, TANC2
+intracellular membrane-bounded organelle: 3 proteins: ALS2, AZU1, EIF1AD
+ubiquitin-protein transferase activity: 3 proteins: ANAPC4, PJA2, TRIM32
+cell cycle: 3 proteins: ANAPC4, PKN2, RB1CC1
+cell division: 3 proteins: ANAPC4, PKN2, RGS14
+zinc ion binding: 3 proteins: APOBEC3C, DTNA, TRIM32
+innate immune response: 3 proteins: APOBEC3C, PJA2, TRIM32
+negative regulation of apoptotic process: 3 proteins: AZU1, PSMD10, USP47
+negative regulation of protein binding: 3 proteins: BAG2, DISC1, NES
+ proteasomal ubiquitin-dependent protein catabolic process: 3 proteins: BAG2, PSMD10, ZYG11B
+protein phosphorylation: 3 proteins: CLK3, PKN2, RB1CC1
+molecular adaptor activity: 3 proteins: DISC1, RB1CC1, VIM
+ubiquitin-dependent protein catabolic process: 3 proteins: DISC1, TRIM32, USP47
+canonical Wnt signaling pathway: 3 proteins: DISC1, DVL3, VPS4B
+perinuclear region of cytoplasm: 3 proteins: DISC1, PKN2, PLEC
+microtubule binding: 3 proteins: DRG1, KIF3C, RGS14
+nuclear body: 3 proteins: DRG1, PKN2, RGS14
+ DNA-templated transcription: 3 proteins: DVL3, RBM23, TRIM32
+ transcription by RNA polymerase II: 3 proteins: DVL3, FHOD1, PSMD10
+protein self-association: 3 proteins: FHOD1, PLEC, TRIM32
+cytoskeleton: 3 proteins: FHOD1, PSMD10, VIM
+intermediate filament: 3 proteins: NES, PLEC, VIM
+cadherin binding: 3 proteins: PHLDB2, PKN2, PLEC
+ cell growth: 3 proteins: PSMD10, TRIM32, USP47
+protein kinase binding: 3 proteins: RB1CC1, RGS14, TOM1L2
+protein localization to plasma membrane: 2 proteins: SCN3B, PSMD10
+Z disc: 2 proteins: SCN3B, PLEC
+cell adhesion: 2 proteins: CD99L2, PKN2
+GTPase activator activity: 2 proteins: ALS2, RGS14
+neuromuscular junction development: 2 proteins: ALS2, UNC13B
+protein localization: 2 proteins: ALS2, PLEC
+endosomal transport: 2 proteins: ALS2, VPS4B
+synaptic transmission, glutamatergic: 2 proteins: ALS2, UNC13B
+ protein kinase activity: 2 proteins: ALS2, AZU1
+ mitotic cell cycle: 2 proteins: ANAPC4, PKN2
+defense response to virus: 2 proteins: APOBEC3C, AZU1
+inflammatory response: 2 proteins: AZU1, PJA2
+ vascular permeability: 2 proteins: AZU1, PLEC
+protein-folding chaperone binding: 2 proteins: BAG2, DNAJA2
+protein stabilization: 2 proteins: BAG2, DVL3
+signaling receptor complex adaptor activity: 2 proteins: CARD10, RGS14
+ apoptotic process: 2 proteins: CARD10, UNC13B
+protein serine/threonine kinase activity: 2 proteins: CLK3, PKN2
+protein serine kinase activity: 2 proteins: CLK3, PKN2
+protein autophosphorylation: 2 proteins: CLK3, RB1CC1
+protein-containing complex binding: 2 proteins: DISC1, VPS4B
+microtubule cytoskeleton organization: 2 proteins: DISC1, PHLDB2
+ dendritic spine development: 2 proteins: DISC1, TANC2
+mitochondrion: 2 proteins: DISC1, EXD2
+kinesin complex: 2 proteins: DISC1, KIF3C
+ciliary basal body: 2 proteins: DISC1, PJA2
+glutamatergic synapse: 2 proteins: DISC1, RGS14
+metal ion binding: 2 proteins: DNAJA2, PJA2
+GTPase activity: 2 proteins: DRG1, RGS14
+ mitotic spindle assembly: 2 proteins: DRG1, VPS4B
+polysome: 2 proteins: DRG1, VIM
+chemical synaptic transmission: 2 proteins: DTNA, UNC13B
+ protein phosphorylation: 2 proteins: DVL3, RB1CC1
+intracellular signal transduction: 2 proteins: DVL3, PKN2
+magnesium ion binding: 2 proteins: EXD2, PGM2
+nucleic acid binding: 2 proteins: EXD2, RCAN1
+mitochondrial outer membrane: 2 proteins: EXD2, PLEC
+protein domain specific binding: 2 proteins: FHOD1, VIM
+actin filament binding: 2 proteins: FHOD1, PLEC
+ATP hydrolysis activity: 2 proteins: KIF3C, VPS4B
+establishment of protein localization: 2 proteins: MCC, PHLDB2
+cell leading edge: 2 proteins: PHLDB2, VIM
+ubiquitin protein ligase activity: 2 proteins: PJA2, TRIM32
+long-term memory: 2 proteins: PJA2, RGS14
+protein ubiquitination: 2 proteins: PJA2, TRIM32
+ JNK cascade: 2 proteins: PJA2, RB1CC1
+endoplasmic reticulum membrane: 2 proteins: PJA2, RB1CC1
+apoptotic process: 2 proteins: PKN2, PSMD10
+ cell motility: 2 proteins: PKN2, TRIM32
+midbody: 2 proteins: PKN2, VPS4B
+structural constituent of cytoskeleton: 2 proteins: PLEC, VIM
+nucleus organization: 2 proteins: PLEC, VPS4B
+intermediate filament organization: 2 proteins: PLEC, VIM
+skeletal muscle fiber development: 2 proteins: PLEC, RCAN1
+autophagy: 2 proteins: RB1CC1, VPS4B
+ autophagy: 2 proteins: RB1CC1, TRIM32
+ neurogenesis: 2 proteins: RGS14, TRIM32
+spindle pole: 2 proteins: RGS14, VPS4B
+ubiquitin binding: 2 proteins: TOM1L2, TRIM32
+protein transport: 2 proteins: TOM1L2, VPS4B
+endosome: 2 proteins: TOM1L2, VPS4B
+negative regulation of intrinsic apoptotic signaling pathway in response to DNA damage: 2 proteins: TRIM32, USP47

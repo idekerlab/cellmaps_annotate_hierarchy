@@ -1,0 +1,440 @@
+Feature	Number of Genes	Genes
+plasma membrane	15	ARVCF, CDH2, CDH4, CDH8, CTNNA1, CTNNB1, CTNND1, EPB41L2, EPHB1, EPHB2, PCDH7, PCDHA1, PCDHGA2, PCDHGB1, PKP4
+protein binding	10	ARVCF, CDH2, CTNNA1, CTNNB1, CTNND1, EPB41L2, EPHB1, EPHB2, HORMAD2, PKP4
+cell adhesion	10	ARVCF, CDH2, CDH4, CDH8, CTNNA1, CTNNB1, PCDH7, PCDHA1, PCDHGA2, PCDHGB1
+cadherin binding	8	ARVCF, CDH2, CDH4, CDH8, CTNNA1, CTNNB1, CTNND1, PKP4
+adherens junction	8	ARVCF, CDH2, CDH4, CDH8, CTNNA1, CTNNB1, CTNND1, PKP4
+calcium ion binding	7	CDH2, CDH4, CDH8, PCDH7, PCDHA1, PCDHGA2, PCDHGB1
+homophilic cell adhesion via plasma membrane adhesion molecules	7	CDH2, CDH4, CDH8, PCDH7, PCDHA1, PCDHGA2, PCDHGB1
+cytosol	7	CTNNA1, CTNNB1, CTNND1, EPB41L2, EPHB1, EPHB2, HORMAD2
+cell-cell junction assembly	6	ARVCF, CDH2, CDH4, CDH8, CTNND1, PKP4
+cell-cell adhesion	6	ARVCF, CDH2, CTNNA1, CTNNB1, CTNND1, PKP4
+catenin complex	6	CDH2, CDH4, CDH8, CTNNA1, CTNNB1, CTNND1
+nucleus	5	ARVCF, CTNNB1, CTNND1, HORMAD2, PKP4
+cytoplasm	5	ARVCF, CDH2, CTNNB1, CTNND1, PKP4
+cell-cell junction	5	CDH2, CTNNA1, CTNNB1, CTNND1, PKP4
+cell junction	5	CDH2, CTNNA1, CTNNB1, EPB41L2, PKP4
+glutamatergic synapse	5	CDH8, CTNNB1, CTNND1, EPHB1, EPHB2
+identical protein binding	4	CDH2, CDH8, CTNNA1, EPHB2
+cell-cell adhesion mediated by cadherin	4	CDH2, CDH4, CDH8, CTNND1
+focal adhesion	4	CDH2, CTNNA1, CTNNB1, EPB41L2
+lamellipodium	4	CDH2, CTNNA1, CTNNB1, CTNND1
+nucleoplasm	4	CTNNB1, EPB41L2, EPHB2, HORMAD2
+extracellular exosome	4	CTNNB1, CTNND1, EPB41L2, EPHB1
+nervous system development	4	EPHB2, PCDHA1, PCDHGA2, PCDHGB1
+beta-catenin binding	3	CDH2, CTNNA1, CTNND1
+cell morphogenesis	3	CDH2, CDH4, CDH8
+multicellular organism development	3	CDH2, CDH4, CDH8
+calcium-dependent cell-cell adhesion via plasma membrane cell adhesion molecules	3	CDH2, CDH4, CDH8
+adherens junction organization	3	CDH2, CDH4, CDH8
+negative regulation of canonical Wnt signaling pathway	3	CDH2, CTNNB1, CTNND1
+cell surface	3	CDH2, CTNND1, EPHB2
+axon guidance	3	CDH4, EPHB1, EPHB2
+ synapse assembly	3	CTNNB1, EPHB1, EPHB2
+extracellular region	3	EPHB1, EPHB2, PCDHA1
+endoplasmic reticulum	3	EPHB1, PCDHA1, TMTC4
+RNA binding	2	CDH2, CTNNA1
+protein kinase binding	2	CDH2, CTNNB1
+protein phosphatase binding	2	CDH2, CTNNB1
+alpha-catenin binding	2	CDH2, CTNNB1
+gamma-catenin binding	2	CDH2, CTNNA1
+heterophilic cell-cell adhesion via plasma membrane cell adhesion molecules	2	CDH2, CDH4
+brain development	2	CDH2, CTNND1
+detection of muscle stretch	2	CDH2, CTNNB1
+ MAPK cascade	2	CDH2, CTNNB1
+synaptic vesicle clustering	2	CDH2, CTNNB1
+fascia adherens	2	CDH2, CTNNB1
+postsynaptic density	2	CDH2, PKP4
+intercalated disc	2	CDH2, CTNNA1
+basolateral plasma membrane	2	CDH2, CTNNB1
+apicolateral plasma membrane	2	CDH2, CTNNB1
+desmosome	2	CDH2, PKP4
+apical part of cell	2	CDH2, CTNNB1
+structural molecule activity	2	CTNNA1, EPB41L2
+neuroblast proliferation	2	CTNNA1, CTNNB1
+odontogenesis of dentin-containing tooth	2	CTNNA1, CTNNB1
+cellular response to indole-3-methanol	2	CTNNA1, CTNNB1
+zonula adherens	2	CTNNA1, CTNND1
+flotillin complex	2	CTNNA1, CTNNB1
+ gene expression	2	CTNNB1, EPHB2
+ protein localization to cell surface	2	CTNNB1, EPHB2
+spindle pole	2	CTNNB1, PKP4
+centrosome	2	CTNNB1, HORMAD2
+cell cortex	2	CTNNB1, EPB41L2
+membrane	2	CTNNB1, TMTC4
+presynaptic membrane	2	CTNNB1, EPHB2
+postsynaptic membrane	2	CTNNB1, EPHB2
+perinuclear region of cytoplasm	2	CTNNB1, PKP4
+Schaffer collateral - CA1 synapse	2	CTNNB1, CTNND1
+presynaptic active zone cytoplasmic component	2	CTNNB1, CTNND1
+postsynaptic density, intracellular component	2	CTNNB1, CTNND1
+signaling receptor binding	2	CTNND1, EPHB2
+growth cone	2	CTNND1, PCDHGB1
+midbody	2	CTNND1, PKP4
+dendritic spine	2	CTNND1, EPHB2
+hippocampal mossy fiber to CA3 synapse	2	CTNND1, EPHB2
+cytoskeleton	2	EPB41L2, PKP4
+transmembrane-ephrin receptor activity	2	EPHB1, EPHB2
+ATP binding	2	EPHB1, EPHB2
+axon guidance receptor activity	2	EPHB1, EPHB2
+protein-containing complex binding	2	EPHB1, EPHB2
+angiogenesis	2	EPHB1, EPHB2
+protein phosphorylation	2	EPHB1, EPHB2
+optic nerve morphogenesis	2	EPHB1, EPHB2
+hindbrain tangential cell migration	2	EPHB1, EPHB2
+central nervous system projection neuron axonogenesis	2	EPHB1, EPHB2
+retinal ganglion cell axon guidance	2	EPHB1, EPHB2
+ephrin receptor signaling pathway	2	EPHB1, EPHB2
+camera-type eye morphogenesis	2	EPHB1, EPHB2
+dendritic spine development	2	EPHB1, EPHB2
+dendritic spine morphogenesis	2	EPHB1, EPHB2
+axon	2	EPHB1, EPHB2
+dendrite	2	EPHB1, EPHB2
+mRNA processing	1	ARVCF
+RNA splicing	1	ARVCF
+messenger ribonucleoprotein complex	1	ARVCF
+type B pancreatic cell development	1	CDH2
+synapse assembly	1	CDH2
+glial cell differentiation	1	CDH2
+neural crest cell development	1	CDH2
+cerebral cortex development	1	CDH2
+blood vessel morphogenesis	1	CDH2
+brain morphogenesis	1	CDH2
+homeostasis of number of cells	1	CDH2
+ axonogenesis	1	CDH2
+striated muscle cell differentiation	1	CDH2
+ synaptic transmission, glutamatergic	1	CDH2
+radial glial cell differentiation	1	CDH2
+neuroepithelial cell differentiation	1	CDH2
+ oligodendrocyte progenitor proliferation	1	CDH2
+protein localization to plasma membrane	1	CDH2
+mesenchymal cell migration	1	CDH2
+neuroligin clustering involved in postsynaptic membrane assembly	1	CDH2
+neuronal stem cell population maintenance	1	CDH2
+ postsynaptic density protein 95 clustering	1	CDH2
+ synaptic vesicle clustering	1	CDH2
+endoplasmic reticulum lumen	1	CDH2
+apical plasma membrane	1	CDH2
+cortical actin cytoskeleton	1	CDH2
+sarcolemma	1	CDH2
+neuron projection	1	CDH2
+plasma membrane raft	1	CDH2
+collagen-containing extracellular matrix	1	CDH2
+presynapse	1	CDH2
+ axon extension	1	CDH4
+axon extension	1	CDH4
+response to cold	1	CDH8
+synaptic transmission, glutamatergic	1	CDH8
+ synapse organization	1	CDH8
+synaptic cleft	1	CDH8
+axon terminus	1	CDH8
+synaptic membrane	1	CDH8
+vinculin binding	1	CTNNA1
+actin filament binding	1	CTNNA1
+ovarian follicle development	1	CTNNA1
+establishment or maintenance of cell polarity	1	CTNNA1
+smoothened signaling pathway	1	CTNNA1
+integrin-mediated signaling pathway	1	CTNNA1
+negative regulation of neuroblast proliferation	1	CTNNA1
+protein localization	1	CTNNA1
+male gonad development	1	CTNNA1
+gap junction assembly	1	CTNNA1
+cell migration	1	CTNNA1
+axon regeneration	1	CTNNA1
+apical junction assembly	1	CTNNA1
+response to estrogen	1	CTNNA1
+ smoothened signaling pathway	1	CTNNA1
+epithelial cell-cell adhesion	1	CTNNA1
+extrinsic apoptotic signaling pathway in absence of ligand	1	CTNNA1
+negative regulation of protein localization to nucleus	1	CTNNA1
+negative regulation of cell motility	1	CTNNA1
+negative regulation of integrin-mediated signaling pathway	1	CTNNA1
+negative regulation of extrinsic apoptotic signaling pathway in absence of ligand	1	CTNNA1
+ extrinsic apoptotic signaling pathway in absence of ligand	1	CTNNA1
+acrosomal vesicle	1	CTNNA1
+actin cytoskeleton	1	CTNNA1
+intracellular membrane-bounded organelle	1	CTNNA1
+transcription coregulator binding	1	CTNNB1
+transcription corepressor binding	1	CTNNB1
+chromatin binding	1	CTNNB1
+transcription coactivator activity	1	CTNNB1
+nuclear receptor binding	1	CTNNB1
+enzyme binding	1	CTNNB1
+kinase binding	1	CTNNB1
+nuclear estrogen receptor binding	1	CTNNB1
+ubiquitin protein ligase binding	1	CTNNB1
+transmembrane transporter binding	1	CTNNB1
+SMAD binding	1	CTNNB1
+RNA polymerase II-specific DNA-binding transcription factor binding	1	CTNNB1
+I-SMAD binding	1	CTNNB1
+disordered domain specific binding	1	CTNNB1
+DNA-binding transcription factor binding	1	CTNNB1
+histone methyltransferase binding	1	CTNNB1
+negative regulation of transcription by RNA polymerase II	1	CTNNB1
+MAPK cascade	1	CTNNB1
+protein polyubiquitination	1	CTNNB1
+embryonic axis specification	1	CTNNB1
+cell morphogenesis involved in differentiation	1	CTNNB1
+branching involved in blood vessel morphogenesis	1	CTNNB1
+branching involved in ureteric bud morphogenesis	1	CTNNB1
+in utero embryonic development	1	CTNNB1
+gastrulation with mouth forming second	1	CTNNB1
+cell fate specification	1	CTNNB1
+endodermal cell fate commitment	1	CTNNB1
+neuron migration	1	CTNNB1
+epithelial to mesenchymal transition	1	CTNNB1
+neural plate development	1	CTNNB1
+ neuroblast proliferation	1	CTNNB1
+ mesenchymal cell proliferation	1	CTNNB1
+chondrocyte differentiation	1	CTNNB1
+lens morphogenesis in camera-type eye	1	CTNNB1
+ secondary heart field cardioblast proliferation	1	CTNNB1
+metanephros morphogenesis	1	CTNNB1
+negative regulation of mesenchymal to epithelial transition involved in metanephros morphogenesis	1	CTNNB1
+transcription by RNA polymerase II	1	CTNNB1
+cell-matrix adhesion	1	CTNNB1
+I-kappaB kinase/NF-kappaB signaling	1	CTNNB1
+chemical synaptic transmission	1	CTNNB1
+ectoderm development	1	CTNNB1
+glial cell fate determination	1	CTNNB1
+negative regulation of cell population proliferation	1	CTNNB1
+fibroblast growth factor receptor signaling pathway	1	CTNNB1
+response to xenobiotic stimulus	1	CTNNB1
+anterior/posterior axis specification	1	CTNNB1
+dorsal/ventral axis specification	1	CTNNB1
+proximal/distal pattern formation	1	CTNNB1
+negative regulation of gene expression	1	CTNNB1
+ epithelial to mesenchymal transition	1	CTNNB1
+ heparan sulfate proteoglycan biosynthetic process	1	CTNNB1
+negative regulation of angiogenesis	1	CTNNB1
+stem cell population maintenance	1	CTNNB1
+layer formation in cerebral cortex	1	CTNNB1
+hypothalamus development	1	CTNNB1
+central nervous system vasculogenesis	1	CTNNB1
+osteoclast differentiation	1	CTNNB1
+male genitalia development	1	CTNNB1
+hindbrain development	1	CTNNB1
+ centriole-centriole cohesion	1	CTNNB1
+pancreas development	1	CTNNB1
+hair follicle morphogenesis	1	CTNNB1
+ protein ubiquitination	1	CTNNB1
+ myelination	1	CTNNB1
+ telomere maintenance via telomerase	1	CTNNB1
+negative regulation of chondrocyte differentiation	1	CTNNB1
+response to estradiol	1	CTNNB1
+ transcription elongation by RNA polymerase II	1	CTNNB1
+T cell differentiation in thymus	1	CTNNB1
+negative regulation of protein sumoylation	1	CTNNB1
+adherens junction assembly	1	CTNNB1
+protein localization to cell surface	1	CTNNB1
+embryonic heart tube development	1	CTNNB1
+genitalia morphogenesis	1	CTNNB1
+embryonic forelimb morphogenesis	1	CTNNB1
+embryonic hindlimb morphogenesis	1	CTNNB1
+hair cell differentiation	1	CTNNB1
+embryonic skeletal limb joint morphogenesis	1	CTNNB1
+astrocyte-dopaminergic neuron signaling	1	CTNNB1
+ T cell proliferation	1	CTNNB1
+embryonic digit morphogenesis	1	CTNNB1
+ apoptotic process	1	CTNNB1
+negative regulation of apoptotic process	1	CTNNB1
+ I-kappaB kinase/NF-kappaB signaling	1	CTNNB1
+proteasome-mediated ubiquitin-dependent protein catabolic process	1	CTNNB1
+negative regulation of neuron apoptotic process	1	CTNNB1
+ neuron apoptotic process	1	CTNNB1
+canonical Wnt signaling pathway involved in positive regulation of epithelial to mesenchymal transition	1	CTNNB1
+canonical Wnt signaling pathway involved in negative regulation of apoptotic process	1	CTNNB1
+canonical Wnt signaling pathway involved in mesenchymal stem cell differentiation	1	CTNNB1
+canonical Wnt signaling pathway involved in osteoblast differentiation	1	CTNNB1
+bone resorption	1	CTNNB1
+ cell differentiation	1	CTNNB1
+ endothelial cell differentiation	1	CTNNB1
+ osteoblast differentiation	1	CTNNB1
+negative regulation of osteoclast differentiation	1	CTNNB1
+ fibroblast growth factor receptor signaling pathway	1	CTNNB1
+ angiogenesis	1	CTNNB1
+negative regulation of DNA-templated transcription	1	CTNNB1
+ DNA-templated transcription	1	CTNNB1
+ transcription by RNA polymerase II	1	CTNNB1
+negative regulation of mitotic cell cycle, embryonic	1	CTNNB1
+ fibroblast proliferation	1	CTNNB1
+cell maturation	1	CTNNB1
+synaptic vesicle transport	1	CTNNB1
+thymus development	1	CTNNB1
+oocyte development	1	CTNNB1
+embryonic foregut morphogenesis	1	CTNNB1
+ skeletal muscle tissue development	1	CTNNB1
+ smooth muscle cell proliferation	1	CTNNB1
+neuron fate determination	1	CTNNB1
+oligodendrocyte differentiation	1	CTNNB1
+negative regulation of oligodendrocyte differentiation	1	CTNNB1
+ neurogenesis	1	CTNNB1
+synapse organization	1	CTNNB1
+ DNA-binding transcription factor activity	1	CTNNB1
+smooth muscle cell differentiation	1	CTNNB1
+myoblast proliferation	1	CTNNB1
+ histone H3-K4 methylation	1	CTNNB1
+ timing of anagen	1	CTNNB1
+ telomerase activity	1	CTNNB1
+oviduct development	1	CTNNB1
+canonical Wnt signaling pathway	1	CTNNB1
+trachea formation	1	CTNNB1
+epithelial tube branching involved in lung morphogenesis	1	CTNNB1
+lung-associated mesenchyme development	1	CTNNB1
+lung epithelial cell differentiation	1	CTNNB1
+lung induction	1	CTNNB1
+epithelial cell differentiation involved in prostate gland development	1	CTNNB1
+epithelial cell proliferation involved in prostate gland development	1	CTNNB1
+ epithelial cell proliferation involved in prostate gland development	1	CTNNB1
+hair follicle placode formation	1	CTNNB1
+establishment of blood-brain barrier	1	CTNNB1
+mesenchymal cell proliferation involved in lung development	1	CTNNB1
+ branching involved in lung morphogenesis	1	CTNNB1
+endothelial tube morphogenesis	1	CTNNB1
+fungiform papilla formation	1	CTNNB1
+canonical Wnt signaling pathway involved in positive regulation of cardiac outflow tract cell proliferation	1	CTNNB1
+sympathetic ganglion development	1	CTNNB1
+cranial ganglion development	1	CTNNB1
+ centromeric sister chromatid cohesion	1	CTNNB1
+cellular response to growth factor stimulus	1	CTNNB1
+renal vesicle formation	1	CTNNB1
+renal inner medulla development	1	CTNNB1
+renal outer medulla development	1	CTNNB1
+nephron tubule formation	1	CTNNB1
+stem cell proliferation	1	CTNNB1
+ nephron tubule epithelial cell differentiation	1	CTNNB1
+mesenchymal stem cell differentiation	1	CTNNB1
+ calcium ion import	1	CTNNB1
+acinar cell differentiation	1	CTNNB1
+apoptotic signaling pathway	1	CTNNB1
+negative regulation of oxidative stress-induced neuron death	1	CTNNB1
+ core promoter binding	1	CTNNB1
+cranial skeletal system development	1	CTNNB1
+midbrain dopaminergic neuron differentiation	1	CTNNB1
+canonical Wnt signaling pathway involved in midbrain dopaminergic neuron differentiation	1	CTNNB1
+neuron projection extension	1	CTNNB1
+embryonic brain development	1	CTNNB1
+dorsal root ganglion development	1	CTNNB1
+establishment of blood-retinal barrier	1	CTNNB1
+ determination of dorsal identity	1	CTNNB1
+ myoblast proliferation	1	CTNNB1
+ stem cell proliferation	1	CTNNB1
+negative regulation of apoptotic signaling pathway	1	CTNNB1
+euchromatin	1	CTNNB1
+transcription regulator complex	1	CTNNB1
+bicellular tight junction	1	CTNNB1
+lateral plasma membrane	1	CTNNB1
+Z disc	1	CTNNB1
+beta-catenin destruction complex	1	CTNNB1
+microvillus membrane	1	CTNNB1
+protein-containing complex	1	CTNNB1
+protein-DNA complex	1	CTNNB1
+Scrib-APC-beta-catenin complex	1	CTNNB1
+synapse	1	CTNNB1
+beta-catenin-TCF7L2 complex	1	CTNNB1
+cell periphery	1	CTNNB1
+beta-catenin-ICAT complex	1	CTNNB1
+beta-catenin-TCF complex	1	CTNNB1
+Wnt signalosome	1	CTNNB1
+protein tyrosine kinase binding	1	CTNND1
+Wnt signaling pathway	1	CTNND1
+protein stabilization	1	CTNND1
+cytoplasmic sequestering of protein	1	CTNND1
+ postsynaptic membrane neurotransmitter receptor levels	1	CTNND1
+actin binding	1	EPB41L2
+spectrin binding	1	EPB41L2
+PH domain binding	1	EPB41L2
+cell cycle	1	EPB41L2
+cortical actin cytoskeleton organization	1	EPB41L2
+actomyosin structure organization	1	EPB41L2
+cell division	1	EPB41L2
+ protein localization to cell cortex	1	EPB41L2
+spectrin	1	EPB41L2
+immunological synapse formation	1	EPHB1
+skeletal muscle satellite cell activation	1	EPHB1
+neurogenesis	1	EPHB1
+establishment of cell polarity	1	EPHB1
+cell-substrate adhesion	1	EPHB1
+ JNK cascade	1	EPHB1
+protein autophosphorylation	1	EPHB1
+modulation of chemical synaptic transmission	1	EPHB1
+detection of temperature stimulus involved in sensory perception of pain	1	EPHB1
+cell chemotaxis	1	EPHB1
+neural precursor cell proliferation	1	EPHB1
+ ERK1 and ERK2 cascade	1	EPHB1
+negative regulation of skeletal muscle satellite cell proliferation	1	EPHB1
+negative regulation of satellite cell differentiation	1	EPHB1
+early endosome membrane	1	EPHB1
+filopodium tip	1	EPHB1
+membrane raft	1	EPHB1
+amyloid-beta binding	1	EPHB2
+protein tyrosine kinase activity	1	EPHB2
+urogenital system development	1	EPHB2
+negative regulation of protein phosphorylation	1	EPHB2
+ immunoglobulin production	1	EPHB2
+negative regulation of protein kinase activity	1	EPHB2
+negative regulation of cell adhesion	1	EPHB2
+axonal fasciculation	1	EPHB2
+learning or memory	1	EPHB2
+learning	1	EPHB2
+phosphorylation	1	EPHB2
+peptidyl-tyrosine phosphorylation	1	EPHB2
+corpus callosum development	1	EPHB2
+ blood coagulation	1	EPHB2
+ cell migration	1	EPHB2
+ B cell proliferation	1	EPHB2
+ synaptic plasticity	1	EPHB2
+ tumor necrosis factor production	1	EPHB2
+B cell activation	1	EPHB2
+inner ear morphogenesis	1	EPHB2
+ receptor signaling pathway via JAK-STAT	1	EPHB2
+negative regulation of Ras protein signal transduction	1	EPHB2
+ neuronal synaptic plasticity	1	EPHB2
+ long-term neuronal synaptic plasticity	1	EPHB2
+negative regulation of axonogenesis	1	EPHB2
+ body fluid levels	1	EPHB2
+ filopodium assembly	1	EPHB2
+roof of mouth development	1	EPHB2
+ dendritic spine morphogenesis	1	EPHB2
+negative regulation of ERK1 and ERK2 cascade	1	EPHB2
+cellular response to lipopolysaccharide	1	EPHB2
+commissural neuron axon guidance	1	EPHB2
+postsynaptic membrane assembly	1	EPHB2
+trans-synaptic signaling by trans-synaptic complex, modulating synaptic transmission	1	EPHB2
+neuron projection retraction	1	EPHB2
+vesicle-mediated intercellular transport	1	EPHB2
+tight junction assembly	1	EPHB2
+negative regulation of cytokine production involved in inflammatory response	1	EPHB2
+ long-term synaptic potentiation	1	EPHB2
+ protein localization to plasma membrane	1	EPHB2
+cellular response to amyloid-beta	1	EPHB2
+negative regulation of NMDA glutamate receptor activity	1	EPHB2
+ NMDA glutamate receptor activity	1	EPHB2
+ T-helper 17 type immune response	1	EPHB2
+ autophagosome assembly	1	EPHB2
+ behavioral fear response	1	EPHB2
+Golgi apparatus	1	EPHB2
+neuronal cell body	1	EPHB2
+postsynapse	1	EPHB2
+meiotic sister chromatid cohesion	1	HORMAD2
+meiotic cell cycle	1	HORMAD2
+synaptonemal complex	1	HORMAD2
+chromosome	1	HORMAD2
+platelet alpha granule membrane	1	PCDH7
+cell-cell signaling	1	PKP4
+ cell adhesion	1	PKP4
+ cytokinesis	1	PKP4
+ GTPase activity	1	PKP4
+cornified envelope	1	PKP4
+cytoplasmic side of plasma membrane	1	PKP4
+cell-cell contact zone	1	PKP4
+spindle midzone	1	PKP4
+mitotic spindle	1	PKP4
+mannosyltransferase activity	1	TMTC4
+dolichyl-phosphate-mannose-protein mannosyltransferase activity	1	TMTC4
+ATPase binding	1	TMTC4
+sensory perception of sound	1	TMTC4
+endoplasmic reticulum unfolded protein response	1	TMTC4
+ endoplasmic reticulum calcium ion concentration	1	TMTC4
+protein O-linked mannosylation	1	TMTC4
+outer hair cell apoptotic process	1	TMTC4

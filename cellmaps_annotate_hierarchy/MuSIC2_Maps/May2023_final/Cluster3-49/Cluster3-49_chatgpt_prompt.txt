@@ -1,0 +1,45 @@
+Your response should be formatted as Markdown paragraphs
+Write a critical and concise analysis of this human protein system, describing your reasoning as you go and providing references to scientific papers.
+
+A critical goal of the analysis is to determine if this is a novel complex or if any proteins are novel members of a known complex
+
+Format with Title, Summary, and References sections.        
+Avoid overly general statements of how the proteins are involved in various cellular processes        
+Avoid repeating the goals of the analysis.
+
+What cellular components and complexes are involved in this system?
+What mechanisms and biological processes are performed by this system?
+Propose a name for the system to reflect the cellular location and function, and should be specific but brief. Do not compose an acronym. Place it as the title of your report
+Human Proteins: STAG2, PDS5B, RAD21, SMC1A, DBR1, CDCA5, SMC3, STAG1.
+
+System features from GO terms: 
+nucleus: 8 proteins: STAG2, PDS5B, RAD21, SMC1A, DBR1, CDCA5, SMC3, STAG1
+nucleoplasm: 8 proteins: STAG2, PDS5B, RAD21, SMC1A, DBR1, CDCA5, SMC3, STAG1
+protein binding: 7 proteins: STAG2, PDS5B, RAD21, SMC1A, CDCA5, SMC3, STAG1
+cell division: 7 proteins: STAG2, PDS5B, RAD21, SMC1A, CDCA5, SMC3, STAG1
+chromosome, centromeric region: 7 proteins: STAG2, PDS5B, RAD21, SMC1A, CDCA5, SMC3, STAG1
+chromosome: 7 proteins: STAG2, PDS5B, RAD21, SMC1A, CDCA5, SMC3, STAG1
+cytosol: 7 proteins: STAG2, PDS5B, RAD21, SMC1A, CDCA5, SMC3, STAG1
+chromatin binding: 6 proteins: STAG2, RAD21, SMC1A, CDCA5, SMC3, STAG1
+chromatin: 6 proteins: STAG2, PDS5B, RAD21, CDCA5, SMC3, STAG1
+sister chromatid cohesion: 5 proteins: STAG2, RAD21, SMC1A, SMC3, STAG1
+establishment of mitotic sister chromatid cohesion: 5 proteins: STAG2, RAD21, SMC1A, SMC3, STAG1
+cohesin complex: 5 proteins: STAG2, RAD21, SMC1A, SMC3, STAG1
+nuclear matrix: 5 proteins: STAG2, RAD21, SMC1A, SMC3, STAG1
+mitotic spindle assembly: 4 proteins: STAG2, SMC1A, SMC3, STAG1
+mitotic spindle pole: 4 proteins: STAG2, SMC1A, SMC3, STAG1
+mitotic sister chromatid cohesion: 4 proteins: PDS5B, SMC1A, CDCA5, SMC3
+meiotic cell cycle: 3 proteins: STAG2, SMC1A, SMC3
+DNA binding: 3 proteins: PDS5B, RAD21, SMC1A
+DNA repair: 3 proteins: PDS5B, SMC1A, SMC3
+establishment of meiotic sister chromatid cohesion: 3 proteins: RAD21, SMC1A, SMC3
+membrane: 2 proteins: STAG2, RAD21
+double-strand break repair: 2 proteins: RAD21, CDCA5
+condensed nuclear chromosome: 2 proteins: RAD21, SMC1A
+RNA binding: 2 proteins: SMC1A, DBR1
+ATP binding: 2 proteins: SMC1A, SMC3
+ATP hydrolysis activity: 2 proteins: SMC1A, SMC3
+mediator complex binding: 2 proteins: SMC1A, SMC3
+protein heterodimerization activity: 2 proteins: SMC1A, SMC3
+meiotic cohesin complex: 2 proteins: SMC1A, SMC3
+mitotic cell cycle: 2 proteins: CDCA5, SMC3

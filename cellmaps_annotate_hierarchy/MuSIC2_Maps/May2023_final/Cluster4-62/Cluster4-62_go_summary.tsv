@@ -1,0 +1,39 @@
+Feature	Number of Genes	Genes
+mitochondrion	3	ACOT9, SUCLG2, UQCC1
+protein binding	3	NUP35, SUCLG2, UQCC1
+mitochondrial matrix	2	ACOT9, SUCLG2
+plasma membrane	2	NUP35, SUCLG2
+acetyl-CoA hydrolase activity	1	ACOT9
+palmitoyl-CoA hydrolase activity	1	ACOT9
+acyl-CoA hydrolase activity	1	ACOT9
+carboxylic ester hydrolase activity	1	ACOT9
+acyl-CoA metabolic process	1	ACOT9
+nucleic acid binding	1	NUP35
+phospholipid binding	1	NUP35
+structural constituent of nuclear pore	1	NUP35
+identical protein binding	1	NUP35
+NLS-bearing protein import into nucleus	1	NUP35
+nucleocytoplasmic transport	1	NUP35
+nuclear pore organization	1	NUP35
+mRNA transport	1	NUP35
+cellular response to leukemia inhibitory factor	1	NUP35
+nuclear envelope	1	NUP35
+nuclear pore	1	NUP35
+nucleoplasm	1	NUP35
+cytosol	1	NUP35
+nuclear membrane	1	NUP35
+nuclear pore central transport channel	1	NUP35
+nuclear pore nuclear basket	1	NUP35
+magnesium ion binding	1	SUCLG2
+succinate-CoA ligase (ADP-forming) activity	1	SUCLG2
+succinate-CoA ligase (GDP-forming) activity	1	SUCLG2
+ATP binding	1	SUCLG2
+GTP binding	1	SUCLG2
+tricarboxylic acid cycle	1	SUCLG2
+succinyl-CoA metabolic process	1	SUCLG2
+succinyl-CoA catabolic process	1	SUCLG2
+succinate-CoA ligase complex	1	SUCLG2
+succinate-CoA ligase complex (GDP-forming)	1	SUCLG2
+mitochondrial respiratory chain complex III assembly	1	UQCC1
+mitochondrial inner membrane	1	UQCC1
+cytoplasmic vesicle	1	UQCC1

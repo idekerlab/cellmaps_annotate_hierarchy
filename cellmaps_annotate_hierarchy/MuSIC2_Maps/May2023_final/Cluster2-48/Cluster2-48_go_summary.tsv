@@ -1,0 +1,117 @@
+Feature	Number of Genes	Genes
+protein binding	8	C9orf78, ARMCX5-GPRASP2, IQCJ-SCHIP1, GIGYF2, ZBTB33, RELB, NCAPH, KMT2E
+nucleus	6	C9orf78, ARMCX5-GPRASP2, ZC3H7A, ZBTB33, RELB, KMT2E
+cytosol	6	C9orf78, ARMCX5-GPRASP2, GIGYF2, ZBTB33, RELB, NCAPH
+nucleoplasm	5	C9orf78, ZBTB33, RELB, NCAPH, KMT2E
+cytoplasm	3	ARMCX5-GPRASP2, IQCJ-SCHIP1, KMT2E
+plasma membrane	3	IQCJ-SCHIP1, ZBTB33, KMT2E
+protein-containing complex	3	GIGYF2, RELB, KMT2E
+metal ion binding	3	ZC3H7A, ZBTB33, KMT2E
+chromatin	3	ZBTB33, RELB, KMT2E
+RNA binding	2	GIGYF2, ZC3H7A
+membrane	2	GIGYF2, NCAPH
+DNA-binding transcription factor activity, RNA polymerase II-specific	2	ZBTB33, RELB
+negative regulation of DNA-templated transcription	2	ZBTB33, RELB
+U5 snRNA binding	1	C9orf78
+mRNA splicing, via spliceosome	1	C9orf78
+chromosome segregation	1	C9orf78
+mRNA cis splicing, via spliceosome	1	C9orf78
+ homologous chromosome segregation	1	C9orf78
+chromosome, centromeric region	1	C9orf78
+spliceosomal complex	1	C9orf78
+amyloid-beta binding	1	ARMCX5-GPRASP2
+G protein-coupled receptor binding	1	ARMCX5-GPRASP2
+protein homodimerization activity	1	ARMCX5-GPRASP2
+learning or memory	1	ARMCX5-GPRASP2
+negative regulation of neuron apoptotic process	1	ARMCX5-GPRASP2
+ neurogenesis	1	ARMCX5-GPRASP2
+ synapse assembly	1	ARMCX5-GPRASP2
+ dendritic spine morphogenesis	1	ARMCX5-GPRASP2
+hematopoietic stem cell homeostasis	1	ARMCX5-GPRASP2
+extracellular exosome	1	ARMCX5-GPRASP2
+ hippo signaling	1	IQCJ-SCHIP1
+negative regulation of cytoskeleton organization	1	IQCJ-SCHIP1
+cell junction	1	IQCJ-SCHIP1
+axon initial segment	1	IQCJ-SCHIP1
+cadherin binding	1	GIGYF2
+proline-rich region binding	1	GIGYF2
+feeding behavior	1	GIGYF2
+adult locomotory behavior	1	GIGYF2
+post-embryonic development	1	GIGYF2
+post-transcriptional gene silencing	1	GIGYF2
+negative regulation of translation	1	GIGYF2
+protein metabolic process	1	GIGYF2
+spinal cord motor neuron differentiation	1	GIGYF2
+mitotic G1 DNA damage checkpoint signaling	1	GIGYF2
+multicellular organism growth	1	GIGYF2
+insulin-like growth factor receptor signaling pathway	1	GIGYF2
+homeostasis of number of cells within a tissue	1	GIGYF2
+musculoskeletal movement	1	GIGYF2
+neuromuscular process controlling balance	1	GIGYF2
+mRNA destabilization	1	GIGYF2
+endosome	1	GIGYF2
+endoplasmic reticulum	1	GIGYF2
+Golgi apparatus	1	GIGYF2
+cytoplasmic stress granule	1	GIGYF2
+vesicle	1	GIGYF2
+perikaryon	1	GIGYF2
+proximal dendrite	1	GIGYF2
+miRNA binding	1	ZC3H7A
+post-transcriptional regulation of gene expression	1	ZC3H7A
+miRNA processing	1	ZC3H7A
+methyl-CpG binding	1	ZBTB33
+sequence-specific DNA binding	1	ZBTB33
+sequence-specific double-stranded DNA binding	1	ZBTB33
+negative regulation of transcription by RNA polymerase II	1	ZBTB33
+ cytokine production	1	ZBTB33
+ immune system process	1	ZBTB33
+Wnt signaling pathway	1	ZBTB33
+intracellular signal transduction	1	ZBTB33
+nucleolus	1	ZBTB33
+RNA polymerase II cis-regulatory region sequence-specific DNA binding	1	RELB
+protein kinase binding	1	RELB
+identical protein binding	1	RELB
+ transcription by RNA polymerase II	1	RELB
+inflammatory response	1	RELB
+I-kappaB kinase/NF-kappaB signaling	1	RELB
+antigen processing and presentation	1	RELB
+lymphocyte differentiation	1	RELB
+negative regulation of interferon-beta production	1	RELB
+circadian regulation of gene expression	1	RELB
+cellular response to stress	1	RELB
+response to cytokine	1	RELB
+NIK/NF-kappaB signaling	1	RELB
+myeloid dendritic cell differentiation	1	RELB
+T-helper 1 cell differentiation	1	RELB
+innate immune response	1	RELB
+cellular response to osmotic stress	1	RELB
+centrosome	1	RELB
+transcription repressor complex	1	RELB
+synapse	1	RELB
+NF-kappaB complex	1	RELB
+chromatin binding	1	NCAPH
+mitotic chromosome condensation	1	NCAPH
+meiotic chromosome condensation	1	NCAPH
+cell division	1	NCAPH
+female meiosis chromosome separation	1	NCAPH
+ chromosome segregation	1	NCAPH
+ chromosome separation	1	NCAPH
+ chromosome condensation	1	NCAPH
+condensed nuclear chromosome	1	NCAPH
+condensin complex	1	NCAPH
+transcription coactivator activity	1	KMT2E
+enzyme binding	1	KMT2E
+methylated histone binding	1	KMT2E
+histone H3 methyltransferase activity	1	KMT2E
+neutrophil mediated immunity	1	KMT2E
+DNA methylation	1	KMT2E
+chromatin organization	1	KMT2E
+cell cycle	1	KMT2E
+erythrocyte differentiation	1	KMT2E
+neutrophil activation	1	KMT2E
+ DNA-templated transcription	1	KMT2E
+ G1/S transition of mitotic cell cycle	1	KMT2E
+euchromatin	1	KMT2E
+microtubule organizing center	1	KMT2E
+nuclear body	1	KMT2E
+nuclear speck	1	KMT2E

@@ -1,0 +1,39 @@
+Your response should be formatted as Markdown paragraphs
+Write a critical and concise analysis of this human protein system, describing your reasoning as you go and providing references to scientific papers.
+
+A critical goal of the analysis is to determine if this is a novel complex or if any proteins are novel members of a known complex
+
+Format with Title, Summary, and References sections.        
+Avoid overly general statements of how the proteins are involved in various cellular processes        
+Avoid repeating the goals of the analysis.
+
+What cellular components and complexes are involved in this system?
+What mechanisms and biological processes are performed by this system?
+Propose a name for the system to reflect the cellular location and function, and should be specific but brief. Do not compose an acronym. Place it as the title of your report
+Human Proteins: GTF3C4, ZNF688, CENPO, NUP88, RAN, GTF3C1, CENPQ, CENPP, DHRS12, ITGB3BP.
+
+System features from GO terms: 
+protein binding: 9 proteins: GTF3C4, ZNF688, CENPO, NUP88, RAN, GTF3C1, CENPQ, CENPP, ITGB3BP
+nucleoplasm: 8 proteins: GTF3C4, CENPO, NUP88, RAN, GTF3C1, CENPQ, CENPP, ITGB3BP
+cytosol: 6 proteins: CENPO, NUP88, RAN, CENPQ, CENPP, ITGB3BP
+nucleus: 5 proteins: ZNF688, RAN, CENPQ, CENPP, ITGB3BP
+DNA binding: 3 proteins: GTF3C4, ZNF688, GTF3C1
+nucleolus: 3 proteins: RAN, GTF3C1, CENPP
+membrane: 3 proteins: RAN, GTF3C1, ITGB3BP
+RNA polymerase III general transcription initiation factor activity: 2 proteins: GTF3C4, GTF3C1
+transcription by RNA polymerase III: 2 proteins: GTF3C4, GTF3C1
+transcription initiation at RNA polymerase III promoter: 2 proteins: GTF3C4, GTF3C1
+5S class rRNA transcription by RNA polymerase III: 2 proteins: GTF3C4, GTF3C1
+tRNA transcription by RNA polymerase III: 2 proteins: GTF3C4, GTF3C1
+transcription factor TFIIIC complex: 2 proteins: GTF3C4, GTF3C1
+ DNA-templated transcription: 2 proteins: ZNF688, ITGB3BP
+ribosomal large subunit export from nucleus: 2 proteins: NUP88, RAN
+ribosomal small subunit export from nucleus: 2 proteins: NUP88, RAN
+mitotic cell cycle: 2 proteins: NUP88, RAN
+protein import into nucleus: 2 proteins: NUP88, RAN
+nuclear envelope: 2 proteins: NUP88, RAN
+nuclear pore: 2 proteins: NUP88, RAN
+cell division: 2 proteins: RAN, ITGB3BP
+cytoplasm: 2 proteins: RAN, ITGB3BP
+chromosome, centromeric region: 2 proteins: CENPQ, CENPP
+CENP-A containing chromatin assembly: 2 proteins: CENPP, ITGB3BP

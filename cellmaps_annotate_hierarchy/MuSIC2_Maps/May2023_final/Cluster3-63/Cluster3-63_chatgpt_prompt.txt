@@ -1,0 +1,23 @@
+Your response should be formatted as Markdown paragraphs
+Write a critical and concise analysis of this human protein system, describing your reasoning as you go and providing references to scientific papers.
+
+A critical goal of the analysis is to determine if this is a novel complex or if any proteins are novel members of a known complex
+
+Format with Title, Summary, and References sections.        
+Avoid overly general statements of how the proteins are involved in various cellular processes        
+Avoid repeating the goals of the analysis.
+
+What cellular components and complexes are involved in this system?
+What mechanisms and biological processes are performed by this system?
+Propose a name for the system to reflect the cellular location and function, and should be specific but brief. Do not compose an acronym. Place it as the title of your report
+Human Proteins: GPRC5B, ATP13A1, ZDHHC17, ERGIC2, ITPRIP.
+
+System features from GO terms: 
+intracellular membrane-bounded organelle: 3 proteins: GPRC5B, ZDHHC17, ERGIC2
+membrane: 3 proteins: ATP13A1, ERGIC2, ITPRIP
+protein binding: 3 proteins: ZDHHC17, ERGIC2, ITPRIP
+ I-kappaB kinase/NF-kappaB signaling: 2 proteins: GPRC5B, ZDHHC17
+nucleolus: 2 proteins: GPRC5B, ERGIC2
+plasma membrane: 2 proteins: GPRC5B, ITPRIP
+endoplasmic reticulum membrane: 2 proteins: ATP13A1, ERGIC2
+Golgi apparatus: 2 proteins: ZDHHC17, ERGIC2

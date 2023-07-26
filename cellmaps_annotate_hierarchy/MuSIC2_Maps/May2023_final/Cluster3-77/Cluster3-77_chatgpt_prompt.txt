@@ -1,0 +1,29 @@
+Your response should be formatted as Markdown paragraphs
+Write a critical and concise analysis of this human protein system, describing your reasoning as you go and providing references to scientific papers.
+
+A critical goal of the analysis is to determine if this is a novel complex or if any proteins are novel members of a known complex
+
+Format with Title, Summary, and References sections.        
+Avoid overly general statements of how the proteins are involved in various cellular processes        
+Avoid repeating the goals of the analysis.
+
+What cellular components and complexes are involved in this system?
+What mechanisms and biological processes are performed by this system?
+Propose a name for the system to reflect the cellular location and function, and should be specific but brief. Do not compose an acronym. Place it as the title of your report
+Human Proteins: SLC38A9, ITPA, LAMTOR5, LAMTOR2.
+
+System features from GO terms: 
+guanyl-nucleotide exchange factor activity: 3 proteins: SLC38A9, LAMTOR5, LAMTOR2
+protein binding: 3 proteins: SLC38A9, LAMTOR5, LAMTOR2
+ TOR signaling: 3 proteins: SLC38A9, LAMTOR5, LAMTOR2
+cellular response to amino acid stimulus: 3 proteins: SLC38A9, LAMTOR5, LAMTOR2
+lysosomal membrane: 3 proteins: SLC38A9, LAMTOR5, LAMTOR2
+late endosome membrane: 3 proteins: SLC38A9, LAMTOR5, LAMTOR2
+metal ion binding: 2 proteins: SLC38A9, ITPA
+ TORC1 signaling: 2 proteins: SLC38A9, LAMTOR5
+lysosome: 2 proteins: SLC38A9, LAMTOR5
+late endosome: 2 proteins: SLC38A9, LAMTOR2
+cytosol: 2 proteins: ITPA, LAMTOR5
+molecular adaptor activity: 2 proteins: LAMTOR5, LAMTOR2
+TORC1 signaling: 2 proteins: LAMTOR5, LAMTOR2
+Ragulator complex: 2 proteins: LAMTOR5, LAMTOR2

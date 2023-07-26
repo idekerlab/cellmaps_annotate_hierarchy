@@ -1,0 +1,404 @@
+{
+    "COLQ": {
+        "hgnc_id": "HGNC:2226",
+        "symbol": "COLQ",
+        "name": "collagen like tail subunit of asymmetric acetylcholinesterase",
+        "status": "Approved",
+        "locus_type": "gene with protein product",
+        "prev_name": [
+            "collagen-like tail subunit (single strand of homotrimer) of asymmetric acetylcholinesterase"
+        ],
+        "alias_symbol": [
+            "EAD"
+        ],
+        "alias_name": [
+            "single strand of homotrimeric collagen-like tail subunit of asymmetric acetylcholinesterase",
+            "collagenic tail of endplate acetylcholinesterase",
+            "AChE Q subunit",
+            "acetylcholinesterase-associated collagen"
+        ],
+        "location": "3p25.1",
+        "date_approved_reserved": "1998-09-14T00:00:00Z",
+        "date_modified": "2023-03-15T00:00:00Z",
+        "date_name_changed": "2016-06-21T00:00:00Z",
+        "ena": [
+            "AF057036"
+        ],
+        "entrez_id": "8292",
+        "mgd_id": [
+            "MGI:1338761"
+        ],
+        "orphanet": 120761,
+        "pubmed_id": [
+            9689136
+        ],
+        "refseq_accession": [
+            "NM_005677"
+        ],
+        "gene_group": [
+            "MicroRNA protein coding host genes"
+        ],
+        "vega_id": "OTTHUMG00000156233",
+        "lsdb": [
+            "ESTHER wwwserver: ESTerases and alpha/beta Hydrolase Enzymes & Relatives|http://bioweb.ensam.inra.fr/esther"
+        ],
+        "ensembl_gene_id": "ENSG00000206561",
+        "ccds_id": [
+            "CCDS43057",
+            "CCDS46768",
+            "CCDS33709"
+        ],
+        "locus_group": "protein-coding gene",
+        "omim_id": [
+            "603033"
+        ],
+        "uniprot_ids": [
+            "Q9Y215"
+        ],
+        "ucsc_id": "uc003bzx.3",
+        "rgd_id": [
+            "RGD:2377"
+        ],
+        "gene_group_id": [
+            1691
+        ],
+        "location_sortable": "03p25.1",
+        "agr": "HGNC:2226",
+        "symbol_report_tag": [
+            "Stable symbol"
+        ],
+        "mane_select": [
+            "ENST00000383788.10",
+            "NM_005677.4"
+        ],
+        "gencc": "HGNC:2226",
+        "uuid": "6d501978-5626-49c8-8bda-ae106c6dc2e0",
+        "_version_": 1764210503379320833
+    },
+    "FLT4": {
+        "hgnc_id": "HGNC:3767",
+        "symbol": "FLT4",
+        "name": "fms related receptor tyrosine kinase 4",
+        "status": "Approved",
+        "locus_type": "gene with protein product",
+        "prev_name": [
+            "fms-related tyrosine kinase 4",
+            "fms related tyrosine kinase 4"
+        ],
+        "alias_symbol": [
+            "VEGFR3",
+            "PCL",
+            "VEGFR-3"
+        ],
+        "alias_name": [
+            "vascular endothelial growth factor receptor 3",
+            "VEGF receptor-3",
+            "Feline McDonough Sarcoma (FMS)-like tyrosine kinase 4",
+            "primary congenital lymphedema"
+        ],
+        "location": "5q35.3",
+        "date_approved_reserved": "1991-10-25T00:00:00Z",
+        "date_modified": "2023-01-20T00:00:00Z",
+        "date_name_changed": "2019-12-05T00:00:00Z",
+        "ena": [
+            "X68203"
+        ],
+        "enzyme_id": [
+            "2.7.10.1"
+        ],
+        "entrez_id": "2324",
+        "mgd_id": [
+            "MGI:95561"
+        ],
+        "iuphar": "objectId:1814",
+        "cosmic": "FLT4",
+        "orphanet": 121872,
+        "pubmed_id": [
+            1319394
+        ],
+        "refseq_accession": [
+            "NM_001354989"
+        ],
+        "gene_group": [
+            "Receptor tyrosine kinases",
+            "I-set domain containing"
+        ],
+        "vega_id": "OTTHUMG00000130931",
+        "ensembl_gene_id": "ENSG00000037280",
+        "ccds_id": [
+            "CCDS43412",
+            "CCDS87360",
+            "CCDS4457"
+        ],
+        "locus_group": "protein-coding gene",
+        "omim_id": [
+            "136352"
+        ],
+        "uniprot_ids": [
+            "P35916"
+        ],
+        "ucsc_id": "uc003mlz.4",
+        "rgd_id": [
+            "RGD:621737"
+        ],
+        "gene_group_id": [
+            321,
+            593
+        ],
+        "location_sortable": "05q35.3",
+        "agr": "HGNC:3767",
+        "symbol_report_tag": [
+            "Stable symbol"
+        ],
+        "mane_select": [
+            "ENST00000261937.11",
+            "NM_182925.5"
+        ],
+        "gencc": "HGNC:3767",
+        "uuid": "19d91413-60f4-4da3-bd19-cadd9e0a22bd",
+        "_version_": 1764210505565601792
+    },
+    "MYADM": {
+        "hgnc_id": "HGNC:7544",
+        "symbol": "MYADM",
+        "name": "myeloid associated differentiation marker",
+        "status": "Approved",
+        "locus_type": "gene with protein product",
+        "location": "19q13.42",
+        "date_approved_reserved": "1998-09-22T00:00:00Z",
+        "date_modified": "2023-01-20T00:00:00Z",
+        "date_name_changed": "2016-06-22T00:00:00Z",
+        "ena": [
+            "AF087882"
+        ],
+        "entrez_id": "91663",
+        "mgd_id": [
+            "MGI:1355332"
+        ],
+        "pubmed_id": [
+            10733104,
+            12075932
+        ],
+        "refseq_accession": [
+            "NM_138373"
+        ],
+        "gene_group": [
+            "MARVEL domain containing"
+        ],
+        "vega_id": "OTTHUMG00000060775",
+        "ensembl_gene_id": "ENSG00000179820",
+        "ccds_id": [
+            "CCDS12866"
+        ],
+        "locus_group": "protein-coding gene",
+        "omim_id": [
+            "609959"
+        ],
+        "uniprot_ids": [
+            "Q96S97"
+        ],
+        "ucsc_id": "uc002qcl.4",
+        "rgd_id": [
+            "RGD:727835"
+        ],
+        "gene_group_id": [
+            1626
+        ],
+        "location_sortable": "19q13.42",
+        "agr": "HGNC:7544",
+        "mane_select": [
+            "ENST00000391770.9",
+            "NM_138373.5"
+        ],
+        "uuid": "be0c6295-6e54-43f6-9c1c-42b261fd309d",
+        "_version_": 1764210518516563969
+    },
+    "NMT2": {
+        "hgnc_id": "HGNC:7858",
+        "symbol": "NMT2",
+        "name": "N-myristoyltransferase 2",
+        "status": "Approved",
+        "locus_type": "gene with protein product",
+        "location": "10p13",
+        "date_approved_reserved": "1999-04-07T00:00:00Z",
+        "date_modified": "2023-01-20T00:00:00Z",
+        "ena": [
+            "AF043325"
+        ],
+        "entrez_id": "9397",
+        "mgd_id": [
+            "MGI:1202298"
+        ],
+        "pubmed_id": [
+            9506952
+        ],
+        "refseq_accession": [
+            "NM_004808"
+        ],
+        "vega_id": "OTTHUMG00000017723",
+        "ensembl_gene_id": "ENSG00000152465",
+        "ccds_id": [
+            "CCDS76284",
+            "CCDS7109"
+        ],
+        "locus_group": "protein-coding gene",
+        "omim_id": [
+            "603801"
+        ],
+        "uniprot_ids": [
+            "O60551"
+        ],
+        "ucsc_id": "uc001inz.2",
+        "rgd_id": [
+            "RGD:1303175"
+        ],
+        "location_sortable": "10p13",
+        "agr": "HGNC:7858",
+        "mane_select": [
+            "ENST00000378165.9",
+            "NM_004808.3"
+        ],
+        "uuid": "2868c57d-bf74-461b-bbd3-16308ac64e3e",
+        "_version_": 1764210519105863680
+    },
+    "SLC4A2": {
+        "hgnc_id": "HGNC:11028",
+        "symbol": "SLC4A2",
+        "name": "solute carrier family 4 member 2",
+        "status": "Approved",
+        "locus_type": "gene with protein product",
+        "prev_symbol": [
+            "EPB3L1",
+            "AE2"
+        ],
+        "prev_name": [
+            "erythrocyte membrane protein band 3-like 1",
+            "solute carrier family 4, anion exchanger, member 2 (erythrocyte membrane protein band 3-like 1)",
+            "solute carrier family 4 (anion exchanger), member 2"
+        ],
+        "alias_symbol": [
+            "HKB3",
+            "BND3L",
+            "NBND3"
+        ],
+        "alias_name": [
+            "anion exchanger 2 type a",
+            "anion exchanger 2 type b1",
+            "anion exchanger 2 type b2"
+        ],
+        "location": "7q36.1",
+        "date_approved_reserved": "1986-01-01T00:00:00Z",
+        "date_modified": "2023-01-20T00:00:00Z",
+        "date_name_changed": "2016-02-17T00:00:00Z",
+        "entrez_id": "6522",
+        "mgd_id": [
+            "MGI:109351"
+        ],
+        "iuphar": "objectId:905",
+        "orphanet": 471092,
+        "bioparadigms_slc": "SLC4A2",
+        "pubmed_id": [
+            8434259
+        ],
+        "refseq_accession": [
+            "NM_003040"
+        ],
+        "gene_group": [
+            "Solute carrier family 4"
+        ],
+        "vega_id": "OTTHUMG00000158443",
+        "ensembl_gene_id": "ENSG00000164889",
+        "ccds_id": [
+            "CCDS56520",
+            "CCDS5917",
+            "CCDS56521"
+        ],
+        "locus_group": "protein-coding gene",
+        "omim_id": [
+            "109280"
+        ],
+        "uniprot_ids": [
+            "P04920"
+        ],
+        "ucsc_id": "uc022apz.2",
+        "rgd_id": [
+            "RGD:3711"
+        ],
+        "gene_group_id": [
+            2157
+        ],
+        "location_sortable": "07q36.1",
+        "agr": "HGNC:11028",
+        "mane_select": [
+            "ENST00000413384.7",
+            "NM_003040.4"
+        ],
+        "uuid": "18d7deba-ec01-4fe1-ad15-742c1e720cca",
+        "_version_": 1764210533925388289
+    },
+    "TOR1B": {
+        "hgnc_id": "HGNC:11995",
+        "symbol": "TOR1B",
+        "name": "torsin family 1 member B",
+        "status": "Approved",
+        "locus_type": "gene with protein product",
+        "prev_name": [
+            "torsin family 1, member B (torsin B)"
+        ],
+        "alias_symbol": [
+            "DQ1",
+            "MGC4386"
+        ],
+        "alias_name": [
+            "torsin B"
+        ],
+        "location": "9q34.11",
+        "date_approved_reserved": "2000-02-17T00:00:00Z",
+        "date_modified": "2023-01-20T00:00:00Z",
+        "date_name_changed": "2016-01-25T00:00:00Z",
+        "ena": [
+            "AF007872"
+        ],
+        "entrez_id": "27348",
+        "mgd_id": [
+            "MGI:1353605"
+        ],
+        "pubmed_id": [
+            9288096,
+            10644435
+        ],
+        "refseq_accession": [
+            "NM_014506"
+        ],
+        "gene_group": [
+            "Torsins"
+        ],
+        "vega_id": "OTTHUMG00000020795",
+        "ensembl_gene_id": "ENSG00000136816",
+        "ccds_id": [
+            "CCDS6929"
+        ],
+        "locus_group": "protein-coding gene",
+        "omim_id": [
+            "608050"
+        ],
+        "uniprot_ids": [
+            "O14657"
+        ],
+        "ucsc_id": "uc004byk.1",
+        "rgd_id": [
+            "RGD:1308431"
+        ],
+        "gene_group_id": [
+            1831
+        ],
+        "location_sortable": "09q34.11",
+        "agr": "HGNC:11995",
+        "mane_select": [
+            "ENST00000259339.7",
+            "NM_014506.3"
+        ],
+        "uuid": "dc126388-4485-49a5-9ed5-c01e65e66261",
+        "_version_": 1764210538164781056
+    }
+}

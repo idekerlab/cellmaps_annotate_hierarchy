@@ -1,0 +1,62 @@
+Write a critical and concise analysis of this system, describing your reasoning as you go and providing references to scientific papers. Format the page with Title, Summary, and References sections.
+What cellular components and complexes are involved in this system?
+What mechanisms and biological processes are performed by this system?
+Propose a name for the system to reflect the function and location, and should be specific but brief. Do not compose an acronym. Place it as the title of your report
+Provide complete paper references with pubmed link
+Proteins: DUSP14, OLFM4, TPR, IMPA2, JPH3, PGBD1, ANXA8L1, ESRP1, ME1, LGALSL, TRIM29, LSMEM2, AZGP1, RSRP1, HEY1, PPL, BCL2L2, KLK6, CERKL, DEF8, WDR7, ATP6V1D, CCDC107, ALDH1A3, CPA4, GAREM1, GTF2A2, FCHSD1, ZC3HC1, BLMH, HES1, YOD1.
+
+A critical goal of the analysis is to determine if this is a novel complex or if any proteins are novel members of a known complex
+System features from GO terms: 
+protein binding: 25 proteins: ESRP1, HES1, GAREM1, CCDC107, ATP6V1D, BCL2L2, PGBD1, YOD1, JPH3, TRIM29, LGALSL, HEY1, KLK6, IMPA2, LSMEM2, TPR, BLMH, RSRP1, GTF2A2, ZC3HC1, PPL, OLFM4, AZGP1, DUSP14, ME1
+cytoplasm: 12 proteins: HES1, YOD1, HEY1, KLK6, IMPA2, TPR, BLMH, WDR7, ALDH1A3, ANXA8L1, PPL, ME1
+nucleoplasm: 10 proteins: ESRP1, HES1, ATP6V1D, HEY1, CERKL, KLK6, TPR, GTF2A2, ZC3HC1, OLFM4
+cytosol: 10 proteins: ATP6V1D, BCL2L2, YOD1, CERKL, IMPA2, BLMH, ALDH1A3, PPL, OLFM4, ME1
+nucleus: 9 proteins: ESRP1, HES1, HEY1, TPR, BLMH, RSRP1, GTF2A2, ZC3HC1, AZGP1
+protein homodimerization activity: 6 proteins: HES1, BCL2L2, IMPA2, TPR, ALDH1A3, GTF2A2
+membrane: 6 proteins: CCDC107, ATP6V1D, PGBD1, JPH3, LSMEM2, PPL
+extracellular exosome: 6 proteins: ATP6V1D, BLMH, ALDH1A3, PPL, OLFM4, AZGP1
+plasma membrane: 5 proteins: GAREM1, ATP6V1D, JPH3, PPL, OLFM4
+identical protein binding: 5 proteins: BCL2L2, PGBD1, TRIM29, BLMH, ME1
+negative regulation of transcription by RNA polymerase II: 4 proteins: HES1, TRIM29, HEY1, TPR
+extracellular space: 4 proteins: CPA4, KLK6, OLFM4, AZGP1
+RNA polymerase II-specific DNA-binding transcription factor binding: 3 proteins: HES1, HEY1, GTF2A2
+cell adhesion: 3 proteins: HES1, OLFM4, AZGP1
+positive regulation of transcription by RNA polymerase II: 3 proteins: HES1, HEY1, GTF2A2
+zinc ion binding: 3 proteins: CPA4, TRIM29, ZC3HC1
+metal ion binding: 3 proteins: YOD1, DEF8, IMPA2
+extracellular region: 3 proteins: KLK6, OLFM4, AZGP1
+mitochondrion: 3 proteins: KLK6, OLFM4, ME1
+nuclear membrane: 3 proteins: KLK6, TPR, ZC3HC1
+mRNA binding: 2 proteins: ESRP1, TPR
+DNA-binding transcription factor activity, RNA polymerase II-specific: 2 proteins: HES1, HEY1
+DNA-binding transcription repressor activity, RNA polymerase II-specific: 2 proteins: HES1, HEY1
+chromatin binding: 2 proteins: HES1, TPR
+sequence-specific DNA binding: 2 proteins: HES1, PGBD1
+protein-containing complex binding: 2 proteins: HES1, BCL2L2
+sequence-specific double-stranded DNA binding: 2 proteins: HES1, HEY1
+regulation of transcription by RNA polymerase II: 2 proteins: HES1, HEY1
+Notch signaling pathway: 2 proteins: HES1, HEY1
+positive regulation of cell population proliferation: 2 proteins: HES1, GAREM1
+anterior/posterior pattern specification: 2 proteins: HES1, HEY1
+negative regulation of neuron differentiation: 2 proteins: HES1, HEY1
+negative regulation of DNA-templated transcription: 2 proteins: HES1, HEY1
+regulation of neurogenesis: 2 proteins: HES1, HEY1
+ventricular septum morphogenesis: 2 proteins: HES1, HEY1
+labyrinthine layer blood vessel development: 2 proteins: HES1, HEY1
+chromatin: 2 proteins: HES1, HEY1
+protein-containing complex: 2 proteins: HES1, OLFM4
+proteolysis: 2 proteins: CPA4, BLMH
+protein heterodimerization activity: 2 proteins: BCL2L2, GTF2A2
+regulation of apoptotic process: 2 proteins: BCL2L2, OLFM4
+neuromuscular process controlling balance: 2 proteins: JPH3, ALDH1A3
+nucleolus: 2 proteins: CERKL, KLK6
+endoplasmic reticulum: 2 proteins: CERKL, KLK6
+perinuclear region of cytoplasm: 2 proteins: CERKL, OLFM4
+cornified envelope: 2 proteins: KLK6, PPL
+intercellular bridge: 2 proteins: KLK6, OLFM4
+signal transduction: 2 proteins: IMPA2, OLFM4
+RNA binding: 2 proteins: TPR, DUSP14
+cell division: 2 proteins: TPR, ZC3HC1
+protein homotetramerization: 2 proteins: ALDH1A3, ME1
+structural molecule activity: 2 proteins: PPL, OLFM4
+cadherin binding: 2 proteins: PPL, OLFM4

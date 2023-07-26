@@ -1,0 +1,126 @@
+Feature	Number of Genes	Genes
+cytosol	25	PSMD14, PSMA1, MIDN, ADRM1, PSMF1, PSMA4, PSMA5, PSMA6, PSMB10, PSMB7, PSMB8, PSMC1, PSMC2, PSMC3, PSMC4, PSMC5, PSMC6, PSMD12, PSMD13, PSMD3, PSMD4, PSMD5, PSMD8, TXNL1, USP14
+protein binding	24	PAAF1, PSMD14, PSMA1, MIDN, ADRM1, PSMF1, PSMA4, PSMA5, PSMA6, PSMB10, PSMB7, PSMB8, PSMC1, PSMC2, PSMC3, PSMC4, PSMC5, PSMC6, PSMD12, PSMD3, PSMD4, PSMD5, PSMD8, USP14
+proteasome complex	24	PAAF1, PSMD14, PSMA1, ADRM1, PSMA4, PSMA5, PSMA6, PSMB10, PSMB7, PSMB8, PSMC1, PSMC2, PSMC3, PSMC4, PSMC5, PSMC6, PSMD12, PSMD13, PSMD3, PSMD4, PSMD5, PSMD8, TXNL1, USP14
+nucleoplasm	22	PSMD14, PSMA1, ADRM1, PSMF1, PSMA4, PSMA5, PSMA6, PSMB10, PSMB7, PSMB8, PSMC1, PSMC2, PSMC3, PSMC4, PSMC5, PSMC6, PSMD12, PSMD13, PSMD3, PSMD4, PSMD5, PSMD8
+proteasome-mediated ubiquitin-dependent protein catabolic process	20	PSMD14, PSMA1, ADRM1, PSMF1, PSMA4, PSMA5, PSMA6, PSMB7, PSMC1, PSMC2, PSMC3, PSMC4, PSMC5, PSMC6, PSMD12, PSMD13, PSMD3, PSMD4, PSMD8, USP14
+nucleus	20	PSMD14, PSMA1, MIDN, PSMA4, PSMA5, PSMA6, PSMB10, PSMB7, PSMB8, PSMC1, PSMC2, PSMC3, PSMC4, PSMC5, PSMC6, PSMD13, PSMD3, PSMD4, PSMD8, TXNL1
+proteasome accessory complex	13	PSMD14, PSMC1, PSMC2, PSMC3, PSMC4, PSMC5, PSMC6, PSMD12, PSMD13, PSMD3, PSMD4, PSMD5, PSMD8
+cytoplasm	10	PSMA1, MIDN, PSMA4, PSMA5, PSMA6, PSMB7, PSMC2, PSMC5, PSMD12, TXNL1
+extracellular exosome	10	PSMA1, PSMA4, PSMA5, PSMA6, PSMB8, PSMC5, PSMC6, PSMD12, PSMD3, USP14
+membrane	10	PSMF1, PSMC1, PSMC2, PSMC3, PSMC4, PSMC5, PSMC6, PSMD12, PSMD13, PSMD3
+ proteasomal protein catabolic process	8	PSMD14, PSMC1, PSMC2, PSMC3, PSMC4, PSMC5, PSMC6, USP14
+extracellular region	8	PSMD14, PSMA5, PSMB7, PSMC2, PSMC3, PSMD12, PSMD13, PSMD3
+secretory granule lumen	8	PSMD14, PSMA5, PSMB7, PSMC2, PSMC3, PSMD12, PSMD13, PSMD3
+ficolin-1-rich granule lumen	8	PSMD14, PSMA5, PSMB7, PSMC2, PSMC3, PSMD12, PSMD13, PSMD3
+proteasome core complex	8	PSMA1, PSMF1, PSMA4, PSMA5, PSMA6, PSMB10, PSMB7, PSMB8
+proteasome regulatory particle, base subcomplex	7	PSMC1, PSMC2, PSMC3, PSMC4, PSMC5, PSMC6, PSMD4
+proteasome regulatory particle, lid subcomplex	6	PSMD14, ADRM1, PSMD12, PSMD13, PSMD3, PSMD8
+ATP binding	6	PSMC1, PSMC2, PSMC3, PSMC4, PSMC5, PSMC6
+ATP hydrolysis activity	6	PSMC1, PSMC2, PSMC3, PSMC4, PSMC5, PSMC6
+proteasome-activating activity	6	PSMC1, PSMC2, PSMC3, PSMC4, PSMC5, PSMC6
+ubiquitin-dependent protein catabolic process	5	PSMD14, PSMF1, PSMC2, PSMD13, PSMD3
+proteasome binding	4	PSMD14, ADRM1, PSMF1, USP14
+RNA binding	4	PSMA1, PSMA6, PSMC1, PSMD4
+proteasome core complex, alpha-subunit complex	4	PSMA1, PSMA4, PSMA5, PSMA6
+P-body	4	PSMA4, PSMA6, PSMC2, PSMC3
+endopeptidase activity	4	PSMA6, PSMB10, PSMB7, PSMB8
+cytosolic proteasome complex	3	PSMD14, PSMC5, PSMC6
+proteolysis involved in protein catabolic process	3	PSMA6, PSMB10, PSMB8
+threonine-type endopeptidase activity	3	PSMB10, PSMB7, PSMB8
+proteasome core complex, beta-subunit complex	3	PSMB10, PSMB7, PSMB8
+identical protein binding	3	PSMC3, PSMC6, PSMD4
+proteasome regulatory particle	3	PSMD12, PSMD13, PSMD8
+endopeptidase activator activity	2	PSMD14, ADRM1
+K63-linked deubiquitinase activity	2	PSMD14, USP14
+protein deubiquitination	2	PSMD14, USP14
+polysome	2	PSMA1, PSMA6
+plasma membrane	2	ADRM1, USP14
+endopeptidase inhibitor activity	2	PSMF1, USP14
+ NF-kappaB transcription factor activity	2	PSMA6, USP14
+spermatoproteasome complex	2	PSMB10, PSMB8
+TBP-class protein binding	2	PSMC1, PSMC5
+ transcription by RNA polymerase II	2	PSMC3, PSMC5
+ inclusion body assembly	2	PSMC5, PSMC6
+inclusion body	2	PSMC5, PSMC6
+cytoplasmic vesicle	2	PSMC5, USP14
+RNA polymerase II general transcription initiation factor activity	1	PAAF1
+transcription initiation at RNA polymerase II promoter	1	PAAF1
+transcription factor TFIID complex	1	PAAF1
+metallopeptidase activity	1	PSMD14
+metal ion binding	1	PSMD14
+metal-dependent deubiquitinase activity	1	PSMD14
+double-strand break repair via homologous recombination	1	PSMD14
+double-strand break repair via nonhomologous end joining	1	PSMD14
+response to ethanol	1	PSMD14
+protein K63-linked deubiquitination	1	PSMD14
+lipopolysaccharide binding	1	PSMA1
+immune system process	1	PSMA1
+negative regulation of inflammatory response to antigenic stimulus	1	PSMA1
+centrosome	1	PSMA1
+molecular_function	1	MIDN
+kinase binding	1	MIDN
+biological_process	1	MIDN
+negative regulation of glucokinase activity	1	MIDN
+negative regulation of insulin secretion	1	MIDN
+nucleolus	1	MIDN
+protease binding	1	ADRM1
+molecular function inhibitor activity	1	ADRM1
+transcription elongation by RNA polymerase II	1	ADRM1
+proteasome assembly	1	ADRM1
+protein homodimerization activity	1	PSMF1
+protein heterodimerization activity	1	PSMF1
+negative regulation of proteasomal protein catabolic process	1	PSMF1
+endoplasmic reticulum	1	PSMF1
+perinuclear region of cytoplasm	1	PSMF1
+intracellular membrane-bounded organelle	1	PSMA4
+purine ribonucleoside triphosphate binding	1	PSMA6
+NF-kappaB binding	1	PSMA6
+ inflammatory response	1	PSMA6
+nuclear matrix	1	PSMA6
+myofibril	1	PSMA6
+sarcomere	1	PSMA6
+cell morphogenesis	1	PSMB10
+humoral immune response	1	PSMB10
+T cell proliferation	1	PSMB10
+nuclear body	1	PSMB7
+antigen processing and presentation	1	PSMB8
+fat cell differentiation	1	PSMB8
+ endopeptidase activity	1	PSMB8
+negative regulation of neuron death	1	PSMC1
+osteoblast differentiation	1	PSMC2
+cytoplasmic ribonucleoprotein granule	1	PSMC2
+modulation by host of viral transcription	1	PSMC3
+blastocyst development	1	PSMC4
+proteolysis	1	PSMC4
+transcription factor binding	1	PSMC5
+thyrotropin-releasing hormone receptor binding	1	PSMC5
+general transcription initiation factor binding	1	PSMC5
+DNA-binding transcription factor binding	1	PSMC5
+negative regulation of programmed cell death	1	PSMC5
+negative regulation of DNA-templated transcription	1	PSMC5
+ DNA-templated transcription	1	PSMC5
+modulation of chemical synaptic transmission	1	PSMC5
+nuclear proteasome complex	1	PSMC5
+blood microparticle	1	PSMC5
+postsynapse	1	PSMC5
+protein-macromolecule adaptor activity	1	PSMC6
+ubiquitin-dependent ERAD pathway	1	PSMC6
+ RNA polymerase II transcription preinitiation complex assembly	1	PSMC6
+structural molecule activity	1	PSMD13
+meiosis I	1	PSMD13
+enzyme regulator activity	1	PSMD3
+ protein catabolic process	1	PSMD3
+polyubiquitin modification-dependent protein binding	1	PSMD4
+molecular adaptor activity	1	PSMD4
+proteasome regulatory particle assembly	1	PSMD5
+protein-disulfide reductase activity	1	TXNL1
+disulfide oxidoreductase activity	1	TXNL1
+cysteine-type endopeptidase activity	1	USP14
+cysteine-type deubiquitinase activity	1	USP14
+chemical synaptic transmission	1	USP14
+innate immune response	1	USP14
+ chemotaxis	1	USP14
+negative regulation of ER-associated ubiquitin-dependent protein catabolic process	1	USP14
+cell surface	1	USP14
+synapse	1	USP14

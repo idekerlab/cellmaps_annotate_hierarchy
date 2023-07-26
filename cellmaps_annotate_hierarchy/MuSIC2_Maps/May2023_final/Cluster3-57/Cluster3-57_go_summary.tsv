@@ -1,0 +1,76 @@
+Feature	Number of Genes	Genes
+cytoplasm	6	MAPK8IP3, PLEK2, GPHN, PRPS1, PRPS1L1, PRPS2
+protein binding	4	MAPK8IP3, GPHN, PRPS1, PRPS2
+ATP binding	4	GPHN, PRPS1, PRPS1L1, PRPS2
+identical protein binding	3	GPHN, PRPS1, PRPS2
+cytosol	3	GPHN, PRPS1, PRPS2
+magnesium ion binding	3	PRPS1, PRPS1L1, PRPS2
+ribose phosphate diphosphokinase activity	3	PRPS1, PRPS1L1, PRPS2
+kinase activity	3	PRPS1, PRPS1L1, PRPS2
+protein homodimerization activity	3	PRPS1, PRPS1L1, PRPS2
+5-phosphoribose 1-diphosphate biosynthetic process	3	PRPS1, PRPS1L1, PRPS2
+purine nucleotide biosynthetic process	3	PRPS1, PRPS1L1, PRPS2
+phosphorylation	3	PRPS1, PRPS1L1, PRPS2
+ribose phosphate diphosphokinase complex	3	PRPS1, PRPS1L1, PRPS2
+dendrite	2	MAPK8IP3, GPHN
+cytoskeleton	2	PLEK2, GPHN
+plasma membrane	2	PLEK2, GPHN
+ribonucleoside monophosphate biosynthetic process	2	PRPS1, PRPS1L1
+MAP-kinase scaffold activity	1	MAPK8IP3
+JUN kinase binding	1	MAPK8IP3
+kinesin binding	1	MAPK8IP3
+signaling receptor complex adaptor activity	1	MAPK8IP3
+vesicle-mediated transport	1	MAPK8IP3
+axon regeneration	1	MAPK8IP3
+negative regulation of apoptotic process	1	MAPK8IP3
+ JNK cascade	1	MAPK8IP3
+protein stabilization	1	MAPK8IP3
+axon development	1	MAPK8IP3
+anterograde axonal protein transport	1	MAPK8IP3
+Golgi membrane	1	MAPK8IP3
+axon	1	MAPK8IP3
+growth cone	1	MAPK8IP3
+cytoplasmic vesicle	1	MAPK8IP3
+cell body	1	MAPK8IP3
+perinuclear region of cytoplasm	1	MAPK8IP3
+axon cytoplasm	1	MAPK8IP3
+phosphatidylinositol-3-phosphate binding	1	PLEK2
+phosphatidylinositol-3,4-bisphosphate binding	1	PLEK2
+phosphatidylinositol-3,5-bisphosphate binding	1	PLEK2
+actin cytoskeleton reorganization	1	PLEK2
+intracellular signal transduction	1	PLEK2
+ plasma membrane bounded cell projection assembly	1	PLEK2
+lamellipodium membrane	1	PLEK2
+nitrate reductase activity	1	GPHN
+molybdopterin cofactor binding	1	GPHN
+metal ion binding	1	GPHN
+molybdopterin adenylyltransferase activity	1	GPHN
+molybdopterin molybdotransferase activity	1	GPHN
+Mo-molybdopterin cofactor biosynthetic process	1	GPHN
+establishment of synaptic specificity at neuromuscular junction	1	GPHN
+response to metal ion	1	GPHN
+molybdenum incorporation into molybdenum-molybdopterin complex	1	GPHN
+molybdopterin cofactor biosynthetic process	1	GPHN
+glycine receptor clustering	1	GPHN
+gamma-aminobutyric acid receptor clustering	1	GPHN
+postsynaptic neurotransmitter receptor diffusion trapping	1	GPHN
+postsynaptic density	1	GPHN
+postsynaptic membrane	1	GPHN
+synaptic membrane	1	GPHN
+postsynaptic specialization	1	GPHN
+postsynaptic specialization membrane	1	GPHN
+purine nucleobase metabolic process	1	PRPS1
+pyrimidine nucleotide biosynthetic process	1	PRPS1
+nervous system development	1	PRPS1
+urate biosynthetic process	1	PRPS1
+hypoxanthine biosynthetic process	1	PRPS1
+male gonad development	1	PRPS1L1
+cellular_component	1	PRPS1L1
+AMP binding	1	PRPS2
+GDP binding	1	PRPS2
+carbohydrate binding	1	PRPS2
+ADP binding	1	PRPS2
+pentose-phosphate shunt	1	PRPS2
+nucleobase-containing compound metabolic process	1	PRPS2
+AMP biosynthetic process	1	PRPS2
+animal organ regeneration	1	PRPS2

@@ -1,0 +1,80 @@
+Feature	Number of Genes	Genes
+protein binding	4	DENND4A, PPP1R3D, DYRK1A, TIAM1
+guanyl-nucleotide exchange factor activity	2	DENND4A, TIAM1
+ DNA-templated transcription	2	DENND4A, DYRK1A
+nucleus	2	DENND4A, DYRK1A
+cytosol	2	DENND4A, TIAM1
+DNA binding	1	DENND4A
+ Rab protein signal transduction	1	DENND4A
+cytoplasmic vesicle	1	DENND4A
+protein serine/threonine phosphatase activity	1	PPP1R3D
+protein phosphatase 1 binding	1	PPP1R3D
+glycogen binding	1	PPP1R3D
+glycogen metabolic process	1	PPP1R3D
+ glycogen biosynthetic process	1	PPP1R3D
+ glycogen catabolic process	1	PPP1R3D
+protein phosphatase type 1 complex	1	PPP1R3D
+glycogen granule	1	PPP1R3D
+intracellular membrane-bounded organelle	1	PPP1R3D
+transcription coactivator activity	1	DYRK1A
+protein kinase activity	1	DYRK1A
+protein serine/threonine kinase activity	1	DYRK1A
+protein serine/threonine/tyrosine kinase activity	1	DYRK1A
+protein tyrosine kinase activity	1	DYRK1A
+non-membrane spanning protein tyrosine kinase activity	1	DYRK1A
+ATP binding	1	DYRK1A
+RNA polymerase II CTD heptapeptide repeat kinase activity	1	DYRK1A
+identical protein binding	1	DYRK1A
+protein self-association	1	DYRK1A
+tau protein binding	1	DYRK1A
+tau-protein kinase activity	1	DYRK1A
+protein serine kinase activity	1	DYRK1A
+histone H3T45 kinase activity	1	DYRK1A
+chromatin remodeling	1	DYRK1A
+ transcription by RNA polymerase II	1	DYRK1A
+protein phosphorylation	1	DYRK1A
+nervous system development	1	DYRK1A
+circadian rhythm	1	DYRK1A
+peptidyl-serine phosphorylation	1	DYRK1A
+peptidyl-threonine phosphorylation	1	DYRK1A
+peptidyl-tyrosine phosphorylation	1	DYRK1A
+negative regulation of microtubule polymerization	1	DYRK1A
+ RNA splicing	1	DYRK1A
+amyloid-beta formation	1	DYRK1A
+peptidyl-serine autophosphorylation	1	DYRK1A
+peptidyl-tyrosine autophosphorylation	1	DYRK1A
+negative regulation of DNA damage response, signal transduction by p53 class mediator	1	DYRK1A
+protein autophosphorylation	1	DYRK1A
+negative regulation of mRNA splicing, via spliceosome	1	DYRK1A
+negative regulation of DNA methylation-dependent heterochromatin formation	1	DYRK1A
+ protein deacetylation	1	DYRK1A
+nucleoplasm	1	DYRK1A
+cytoplasm	1	DYRK1A
+cytoskeleton	1	DYRK1A
+nuclear speck	1	DYRK1A
+axon	1	DYRK1A
+dendrite	1	DYRK1A
+ribonucleoprotein complex	1	DYRK1A
+lipid binding	1	TIAM1
+kinase binding	1	TIAM1
+cell-matrix adhesion	1	TIAM1
+small GTPase mediated signal transduction	1	TIAM1
+ cell population proliferation	1	TIAM1
+ epithelial to mesenchymal transition	1	TIAM1
+cell migration	1	TIAM1
+Rac protein signal transduction	1	TIAM1
+ cell migration	1	TIAM1
+ protein binding	1	TIAM1
+ephrin receptor signaling pathway	1	TIAM1
+ axonogenesis	1	TIAM1
+ small GTPase mediated signal transduction	1	TIAM1
+Wnt signaling pathway, planar cell polarity pathway	1	TIAM1
+protein-containing complex assembly	1	TIAM1
+activation of GTPase activity	1	TIAM1
+ dopaminergic neuron differentiation	1	TIAM1
+ non-canonical Wnt signaling pathway	1	TIAM1
+plasma membrane	1	TIAM1
+cell-cell junction	1	TIAM1
+extrinsic component of cytoplasmic side of plasma membrane	1	TIAM1
+cell-cell contact zone	1	TIAM1
+synapse	1	TIAM1

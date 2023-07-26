@@ -1,0 +1,36 @@
+Your response should be formatted as Markdown paragraphs
+Write a critical and concise analysis of this human protein system, describing your reasoning as you go and providing references to scientific papers.
+
+A critical goal of the analysis is to determine if this is a novel complex or if any proteins are novel members of a known complex
+
+Format with Title, Summary, and References sections.        
+Avoid overly general statements of how the proteins are involved in various cellular processes        
+Avoid repeating the goals of the analysis.
+
+What cellular components and complexes are involved in this system?
+What mechanisms and biological processes are performed by this system?
+Propose a name for the system to reflect the cellular location and function, and should be specific but brief. Do not compose an acronym. Place it as the title of your report
+Human Proteins: RFXANK, POP4, SIRT1, GNAS, RPP25L, RPP14, RNASEH1, RPP40, POP7, RPP25, TRO, RIC8B, MAGED2.
+
+System features from GO terms: 
+protein binding: 12 proteins: RFXANK, POP4, SIRT1, GNAS, RPP25L, RPP14, RNASEH1, RPP40, POP7, RPP25, TRO, MAGED2
+nucleoplasm: 8 proteins: RFXANK, POP4, SIRT1, RPP14, RPP40, POP7, RPP25, MAGED2
+nucleus: 7 proteins: RFXANK, SIRT1, RPP25L, RPP40, POP7, TRO, MAGED2
+tRNA 5'-leader removal: 6 proteins: POP4, RPP25L, RPP14, RPP40, POP7, RPP25
+nucleolus: 6 proteins: POP4, SIRT1, RPP14, POP7, RPP25, MAGED2
+cytosol: 5 proteins: RFXANK, SIRT1, GNAS, RIC8B, MAGED2
+ribonuclease P activity: 5 proteins: POP4, RPP14, RPP40, POP7, RPP25
+ribonuclease P RNA binding: 5 proteins: POP4, RPP14, RPP40, POP7, RPP25
+RNA phosphodiester bond hydrolysis, endonucleolytic: 5 proteins: POP4, RPP14, RNASEH1, POP7, RPP25
+ribonuclease MRP complex: 5 proteins: POP4, RPP25L, RPP40, POP7, RPP25
+multimeric ribonuclease P complex: 5 proteins: POP4, RPP14, RPP40, POP7, RPP25
+cytoplasm: 4 proteins: SIRT1, RNASEH1, POP7, RIC8B
+RNA binding: 4 proteins: RPP25L, RNASEH1, POP7, RPP25
+rRNA processing: 3 proteins: POP4, POP7, RPP25
+negative regulation of transcription by RNA polymerase II: 3 proteins: SIRT1, TRO, MAGED2
+ transcription by RNA polymerase II: 2 proteins: RFXANK, SIRT1
+ MHC class II biosynthetic process: 2 proteins: RFXANK, SIRT1
+metal ion binding: 2 proteins: SIRT1, GNAS
+membrane: 2 proteins: GNAS, MAGED2
+nucleolar ribonuclease P complex: 2 proteins: RPP40, POP7
+plasma membrane: 2 proteins: TRO, RIC8B

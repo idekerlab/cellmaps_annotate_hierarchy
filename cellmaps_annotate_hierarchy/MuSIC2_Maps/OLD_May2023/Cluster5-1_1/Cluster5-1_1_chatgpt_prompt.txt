@@ -1,0 +1,73 @@
+Write a critical and concise analysis of this system, describing your reasoning as you go and providing references to scientific papers.         
+Format with Title, Summary, and References sections.        
+Avoid overly general statements of how the proteins are involved in various cellular processes
+        
+Avoid recapitulating the goals of the analysis. 
+What cellular components and complexes are involved in this system?
+What mechanisms and biological processes are performed by this system?
+Propose a name for the system to reflect the function and location, and should be specific but brief. Do not compose an acronym. Place it as the title of your report
+Provide complete paper references with pubmed link
+Proteins: AGK, OAT, PPM1K, OGDH, LIAS, DBT, SELENOO, CYCS, SARS2, LYRM2, NDUFAB1, MRPS25, TIMM10, MMAB, FASTKD2, COX4I1, TTC19, LRRC15, FBXW5, DARS2, TTLL4, NOA1, GRPEL2, MGME1, XPNPEP3, UQCC2, MRPS18B, TIMM9, SCLT1, COX5B, MOCOS, MIPEP, C1QBP, ACAA2, RNF151, ALDH18A1, PDHX, TMLHE, S100A4, FAHD1, MRPS36, UQCRFS1, GLRX5, NME4.
+
+A critical goal of the analysis is to determine if this is a novel complex or if any proteins are novel members of a known complex
+System features from GO terms: 
+mitochondrion: 36 proteins: LYRM2, XPNPEP3, CYCS, GRPEL2, OAT, C1QBP, LIAS, NME4, TIMM9, UQCC2, TMLHE, GLRX5, MRPS18B, NOA1, TTC19, FAHD1, ACAA2, OGDH, FASTKD2, SELENOO, DARS2, PDHX, TIMM10, MGME1, UQCRFS1, COX5B, DBT, MIPEP, NDUFAB1, ALDH18A1, MRPS25, MRPS36, SARS2, COX4I1, AGK, PPM1K
+protein binding: 33 proteins: LYRM2, XPNPEP3, LRRC15, CYCS, OAT, C1QBP, NME4, TIMM9, UQCC2, GLRX5, FBXW5, MRPS18B, NOA1, TTC19, ACAA2, OGDH, FASTKD2, DARS2, PDHX, TIMM10, MGME1, UQCRFS1, COX5B, NDUFAB1, MMAB, S100A4, RNF151, ALDH18A1, SARS2, COX4I1, AGK, PPM1K, MOCOS
+mitochondrial matrix: 19 proteins: OAT, C1QBP, LIAS, NME4, UQCC2, TMLHE, GLRX5, FAHD1, ACAA2, OGDH, FASTKD2, DARS2, PDHX, DBT, MIPEP, NDUFAB1, MMAB, SARS2, PPM1K
+mitochondrial inner membrane: 15 proteins: CYCS, NME4, TIMM9, UQCC2, MRPS18B, TTC19, TIMM10, UQCRFS1, COX5B, NDUFAB1, ALDH18A1, MRPS25, MRPS36, COX4I1, AGK
+cytosol: 12 proteins: SCLT1, TTLL4, XPNPEP3, CYCS, C1QBP, FBXW5, FAHD1, DBT, S100A4, COX4I1, AGK, MOCOS
+metal ion binding: 12 proteins: TTLL4, CYCS, LIAS, NME4, GLRX5, FAHD1, OGDH, SELENOO, UQCRFS1, COX5B, MIPEP, PPM1K
+ATP binding: 8 proteins: TTLL4, NME4, SELENOO, DARS2, MMAB, ALDH18A1, SARS2, AGK
+nucleoplasm: 7 proteins: OAT, MRPS18B, FAHD1, DARS2, NDUFAB1, S100A4, COX4I1
+cytoplasm: 6 proteins: XPNPEP3, OAT, C1QBP, FBXW5, DBT, RNF151
+nucleus: 6 proteins: CYCS, C1QBP, GLRX5, OGDH, S100A4, RNF151
+mitochondrial intermembrane space: 6 proteins: CYCS, NME4, TIMM9, UQCC2, TIMM10, AGK
+RNA binding: 6 proteins: NOA1, ACAA2, FASTKD2, S100A4, ALDH18A1, SARS2
+protein homodimerization activity: 5 proteins: XPNPEP3, GRPEL2, TIMM9, DARS2, TIMM10
+protein-folding chaperone binding: 4 proteins: GRPEL2, TIMM9, OGDH, TIMM10
+extracellular space: 3 proteins: LRRC15, C1QBP, S100A4
+mitochondrial electron transport, cytochrome c to oxygen: 3 proteins: CYCS, COX5B, COX4I1
+cellular respiration: 3 proteins: CYCS, COX5B, COX4I1
+identical protein binding: 3 proteins: OAT, S100A4, ALDH18A1
+apoptotic process: 3 proteins: C1QBP, NOA1, FASTKD2
+positive regulation of mitochondrial translation: 3 proteins: C1QBP, UQCC2, FASTKD2
+zinc ion binding: 3 proteins: TIMM9, TIMM10, RNF151
+protein insertion into mitochondrial inner membrane: 3 proteins: TIMM9, TIMM10, AGK
+TIM22 mitochondrial import inner membrane insertion complex: 3 proteins: TIMM9, TIMM10, AGK
+mitochondrial respiratory chain complex III assembly: 3 proteins: UQCC2, TTC19, UQCRFS1
+mitochondrial nucleoid: 3 proteins: UQCC2, FASTKD2, DBT
+mitochondrial translation: 3 proteins: MRPS18B, FASTKD2, MRPS25
+mitochondrial membrane: 3 proteins: OGDH, NDUFAB1, AGK
+proton transmembrane transport: 3 proteins: UQCRFS1, COX5B, COX4I1
+mitochondrial respiratory chain complex IV: 3 proteins: UQCRFS1, COX5B, COX4I1
+mitochondrial respiratory chain complex I assembly: 2 proteins: LYRM2, NDUFAB1
+centrosome: 2 proteins: SCLT1, TTC19
+plasma membrane: 2 proteins: LRRC15, C1QBP
+collagen-containing extracellular matrix: 2 proteins: LRRC15, S100A4
+extracellular exosome: 2 proteins: LRRC15, S100A4
+mitochondrial electron transport, ubiquinol to cytochrome c: 2 proteins: CYCS, UQCRFS1
+respirasome: 2 proteins: CYCS, TTC19
+TIM23 mitochondrial import inner membrane translocase complex: 2 proteins: GRPEL2, TIMM10
+pyridoxal phosphate binding: 2 proteins: OAT, MOCOS
+L-proline biosynthetic process: 2 proteins: OAT, ALDH18A1
+membrane: 2 proteins: C1QBP, COX4I1
+protein lipoylation: 2 proteins: LIAS, NDUFAB1
+phosphorylation: 2 proteins: NME4, ALDH18A1
+membrane insertase activity: 2 proteins: TIMM9, TIMM10
+protein targeting to mitochondrion: 2 proteins: TIMM9, TIMM10
+sensory perception of sound: 2 proteins: TIMM9, TIMM10
+mitochondrial intermembrane space protein transporter complex: 2 proteins: TIMM9, TIMM10
+2 iron, 2 sulfur cluster binding: 2 proteins: GLRX5, UQCRFS1
+iron-sulfur cluster assembly: 2 proteins: GLRX5, NDUFAB1
+[2Fe-2S] cluster assembly: 2 proteins: GLRX5, NDUFAB1
+iron-sulfur cluster assembly complex: 2 proteins: GLRX5, NDUFAB1
+protein ubiquitination: 2 proteins: FBXW5, RNF151
+structural constituent of ribosome: 2 proteins: MRPS18B, MRPS25
+mitochondrial small ribosomal subunit: 2 proteins: MRPS18B, MRPS25
+oxoglutarate dehydrogenase (succinyl-transferring) activity: 2 proteins: OGDH, MRPS36
+generation of precursor metabolites and energy: 2 proteins: OGDH, COX4I1
+tricarboxylic acid cycle: 2 proteins: OGDH, MRPS36
+2-oxoglutarate metabolic process: 2 proteins: OGDH, MRPS36
+tRNA binding: 2 proteins: DARS2, SARS2
+cytochrome-c oxidase activity: 2 proteins: COX5B, COX4I1
+calcium ion binding: 2 proteins: NDUFAB1, S100A4

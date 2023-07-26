@@ -1,0 +1,38 @@
+Write a critical and concise analysis of this system, describing your reasoning as you go and providing references to scientific papers.         
+Format with Title, Summary, and References sections.        
+Avoid overly general statements of how the proteins are involved in various cellular processes
+        
+Avoid recapitulating the goals of the analysis. 
+What cellular components and complexes are involved in this system?
+What mechanisms and biological processes are performed by this system?
+Propose a name for the system to reflect the function and location, and should be specific but brief. Do not compose an acronym. Place it as the title of your report
+Provide complete paper references with pubmed link
+Proteins: LRPPRC, PDCD2L, DHX36, POLRMT, MRM1, PITRM1, MTPAP, MTERF4, TFAM, NRDE2, ZKSCAN1, ZCCHC24, GPX1, DHRS2.
+
+A critical goal of the analysis is to determine if this is a novel complex or if any proteins are novel members of a known complex
+System features from GO terms: 
+protein binding: 11 proteins: DHX36, MRM1, MTPAP, POLRMT, TFAM, ZKSCAN1, NRDE2, PDCD2L, DHRS2, LRPPRC, MTERF4
+mitochondrion: 10 proteins: GPX1, DHX36, MRM1, MTPAP, POLRMT, TFAM, DHRS2, PITRM1, LRPPRC, MTERF4
+nucleus: 7 proteins: GPX1, DHX36, TFAM, ZKSCAN1, NRDE2, DHRS2, LRPPRC
+mitochondrial matrix: 7 proteins: GPX1, MRM1, POLRMT, TFAM, DHRS2, PITRM1, MTERF4
+RNA binding: 7 proteins: DHX36, MRM1, MTPAP, POLRMT, TFAM, ZCCHC24, LRPPRC
+nucleoplasm: 5 proteins: DHX36, MTPAP, NRDE2, DHRS2, LRPPRC
+cytoplasm: 4 proteins: GPX1, DHX36, PDCD2L, DHRS2
+cytosol: 4 proteins: GPX1, DHX36, TFAM, MTERF4
+mitochondrial transcription: 3 proteins: POLRMT, TFAM, MTERF4
+mitochondrial nucleoid: 3 proteins: POLRMT, TFAM, LRPPRC
+cellular response to oxidative stress: 2 proteins: GPX1, DHRS2
+magnesium ion binding: 2 proteins: DHX36, MTPAP
+transcription cis-regulatory region binding: 2 proteins: DHX36, TFAM
+RNA polymerase II cis-regulatory region sequence-specific DNA binding: 2 proteins: DHX36, ZKSCAN1
+single-stranded DNA binding: 2 proteins: DHX36, LRPPRC
+mRNA 3'-UTR binding: 2 proteins: DHX36, LRPPRC
+ATP binding: 2 proteins: DHX36, MTPAP
+nuclear speck: 2 proteins: DHX36, NRDE2
+mitochondrial promoter sequence-specific DNA binding: 2 proteins: POLRMT, TFAM
+sequence-specific DNA binding: 2 proteins: POLRMT, TFAM
+transcription initiation at mitochondrial promoter: 2 proteins: POLRMT, TFAM
+protein-containing complex: 2 proteins: POLRMT, TFAM
+zinc ion binding: 2 proteins: ZCCHC24, PITRM1
+membrane: 2 proteins: PDCD2L, LRPPRC
+protein targeting to mitochondrion: 2 proteins: PITRM1, MTERF4

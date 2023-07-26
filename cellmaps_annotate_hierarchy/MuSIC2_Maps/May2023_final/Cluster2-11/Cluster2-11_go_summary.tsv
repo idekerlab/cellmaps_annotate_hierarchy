@@ -1,0 +1,299 @@
+Feature	Number of Genes	Genes
+mitochondrion	56	MRPL52, MRPL37, GADD45GIP1, MRPL19, COQ3, MRPL58, MRPL48, MRPL10, MTIF2, MRPL42, MRPL57, MRPL47, GTPBP3, MRPL40, PMPCB, MRPL44, MRPL22, MRPL14, MTHFD2, NGRN, MRPL50, MRPS25, MRPL39, HSPD1, MRPL53, MRPL41, MTERF3, BCAT2, NOA1, MRPL15, MRPL12, MRPL23, YARS2, FASTKD2, RHOT2, NDUFAB1, PMPCA, MRPL9, MRPL51, TMLHE, MRPL46, MRPL28, MALSU1, DAP3, MRPS10, MRPS11, MRPS14, MRPS15, MRPS2, MRPS22, MRPS23, MRPS26, MRPS27, MRPS34, MRPS5, MRPS9
+mitochondrial inner membrane	46	MRPL52, MRPL37, GADD45GIP1, MRPL19, COQ3, MRPL58, MRPL48, MRPL10, MRPL42, MRPL57, MRPL47, MRPL40, PMPCB, MRPL44, MRPL22, MRPL14, MRPL50, MRPS25, MRPL39, HSPD1, MRPL53, MRPL41, MRPL15, MRPL12, MRPL23, NDUFAB1, PMPCA, MRPL9, MRPL51, MRPL46, MRPL28, DAP3, MRPS10, MRPS11, MRPS14, MRPS15, MRPS2, MRPS21, MRPS22, MRPS23, MRPS26, MRPS27, MRPS34, MRPS5, MRPS7, MRPS9
+mitochondrial translation	42	MRPL52, MRPL37, GADD45GIP1, MRPL19, MRPL58, MRPL48, MRPL10, MRPL42, MRPL57, MRPL47, MRPL40, MRPL44, MRPL22, MRPL14, MRPL50, MRPS25, MRPL39, MRPL53, MRPL41, MRPL15, MRPL12, MRPL23, FASTKD2, MRPL9, MRPL51, MRPL46, MRPL28, DAP3, MRPS10, MRPS11, MRPS14, MRPS15, MRPS2, MRPS21, MRPS22, MRPS23, MRPS26, MRPS27, MRPS34, MRPS5, MRPS7, MRPS9
+protein binding	39	GADD45GIP1, MRPL19, COQ3, MRPL48, MRPL10, MRPL57, GTPBP3, MRPL40, MRPL44, FBXW5, MTHFD2, NGRN, MOCOS, HSPD1, MRPL53, MRPL41, MTERF3, NOA1, MRPL15, MRPL12, MMAB, MRPL23, YARS2, FASTKD2, RHOT2, NDUFAB1, PMPCA, MRPL9, MAPK11, MRPL51, MRPL28, MALSU1, DAP3, LRP2, MRPS11, MRPS14, MRPS23, MRPS27, MRPS9
+structural constituent of ribosome	31	MRPL52, MRPL37, MRPL19, MRPL10, MRPL42, MRPL57, MRPL47, MRPL44, MRPL22, MRPL14, MRPS25, MRPL41, MRPL15, MRPL12, MRPL23, MRPL9, MRPL51, MRPL46, MRPL28, DAP3, MRPS11, MRPS14, MRPS15, MRPS2, MRPS21, MRPS22, MRPS23, MRPS34, MRPS5, MRPS7, MRPS9
+RNA binding	31	MRPL37, MRPL10, MTIF2, MRPL42, MRPL40, MRPL44, MRPL22, MRPL14, NGRN, MRPL39, HSPD1, MRPL41, NOA1, MRPL15, MRPL12, MRPL23, YARS2, FASTKD2, MRPL9, FAM120A, MRPL28, DAP3, MRPS11, MRPS14, MRPS15, MRPS21, MRPS23, MRPS26, MRPS5, MRPS7, MRPS9
+mitochondrial large ribosomal subunit	25	MRPL52, MRPL37, GADD45GIP1, MRPL19, MRPL58, MRPL48, MRPL10, MRPL42, MRPL57, MRPL47, MRPL40, MRPL44, MRPL22, MRPL14, MRPL50, MRPL39, MRPL53, MRPL41, MRPL15, MRPL12, MRPL23, MRPL9, MRPL51, MRPL46, MRPL28
+translation	17	MRPL52, MRPL37, MRPL10, MRPL42, MRPL41, MRPL12, MRPL23, YARS2, MRPL9, MRPL51, MRPL28, MRPS11, MRPS14, MRPS15, MRPS21, MRPS5, MRPS7
+mitochondrial small ribosomal subunit	17	MRPL42, MRPS25, DAP3, MRPS10, MRPS11, MRPS14, MRPS15, MRPS2, MRPS21, MRPS22, MRPS23, MRPS26, MRPS27, MRPS34, MRPS5, MRPS7, MRPS9
+nucleoplasm	14	MRPL52, GADD45GIP1, MRPL58, MRPL10, MTIF2, MRPL44, NGRN, BCAT2, NDUFAB1, MAPK11, MRPL46, DAP3, MRPS15, MRPS26
+mitochondrial matrix	12	GADD45GIP1, COQ3, MRPL58, MTHFD2, HSPD1, BCAT2, MMAB, YARS2, FASTKD2, NDUFAB1, TMLHE, MALSU1
+mitochondrial ribosome	10	MRPL37, MRPL48, MRPL57, MRPL40, MRPL39, MRPL9, MRPL51, MRPL28, MRPS14, MRPS22
+cytosol	10	FBXW5, MRPL50, MOCOS, HSPD1, MTERF3, YARS2, FAM120A, MAPK11, MRPL28, MALSU1
+plasma membrane	6	MRPL58, MRPL42, MRPL44, HSPD1, FAM120A, LRP2
+cytoplasm	6	MTIF2, GTPBP3, FBXW5, HSPD1, MAPK11, MRPS27
+nucleus	5	MRPL19, MRPL40, NGRN, FAM120A, MAPK11
+GTP binding	5	MTIF2, GTPBP3, NOA1, RHOT2, DAP3
+biological_process	4	MRPL47, MRPL46, MRPS10, MRPS22
+nucleolus	4	MRPL40, MRPS15, MRPS27, MRPS9
+rRNA binding	4	NGRN, FASTKD2, MRPS27, MRPS7
+mitochondrial ribosome assembly	4	NGRN, MTERF3, NOA1, MRPS2
+ATP binding	4	HSPD1, MMAB, YARS2, MAPK11
+GTPase activity	3	MTIF2, GTPBP3, RHOT2
+molecular_function	3	MRPL47, MRPL46, MRPS10
+nuclear body	3	MRPL44, NGRN, YARS2
+extracellular space	3	MTHFD2, HSPD1, PMPCA
+ mitochondrial translation	3	NGRN, FASTKD2, MRPS27
+membrane	3	HSPD1, RHOT2, FAM120A
+apoptotic process	3	MRPL41, NOA1, FASTKD2
+calcium ion binding	3	RHOT2, NDUFAB1, LRP2
+cell cycle	2	GADD45GIP1, MRPL41
+extrinsic component of mitochondrial inner membrane	2	COQ3, NOA1
+ribonucleoprotein complex	2	MRPL10, MRPL41
+metalloendopeptidase activity	2	PMPCB, PMPCA
+metal ion binding	2	PMPCB, PMPCA
+protein processing involved in protein targeting to mitochondrion	2	PMPCB, PMPCA
+mitochondrial processing peptidase complex	2	PMPCB, PMPCA
+double-stranded RNA binding	2	MRPL44, HSPD1
+mitochondrial membrane	2	NGRN, NDUFAB1
+protein-containing complex	2	PSMG4, HSPD1
+protein-folding chaperone binding	2	HSPD1, LRP2
+ interleukin-12 production	2	HSPD1, MAPK11
+negative regulation of apoptotic process	2	HSPD1, LRP2
+clathrin-coated pit	2	HSPD1, LRP2
+extracellular exosome	2	HSPD1, LRP2
+mitochondrial transcription	2	MTERF3, MRPL12
+mitochondrial outer membrane	2	MTERF3, RHOT2
+lipid metabolic process	2	BCAT2, LRP2
+cellular response to leukemia inhibitory factor	2	BCAT2, MRPL15
+mitochondrion organization	2	NOA1, RHOT2
+mRNA binding	2	MRPL12, MRPS7
+tRNA binding	2	YARS2, MRPS27
+mitochondrial large ribosomal subunit binding	2	NDUFAB1, MALSU1
+cell population proliferation	2	LRP2, MRPS27
+ribosomal small subunit assembly	2	MRPS11, MRPS7
+nuclear membrane	2	MRPS14, MRPS23
+hexaprenyldihydroxybenzoate methyltransferase activity	1	COQ3
+O-methyltransferase activity	1	COQ3
+2-polyprenyl-6-methoxy-1,4-benzoquinone methyltransferase activity	1	COQ3
+3-demethylubiquinone-9 3-O-methyltransferase activity	1	COQ3
+decaprenyldihydroxybenzoate methyltransferase activity	1	COQ3
+3-demethylubiquinol-10 3-O-methyltransferase activity	1	COQ3
+glycerol metabolic process	1	COQ3
+ubiquinone biosynthetic process	1	COQ3
+ ubiquinone biosynthetic process	1	COQ3
+methylation	1	COQ3
+ubiquinone biosynthesis complex	1	COQ3
+aminoacyl-tRNA hydrolase activity	1	MRPL58
+translation release factor activity, codon nonspecific	1	MRPL58
+mitochondrial translational termination	1	MRPL58
+translation initiation factor activity	1	MTIF2
+translation factor activity, RNA binding	1	MTIF2
+ribosomal small subunit binding	1	MTIF2
+ translational initiation	1	MTIF2
+ribosome disassembly	1	MTIF2
+mitochondrial translational initiation	1	MTIF2
+tRNA wobble uridine modification	1	GTPBP3
+tRNA methylation	1	GTPBP3
+anatomical structure morphogenesis	1	MRPL40
+mitochondrial calcium ion transmembrane transport	1	PMPCB
+ribonuclease III activity	1	MRPL44
+rRNA processing	1	MRPL44
+mitochondrial translational elongation	1	MRPL44
+ribosome assembly	1	MRPL22
+protein kinase binding	1	FBXW5
+ mitotic nuclear division	1	FBXW5
+ centrosome duplication	1	FBXW5
+protein ubiquitination	1	FBXW5
+SCF-dependent proteasomal ubiquitin-dependent protein catabolic process	1	FBXW5
+proteasome-mediated ubiquitin-dependent protein catabolic process	1	FBXW5
+SCF ubiquitin ligase complex	1	FBXW5
+Cul4-RING E3 ubiquitin ligase complex	1	FBXW5
+magnesium ion binding	1	MTHFD2
+methenyltetrahydrofolate cyclohydrolase activity	1	MTHFD2
+methylenetetrahydrofolate dehydrogenase (NAD+) activity	1	MTHFD2
+methylenetetrahydrofolate dehydrogenase (NADP+) activity	1	MTHFD2
+phosphate ion binding	1	MTHFD2
+tetrahydrofolate interconversion	1	MTHFD2
+tetrahydrofolate metabolic process	1	MTHFD2
+folic acid metabolic process	1	MTHFD2
+neuron differentiation	1	NGRN
+extracellular region	1	NGRN
+intercellular bridge	1	NGRN
+mitotic spindle	1	NGRN
+Mo-molybdopterin cofactor sulfurase activity	1	MOCOS
+lyase activity	1	MOCOS
+molybdenum ion binding	1	MOCOS
+pyridoxal phosphate binding	1	MOCOS
+molybdenum cofactor sulfurtransferase activity	1	MOCOS
+Mo-molybdopterin cofactor biosynthetic process	1	MOCOS
+molybdopterin cofactor biosynthetic process	1	MOCOS
+molybdopterin cofactor metabolic process	1	MOCOS
+cellular_component	1	MOCOS
+nucleotide binding	1	MRPL39
+protein-containing complex binding	1	PSMG4
+proteasome assembly	1	PSMG4
+lipopolysaccharide binding	1	HSPD1
+p53 binding	1	HSPD1
+DNA replication origin binding	1	HSPD1
+single-stranded DNA binding	1	HSPD1
+high-density lipoprotein particle binding	1	HSPD1
+isomerase activity	1	HSPD1
+ATP hydrolysis activity	1	HSPD1
+enzyme binding	1	HSPD1
+ubiquitin protein ligase binding	1	HSPD1
+apolipoprotein binding	1	HSPD1
+apolipoprotein A-I binding	1	HSPD1
+unfolded protein binding	1	HSPD1
+ATP-dependent protein folding chaperone	1	HSPD1
+MyD88-dependent toll-like receptor signaling pathway	1	HSPD1
+ T cell mediated immune response to tumor cell	1	HSPD1
+protein folding	1	HSPD1
+'de novo' protein folding	1	HSPD1
+activation of cysteine-type endopeptidase activity involved in apoptotic process	1	HSPD1
+response to unfolded protein	1	HSPD1
+apoptotic mitochondrial changes	1	HSPD1
+response to cold	1	HSPD1
+ interferon-alpha production	1	HSPD1
+ type II interferon production	1	HSPD1
+ interleukin-10 production	1	HSPD1
+ interleukin-6 production	1	HSPD1
+mitochondrial unfolded protein response	1	HSPD1
+protein refolding	1	HSPD1
+B cell proliferation	1	HSPD1
+T cell activation	1	HSPD1
+B cell activation	1	HSPD1
+ macrophage activation	1	HSPD1
+ apoptotic process	1	HSPD1
+adhesion of symbiont to host	1	HSPD1
+protein import into mitochondrial intermembrane space	1	HSPD1
+isotype switching to IgG isotypes	1	HSPD1
+protein stabilization	1	HSPD1
+ T cell activation	1	HSPD1
+chaperone-mediated protein complex assembly	1	HSPD1
+protein maturation	1	HSPD1
+biological process involved in interaction with symbiont	1	HSPD1
+cellular response to interleukin-7	1	HSPD1
+early endosome	1	HSPD1
+cell surface	1	HSPD1
+coated vesicle	1	HSPD1
+secretory granule	1	HSPD1
+lipopolysaccharide receptor complex	1	HSPD1
+sperm midpiece	1	HSPD1
+sperm plasma membrane	1	HSPD1
+migrasome	1	HSPD1
+transcription cis-regulatory region binding	1	MTERF3
+negative regulation of DNA-templated transcription	1	MTERF3
+branched-chain-amino-acid transaminase activity	1	BCAT2
+L-leucine:2-oxoglutarate aminotransferase activity	1	BCAT2
+L-leucine transaminase activity	1	BCAT2
+L-valine transaminase activity	1	BCAT2
+L-isoleucine transaminase activity	1	BCAT2
+isoleucine catabolic process	1	BCAT2
+branched-chain amino acid biosynthetic process	1	BCAT2
+leucine biosynthetic process	1	BCAT2
+valine biosynthetic process	1	BCAT2
+ hormone levels	1	BCAT2
+ cell death	1	NOA1
+ cellular respiration	1	NOA1
+ DNA-templated transcription	1	MRPL12
+corrinoid adenosyltransferase activity	1	MMAB
+transferase activity, transferring alkyl or aryl (other than methyl) groups	1	MMAB
+cobalamin binding	1	MMAB
+cobalamin metabolic process	1	MMAB
+fibrillar center	1	MRPL23
+tyrosine-tRNA ligase activity	1	YARS2
+protein homodimerization activity	1	YARS2
+tyrosine binding	1	YARS2
+tRNA aminoacylation	1	YARS2
+mitochondrial tyrosyl-tRNA aminoacylation	1	YARS2
+mitochondrial RNA processing	1	FASTKD2
+RNA processing	1	FASTKD2
+ mitochondrial mRNA stability	1	FASTKD2
+mitochondrial large ribosomal subunit assembly	1	FASTKD2
+ribonucleoprotein granule	1	FASTKD2
+mitochondrial nucleoid	1	FASTKD2
+small GTPase mediated signal transduction	1	RHOT2
+cellular homeostasis	1	RHOT2
+mitochondrion transport along microtubule	1	RHOT2
+mitochondrial outer membrane permeabilization	1	RHOT2
+acyl binding	1	NDUFAB1
+acyl carrier activity	1	NDUFAB1
+fatty acid binding	1	NDUFAB1
+mitochondrial electron transport, NADH to ubiquinone	1	NDUFAB1
+fatty acid biosynthetic process	1	NDUFAB1
+aerobic respiration	1	NDUFAB1
+protein lipoylation	1	NDUFAB1
+iron-sulfur cluster assembly	1	NDUFAB1
+mitochondrial respiratory chain complex I assembly	1	NDUFAB1
+proton motive force-driven mitochondrial ATP synthesis	1	NDUFAB1
+[2Fe-2S] cluster assembly	1	NDUFAB1
+mitochondrial respiratory chain complex I	1	NDUFAB1
+iron-sulfur cluster assembly complex	1	NDUFAB1
+protein serine/threonine kinase activity	1	MAPK11
+MAP kinase activity	1	MAPK11
+protein serine kinase activity	1	MAPK11
+osteoblast differentiation	1	MAPK11
+protein phosphorylation	1	MAPK11
+ gene expression	1	MAPK11
+stress-activated protein kinase signaling cascade	1	MAPK11
+intracellular signal transduction	1	MAPK11
+p38MAPK cascade	1	MAPK11
+ erythrocyte differentiation	1	MAPK11
+ muscle cell differentiation	1	MAPK11
+stress-activated MAPK cascade	1	MAPK11
+cardiac muscle cell proliferation	1	MAPK11
+negative regulation of cardiac muscle cell proliferation	1	MAPK11
+bone development	1	MAPK11
+cellular response to interleukin-1	1	MAPK11
+cellular response to UV-B	1	MAPK11
+cellular senescence	1	MAPK11
+cellular response to virus	1	MAPK11
+iron ion binding	1	TMLHE
+trimethyllysine dioxygenase activity	1	TMLHE
+carnitine biosynthetic process	1	TMLHE
+cell junction	1	MRPL46
+ribosomal large subunit binding	1	MALSU1
+negative regulation of translation	1	MALSU1
+ribosomal large subunit biogenesis	1	MALSU1
+negative regulation of mitochondrial translation	1	MALSU1
+negative regulation of ribosome biogenesis	1	MALSU1
+apoptotic signaling pathway	1	DAP3
+low-density lipoprotein particle receptor activity	1	LRP2
+SH3 domain binding	1	LRP2
+insulin-like growth factor I binding	1	LRP2
+cargo receptor activity	1	LRP2
+hormone binding	1	LRP2
+protein transporter activity	1	LRP2
+retinoid metabolic process	1	LRP2
+kidney development	1	LRP2
+neural tube closure	1	LRP2
+secondary heart field specification	1	LRP2
+outflow tract septum morphogenesis	1	LRP2
+ventricular compact myocardium morphogenesis	1	LRP2
+ventricular septum development	1	LRP2
+endocytosis	1	LRP2
+receptor-mediated endocytosis	1	LRP2
+sensory perception of sound	1	LRP2
+male gonad development	1	LRP2
+protein transport	1	LRP2
+cobalamin transport	1	LRP2
+metal ion transport	1	LRP2
+negative regulation of BMP signaling pathway	1	LRP2
+forebrain development	1	LRP2
+diol metabolic process	1	LRP2
+aorta development	1	LRP2
+vitamin D metabolic process	1	LRP2
+response to leptin	1	LRP2
+transcytosis	1	LRP2
+ neurogenesis	1	LRP2
+ protein kinase B signaling	1	LRP2
+vagina development	1	LRP2
+coronary artery morphogenesis	1	LRP2
+pulmonary artery morphogenesis	1	LRP2
+ oligodendrocyte progenitor proliferation	1	LRP2
+cellular response to growth factor stimulus	1	LRP2
+amyloid-beta clearance	1	LRP2
+neuron projection arborization	1	LRP2
+transport across blood-brain barrier	1	LRP2
+folate import across plasma membrane	1	LRP2
+ lysosomal protein catabolic process	1	LRP2
+lysosome	1	LRP2
+lysosomal membrane	1	LRP2
+endoplasmic reticulum	1	LRP2
+Golgi apparatus	1	LRP2
+external side of plasma membrane	1	LRP2
+apical plasma membrane	1	LRP2
+axon	1	LRP2
+dendrite	1	LRP2
+clathrin-coated endocytic vesicle membrane	1	LRP2
+brush border membrane	1	LRP2
+endosome lumen	1	LRP2
+receptor complex	1	LRP2
+mRNA 5'-UTR binding	1	MRPS11
+small ribosomal subunit rRNA binding	1	MRPS11
+maturation of SSU-rRNA from tricistronic rRNA transcript (SSU-rRNA, 5.8S rRNA, LSU-rRNA)	1	MRPS11
+mitochondrial ribosome binding	1	MRPS27
+ribosome	1	MRPS7

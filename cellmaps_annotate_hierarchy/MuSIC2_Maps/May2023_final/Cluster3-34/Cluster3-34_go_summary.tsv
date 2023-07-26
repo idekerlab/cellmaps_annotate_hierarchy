@@ -1,0 +1,88 @@
+Feature	Number of Genes	Genes
+mitochondrial translation	15	DAP3, MRPS10, MRPS11, MRPS14, MRPS15, MRPS2, MRPS21, MRPS22, MRPS23, MRPS26, MRPS27, MRPS34, MRPS5, MRPS7, MRPS9
+mitochondrial inner membrane	15	DAP3, MRPS10, MRPS11, MRPS14, MRPS15, MRPS2, MRPS21, MRPS22, MRPS23, MRPS26, MRPS27, MRPS34, MRPS5, MRPS7, MRPS9
+mitochondrial small ribosomal subunit	15	DAP3, MRPS10, MRPS11, MRPS14, MRPS15, MRPS2, MRPS21, MRPS22, MRPS23, MRPS26, MRPS27, MRPS34, MRPS5, MRPS7, MRPS9
+mitochondrion	13	DAP3, MRPS10, MRPS11, MRPS14, MRPS15, MRPS2, MRPS22, MRPS23, MRPS26, MRPS27, MRPS34, MRPS5, MRPS9
+structural constituent of ribosome	12	DAP3, MRPS11, MRPS14, MRPS15, MRPS2, MRPS21, MRPS22, MRPS23, MRPS34, MRPS5, MRPS7, MRPS9
+RNA binding	10	DAP3, MRPS11, MRPS14, MRPS15, MRPS21, MRPS23, MRPS26, MRPS5, MRPS7, MRPS9
+protein binding	7	DAP3, LRP2, MRPS11, MRPS14, MRPS23, MRPS27, MRPS9
+translation	6	MRPS11, MRPS14, MRPS15, MRPS21, MRPS5, MRPS7
+nucleoplasm	3	DAP3, MRPS15, MRPS26
+nucleolus	3	MRPS15, MRPS27, MRPS9
+cell population proliferation	2	LRP2, MRPS27
+biological_process	2	MRPS10, MRPS22
+ribosomal small subunit assembly	2	MRPS11, MRPS7
+mitochondrial ribosome	2	MRPS14, MRPS22
+nuclear membrane	2	MRPS14, MRPS23
+rRNA binding	2	MRPS27, MRPS7
+GTP binding	1	DAP3
+apoptotic signaling pathway	1	DAP3
+low-density lipoprotein particle receptor activity	1	LRP2
+calcium ion binding	1	LRP2
+SH3 domain binding	1	LRP2
+insulin-like growth factor I binding	1	LRP2
+cargo receptor activity	1	LRP2
+hormone binding	1	LRP2
+protein-folding chaperone binding	1	LRP2
+protein transporter activity	1	LRP2
+retinoid metabolic process	1	LRP2
+kidney development	1	LRP2
+neural tube closure	1	LRP2
+secondary heart field specification	1	LRP2
+outflow tract septum morphogenesis	1	LRP2
+ventricular compact myocardium morphogenesis	1	LRP2
+ventricular septum development	1	LRP2
+lipid metabolic process	1	LRP2
+endocytosis	1	LRP2
+receptor-mediated endocytosis	1	LRP2
+sensory perception of sound	1	LRP2
+male gonad development	1	LRP2
+protein transport	1	LRP2
+cobalamin transport	1	LRP2
+metal ion transport	1	LRP2
+negative regulation of BMP signaling pathway	1	LRP2
+forebrain development	1	LRP2
+diol metabolic process	1	LRP2
+aorta development	1	LRP2
+vitamin D metabolic process	1	LRP2
+negative regulation of apoptotic process	1	LRP2
+response to leptin	1	LRP2
+transcytosis	1	LRP2
+ neurogenesis	1	LRP2
+ protein kinase B signaling	1	LRP2
+vagina development	1	LRP2
+coronary artery morphogenesis	1	LRP2
+pulmonary artery morphogenesis	1	LRP2
+ oligodendrocyte progenitor proliferation	1	LRP2
+cellular response to growth factor stimulus	1	LRP2
+amyloid-beta clearance	1	LRP2
+neuron projection arborization	1	LRP2
+transport across blood-brain barrier	1	LRP2
+folate import across plasma membrane	1	LRP2
+ lysosomal protein catabolic process	1	LRP2
+lysosome	1	LRP2
+lysosomal membrane	1	LRP2
+endoplasmic reticulum	1	LRP2
+Golgi apparatus	1	LRP2
+plasma membrane	1	LRP2
+clathrin-coated pit	1	LRP2
+external side of plasma membrane	1	LRP2
+apical plasma membrane	1	LRP2
+axon	1	LRP2
+dendrite	1	LRP2
+clathrin-coated endocytic vesicle membrane	1	LRP2
+brush border membrane	1	LRP2
+endosome lumen	1	LRP2
+receptor complex	1	LRP2
+extracellular exosome	1	LRP2
+molecular_function	1	MRPS10
+mRNA 5'-UTR binding	1	MRPS11
+small ribosomal subunit rRNA binding	1	MRPS11
+maturation of SSU-rRNA from tricistronic rRNA transcript (SSU-rRNA, 5.8S rRNA, LSU-rRNA)	1	MRPS11
+mitochondrial ribosome assembly	1	MRPS2
+tRNA binding	1	MRPS27
+mitochondrial ribosome binding	1	MRPS27
+ mitochondrial translation	1	MRPS27
+cytoplasm	1	MRPS27
+mRNA binding	1	MRPS7
+ribosome	1	MRPS7

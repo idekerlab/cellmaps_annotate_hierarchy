@@ -1,0 +1,76 @@
+Your response should be formatted as Markdown paragraphs
+Write a critical and concise analysis of this human protein system, describing your reasoning as you go and providing references to scientific papers.
+
+A critical goal of the analysis is to determine if this is a novel complex or if any proteins are novel members of a known complex
+
+Format with Title, Summary, and References sections.        
+Avoid overly general statements of how the proteins are involved in various cellular processes        
+Avoid repeating the goals of the analysis.
+
+What cellular components and complexes are involved in this system?
+What mechanisms and biological processes are performed by this system?
+Propose a name for the system to reflect the cellular location and function, and should be specific but brief. Do not compose an acronym. Place it as the title of your report
+Human Proteins: EIPR1, CLDND1, MIS18BP1, ABCF3, NTPCR, RPS19BP1, NMD3, DNAJC21, NOL11, PPP1R7, SMG6, STON2, TNFAIP1, ZNF397, ZFAND2B, FOXM1, VGLL3, P3H3, ETV6, NUDT19, DDX24, PFDN2, NUDT8, ZNF622, RNF151, DNMBP, SMAD2, TRIM68, PARP10, CTNNBIP1, TSPYL6, WDCP, GYG2, WASL, FKBP15, P2RX6, NCAPD2, NCOA4, ACOX1, KYAT3, LRCH1, MAPK13.
+
+System features from GO terms: 
+protein binding: 31 proteins: EIPR1, CLDND1, MIS18BP1, ABCF3, RPS19BP1, DNAJC21, NOL11, PPP1R7, SMG6, STON2, TNFAIP1, ZNF397, ZFAND2B, FOXM1, ETV6, DDX24, PFDN2, ZNF622, RNF151, DNMBP, SMAD2, TRIM68, PARP10, CTNNBIP1, TSPYL6, WASL, FKBP15, NCAPD2, ACOX1, LRCH1, MAPK13
+cytosol: 20 proteins: RPS19BP1, DNAJC21, SMG6, STON2, TNFAIP1, ZNF397, ETV6, NUDT19, PFDN2, ZNF622, DNMBP, SMAD2, TRIM68, PARP10, CTNNBIP1, GYG2, WASL, NCAPD2, ACOX1, MAPK13
+cytoplasm: 20 proteins: NMD3, DNAJC21, PPP1R7, SMG6, TNFAIP1, ZFAND2B, PFDN2, RNF151, DNMBP, SMAD2, TRIM68, PARP10, CTNNBIP1, GYG2, WASL, P2RX6, NCAPD2, KYAT3, LRCH1, MAPK13
+nucleus: 18 proteins: NMD3, PPP1R7, SMG6, TNFAIP1, FOXM1, VGLL3, ETV6, PFDN2, RNF151, SMAD2, TRIM68, PARP10, CTNNBIP1, TSPYL6, WASL, NCAPD2, NCOA4, MAPK13
+nucleolus: 12 proteins: RPS19BP1, NMD3, DNAJC21, NOL11, SMG6, STON2, ZNF397, ETV6, DDX24, ZNF622, TRIM68, PARP10
+nucleoplasm: 10 proteins: MIS18BP1, RPS19BP1, NMD3, NOL11, FOXM1, ZNF622, SMAD2, TRIM68, CTNNBIP1, NCAPD2
+RNA binding: 9 proteins: NTPCR, RPS19BP1, NMD3, DNAJC21, NOL11, SMG6, DDX24, ZNF622, KYAT3
+membrane: 8 proteins: ABCF3, NTPCR, NMD3, ZFAND2B, DDX24, FKBP15, NCAPD2, ACOX1
+ transcription by RNA polymerase II: 6 proteins: ZNF397, FOXM1, VGLL3, ETV6, SMAD2, WASL
+ATP binding: 5 proteins: ABCF3, NTPCR, DDX24, P2RX6, MAPK13
+zinc ion binding: 5 proteins: DNAJC21, ZFAND2B, ZNF622, RNF151, TRIM68
+metal ion binding: 4 proteins: SMG6, ZNF397, SMAD2, GYG2
+DNA-binding transcription factor activity, RNA polymerase II-specific: 4 proteins: ZNF397, FOXM1, ETV6, SMAD2
+plasma membrane: 4 proteins: ZNF397, ETV6, WASL, P2RX6
+chromatin: 4 proteins: FOXM1, ETV6, SMAD2, TSPYL6
+Golgi apparatus: 4 proteins: ZNF622, DNMBP, TRIM68, PARP10
+protein ubiquitination: 3 proteins: EIPR1, TNFAIP1, RNF151
+cell division: 3 proteins: MIS18BP1, WASL, NCAPD2
+ATP hydrolysis activity: 3 proteins: ABCF3, NTPCR, DDX24
+identical protein binding: 3 proteins: TNFAIP1, SMAD2, TRIM68
+RNA polymerase II cis-regulatory region sequence-specific DNA binding: 3 proteins: ZNF397, ETV6, SMAD2
+DNA-binding transcription factor activity: 3 proteins: FOXM1, ETV6, SMAD2
+negative regulation of DNA-templated transcription: 3 proteins: FOXM1, SMAD2, PARP10
+ DNA-templated transcription: 3 proteins: FOXM1, SMAD2, NCOA4
+cell differentiation: 3 proteins: ETV6, RNF151, SMAD2
+mitochondrion: 3 proteins: PFDN2, NUDT8, KYAT3
+intracellular signal transduction: 3 proteins: DNMBP, SMAD2, MAPK13
+protein homodimerization activity: 3 proteins: TRIM68, ACOX1, KYAT3
+DNA binding: 2 proteins: MIS18BP1, SMAD2
+cell cycle: 2 proteins: MIS18BP1, MAPK13
+protein folding: 2 proteins: DNAJC21, PFDN2
+extracellular exosome: 2 proteins: PPP1R7, WASL
+ubiquitin-protein transferase activity: 2 proteins: TNFAIP1, TRIM68
+proteasome-mediated ubiquitin-dependent protein catabolic process: 2 proteins: TNFAIP1, ZFAND2B
+endoplasmic reticulum: 2 proteins: ZFAND2B, P3H3
+endoplasmic reticulum membrane: 2 proteins: ZFAND2B, WASL
+RNA polymerase II transcription regulatory region sequence-specific DNA binding: 2 proteins: FOXM1, ETV6
+protein kinase binding: 2 proteins: FOXM1, TRIM68
+negative regulation of transcription by RNA polymerase II: 2 proteins: FOXM1, ETV6
+negative regulation of cell population proliferation: 2 proteins: P3H3, SMAD2
+DNA-binding transcription activator activity, RNA polymerase II-specific: 2 proteins: ETV6, SMAD2
+magnesium ion binding: 2 proteins: NUDT19, NUDT8
+CoA pyrophosphatase activity: 2 proteins: NUDT19, NUDT8
+acyl-coenzyme A diphosphatase activity: 2 proteins: NUDT19, NUDT8
+fatty acid catabolic process: 2 proteins: NUDT19, ACOX1
+coenzyme A catabolic process: 2 proteins: NUDT19, NUDT8
+medium-chain fatty-acyl-CoA catabolic process: 2 proteins: NUDT19, NUDT8
+butyryl-CoA catabolic process: 2 proteins: NUDT19, NUDT8
+succinyl-CoA catabolic process: 2 proteins: NUDT19, NUDT8
+malonyl-CoA catabolic process: 2 proteins: NUDT19, NUDT8
+peroxisomal matrix: 2 proteins: NUDT19, ACOX1
+ubiquitin protein ligase activity: 2 proteins: RNF151, TRIM68
+spermatogenesis: 2 proteins: RNF151, ACOX1
+chromatin binding: 2 proteins: SMAD2, TSPYL6
+DNA-binding transcription factor binding: 2 proteins: SMAD2, PARP10
+anterior/posterior pattern specification: 2 proteins: SMAD2, CTNNBIP1
+ protein localization: 2 proteins: TRIM68, WASL
+histone binding: 2 proteins: TSPYL6, NCAPD2
+actin binding: 2 proteins: WASL, FKBP15
+actin cytoskeleton: 2 proteins: WASL, FKBP15
+glutamatergic synapse: 2 proteins: WASL, P2RX6

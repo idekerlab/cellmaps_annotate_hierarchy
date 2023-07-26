@@ -1,0 +1,62 @@
+Your response should be formatted as Markdown paragraphs
+Write a critical and concise analysis of this human protein system, describing your reasoning as you go and providing references to scientific papers.
+
+A critical goal of the analysis is to determine if this is a novel complex or if any proteins are novel members of a known complex
+
+Format with Title, Summary, and References sections.        
+Avoid overly general statements of how the proteins are involved in various cellular processes        
+Avoid repeating the goals of the analysis.
+
+What cellular components and complexes are involved in this system?
+What mechanisms and biological processes are performed by this system?
+Propose a name for the system to reflect the cellular location and function, and should be specific but brief. Do not compose an acronym. Place it as the title of your report
+Human Proteins: TOP3B, TDRD3, MYRF, NOTCH1, PIK3CB, UBASH3B, PCDH10, B4GALT5, SPANXB1, PTPRA, OPA3, PCDH18, PCDHB5, PCDHB14, CDH24, MYEOV, BOLA2, FAT4, LRRC42, CTNND2, GET4, DKKL1, HUS1B, GXYLT2, TMEM98, PCDHA12, SPECC1, PCDHA6, PCDHGA10, PCDHGA11, PCDHGA4, PCDHGA5, PCDHGA6, PCDHGB2, PCDHGB4, PCDHGB5, PCDHGB7, PCDHGC3, PCDHGC4.
+
+System features from GO terms: 
+plasma membrane: 24 proteins: NOTCH1, PIK3CB, PCDH10, PTPRA, PCDH18, PCDHB5, PCDHB14, CDH24, FAT4, CTNND2, TMEM98, PCDHA12, PCDHA6, PCDHGA10, PCDHGA11, PCDHGA4, PCDHGA5, PCDHGA6, PCDHGB2, PCDHGB4, PCDHGB5, PCDHGB7, PCDHGC3, PCDHGC4
+calcium ion binding: 20 proteins: NOTCH1, PCDH10, PCDH18, PCDHB5, PCDHB14, CDH24, FAT4, PCDHA12, PCDHA6, PCDHGA10, PCDHGA11, PCDHGA4, PCDHGA5, PCDHGA6, PCDHGB2, PCDHGB4, PCDHGB5, PCDHGB7, PCDHGC3, PCDHGC4
+homophilic cell adhesion via plasma membrane adhesion molecules: 20 proteins: PIK3CB, PCDH10, PCDH18, PCDHB5, PCDHB14, CDH24, FAT4, PCDHA12, PCDHA6, PCDHGA10, PCDHGA11, PCDHGA4, PCDHGA5, PCDHGA6, PCDHGB2, PCDHGB4, PCDHGB5, PCDHGB7, PCDHGC3, PCDHGC4
+cell adhesion: 18 proteins: PCDH10, PCDH18, PCDHB5, PCDHB14, CTNND2, PCDHA12, PCDHA6, PCDHGA10, PCDHGA11, PCDHGA4, PCDHGA5, PCDHGA6, PCDHGB2, PCDHGB4, PCDHGB5, PCDHGB7, PCDHGC3, PCDHGC4
+protein binding: 16 proteins: TOP3B, TDRD3, NOTCH1, PIK3CB, UBASH3B, SPANXB1, PTPRA, PCDH18, PCDHB14, MYEOV, BOLA2, FAT4, CTNND2, GET4, TMEM98, PCDHGA4
+nervous system development: 14 proteins: PCDH10, PCDHA12, PCDHA6, PCDHGA10, PCDHGA11, PCDHGA4, PCDHGA5, PCDHGA6, PCDHGB2, PCDHGB4, PCDHGB5, PCDHGB7, PCDHGC3, PCDHGC4
+nucleus: 9 proteins: TOP3B, TDRD3, MYRF, NOTCH1, PIK3CB, UBASH3B, SPANXB1, BOLA2, CTNND2
+cytosol: 7 proteins: TDRD3, MYRF, NOTCH1, PIK3CB, BOLA2, GET4, SPECC1
+membrane: 7 proteins: PTPRA, PCDHB5, PCDHB14, GXYLT2, SPECC1, PCDHGB4, PCDHGC3
+nucleoplasm: 6 proteins: TDRD3, MYRF, NOTCH1, PIK3CB, GET4, SPECC1
+cytoplasm: 6 proteins: PIK3CB, UBASH3B, SPANXB1, BOLA2, CTNND2, GET4
+calcium-dependent cell-cell adhesion via plasma membrane cell adhesion molecules: 5 proteins: PCDHB5, PCDHB14, CDH24, PCDHGB4, PCDHGC3
+extracellular exosome: 4 proteins: PTPRA, FAT4, TMEM98, PCDHGB5
+ DNA-templated transcription: 3 proteins: TDRD3, MYRF, NOTCH1
+endoplasmic reticulum membrane: 3 proteins: MYRF, NOTCH1, TMEM98
+adherens junction: 3 proteins: NOTCH1, CDH24, CTNND2
+nucleolus: 3 proteins: PIK3CB, GET4, HUS1B
+synapse organization: 3 proteins: CTNND2, PCDHGC3, PCDHGC4
+RNA binding: 2 proteins: TOP3B, TDRD3
+transcription coactivator activity: 2 proteins: TDRD3, NOTCH1
+Golgi apparatus: 2 proteins: TDRD3, MYRF
+ transcription by RNA polymerase II: 2 proteins: MYRF, NOTCH1
+central nervous system myelination: 2 proteins: MYRF, B4GALT5
+oligodendrocyte differentiation: 2 proteins: MYRF, NOTCH1
+identical protein binding: 2 proteins: NOTCH1, UBASH3B
+ gene expression: 2 proteins: NOTCH1, PIK3CB
+negative regulation of oligodendrocyte differentiation: 2 proteins: NOTCH1, TMEM98
+negative regulation of canonical Wnt signaling pathway: 2 proteins: NOTCH1, DKKL1
+Golgi membrane: 2 proteins: NOTCH1, B4GALT5
+acrosomal vesicle: 2 proteins: NOTCH1, DKKL1
+extracellular region: 2 proteins: NOTCH1, PCDHA6
+receptor complex: 2 proteins: NOTCH1, PTPRA
+signal transduction: 2 proteins: PIK3CB, CTNND2
+platelet aggregation: 2 proteins: PIK3CB, UBASH3B
+intracellular membrane-bounded organelle: 2 proteins: PIK3CB, SPECC1
+protein tyrosine phosphatase activity: 2 proteins: UBASH3B, PTPRA
+O-glycan processing: 2 proteins: B4GALT5, GXYLT2
+ protein stability: 2 proteins: B4GALT5, GET4
+molecular_function: 2 proteins: SPANXB1, PCDHGB5
+chemical synaptic transmission: 2 proteins: PCDHB5, PCDHB14
+synapse assembly: 2 proteins: PCDHB5, PCDHB14
+synapse: 2 proteins: PCDHB5, PCDHB14
+cadherin binding: 2 proteins: CDH24, CTNND2
+cell-cell junction assembly: 2 proteins: CDH24, CTNND2
+cell-cell adhesion: 2 proteins: CDH24, CTNND2
+extracellular space: 2 proteins: DKKL1, TMEM98
+negative regulation of neuron apoptotic process: 2 proteins: PCDHGC3, PCDHGC4

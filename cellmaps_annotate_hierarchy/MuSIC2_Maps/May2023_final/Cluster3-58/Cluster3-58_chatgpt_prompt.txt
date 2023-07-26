@@ -1,0 +1,27 @@
+Your response should be formatted as Markdown paragraphs
+Write a critical and concise analysis of this human protein system, describing your reasoning as you go and providing references to scientific papers.
+
+A critical goal of the analysis is to determine if this is a novel complex or if any proteins are novel members of a known complex
+
+Format with Title, Summary, and References sections.        
+Avoid overly general statements of how the proteins are involved in various cellular processes        
+Avoid repeating the goals of the analysis.
+
+What cellular components and complexes are involved in this system?
+What mechanisms and biological processes are performed by this system?
+Propose a name for the system to reflect the cellular location and function, and should be specific but brief. Do not compose an acronym. Place it as the title of your report
+Human Proteins: FHIP1B, NPC1, CD63, PMEPA1, SCAMP4, STARD3NL.
+
+System features from GO terms: 
+protein binding: 6 proteins: FHIP1B, NPC1, CD63, PMEPA1, SCAMP4, STARD3NL
+protein transport: 3 proteins: FHIP1B, CD63, SCAMP4
+lysosomal membrane: 3 proteins: NPC1, CD63, STARD3NL
+plasma membrane: 3 proteins: NPC1, CD63, PMEPA1
+membrane: 3 proteins: NPC1, PMEPA1, STARD3NL
+late endosome membrane: 3 proteins: NPC1, CD63, STARD3NL
+intracellular membrane-bounded organelle: 3 proteins: CD63, PMEPA1, STARD3NL
+cytosol: 2 proteins: FHIP1B, STARD3NL
+cholesterol binding: 2 proteins: NPC1, STARD3NL
+cholesterol transport: 2 proteins: NPC1, STARD3NL
+extracellular exosome: 2 proteins: NPC1, CD63
+endosome membrane: 2 proteins: CD63, PMEPA1

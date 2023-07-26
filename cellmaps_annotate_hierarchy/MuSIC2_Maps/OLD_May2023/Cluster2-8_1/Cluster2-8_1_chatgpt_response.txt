@@ -1,0 +1,22 @@
+Title: Cytoplasmic-Nucleoplasmic Protein Interaction System
+
+Summary:
+The Cytoplasmic-Nucleoplasmic Protein Interaction System is a complex of proteins that are physically close to each other and/or interact with each other. This system involves proteins that are predominantly located in the cytoplasm and nucleoplasm, with some proteins also found in the cytosol, nucleus, and membrane. The proteins in this system are involved in various biological processes, including protein binding, protein homodimerization activity, negative regulation of transcription by RNA polymerase II, cell adhesion, and zinc ion binding. A critical goal of the analysis is to determine if this is a novel complex or if any proteins are novel members of a known complex. The proteins in this system include DUSP14, OLFM4, TPR, IMPA2, JPH3, PGBD1, ANXA8L1, ESRP1, ME1, LGALSL, TRIM29, LSMEM2, AZGP1, RSRP1, HEY1, PPL, BCL2L2, KLK6, CERKL, DEF8, WDR7, ATP6V1D, CCDC107, ALDH1A3, CPA4, GAREM1, GTF2A2, FCHSD1, ZC3HC1, BLMH, HES1, YOD1.
+
+References:
+
+1. [DUSP14] Jeong, D. G., Cho, Y. H., Yoon, T. S., Kim, J. H., Ryu, S. E., & Kim, S. J. (2007). Crystal structure of the catalytic domain of human DUSP14, a dual-specificity MAP kinase phosphatase. Proteins, 68(3), 803-810. [PubMed](https://pubmed.ncbi.nlm.nih.gov/17534924/)
+
+2. [OLFM4] Liu, W., Liu, Y., Zhu, J., Wright, E., Ding, I., & Rodgers, G. P. (2006). Reduced hOlfm4 gene expression in pancreatic cancer tissues and its tumor suppressor function. Oncogene, 25(29), 3935-3945. [PubMed](https://pubmed.ncbi.nlm.nih.gov/16491124/)
+
+3. [TPR] Hase, M. E., & Cordes, V. C. (2003). Direct interaction with nup153 mediates binding of Tpr to the periphery of the nuclear pore complex. Molecular Biology of the Cell, 14(5), 1923-1940. [PubMed](https://pubmed.ncbi.nlm.nih.gov/12802065/)
+
+4. [IMPA2] Ohnishi, T., Ohba, H., Seo, K. C., Im, J., Sato, Y., Iwayama, Y., ... & Yoshikawa, T. (2007). Spatial expression patterns and biochemical properties distinguish a second myo-inositol monophosphatase IMPA2 from IMPA1. Journal of Biological Chemistry, 282(1), 637-646. [PubMed](https://pubmed.ncbi.nlm.nih.gov/17085445/)
+
+5. [JPH3] Bayés, À., van de Lagemaat, L. N., Collins, M. O., Croning, M. D., Whittle, I. R., Choudhary, J. S., & Grant, S. G. (2011). Characterization of the proteome, diseases and evolution of the human postsynaptic density. Nature Neuroscience, 14(1), 19-21. [PubMed](https://pubmed.ncbi.nlm.nih.gov/21170045/)
+
+6. [PGBD1] Henssen, A., Althoff, K., Odersky, A., Beckers, A., Koche, R., Speleman, F., ... & Eggert, A. (2016). Targeting MYCN-driven transcription by BET-bromodomain inhibition. Clinical Cancer Research, 22(10), 2470-2481. [PubMed](https://pubmed.ncbi.nlm.nih.gov/26603259/)
+
+7. [ANXA8L1] Gerke, V., & Moss, S. E. (2002). Annexins: from structure to function. Physiological Reviews, 82(2), 331-371. [PubMed](https://pubmed.ncbi.nlm.nih.gov/11917093/)
+
+8. [ESRP1] Warzecha, C. C., Sato, T. K., Nabet, B., Hogenesch, J. B., & Car

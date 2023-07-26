@@ -1,0 +1,244 @@
+Feature	Number of Genes	Genes
+protein binding	42	SNW1, PPIG, CHTOP, SF3B2, PNN, SETD2, BCLAF1, RSRC2, ZC3H18, SART1, SF3B4, ZC3H14, SRSF11, SRRM2, LUC7L3, GPATCH8, SRSF4, PRPF40A, SRSF6, WTAP, SFSWAP, SNRPA, CDK11B, BRD2, IK, RBM25, THRAP3, FNBP4, SF3B1, RBM17, PRPF4B, SON, BCAS2, CCDC12, CWC25, CWF19L2, PLRG1, PPIE, PRPF19, SNRPA1, SNRPB2, SYF2
+nucleoplasm	35	SNW1, PPIG, CHTOP, SF3B2, PNN, SETD2, BCLAF1, SART1, SF3B4, SRSF11, SRRM2, LUC7L3, SRSF4, PRPF40A, SRSF6, WTAP, SNRPA, BRD2, IK, RBM25, THRAP3, FNBP4, SF3B1, RBM17, PRPF4B, BCAS2, CCDC12, CWC25, CWF19L2, PLRG1, PPIE, PRPF19, SNRPA1, SNRPB2, SYF2
+nucleus	33	SNW1, PPIG, CHTOP, SF3B2, SETD2, BCLAF1, SART1, SF3B4, ZC3H14, BMP2K, SRSF11, SRRM2, LUC7L3, GPATCH8, SRSF4, WTAP, CDK11A, SFSWAP, SNRPA, CDK11B, BRD2, IK, THRAP3, SF3B1, PRPF4B, BCAS2, CWC25, PLRG1, PPIE, PRPF19, SNRPA1, SNRPB2, SYF2
+nuclear speck	32	SNW1, PPIG, CHTOP, SF3B2, PNN, BCLAF1, ZC3H18, SART1, ZC3H14, BMP2K, SRSF11, SRRM2, LUC7L3, SRSF4, PRPF40A, SRSF6, WTAP, BRD2, IK, RBM25, THRAP3, SF3B1, PRPF4B, SON, BCAS2, CWC25, PLRG1, PPIE, PRPF19, SNRPA1, SNRPB2, SYF2
+RNA binding	31	SNW1, PPIG, CHTOP, SF3B2, PNN, UNK, BCLAF1, RSRC2, ZC3H18, SART1, SF3B4, ZC3H14, SRSF11, SRRM2, LUC7L3, GPATCH8, SRSF4, PRPF40A, SRSF6, SFSWAP, SNRPA, CDK11B, RBM25, THRAP3, SF3B1, RBM17, PRPF4B, SON, PPIE, SNRPA1, SYF2
+mRNA splicing, via spliceosome	22	SNW1, SF3B2, PNN, SART1, SF3B4, SRRM2, SRSF4, PRPF40A, SRSF6, SNRPA, IK, SF3B1, PRPF4B, BCAS2, CWC25, CWF19L2, PLRG1, PPIE, PRPF19, SNRPA1, SNRPB2, SYF2
+cytoplasm	15	PPIG, UNK, SETD2, BCLAF1, SART1, ZC3H14, BMP2K, WTAP, CDK11A, CDK11B, BRD2, IK, RBM25, PPIE, PRPF19
+catalytic step 2 spliceosome	14	SNW1, SF3B2, PNN, SART1, SRRM2, SF3B1, PRPF4B, BCAS2, PLRG1, PPIE, PRPF19, SNRPA1, SNRPB2, SYF2
+RNA splicing	14	PPIG, SF3B2, SF3B4, SRSF11, LUC7L3, SRSF4, WTAP, RBM25, THRAP3, SF3B1, PRPF4B, SON, BCAS2, SNRPA1
+spliceosomal complex	11	SNW1, SF3B2, SF3B4, SNRPA, SF3B1, RBM17, BCAS2, PLRG1, PRPF19, SNRPA1, SNRPB2
+U2-type catalytic step 2 spliceosome	9	SNW1, SRRM2, BCAS2, PLRG1, PPIE, PRPF19, SNRPA1, SNRPB2, SYF2
+mRNA processing	8	SF3B2, SF3B4, SRSF11, SRSF4, WTAP, RBM25, THRAP3, SON
+U2-type precatalytic spliceosome	8	SF3B2, SART1, SF3B4, SRRM2, IK, SF3B1, SNRPA1, SNRPB2
+mRNA binding	6	CHTOP, SRRM2, LUC7L3, RBM25, SF3B1, PPIE
+DNA binding	6	PNN, BCLAF1, LUC7L3, SNRPA, THRAP3, SON
+ transcription by RNA polymerase II	5	SNW1, BCLAF1, BRD2, THRAP3, SF3B1
+ mRNA splicing, via spliceosome	5	SNW1, SF3B4, THRAP3, SON, PRPF19
+U2-type prespliceosome assembly	5	SF3B2, SF3B4, SF3B1, SNRPA1, SNRPB2
+U2-type spliceosomal complex	5	SF3B2, SF3B4, SF3B1, CCDC12, CWC25
+U2 snRNP	5	SF3B2, SF3B4, SF3B1, SNRPA1, SNRPB2
+metal ion binding	5	UNK, SETD2, ZC3H18, ZC3H14, GPATCH8
+ DNA-templated transcription	5	SETD2, CDK11A, CDK11B, THRAP3, PPIE
+ATP binding	5	BMP2K, CDK11A, CDK11B, THRAP3, PRPF4B
+protein phosphorylation	5	BMP2K, CDK11A, CDK11B, BRD2, PRPF4B
+nucleolus	4	CHTOP, ZC3H14, SF3B1, BCAS2
+mRNA cis splicing, via spliceosome	4	SART1, PRPF40A, RBM17, PRPF4B
+RNA splicing, via transesterification reactions	4	SF3B4, SRSF4, SF3B1, BCAS2
+protein serine/threonine kinase activity	4	BMP2K, CDK11A, CDK11B, BRD2
+protein serine kinase activity	4	BMP2K, CDK11A, CDK11B, PRPF4B
+U1 snRNP	4	LUC7L3, PRPF40A, SNRPA, SNRPB2
+ alternative mRNA splicing, via spliceosome	4	SRSF6, WTAP, RBM25, THRAP3
+identical protein binding	4	WTAP, SNRPA, IK, PRPF19
+Prp19 complex	4	BCAS2, PLRG1, PRPF19, SYF2
+nuclear matrix	3	SNW1, PPIG, PRPF40A
+cytosol	3	PPIG, SART1, PPIE
+in utero embryonic development	3	CHTOP, UNK, SYF2
+U12-type spliceosomal complex	3	SF3B2, SF3B4, SF3B1
+membrane	3	PNN, PRPF40A, PRPF19
+apoptotic process	3	BCLAF1, CDK11A, CDK11B
+U2-type prespliceosome	3	LUC7L3, PRPF40A, SF3B1
+negative regulation of mRNA splicing, via spliceosome	3	SRSF4, SRSF6, SFSWAP
+alternative mRNA splicing, via spliceosome	3	SRSF6, SFSWAP, RBM17
+protein kinase activity	3	CDK11A, CDK11B, PRPF4B
+cyclin-dependent protein serine/threonine kinase activity	3	CDK11A, CDK11B, PRPF4B
+mitotic cell cycle	3	CDK11A, CDK11B, IK
+post-mRNA release spliceosomal complex	3	CCDC12, CWF19L2, SYF2
+transcription coactivator activity	2	SNW1, THRAP3
+nuclear vitamin D receptor binding	2	SNW1, THRAP3
+negative regulation of DNA-templated transcription	2	SNW1, BCLAF1
+nuclear body	2	SNW1, SNRPA1
+peptidyl-prolyl cis-trans isomerase activity	2	PPIG, PPIE
+cyclosporin A binding	2	PPIG, PPIE
+protein peptidyl-prolyl isomerization	2	PPIG, PPIE
+protein folding	2	PPIG, PPIE
+chromatin remodeling	2	CHTOP, SF3B1
+neural tube closure	2	SETD2, BRD2
+ cytokinesis	2	SETD2, PRPF40A
+chromosome	2	SETD2, PRPF4B
+transcription coregulator activity	2	BCLAF1, THRAP3
+DNA-templated transcription	2	BCLAF1, THRAP3
+ apoptotic process	2	BCLAF1, RBM25
+mediator complex	2	BCLAF1, THRAP3
+ribonucleoprotein complex	2	ZC3H18, ZC3H14
+Cajal body	2	SART1, SRRM2
+U4/U6 x U5 tri-snRNP complex	2	SART1, SNRPA
+splicing factor binding	2	SF3B4, SF3B1
+poly(A) binding	2	ZC3H14, PPIE
+mRNA splice site recognition	2	LUC7L3, SRSF6
+response to insulin	2	SRSF4, SRSF6
+cell cycle	2	PRPF40A, WTAP
+nuclear membrane	2	WTAP, PLRG1
+ cell growth	2	CDK11A, CDK11B
+ mitotic cell cycle	2	CDK11A, CDK11B
+ mRNA processing	2	CDK11A, CDK11B
+U1 snRNA binding	2	SNRPA, SNRPB2
+spermatogenesis	2	BRD2, SNRPA1
+spliceosomal complex assembly	2	SF3B1, PRPF19
+ cell cycle	2	PRPF4B, SON
+U2-type catalytic step 1 spliceosome	2	CWC25, PRPF19
+fibrillar center	2	PLRG1, SNRPB2
+transcription corepressor activity	1	SNW1
+Notch binding	1	SNW1
+nuclear receptor binding	1	SNW1
+enzyme binding	1	SNW1
+nuclear retinoic acid receptor binding	1	SNW1
+SMAD binding	1	SNW1
+nuclear androgen receptor binding	1	SNW1
+negative regulation of transcription by RNA polymerase II	1	SNW1
+ transforming growth factor beta receptor signaling pathway	1	SNW1
+intrinsic apoptotic signaling pathway in response to DNA damage by p53 class mediator	1	SNW1
+positive regulation by host of viral transcription	1	SNW1
+retinoic acid receptor signaling pathway	1	SNW1
+ retinoic acid receptor signaling pathway	1	SNW1
+ neurogenesis	1	SNW1
+ vitamin D receptor signaling pathway	1	SNW1
+cellular response to retinoic acid	1	SNW1
+methyl-CpG binding	1	CHTOP
+mRNA export from nucleus	1	CHTOP
+ ATP-dependent activity	1	CHTOP
+ helicase activity	1	CHTOP
+transcription export complex	1	CHTOP
+precatalytic spliceosome	1	SF3B2
+structural molecule activity	1	PNN
+cell adhesion	1	PNN
+intermediate filament	1	PNN
+plasma membrane	1	PNN
+cell-cell junction	1	PNN
+desmosome	1	PNN
+polysome binding	1	UNK
+mRNA CDS binding	1	UNK
+neuron migration	1	UNK
+cell morphogenesis involved in neuron differentiation	1	UNK
+negative regulation of cytoplasmic translation	1	UNK
+polysome	1	UNK
+protein-lysine N-methyltransferase activity	1	SETD2
+alpha-tubulin binding	1	SETD2
+histone H3K36 methyltransferase activity	1	SETD2
+histone H3K36 trimethyltransferase activity	1	SETD2
+angiogenesis	1	SETD2
+morphogenesis of a branching structure	1	SETD2
+mismatch repair	1	SETD2
+transcription elongation by RNA polymerase II	1	SETD2
+ gene expression	1	SETD2
+ autophagy	1	SETD2
+ double-strand break repair via homologous recombination	1	SETD2
+ mRNA export from nucleus	1	SETD2
+peptidyl-lysine trimethylation	1	SETD2
+forebrain development	1	SETD2
+ interferon-alpha production	1	SETD2
+response to type I interferon	1	SETD2
+nucleosome organization	1	SETD2
+cell migration involved in vasculogenesis	1	SETD2
+endodermal cell differentiation	1	SETD2
+mesoderm morphogenesis	1	SETD2
+embryonic cranial skeleton morphogenesis	1	SETD2
+stem cell differentiation	1	SETD2
+stem cell development	1	SETD2
+defense response to virus	1	SETD2
+pericardium development	1	SETD2
+embryonic placenta morphogenesis	1	SETD2
+coronary vasculature morphogenesis	1	SETD2
+histone H3-K36 trimethylation	1	SETD2
+histone H3-K36 dimethylation	1	SETD2
+microtubule cytoskeleton organization involved in mitosis	1	SETD2
+ protein localization to chromatin	1	SETD2
+DNA damage response	1	BCLAF1
+ DNA-templated transcription in response to stress	1	BCLAF1
+cellular response to leukemia inhibitory factor	1	BCLAF1
+ DNA-templated transcription initiation	1	BCLAF1
+ intrinsic apoptotic signaling pathway	1	BCLAF1
+protein-macromolecule adaptor activity	1	ZC3H18
+mRNA cap binding complex binding	1	ZC3H18
+RNA destabilization	1	ZC3H18
+protein-containing complex	1	ZC3H18
+spliceosomal snRNP assembly	1	SART1
+maturation of 5S rRNA	1	SART1
+ cytotoxic T cell differentiation	1	SART1
+Golgi apparatus	1	SART1
+ mRNA stability	1	ZC3H14
+negative regulation of mRNA polyadenylation	1	ZC3H14
+dendrite cytoplasm	1	ZC3H14
+axon cytoplasm	1	ZC3H14
+phosphatase regulator activity	1	BMP2K
+AP-2 adaptor complex binding	1	BMP2K
+ bone mineralization	1	BMP2K
+ Notch signaling pathway	1	BMP2K
+ clathrin-dependent endocytosis	1	BMP2K
+C2H2 zinc finger domain binding	1	SRRM2
+biological_process	1	GPATCH8
+cellular_component	1	GPATCH8
+sequence-specific mRNA binding	1	SRSF4
+cytoskeleton organization	1	PRPF40A
+ cell shape	1	PRPF40A
+cell migration	1	PRPF40A
+cell division	1	PRPF40A
+pre-mRNA binding	1	SRSF6
+ keratinocyte proliferation	1	SRSF6
+negative regulation of keratinocyte differentiation	1	SRSF6
+ epithelial cell proliferation involved in lung morphogenesis	1	SRSF6
+ wound healing	1	SRSF6
+negative regulation of type B pancreatic cell apoptotic process	1	SRSF6
+mRNA methylation	1	WTAP
+RNA N6-methyladenosine methyltransferase complex	1	WTAP
+mRNA 5'-splice site recognition	1	SFSWAP
+U1 snRNP binding	1	SNRPA
+ mRNA polyadenylation	1	SNRPA
+chromatin binding	1	BRD2
+lysine-acetylated histone binding	1	BRD2
+nucleosome assembly	1	BRD2
+mitotic spindle assembly checkpoint signaling	1	IK
+protein localization to kinetochore	1	IK
+nuclear chromosome	1	IK
+mitotic spindle pole	1	IK
+RNA polymerase II cis-regulatory region sequence-specific DNA binding	1	THRAP3
+nuclear receptor coactivator activity	1	THRAP3
+nuclear thyroid hormone receptor binding	1	THRAP3
+phosphoprotein binding	1	THRAP3
+nuclear-transcribed mRNA catabolic process	1	THRAP3
+circadian rhythm	1	THRAP3
+ circadian rhythm	1	THRAP3
+mRNA stabilization	1	THRAP3
+extracellular exosome	1	THRAP3
+ histone acetylation	1	SF3B1
+ transcription by RNA polymerase I	1	SF3B1
+ transcription by RNA polymerase III	1	SF3B1
+U11/U12 snRNP	1	SF3B1
+B-WICH complex	1	SF3B1
+microtubule cytoskeleton organization	1	SON
+mitotic cytokinesis	1	SON
+negative regulation of apoptotic process	1	SON
+ RNA splicing	1	SON
+centrosome	1	BCAS2
+protein localization to nucleus	1	PLRG1
+ G1/S transition of mitotic cell cycle	1	PLRG1
+ viral genome replication	1	PPIE
+extracellular region	1	PPIE
+secretory granule lumen	1	PPIE
+intracellular membrane-bounded organelle	1	PPIE
+ficolin-1-rich granule lumen	1	PPIE
+ubiquitin-protein transferase activity	1	PRPF19
+ubiquitin-ubiquitin ligase activity	1	PRPF19
+ubiquitin protein ligase activity	1	PRPF19
+DNA damage checkpoint signaling	1	PRPF19
+protein polyubiquitination	1	PRPF19
+spliceosomal tri-snRNP complex assembly	1	PRPF19
+double-strand break repair via nonhomologous end joining	1	PRPF19
+protein localization	1	PRPF19
+lipid biosynthetic process	1	PRPF19
+proteasomal protein catabolic process	1	PRPF19
+ neuron differentiation	1	PRPF19
+ astrocyte differentiation	1	PRPF19
+protein K63-linked ubiquitination	1	PRPF19
+lipid droplet	1	PRPF19
+spindle	1	PRPF19
+site of double-strand break	1	PRPF19
+U2 snRNA binding	1	SNRPA1
+small nuclear ribonucleoprotein complex	1	SNRPA1
+snRNP binding	1	SNRPB2
+cytoplasmic ribonucleoprotein granule	1	SNRPB2
+mitotic G2 DNA damage checkpoint signaling	1	SYF2
+gastrulation	1	SYF2
+ cell population proliferation	1	SYF2
+embryonic organ development	1	SYF2

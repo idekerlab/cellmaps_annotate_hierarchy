@@ -1,0 +1,39 @@
+Your response should be formatted as Markdown paragraphs
+Write a critical and concise analysis of this human protein system, describing your reasoning as you go and providing references to scientific papers.
+
+A critical goal of the analysis is to determine if this is a novel complex or if any proteins are novel members of a known complex
+
+Format with Title, Summary, and References sections.        
+Avoid overly general statements of how the proteins are involved in various cellular processes        
+Avoid repeating the goals of the analysis.
+
+What cellular components and complexes are involved in this system?
+What mechanisms and biological processes are performed by this system?
+Propose a name for the system to reflect the cellular location and function, and should be specific but brief. Do not compose an acronym. Place it as the title of your report
+Human Proteins: GPSM2, GNG2, GNAS, RNASEH1, TRO, DIRAS1, PDZD8, GNB1, RIC8B, GNB2, GNB4, MAGED2.
+
+System features from GO terms: 
+protein binding: 11 proteins: GPSM2, GNG2, GNAS, RNASEH1, TRO, DIRAS1, PDZD8, GNB1, GNB2, GNB4, MAGED2
+cytosol: 7 proteins: GPSM2, GNAS, GNB1, RIC8B, GNB2, GNB4, MAGED2
+G protein-coupled receptor signaling pathway: 6 proteins: GPSM2, GNG2, GNB1, RIC8B, GNB2, GNB4
+cytoplasm: 6 proteins: GPSM2, RNASEH1, GNB1, RIC8B, GNB2, GNB4
+plasma membrane: 6 proteins: GNG2, TRO, DIRAS1, GNB1, RIC8B, GNB2
+membrane: 6 proteins: GNG2, GNAS, PDZD8, GNB1, GNB2, MAGED2
+heterotrimeric G-protein complex: 5 proteins: GNG2, GNAS, GNB1, GNB2, GNB4
+extracellular exosome: 5 proteins: GNG2, GNAS, GNB1, GNB2, GNB4
+GTPase activity: 4 proteins: GNAS, DIRAS1, GNB1, GNB2
+adenylate cyclase-activating dopamine receptor signaling pathway: 3 proteins: GNG2, GNAS, GNB1
+signaling receptor complex adaptor activity: 3 proteins: GNB1, GNB2, GNB4
+protein-containing complex binding: 3 proteins: GNB1, GNB2, GNB4
+lysosomal membrane: 3 proteins: GNB1, GNB2, GNB4
+G-protein alpha-subunit binding: 2 proteins: GPSM2, RIC8B
+centrosome: 2 proteins: GPSM2, RIC8B
+cell cortex: 2 proteins: GPSM2, RIC8B
+cellular response to prostaglandin E stimulus: 2 proteins: GNG2, GNB1
+cellular response to catecholamine stimulus: 2 proteins: GNG2, GNB1
+GTP binding: 2 proteins: GNAS, DIRAS1
+metal ion binding: 2 proteins: GNAS, PDZD8
+negative regulation of transcription by RNA polymerase II: 2 proteins: TRO, MAGED2
+nucleus: 2 proteins: TRO, MAGED2
+signal transduction: 2 proteins: DIRAS1, GNB1
+GTPase binding: 2 proteins: GNB1, GNB2

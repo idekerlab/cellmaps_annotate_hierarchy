@@ -1,0 +1,51 @@
+Feature	Number of Genes	Genes
+protein binding	4	GNAS, RNASEH1, TRO, MAGED2
+cytosol	3	GNAS, RIC8B, MAGED2
+membrane	2	GNAS, MAGED2
+cytoplasm	2	RNASEH1, RIC8B
+negative regulation of transcription by RNA polymerase II	2	TRO, MAGED2
+nucleus	2	TRO, MAGED2
+plasma membrane	2	TRO, RIC8B
+GTPase activity	1	GNAS
+insulin-like growth factor receptor binding	1	GNAS
+GTP binding	1	GNAS
+adenylate cyclase activator activity	1	GNAS
+G-protein beta/gamma-subunit complex binding	1	GNAS
+beta-2 adrenergic receptor binding	1	GNAS
+D1 dopamine receptor binding	1	GNAS
+mu-type opioid receptor binding	1	GNAS
+ionotropic glutamate receptor binding	1	GNAS
+metal ion binding	1	GNAS
+corticotropin-releasing hormone receptor 1 binding	1	GNAS
+adenylate cyclase-activating G protein-coupled receptor signaling pathway	1	GNAS
+adenylate cyclase-activating dopamine receptor signaling pathway	1	GNAS
+sensory perception of chemical stimulus	1	GNAS
+developmental growth	1	GNAS
+bone development	1	GNAS
+platelet aggregation	1	GNAS
+ cold-induced thermogenesis	1	GNAS
+heterotrimeric G-protein complex	1	GNAS
+apical plasma membrane	1	GNAS
+extracellular exosome	1	GNAS
+magnesium ion binding	1	RNASEH1
+nucleic acid binding	1	RNASEH1
+RNA binding	1	RNASEH1
+RNA-DNA hybrid ribonuclease activity	1	RNASEH1
+RNA nuclease activity	1	RNASEH1
+RNA catabolic process	1	RNASEH1
+DNA replication, removal of RNA primer	1	RNASEH1
+RNA phosphodiester bond hydrolysis, endonucleolytic	1	RNASEH1
+homophilic cell adhesion via plasma membrane adhesion molecules	1	TRO
+embryo implantation	1	TRO
+G-protein alpha-subunit binding	1	RIC8B
+guanyl-nucleotide exchange factor activity	1	RIC8B
+G protein-coupled receptor signaling pathway	1	RIC8B
+ G protein-coupled receptor signaling pathway	1	RIC8B
+centrosome	1	RIC8B
+cell cortex	1	RIC8B
+female pregnancy	1	MAGED2
+renal sodium ion absorption	1	MAGED2
+extracellular region	1	MAGED2
+nucleoplasm	1	MAGED2
+nucleolus	1	MAGED2
+platelet alpha granule lumen	1	MAGED2

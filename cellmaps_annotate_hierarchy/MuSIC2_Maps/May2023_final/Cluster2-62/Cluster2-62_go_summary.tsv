@@ -1,0 +1,24 @@
+Feature	Number of Genes	Genes
+protein binding	3	DCAF8, SPSB3, WSB1
+cytosol	3	DCAF8, SPSB3, WSB1
+mitochondrion	2	PDF, DCAF8
+protein ubiquitination	2	DCAF8, SPSB3
+peptide deformylase activity	1	PDF
+metal ion binding	1	PDF
+translation	1	PDF
+ cell population proliferation	1	PDF
+peptidyl-methionine modification	1	PDF
+N-terminal protein amino acid modification	1	PDF
+co-translational protein modification	1	PDF
+nucleus	1	DCAF8
+nucleoplasm	1	DCAF8
+cytoplasm	1	DCAF8
+Cul4-RING E3 ubiquitin ligase complex	1	DCAF8
+proteasome-mediated ubiquitin-dependent protein catabolic process	1	SPSB3
+SCF ubiquitin ligase complex	1	SPSB3
+ubiquitin protein ligase activity	1	WSB1
+protein polyubiquitination	1	WSB1
+biological_process	1	WSB1
+intracellular signal transduction	1	WSB1
+protein K27-linked ubiquitination	1	WSB1
+protein aggregate center assembly	1	WSB1

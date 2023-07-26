@@ -1,0 +1,74 @@
+Feature	Number of Genes	Genes
+cytosol	4	MYO19, CYCS, MYH10, S100A4
+actin binding	3	MYO19, MYH10, S100A4
+protein binding	3	CYCS, MYH10, S100A4
+nucleus	3	CYCS, MYH10, S100A4
+microfilament motor activity	2	MYO19, MYH10
+ATP binding	2	MYO19, MYH10
+actin filament binding	2	MYO19, MYH10
+cytoplasm	2	MYO19, MYH10
+mitochondrion	2	MYO19, CYCS
+myosin complex	2	MYO19, MYH10
+extracellular exosome	2	MYH10, S100A4
+ATP hydrolysis activity	1	MYO19
+myosin light chain binding	1	MYO19
+plus-end directed microfilament motor activity	1	MYO19
+actin filament organization	1	MYO19
+vesicle transport along actin filament	1	MYO19
+ cytokinesis	1	MYO19
+mitochondrion migration along actin filament	1	MYO19
+ mitochondrial fission	1	MYO19
+mitocytosis	1	MYO19
+mitochondrial outer membrane	1	MYO19
+actin cytoskeleton	1	MYO19
+vesicle	1	MYO19
+electron transfer activity	1	CYCS
+heme binding	1	CYCS
+metal ion binding	1	CYCS
+mitochondrial electron transport, ubiquinol to cytochrome c	1	CYCS
+mitochondrial electron transport, cytochrome c to oxygen	1	CYCS
+activation of cysteine-type endopeptidase activity involved in apoptotic process by cytochrome c	1	CYCS
+ cysteine-type endopeptidase activity involved in apoptotic process	1	CYCS
+cellular respiration	1	CYCS
+intrinsic apoptotic signaling pathway	1	CYCS
+activation of cysteine-type endopeptidase activity	1	CYCS
+mitochondrial inner membrane	1	CYCS
+mitochondrial intermembrane space	1	CYCS
+apoptosome	1	CYCS
+respirasome	1	CYCS
+calmodulin binding	1	MYH10
+RNA stem-loop binding	1	MYH10
+ADP binding	1	MYH10
+mRNA 5'-UTR binding	1	MYH10
+mitotic cytokinesis	1	MYH10
+cell adhesion	1	MYH10
+ cell shape	1	MYH10
+actin filament-based movement	1	MYH10
+actomyosin structure organization	1	MYH10
+ protein secretion	1	MYH10
+stress fiber	1	MYH10
+polysome	1	MYH10
+cell cortex	1	MYH10
+myosin II complex	1	MYH10
+lamellipodium	1	MYH10
+midbody	1	MYH10
+cleavage furrow	1	MYH10
+myosin filament	1	MYH10
+actomyosin	1	MYH10
+myosin II filament	1	MYH10
+RNA binding	1	S100A4
+calcium ion binding	1	S100A4
+chemoattractant activity	1	S100A4
+identical protein binding	1	S100A4
+transition metal ion binding	1	S100A4
+calcium-dependent protein binding	1	S100A4
+RAGE receptor binding	1	S100A4
+epithelial to mesenchymal transition	1	S100A4
+ I-kappaB kinase/NF-kappaB signaling	1	S100A4
+positive chemotaxis	1	S100A4
+extracellular region	1	S100A4
+extracellular space	1	S100A4
+nucleoplasm	1	S100A4
+neuron projection	1	S100A4
+perinuclear region of cytoplasm	1	S100A4
+collagen-containing extracellular matrix	1	S100A4

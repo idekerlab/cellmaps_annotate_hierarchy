@@ -1,0 +1,78 @@
+Your response should be formatted as Markdown paragraphs
+Write a critical and concise analysis of this human protein system, describing your reasoning as you go and providing references to scientific papers.
+
+A critical goal of the analysis is to determine if this is a novel complex or if any proteins are novel members of a known complex
+
+Format with Title, Summary, and References sections.        
+Avoid overly general statements of how the proteins are involved in various cellular processes        
+Avoid repeating the goals of the analysis.
+
+What cellular components and complexes are involved in this system?
+What mechanisms and biological processes are performed by this system?
+Propose a name for the system to reflect the cellular location and function, and should be specific but brief. Do not compose an acronym. Place it as the title of your report
+Human Proteins: CC2D1A, SIK2, PABIR2, PTPDC1, CSDC2, CTIF, ENSA, FOXC1, FOXD4, IER2, IER5, LIMD1, MAST4, PABIR1, PPME1, PPP2R1A, PPP2R1B, PPP2R2C, PPP2R3B, PPP2R3C, PPP2R5E, PRKD1, PRR14L, RBM7, SERTAD2, SERTAD4, SET, SGO1, SOGA3, USP12, WBP4, ZCCHC8, ZNF462.
+
+System features from GO terms: 
+protein binding: 29 proteins: CC2D1A, SIK2, PTPDC1, CSDC2, CTIF, ENSA, FOXC1, FOXD4, IER2, IER5, LIMD1, PABIR1, PPME1, PPP2R1A, PPP2R1B, PPP2R2C, PPP2R3B, PPP2R3C, PPP2R5E, PRKD1, RBM7, SERTAD2, SERTAD4, SET, SGO1, USP12, WBP4, ZCCHC8, ZNF462
+nucleus: 21 proteins: CC2D1A, SIK2, CSDC2, FOXC1, FOXD4, IER2, IER5, LIMD1, PABIR1, PPP2R1A, PPP2R3B, PPP2R5E, PRKD1, RBM7, SERTAD2, SERTAD4, SET, USP12, WBP4, ZCCHC8, ZNF462
+nucleoplasm: 18 proteins: PTPDC1, ENSA, FOXC1, IER2, IER5, LIMD1, PABIR1, PPME1, PPP2R3B, PPP2R3C, RBM7, SERTAD2, SET, SGO1, USP12, WBP4, ZCCHC8, ZNF462
+cytosol: 14 proteins: CC2D1A, CTIF, FOXC1, LIMD1, PPP2R1A, PPP2R2C, PPP2R3B, PPP2R3C, PPP2R5E, PRKD1, SERTAD2, SET, SGO1, USP12
+cytoplasm: 13 proteins: SIK2, CSDC2, ENSA, IER2, IER5, LIMD1, MAST4, PABIR1, PPP2R1A, PPP2R1B, PPP2R5E, SERTAD2, SET
+protein phosphatase regulator activity: 8 proteins: ENSA, PPME1, PPP2R1A, PPP2R1B, PPP2R2C, PPP2R3B, PPP2R5E, SET
+ transcription by RNA polymerase II: 7 proteins: CC2D1A, FOXC1, FOXD4, IER2, IER5, PRKD1, ZNF462
+protein dephosphorylation: 5 proteins: PTPDC1, PPP2R1A, PPP2R1B, PPP2R3B, PPP2R5E
+RNA binding: 5 proteins: CSDC2, CTIF, RBM7, WBP4, ZCCHC8
+metal ion binding: 5 proteins: LIMD1, PPP2R3C, PRKD1, USP12, ZNF462
+protein phosphatase type 2A complex: 5 proteins: PPP2R1A, PPP2R1B, PPP2R2C, PPP2R3B, PPP2R5E
+DNA binding: 4 proteins: FOXC1, IER2, SET, ZNF462
+ DNA-templated transcription: 4 proteins: FOXC1, LIMD1, PPP2R1A, SERTAD2
+RNA polymerase II cis-regulatory region sequence-specific DNA binding: 3 proteins: CC2D1A, FOXC1, FOXD4
+DNA-binding transcription factor activity, RNA polymerase II-specific: 3 proteins: CC2D1A, FOXC1, FOXD4
+plasma membrane: 3 proteins: CC2D1A, LIMD1, PRKD1
+membrane: 3 proteins: CC2D1A, PPP2R1A, SOGA3
+extracellular exosome: 3 proteins: CC2D1A, PPP2R1A, PPP2R1B
+protein serine/threonine kinase activity: 3 proteins: SIK2, MAST4, PRKD1
+ATP binding: 3 proteins: SIK2, MAST4, PRKD1
+protein serine kinase activity: 3 proteins: SIK2, MAST4, PRKD1
+intracellular signal transduction: 3 proteins: SIK2, MAST4, PRKD1
+protein phosphatase inhibitor activity: 3 proteins: ENSA, PPME1, SET
+cell differentiation: 3 proteins: FOXC1, FOXD4, PRKD1
+chromatin: 3 proteins: FOXC1, FOXD4, SET
+nucleolus: 3 proteins: IER5, RBM7, ZCCHC8
+cadherin binding: 2 proteins: CC2D1A, PPME1
+ I-kappaB kinase/NF-kappaB signaling: 2 proteins: CC2D1A, PRKD1
+magnesium ion binding: 2 proteins: SIK2, MAST4
+protein phosphorylation: 2 proteins: SIK2, PPME1
+protein autophosphorylation: 2 proteins: SIK2, PRKD1
+protein serine/threonine phosphatase inhibitor activity: 2 proteins: PABIR2, PABIR1
+perinuclear region of cytoplasm: 2 proteins: CTIF, SET
+protein phosphatase 2A binding: 2 proteins: ENSA, PPME1
+G2/M transition of mitotic cell cycle: 2 proteins: ENSA, PPME1
+cell division: 2 proteins: ENSA, SGO1
+DNA-binding transcription factor activity: 2 proteins: FOXC1, FOXD4
+DNA binding, bending: 2 proteins: FOXC1, FOXD4
+sequence-specific DNA binding: 2 proteins: FOXC1, FOXD4
+angiogenesis: 2 proteins: FOXC1, PRKD1
+anatomical structure morphogenesis: 2 proteins: FOXC1, FOXD4
+ gene expression: 2 proteins: FOXC1, ZNF462
+cell migration: 2 proteins: FOXC1, LIMD1
+vascular endothelial growth factor receptor signaling pathway: 2 proteins: FOXC1, PRKD1
+identical protein binding: 2 proteins: IER5, PRKD1
+cytoskeleton organization: 2 proteins: LIMD1, MAST4
+negative regulation of DNA-templated transcription: 2 proteins: LIMD1, SET
+peptidyl-serine phosphorylation: 2 proteins: MAST4, PRKD1
+nuclear body: 2 proteins: PABIR1, ZCCHC8
+apoptotic process: 2 proteins: PPP2R1A, PRKD1
+chromosome segregation: 2 proteins: PPP2R1A, SGO1
+RNA splicing: 2 proteins: PPP2R1A, WBP4
+negative regulation of cell growth: 2 proteins: PPP2R1A, SERTAD2
+T cell homeostasis: 2 proteins: PPP2R1A, PPP2R3C
+ extrinsic apoptotic signaling pathway in absence of ligand: 2 proteins: PPP2R1A, PPP2R1B
+chromosome, centromeric region: 2 proteins: PPP2R1A, SGO1
+Golgi apparatus: 2 proteins: PPP2R3C, PRKD1
+centrosome: 2 proteins: PPP2R3C, SGO1
+signal transduction: 2 proteins: PPP2R5E, PRKD1
+ autophagy: 2 proteins: PRKD1, SOGA3
+snRNA catabolic process: 2 proteins: RBM7, ZCCHC8
+zinc ion binding: 2 proteins: WBP4, ZCCHC8
+mRNA splicing, via spliceosome: 2 proteins: WBP4, ZCCHC8

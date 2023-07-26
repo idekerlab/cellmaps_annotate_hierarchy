@@ -1,0 +1,78 @@
+Feature	Number of Genes	Genes
+protein binding	8	SEPTIN7, SEPTIN11, SEPTIN6, SEPTIN4, DECR2, SEPTIN3, SEPTIN8, CDC42EP4
+microtubule cytoskeleton	7	SEPTIN7, SEPTIN11, SEPTIN6, SEPTIN4, SEPTIN3, SEPTIN8, CDC42EP4
+GTPase activity	6	SEPTIN7, SEPTIN11, SEPTIN6, SEPTIN4, SEPTIN3, SEPTIN8
+GTP binding	6	SEPTIN7, SEPTIN11, SEPTIN6, SEPTIN4, SEPTIN3, SEPTIN8
+molecular adaptor activity	6	SEPTIN7, SEPTIN11, SEPTIN6, SEPTIN4, SEPTIN3, SEPTIN8
+cytoskeleton-dependent cytokinesis	6	SEPTIN7, SEPTIN11, SEPTIN6, SEPTIN4, SEPTIN3, SEPTIN8
+septin ring	6	SEPTIN7, SEPTIN11, SEPTIN6, SEPTIN4, SEPTIN3, SEPTIN8
+septin complex	6	SEPTIN7, SEPTIN11, SEPTIN6, SEPTIN4, SEPTIN3, SEPTIN8
+cell division site	6	SEPTIN7, SEPTIN11, SEPTIN6, SEPTIN4, SEPTIN3, SEPTIN8
+cytosol	4	SEPTIN7, SEPTIN4, DECR2, CDC42EP4
+identical protein binding	3	SEPTIN7, SEPTIN4, SEPTIN3
+sperm annulus	3	SEPTIN7, SEPTIN6, SEPTIN4
+axon	3	SEPTIN11, SEPTIN4, SEPTIN8
+structural molecule activity	2	SEPTIN7, SEPTIN4
+spermatogenesis	2	SEPTIN7, SEPTIN6
+cell differentiation	2	SEPTIN7, SEPTIN6
+cilium assembly	2	SEPTIN7, SEPTIN6
+kinetochore	2	SEPTIN7, SEPTIN6
+stress fiber	2	SEPTIN7, SEPTIN11
+nucleus	2	SEPTIN7, SEPTIN4
+spindle	2	SEPTIN7, SEPTIN6
+midbody	2	SEPTIN7, SEPTIN6
+cleavage furrow	2	SEPTIN7, SEPTIN6
+synaptic vesicle	2	SEPTIN6, SEPTIN4
+presynapse	2	SEPTIN3, SEPTIN8
+cadherin binding	1	SEPTIN7
+ embryonic cell shape	1	SEPTIN7
+ non-motile cilium assembly	1	SEPTIN7
+axoneme	1	SEPTIN7
+apical plasma membrane	1	SEPTIN7
+extracellular exosome	1	SEPTIN7
+non-motile cilium	1	SEPTIN7
+dendritic spine	1	SEPTIN11
+mitotic cytokinesis	1	SEPTIN6
+septin collar	1	SEPTIN6
+axon terminus	1	SEPTIN6
+magnesium ion binding	1	SEPTIN4
+neuron migration	1	SEPTIN4
+apoptotic process	1	SEPTIN4
+ exocytosis	1	SEPTIN4
+flagellated sperm motility	1	SEPTIN4
+ protein ubiquitination	1	SEPTIN4
+ apoptotic process	1	SEPTIN4
+spermatid differentiation	1	SEPTIN4
+hematopoietic stem cell homeostasis	1	SEPTIN4
+ intrinsic apoptotic signaling pathway	1	SEPTIN4
+nucleoplasm	1	SEPTIN4
+mitochondrion	1	SEPTIN4
+mitochondrial outer membrane	1	SEPTIN4
+dendrite	1	SEPTIN4
+perikaryon	1	SEPTIN4
+2,4-dienoyl-CoA reductase (NADPH) activity	1	DECR2
+trans-2-enoyl-CoA reductase (NADPH) activity	1	DECR2
+fatty acid metabolic process	1	DECR2
+unsaturated fatty acid biosynthetic process	1	DECR2
+fatty acid beta-oxidation using acyl-CoA oxidase	1	DECR2
+peroxisome	1	DECR2
+peroxisomal membrane	1	DECR2
+molecular_function	1	SEPTIN3
+neuron projection	1	SEPTIN3
+presynaptic cytoskeleton	1	SEPTIN3
+ SNARE complex assembly	1	SEPTIN8
+synaptic vesicle membrane	1	SEPTIN8
+RNA binding	1	CDC42EP4
+small GTPase binding	1	CDC42EP4
+Rho protein signal transduction	1	CDC42EP4
+ cell shape	1	CDC42EP4
+ actin filament polymerization	1	CDC42EP4
+ pseudopodium assembly	1	CDC42EP4
+cellular response to type II interferon	1	CDC42EP4
+cytoplasm	1	CDC42EP4
+plasma membrane	1	CDC42EP4
+adherens junction	1	CDC42EP4
+endomembrane system	1	CDC42EP4
+actin cytoskeleton	1	CDC42EP4
+membrane	1	CDC42EP4
+phagocytic vesicle	1	CDC42EP4

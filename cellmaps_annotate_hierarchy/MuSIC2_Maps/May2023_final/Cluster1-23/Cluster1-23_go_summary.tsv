@@ -1,0 +1,46 @@
+Feature	Number of Genes	Genes
+protein binding	6	MAFF, NFE2L3, SLMAP, SIKE1, MTCH2, FGFR1OP2
+nucleus	3	MAFF, NFE2L3, MTCH2
+RNA polymerase II cis-regulatory region sequence-specific DNA binding	2	MAFF, NFE2L3
+DNA-binding transcription factor activity, RNA polymerase II-specific	2	MAFF, NFE2L3
+negative regulation of transcription by RNA polymerase II	2	MAFF, NFE2L3
+ transcription by RNA polymerase II	2	MAFF, NFE2L3
+chromatin	2	MAFF, NFE2L3
+mitochondrion	2	MAFF, MTCH2
+RNA polymerase II transcription regulator complex	2	MAFF, NFE2L3
+cytosol	2	SIKE1, FGFR1OP2
+DNA-binding transcription activator activity, RNA polymerase II-specific	1	MAFF
+sequence-specific DNA binding	1	MAFF
+sequence-specific double-stranded DNA binding	1	MAFF
+in utero embryonic development	1	MAFF
+parturition	1	MAFF
+skeletal muscle cell differentiation	1	MAFF
+ epidermal cell differentiation	1	MAFF
+nucleoplasm	1	MAFF
+DNA-binding transcription repressor activity, RNA polymerase II-specific	1	NFE2L3
+DNA-binding transcription factor activity	1	NFE2L3
+transcription by RNA polymerase II	1	NFE2L3
+integrated stress response signaling	1	NFE2L3
+muscle contraction	1	SLMAP
+protein localization to plasma membrane	1	SLMAP
+ membrane depolarization during cardiac muscle cell action potential	1	SLMAP
+ sodium ion transmembrane transport	1	SLMAP
+ voltage-gated sodium channel activity	1	SLMAP
+smooth endoplasmic reticulum	1	SLMAP
+microtubule organizing center	1	SLMAP
+plasma membrane	1	SLMAP
+sarcolemma	1	SLMAP
+protein kinase binding	1	SIKE1
+small GTPase binding	1	SIKE1
+membrane insertase activity	1	MTCH2
+ mitochondrial fusion	1	MTCH2
+ apoptotic process	1	MTCH2
+protein insertion into mitochondrial outer membrane	1	MTCH2
+lipid homeostasis	1	MTCH2
+protein localization to mitochondrion	1	MTCH2
+ stem cell differentiation	1	MTCH2
+mitochondrial outer membrane	1	MTCH2
+membrane	1	MTCH2
+identical protein binding	1	FGFR1OP2
+response to wounding	1	FGFR1OP2
+wound healing	1	FGFR1OP2

@@ -1,0 +1,3 @@
+### Validated References: 
+[1] Liu, Weihai, Wang, Yun, Bozi, Luiz H M, Fischer, Patrick D, Jedrychowski, Mark P, Xiao, Haopeng, Wu, Tao, Darabedian, Narek, He, Xiadi, Mills, Evanna L, Burger, Nils, Shin, Sanghee, Reddy, Anita, Sprenger, Hans-Georg, Tran, Nhien, Winther, Sally, Hinshaw, Stephen M, Shen, Jingnan, Seo, Hyuk-Soo, Song, Kijun, Xu, Andrew Z, Sebastian, Luke, Zhao, Jean J, Dhe-Paganon, Sirano, Che, Jianwei, Gygi, Steven P, Arthanari, Haribabu, Chouchani, Edward T. "Lactate regulates cell cycle by remodelling the anaphase promoting complex." Nature, 2023, pp. 790-797.
+[2] Jeong, Seung Min, Bui, Quyen Thu, Kwak, Minseok, Lee, Ji Yeon, Lee, Peter Chang-Whan. "Targeting Cdc20 for cancer therapy." Biochimica et biophysica acta. Reviews on cancer, 2022, pp. 188824.

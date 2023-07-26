@@ -1,0 +1,48 @@
+Your response should be formatted as Markdown paragraphs
+Write a critical and concise analysis of this human protein system, describing your reasoning as you go and providing references to scientific papers.
+
+A critical goal of the analysis is to determine if this is a novel complex or if any proteins are novel members of a known complex
+
+Format with Title, Summary, and References sections.        
+Avoid overly general statements of how the proteins are involved in various cellular processes        
+Avoid repeating the goals of the analysis.
+
+What cellular components and complexes are involved in this system?
+What mechanisms and biological processes are performed by this system?
+Propose a name for the system to reflect the cellular location and function, and should be specific but brief. Do not compose an acronym. Place it as the title of your report
+Human Proteins: ITFG2, GLI4, AURKB, CRYBB3, FAM83D, FKBPL, KIF11, KLHL22, KLK6, KNSTRN, THOC1, TPX2, CEP131, MGAT5B.
+
+System features from GO terms: 
+protein binding: 13 proteins: GLI4, AURKB, CRYBB3, FAM83D, FKBPL, KIF11, KLHL22, KLK6, KNSTRN, THOC1, TPX2, CEP131, MGAT5B
+cytosol: 8 proteins: ITFG2, AURKB, FAM83D, FKBPL, KIF11, KLHL22, TPX2, CEP131
+nucleus: 7 proteins: GLI4, AURKB, KIF11, KLHL22, KNSTRN, THOC1, TPX2
+nucleoplasm: 6 proteins: ITFG2, AURKB, KLK6, THOC1, TPX2, CEP131
+cell division: 5 proteins: FAM83D, KIF11, KLHL22, KNSTRN, TPX2
+cytoplasm: 5 proteins: FAM83D, KLHL22, KLK6, KNSTRN, THOC1
+mitotic spindle: 5 proteins: FAM83D, KIF11, KLHL22, KNSTRN, TPX2
+spindle: 4 proteins: AURKB, FAM83D, KIF11, TPX2
+microtubule cytoskeleton: 4 proteins: AURKB, FAM83D, KLHL22, TPX2
+intercellular bridge: 4 proteins: FAM83D, KLHL22, KLK6, TPX2
+mitotic cell cycle: 3 proteins: AURKB, KIF11, TPX2
+spindle organization: 3 proteins: AURKB, KIF11, KNSTRN
+protein kinase binding: 3 proteins: FAM83D, KIF11, TPX2
+spindle pole: 3 proteins: KIF11, KNSTRN, TPX2
+ TOR signaling: 2 proteins: ITFG2, FAM83D
+ATP binding: 2 proteins: AURKB, KIF11
+mitotic spindle organization: 2 proteins: AURKB, KIF11
+cell population proliferation: 2 proteins: AURKB, FAM83D
+kinetochore: 2 proteins: AURKB, KNSTRN
+spindle microtubule: 2 proteins: AURKB, KIF11
+mitotic spindle pole: 2 proteins: AURKB, FAM83D
+microtubule binding: 2 proteins: FAM83D, KIF11
+signal transduction: 2 proteins: FAM83D, THOC1
+cell migration: 2 proteins: FAM83D, KNSTRN
+extracellular region: 2 proteins: FKBPL, KLK6
+mitotic spindle assembly: 2 proteins: KIF11, TPX2
+microtubule: 2 proteins: KIF11, TPX2
+mitotic sister chromatid segregation: 2 proteins: KLHL22, KNSTRN
+centrosome: 2 proteins: KLHL22, CEP131
+nuclear membrane: 2 proteins: KLK6, CEP131
+protein homodimerization activity: 2 proteins: KNSTRN, CEP131
+centriolar satellite: 2 proteins: KNSTRN, CEP131
+apoptotic process: 2 proteins: THOC1, TPX2

@@ -1,0 +1,111 @@
+Feature	Number of Genes	Genes
+protein binding	9	SNX18, TRERF1, BAZ2B, FGF1, GMEB1, GMEB2, GPC4, GTF2I, KLHL7
+ transcription by RNA polymerase II	6	TRERF1, BAZ2B, FGF1, GMEB1, GMEB2, GTF2I
+nucleus	6	TRERF1, BAZ2B, GMEB1, GMEB2, GPC4, GTF2I
+nucleoplasm	6	TRERF1, FGF1, GMEB1, GMEB2, GTF2I, KLHL7
+metal ion binding	4	TRERF1, BAZ2B, GMEB1, GMEB2
+cytosol	4	TRERF1, FGF1, GMEB2, KLHL7
+plasma membrane	3	SNX18, GPC4, KLHL7
+DNA binding	3	TRERF1, BAZ2B, GTF2I
+cytoplasm	3	FGF1, GMEB1, GTF2I
+DNA-binding transcription factor activity, RNA polymerase II-specific	3	GMEB1, GMEB2, GTF2I
+DNA-binding transcription activator activity, RNA polymerase II-specific	3	GMEB1, GMEB2, GTF2I
+identical protein binding	3	GMEB1, GMEB2, KLHL7
+extracellular exosome	2	SNX18, GPC4
+nucleolus	2	FGF1, KLHL7
+RNA polymerase II cis-regulatory region sequence-specific DNA binding	2	GMEB1, GMEB2
+sequence-specific double-stranded DNA binding	2	GMEB1, GMEB2
+chromatin	2	GMEB1, GMEB2
+transcription by RNA polymerase II	2	GMEB2, GTF2I
+phosphatidylinositol-4,5-bisphosphate binding	1	SNX18
+phosphatidylinositol binding	1	SNX18
+mitotic cytokinesis	1	SNX18
+endocytosis	1	SNX18
+protein transport	1	SNX18
+endosomal transport	1	SNX18
+cleavage furrow formation	1	SNX18
+ GTPase activity	1	SNX18
+selective autophagy	1	SNX18
+plasma membrane tubulation	1	SNX18
+ autophagosome assembly	1	SNX18
+clathrin-coated vesicle	1	SNX18
+extrinsic component of cytoplasmic side of plasma membrane	1	SNX18
+cytoplasmic vesicle	1	SNX18
+recycling endosome membrane	1	SNX18
+transcription coactivator binding	1	TRERF1
+transcription coactivator activity	1	TRERF1
+transcription corepressor activity	1	TRERF1
+nuclear receptor coactivator activity	1	TRERF1
+nuclear progesterone receptor binding	1	TRERF1
+negative regulation of DNA-templated transcription	1	TRERF1
+ DNA-templated transcription	1	TRERF1
+progesterone receptor signaling pathway	1	TRERF1
+cellular response to progesterone stimulus	1	TRERF1
+histone deacetylase complex	1	TRERF1
+fibrillar center	1	TRERF1
+transcription regulator complex	1	TRERF1
+chromatin remodeling	1	BAZ2B
+fibroblast growth factor receptor binding	1	FGF1
+integrin binding	1	FGF1
+growth factor activity	1	FGF1
+heparin binding	1	FGF1
+Hsp70 protein binding	1	FGF1
+S100 protein binding	1	FGF1
+angiogenesis	1	FGF1
+organ induction	1	FGF1
+ protein phosphorylation	1	FGF1
+signal transduction	1	FGF1
+ cell population proliferation	1	FGF1
+fibroblast growth factor receptor signaling pathway	1	FGF1
+anatomical structure morphogenesis	1	FGF1
+animal organ morphogenesis	1	FGF1
+ endothelial cell migration	1	FGF1
+ gene expression	1	FGF1
+cell differentiation	1	FGF1
+lung development	1	FGF1
+ cell migration	1	FGF1
+activation of protein kinase B activity	1	FGF1
+cellular response to heat	1	FGF1
+wound healing	1	FGF1
+ MAP kinase activity	1	FGF1
+ cholesterol biosynthetic process	1	FGF1
+ angiogenesis	1	FGF1
+epithelial cell proliferation	1	FGF1
+ cell division	1	FGF1
+branch elongation involved in ureteric bud branching	1	FGF1
+ ERK1 and ERK2 cascade	1	FGF1
+mesonephric epithelium development	1	FGF1
+ endothelial tube morphogenesis	1	FGF1
+ intracellular signal transduction	1	FGF1
+ sprouting angiogenesis	1	FGF1
+ hepatocyte proliferation	1	FGF1
+ endothelial cell chemotaxis to fibroblast growth factor	1	FGF1
+extracellular region	1	FGF1
+extracellular space	1	FGF1
+cell cortex	1	FGF1
+extracellular matrix	1	FGF1
+Hsp27 protein binding	1	GMEB1
+DNA-templated transcription	1	GMEB1
+coreceptor activity involved in Wnt signaling pathway, planar cell polarity pathway	1	GPC4
+ signal transduction	1	GPC4
+Wnt signaling pathway	1	GPC4
+cell migration	1	GPC4
+Wnt signaling pathway, planar cell polarity pathway	1	GPC4
+ neurotransmitter receptor localization to postsynaptic specialization membrane	1	GPC4
+synaptic membrane adhesion	1	GPC4
+ presynapse assembly	1	GPC4
+Golgi lumen	1	GPC4
+external side of plasma membrane	1	GPC4
+cell surface	1	GPC4
+lysosomal lumen	1	GPC4
+synapse	1	GPC4
+collagen-containing extracellular matrix	1	GPC4
+glutamatergic synapse	1	GPC4
+DNA-binding transcription factor activity	1	GTF2I
+RNA polymerase II-specific DNA-binding transcription factor binding	1	GTF2I
+negative regulation of angiogenesis	1	GTF2I
+membrane	1	GTF2I
+protein homodimerization activity	1	KLHL7
+protein ubiquitination	1	KLHL7
+Cul3-RING ubiquitin ligase complex	1	KLHL7
+perinuclear region of cytoplasm	1	KLHL7

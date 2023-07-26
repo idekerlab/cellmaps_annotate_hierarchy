@@ -1,0 +1,32 @@
+Your response should be formatted as Markdown paragraphs
+Write a critical and concise analysis of this human protein system, describing your reasoning as you go and providing references to scientific papers.
+
+A critical goal of the analysis is to determine if this is a novel complex or if any proteins are novel members of a known complex
+
+Format with Title, Summary, and References sections.        
+Avoid overly general statements of how the proteins are involved in various cellular processes        
+Avoid repeating the goals of the analysis.
+
+What cellular components and complexes are involved in this system?
+What mechanisms and biological processes are performed by this system?
+Propose a name for the system to reflect the cellular location and function, and should be specific but brief. Do not compose an acronym. Place it as the title of your report
+Human Proteins: TNNC2, SYN2, PRKAG2, MYH14, PRKAB2, PHKA2, SH3BGRL2, PTPN4, CAMK2N2, PDE1C.
+
+System features from GO terms: 
+cytosol: 8 proteins: TNNC2, PRKAG2, MYH14, PRKAB2, PHKA2, PTPN4, CAMK2N2, PDE1C
+protein binding: 6 proteins: TNNC2, SYN2, PRKAG2, PRKAB2, PHKA2, PTPN4
+nucleoplasm: 5 proteins: PRKAG2, PRKAB2, SH3BGRL2, PTPN4, CAMK2N2
+cytoplasm: 4 proteins: MYH14, PRKAB2, SH3BGRL2, PTPN4
+ATP binding: 3 proteins: SYN2, PRKAG2, MYH14
+protein kinase binding: 3 proteins: PRKAG2, PRKAB2, CAMK2N2
+calmodulin binding: 3 proteins: MYH14, PHKA2, PDE1C
+skeletal muscle contraction: 2 proteins: TNNC2, MYH14
+plasma membrane: 2 proteins: SYN2, PHKA2
+synapse: 2 proteins: SYN2, CAMK2N2
+AMP-activated protein kinase activity: 2 proteins: PRKAG2, PRKAB2
+glycogen metabolic process: 2 proteins: PRKAG2, PHKA2
+negative regulation of protein kinase activity: 2 proteins: PRKAG2, CAMK2N2
+fatty acid biosynthetic process: 2 proteins: PRKAG2, PRKAB2
+cellular response to nutrient levels: 2 proteins: PRKAG2, PRKAB2
+nucleotide-activated protein kinase complex: 2 proteins: PRKAG2, PRKAB2
+signal transduction: 2 proteins: PRKAB2, PDE1C

@@ -1,0 +1,68 @@
+Your response should be formatted as Markdown paragraphs
+Write a critical and concise analysis of this human protein system, describing your reasoning as you go and providing references to scientific papers.
+
+A critical goal of the analysis is to determine if this is a novel complex or if any proteins are novel members of a known complex
+
+Format with Title, Summary, and References sections.        
+Avoid overly general statements of how the proteins are involved in various cellular processes        
+Avoid repeating the goals of the analysis.
+
+What cellular components and complexes are involved in this system?
+What mechanisms and biological processes are performed by this system?
+Propose a name for the system to reflect the cellular location and function, and should be specific but brief. Do not compose an acronym. Place it as the title of your report
+Human Proteins: PCMTD2, RAB40C, GLMN, COPS2, COPS5, STK11, CUL2, ASB7, DTL, APPBP2, COPS3, COPS6, COPS7A, COPS7B, COPS8, COPS9, CUL4A, CUL4B, DCAF11, FEM1B, FEM1C, KCTD9, LRR1, LRRC14, RNF7, SOCS4, SOCS5.
+
+System features from GO terms: 
+protein binding: 26 proteins: PCMTD2, GLMN, COPS2, COPS5, STK11, CUL2, ASB7, DTL, APPBP2, COPS3, COPS6, COPS7A, COPS7B, COPS8, COPS9, CUL4A, CUL4B, DCAF11, FEM1B, FEM1C, KCTD9, LRR1, LRRC14, RNF7, SOCS4, SOCS5
+nucleoplasm: 18 proteins: COPS2, COPS5, STK11, CUL2, DTL, APPBP2, COPS3, COPS6, COPS7A, COPS7B, COPS8, COPS9, CUL4A, CUL4B, DCAF11, FEM1B, FEM1C, RNF7
+cytosol: 18 proteins: COPS2, COPS5, STK11, CUL2, ASB7, DTL, COPS3, COPS6, COPS7A, COPS7B, COPS8, CUL4B, FEM1B, FEM1C, LRR1, LRRC14, RNF7, SOCS5
+nucleus: 16 proteins: COPS2, COPS5, STK11, DTL, APPBP2, COPS3, COPS6, COPS7A, COPS7B, COPS8, COPS9, CUL4A, CUL4B, FEM1B, LRR1, RNF7
+cytoplasm: 15 proteins: PCMTD2, GLMN, COPS2, COPS5, STK11, APPBP2, COPS3, COPS6, COPS7A, COPS7B, COPS8, COPS9, FEM1B, LRRC14, RNF7
+protein ubiquitination: 14 proteins: RAB40C, CUL2, ASB7, APPBP2, CUL4A, CUL4B, DCAF11, FEM1B, FEM1C, KCTD9, LRR1, RNF7, SOCS4, SOCS5
+protein neddylation: 8 proteins: COPS2, COPS5, COPS3, COPS6, COPS7A, COPS7B, COPS8, RNF7
+COP9 signalosome: 8 proteins: COPS2, COPS5, COPS3, COPS6, COPS7A, COPS7B, COPS8, COPS9
+protein deneddylation: 7 proteins: COPS2, COPS5, COPS3, COPS6, COPS7A, COPS7B, COPS8
+ protein neddylation: 7 proteins: COPS2, COPS5, COPS3, COPS6, COPS7A, COPS7B, COPS8
+proteasome-mediated ubiquitin-dependent protein catabolic process: 6 proteins: DTL, APPBP2, CUL4A, DCAF11, FEM1B, FEM1C
+intracellular signal transduction: 5 proteins: RAB40C, ASB7, KCTD9, SOCS4, SOCS5
+Cul2-RING ubiquitin ligase complex: 5 proteins: GLMN, CUL2, APPBP2, FEM1B, FEM1C
+ubiquitin-dependent protein catabolic process: 5 proteins: DTL, COPS3, CUL4B, FEM1C, RNF7
+ubiquitin protein ligase binding: 4 proteins: GLMN, CUL2, CUL4A, CUL4B
+Cul4A-RING E3 ubiquitin ligase complex: 4 proteins: GLMN, DTL, CUL4A, CUL4B
+perinuclear region of cytoplasm: 4 proteins: COPS5, COPS3, COPS6, COPS8
+DNA damage response: 4 proteins: STK11, DTL, CUL4A, CUL4B
+Cul4-RING E3 ubiquitin ligase complex: 4 proteins: DTL, CUL4A, CUL4B, DCAF11
+negative regulation of cell population proliferation: 3 proteins: GLMN, STK11, COPS8
+ proteasomal ubiquitin-dependent protein catabolic process: 3 proteins: GLMN, SOCS4, SOCS5
+protein phosphorylation: 3 proteins: COPS2, STK11, COPS8
+signal transduction: 3 proteins: COPS2, STK11, COPS3
+ cell cycle: 3 proteins: COPS5, STK11, DTL
+extracellular exosome: 3 proteins: STK11, COPS8, CUL4B
+G1/S transition of mitotic cell cycle: 3 proteins: CUL2, CUL4A, CUL4B
+ protein catabolic process: 3 proteins: DTL, CUL4A, CUL4B
+ubiquitin ligase-substrate adaptor activity: 3 proteins: APPBP2, FEM1B, FEM1C
+COP9 signalosome assembly: 3 proteins: COPS7A, COPS7B, COPS8
+cellular response to UV: 3 proteins: COPS9, CUL4A, CUL4B
+synaptic vesicle: 2 proteins: RAB40C, COPS5
+metal-dependent deubiquitinase activity: 2 proteins: COPS5, COPS6
+post-translational protein modification: 2 proteins: COPS5, RNF7
+protein-containing complex binding: 2 proteins: STK11, CUL2
+ubiquitin-protein transferase activity: 2 proteins: CUL2, DTL
+protein-macromolecule adaptor activity: 2 proteins: CUL2, DTL
+intrinsic apoptotic signaling pathway: 2 proteins: CUL2, CUL4A
+nucleolus: 2 proteins: CUL2, DTL
+protein polyubiquitination: 2 proteins: DTL, CUL4B
+rhythmic process: 2 proteins: DTL, CUL4A
+Cul4B-RING E3 ubiquitin ligase complex: 2 proteins: DTL, CUL4B
+in utero embryonic development: 2 proteins: COPS3, CUL4A
+ cell population proliferation: 2 proteins: COPS9, CUL4A
+ubiquitin protein ligase activity: 2 proteins: CUL4A, RNF7
+ribosome biogenesis: 2 proteins: CUL4A, CUL4B
+ G1/S transition of mitotic cell cycle: 2 proteins: CUL4A, CUL4B
+ DNA damage checkpoint: 2 proteins: CUL4A, FEM1B
+ubiquitin-dependent protein catabolic process via the C-end degron rule pathway: 2 proteins: FEM1B, FEM1C
+cullin family protein binding: 2 proteins: KCTD9, RNF7
+1-phosphatidylinositol-3-kinase regulator activity: 2 proteins: SOCS4, SOCS5
+negative regulation of epidermal growth factor-activated receptor activity: 2 proteins: SOCS4, SOCS5
+phosphatidylinositol phosphate biosynthetic process: 2 proteins: SOCS4, SOCS5
+phosphatidylinositol 3-kinase complex: 2 proteins: SOCS4, SOCS5

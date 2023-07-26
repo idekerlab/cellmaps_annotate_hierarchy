@@ -1,0 +1,45 @@
+Feature	Number of Genes	Genes
+protein binding	6	ZNF672, ZNF35, ZBTB9, ZNF627, FST, VWCE
+metal ion binding	6	ZNF672, ZNF354C, ZNF35, ZNF444, ZBTB9, ZNF627
+nucleus	6	ZNF672, ZNF35, ZNF444, ZBTB9, ZNF627, FST
+DNA-binding transcription factor activity, RNA polymerase II-specific	4	ZNF672, ZNF444, ZBTB9, ZNF627
+ transcription by RNA polymerase II	4	ZNF672, ZNF444, ZBTB9, ZNF627
+RNA polymerase II cis-regulatory region sequence-specific DNA binding	3	ZNF354C, ZNF444, ZBTB9
+sequence-specific DNA binding	2	ZNF672, ZNF35
+nucleoplasm	2	ZNF672, ZNF354C
+ DNA-templated transcription	2	ZNF354C, ZNF35
+extracellular region	2	FST, VWCE
+cytoplasm	2	FST, VWCE
+DNA binding	1	ZNF35
+DNA-binding transcription factor activity	1	ZNF35
+spermatogenesis	1	ZNF35
+cellular response to retinoic acid	1	ZNF35
+perinuclear region of cytoplasm	1	ZNF35
+sequence-specific double-stranded DNA binding	1	ZNF444
+identical protein binding	1	ZBTB9
+RNA polymerase II transcription regulatory region sequence-specific DNA binding	1	ZNF627
+activin receptor antagonist activity	1	FST
+heparan sulfate proteoglycan binding	1	FST
+activin binding	1	FST
+negative regulation of transcription by RNA polymerase II	1	FST
+skeletal system development	1	FST
+hematopoietic progenitor cell differentiation	1	FST
+multicellular organism development	1	FST
+gamete generation	1	FST
+pattern specification process	1	FST
+female gonad development	1	FST
+response to organic cyclic compound	1	FST
+cell differentiation	1	FST
+BMP signaling pathway	1	FST
+ BMP signaling pathway	1	FST
+negative regulation of epithelial cell differentiation	1	FST
+hair follicle morphogenesis	1	FST
+negative regulation of activin receptor signaling pathway	1	FST
+ameloblast differentiation	1	FST
+odontogenesis of dentin-containing tooth	1	FST
+keratinocyte proliferation	1	FST
+ hair follicle development	1	FST
+extracellular space	1	FST
+molecular_function	1	VWCE
+calcium ion binding	1	VWCE
+cellular response to virus	1	VWCE

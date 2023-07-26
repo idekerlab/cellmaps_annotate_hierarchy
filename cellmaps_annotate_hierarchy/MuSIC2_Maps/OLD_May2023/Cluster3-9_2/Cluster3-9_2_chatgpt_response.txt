@@ -1,0 +1,16 @@
+Title: Nuclear-Cytoplasmic Protein Interaction System in RNA Processing and Regulation
+
+Summary:
+The Nuclear-Cytoplasmic Protein Interaction System is a complex of proteins that are physically close to each other and/or interact with each other, primarily involved in RNA processing, regulation of RNA splicing, and protein binding. This system is predominantly localized in the nucleus, nucleoplasm, and cytoplasm, with some proteins also found in the cytosol, extracellular exosome, and plasma membrane. The analysis aims to determine if this is a novel complex or if any proteins are novel members of a known complex. The system features a variety of proteins with diverse functions, including RNA binding, ATP binding, metal ion binding, calcium ion binding, and ubiquitin-protein transferase activity. Some key proteins in this system are involved in mRNA processing, regulation of RNA splicing, DNA repair, and regulation of gene expression. The system is also involved in various biological processes such as DNA-directed DNA polymerase activity, DNA primase activity, nervous system development, and regulation of DNA-templated transcription.
+
+References:
+
+1. Castello, A., Fischer, B., Eichelbaum, K., Horos, R., Beckmann, B. M., Strein, C., ... & Hentze, M. W. (2012). Insights into RNA biology from an atlas of mammalian mRNA-binding proteins. Cell, 149(6), 1393-1406. [PubMed](https://pubmed.ncbi.nlm.nih.gov/22658674/)
+
+2. Huttlin, E. L., Bruckner, R. J., Paulo, J. A., Cannon, J. R., Ting, L., Baltier, K., ... & Harper, J. W. (2017). Architecture of the human interactome defines protein communities and disease networks. Nature, 545(7655), 505-509. [PubMed](https://pubmed.ncbi.nlm.nih.gov/28514442/)
+
+3. Wan, C., Borgeson, B., Phanse, S., Tu, F., Drew, K., Clark, G., ... & Emili, A. (2015). Panorama of ancient metazoan macromolecular complexes. Nature, 525(7569), 339-344. [PubMed](https://pubmed.ncbi.nlm.nih.gov/26344197/)
+
+4. Hein, M. Y., Hubner, N. C., Poser, I., Cox, J., Nagaraj, N., Toyoda, Y., ... & Hyman, A. A. (2015). A human interactome in three quantitative dimensions organized by stoichiometries and abundances. Cell, 163(3), 712-723. [PubMed](https://pubmed.ncbi.nlm.nih.gov/26496610/)
+
+5. Kwon, S. C., Yi, H., Eichelbaum, K., Föhr, S., Fischer, B., You, K. T., ... & Kim, V. N. (2013). The RNA-binding protein repertoire of embryonic stem cells. Nature structural & molecular biology, 20(9), 1122-1130. [PubMed](https://pubmed.ncbi.nlm.nih.gov/23995758/)

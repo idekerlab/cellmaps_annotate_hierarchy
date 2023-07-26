@@ -1,0 +1,21 @@
+Feature	Number of Genes	Genes
+RNA binding	3	ERH, CCDC9B, CCDC9
+protein binding	2	ERH, CCDC9
+nucleus	2	ERH, NEMF
+methyl-CpG binding	1	ERH
+nucleobase-containing compound metabolic process	1	ERH
+pyrimidine nucleoside metabolic process	1	ERH
+cell cycle	1	ERH
+midbody	1	ERH
+methylosome	1	ERH
+exon-exon junction complex	1	CCDC9
+tRNA binding	1	NEMF
+ribosomal large subunit binding	1	NEMF
+alpha-aminoacyl-tRNA binding	1	NEMF
+nuclear export	1	NEMF
+protein-containing complex assembly	1	NEMF
+rescue of stalled ribosome	1	NEMF
+CAT tailing	1	NEMF
+ribosome-associated ubiquitin-dependent protein catabolic process	1	NEMF
+cytosol	1	NEMF
+RQC complex	1	NEMF

@@ -1,0 +1,22 @@
+Title: Intracellular Protein Transport and Membrane Interaction System
+
+Summary:
+The system of proteins analyzed in this study is primarily involved in intracellular protein transport and interactions with various cellular membranes. The majority of the proteins are found in the cytosol, intracellular membrane-bounded organelles, and the plasma membrane. Key processes performed by this system include protein binding, intracellular protein transport, and interactions with endosomes, Golgi apparatus, and endoplasmic reticulum. The system is proposed to be named the "Intracellular Protein Transport and Membrane Interaction System" to reflect its primary functions and locations within the cell. A critical goal of the analysis is to determine if this is a novel complex or if any proteins are novel members of a known complex.
+
+References:
+
+1. Stenmark, H. (2009). Rab GTPases as coordinators of vesicle traffic. Nature Reviews Molecular Cell Biology, 10(8), 513-525. [PubMed](https://pubmed.ncbi.nlm.nih.gov/19603039/)
+
+2. Cullen, P. J., & Korswagen, H. C. (2012). Sorting nexins provide diversity for retromer-dependent trafficking events. Nature Cell Biology, 14(1), 29-37. [PubMed](https://pubmed.ncbi.nlm.nih.gov/22193160/)
+
+3. Bonifacino, J. S., & Hurley, J. H. (2008). Retromer. Current Opinion in Cell Biology, 20(4), 427-436. [PubMed](https://pubmed.ncbi.nlm.nih.gov/18508253/)
+
+4. Klumperman, J., & Raposo, G. (2014). The complex ultrastructure of the endolysosomal system. Cold Spring Harbor Perspectives in Biology, 6(10), a016857. [PubMed](https://pubmed.ncbi.nlm.nih.gov/25275113/)
+
+5. Glick, B. S., & Nakano, A. (2009). Membrane traffic within the Golgi apparatus. Annual Review of Cell and Developmental Biology, 25, 113-132. [PubMed](https://pubmed.ncbi.nlm.nih.gov/19575671/)
+
+6. Dikic, I., & Elazar, Z. (2018). Mechanism and medical implications of mammalian autophagy. Nature Reviews Molecular Cell Biology, 19(6), 349-364. [PubMed](https://pubmed.ncbi.nlm.nih.gov/29479076/)
+
+7. Harterink, M., & Korswagen, H. C. (2012). Dissecting the Wnt secretion pathway: key questions on the modification and intracellular trafficking of Wnt proteins. Acta Physiologica, 204(1), 8-16. [PubMed](https://pubmed.ncbi.nlm.nih.gov/21810187/)
+
+8. Traub, L. M., & Bonifacino, J. S. (2013). Cargo recognition in clathrin-mediated endocytosis. Cold Spring Harbor Perspectives in Biology, 5(11), a016790. [PubMed](https://pubmed.ncbi.nlm.nih.gov/24086042/)

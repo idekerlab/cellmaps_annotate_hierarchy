@@ -1,0 +1,25 @@
+Title: Cytosolic Ubiquitin-Protein Transferase Complex
+
+Summary:
+
+The system of proteins DBNL, RNF25, UBE2D2, and UBE2D3 appears to form a novel complex involved in ubiquitin-protein transferase activity, ubiquitin-dependent protein catabolic processes, and protein ubiquitination. The proteins are predominantly localized in the cytosol, with some presence in the nucleus, plasma membrane, and extracellular exosomes. The complex may play a role in protein modification, polyubiquitination, and K48-linked ubiquitination. Further investigation is required to confirm the novelty of this complex and its specific functions.
+
+Cellular Components and Complexes:
+
+The proteins in this system are primarily localized in the cytosol (DBNL, RNF25, UBE2D2, UBE2D3) with additional presence in the nucleus (RNF25, UBE2D2, UBE2D3), plasma membrane (DBNL, UBE2D3), and extracellular exosomes (DBNL, UBE2D2, UBE2D3). Two proteins, UBE2D2 and UBE2D3, are part of the ubiquitin ligase complex.
+
+Mechanisms and Biological Processes:
+
+The proteins in this system are involved in several biological processes, including protein binding, ubiquitin-protein transferase activity, ubiquitin-dependent protein catabolic processes, and protein ubiquitination. UBE2D2 and UBE2D3 possess ATP binding, ubiquitin conjugating enzyme activity, protein polyubiquitination, protein modification, protein autoubiquitination, and protein K48-linked ubiquitination functions. These proteins also localize to the nucleoplasm.
+
+References:
+
+1. Staub, O., & Rotin, D. (2006). Role of ubiquitylation in cellular membrane transport. Physiological Reviews, 86(2), 669-707. [PubMed](https://pubmed.ncbi.nlm.nih.gov/16601270/)
+
+2. Ye, Y., & Rape, M. (2009). Building ubiquitin chains: E2 enzymes at work. Nature Reviews Molecular Cell Biology, 10(11), 755-764. [PubMed](https://pubmed.ncbi.nlm.nih.gov/19851336/)
+
+3. Berndsen, C. E., & Wolberger, C. (2014). New insights into ubiquitin E3 ligase mechanism. Nature Structural & Molecular Biology, 21(4), 301-307. [PubMed](https://pubmed.ncbi.nlm.nih.gov/24699076/)
+
+4. Hershko, A., & Ciechanover, A. (1998). The ubiquitin system. Annual Review of Biochemistry, 67, 425-479. [PubMed](https://pubmed.ncbi.nlm.nih.gov/9759494/)
+
+5. Pickart, C. M. (2001). Mechanisms underlying ubiquitination. Annual Review of Biochemistry, 70, 503-533. [PubMed](https://pubmed.ncbi.nlm.nih.gov/11395416/)

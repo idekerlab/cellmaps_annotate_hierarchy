@@ -1,0 +1,14 @@
+{
+    "MODEL_ANNOTATION_ROOT":"Projects/cellmaps_annotate_hierarchy/cellmaps_annotate_hierarchy/",
+    "MAP_NAME":"MuSIC2_Maps",
+    "MAP_V": "May2023",
+    "MAP_FILE": "muse_imgdim_1024_ppidim_1024_latentd_128_layered.chi_10.maxres_80.alg_leiden.pruned.expand.branch4-1",
+    "MUSIC2_CONTEXT": "You are assisting a molecular biologist in the analysis of a system of proteins that are physically close to each other and/or interact with each other.",
+    "OPENAI_API_KEY": "sk-<your key>",
+    "TEMP": 0.2, 
+    "MAX_TOKENS": 1000,
+    "RATE_PER_TOKEN": 6e-5,
+    "GPT_MODEL": "gpt-4",
+    "DOLLAR_LIMIT": 6.0,
+    "LOG_NAME": "branch4-1_"
+}

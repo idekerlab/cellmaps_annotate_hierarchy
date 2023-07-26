@@ -1,0 +1,31 @@
+Feature	Number of Genes	Genes
+membrane	3	MFSD10, PTTG1IP, RDH14
+protein binding	2	MFSD10, PTTG1IP
+nucleus	2	PTTG1IP, RDH14
+nucleoplasm	2	PTTG1IP, RDH14
+tetracycline transmembrane transporter activity	1	MFSD10
+organic anion transmembrane transporter activity	1	MFSD10
+apoptotic process	1	MFSD10
+tetracycline transmembrane transport	1	MFSD10
+sodium-independent organic anion transport	1	MFSD10
+nuclear inner membrane	1	MFSD10
+cytoplasmic vesicle membrane	1	MFSD10
+brush border membrane	1	MFSD10
+p53 binding	1	PTTG1IP
+molecular_function	1	PTTG1IP
+protein import into nucleus	1	PTTG1IP
+ protein ubiquitination	1	PTTG1IP
+negative regulation of DNA damage response, signal transduction by p53 class mediator	1	PTTG1IP
+negative regulation of intrinsic apoptotic signaling pathway by p53 class mediator	1	PTTG1IP
+cytoplasm	1	PTTG1IP
+extracellular exosome	1	PTTG1IP
+mitochondrial membrane	1	CEBPZOS
+steroid dehydrogenase activity	1	RDH14
+NADP-retinol dehydrogenase activity	1	RDH14
+11-cis-retinol dehydrogenase activity	1	RDH14
+osteoblast differentiation	1	RDH14
+retinol metabolic process	1	RDH14
+lysosomal membrane	1	RDH14
+endoplasmic reticulum	1	RDH14
+endoplasmic reticulum membrane	1	RDH14
+cytosol	1	RDH14

@@ -1,0 +1,167 @@
+Feature	Number of Genes	Genes
+protein binding	8	PDPK1, AGRN, CAVIN2, CD44, GRAMD1C, IL7R, SDC2, SDC4
+plasma membrane	8	PDPK1, AGRN, CAVIN2, CD44, GRAMD1C, IL7R, SDC2, SDC4
+cell migration	4	PDPK1, CD44, SDC2, SDC4
+cytosol	4	PDPK1, CAVIN2, CD44, IL7R
+focal adhesion	3	PDPK1, CD44, SDC4
+Golgi lumen	3	AGRN, SDC2, SDC4
+lysosomal lumen	3	AGRN, SDC2, SDC4
+extracellular exosome	3	AGRN, CD44, SDC4
+cell surface	3	CD44, SDC2, SDC4
+cytoplasm	2	PDPK1, CAVIN2
+cell projection	2	PDPK1, CD44
+signal transduction	2	AGRN, IL7R
+extracellular region	2	AGRN, IL7R
+collagen-containing extracellular matrix	2	AGRN, SDC2
+protein kinase C binding	2	CAVIN2, SDC4
+nucleoplasm	2	CAVIN2, IL7R
+membrane raft	2	CAVIN2, SDC4
+cytokine receptor activity	2	CD44, IL7R
+cytokine-mediated signaling pathway	2	CD44, IL7R
+identical protein binding	2	SDC2, SDC4
+protein serine/threonine kinase activity	1	PDPK1
+3-phosphoinositide-dependent protein kinase activity	1	PDPK1
+ATP binding	1	PDPK1
+phospholipase activator activity	1	PDPK1
+protein kinase activator activity	1	PDPK1
+phospholipase binding	1	PDPK1
+protein serine kinase activity	1	PDPK1
+type B pancreatic cell development	1	PDPK1
+protein phosphorylation	1	PDPK1
+negative regulation of protein kinase activity	1	PDPK1
+hyperosmotic response	1	PDPK1
+epidermal growth factor receptor signaling pathway	1	PDPK1
+insulin receptor signaling pathway	1	PDPK1
+ phospholipase activity	1	PDPK1
+negative regulation of cardiac muscle cell apoptotic process	1	PDPK1
+peptidyl-serine phosphorylation	1	PDPK1
+peptidyl-threonine phosphorylation	1	PDPK1
+calcium-mediated signaling	1	PDPK1
+actin cytoskeleton organization	1	PDPK1
+negative regulation of transforming growth factor beta receptor signaling pathway	1	PDPK1
+activation of protein kinase B activity	1	PDPK1
+cellular response to insulin stimulus	1	PDPK1
+negative regulation of toll-like receptor signaling pathway	1	PDPK1
+intracellular signal transduction	1	PDPK1
+ I-kappaB kinase/NF-kappaB signaling	1	PDPK1
+ mast cell degranulation	1	PDPK1
+ blood vessel endothelial cell migration	1	PDPK1
+ angiogenesis	1	PDPK1
+protein autophosphorylation	1	PDPK1
+insulin-like growth factor receptor signaling pathway	1	PDPK1
+ release of sequestered calcium ion into cytosol	1	PDPK1
+cellular response to epidermal growth factor stimulus	1	PDPK1
+extrinsic apoptotic signaling pathway	1	PDPK1
+ protein localization to plasma membrane	1	PDPK1
+ sprouting angiogenesis	1	PDPK1
+ vascular endothelial cell proliferation	1	PDPK1
+negative regulation of endothelial cell apoptotic process	1	PDPK1
+nucleus	1	PDPK1
+postsynaptic density	1	PDPK1
+membrane	1	PDPK1
+cytoplasmic vesicle	1	PDPK1
+dystroglycan binding	1	AGRN
+structural constituent of cytoskeleton	1	AGRN
+extracellular matrix structural constituent	1	AGRN
+calcium ion binding	1	AGRN
+sialic acid binding	1	AGRN
+chondroitin sulfate binding	1	AGRN
+laminin binding	1	AGRN
+heparan sulfate proteoglycan binding	1	AGRN
+cytoskeleton organization	1	AGRN
+G protein-coupled acetylcholine receptor signaling pathway	1	AGRN
+receptor clustering	1	AGRN
+ GTPase activity	1	AGRN
+clustering of voltage-gated sodium channels	1	AGRN
+ synaptic assembly at neuromuscular junction	1	AGRN
+ transcription by RNA polymerase II	1	AGRN
+synapse organization	1	AGRN
+ filopodium assembly	1	AGRN
+basement membrane	1	AGRN
+synapse	1	AGRN
+phosphatidylserine binding	1	CAVIN2
+phospholipid binding	1	CAVIN2
+plasma membrane tubulation	1	CAVIN2
+caveola	1	CAVIN2
+transmembrane signaling receptor activity	1	CD44
+collagen binding	1	CD44
+hyaluronic acid binding	1	CD44
+inflammatory response	1	CD44
+cell adhesion	1	CD44
+cell-matrix adhesion	1	CD44
+hyaluronan catabolic process	1	CD44
+ peptidyl-serine phosphorylation	1	CD44
+ heterotypic cell-cell adhesion	1	CD44
+T cell activation	1	CD44
+negative regulation of apoptotic process	1	CD44
+negative regulation of cysteine-type endopeptidase activity involved in apoptotic process	1	CD44
+negative regulation of DNA damage response, signal transduction by p53 class mediator	1	CD44
+wound healing, spreading of cells	1	CD44
+cellular response to fibroblast growth factor stimulus	1	CD44
+ peptidyl-tyrosine phosphorylation	1	CD44
+cartilage development	1	CD44
+ ERK1 and ERK2 cascade	1	CD44
+monocyte aggregation	1	CD44
+cell-cell adhesion	1	CD44
+ monocyte aggregation	1	CD44
+negative regulation of intrinsic apoptotic signaling pathway in response to DNA damage by p53 class mediator	1	CD44
+ lamellipodium morphogenesis	1	CD44
+Golgi apparatus	1	CD44
+microvillus	1	CD44
+basolateral plasma membrane	1	CD44
+apical plasma membrane	1	CD44
+secretory granule membrane	1	CD44
+lamellipodium membrane	1	CD44
+macrophage migration inhibitory factor receptor complex	1	CD44
+cholesterol binding	1	GRAMD1C
+cholesterol transfer activity	1	GRAMD1C
+intracellular sterol transport	1	GRAMD1C
+cellular response to cholesterol	1	GRAMD1C
+intermembrane lipid transfer	1	GRAMD1C
+endoplasmic reticulum membrane	1	GRAMD1C
+endoplasmic reticulum-plasma membrane contact site	1	GRAMD1C
+antigen binding	1	IL7R
+interleukin-7 receptor activity	1	IL7R
+ DNA recombination	1	IL7R
+cell morphogenesis	1	IL7R
+B cell homeostasis	1	IL7R
+T cell mediated cytotoxicity	1	IL7R
+negative regulation of T cell mediated cytotoxicity	1	IL7R
+immune response	1	IL7R
+cell surface receptor signaling pathway	1	IL7R
+ cell population proliferation	1	IL7R
+ cell size	1	IL7R
+gene expression	1	IL7R
+ gene expression	1	IL7R
+hemopoiesis	1	IL7R
+T cell differentiation in thymus	1	IL7R
+ T cell differentiation in thymus	1	IL7R
+interleukin-7-mediated signaling pathway	1	IL7R
+B cell proliferation	1	IL7R
+T cell homeostasis	1	IL7R
+ receptor signaling pathway via JAK-STAT	1	IL7R
+lymph node development	1	IL7R
+defense response to Gram-positive bacterium	1	IL7R
+negative regulation of T cell apoptotic process	1	IL7R
+ receptor signaling pathway via STAT	1	IL7R
+external side of plasma membrane	1	IL7R
+clathrin-coated endocytic vesicle membrane	1	IL7R
+PDZ domain binding	1	SDC2
+biological_process	1	SDC2
+dendrite morphogenesis	1	SDC2
+ dendrite morphogenesis	1	SDC2
+endoplasmic reticulum lumen	1	SDC2
+fibronectin binding	1	SDC4
+thrombospondin receptor activity	1	SDC4
+ureteric bud development	1	SDC4
+neural tube closure	1	SDC4
+ fibroblast migration	1	SDC4
+wound healing	1	SDC4
+negative regulation of T cell proliferation	1	SDC4
+ protein kinase activity	1	SDC4
+ stress fiber assembly	1	SDC4
+ focal adhesion assembly	1	SDC4
+inner ear receptor cell stereocilium organization	1	SDC4
+ exosomal secretion	1	SDC4
+ extracellular exosome assembly	1	SDC4
+costamere	1	SDC4

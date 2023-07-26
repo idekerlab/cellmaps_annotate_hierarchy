@@ -1,0 +1,38 @@
+Your response should be formatted as Markdown paragraphs
+Write a critical and concise analysis of this human protein system, describing your reasoning as you go and providing references to scientific papers.
+
+A critical goal of the analysis is to determine if this is a novel complex or if any proteins are novel members of a known complex
+
+Format with Title, Summary, and References sections.        
+Avoid overly general statements of how the proteins are involved in various cellular processes        
+Avoid repeating the goals of the analysis.
+
+What cellular components and complexes are involved in this system?
+What mechanisms and biological processes are performed by this system?
+Propose a name for the system to reflect the cellular location and function, and should be specific but brief. Do not compose an acronym. Place it as the title of your report
+Human Proteins: AP3S2, RABL6, AP3S1, ARHGEF18, TGFBR3.
+
+System features from GO terms: 
+protein binding: 4 proteins: RABL6, AP3S1, ARHGEF18, TGFBR3
+intracellular protein transport: 2 proteins: AP3S2, AP3S1
+Golgi to vacuole transport: 2 proteins: AP3S2, AP3S1
+anterograde axonal transport: 2 proteins: AP3S2, AP3S1
+synaptic vesicle coating: 2 proteins: AP3S2, AP3S1
+vesicle-mediated transport: 2 proteins: AP3S2, AP3S1
+clathrin-coated vesicle cargo loading, AP-3-mediated: 2 proteins: AP3S2, AP3S1
+synaptic vesicle recycling: 2 proteins: AP3S2, AP3S1
+intracellular transport: 2 proteins: AP3S2, AP3S1
+anterograde synaptic vesicle transport: 2 proteins: AP3S2, AP3S1
+platelet dense granule organization: 2 proteins: AP3S2, AP3S1
+melanosome assembly: 2 proteins: AP3S2, AP3S1
+early endosome: 2 proteins: AP3S2, AP3S1
+Golgi apparatus: 2 proteins: AP3S2, AP3S1
+AP-3 adaptor complex: 2 proteins: AP3S2, AP3S1
+cytoplasmic vesicle membrane: 2 proteins: AP3S2, AP3S1
+intracellular membrane-bounded organelle: 2 proteins: AP3S2, AP3S1
+presynapse: 2 proteins: AP3S2, AP3S1
+axon cytoplasm: 2 proteins: AP3S2, AP3S1
+cytoplasm: 2 proteins: RABL6, TGFBR3
+cytosol: 2 proteins: RABL6, ARHGEF18
+plasma membrane: 2 proteins: ARHGEF18, TGFBR3
+extracellular exosome: 2 proteins: ARHGEF18, TGFBR3

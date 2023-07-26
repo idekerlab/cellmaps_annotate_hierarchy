@@ -1,0 +1,52 @@
+Feature	Number of Genes	Genes
+protein binding	6	THOC2, ELAVL2, MSI1, THOC5, MTMR7, THOC7
+nucleoplasm	4	THOC2, WDR33, THOC5, THOC7
+RNA binding	4	ELAVL2, WDR33, MSI1, THOC7
+nucleus	4	WDR33, MSI1, THOC5, THOC7
+cytoplasm	4	MSI1, THOC5, MTMR7, THOC7
+mRNA binding	3	THOC2, MSI1, THOC5
+mRNA processing	3	THOC2, THOC5, THOC7
+mRNA export from nucleus	3	THOC2, THOC5, THOC7
+RNA splicing	3	THOC2, THOC5, THOC7
+viral mRNA export from host cell nucleus	3	THOC2, THOC5, THOC7
+transcription export complex	3	THOC2, THOC5, THOC7
+THO complex	3	THOC2, THOC5, THOC7
+THO complex part of transcription export complex	3	THOC2, THOC5, THOC7
+chromosome, telomeric region	3	THOC2, THOC5, THOC7
+nuclear speck	2	THOC2, THOC7
+protein tyrosine phosphatase activity	2	MTMR7, MDP1
+cytosol	2	MTMR7, THOC7
+poly(A)+ mRNA export from nucleus	1	THOC2
+neuron development	1	THOC2
+generation of neurons	1	THOC2
+mRNA 3'-UTR binding	1	ELAVL2
+ DNA-templated transcription	1	ELAVL2
+ribonucleoprotein complex	1	ELAVL2
+postreplication repair	1	WDR33
+mRNA polyadenylation	1	WDR33
+spermatogenesis	1	WDR33
+fibrillar center	1	WDR33
+collagen trimer	1	WDR33
+mRNA cleavage and polyadenylation specificity factor complex	1	WDR33
+poly(U) RNA binding	1	MSI1
+identical protein binding	1	MSI1
+ translation	1	MSI1
+nervous system development	1	MSI1
+central nervous system development	1	MSI1
+response to hormone	1	MSI1
+epithelial cell differentiation	1	MSI1
+polysome	1	MSI1
+monocyte differentiation	1	THOC5
+ DNA-templated transcription, elongation	1	THOC5
+primitive hemopoiesis	1	THOC5
+negative regulation of DNA damage checkpoint	1	THOC5
+phosphatidylinositol-3-phosphate phosphatase activity	1	MTMR7
+inositol bisphosphate phosphatase activity	1	MTMR7
+phosphatidylinositol-3,5-bisphosphate 3-phosphatase activity	1	MTMR7
+protein dephosphorylation	1	MTMR7
+phosphatidylinositol biosynthetic process	1	MTMR7
+phosphatidylinositol dephosphorylation	1	MTMR7
+endomembrane system	1	MTMR7
+membrane	1	MTMR7
+acid phosphatase activity	1	MDP1
+metal ion binding	1	MDP1

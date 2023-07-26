@@ -1,0 +1,27 @@
+Your response should be formatted as Markdown paragraphs
+Write a critical and concise analysis of this human protein system, describing your reasoning as you go and providing references to scientific papers.
+
+A critical goal of the analysis is to determine if this is a novel complex or if any proteins are novel members of a known complex
+
+Format with Title, Summary, and References sections.        
+Avoid overly general statements of how the proteins are involved in various cellular processes        
+Avoid repeating the goals of the analysis.
+
+What cellular components and complexes are involved in this system?
+What mechanisms and biological processes are performed by this system?
+Propose a name for the system to reflect the cellular location and function, and should be specific but brief. Do not compose an acronym. Place it as the title of your report
+Human Proteins: TOP3B, TDRD3, PCDHA6, PCDHGA10, PCDHGA11, PCDHGA4, PCDHGA5, PCDHGA6, PCDHGB2, PCDHGB4, PCDHGB5, PCDHGB7, PCDHGC3, PCDHGC4.
+
+System features from GO terms: 
+calcium ion binding: 12 proteins: PCDHA6, PCDHGA10, PCDHGA11, PCDHGA4, PCDHGA5, PCDHGA6, PCDHGB2, PCDHGB4, PCDHGB5, PCDHGB7, PCDHGC3, PCDHGC4
+cell adhesion: 12 proteins: PCDHA6, PCDHGA10, PCDHGA11, PCDHGA4, PCDHGA5, PCDHGA6, PCDHGB2, PCDHGB4, PCDHGB5, PCDHGB7, PCDHGC3, PCDHGC4
+homophilic cell adhesion via plasma membrane adhesion molecules: 12 proteins: PCDHA6, PCDHGA10, PCDHGA11, PCDHGA4, PCDHGA5, PCDHGA6, PCDHGB2, PCDHGB4, PCDHGB5, PCDHGB7, PCDHGC3, PCDHGC4
+nervous system development: 12 proteins: PCDHA6, PCDHGA10, PCDHGA11, PCDHGA4, PCDHGA5, PCDHGA6, PCDHGB2, PCDHGB4, PCDHGB5, PCDHGB7, PCDHGC3, PCDHGC4
+plasma membrane: 12 proteins: PCDHA6, PCDHGA10, PCDHGA11, PCDHGA4, PCDHGA5, PCDHGA6, PCDHGB2, PCDHGB4, PCDHGB5, PCDHGB7, PCDHGC3, PCDHGC4
+protein binding: 3 proteins: TOP3B, TDRD3, PCDHGA4
+RNA binding: 2 proteins: TOP3B, TDRD3
+nucleus: 2 proteins: TOP3B, TDRD3
+calcium-dependent cell-cell adhesion via plasma membrane cell adhesion molecules: 2 proteins: PCDHGB4, PCDHGC3
+membrane: 2 proteins: PCDHGB4, PCDHGC3
+negative regulation of neuron apoptotic process: 2 proteins: PCDHGC3, PCDHGC4
+synapse organization: 2 proteins: PCDHGC3, PCDHGC4

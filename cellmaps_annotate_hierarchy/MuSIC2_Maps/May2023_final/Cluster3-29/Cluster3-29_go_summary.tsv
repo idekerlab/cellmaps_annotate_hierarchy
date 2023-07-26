@@ -1,0 +1,115 @@
+Feature	Number of Genes	Genes
+protein binding	14	RPS6KA6, L3MBTL2, AUTS2, BCOR, CCNL1, GPATCH2L, PAF1, PCGF1, PCGF3, PCGF5, RING1, RYBP, SAP30BP, YAF2
+nucleus	14	GPATCH2, L3MBTL2, AUTS2, BCOR, BHLHE22, CCNL1, GPATCH2L, PCGF1, PCGF3, PCGF5, RING1, RYBP, SAP30BP, YAF2
+nucleoplasm	11	RPS6KA6, L3MBTL2, BCOR, PAF1, PCGF1, PCGF3, PCGF5, RING1, RYBP, SAP30BP, YAF2
+ transcription by RNA polymerase II	6	AUTS2, BHLHE22, CCNL1, PAF1, PCGF3, PCGF5
+metal ion binding	6	PCGF1, PCGF3, PCGF5, RING1, RYBP, YAF2
+ DNA-templated transcription	5	L3MBTL2, PCGF1, RYBP, SAP30BP, YAF2
+PcG protein complex	5	PCGF1, PCGF3, PCGF5, RING1, RYBP
+cytoplasm	4	RPS6KA6, AUTS2, PAF1, RYBP
+negative regulation of transcription by RNA polymerase II	4	BCOR, PAF1, PCGF1, RYBP
+chromatin remodeling	4	BCOR, PCGF1, RING1, RYBP
+PRC1 complex	4	PCGF1, PCGF3, PCGF5, RING1
+cytosol	3	RPS6KA6, RING1, YAF2
+nuclear speck	3	GPATCH2, CCNL1, RING1
+chromatin binding	3	AUTS2, PAF1, RING1
+transcription corepressor activity	3	BCOR, RYBP, YAF2
+negative regulation of DNA-templated transcription	3	BCOR, RING1, YAF2
+histone H2A-K119 monoubiquitination	3	PCGF1, PCGF3, PCGF5
+fibrillar center	2	RPS6KA6, PAF1
+nucleolus	2	RPS6KA6, GPATCH2
+nucleic acid binding	2	GPATCH2, RYBP
+ apoptotic process	2	CCNL1, RYBP
+inactivation of X chromosome by genomic imprinting	2	PCGF3, PCGF5
+X chromosome	2	PCGF3, PCGF5
+DNA binding	2	RYBP, YAF2
+transcription coregulator activity	2	RYBP, YAF2
+DNA-templated transcription	2	RYBP, YAF2
+magnesium ion binding	1	RPS6KA6
+protein kinase activity	1	RPS6KA6
+ribosomal protein S6 kinase activity	1	RPS6KA6
+ATP binding	1	RPS6KA6
+protein serine kinase activity	1	RPS6KA6
+protein phosphorylation	1	RPS6KA6
+DNA damage response, signal transduction by p53 class mediator resulting in transcription of p21 class mediator	1	RPS6KA6
+signal transduction	1	RPS6KA6
+central nervous system development	1	RPS6KA6
+negative regulation of embryonic development	1	RPS6KA6
+negative regulation of ERK1 and ERK2 cascade	1	RPS6KA6
+negative regulation of mesoderm development	1	RPS6KA6
+mitochondrion	1	RPS6KA6
+zinc ion binding	1	L3MBTL2
+methylated histone binding	1	L3MBTL2
+histone binding	1	L3MBTL2
+chromatin organization	1	L3MBTL2
+neuron migration	1	AUTS2
+ lamellipodium assembly	1	AUTS2
+actin cytoskeleton reorganization	1	AUTS2
+ Rac protein signal transduction	1	AUTS2
+axon extension	1	AUTS2
+ histone H3-K4 methylation	1	AUTS2
+dendrite extension	1	AUTS2
+ histone H4-K16 acetylation	1	AUTS2
+cellular_component	1	AUTS2
+actin cytoskeleton	1	AUTS2
+growth cone	1	AUTS2
+transcription cis-regulatory region binding	1	BCOR
+RNA polymerase II transcription regulatory region sequence-specific DNA binding	1	BCOR
+ubiquitin-protein transferase activity	1	BCOR
+heat shock protein binding	1	BCOR
+histone deacetylase binding	1	BCOR
+DNA-binding transcription factor binding	1	BCOR
+blastocyst hatching	1	BCOR
+heart development	1	BCOR
+negative regulation of bone mineralization	1	BCOR
+odontogenesis	1	BCOR
+roof of mouth development	1	BCOR
+specification of axis polarity	1	BCOR
+negative regulation of tooth mineralization	1	BCOR
+BCOR complex	1	BCOR
+DNA-binding transcription factor activity, RNA polymerase II-specific	1	BHLHE22
+DNA-binding transcription factor activity	1	BHLHE22
+protein dimerization activity	1	BHLHE22
+E-box binding	1	BHLHE22
+sequence-specific double-stranded DNA binding	1	BHLHE22
+sensory organ development	1	BHLHE22
+neuron fate commitment	1	BHLHE22
+axon development	1	BHLHE22
+chromatin	1	BHLHE22
+cyclin-dependent protein serine/threonine kinase regulator activity	1	CCNL1
+ RNA splicing	1	CCNL1
+ centrosome cycle	1	CCNL1
+ cell cycle	1	CCNL1
+cyclin-dependent protein kinase holoenzyme complex	1	CCNL1
+RNA binding	1	FBRSL1
+RNA polymerase II complex binding	1	PAF1
+endodermal cell fate commitment	1	PAF1
+transcription elongation by RNA polymerase II	1	PAF1
+mRNA polyadenylation	1	PAF1
+Wnt signaling pathway	1	PAF1
+histone modification	1	PAF1
+stem cell population maintenance	1	PAF1
+ mRNA 3'-end processing	1	PAF1
+protein localization to nucleus	1	PAF1
+negative regulation of myeloid cell differentiation	1	PAF1
+cellular response to lipopolysaccharide	1	PAF1
+ cell cycle G1/S phase transition	1	PAF1
+membrane	1	PAF1
+Cdc73/Paf1 complex	1	PAF1
+intracellular membrane-bounded organelle	1	PAF1
+promoter-specific chromatin binding	1	PCGF1
+Golgi apparatus	1	PCGF5
+centrosome	1	PCGF5
+ubiquitin protein ligase activity	1	RING1
+ubiquitin-protein transferase activator activity	1	RING1
+anterior/posterior pattern specification	1	RING1
+histone H2A monoubiquitination	1	RING1
+camera-type eye morphogenesis	1	RING1
+ubiquitin ligase complex	1	RING1
+sex chromatin	1	RING1
+apoptotic process	1	RYBP
+negative regulation of proteasomal ubiquitin-dependent protein catabolic process	1	RYBP
+response to virus	1	SAP30BP
+modulation by host of symbiont transcription	1	SAP30BP
+intermediate filament cytoskeleton	1	SAP30BP
+transcription coactivator activity	1	YAF2

@@ -1,0 +1,61 @@
+Your response should be formatted as Markdown paragraphs
+Write a critical and concise analysis of this human protein system, describing your reasoning as you go and providing references to scientific papers.
+
+A critical goal of the analysis is to determine if this is a novel complex or if any proteins are novel members of a known complex
+
+Format with Title, Summary, and References sections.        
+Avoid overly general statements of how the proteins are involved in various cellular processes        
+Avoid repeating the goals of the analysis.
+
+What cellular components and complexes are involved in this system?
+What mechanisms and biological processes are performed by this system?
+Propose a name for the system to reflect the cellular location and function, and should be specific but brief. Do not compose an acronym. Place it as the title of your report
+Human Proteins: MALT1, CTPS2, CHP1, CPNE5, CTPS1, DNAAF2, HMGB1, MEIS2, PBX1, PBX2, PBX3, SPIDR, SWSAP1, ZSCAN20.
+
+System features from GO terms: 
+protein binding: 11 proteins: MALT1, CTPS2, CHP1, CTPS1, DNAAF2, HMGB1, MEIS2, PBX1, PBX2, SPIDR, SWSAP1
+nucleus: 9 proteins: MALT1, CHP1, HMGB1, MEIS2, PBX1, PBX2, PBX3, SWSAP1, ZSCAN20
+cytoplasm: 6 proteins: MALT1, CTPS2, CHP1, CTPS1, DNAAF2, PBX1
+ transcription by RNA polymerase II: 6 proteins: HMGB1, MEIS2, PBX1, PBX2, PBX3, ZSCAN20
+RNA polymerase II cis-regulatory region sequence-specific DNA binding: 5 proteins: MEIS2, PBX1, PBX2, PBX3, ZSCAN20
+DNA-binding transcription factor activity, RNA polymerase II-specific: 5 proteins: MEIS2, PBX1, PBX2, PBX3, ZSCAN20
+cytosol: 4 proteins: MALT1, CTPS2, CTPS1, DNAAF2
+DNA-binding transcription activator activity, RNA polymerase II-specific: 4 proteins: MEIS2, PBX1, PBX2, PBX3
+eye development: 4 proteins: MEIS2, PBX1, PBX2, PBX3
+brain development: 4 proteins: MEIS2, PBX1, PBX2, PBX3
+animal organ morphogenesis: 4 proteins: MEIS2, PBX1, PBX2, PBX3
+chromatin: 4 proteins: MEIS2, PBX1, PBX2, PBX3
+identical protein binding: 3 proteins: MALT1, CTPS2, CTPS1
+protein stabilization: 3 proteins: CHP1, DNAAF2, SWSAP1
+DNA-binding transcription factor binding: 3 proteins: HMGB1, PBX1, PBX2
+nucleoplasm: 3 proteins: HMGB1, PBX1, SPIDR
+embryonic organ development: 3 proteins: PBX1, PBX2, PBX3
+neuron development: 3 proteins: PBX1, PBX2, PBX3
+T cell proliferation: 2 proteins: MALT1, CTPS1
+ apoptotic process: 2 proteins: MALT1, HMGB1
+ cysteine-type endopeptidase activity involved in apoptotic process: 2 proteins: MALT1, HMGB1
+innate immune response: 2 proteins: MALT1, HMGB1
+perinuclear region of cytoplasm: 2 proteins: MALT1, MEIS2
+CTP synthase activity: 2 proteins: CTPS2, CTPS1
+ATP binding: 2 proteins: CTPS2, CTPS1
+CTP biosynthetic process: 2 proteins: CTPS2, CTPS1
+glutamine metabolic process: 2 proteins: CTPS2, CTPS1
+pyrimidine nucleobase biosynthetic process: 2 proteins: CTPS2, CTPS1
+'de novo' CTP biosynthetic process: 2 proteins: CTPS2, CTPS1
+cytoophidium: 2 proteins: CTPS2, CTPS1
+endoplasmic reticulum: 2 proteins: CHP1, HMGB1
+endoplasmic reticulum-Golgi intermediate compartment: 2 proteins: CHP1, HMGB1
+plasma membrane: 2 proteins: CHP1, CPNE5
+extracellular exosome: 2 proteins: CHP1, CPNE5
+metal ion binding: 2 proteins: CPNE5, ZSCAN20
+extracellular region: 2 proteins: DNAAF2, HMGB1
+transcription cis-regulatory region binding: 2 proteins: HMGB1, PBX1
+single-stranded DNA binding: 2 proteins: HMGB1, SWSAP1
+negative regulation of transcription by RNA polymerase II: 2 proteins: HMGB1, MEIS2
+DNA binding: 2 proteins: MEIS2, PBX1
+sequence-specific double-stranded DNA binding: 2 proteins: MEIS2, PBX1
+RNA polymerase II transcription regulatory region sequence-specific DNA binding: 2 proteins: PBX1, PBX2
+proximal/distal pattern formation: 2 proteins: PBX1, PBX2
+embryonic limb morphogenesis: 2 proteins: PBX1, PBX2
+transcription regulator complex: 2 proteins: PBX2, PBX3
+double-strand break repair via homologous recombination: 2 proteins: SPIDR, SWSAP1

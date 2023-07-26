@@ -1,0 +1,147 @@
+Feature	Number of Genes	Genes
+protein binding	5	CHAF1A, PROX1, STMN1, SUDS3, TBC1D2
+cytosol	5	PROX1, RPS24, STMN1, SUDS3, TBC1D2
+nucleus	4	CHAF1A, PROX1, RPS24, SUDS3
+nucleoplasm	4	PROX1, RPS24, SUDS3, TBC1D2
+cytoplasm	3	PROX1, RPS24, STMN1
+chromatin	2	CHAF1A, PROX1
+negative regulation of transcription by RNA polymerase II	2	PROX1, SUDS3
+negative regulation of DNA-templated transcription	2	PROX1, SUDS3
+membrane	2	RPS24, STMN1
+chromatin binding	1	CHAF1A
+identical protein binding	1	CHAF1A
+unfolded protein binding	1	CHAF1A
+chromo shadow domain binding	1	CHAF1A
+DNA replication	1	CHAF1A
+DNA repair	1	CHAF1A
+nucleosome assembly	1	CHAF1A
+DNA replication-dependent chromatin assembly	1	CHAF1A
+cell cycle	1	CHAF1A
+protein-containing complex	1	CHAF1A
+CAF-1 complex	1	CHAF1A
+transcription cis-regulatory region binding	1	PROX1
+RNA polymerase II cis-regulatory region sequence-specific DNA binding	1	PROX1
+DNA-binding transcription factor activity, RNA polymerase II-specific	1	PROX1
+DNA-binding transcription repressor activity, RNA polymerase II-specific	1	PROX1
+DNA binding	1	PROX1
+DNA-binding transcription factor activity	1	PROX1
+nuclear receptor binding	1	PROX1
+DNA binding domain binding	1	PROX1
+LBD domain binding	1	PROX1
+sequence-specific double-stranded DNA binding	1	PROX1
+kidney development	1	PROX1
+liver development	1	PROX1
+ endothelial cell proliferation	1	PROX1
+lymphangiogenesis	1	PROX1
+lens development in camera-type eye	1	PROX1
+hepatocyte cell migration	1	PROX1
+ transcription by RNA polymerase II	1	PROX1
+transcription by RNA polymerase II	1	PROX1
+neuroblast proliferation	1	PROX1
+negative regulation of neuroblast proliferation	1	PROX1
+brain development	1	PROX1
+circadian rhythm	1	PROX1
+ cell population proliferation	1	PROX1
+negative regulation of cell population proliferation	1	PROX1
+ gene expression	1	PROX1
+ endothelial cell migration	1	PROX1
+epithelial cell migration	1	PROX1
+dorsal spinal cord development	1	PROX1
+dentate gyrus development	1	PROX1
+cerebellar granule cell differentiation	1	PROX1
+neural tube development	1	PROX1
+skeletal muscle thin filament assembly	1	PROX1
+lung development	1	PROX1
+olfactory placode formation	1	PROX1
+pancreas development	1	PROX1
+response to nutrient levels	1	PROX1
+ circadian rhythm	1	PROX1
+otic placode formation	1	PROX1
+negative regulation of DNA-binding transcription factor activity	1	PROX1
+negative regulation of viral genome replication	1	PROX1
+ cyclin-dependent protein serine/threonine kinase activity	1	PROX1
+ cell cycle	1	PROX1
+lens placode formation involved in camera-type eye formation	1	PROX1
+neuron fate determination	1	PROX1
+venous blood vessel morphogenesis	1	PROX1
+ventricular cardiac myofibril assembly	1	PROX1
+atrial cardiac muscle tissue morphogenesis	1	PROX1
+ventricular cardiac muscle tissue morphogenesis	1	PROX1
+retina morphogenesis in camera-type eye	1	PROX1
+embryonic retina morphogenesis in camera-type eye	1	PROX1
+endocardium formation	1	PROX1
+ sarcomere organization	1	PROX1
+ventricular septum morphogenesis	1	PROX1
+aorta smooth muscle tissue morphogenesis	1	PROX1
+ heart growth	1	PROX1
+lymphatic endothelial cell differentiation	1	PROX1
+blood vessel endothelial cell differentiation	1	PROX1
+lymphatic endothelial cell fate commitment	1	PROX1
+branching involved in pancreas morphogenesis	1	PROX1
+lens fiber cell morphogenesis	1	PROX1
+hepatocyte differentiation	1	PROX1
+negative regulation of bile acid biosynthetic process	1	PROX1
+hepatocyte proliferation	1	PROX1
+acinar cell differentiation	1	PROX1
+neuronal stem cell population maintenance	1	PROX1
+ cell cycle checkpoint	1	PROX1
+ neural precursor cell proliferation	1	PROX1
+ forebrain neuron differentiation	1	PROX1
+RNA binding	1	RPS24
+structural constituent of ribosome	1	RPS24
+translation initiation factor binding	1	RPS24
+cytoplasmic translation	1	RPS24
+rRNA processing	1	RPS24
+translation	1	RPS24
+erythrocyte homeostasis	1	RPS24
+ribosomal small subunit biogenesis	1	RPS24
+nucleolus	1	RPS24
+endoplasmic reticulum	1	RPS24
+small ribosomal subunit	1	RPS24
+cytosolic ribosome	1	RPS24
+cytosolic small ribosomal subunit	1	RPS24
+small-subunit processome	1	RPS24
+tubulin binding	1	STMN1
+mitotic cytokinesis	1	STMN1
+microtubule depolymerization	1	STMN1
+mitotic spindle organization	1	STMN1
+signal transduction	1	STMN1
+axonogenesis	1	STMN1
+response to virus	1	STMN1
+ cell migration	1	STMN1
+ microtubule polymerization or depolymerization	1	STMN1
+negative regulation of microtubule polymerization	1	STMN1
+neuron projection development	1	STMN1
+negative regulation of Rho protein signal transduction	1	STMN1
+intracellular signal transduction	1	STMN1
+hepatocyte growth factor receptor signaling pathway	1	STMN1
+negative regulation of stress fiber assembly	1	STMN1
+establishment of skin barrier	1	STMN1
+negative regulation of thrombin-activated receptor signaling pathway	1	STMN1
+negative regulation of guanyl-nucleotide exchange factor activity	1	STMN1
+microtubule	1	STMN1
+neuron projection	1	STMN1
+extracellular exosome	1	STMN1
+histone deacetylase activity	1	SUDS3
+enzyme binding	1	SUDS3
+histone deacetylase binding	1	SUDS3
+chromatin remodeling	1	SUDS3
+apoptotic process	1	SUDS3
+histone deacetylation	1	SUDS3
+substantia nigra development	1	SUDS3
+negative regulation of cell migration	1	SUDS3
+negative regulation of transforming growth factor beta receptor signaling pathway	1	SUDS3
+negative regulation of stem cell population maintenance	1	SUDS3
+ stem cell population maintenance	1	SUDS3
+Sin3 complex	1	SUDS3
+nuclear body	1	SUDS3
+Sin3-type complex	1	SUDS3
+GTPase activator activity	1	TBC1D2
+cadherin binding	1	TBC1D2
+ GTPase activity	1	TBC1D2
+activation of GTPase activity	1	TBC1D2
+ cilium assembly	1	TBC1D2
+plasma membrane	1	TBC1D2
+cell junction	1	TBC1D2
+cytoplasmic vesicle	1	TBC1D2
+anchoring junction	1	TBC1D2

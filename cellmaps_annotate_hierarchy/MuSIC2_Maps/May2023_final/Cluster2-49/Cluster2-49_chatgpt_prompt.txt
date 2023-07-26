@@ -1,0 +1,40 @@
+Your response should be formatted as Markdown paragraphs
+Write a critical and concise analysis of this human protein system, describing your reasoning as you go and providing references to scientific papers.
+
+A critical goal of the analysis is to determine if this is a novel complex or if any proteins are novel members of a known complex
+
+Format with Title, Summary, and References sections.        
+Avoid overly general statements of how the proteins are involved in various cellular processes        
+Avoid repeating the goals of the analysis.
+
+What cellular components and complexes are involved in this system?
+What mechanisms and biological processes are performed by this system?
+Propose a name for the system to reflect the cellular location and function, and should be specific but brief. Do not compose an acronym. Place it as the title of your report
+Human Proteins: SEPTIN7, SEPTIN11, SEPTIN6, SEPTIN4, DECR2, SEPTIN3, SEPTIN8, CDC42EP4.
+
+System features from GO terms: 
+protein binding: 8 proteins: SEPTIN7, SEPTIN11, SEPTIN6, SEPTIN4, DECR2, SEPTIN3, SEPTIN8, CDC42EP4
+microtubule cytoskeleton: 7 proteins: SEPTIN7, SEPTIN11, SEPTIN6, SEPTIN4, SEPTIN3, SEPTIN8, CDC42EP4
+GTPase activity: 6 proteins: SEPTIN7, SEPTIN11, SEPTIN6, SEPTIN4, SEPTIN3, SEPTIN8
+GTP binding: 6 proteins: SEPTIN7, SEPTIN11, SEPTIN6, SEPTIN4, SEPTIN3, SEPTIN8
+molecular adaptor activity: 6 proteins: SEPTIN7, SEPTIN11, SEPTIN6, SEPTIN4, SEPTIN3, SEPTIN8
+cytoskeleton-dependent cytokinesis: 6 proteins: SEPTIN7, SEPTIN11, SEPTIN6, SEPTIN4, SEPTIN3, SEPTIN8
+septin ring: 6 proteins: SEPTIN7, SEPTIN11, SEPTIN6, SEPTIN4, SEPTIN3, SEPTIN8
+septin complex: 6 proteins: SEPTIN7, SEPTIN11, SEPTIN6, SEPTIN4, SEPTIN3, SEPTIN8
+cell division site: 6 proteins: SEPTIN7, SEPTIN11, SEPTIN6, SEPTIN4, SEPTIN3, SEPTIN8
+cytosol: 4 proteins: SEPTIN7, SEPTIN4, DECR2, CDC42EP4
+identical protein binding: 3 proteins: SEPTIN7, SEPTIN4, SEPTIN3
+sperm annulus: 3 proteins: SEPTIN7, SEPTIN6, SEPTIN4
+axon: 3 proteins: SEPTIN11, SEPTIN4, SEPTIN8
+structural molecule activity: 2 proteins: SEPTIN7, SEPTIN4
+spermatogenesis: 2 proteins: SEPTIN7, SEPTIN6
+cell differentiation: 2 proteins: SEPTIN7, SEPTIN6
+cilium assembly: 2 proteins: SEPTIN7, SEPTIN6
+kinetochore: 2 proteins: SEPTIN7, SEPTIN6
+stress fiber: 2 proteins: SEPTIN7, SEPTIN11
+nucleus: 2 proteins: SEPTIN7, SEPTIN4
+spindle: 2 proteins: SEPTIN7, SEPTIN6
+midbody: 2 proteins: SEPTIN7, SEPTIN6
+cleavage furrow: 2 proteins: SEPTIN7, SEPTIN6
+synaptic vesicle: 2 proteins: SEPTIN6, SEPTIN4
+presynapse: 2 proteins: SEPTIN3, SEPTIN8

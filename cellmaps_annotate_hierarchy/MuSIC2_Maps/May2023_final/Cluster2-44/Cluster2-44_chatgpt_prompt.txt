@@ -1,0 +1,35 @@
+Your response should be formatted as Markdown paragraphs
+Write a critical and concise analysis of this human protein system, describing your reasoning as you go and providing references to scientific papers.
+
+A critical goal of the analysis is to determine if this is a novel complex or if any proteins are novel members of a known complex
+
+Format with Title, Summary, and References sections.        
+Avoid overly general statements of how the proteins are involved in various cellular processes        
+Avoid repeating the goals of the analysis.
+
+What cellular components and complexes are involved in this system?
+What mechanisms and biological processes are performed by this system?
+Propose a name for the system to reflect the cellular location and function, and should be specific but brief. Do not compose an acronym. Place it as the title of your report
+Human Proteins: ACTN4, ARPC5, CLEC16A, LRP1B, ARPC1A, ARPC1B, ARPC3, IQGAP2, SH2D4A.
+
+System features from GO terms: 
+cytosol: 7 proteins: ARPC5, CLEC16A, ARPC1A, ARPC1B, ARPC3, IQGAP2, SH2D4A
+protein binding: 6 proteins: ACTN4, ARPC5, LRP1B, ARPC1B, ARPC3, SH2D4A
+actin filament binding: 6 proteins: ACTN4, ARPC5, ARPC1A, ARPC1B, ARPC3, IQGAP2
+actin cytoskeleton: 6 proteins: ACTN4, ARPC5, ARPC1A, ARPC1B, ARPC3, IQGAP2
+extracellular exosome: 6 proteins: ACTN4, ARPC5, ARPC1A, ARPC1B, ARPC3, IQGAP2
+nucleus: 5 proteins: ACTN4, ARPC5, ARPC1A, ARPC1B, ARPC3
+Arp2/3 complex-mediated actin nucleation: 5 proteins: ARPC5, ARPC1A, ARPC1B, ARPC3, IQGAP2
+cytoplasm: 4 proteins: ACTN4, ARPC5, IQGAP2, SH2D4A
+focal adhesion: 4 proteins: ACTN4, ARPC5, ARPC1B, ARPC3
+Arp2/3 protein complex: 4 proteins: ARPC5, ARPC1A, ARPC1B, ARPC3
+actin binding: 3 proteins: ACTN4, ARPC1A, IQGAP2
+actin cytoskeleton organization: 3 proteins: ACTN4, ARPC5, ARPC1A
+plasma membrane: 3 proteins: ACTN4, LRP1B, IQGAP2
+structural constituent of cytoskeleton: 3 proteins: ARPC5, ARPC1B, ARPC3
+lamellipodium: 3 proteins: ARPC5, ARPC3, IQGAP2
+site of double-strand break: 3 proteins: ARPC5, ARPC1A, ARPC3
+calcium ion binding: 2 proteins: ACTN4, LRP1B
+protein transport: 2 proteins: ACTN4, LRP1B
+extracellular region: 2 proteins: ACTN4, ARPC5
+ actin filament polymerization: 2 proteins: ARPC5, ARPC3

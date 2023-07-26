@@ -1,0 +1,18 @@
+Title: Mitochondrial Respiratory Chain Supercomplex Assembly and Regulation
+
+Summary:
+The system of proteins analyzed in this study is primarily involved in the assembly and regulation of the mitochondrial respiratory chain supercomplexes, which play a crucial role in cellular respiration and energy production. The majority of the proteins are localized to the mitochondrion and mitochondrial inner membrane, with several proteins also found in the nucleus and cytosol. Key biological processes performed by this system include mitochondrial electron transport, proton transmembrane transport, and regulation of apoptosis. The analysis suggests that this system represents a novel complex or may contain novel members of known complexes involved in the assembly and regulation of mitochondrial respiratory chain supercomplexes.
+
+References:
+
+1. Acín-Pérez, R., Fernández-Silva, P., Peleato, M. L., Pérez-Martos, A., & Enriquez, J. A. (2008). Respiratory active mitochondrial supercomplexes. Molecular Cell, 32(4), 529-539. [PubMed](https://pubmed.ncbi.nlm.nih.gov/19026782/)
+
+2. Letts, J. A., & Sazanov, L. A. (2017). Clarifying the supercomplex: the higher-order organization of the mitochondrial electron transport chain. Nature Structural & Molecular Biology, 24(10), 800-808. [PubMed](https://pubmed.ncbi.nlm.nih.gov/28967997/)
+
+3. Wu, M., Gu, J., Guo, R., Huang, Y., & Yang, M. (2016). Structure of Mammalian Respiratory Supercomplex I1III2IV1. Cell, 167(6), 1598-1609.e10. [PubMed](https://pubmed.ncbi.nlm.nih.gov/27912062/)
+
+4. Schägger, H., & Pfeiffer, K. (2000). Supercomplexes in the respiratory chains of yeast and mammalian mitochondria. The EMBO Journal, 19(8), 1777-1783. [PubMed](https://pubmed.ncbi.nlm.nih.gov/10775265/)
+
+5. Mourier, A., Matic, S., Ruzzenente, B., Larsson, N. G., & Milenkovic, D. (2014). The respiratory chain supercomplex organization is independent of COX7a2l isoforms. Cell Metabolism, 20(6), 1069-1075. [PubMed](https://pubmed.ncbi.nlm.nih.gov/25440059/)
+
+6. Cogliati, S., Calvo, E., Loureiro, M., Guaras, A. M., Nieto-Arellano, R., Garcia-Poyatos, C., ... & Enriquez, J. A. (2016). Mechanism of super-assembly of respiratory complexes III and IV. Nature, 539(7630), 579-582. [PubMed](https://pubmed.ncbi.nlm.nih.gov/27820943/)

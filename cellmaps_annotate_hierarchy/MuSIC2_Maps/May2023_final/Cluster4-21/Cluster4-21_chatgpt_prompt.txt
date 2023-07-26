@@ -1,0 +1,34 @@
+Your response should be formatted as Markdown paragraphs
+Write a critical and concise analysis of this human protein system, describing your reasoning as you go and providing references to scientific papers.
+
+A critical goal of the analysis is to determine if this is a novel complex or if any proteins are novel members of a known complex
+
+Format with Title, Summary, and References sections.        
+Avoid overly general statements of how the proteins are involved in various cellular processes        
+Avoid repeating the goals of the analysis.
+
+What cellular components and complexes are involved in this system?
+What mechanisms and biological processes are performed by this system?
+Propose a name for the system to reflect the cellular location and function, and should be specific but brief. Do not compose an acronym. Place it as the title of your report
+Human Proteins: TARS3, PPP6R1, ADSL, CDK3, EPRS1, PPP6R2, USP10, QARS1, SDCBP, LARS1, MARS1.
+
+System features from GO terms: 
+protein binding: 9 proteins: TARS3, PPP6R1, CDK3, EPRS1, PPP6R2, USP10, QARS1, SDCBP, LARS1
+cytosol: 9 proteins: PPP6R1, ADSL, EPRS1, PPP6R2, USP10, QARS1, SDCBP, LARS1, MARS1
+cytoplasm: 8 proteins: TARS3, CDK3, EPRS1, USP10, QARS1, SDCBP, LARS1, MARS1
+ATP binding: 6 proteins: TARS3, CDK3, EPRS1, QARS1, LARS1, MARS1
+nucleus: 6 proteins: TARS3, PPP6R1, CDK3, PPP6R2, USP10, SDCBP
+identical protein binding: 4 proteins: TARS3, ADSL, EPRS1, SDCBP
+tRNA aminoacylation for protein translation: 4 proteins: EPRS1, QARS1, LARS1, MARS1
+aminoacyl-tRNA synthetase multienzyme complex: 4 proteins: EPRS1, QARS1, LARS1, MARS1
+protein-containing complex: 3 proteins: ADSL, USP10, QARS1
+membrane: 3 proteins: EPRS1, SDCBP, MARS1
+protein phosphatase regulator activity: 2 proteins: PPP6R1, PPP6R2
+protein phosphatase binding: 2 proteins: PPP6R1, PPP6R2
+ phosphoprotein phosphatase activity: 2 proteins: PPP6R1, PPP6R2
+DNA damage response: 2 proteins: CDK3, USP10
+plasma membrane: 2 proteins: EPRS1, SDCBP
+nucleoplasm: 2 proteins: USP10, SDCBP
+glutamine-tRNA ligase activity: 2 proteins: QARS1, LARS1
+glutaminyl-tRNA aminoacylation: 2 proteins: QARS1, LARS1
+extracellular exosome: 2 proteins: SDCBP, MARS1

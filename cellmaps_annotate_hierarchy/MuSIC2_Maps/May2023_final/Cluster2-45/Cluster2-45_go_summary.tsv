@@ -1,0 +1,182 @@
+Feature	Number of Genes	Genes
+DNA-binding transcription factor activity, RNA polymerase II-specific	8	CREB5, FOSL2, ATF7, ATF2, FOSL1, JUN, JUNB, JUND
+protein binding	8	CREB5, FOSL2, ATF7, ATF2, FOSL1, JUN, JUNB, JUND
+ transcription by RNA polymerase II	8	CREB5, FOSL2, ATF7, ATF2, FOSL1, JUN, JUNB, JUND
+chromatin	8	CREB5, FOSL2, ATF7, ATF2, FOSL1, JUN, JUNB, JUND
+nucleus	8	CREB5, FOSL2, ATF7, ATF2, FOSL1, JUN, JUNB, JUND
+sequence-specific double-stranded DNA binding	7	CREB5, ATF7, ATF2, FOSL1, JUN, JUNB, JUND
+nucleoplasm	7	FOSL2, ATF7, ATF2, FOSL1, JUN, JUNB, JUND
+RNA polymerase II transcription regulator complex	7	FOSL2, ATF7, ATF2, FOSL1, JUN, JUNB, JUND
+DNA-binding transcription factor activity	6	CREB5, FOSL2, ATF7, ATF2, FOSL1, JUN
+RNA polymerase II cis-regulatory region sequence-specific DNA binding	6	FOSL2, ATF2, FOSL1, JUN, JUNB, JUND
+DNA-binding transcription activator activity, RNA polymerase II-specific	6	FOSL2, ATF2, FOSL1, JUN, JUNB, JUND
+cAMP response element binding	4	CREB5, ATF7, ATF2, JUN
+ DNA-templated transcription	4	CREB5, ATF7, ATF2, JUN
+ cell population proliferation	4	FOSL1, JUN, JUNB, JUND
+ cell cycle	4	FOSL1, JUN, JUNB, JUND
+metal ion binding	3	CREB5, ATF7, ATF2
+transcription cis-regulatory region binding	3	ATF7, JUN, JUND
+enzyme binding	3	ATF7, JUN, JUND
+negative regulation of transcription by RNA polymerase II	3	ATF2, JUN, JUND
+ DNA-binding transcription factor activity	3	ATF2, FOSL1, JUND
+integrated stress response signaling	3	FOSL1, JUN, JUNB
+transcription factor binding	3	JUN, JUNB, JUND
+cellular response to calcium ion	3	JUN, JUNB, JUND
+transcription regulator complex	3	JUN, JUNB, JUND
+transcription factor AP-1 complex	3	JUN, JUNB, JUND
+RNA polymerase II transcription regulatory region sequence-specific DNA binding	2	FOSL2, ATF2
+chromatin binding	2	FOSL2, JUN
+ fibroblast proliferation	2	FOSL2, JUN
+cytoplasm	2	ATF7, ATF2
+identical protein binding	2	ATF2, JUN
+RNA polymerase II-specific DNA-binding transcription factor binding	2	ATF2, JUN
+in utero embryonic development	2	ATF2, FOSL1
+liver development	2	ATF2, JUN
+outflow tract morphogenesis	2	ATF2, JUN
+response to organic cyclic compound	2	ATF2, JUND
+cellular response to anisomycin	2	ATF2, JUN
+ transcription from RNA polymerase II promoter involved in cellular response to chemical stimulus	2	ATF2, JUN
+negative regulation of cell population proliferation	2	FOSL1, JUN
+response to xenobiotic stimulus	2	FOSL1, JUN
+response to mechanical stimulus	2	FOSL1, JUND
+ apoptotic process	2	FOSL1, JUN
+ miRNA transcription	2	FOSL1, JUN
+ DNA-templated transcription initiation	2	FOSL1, JUN
+DNA binding	2	JUN, JUNB
+transcription repressor complex	2	JUN, JUND
+extracellular exosome	1	CREB5
+keratinocyte development	1	FOSL2
+cell death	1	FOSL2
+transcription coactivator binding	1	ATF7
+mitogen-activated protein kinase binding	1	ATF7
+chromosome, telomeric region	1	ATF7
+cis-regulatory region sequence-specific DNA binding	1	ATF2
+histone acetyltransferase activity	1	ATF2
+cAMP response element binding protein binding	1	ATF2
+histone H4 acetyltransferase activity	1	ATF2
+protein kinase binding	1	ATF2
+protein homodimerization activity	1	ATF2
+leucine zipper domain binding	1	ATF2
+histone H2B acetyltransferase activity	1	ATF2
+protein-containing complex binding	1	ATF2
+protein heterodimerization activity	1	ATF2
+promoter-specific chromatin binding	1	ATF2
+NK T cell differentiation	1	ATF2
+ protein phosphorylation	1	ATF2
+hematopoietic progenitor cell differentiation	1	ATF2
+brainstem development	1	ATF2
+growth plate cartilage chondrocyte differentiation	1	ATF2
+growth plate cartilage chondrocyte proliferation	1	ATF2
+protein import into nucleus	1	ATF2
+response to osmotic stress	1	ATF2
+DNA damage response	1	ATF2
+vacuole organization	1	ATF2
+JNK cascade	1	ATF2
+response to water deprivation	1	ATF2
+ gene expression	1	ATF2
+negative regulation of angiogenesis	1	ATF2
+peptidyl-threonine phosphorylation	1	ATF2
+abducens nucleus development	1	ATF2
+hypoglossal nucleus development	1	ATF2
+facial nucleus development	1	ATF2
+BMP signaling pathway	1	ATF2
+mitotic intra-S DNA damage checkpoint signaling	1	ATF2
+ transforming growth factor beta2 production	1	ATF2
+cellular response to oxidative stress	1	ATF2
+p38MAPK cascade	1	ATF2
+mRNA transcription by RNA polymerase II	1	ATF2
+ neuron apoptotic process	1	ATF2
+cellular lipid metabolic process	1	ATF2
+transcription initiation-coupled chromatin remodeling	1	ATF2
+negative regulation of epithelial cell proliferation	1	ATF2
+white fat cell differentiation	1	ATF2
+neurofilament cytoskeleton organization	1	ATF2
+detection of cell density	1	ATF2
+adipose tissue development	1	ATF2
+motor neuron apoptotic process	1	ATF2
+amelogenesis	1	ATF2
+hepatocyte apoptotic process	1	ATF2
+cellular response to virus	1	ATF2
+ cardiac muscle myoblast proliferation	1	ATF2
+ mitochondrial membrane permeability involved in apoptotic process	1	ATF2
+apoptotic process involved in development	1	ATF2
+intrinsic apoptotic signaling pathway in response to hypoxia	1	ATF2
+cellular response to leucine starvation	1	ATF2
+mitochondrial outer membrane	1	ATF2
+CCAAT-binding factor complex	1	ATF2
+site of double-strand break	1	ATF2
+H4 histone acetyltransferase complex	1	ATF2
+chemotaxis	1	FOSL1
+cellular defense response	1	FOSL1
+vitellogenesis	1	FOSL1
+female pregnancy	1	FOSL1
+learning	1	FOSL1
+response to virus	1	FOSL1
+response to gravity	1	FOSL1
+cellular response to extracellular stimulus	1	FOSL1
+response to progesterone	1	FOSL1
+response to cytokine	1	FOSL1
+response to hydrogen peroxide	1	FOSL1
+response to corticosterone	1	FOSL1
+response to cAMP	1	FOSL1
+placenta blood vessel development	1	FOSL1
+cytosol	1	FOSL1
+presynaptic membrane	1	FOSL1
+neuron projection	1	FOSL1
+DNA-binding transcription repressor activity, RNA polymerase II-specific	1	JUN
+RNA binding	1	JUN
+GTPase activator activity	1	JUN
+ubiquitin protein ligase binding	1	JUN
+ubiquitin-like protein ligase binding	1	JUN
+R-SMAD binding	1	JUN
+general transcription initiation factor binding	1	JUN
+angiogenesis	1	JUN
+microglial cell activation	1	JUN
+ endothelial cell proliferation	1	JUN
+apoptotic process	1	JUN
+transforming growth factor beta receptor signaling pathway	1	JUN
+cell population proliferation	1	JUN
+ epithelial cell migration	1	JUN
+monocyte differentiation	1	JUN
+axon regeneration	1	JUN
+negative regulation of protein autophosphorylation	1	JUN
+cellular response to reactive oxygen species	1	JUN
+leading edge cell differentiation	1	JUN
+response to muscle stretch	1	JUN
+negative regulation of DNA binding	1	JUN
+negative regulation of neuron apoptotic process	1	JUN
+negative regulation by host of viral transcription	1	JUN
+positive regulation by host of viral transcription	1	JUN
+negative regulation of DNA-templated transcription	1	JUN
+SMAD protein signal transduction	1	JUN
+eyelid development in camera-type eye	1	JUN
+ ERK1 and ERK2 cascade	1	JUN
+cellular response to cadmium ion	1	JUN
+ vascular associated smooth muscle cell proliferation	1	JUN
+negative regulation of transcription from RNA polymerase II promoter in response to endoplasmic reticulum stress	1	JUN
+nuclear chromosome	1	JUN
+euchromatin	1	JUN
+vasculogenesis	1	JUNB
+osteoblast differentiation	1	JUNB
+trophectodermal cell differentiation	1	JUNB
+osteoclast proliferation	1	JUNB
+osteoclast differentiation	1	JUNB
+osteoblast proliferation	1	JUNB
+ cell differentiation	1	JUNB
+decidualization	1	JUNB
+embryonic process involved in female pregnancy	1	JUNB
+labyrinthine layer blood vessel development	1	JUNB
+ T-helper 17 cell differentiation	1	JUNB
+transcription coregulator binding	1	JUND
+transcription coactivator activity	1	JUND
+nuclear receptor binding	1	JUND
+osteoblast development	1	JUND
+transcription by RNA polymerase II	1	JUND
+circadian rhythm	1	JUND
+response to light stimulus	1	JUND
+response to lipopolysaccharide	1	JUND
+ macrophage activation	1	JUND
+response to peptide hormone	1	JUND
+ osteoblast differentiation	1	JUND
+cellular response to hypoxia	1	JUND
+protein-DNA complex	1	JUND

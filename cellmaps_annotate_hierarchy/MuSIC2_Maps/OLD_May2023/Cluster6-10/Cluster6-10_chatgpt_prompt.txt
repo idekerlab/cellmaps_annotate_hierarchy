@@ -1,0 +1,33 @@
+Write a critical and concise analysis of this system, describing your reasoning as you go and providing references to scientific papers.         
+Format with Title, Summary, and References sections.        
+Avoid overly general statements of how the proteins are involved in various cellular processes
+        
+Avoid recapitulating the goals of the analysis. 
+What cellular components and complexes are involved in this system?
+What mechanisms and biological processes are performed by this system?
+Propose a name for the system to reflect the function and location, and should be specific but brief. Do not compose an acronym. Place it as the title of your report
+Provide complete paper references with pubmed link
+Proteins: MRPS11, DAP3, MRPS22, MRPS7, MRPS9, LRP2, MRPS10, MRPS14, MRPS15, MRPS2, MRPS21, MRPS26, MRPS27, MRPS34, MRPS5, SMG5.
+
+A critical goal of the analysis is to determine if this is a novel complex or if any proteins are novel members of a known complex
+System features from GO terms: 
+structural constituent of ribosome: 5 proteins: MRPS11, DAP3, MRPS22, MRPS7, MRPS9
+mitochondrial translation: 5 proteins: MRPS11, DAP3, MRPS22, MRPS7, MRPS9
+mitochondrial inner membrane: 5 proteins: MRPS11, DAP3, MRPS22, MRPS7, MRPS9
+mitochondrial small ribosomal subunit: 5 proteins: MRPS11, DAP3, MRPS22, MRPS7, MRPS9
+RNA binding: 4 proteins: MRPS11, DAP3, MRPS7, MRPS9
+mitochondrion: 4 proteins: MRPS11, DAP3, MRPS22, MRPS9
+protein binding: 3 proteins: MRPS11, DAP3, MRPS9
+ribosomal small subunit assembly: 2 proteins: MRPS11, MRPS7
+translation: 2 proteins: MRPS11, MRPS7
+
+ Here are the summaries of the child nodes directly branched from this parent system: 
+
+Child cluster with Genes: LRP2, MRPS10, MRPS14, MRPS15, MRPS2, MRPS21, MRPS26, MRPS27, MRPS34, MRPS5, SMG5
+The system of proteins analyzed in this study consists of LRP2, MRPS10, MRPS14, MRPS15, MRPS2, MRPS21, MRPS26, MRPS27, MRPS34, MRPS5, and SMG5. The majority of these proteins (9 out of 11) are involved in mitochondrial translation, mitochondrial inner membrane, and mitochondrial small ribosomal subunit, suggesting that this system is primarily associated with the mitochondrial small ribosomal subunit complex. The two remaining proteins, LRP2 and SMG5, are involved in protein binding and may interact with the mitochondrial small ribosomal subunit complex. This system is involved in various biological processes, including translation, RNA binding, and cell population proliferation. The proposed name for this system is the "Mitochondrial Small Ribosomal Subunit Complex with LRP2 and SMG5."
+
+Cellular Components and Complexes:
+The primary cellular components involved in this system are the mitochondrial small ribosomal subunit, mitochondrial inner membrane, and mitochondrion. The proteins MRPS10, MRPS14, MRPS15, MRPS2, MRPS21, MRPS26, MRPS27, MRPS34, and MRPS5 are all associated with these components. Additionally, LRP2 and SMG5 are involved in protein binding and may interact with the mitochondrial small ribosomal subunit complex.
+
+Mechanisms and Biological Processes:
+The main biological processes performed by this system are mitochondrial translation, RNA binding, and translation. These processes are carried out by the proteins MRPS14, MRPS15, MRPS2, MRPS21, MRPS26, MRPS34, and MRPS5, which are structural constituents of the ribosome. Furthermore, LRP2 and MRPS27 are involved in cell population proliferation, while MRPS15 and MRPS26 are associated with the nucleoplasm and nucleolus. Lastly, MRPS27 and SMG5 are found in the cytoplasm.

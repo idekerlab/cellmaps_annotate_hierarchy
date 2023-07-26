@@ -1,0 +1,268 @@
+Feature	Number of Genes	Genes
+cytosol	14	SAP18, SRPK1, ACIN1, ARRB2, CCNT2, ELL, EPB41L3, EPB41L5, GTPBP1, KIF17, PIP4K2A, PIP5K1A, PNISR, RAP1GAP2
+protein binding	13	SAP18, SRPK1, ACIN1, ARRB2, CCNT2, ELL, EPB41L3, EPB41L5, GTPBP1, PIP4K2A, PIP5K1A, RAP1GAP2, TRMT1
+nucleoplasm	13	SAP18, SRPK1, ACIN1, ARRB2, CCNT2, ELL, EPB41L5, GPATCH1, PDCD7, PIP4K2A, PIP5K1A, PNISR, TRMT1
+plasma membrane	11	SRPK1, ACIN1, ARRB2, CCNT2, EPB41L3, EPB41L5, NKTR, PIP4K2A, PIP5K1A, PNISR, RAP1GAP2
+nucleus	9	SAP18, SRPK1, ACIN1, ARRB2, CCNT2, GPATCH1, NKTR, PIP5K1A, TRMT1
+RNA binding	7	SAP18, SRPK1, ACIN1, GPATCH1, GTPBP1, PNISR, TRMT1
+nuclear speck	6	SAP18, SRPK1, ACIN1, ELL, PIP5K1A, PNISR
+RNA splicing	4	SAP18, SRPK1, ACIN1, PDCD7
+ATP binding	4	SRPK1, KIF17, PIP4K2A, PIP5K1A
+cytoplasm	4	SRPK1, ARRB2, NKTR, RAP1GAP2
+photoreceptor inner segment	3	EPB41L5, KIF17, PIP4K2A
+ transcription by RNA polymerase II	2	SAP18, CCNT2
+mRNA processing	2	SAP18, ACIN1
+nuclear body	2	SAP18, ELL
+ASAP complex	2	SAP18, ACIN1
+ATP hydrolysis activity	2	ACIN1, KIF17
+enzyme binding	2	ACIN1, ARRB2
+protein domain specific binding	2	ARRB2, EPB41L5
+transcription by RNA polymerase II	2	ARRB2, CCNT2
+protein transport	2	ARRB2, KIF17
+cell chemotaxis	2	ARRB2, PIP5K1A
+ DNA-templated transcription, elongation	2	CCNT2, ELL
+perinuclear region of cytoplasm	2	CCNT2, RAP1GAP2
+in utero embryonic development	2	ELL, EPB41L5
+apoptotic process	2	EPB41L3, PDCD7
+actomyosin structure organization	2	EPB41L3, EPB41L5
+protein localization to plasma membrane	2	EPB41L3, PIP5K1A
+cytoskeleton	2	EPB41L3, EPB41L5
+focal adhesion	2	EPB41L5, PIP5K1A
+ruffle membrane	2	EPB41L5, PIP5K1A
+signal transduction	2	GTPBP1, PIP5K1A
+photoreceptor outer segment	2	KIF17, PIP4K2A
+1-phosphatidylinositol-4-phosphate 5-kinase activity	2	PIP4K2A, PIP5K1A
+phosphorylation	2	PIP4K2A, PIP5K1A
+activation of GTPase activity	2	PIP5K1A, RAP1GAP2
+transcription corepressor activity	1	SAP18
+transcription factor binding	1	SAP18
+ alternative mRNA splicing, via spliceosome	1	SAP18
+ apoptotic process	1	SAP18
+negative regulation of DNA-templated transcription	1	SAP18
+negative regulation of mRNA splicing, via spliceosome	1	SAP18
+histone deacetylase complex	1	SAP18
+magnesium ion binding	1	SRPK1
+protein kinase activity	1	SRPK1
+protein serine/threonine kinase activity	1	SRPK1
+protein serine kinase activity	1	SRPK1
+spliceosomal complex assembly	1	SRPK1
+protein phosphorylation	1	SRPK1
+chromosome segregation	1	SRPK1
+peptidyl-serine phosphorylation	1	SRPK1
+sperm DNA condensation	1	SRPK1
+intracellular signal transduction	1	SRPK1
+ viral genome replication	1	SRPK1
+negative regulation of viral genome replication	1	SRPK1
+innate immune response	1	SRPK1
+ mRNA splicing, via spliceosome	1	SRPK1
+ mRNA processing	1	SRPK1
+chromatin	1	SRPK1
+endoplasmic reticulum	1	SRPK1
+nuclear matrix	1	SRPK1
+nucleic acid binding	1	ACIN1
+erythrocyte differentiation	1	ACIN1
+apoptotic chromosome condensation	1	ACIN1
+ monocyte differentiation	1	ACIN1
+G protein-coupled receptor binding	1	ARRB2
+signaling receptor binding	1	ARRB2
+ubiquitin protein ligase binding	1	ARRB2
+alpha-1A adrenergic receptor binding	1	ARRB2
+alpha-1B adrenergic receptor binding	1	ARRB2
+angiotensin receptor binding	1	ARRB2
+type 1 angiotensin receptor binding	1	ARRB2
+D1 dopamine receptor binding	1	ARRB2
+follicle-stimulating hormone receptor binding	1	ARRB2
+type 2A serotonin receptor binding	1	ARRB2
+platelet activating factor receptor binding	1	ARRB2
+identical protein binding	1	ARRB2
+protein kinase B binding	1	ARRB2
+protein-containing complex binding	1	ARRB2
+mitogen-activated protein kinase binding	1	ARRB2
+molecular adaptor activity	1	ARRB2
+14-3-3 protein binding	1	ARRB2
+arrestin family protein binding	1	ARRB2
+negative regulation of protein phosphorylation	1	ARRB2
+G protein-coupled receptor internalization	1	ARRB2
+desensitization of G protein-coupled receptor signaling pathway by arrestin	1	ARRB2
+ receptor internalization	1	ARRB2
+transforming growth factor beta receptor signaling pathway	1	ARRB2
+dopamine receptor signaling pathway	1	ARRB2
+brain development	1	ARRB2
+adult walking behavior	1	ARRB2
+ gene expression	1	ARRB2
+protein ubiquitination	1	ARRB2
+negative regulation of protein ubiquitination	1	ARRB2
+receptor internalization	1	ARRB2
+negative regulation of NF-kappaB transcription factor activity	1	ARRB2
+ synaptic transmission, dopaminergic	1	ARRB2
+negative regulation of interleukin-1 beta production	1	ARRB2
+negative regulation of interleukin-12 production	1	ARRB2
+negative regulation of interleukin-6 production	1	ARRB2
+negative regulation of tumor necrosis factor production	1	ARRB2
+ collagen biosynthetic process	1	ARRB2
+ peptidyl-serine phosphorylation	1	ARRB2
+negative regulation of toll-like receptor signaling pathway	1	ARRB2
+negative regulation of GTPase activity	1	ARRB2
+negative regulation of smooth muscle cell apoptotic process	1	ARRB2
+follicle-stimulating hormone signaling pathway	1	ARRB2
+negative regulation of I-kappaB kinase/NF-kappaB signaling	1	ARRB2
+negative regulation of cysteine-type endopeptidase activity involved in apoptotic process	1	ARRB2
+proteasome-mediated ubiquitin-dependent protein catabolic process	1	ARRB2
+negative regulation of neuron apoptotic process	1	ARRB2
+negative regulation of natural killer cell mediated cytotoxicity	1	ARRB2
+ peptidyl-tyrosine phosphorylation	1	ARRB2
+detection of temperature stimulus involved in sensory perception of pain	1	ARRB2
+ protein kinase B signaling	1	ARRB2
+negative regulation of protein kinase B signaling	1	ARRB2
+ calcium ion transport	1	ARRB2
+excitatory postsynaptic potential	1	ARRB2
+ ERK1 and ERK2 cascade	1	ARRB2
+negative regulation of release of cytochrome c from mitochondria	1	ARRB2
+postsynaptic signal transduction	1	ARRB2
+ epithelial cell apoptotic process	1	ARRB2
+ DNA biosynthetic process	1	ARRB2
+ cardiac muscle cell differentiation	1	ARRB2
+endosome	1	ARRB2
+clathrin-coated pit	1	ARRB2
+postsynaptic density	1	ARRB2
+basolateral plasma membrane	1	ARRB2
+endocytic vesicle	1	ARRB2
+cytoplasmic vesicle	1	ARRB2
+dendritic spine	1	ARRB2
+postsynaptic membrane	1	ARRB2
+glutamatergic synapse	1	ARRB2
+transcription coactivator binding	1	CCNT2
+chromatin binding	1	CCNT2
+cyclin-dependent protein serine/threonine kinase activator activity	1	CCNT2
+RNA polymerase binding	1	CCNT2
+7SK snRNA binding	1	CCNT2
+ cyclin-dependent protein serine/threonine kinase activity	1	CCNT2
+cell cycle	1	CCNT2
+skeletal muscle tissue development	1	CCNT2
+early viral transcription	1	CCNT2
+late viral transcription	1	CCNT2
+cell division	1	CCNT2
+cyclin/CDK positive transcription elongation factor complex	1	CCNT2
+cis-regulatory region sequence-specific DNA binding	1	ELL
+phosphatase binding	1	ELL
+transcription elongation by RNA polymerase II	1	ELL
+ transcription elongation by RNA polymerase II	1	ELL
+snRNA transcription by RNA polymerase II	1	ELL
+snRNA transcription by RNA polymerase III	1	ELL
+ transcription by RNA polymerase III	1	ELL
+euchromatin	1	ELL
+transcription elongation factor complex	1	ELL
+Cajal body	1	ELL
+histone locus body	1	ELL
+actin binding	1	EPB41L3
+structural constituent of cytoskeleton	1	EPB41L3
+cytoskeletal protein-membrane anchor activity	1	EPB41L3
+protein localization to paranode region of axon	1	EPB41L3
+biological_process	1	EPB41L3
+ cell shape	1	EPB41L3
+cortical cytoskeleton organization	1	EPB41L3
+cortical actin cytoskeleton organization	1	EPB41L3
+paranodal junction assembly	1	EPB41L3
+myelin maintenance	1	EPB41L3
+neuron projection morphogenesis	1	EPB41L3
+protein localization to juxtaparanode region of axon	1	EPB41L3
+cell-cell junction	1	EPB41L3
+cell junction	1	EPB41L3
+axolemma	1	EPB41L3
+paranode region of axon	1	EPB41L3
+juxtaparanode region of axon	1	EPB41L3
+cytoskeletal protein binding	1	EPB41L5
+epithelial to mesenchymal transition	1	EPB41L5
+neural plate morphogenesis	1	EPB41L5
+apical constriction	1	EPB41L5
+substrate-dependent cell migration, cell attachment to substrate	1	EPB41L5
+ectoderm development	1	EPB41L5
+endoderm development	1	EPB41L5
+mesoderm migration involved in gastrulation	1	EPB41L5
+unidimensional cell growth	1	EPB41L5
+post-transcriptional regulation of gene expression	1	EPB41L5
+ epithelial cell migration	1	EPB41L5
+negative regulation of cell-cell adhesion	1	EPB41L5
+negative regulation of protein binding	1	EPB41L5
+ protein binding	1	EPB41L5
+somite rostral/caudal axis specification	1	EPB41L5
+axial mesoderm morphogenesis	1	EPB41L5
+paraxial mesoderm development	1	EPB41L5
+embryonic foregut morphogenesis	1	EPB41L5
+ focal adhesion assembly	1	EPB41L5
+ establishment of protein localization	1	EPB41L5
+left/right axis specification	1	EPB41L5
+cellular response to transforming growth factor beta stimulus	1	EPB41L5
+adherens junction	1	EPB41L5
+mRNA splicing, via spliceosome	1	GPATCH1
+catalytic step 2 spliceosome	1	GPATCH1
+translation elongation factor activity	1	GTPBP1
+GTPase activity	1	GTPBP1
+GTP binding	1	GTPBP1
+translational elongation	1	GTPBP1
+immune response	1	GTPBP1
+GTP metabolic process	1	GTPBP1
+ mRNA catabolic process	1	GTPBP1
+cytoplasmic exosome (RNase complex)	1	GTPBP1
+membrane	1	GTPBP1
+microtubule binding	1	KIF17
+plus-end-directed microtubule motor activity	1	KIF17
+vesicle-mediated transport	1	KIF17
+cell projection organization	1	KIF17
+anterograde dendritic transport of neurotransmitter receptor complex	1	KIF17
+kinesin complex	1	KIF17
+microtubule	1	KIF17
+cilium	1	KIF17
+axoneme	1	KIF17
+photoreceptor connecting cilium	1	KIF17
+dendrite cytoplasm	1	KIF17
+ciliary basal body	1	KIF17
+neuron projection	1	KIF17
+periciliary membrane compartment	1	KIF17
+peptidyl-prolyl cis-trans isomerase activity	1	NKTR
+cyclosporin A binding	1	NKTR
+protein peptidyl-prolyl isomerization	1	NKTR
+protein folding	1	NKTR
+response to glucocorticoid	1	PDCD7
+U12-type spliceosomal complex	1	PDCD7
+1-phosphatidylinositol-5-phosphate 4-kinase activity	1	PIP4K2A
+protein homodimerization activity	1	PIP4K2A
+ autophagy	1	PIP4K2A
+megakaryocyte development	1	PIP4K2A
+negative regulation of insulin receptor signaling pathway	1	PIP4K2A
+autophagosome-lysosome fusion	1	PIP4K2A
+vesicle-mediated cholesterol transport	1	PIP4K2A
+negative regulation of 1-phosphatidylinositol-4-phosphate 5-kinase activity	1	PIP4K2A
+1-phosphatidyl-1D-myo-inositol 4,5-bisphosphate biosynthetic process	1	PIP4K2A
+ autophagosome assembly	1	PIP4K2A
+lysosome	1	PIP4K2A
+autophagosome	1	PIP4K2A
+1-phosphatidylinositol-3-phosphate 5-kinase activity	1	PIP5K1A
+kinase binding	1	PIP5K1A
+1-phosphatidylinositol-5-kinase activity	1	PIP5K1A
+phosphatidylinositol-3,4-bisphosphate 5-kinase activity	1	PIP5K1A
+glycerophospholipid metabolic process	1	PIP5K1A
+phosphatidylinositol biosynthetic process	1	PIP5K1A
+phagocytosis	1	PIP5K1A
+phospholipid biosynthetic process	1	PIP5K1A
+fibroblast migration	1	PIP5K1A
+ phosphatidylinositol 3-kinase signaling	1	PIP5K1A
+cell migration	1	PIP5K1A
+keratinocyte differentiation	1	PIP5K1A
+actin cytoskeleton reorganization	1	PIP5K1A
+phosphatidylinositol phosphate biosynthetic process	1	PIP5K1A
+focal adhesion assembly	1	PIP5K1A
+ruffle assembly	1	PIP5K1A
+lamellipodium	1	PIP5K1A
+presynaptic active zone	1	PNISR
+GTPase activator activity	1	RAP1GAP2
+adaptive immune response	1	RAP1GAP2
+ cell size	1	RAP1GAP2
+ small GTPase mediated signal transduction	1	RAP1GAP2
+centrosome	1	RAP1GAP2
+nuclear membrane	1	RAP1GAP2
+tRNA binding	1	TRMT1
+tRNA (guanine-N2-)-methyltransferase activity	1	TRMT1
+metal ion binding	1	TRMT1
+tRNA N2-guanine methylation	1	TRMT1
+tRNA modification	1	TRMT1

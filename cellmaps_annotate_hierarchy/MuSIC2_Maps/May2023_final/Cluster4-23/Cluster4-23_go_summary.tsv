@@ -1,0 +1,69 @@
+Feature	Number of Genes	Genes
+protein binding	7	CNST, CSRNP1, KNL1, NUF2, PPP1R10, PPP1R2, ZFYVE16
+nucleus	3	CSRNP1, KNL1, PPP1R10
+nucleoplasm	3	KNL1, NUF2, PPP1R10
+cytosol	3	KNL1, NUF2, ZFYVE16
+membrane	2	CNST, NUF2
+intracellular membrane-bounded organelle	2	CNST, ZFYVE16
+molecular_function	2	CSRNP1, NUF2
+chromatin	2	CSRNP1, PPP1R10
+attachment of spindle microtubules to kinetochore	2	KNL1, NUF2
+cell division	2	KNL1, NUF2
+kinetochore	2	KNL1, NUF2
+nuclear body	2	KNL1, PPP1R10
+protein phosphatase inhibitor activity	2	PPP1R10, PPP1R2
+metal ion binding	2	PPP1R10, ZFYVE16
+phosphatase binding	1	CNST
+connexin binding	1	CNST
+ Golgi to plasma membrane protein transport	1	CNST
+trans-Golgi network	1	CNST
+plasma membrane	1	CNST
+transport vesicle	1	CNST
+protein-containing complex	1	CNST
+DNA-binding transcription factor activity, RNA polymerase II-specific	1	CSRNP1
+DNA-binding transcription activator activity, RNA polymerase II-specific	1	CSRNP1
+DNA-binding transcription factor activity	1	CSRNP1
+sequence-specific DNA binding	1	CSRNP1
+ transcription by RNA polymerase II	1	CSRNP1
+apoptotic process	1	CSRNP1
+post-embryonic development	1	CSRNP1
+platelet-derived growth factor receptor signaling pathway	1	CSRNP1
+skeletal system morphogenesis	1	CSRNP1
+roof of mouth development	1	CSRNP1
+face morphogenesis	1	CSRNP1
+acrosome assembly	1	KNL1
+protein localization to kinetochore	1	KNL1
+acrosomal vesicle	1	KNL1
+protein-containing complex binding	1	NUF2
+mitotic spindle organization	1	NUF2
+chromosome segregation	1	NUF2
+mitotic spindle assembly checkpoint signaling	1	NUF2
+meiotic chromosome segregation	1	NUF2
+attachment of mitotic spindle microtubules to kinetochore	1	NUF2
+kinetochore organization	1	NUF2
+chromosome, centromeric region	1	NUF2
+Ndc80 complex	1	NUF2
+DNA binding	1	PPP1R10
+RNA binding	1	PPP1R10
+protein phosphatase 1 binding	1	PPP1R10
+protein import into nucleus	1	PPP1R10
+negative regulation of cardiac muscle cell apoptotic process	1	PPP1R10
+ telomere maintenance	1	PPP1R10
+negative regulation of mitotic DNA damage checkpoint	1	PPP1R10
+chromosome, telomeric region	1	PPP1R10
+PTW/PP1 phosphatase complex	1	PPP1R10
+protein serine/threonine phosphatase inhibitor activity	1	PPP1R2
+molecular function inhibitor activity	1	PPP1R2
+glycogen metabolic process	1	PPP1R2
+generation of precursor metabolites and energy	1	PPP1R2
+ signal transduction	1	PPP1R2
+ phosphoprotein phosphatase activity	1	PPP1R2
+1-phosphatidylinositol binding	1	ZFYVE16
+phosphatidylinositol-3,4,5-trisphosphate binding	1	ZFYVE16
+protein targeting to lysosome	1	ZFYVE16
+signal transduction	1	ZFYVE16
+vesicle organization	1	ZFYVE16
+endosomal transport	1	ZFYVE16
+ endocytosis	1	ZFYVE16
+early endosome	1	ZFYVE16
+early endosome membrane	1	ZFYVE16

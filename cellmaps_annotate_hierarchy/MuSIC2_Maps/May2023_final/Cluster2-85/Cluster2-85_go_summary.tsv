@@ -1,0 +1,94 @@
+Feature	Number of Genes	Genes
+protein binding	4	CHMP1B, NUP37, SPAST, VTA1
+nucleoplasm	4	CHMP1B, NUP37, SPAST, VTA1
+cytosol	4	CHMP1B, NUP37, SPAST, VTA1
+protein transport	3	CHMP1B, NUP37, VTA1
+extracellular exosome	3	CHMP1B, SPAST, VTA1
+nuclear membrane reassembly	2	CHMP1B, SPAST
+multivesicular body assembly	2	CHMP1B, VTA1
+cell division	2	CHMP1B, NUP37
+multivesicular body sorting pathway	2	CHMP1B, VTA1
+membrane fission	2	CHMP1B, SPAST
+ESCRT III complex disassembly	2	CHMP1B, VTA1
+kinetochore	2	CHMP1B, NUP37
+nuclear pore	2	CHMP1B, NUP37
+multivesicular body	2	CHMP1B, VTA1
+endosome membrane	2	CHMP1B, VTA1
+midbody	2	CHMP1B, SPAST
+nucleus	2	NUP37, SPAST
+protein domain specific binding	1	CHMP1B
+identical protein binding	1	CHMP1B
+MIT domain binding	1	CHMP1B
+plasma membrane repair	1	CHMP1B
+autophagy	1	CHMP1B
+nucleus organization	1	CHMP1B
+mitotic metaphase plate congression	1	CHMP1B
+ centrosome duplication	1	CHMP1B
+endosome transport via multivesicular body sorting pathway	1	CHMP1B
+viral budding via host ESCRT complex	1	CHMP1B
+ubiquitin-dependent protein catabolic process via the multivesicular body sorting pathway	1	CHMP1B
+establishment of protein localization	1	CHMP1B
+late endosome to vacuole transport	1	CHMP1B
+viral budding from plasma membrane	1	CHMP1B
+vesicle fusion with vacuole	1	CHMP1B
+negative regulation of cell death	1	CHMP1B
+multivesicular body-lysosome fusion	1	CHMP1B
+midbody abscission	1	CHMP1B
+autophagosome maturation	1	CHMP1B
+ mitotic spindle assembly	1	CHMP1B
+late endosome to lysosome transport	1	CHMP1B
+autophagosome membrane	1	CHMP1B
+ESCRT III complex	1	CHMP1B
+lysosomal membrane	1	CHMP1B
+kinetochore microtubule	1	CHMP1B
+plasma membrane	1	CHMP1B
+membrane coat	1	CHMP1B
+multivesicular body membrane	1	CHMP1B
+amphisome membrane	1	CHMP1B
+nucleocytoplasmic transport	1	NUP37
+chromosome segregation	1	NUP37
+mRNA transport	1	NUP37
+nuclear envelope	1	NUP37
+nuclear pore outer ring	1	NUP37
+ATP binding	1	SPAST
+microtubule binding	1	SPAST
+microtubule severing ATPase activity	1	SPAST
+isomerase activity	1	SPAST
+ATP hydrolysis activity	1	SPAST
+alpha-tubulin binding	1	SPAST
+protein-containing complex binding	1	SPAST
+beta-tubulin binding	1	SPAST
+mitotic cytokinesis	1	SPAST
+microtubule bundle formation	1	SPAST
+endoplasmic reticulum to Golgi vesicle-mediated transport	1	SPAST
+mitotic nuclear membrane reassembly	1	SPAST
+axonogenesis	1	SPAST
+anterograde axonal transport	1	SPAST
+metabolic process	1	SPAST
+exit from mitosis	1	SPAST
+axonal transport of mitochondrion	1	SPAST
+ microtubule depolymerization	1	SPAST
+ cytokinesis	1	SPAST
+cytokinetic process	1	SPAST
+protein hexamerization	1	SPAST
+microtubule severing	1	SPAST
+mitotic spindle disassembly	1	SPAST
+protein homooligomerization	1	SPAST
+cytoskeleton-dependent cytokinesis	1	SPAST
+spindle pole	1	SPAST
+cytoplasm	1	SPAST
+endosome	1	SPAST
+endoplasmic reticulum	1	SPAST
+endoplasmic reticulum membrane	1	SPAST
+lipid droplet	1	SPAST
+centrosome	1	SPAST
+microtubule	1	SPAST
+microtubule cytoskeleton	1	SPAST
+axon	1	SPAST
+cytoplasmic vesicle	1	SPAST
+nuclear membrane	1	SPAST
+perinuclear region of cytoplasm	1	SPAST
+axon cytoplasm	1	SPAST
+macroautophagy	1	VTA1
+late endosome to vacuole transport via multivesicular body sorting pathway	1	VTA1
+intracellular membrane-bounded organelle	1	VTA1

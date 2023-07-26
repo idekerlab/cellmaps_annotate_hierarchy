@@ -1,0 +1,34 @@
+Feature	Number of Genes	Genes
+cytosol	4	SEC24C, RAB11FIP1, SEC23B, SEC24B
+protein binding	3	SEC24C, SEC23B, SEC24B
+zinc ion binding	3	SEC24C, SEC23B, SEC24B
+intracellular protein transport	3	SEC24C, SEC23B, SEC24B
+COPII-coated vesicle cargo loading	3	SEC24C, SEC23B, SEC24B
+endoplasmic reticulum membrane	3	SEC24C, SEC23B, SEC24B
+COPII vesicle coat	3	SEC24C, SEC23B, SEC24B
+endoplasmic reticulum exit site	3	SEC24C, SEC23B, SEC24B
+SNARE binding	2	SEC24C, SEC24B
+endoplasmic reticulum to Golgi vesicle-mediated transport	2	SEC24C, SEC24B
+ER to Golgi transport vesicle membrane	2	SEC24C, SEC24B
+in utero embryonic development	1	SEC24C
+small GTPase binding	1	RAB11FIP1
+protein transport	1	RAB11FIP1
+regulated exocytosis	1	RAB11FIP1
+negative regulation of adiponectin secretion	1	RAB11FIP1
+phagocytic vesicle membrane	1	RAB11FIP1
+intracellular membrane-bounded organelle	1	RAB11FIP1
+recycling endosome	1	RAB11FIP1
+GTPase activator activity	1	SEC23B
+endoplasmic reticulum	1	SEC23B
+endomembrane system	1	SEC23B
+perinuclear region of cytoplasm	1	SEC23B
+neural tube closure	1	SEC24B
+outflow tract morphogenesis	1	SEC24B
+cochlear nucleus development	1	SEC24B
+aorta morphogenesis	1	SEC24B
+auditory receptor cell stereocilium organization	1	SEC24B
+lung lobe morphogenesis	1	SEC24B
+coronary artery morphogenesis	1	SEC24B
+pulmonary artery morphogenesis	1	SEC24B
+ establishment of planar polarity involved in neural tube closure	1	SEC24B
+ cargo loading into COPII-coated vesicle	1	SEC24B

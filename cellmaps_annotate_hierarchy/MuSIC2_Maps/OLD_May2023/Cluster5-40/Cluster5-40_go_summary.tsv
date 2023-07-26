@@ -1,0 +1,36 @@
+Feature	Number of Genes	Genes
+protein binding	3	ZNHIT3, CIBAR1, PLEKHJ1
+cytoplasm	3	ZNHIT3, CIBAR1, FOXRED1
+nucleus	2	ZNHIT3, CIBAR1
+mitochondrion	2	CIBAR1, FOXRED1
+mitochondrial inner membrane	2	CIBAR1, FOXRED1
+metal ion binding	1	ZNHIT3
+nuclear thyroid hormone receptor binding	1	ZNHIT3
+maturation of LSU-rRNA from tricistronic rRNA transcript (SSU-rRNA, 5.8S rRNA, LSU-rRNA)	1	ZNHIT3
+box C/D snoRNP assembly	1	ZNHIT3
+regulation of DNA-templated transcription	1	ZNHIT3
+snoRNA localization	1	ZNHIT3
+pre-snoRNP complex	1	ZNHIT3
+phospholipid binding	1	CIBAR1
+inner mitochondrial membrane organization	1	CIBAR1
+limb morphogenesis	1	CIBAR1
+positive regulation of smoothened signaling pathway	1	CIBAR1
+cilium assembly	1	CIBAR1
+membrane organization	1	CIBAR1
+membrane tubulation	1	CIBAR1
+centriole	1	CIBAR1
+extrinsic component of membrane	1	CIBAR1
+mitochondrial crista	1	CIBAR1
+ciliary transition zone	1	CIBAR1
+ciliary basal body	1	CIBAR1
+ciliary base	1	CIBAR1
+oxidoreductase activity	1	FOXRED1
+mitochondrial respiratory chain complex I assembly	1	FOXRED1
+mitochondrial respiratory chain complex I	1	FOXRED1
+receptor recycling	1	PLEKHJ1
+endosome organization	1	PLEKHJ1
+retrograde transport, endosome to Golgi	1	PLEKHJ1
+early endosome	1	PLEKHJ1
+trans-Golgi network	1	PLEKHJ1
+cytosol	1	PLEKHJ1
+recycling endosome	1	PLEKHJ1

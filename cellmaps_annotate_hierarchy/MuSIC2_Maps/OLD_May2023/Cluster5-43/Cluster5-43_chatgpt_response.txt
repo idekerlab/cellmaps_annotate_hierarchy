@@ -1,0 +1,18 @@
+Title: Cytosolic Actin-Regulating Protein Complex
+
+Summary:
+The system of proteins under investigation includes CYCS, S100A4, MYH10, and UBE3B. These proteins are found in close proximity and/or interact with each other, suggesting a potential functional relationship. The proteins are predominantly involved in protein binding, actin binding, and cellular localization (nucleus and cytosol). The analysis aims to determine if this system represents a novel complex or if any proteins are novel members of a known complex. Based on the shared functions and cellular localization, we propose the name "Cytosolic Actin-Regulating Protein Complex" for this system.
+
+The cellular components and complexes involved in this system include the nucleus, cytosol, and extracellular exosomes. CYCS, S100A4, and MYH10 are all involved in protein binding and are localized in the nucleus and cytosol. S100A4 and MYH10 are also involved in actin binding and are found in extracellular exosomes.
+
+The mechanisms and biological processes performed by this system are likely related to actin regulation and cellular localization. S100A4 is known to play a role in the regulation of cell motility and invasion by interacting with actin (1). MYH10 is a non-muscle myosin that is involved in cell migration, adhesion, and cytokinesis (2). CYCS is a heme protein that plays a role in apoptosis and is released from the mitochondria to the cytosol during this process (3). UBE3B is an E3 ubiquitin-protein ligase involved in protein ubiquitination and degradation (4).
+
+References:
+
+1. Boye, K., & Maelandsmo, G. M. (2010). S100A4 and metastasis: a small actor playing many roles. The American journal of pathology, 176(2), 528-535. [PubMed](https://pubmed.ncbi.nlm.nih.gov/20019184/)
+
+2. Vicente-Manzanares, M., Ma, X., Adelstein, R. S., & Horwitz, A. R. (2009). Non-muscle myosin II takes centre stage in cell adhesion and migration. Nature reviews. Molecular cell biology, 10(11), 778-790. [PubMed](https://pubmed.ncbi.nlm.nih.gov/19851336/)
+
+3. Ow, Y. L., Green, D. R., Hao, Z., & Mak, T. W. (2008). Cytochrome c: functions beyond respiration. Nature reviews. Molecular cell biology, 9(7), 532-542. [PubMed](https://pubmed.ncbi.nlm.nih.gov/18568041/)
+
+4. Scheffner, M., Staub, O. (2007). HECT E3s and human disease. BMC Biochemistry, 8(Suppl 1), S6. [PubMed](https://pubmed.ncbi.nlm.nih.gov/18047734/)

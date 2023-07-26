@@ -1,0 +1,77 @@
+Feature	Number of Genes	Genes
+protein binding	3	ITGB1BP1, FLII, RAB15
+nucleus	3	ITGB1BP1, FLII, ZMYM1
+cytoplasm	3	ITGB1BP1, FLII, RAB15
+nucleoplasm	2	ITGB1BP1, FLII
+cytosol	2	ITGB1BP1, FLII
+plasma membrane	2	ITGB1BP1, RAB15
+focal adhesion	2	ITGB1BP1, FLII
+centriolar satellite	2	ITGB1BP1, FLII
+perinuclear region of cytoplasm	2	ITGB1BP1, RAB15
+GDP-dissociation inhibitor activity	1	ITGB1BP1
+integrin binding	1	ITGB1BP1
+protein kinase binding	1	ITGB1BP1
+blood vessel endothelial cell proliferation involved in sprouting angiogenesis	1	ITGB1BP1
+negative regulation of protein kinase activity	1	ITGB1BP1
+negative regulation of cell adhesion involved in substrate-bound cell migration	1	ITGB1BP1
+cell-matrix adhesion	1	ITGB1BP1
+Notch signaling pathway	1	ITGB1BP1
+integrin-mediated signaling pathway	1	ITGB1BP1
+ cell population proliferation	1	ITGB1BP1
+negative regulation of cell population proliferation	1	ITGB1BP1
+ endothelial cell migration	1	ITGB1BP1
+negative regulation of fibroblast migration	1	ITGB1BP1
+cell migration	1	ITGB1BP1
+cell differentiation	1	ITGB1BP1
+biomineral tissue development	1	ITGB1BP1
+negative regulation of protein binding	1	ITGB1BP1
+activation of protein kinase B activity	1	ITGB1BP1
+integrin activation	1	ITGB1BP1
+ cell adhesion mediated by integrin	1	ITGB1BP1
+tube formation	1	ITGB1BP1
+intracellular signal transduction	1	ITGB1BP1
+cellular response to vascular endothelial growth factor stimulus	1	ITGB1BP1
+ GTPase activity	1	ITGB1BP1
+receptor clustering	1	ITGB1BP1
+cellular response to fibroblast growth factor stimulus	1	ITGB1BP1
+ Notch signaling pathway	1	ITGB1BP1
+ transcription by RNA polymerase II	1	ITGB1BP1
+myoblast migration	1	ITGB1BP1
+ stress fiber assembly	1	ITGB1BP1
+ cell division	1	ITGB1BP1
+ focal adhesion assembly	1	ITGB1BP1
+negative regulation of focal adhesion assembly	1	ITGB1BP1
+ protein kinase B signaling	1	ITGB1BP1
+negative regulation of ERK1 and ERK2 cascade	1	ITGB1BP1
+protein localization to plasma membrane	1	ITGB1BP1
+negative regulation of cell migration involved in sprouting angiogenesis	1	ITGB1BP1
+ protein targeting to membrane	1	ITGB1BP1
+negative regulation of protein targeting to membrane	1	ITGB1BP1
+blood vessel diameter maintenance	1	ITGB1BP1
+negative regulation of substrate adhesion-dependent cell spreading	1	ITGB1BP1
+ integrin-mediated signaling pathway	1	ITGB1BP1
+ruffle	1	ITGB1BP1
+cytoskeleton	1	ITGB1BP1
+membrane	1	ITGB1BP1
+nuclear body	1	ITGB1BP1
+lamellipodium	1	ITGB1BP1
+cell periphery	1	ITGB1BP1
+actin binding	1	FLII
+phosphatidylinositol-4,5-bisphosphate binding	1	FLII
+actin filament binding	1	FLII
+actin polymerization or depolymerization	1	FLII
+myofibril assembly	1	FLII
+actin filament severing	1	FLII
+barbed-end actin filament capping	1	FLII
+brush border	1	FLII
+actin cytoskeleton	1	FLII
+GTPase activity	1	RAB15
+GTP binding	1	RAB15
+protein transport	1	RAB15
+Rab protein signal transduction	1	RAB15
+ regulated secretory pathway	1	RAB15
+cilium	1	RAB15
+endosome membrane	1	RAB15
+extracellular exosome	1	RAB15
+zinc ion binding	1	ZMYM1
+protein dimerization activity	1	ZMYM1

@@ -1,0 +1,99 @@
+Feature	Number of Genes	Genes
+cytosol	7	ARPC5, CLEC16A, ARPC1A, ARPC1B, ARPC3, IQGAP2, SH2D4A
+protein binding	6	ACTN4, ARPC5, LRP1B, ARPC1B, ARPC3, SH2D4A
+actin filament binding	6	ACTN4, ARPC5, ARPC1A, ARPC1B, ARPC3, IQGAP2
+actin cytoskeleton	6	ACTN4, ARPC5, ARPC1A, ARPC1B, ARPC3, IQGAP2
+extracellular exosome	6	ACTN4, ARPC5, ARPC1A, ARPC1B, ARPC3, IQGAP2
+nucleus	5	ACTN4, ARPC5, ARPC1A, ARPC1B, ARPC3
+Arp2/3 complex-mediated actin nucleation	5	ARPC5, ARPC1A, ARPC1B, ARPC3, IQGAP2
+cytoplasm	4	ACTN4, ARPC5, IQGAP2, SH2D4A
+focal adhesion	4	ACTN4, ARPC5, ARPC1B, ARPC3
+Arp2/3 protein complex	4	ARPC5, ARPC1A, ARPC1B, ARPC3
+actin binding	3	ACTN4, ARPC1A, IQGAP2
+actin cytoskeleton organization	3	ACTN4, ARPC5, ARPC1A
+plasma membrane	3	ACTN4, LRP1B, IQGAP2
+structural constituent of cytoskeleton	3	ARPC5, ARPC1B, ARPC3
+lamellipodium	3	ARPC5, ARPC3, IQGAP2
+site of double-strand break	3	ARPC5, ARPC1A, ARPC3
+calcium ion binding	2	ACTN4, LRP1B
+protein transport	2	ACTN4, LRP1B
+extracellular region	2	ACTN4, ARPC5
+ actin filament polymerization	2	ARPC5, ARPC3
+RNA polymerase II transcription regulatory region sequence-specific DNA binding	1	ACTN4
+nucleoside binding	1	ACTN4
+transcription coactivator activity	1	ACTN4
+RNA binding	1	ACTN4
+integrin binding	1	ACTN4
+nuclear receptor binding	1	ACTN4
+nuclear receptor coactivator activity	1	ACTN4
+chromatin DNA binding	1	ACTN4
+ubiquitin protein ligase binding	1	ACTN4
+protein homodimerization activity	1	ACTN4
+nuclear retinoic acid receptor binding	1	ACTN4
+transmembrane transporter binding	1	ACTN4
+response to hypoxia	1	ACTN4
+vesicle transport along actin filament	1	ACTN4
+ cell migration	1	ACTN4
+ sodium:proton antiporter activity	1	ACTN4
+tumor necrosis factor-mediated signaling pathway	1	ACTN4
+peroxisome proliferator activated receptor signaling pathway	1	ACTN4
+ apoptotic process	1	ACTN4
+ DNA-templated transcription	1	ACTN4
+retinoic acid receptor signaling pathway	1	ACTN4
+muscle cell development	1	ACTN4
+negative regulation of substrate adhesion-dependent cell spreading	1	ACTN4
+ NIK/NF-kappaB signaling	1	ACTN4
+ nucleic acid-templated transcription	1	ACTN4
+stress fiber	1	ACTN4
+extracellular space	1	ACTN4
+Z disc	1	ACTN4
+cell junction	1	ACTN4
+cortical actin cytoskeleton	1	ACTN4
+platelet alpha granule lumen	1	ACTN4
+pseudopodium	1	ACTN4
+protein-containing complex	1	ACTN4
+cell projection	1	ACTN4
+neuron projection	1	ACTN4
+perinuclear region of cytoplasm	1	ACTN4
+ribonucleoprotein complex	1	ACTN4
+cell migration	1	ARPC5
+secretory granule lumen	1	ARPC5
+ficolin-1-rich granule lumen	1	ARPC5
+molecular_function	1	CLEC16A
+autophagy	1	CLEC16A
+endosome to lysosome transport	1	CLEC16A
+cellular response to starvation	1	CLEC16A
+endosomal transport	1	CLEC16A
+ autophagosome maturation	1	CLEC16A
+negative regulation of autophagosome maturation	1	CLEC16A
+ TORC1 signaling	1	CLEC16A
+late endosome	1	CLEC16A
+Golgi apparatus	1	CLEC16A
+vesicle	1	CLEC16A
+endolysosome membrane	1	CLEC16A
+low-density lipoprotein particle receptor activity	1	LRP1B
+receptor-mediated endocytosis	1	LRP1B
+receptor complex	1	LRP1B
+muscle cell projection membrane	1	ARPC1A
+response to estradiol	1	ARPC1B
+response to estrogen	1	ARPC1B
+tubulobulbar complex	1	ARPC1B
+actin polymerization-dependent cell motility	1	ARPC3
+membrane	1	ARPC3
+GTPase inhibitor activity	1	IQGAP2
+GTPase activator activity	1	IQGAP2
+calmodulin binding	1	IQGAP2
+phosphatidylinositol-3,4,5-trisphosphate binding	1	IQGAP2
+small GTPase binding	1	IQGAP2
+Arp2/3 complex binding	1	IQGAP2
+signal transduction	1	IQGAP2
+ actin cytoskeleton organization	1	IQGAP2
+ GTPase activity	1	IQGAP2
+thrombin-activated receptor signaling pathway	1	IQGAP2
+mitotic actomyosin contractile ring assembly actin filament organization	1	IQGAP2
+microvillus	1	IQGAP2
+cell cortex	1	IQGAP2
+cell surface	1	IQGAP2
+filopodium	1	IQGAP2
+secretory granule membrane	1	IQGAP2
+phosphatase binding	1	SH2D4A

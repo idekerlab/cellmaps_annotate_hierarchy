@@ -1,0 +1,26 @@
+Your response should be formatted as Markdown paragraphs
+Write a critical and concise analysis of this human protein system, describing your reasoning as you go and providing references to scientific papers.
+
+A critical goal of the analysis is to determine if this is a novel complex or if any proteins are novel members of a known complex
+
+Format with Title, Summary, and References sections.        
+Avoid overly general statements of how the proteins are involved in various cellular processes        
+Avoid repeating the goals of the analysis.
+
+What cellular components and complexes are involved in this system?
+What mechanisms and biological processes are performed by this system?
+Propose a name for the system to reflect the cellular location and function, and should be specific but brief. Do not compose an acronym. Place it as the title of your report
+Human Proteins: NACC1, TTC5, WDR81, ZNF281.
+
+System features from GO terms: 
+protein binding: 4 proteins: NACC1, TTC5, WDR81, ZNF281
+nucleoplasm: 3 proteins: NACC1, TTC5, ZNF281
+RNA polymerase II cis-regulatory region sequence-specific DNA binding: 2 proteins: NACC1, ZNF281
+DNA-binding transcription factor activity, RNA polymerase II-specific: 2 proteins: NACC1, ZNF281
+DNA-binding transcription repressor activity, RNA polymerase II-specific: 2 proteins: NACC1, ZNF281
+negative regulation of transcription by RNA polymerase II: 2 proteins: NACC1, ZNF281
+ transcription by RNA polymerase II: 2 proteins: NACC1, TTC5
+negative regulation of DNA-templated transcription: 2 proteins: NACC1, ZNF281
+nucleus: 2 proteins: NACC1, ZNF281
+mitochondrion: 2 proteins: TTC5, WDR81
+cytosol: 2 proteins: TTC5, WDR81

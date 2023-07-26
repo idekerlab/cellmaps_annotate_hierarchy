@@ -1,0 +1,25 @@
+Your response should be formatted as Markdown paragraphs
+Write a critical and concise analysis of this human protein system, describing your reasoning as you go and providing references to scientific papers.
+
+A critical goal of the analysis is to determine if this is a novel complex or if any proteins are novel members of a known complex
+
+Format with Title, Summary, and References sections.        
+Avoid overly general statements of how the proteins are involved in various cellular processes        
+Avoid repeating the goals of the analysis.
+
+What cellular components and complexes are involved in this system?
+What mechanisms and biological processes are performed by this system?
+Propose a name for the system to reflect the cellular location and function, and should be specific but brief. Do not compose an acronym. Place it as the title of your report
+Human Proteins: NAPRT, GLUL, TALDO1, TFAP2D, CST3, CTSL, MAB21L4, POF1B.
+
+System features from GO terms: 
+protein binding: 6 proteins: NAPRT, GLUL, TALDO1, TFAP2D, CST3, CTSL
+extracellular exosome: 5 proteins: NAPRT, GLUL, TALDO1, CST3, CTSL
+nucleus: 4 proteins: GLUL, TALDO1, TFAP2D, CTSL
+extracellular region: 3 proteins: NAPRT, CST3, CTSL
+cytosol: 3 proteins: NAPRT, GLUL, TALDO1
+cytoplasm: 3 proteins: GLUL, TALDO1, CST3
+plasma membrane: 3 proteins: GLUL, CST3, CTSL
+identical protein binding: 2 proteins: GLUL, CST3
+extracellular space: 2 proteins: CST3, CTSL
+Golgi apparatus: 2 proteins: CST3, CTSL

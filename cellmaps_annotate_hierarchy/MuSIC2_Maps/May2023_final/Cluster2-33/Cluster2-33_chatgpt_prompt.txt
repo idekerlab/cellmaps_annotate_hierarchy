@@ -1,0 +1,86 @@
+Your response should be formatted as Markdown paragraphs
+Write a critical and concise analysis of this human protein system, describing your reasoning as you go and providing references to scientific papers.
+
+A critical goal of the analysis is to determine if this is a novel complex or if any proteins are novel members of a known complex
+
+Format with Title, Summary, and References sections.        
+Avoid overly general statements of how the proteins are involved in various cellular processes        
+Avoid repeating the goals of the analysis.
+
+What cellular components and complexes are involved in this system?
+What mechanisms and biological processes are performed by this system?
+Propose a name for the system to reflect the cellular location and function, and should be specific but brief. Do not compose an acronym. Place it as the title of your report
+Human Proteins: SPAG1, HSPA2, HSPA8, DPH2, HSPA4, BAG1, BCL9L, HSF1, HSF2, SF1, SKI, SKIL, SMAD4, GMNN, CCDC117.
+
+System features from GO terms: 
+protein binding: 13 proteins: HSPA2, HSPA8, DPH2, HSPA4, BAG1, HSF1, HSF2, SF1, SKI, SKIL, SMAD4, GMNN, CCDC117
+nucleus: 13 proteins: HSPA2, HSPA8, HSPA4, BAG1, BCL9L, HSF1, HSF2, SF1, SKI, SKIL, SMAD4, GMNN, CCDC117
+cytoplasm: 10 proteins: SPAG1, HSPA2, HSPA8, BAG1, HSF1, HSF2, SKI, SMAD4, GMNN, CCDC117
+nucleoplasm: 10 proteins: HSPA8, BAG1, BCL9L, HSF1, HSF2, SF1, SKI, SKIL, SMAD4, GMNN
+cytosol: 9 proteins: SPAG1, HSPA2, HSPA8, DPH2, HSPA4, BAG1, HSF1, SMAD4, GMNN
+ transcription by RNA polymerase II: 5 proteins: BCL9L, HSF1, HSF2, SKI, SMAD4
+RNA polymerase II cis-regulatory region sequence-specific DNA binding: 5 proteins: HSF1, HSF2, SKI, SKIL, SMAD4
+DNA-binding transcription factor activity, RNA polymerase II-specific: 5 proteins: HSF1, HSF2, SKI, SKIL, SMAD4
+identical protein binding: 5 proteins: HSF1, HSF2, SF1, SKI, SMAD4
+spermatogenesis: 4 proteins: HSPA2, HSF2, SKIL, SMAD4
+negative regulation of DNA-templated transcription: 4 proteins: HSPA8, SF1, SMAD4, GMNN
+negative regulation of transcription by RNA polymerase II: 4 proteins: HSF1, SKI, SKIL, SMAD4
+protein folding chaperone complex: 3 proteins: SPAG1, HSPA8, HSF1
+ATP binding: 3 proteins: HSPA2, HSPA8, HSPA4
+heat shock protein binding: 3 proteins: HSPA2, HSPA8, HSF1
+protein-folding chaperone binding: 3 proteins: HSPA2, HSPA8, BAG1
+ATP-dependent protein folding chaperone: 3 proteins: HSPA2, HSPA8, HSPA4
+response to unfolded protein: 3 proteins: HSPA2, HSPA8, HSPA4
+chaperone cofactor-dependent protein refolding: 3 proteins: HSPA2, HSPA8, BAG1
+membrane: 3 proteins: HSPA2, HSPA8, BAG1
+extracellular exosome: 3 proteins: HSPA2, HSPA8, HSPA4
+ubiquitin protein ligase binding: 3 proteins: HSPA8, BAG1, SKI
+protein-containing complex: 3 proteins: DPH2, SKI, SKIL
+negative regulation of transforming growth factor beta receptor signaling pathway: 3 proteins: BCL9L, SKI, SKIL
+DNA-binding transcription repressor activity, RNA polymerase II-specific: 3 proteins: HSF1, SKI, SKIL
+DNA-binding transcription activator activity, RNA polymerase II-specific: 3 proteins: HSF1, HSF2, SMAD4
+DNA-binding transcription factor activity: 3 proteins: HSF1, HSF2, SMAD4
+chromatin: 3 proteins: HSF1, HSF2, SMAD4
+centrosome: 3 proteins: HSF1, SKI, SMAD4
+transforming growth factor beta receptor signaling pathway: 3 proteins: SKI, SKIL, SMAD4
+chromatin binding: 3 proteins: SKIL, SMAD4, GMNN
+single fertilization: 2 proteins: SPAG1, SMAD4
+protein stabilization: 2 proteins: SPAG1, BAG1
+ATP hydrolysis activity: 2 proteins: HSPA2, HSPA8
+enzyme binding: 2 proteins: HSPA2, HSPA8
+protein folding chaperone: 2 proteins: HSPA2, HSPA8
+unfolded protein binding: 2 proteins: HSPA2, HSPA8
+protein refolding: 2 proteins: HSPA2, HSPA8
+negative regulation of inclusion body assembly: 2 proteins: HSPA2, HSF1
+plasma membrane: 2 proteins: HSPA2, HSPA8
+blood microparticle: 2 proteins: HSPA2, HSPA8
+RNA binding: 2 proteins: HSPA8, SF1
+mRNA splicing, via spliceosome: 2 proteins: HSPA8, SF1
+protein folding: 2 proteins: HSPA8, HSPA4
+ mRNA splicing, via spliceosome: 2 proteins: HSPA8, SF1
+ cell cycle: 2 proteins: HSPA8, SKIL
+spliceosomal complex: 2 proteins: HSPA8, SF1
+perinuclear region of cytoplasm: 2 proteins: HSPA8, HSF1
+ribonucleoprotein complex: 2 proteins: HSPA8, HSF1
+metal ion binding: 2 proteins: DPH2, SMAD4
+transcription by RNA polymerase II: 2 proteins: BCL9L, SMAD4
+ epithelial to mesenchymal transition: 2 proteins: BCL9L, SMAD4
+somatic stem cell population maintenance: 2 proteins: BCL9L, SKI
+transcription cis-regulatory region binding: 2 proteins: HSF1, SMAD4
+RNA polymerase II intronic transcription regulatory region sequence-specific DNA binding: 2 proteins: HSF1, HSF2
+DNA binding: 2 proteins: HSF1, SMAD4
+protein kinase binding: 2 proteins: HSF1, SKI
+sequence-specific DNA binding: 2 proteins: HSF1, SMAD4
+sequence-specific double-stranded DNA binding: 2 proteins: HSF1, HSF2
+ mitotic cell cycle: 2 proteins: HSF1, GMNN
+PML body: 2 proteins: HSF1, SKI
+transcription corepressor activity: 2 proteins: SF1, GMNN
+zinc ion binding: 2 proteins: SF1, SKI
+nuclear body: 2 proteins: SF1, SKI
+SMAD binding: 2 proteins: SKI, SKIL
+DNA-binding transcription factor binding: 2 proteins: SKI, GMNN
+negative regulation of cell population proliferation: 2 proteins: SKI, SMAD4
+negative regulation of BMP signaling pathway: 2 proteins: SKI, SKIL
+SMAD protein signal transduction: 2 proteins: SKI, SMAD4
+transcription regulator complex: 2 proteins: SKI, SMAD4
+transcription repressor complex: 2 proteins: SKI, GMNN

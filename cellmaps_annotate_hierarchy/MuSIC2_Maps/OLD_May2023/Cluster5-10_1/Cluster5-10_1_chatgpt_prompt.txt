@@ -1,0 +1,37 @@
+Write a critical and concise analysis of this system, describing your reasoning as you go and providing references to scientific papers.         
+Format with Title, Summary, and References sections.        
+Avoid overly general statements of how the proteins are involved in various cellular processes
+        
+Avoid recapitulating the goals of the analysis. 
+What cellular components and complexes are involved in this system?
+What mechanisms and biological processes are performed by this system?
+Propose a name for the system to reflect the function and location, and should be specific but brief. Do not compose an acronym. Place it as the title of your report
+Provide complete paper references with pubmed link
+Proteins: SLC25A6, UQCRC2, NDUFA12, ACAD9, COX6B1, MIX23, FGFR1OP2, SLC38A9, HTRA2, MTCH2, COX7A2L, TRIM3, UQCRQ, UQCRC1, SFXN3.
+
+A critical goal of the analysis is to determine if this is a novel complex or if any proteins are novel members of a known complex
+System features from GO terms: 
+mitochondrion: 12 proteins: ACAD9, MIX23, NDUFA12, UQCRQ, SLC25A6, UQCRC2, SFXN3, COX6B1, COX7A2L, HTRA2, MTCH2, UQCRC1
+protein binding: 11 proteins: ACAD9, NDUFA12, SLC25A6, UQCRC2, SFXN3, FGFR1OP2, HTRA2, TRIM3, MTCH2, SLC38A9, UQCRC1
+mitochondrial inner membrane: 8 proteins: ACAD9, NDUFA12, UQCRQ, SLC25A6, UQCRC2, COX6B1, COX7A2L, UQCRC1
+nucleus: 4 proteins: ACAD9, SLC25A6, HTRA2, MTCH2
+cellular respiration: 4 proteins: UQCRQ, UQCRC2, COX6B1, UQCRC1
+mitochondrial membrane: 3 proteins: ACAD9, SFXN3, HTRA2
+aerobic respiration: 3 proteins: NDUFA12, UQCRC2, UQCRC1
+cytosol: 3 proteins: NDUFA12, FGFR1OP2, HTRA2
+mitochondrial electron transport, ubiquinol to cytochrome c: 3 proteins: UQCRQ, UQCRC2, UQCRC1
+mitochondrial respiratory chain complex III: 3 proteins: UQCRQ, UQCRC2, UQCRC1
+membrane: 3 proteins: SLC25A6, HTRA2, MTCH2
+metal ion binding: 3 proteins: UQCRC2, SLC38A9, UQCRC1
+mitochondrial respiratory chain complex IV: 3 proteins: UQCRC2, COX6B1, COX7A2L
+proton transmembrane transport: 3 proteins: COX6B1, COX7A2L, UQCRC1
+identical protein binding: 3 proteins: FGFR1OP2, HTRA2, TRIM3
+mitochondrial respiratory chain complex I assembly: 2 proteins: ACAD9, NDUFA12
+dendrite: 2 proteins: ACAD9, TRIM3
+mitochondrial intermembrane space: 2 proteins: MIX23, HTRA2
+oxidative phosphorylation: 2 proteins: UQCRC2, UQCRC1
+proteolysis: 2 proteins: UQCRC2, HTRA2
+cytochrome-c oxidase activity: 2 proteins: COX6B1, COX7A2L
+mitochondrial electron transport, cytochrome c to oxygen: 2 proteins: COX6B1, COX7A2L
+mitochondrial respirasome: 2 proteins: COX7A2L, UQCRC1
+positive regulation of apoptotic process: 2 proteins: HTRA2, MTCH2

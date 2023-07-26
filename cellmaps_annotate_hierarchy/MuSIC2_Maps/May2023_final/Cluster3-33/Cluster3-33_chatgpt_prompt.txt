@@ -1,0 +1,58 @@
+Your response should be formatted as Markdown paragraphs
+Write a critical and concise analysis of this human protein system, describing your reasoning as you go and providing references to scientific papers.
+
+A critical goal of the analysis is to determine if this is a novel complex or if any proteins are novel members of a known complex
+
+Format with Title, Summary, and References sections.        
+Avoid overly general statements of how the proteins are involved in various cellular processes        
+Avoid repeating the goals of the analysis.
+
+What cellular components and complexes are involved in this system?
+What mechanisms and biological processes are performed by this system?
+Propose a name for the system to reflect the cellular location and function, and should be specific but brief. Do not compose an acronym. Place it as the title of your report
+Human Proteins: HSPB6, MYOM3, MFGE8, MYH15, TNNT1, ENO3, KLHL41, PRX, FABP3, BTBD1, MYH1, MYH2, MYH4, MYH6, MYH7, MYH8.
+
+System features from GO terms: 
+cytoplasm: 10 proteins: HSPB6, MYH15, KLHL41, PRX, MYH1, MYH2, MYH4, MYH6, MYH7, MYH8
+cytosol: 10 proteins: HSPB6, MYH15, TNNT1, ENO3, KLHL41, FABP3, BTBD1, MYH2, MYH6, MYH8
+protein binding: 8 proteins: TNNT1, KLHL41, PRX, FABP3, BTBD1, MYH1, MYH2, MYH7
+microfilament motor activity: 7 proteins: MYH15, MYH1, MYH2, MYH4, MYH6, MYH7, MYH8
+calmodulin binding: 7 proteins: MYH15, MYH1, MYH2, MYH4, MYH6, MYH7, MYH8
+ATP binding: 7 proteins: MYH15, MYH1, MYH2, MYH4, MYH6, MYH7, MYH8
+actin filament binding: 7 proteins: MYH15, MYH1, MYH2, MYH4, MYH6, MYH7, MYH8
+myosin II complex: 7 proteins: MYH15, MYH1, MYH2, MYH4, MYH6, MYH7, MYH8
+myosin filament: 7 proteins: MYH15, MYH1, MYH2, MYH4, MYH6, MYH7, MYH8
+muscle contraction: 6 proteins: MYH1, MYH2, MYH4, MYH6, MYH7, MYH8
+muscle myosin complex: 6 proteins: MYH1, MYH2, MYH4, MYH6, MYH7, MYH8
+myofibril: 5 proteins: MYH15, MYH2, MYH4, MYH6, MYH7
+muscle filament sliding: 5 proteins: MYH2, MYH4, MYH6, MYH7, MYH8
+sarcomere: 5 proteins: MYH2, MYH4, MYH6, MYH7, MYH8
+ATP metabolic process: 4 proteins: MYH4, MYH6, MYH7, MYH8
+nucleus: 3 proteins: HSPB6, PRX, FABP3
+extracellular space: 3 proteins: MFGE8, ENO3, FABP3
+extracellular exosome: 3 proteins: MFGE8, ENO3, FABP3
+skeletal muscle contraction: 3 proteins: TNNT1, MYH7, MYH8
+sarcomere organization: 3 proteins: TNNT1, MYH6, MYH7
+plasma membrane: 3 proteins: ENO3, KLHL41, PRX
+striated muscle contraction: 3 proteins: KLHL41, MYH6, MYH7
+protein homodimerization activity: 2 proteins: HSPB6, MYOM3
+extracellular region: 2 proteins: HSPB6, MFGE8
+M band: 2 proteins: MYOM3, KLHL41
+membrane: 2 proteins: MFGE8, ENO3
+transition between fast and slow fiber: 2 proteins: TNNT1, MYH7
+protein ubiquitination: 2 proteins: KLHL41, BTBD1
+myofibril assembly: 2 proteins: KLHL41, MYH6
+nucleoplasm: 2 proteins: KLHL41, BTBD1
+protein-containing complex: 2 proteins: BTBD1, MYH2
+cytoplasmic ribonucleoprotein granule: 2 proteins: BTBD1, MYH1
+ATP hydrolysis activity: 2 proteins: MYH4, MYH8
+myosin phosphatase activity: 2 proteins: MYH6, MYH8
+ the force of heart contraction: 2 proteins: MYH6, MYH7
+ heart rate: 2 proteins: MYH6, MYH7
+adult heart development: 2 proteins: MYH6, MYH7
+cardiac muscle hypertrophy in response to stress: 2 proteins: MYH6, MYH7
+ventricular cardiac muscle tissue morphogenesis: 2 proteins: MYH6, MYH7
+cardiac muscle contraction: 2 proteins: MYH6, MYH7
+stress fiber: 2 proteins: MYH6, MYH7
+myosin complex: 2 proteins: MYH6, MYH7
+Z disc: 2 proteins: MYH6, MYH7

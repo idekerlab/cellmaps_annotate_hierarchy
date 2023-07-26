@@ -1,0 +1,548 @@
+Feature	Number of Genes	Genes
+protein binding	39	ACSL3, CLTCL1, SLC1A3, HEATR1, NOC2L, RPN1, ATP11A, NBAS, ORC4, OTULINL, POLD3, TSG101, FANCG, ZW10, DOLK, MXRA8, PEX11B, UTP20, OSMR, WDFY3, EIPR1, INTS3, MDN1, STAG2, DCUN1D5, GJC1, STEAP3, INTS4, EXOC4, UBXN8, TNPO2, SNX30, PJA1, SLC6A15, CLDND1, CAMLG, DDX11, PACSIN1, UTP6
+membrane	22	ACSL3, CLTCL1, RETSAT, SLC1A3, ATAD1, HEATR1, PIGO, ATP13A3, RPN1, ATP11A, NBAS, SLC30A5, RNF213, ZW10, PEX11B, WDFY3, MDN1, STAG2, EXOC4, SLC6A15, CAMLG, ACSL1
+cytosol	17	CLTCL1, ATAD1, NOC2L, RPN1, NBAS, ORC4, TSG101, FANCG, RNF213, ZW10, PEX11B, WDFY3, MDN1, STAG2, EXOC4, PACSIN1, DPH6
+plasma membrane	16	ACSL3, CLTCL1, SLC1A3, TENM2, ATP11A, TSG101, FANCG, UTP20, OSMR, WDFY3, GJC1, STEAP3, EXOC4, SLC6A15, PACSIN1, ACSL1
+nucleoplasm	16	HEATR1, NOC2L, ORC4, POLD3, SLC30A5, FANCG, PEX11B, UTP20, WDFY3, INTS3, MDN1, STAG2, INTS4, UBXN8, DDX11, UTP6
+nucleolus	16	HEATR1, NOC2L, ORC4, SLC30A5, TSG101, URB2, FANCG, RNF213, UTP20, WDFY3, MDN1, STAG2, INTS4, UBXN8, DDX11, UTP6
+cytoplasm	15	OTULINL, POLD3, TSG101, RNF213, UTP20, WDFY3, INTS3, DCUN1D5, STEAP3, EXOC4, TNPO2, PJA1, CAMLG, DDX11, PACSIN1
+nucleus	14	TENM2, NOC2L, ORC4, ZW10, MXRA8, INTS3, MDN1, STAG2, DCUN1D5, INTS4, UBXN8, TNPO2, DDX11, ACTL6B
+endoplasmic reticulum membrane	13	ACSL3, RETSAT, PIGO, RPN1, ATP11A, NBAS, SLC30A5, ZW10, DOLK, GJC1, UBXN8, CAMLG, ACSL1
+ATP binding	10	ACSL3, ATAD1, ATP13A3, ATP11A, ORC4, RNF213, MDN1, DDX11, ACSL1, DPH6
+endoplasmic reticulum	9	ACSL3, TENM2, RPN1, ATP11A, NBAS, ZW10, UBXN8, CAMLG, ACSL1
+metal ion binding	9	SLC1A3, ATP13A3, SLC30A5, RNF213, TYW1, WDFY3, STEAP3, PJA1, DDX11
+ATP hydrolysis activity	6	ATAD1, ATP13A3, ATP11A, RNF213, MDN1, DDX11
+synapse	5	SLC1A3, TENM2, GJC1, EXOC4, PACSIN1
+peroxisomal membrane	4	ACSL3, ATAD1, PEX11B, ACSL1
+Golgi apparatus	4	ACSL3, TENM2, ATP11A, SLC30A5
+early endosome	4	CLTCL1, ATP11A, TSG101, SNX30
+extracellular exosome	4	CLTCL1, TSG101, MXRA8, DDX11
+RNA binding	4	HEATR1, NOC2L, RPN1, UTP20
+mitochondrion	4	HEATR1, FANCG, PEX11B, ACSL1
+chromatin binding	4	NOC2L, STAG2, DDX11, ACTL6B
+protein transport	4	NBAS, ZW10, EXOC4, SNX30
+DNA damage response	4	FANCG, INTS3, DCUN1D5, DDX11
+chromatin	4	FANCG, STAG2, DDX11, ACTL6B
+mitochondrial outer membrane	3	ACSL3, ATAD1, ACSL1
+lipid droplet	3	ACSL3, RNF213, ZW10
+perinuclear region of cytoplasm	3	ACSL3, SLC1A3, PACSIN1
+chemical synaptic transmission	3	SLC1A3, GJC1, EXOC4
+cell surface	3	SLC1A3, MXRA8, CLDND1
+protein homodimerization activity	3	TENM2, TSG101, PEX11B
+negative regulation of transcription by RNA polymerase II	3	TENM2, NOC2L, TSG101
+signal transduction	3	TENM2, PEX11B, CAMLG
+ribosomal small subunit biogenesis	3	HEATR1, UTP20, UTP6
+small-subunit processome	3	HEATR1, UTP20, UTP6
+chromosome	3	NOC2L, STAG2, UTP6
+early endosome membrane	3	ATP13A3, TSG101, SNX30
+ubiquitin binding	3	OTULINL, TSG101, UBXN8
+apical plasma membrane	3	SLC30A5, OSMR, CLDND1
+cell division	3	TSG101, ZW10, STAG2
+endosome	3	TSG101, STEAP3, PACSIN1
+DNA repair	3	FANCG, INTS3, DDX11
+long-chain fatty acid-CoA ligase activity	2	ACSL3, ACSL1
+arachidonate-CoA ligase activity	2	ACSL3, ACSL1
+long-chain fatty acid metabolic process	2	ACSL3, ACSL1
+long-chain fatty-acyl-CoA biosynthetic process	2	ACSL3, ACSL1
+long-chain fatty acid import into cell	2	ACSL3, ACSL1
+late endosome	2	CLTCL1, TSG101
+trans-Golgi network	2	CLTCL1, EIPR1
+spindle	2	CLTCL1, DCUN1D5
+recycling endosome	2	CLTCL1, ATP11A
+nuclear membrane	2	RETSAT, WDFY3
+neurotransmitter transport	2	SLC1A3, SLC6A15
+neutral amino acid transport	2	SLC1A3, SLC6A15
+cytoplasmic vesicle	2	SLC1A3, SLC30A5
+neuron projection	2	SLC1A3, TENM2
+PML body	2	TENM2, WDFY3
+postsynaptic membrane	2	TENM2, ATAD1
+snoRNA binding	2	HEATR1, UTP6
+maturation of SSU-rRNA from tricistronic rRNA transcript (SSU-rRNA, 5.8S rRNA, LSU-rRNA)	2	HEATR1, UTP6
+fibrillar center	2	HEATR1, STAG2
+90S preribosome	2	HEATR1, UTP20
+GPI anchor biosynthetic process	2	PIGO, SLC30A5
+transcription corepressor activity	2	NOC2L, TSG101
+apoptotic process	2	NOC2L, STEAP3
+late endosome membrane	2	ATP13A3, TSG101
+intracellular membrane-bounded organelle	2	ATP11A, PEX11B
+retrograde vesicle-mediated transport, Golgi to endoplasmic reticulum	2	NBAS, ZW10
+Dsl1/NZR complex	2	NBAS, ZW10
+DNA replication origin binding	2	ORC4, DDX11
+nuclear envelope	2	OTULINL, WDFY3
+protein-macromolecule adaptor activity	2	POLD3, UBXN8
+DNA binding	2	TSG101, DDX11
+ubiquitin protein ligase binding	2	TSG101, CAMLG
+ cell growth	2	TSG101, DCUN1D5
+protein monoubiquitination	2	TSG101, FANCG
+cell cycle	2	TSG101, STEAP3
+negative regulation of cell population proliferation	2	TSG101, UTP20
+ DNA-templated transcription	2	TSG101, ACTL6B
+membrane fission	2	TSG101, EXOC4
+multivesicular body	2	TSG101, STEAP3
+endosome membrane	2	TSG101, STEAP3
+Flemming body	2	TSG101, EXOC4
+midbody	2	URB2, DDX11
+ubiquitin protein ligase activity	2	RNF213, PJA1
+protein ubiquitination	2	RNF213, EIPR1
+meiotic cell cycle	2	ZW10, STAG2
+kinetochore	2	ZW10, ACTL6B
+spindle pole	2	ZW10, DDX11
+identical protein binding	2	PEX11B, PACSIN1
+4 iron, 4 sulfur cluster binding	2	TYW1, DDX11
+ cell population proliferation	2	OSMR, ACTL6B
+endocytic recycling	2	EIPR1, SNX30
+snRNA processing	2	INTS3, INTS4
+ transcription elongation by RNA polymerase II	2	INTS3, INTS4
+integrator complex	2	INTS3, INTS4
+sister chromatid cohesion	2	STAG2, DDX11
+nuclear matrix	2	STAG2, ACTL6B
+ubiquitin ligase complex	2	DCUN1D5, UBXN8
+centrosome	2	EXOC4, DDX11
+ double-strand break repair	2	DDX11, ACTL6B
+cytoskeleton organization	2	PACSIN1, ACTL6B
+protein kinase binding	1	ACSL3
+protein domain specific binding	1	ACSL3
+medium-chain fatty acid-CoA ligase activity	1	ACSL3
+palmitoyl-CoA ligase activity	1	ACSL3
+fatty acid metabolic process	1	ACSL3
+neuron differentiation	1	ACSL3
+very-low-density lipoprotein particle assembly	1	ACSL3
+long-chain fatty-acyl-CoA metabolic process	1	ACSL3
+ Golgi to plasma membrane protein transport	1	ACSL3
+ secretion	1	ACSL3
+ phosphatidylcholine biosynthetic process	1	ACSL3
+structural molecule activity	1	CLTCL1
+clathrin light chain binding	1	CLTCL1
+mitotic cell cycle	1	CLTCL1
+intracellular protein transport	1	CLTCL1
+receptor-mediated endocytosis	1	CLTCL1
+anatomical structure morphogenesis	1	CLTCL1
+retrograde transport, endosome to Golgi	1	CLTCL1
+ glucose import	1	CLTCL1
+clathrin-coated pit	1	CLTCL1
+clathrin coat of trans-Golgi network vesicle	1	CLTCL1
+coated vesicle	1	CLTCL1
+clathrin-coated vesicle	1	CLTCL1
+clathrin-coated endocytic vesicle	1	CLTCL1
+clathrin complex	1	CLTCL1
+sorting endosome	1	CLTCL1
+all-trans-retinol 13,14-reductase activity	1	RETSAT
+retinol metabolic process	1	RETSAT
+nuclear outer membrane	1	RETSAT
+L-glutamate transmembrane transporter activity	1	SLC1A3
+high-affinity L-glutamate transmembrane transporter activity	1	SLC1A3
+neutral L-amino acid transmembrane transporter activity	1	SLC1A3
+glutamate:sodium symporter activity	1	SLC1A3
+glutamate binding	1	SLC1A3
+neurotransmitter uptake	1	SLC1A3
+monoatomic ion transport	1	SLC1A3
+intracellular sodium ion homeostasis	1	SLC1A3
+sensory perception of sound	1	SLC1A3
+response to xenobiotic stimulus	1	SLC1A3
+response to light stimulus	1	SLC1A3
+gamma-aminobutyric acid biosynthetic process	1	SLC1A3
+response to wounding	1	SLC1A3
+L-glutamate transmembrane transport	1	SLC1A3
+cranial nerve development	1	SLC1A3
+auditory behavior	1	SLC1A3
+response to antibiotic	1	SLC1A3
+cell morphogenesis involved in neuron differentiation	1	SLC1A3
+ synaptic transmission	1	SLC1A3
+neuromuscular process controlling balance	1	SLC1A3
+L-glutamate import	1	SLC1A3
+transepithelial transport	1	SLC1A3
+D-aspartate import across plasma membrane	1	SLC1A3
+cellular response to cocaine	1	SLC1A3
+potassium ion transmembrane transport	1	SLC1A3
+L-glutamate import across plasma membrane	1	SLC1A3
+L-aspartate import across plasma membrane	1	SLC1A3
+transport across blood-brain barrier	1	SLC1A3
+chloride transmembrane transport	1	SLC1A3
+basal plasma membrane	1	SLC1A3
+neuronal cell body	1	SLC1A3
+membrane protein complex	1	SLC1A3
+calcium ion binding	1	TENM2
+protein heterodimerization activity	1	TENM2
+cell adhesion molecule binding	1	TENM2
+heterophilic cell-cell adhesion via plasma membrane cell adhesion molecules	1	TENM2
+neuron development	1	TENM2
+ filopodium assembly	1	TENM2
+cell-cell adhesion	1	TENM2
+cell junction	1	TENM2
+filopodium	1	TENM2
+dendrite	1	TENM2
+growth cone	1	TENM2
+dendritic spine	1	TENM2
+membrane protein dislocase activity	1	ATAD1
+ receptor internalization	1	ATAD1
+learning	1	ATAD1
+memory	1	ATAD1
+negative regulation of synaptic transmission, glutamatergic	1	ATAD1
+ postsynaptic neurotransmitter receptor internalization	1	ATAD1
+extraction of mislocalized protein from mitochondrial outer membrane	1	ATAD1
+glutamatergic synapse	1	ATAD1
+ transcription by RNA polymerase I	1	HEATR1
+ rRNA processing	1	HEATR1
+t-UTP complex	1	HEATR1
+mannose-ethanolamine phosphotransferase activity	1	PIGO
+nucleosome binding	1	NOC2L
+histone binding	1	NOC2L
+DNA-binding transcription factor binding	1	NOC2L
+negative regulation of B cell apoptotic process	1	NOC2L
+cellular response to UV	1	NOC2L
+negative regulation of histone acetylation	1	NOC2L
+ribosomal large subunit biogenesis	1	NOC2L
+transcription initiation-coupled chromatin remodeling	1	NOC2L
+negative regulation of intrinsic apoptotic signaling pathway	1	NOC2L
+Noc1p-Noc2p complex	1	NOC2L
+Noc2p-Noc3p complex	1	NOC2L
+polyamine transmembrane transporter activity	1	ATP13A3
+ABC-type putrescine transporter activity	1	ATP13A3
+ATPase-coupled monoatomic cation transmembrane transporter activity	1	ATP13A3
+P-type transmembrane transporter activity	1	ATP13A3
+intracellular calcium ion homeostasis	1	ATP13A3
+putrescine transport	1	ATP13A3
+monoatomic cation transmembrane transport	1	ATP13A3
+polyamine transmembrane transport	1	ATP13A3
+recycling endosome membrane	1	ATP13A3
+dolichyl-diphosphooligosaccharide-protein glycotransferase activity	1	RPN1
+protein N-linked glycosylation	1	RPN1
+protein N-linked glycosylation via asparagine	1	RPN1
+rough endoplasmic reticulum	1	RPN1
+oligosaccharyltransferase complex	1	RPN1
+melanosome	1	RPN1
+magnesium ion binding	1	ATP11A
+phosphatidylethanolamine flippase activity	1	ATP11A
+phosphatidylserine floppase activity	1	ATP11A
+ATPase-coupled intramembrane lipid transporter activity	1	ATP11A
+phosphatidylserine flippase activity	1	ATP11A
+in utero embryonic development	1	ATP11A
+ myotube differentiation	1	ATP11A
+phospholipid translocation	1	ATP11A
+ membrane lipid distribution	1	ATP11A
+aminophospholipid translocation	1	ATP11A
+lysosomal membrane	1	ATP11A
+specific granule membrane	1	ATP11A
+tertiary granule membrane	1	ATP11A
+phospholipid-translocating ATPase complex	1	ATP11A
+SNARE binding	1	NBAS
+nuclear-transcribed mRNA catabolic process	1	NBAS
+negative regulation of nuclear-transcribed mRNA catabolic process, nonsense-mediated decay	1	NBAS
+nucleotide binding	1	ORC4
+DNA replication initiation	1	ORC4
+polar body extrusion after meiotic divisions	1	ORC4
+protein polymerization	1	ORC4
+chromosome, telomeric region	1	ORC4
+origin recognition complex	1	ORC4
+nuclear origin of replication recognition complex	1	ORC4
+ubiquitin-like protein peptidase activity	1	OTULINL
+protein deubiquitination	1	OTULINL
+cytoplasmic side of endoplasmic reticulum membrane	1	OTULINL
+DNA-directed DNA polymerase activity	1	POLD3
+DNA synthesis involved in DNA repair	1	POLD3
+DNA-templated DNA replication	1	POLD3
+DNA strand elongation involved in DNA replication	1	POLD3
+nucleotide-excision repair, DNA gap filling	1	POLD3
+mismatch repair	1	POLD3
+error-prone translesion synthesis	1	POLD3
+DNA biosynthetic process	1	POLD3
+DNA synthesis involved in UV-damage excision repair	1	POLD3
+zeta DNA polymerase complex	1	POLD3
+delta DNA polymerase complex	1	POLD3
+zinc ion transmembrane transporter activity	1	SLC30A5
+antiporter activity	1	SLC30A5
+cobalt ion transport	1	SLC30A5
+zinc ion transport	1	SLC30A5
+intracellular zinc ion homeostasis	1	SLC30A5
+insulin processing	1	SLC30A5
+zinc ion import into organelle	1	SLC30A5
+zinc ion transmembrane transport	1	SLC30A5
+zinc ion import into Golgi lumen	1	SLC30A5
+Golgi membrane	1	SLC30A5
+ER to Golgi transport vesicle membrane	1	SLC30A5
+secretory granule	1	SLC30A5
+secretory granule membrane	1	SLC30A5
+Golgi cis cisterna membrane	1	SLC30A5
+nuclear receptor coactivator activity	1	TSG101
+protein-containing complex binding	1	TSG101
+virion binding	1	TSG101
+calcium-dependent protein binding	1	TSG101
+extracellular transport	1	TSG101
+negative regulation of epidermal growth factor-activated receptor activity	1	TSG101
+endosome to lysosome transport	1	TSG101
+macroautophagy	1	TSG101
+viral release from host cell	1	TSG101
+keratinocyte differentiation	1	TSG101
+multivesicular body assembly	1	TSG101
+viral budding via host ESCRT complex	1	TSG101
+negative regulation of epidermal growth factor receptor signaling pathway	1	TSG101
+ubiquitin-dependent protein catabolic process via the multivesicular body sorting pathway	1	TSG101
+protein transport to vacuole involved in ubiquitin-dependent protein catabolic process via the multivesicular body sorting pathway	1	TSG101
+ MAP kinase activity	1	TSG101
+viral budding	1	TSG101
+ cell cycle	1	TSG101
+autophagosome maturation	1	TSG101
+ exosomal secretion	1	TSG101
+ extracellular exosome assembly	1	TSG101
+ viral budding via host ESCRT complex	1	TSG101
+exosomal secretion	1	TSG101
+ ubiquitin-dependent endocytosis	1	TSG101
+ESCRT I complex	1	TSG101
+microtubule organizing center	1	TSG101
+ribosome biogenesis	1	URB2
+ signal transduction by p53 class mediator	1	URB2
+aggresome	1	URB2
+damaged DNA binding	1	FANCG
+ovarian follicle development	1	FANCG
+mitochondrion organization	1	FANCG
+spermatid development	1	FANCG
+response to radiation	1	FANCG
+interstrand cross-link repair	1	FANCG
+Fanconi anaemia nuclear complex	1	FANCG
+ubiquitin-protein transferase activity	1	RNF213
+angiogenesis	1	RNF213
+sprouting angiogenesis	1	RNF213
+immune system process	1	RNF213
+ubiquitin-dependent protein catabolic process	1	RNF213
+ lipid metabolic process	1	RNF213
+defense response to bacterium	1	RNF213
+protein autoubiquitination	1	RNF213
+protein K63-linked ubiquitination	1	RNF213
+xenophagy	1	RNF213
+lipid ubiquitination	1	RNF213
+lipid droplet formation	1	RNF213
+negative regulation of non-canonical Wnt signaling pathway	1	RNF213
+centromeric DNA binding	1	ZW10
+mitotic sister chromatid segregation	1	ZW10
+establishment of mitotic spindle orientation	1	ZW10
+endoplasmic reticulum to Golgi vesicle-mediated transport	1	ZW10
+Golgi organization	1	ZW10
+mitotic metaphase plate congression	1	ZW10
+mitotic spindle assembly checkpoint signaling	1	ZW10
+ exit from mitosis	1	ZW10
+protein localization to kinetochore	1	ZW10
+protein-containing complex assembly	1	ZW10
+kinetochore microtubule	1	ZW10
+RZZ complex	1	ZW10
+dolichol kinase activity	1	DOLK
+dolichyl diphosphate biosynthetic process	1	DOLK
+phosphorylation	1	DOLK
+dolichyl monophosphate biosynthetic process	1	DOLK
+molecular_function	1	MXRA8
+cell adhesion	1	MXRA8
+cell differentiation	1	MXRA8
+establishment of glial blood-brain barrier	1	MXRA8
+endoplasmic reticulum lumen	1	MXRA8
+bicellular tight junction	1	MXRA8
+ciliary membrane	1	MXRA8
+peroxisome organization	1	PEX11B
+peroxisome fission	1	PEX11B
+ peroxisome size	1	PEX11B
+peroxisome	1	PEX11B
+protein-containing complex	1	PEX11B
+endonucleolytic cleavage in ITS1 to separate SSU-rRNA from 5.8S rRNA and LSU-rRNA from tricistronic rRNA transcript (SSU-rRNA, 5.8S rRNA, LSU-rRNA)	1	UTP20
+endonucleolytic cleavage to generate mature 5'-end of SSU-rRNA from (SSU-rRNA, 5.8S rRNA, LSU-rRNA)	1	UTP20
+endonucleolytic cleavage in 5'-ETS of tricistronic rRNA transcript (SSU-rRNA, 5.8S rRNA, LSU-rRNA)	1	UTP20
+rRNA processing	1	UTP20
+preribosome, small subunit precursor	1	UTP20
+FMN binding	1	TYW1
+tRNA-4-demethylwyosine synthase activity	1	TYW1
+wybutosine biosynthetic process	1	TYW1
+cytokine receptor activity	1	OSMR
+oncostatin-M receptor activity	1	OSMR
+ciliary neurotrophic factor receptor binding	1	OSMR
+growth factor binding	1	OSMR
+cytokine binding	1	OSMR
+ acute inflammatory response	1	OSMR
+cytokine-mediated signaling pathway	1	OSMR
+response to cytokine	1	OSMR
+oncostatin-M-mediated signaling pathway	1	OSMR
+oncostatin-M receptor complex	1	OSMR
+external side of plasma membrane	1	OSMR
+receptor complex	1	OSMR
+1-phosphatidylinositol binding	1	WDFY3
+aggrephagy	1	WDFY3
+autophagosome membrane	1	WDFY3
+autophagosome	1	WDFY3
+inclusion body	1	WDFY3
+axon	1	WDFY3
+perikaryon	1	WDFY3
+ insulin secretion	1	EIPR1
+ retrograde transport, endosome to Golgi	1	EIPR1
+ endocytic recycling	1	EIPR1
+double-strand break repair via homologous recombination	1	INTS3
+response to ionizing radiation	1	INTS3
+mitotic G2/M transition checkpoint	1	INTS3
+site of double-strand break	1	INTS3
+SOSS complex	1	INTS3
+ribosomal large subunit assembly	1	MDN1
+ribosomal large subunit export from nucleus	1	MDN1
+preribosome, large subunit precursor	1	MDN1
+intermediate filament cytoskeleton	1	MDN1
+establishment of mitotic sister chromatid cohesion	1	STAG2
+mitotic spindle assembly	1	STAG2
+chromosome, centromeric region	1	STAG2
+cohesin complex	1	STAG2
+mitotic spindle pole	1	STAG2
+ubiquitin conjugating enzyme binding	1	DCUN1D5
+ubiquitin-like protein binding	1	DCUN1D5
+cullin family protein binding	1	DCUN1D5
+protein neddylation	1	DCUN1D5
+ ubiquitin-protein transferase activity	1	DCUN1D5
+ protein neddylation	1	DCUN1D5
+monoatomic ion channel activity	1	GJC1
+gap junction channel activity	1	GJC1
+gap junction channel activity involved in SA node cell-atrial cardiac muscle cell electrical coupling	1	GJC1
+gap junction channel activity involved in AV node cell-bundle of His cell electrical coupling	1	GJC1
+vasculogenesis	1	GJC1
+muscle contraction	1	GJC1
+cell-cell junction assembly	1	GJC1
+cell-cell signaling	1	GJC1
+visual perception	1	GJC1
+gap junction assembly	1	GJC1
+monoatomic ion transmembrane transport	1	GJC1
+cell development	1	GJC1
+cardiac muscle tissue development	1	GJC1
+atrial cardiac muscle cell action potential	1	GJC1
+SA node cell to atrial cardiac muscle cell communication by electrical coupling	1	GJC1
+AV node cell to bundle of His cell communication by electrical coupling	1	GJC1
+gap junction	1	GJC1
+connexin complex	1	GJC1
+intercalated disc	1	GJC1
+cupric reductase activity	1	STEAP3
+oxidoreductase activity, acting on metal ions, NAD or NADP as acceptor	1	STEAP3
+ferric-chelate reductase (NADPH) activity	1	STEAP3
+protein secretion	1	STEAP3
+copper ion import	1	STEAP3
+transferrin transport	1	STEAP3
+iron ion transmembrane transport	1	STEAP3
+PDZ domain binding	1	EXOC4
+mitotic cytokinesis	1	EXOC4
+exocytosis	1	EXOC4
+Golgi to plasma membrane transport	1	EXOC4
+vesicle docking involved in exocytosis	1	EXOC4
+ macroautophagy	1	EXOC4
+paraxial mesoderm formation	1	EXOC4
+vesicle tethering involved in exocytosis	1	EXOC4
+exocyst	1	EXOC4
+microvillus	1	EXOC4
+growth cone membrane	1	EXOC4
+myelin sheath abaxonal region	1	EXOC4
+single fertilization	1	UBXN8
+ubiquitin-dependent ERAD pathway	1	UBXN8
+nuclear localization sequence binding	1	TNPO2
+small GTPase binding	1	TNPO2
+nuclear import signal receptor activity	1	TNPO2
+protein import into nucleus	1	TNPO2
+phosphatidylinositol binding	1	SNX30
+autophagy of mitochondrion	1	SNX30
+piecemeal microautophagy of the nucleus	1	SNX30
+reticulophagy	1	SNX30
+ autophagosome assembly	1	SNX30
+phagophore assembly site	1	SNX30
+protein catabolic process	1	PJA1
+neutral L-amino acid:sodium symporter activity	1	SLC6A15
+proline:sodium symporter activity	1	SLC6A15
+neurotransmitter transmembrane transporter activity	1	SLC6A15
+amino acid transmembrane transporter activity	1	SLC6A15
+branched-chain amino acid:sodium symporter activity	1	SLC6A15
+amino acid transmembrane transport	1	SLC6A15
+amino acid transport	1	SLC6A15
+leucine transport	1	SLC6A15
+proline transport	1	SLC6A15
+sodium ion transmembrane transport	1	SLC6A15
+B cell homeostasis	1	CAMLG
+receptor recycling	1	CAMLG
+defense response	1	CAMLG
+epidermal growth factor receptor signaling pathway	1	CAMLG
+vesicle-mediated transport	1	CAMLG
+negative regulation of protein ubiquitination	1	CAMLG
+negative regulation of proteasomal ubiquitin-dependent protein catabolic process	1	CAMLG
+protein insertion into ER membrane	1	CAMLG
+protein stabilization	1	CAMLG
+tail-anchored membrane protein insertion into ER membrane	1	CAMLG
+GET complex	1	CAMLG
+DNA helicase activity	1	DDX11
+double-stranded DNA binding	1	DDX11
+single-stranded DNA binding	1	DDX11
+single-stranded RNA binding	1	DDX11
+helicase activity	1	DDX11
+ATP-dependent activity, acting on DNA	1	DDX11
+ATP-dependent activity, acting on RNA	1	DDX11
+5'-3' DNA helicase activity	1	DDX11
+triplex DNA binding	1	DDX11
+G-quadruplex DNA binding	1	DDX11
+replication fork processing	1	DDX11
+ endodeoxyribonuclease activity	1	DDX11
+negative regulation of protein binding	1	DDX11
+DNA duplex unwinding	1	DDX11
+establishment of sister chromatid cohesion	1	DDX11
+ chromatin binding	1	DDX11
+G-quadruplex DNA unwinding	1	DDX11
+ sister chromatid cohesion	1	DDX11
+cellular response to hydroxyurea	1	DDX11
+cellular response to cisplatin	1	DDX11
+ transcription of nucleolar large rRNA by RNA polymerase I	1	DDX11
+cellular response to bleomycin	1	DDX11
+nucleolar chromatin organization	1	DDX11
+phospholipid binding	1	PACSIN1
+cytoskeletal protein binding	1	PACSIN1
+actin filament organization	1	PACSIN1
+ endocytosis	1	PACSIN1
+negative regulation of endocytosis	1	PACSIN1
+synaptic vesicle endocytosis	1	PACSIN1
+neuron projection morphogenesis	1	PACSIN1
+protein localization to membrane	1	PACSIN1
+protein localization to plasma membrane	1	PACSIN1
+plasma membrane tubulation	1	PACSIN1
+ dendrite development	1	PACSIN1
+COPI-coated vesicle	1	PACSIN1
+cytoplasmic vesicle membrane	1	PACSIN1
+ruffle membrane	1	PACSIN1
+axon terminus	1	PACSIN1
+photoreceptor ribbon synapse	1	PACSIN1
+presynaptic endocytic zone	1	PACSIN1
+phytanate-CoA ligase activity	1	ACSL1
+pristanate-CoA ligase activity	1	ACSL1
+oleoyl-CoA ligase activity	1	ACSL1
+very long-chain fatty acid metabolic process	1	ACSL1
+response to nutrient	1	ACSL1
+lipid biosynthetic process	1	ACSL1
+ long-chain fatty acid import across plasma membrane	1	ACSL1
+response to organic cyclic compound	1	ACSL1
+fatty acid transport	1	ACSL1
+triglyceride biosynthetic process	1	ACSL1
+adiponectin-activated signaling pathway	1	ACSL1
+response to oleic acid	1	ACSL1
+xenobiotic catabolic process	1	ACSL1
+ protein serine/threonine kinase activity	1	ACSL1
+ cold-induced thermogenesis	1	ACSL1
+transcription coactivator activity	1	ACTL6B
+structural constituent of cytoskeleton	1	ACTL6B
+chromatin organization	1	ACTL6B
+chromatin remodeling	1	ACTL6B
+ transcription by RNA polymerase II	1	ACTL6B
+nervous system development	1	ACTL6B
+dendrite development	1	ACTL6B
+spinal cord development	1	ACTL6B
+ mitotic metaphase/anaphase transition	1	ACTL6B
+neuron maturation	1	ACTL6B
+histone H4 acetylation	1	ACTL6B
+ T cell differentiation	1	ACTL6B
+negative regulation of cell differentiation	1	ACTL6B
+ cell differentiation	1	ACTL6B
+ myoblast differentiation	1	ACTL6B
+ G0 to G1 transition	1	ACTL6B
+ stem cell population maintenance	1	ACTL6B
+ G1/S transition of mitotic cell cycle	1	ACTL6B
+ nucleotide-excision repair	1	ACTL6B
+SWI/SNF complex	1	ACTL6B
+RSC-type complex	1	ACTL6B
+brahma complex	1	ACTL6B
+NuA4 histone acetyltransferase complex	1	ACTL6B
+nBAF complex	1	ACTL6B
+bBAF complex	1	ACTL6B
+GBAF complex	1	ACTL6B
+diphthine-ammonia ligase activity	1	DPH6
+peptidyl-diphthamide biosynthetic process from peptidyl-histidine	1	DPH6
+Pwp2p-containing subcomplex of 90S preribosome	1	UTP6

@@ -1,0 +1,65 @@
+Your response should be formatted as Markdown paragraphs
+Write a critical and concise analysis of this human protein system, describing your reasoning as you go and providing references to scientific papers.
+
+A critical goal of the analysis is to determine if this is a novel complex or if any proteins are novel members of a known complex
+
+Format with Title, Summary, and References sections.        
+Avoid overly general statements of how the proteins are involved in various cellular processes        
+Avoid repeating the goals of the analysis.
+
+What cellular components and complexes are involved in this system?
+What mechanisms and biological processes are performed by this system?
+Propose a name for the system to reflect the cellular location and function, and should be specific but brief. Do not compose an acronym. Place it as the title of your report
+Human Proteins: USO1, CD99, AGFG1, AKR1A1, BROX, CCDC25, CRYZ, CWF19L1, FAM114A1, GGA1, GORASP2, NUCB2, OSBP, OSBPL11, OSBPL9, PDCD6IP, PPP5C, QNG1, RAB1B, RFK, RNPEP, SNX5, TPK1, UBQLN1.
+
+System features from GO terms: 
+protein binding: 22 proteins: USO1, CD99, AGFG1, AKR1A1, BROX, CCDC25, CWF19L1, FAM114A1, GGA1, GORASP2, NUCB2, OSBP, OSBPL11, OSBPL9, PDCD6IP, PPP5C, QNG1, RAB1B, RFK, SNX5, TPK1, UBQLN1
+cytosol: 17 proteins: USO1, AGFG1, AKR1A1, CRYZ, FAM114A1, GGA1, NUCB2, OSBP, OSBPL11, OSBPL9, PDCD6IP, PPP5C, RAB1B, RFK, SNX5, TPK1, UBQLN1
+Golgi apparatus: 9 proteins: USO1, FAM114A1, GGA1, GORASP2, NUCB2, OSBP, OSBPL11, OSBPL9, RAB1B
+membrane: 7 proteins: USO1, GGA1, GORASP2, OSBP, OSBPL11, OSBPL9, PDCD6IP
+intracellular membrane-bounded organelle: 7 proteins: AGFG1, GGA1, OSBP, OSBPL11, OSBPL9, PPP5C, SNX5
+extracellular exosome: 7 proteins: AKR1A1, BROX, CRYZ, NUCB2, PDCD6IP, RAB1B, RNPEP
+plasma membrane: 6 proteins: CD99, CCDC25, NUCB2, PPP5C, RNPEP, UBQLN1
+nucleoplasm: 6 proteins: FAM114A1, GGA1, OSBP, OSBPL11, PPP5C, UBQLN1
+perinuclear region of cytoplasm: 5 proteins: USO1, OSBP, RAB1B, SNX5, UBQLN1
+cytoplasm: 5 proteins: CD99, AGFG1, OSBP, RFK, UBQLN1
+intracellular protein transport: 4 proteins: USO1, GGA1, RAB1B, SNX5
+Golgi membrane: 4 proteins: USO1, GORASP2, OSBP, RAB1B
+identical protein binding: 4 proteins: CRYZ, PPP5C, TPK1, UBQLN1
+RNA binding: 3 proteins: USO1, AGFG1, PPP5C
+endoplasmic reticulum: 3 proteins: USO1, NUCB2, UBQLN1
+DNA binding: 3 proteins: AGFG1, CCDC25, NUCB2
+metal ion binding: 3 proteins: AGFG1, PPP5C, RFK
+extracellular space: 3 proteins: AKR1A1, NUCB2, RNPEP
+molecular_function: 3 proteins: CWF19L1, GGA1, QNG1
+protein-containing complex: 3 proteins: GGA1, PPP5C, UBQLN1
+endoplasmic reticulum membrane: 3 proteins: GORASP2, OSBP, RAB1B
+sterol transporter activity: 3 proteins: OSBP, OSBPL11, OSBPL9
+sterol binding: 3 proteins: OSBP, OSBPL11, OSBPL9
+sterol transport: 3 proteins: OSBP, OSBPL11, OSBPL9
+ATP binding: 3 proteins: PPP5C, RFK, TPK1
+cadherin binding: 2 proteins: USO1, SNX5
+endoplasmic reticulum to Golgi vesicle-mediated transport: 2 proteins: USO1, RAB1B
+small GTPase mediated signal transduction: 2 proteins: USO1, NUCB2
+microtubule organizing center: 2 proteins: USO1, PDCD6IP
+transport vesicle: 2 proteins: USO1, RAB1B
+focal adhesion: 2 proteins: CD99, PDCD6IP
+cytoplasmic vesicle: 2 proteins: AGFG1, UBQLN1
+nuclear envelope: 2 proteins: BROX, NUCB2
+endomembrane system: 2 proteins: CCDC25, RAB1B
+zinc ion binding: 2 proteins: CRYZ, RNPEP
+biological_process: 2 proteins: CWF19L1, QNG1
+cellular_component: 2 proteins: CWF19L1, QNG1
+phosphatidylinositol binding: 2 proteins: GGA1, SNX5
+retrograde transport, endosome to Golgi: 2 proteins: GGA1, SNX5
+trans-Golgi network: 2 proteins: GGA1, OSBP
+Golgi organization: 2 proteins: GORASP2, RAB1B
+response to endoplasmic reticulum stress: 2 proteins: GORASP2, UBQLN1
+phosphatidylinositol-4-phosphate binding: 2 proteins: OSBP, SNX5
+bile acid biosynthetic process: 2 proteins: OSBP, OSBPL9
+late endosome membrane: 2 proteins: OSBPL11, OSBPL9
+apoptotic process: 2 proteins: PDCD6IP, RFK
+endosome: 2 proteins: PDCD6IP, SNX5
+autophagosome assembly: 2 proteins: RAB1B, UBQLN1
+phosphorylation: 2 proteins: RFK, TPK1
+ macroautophagy: 2 proteins: SNX5, UBQLN1

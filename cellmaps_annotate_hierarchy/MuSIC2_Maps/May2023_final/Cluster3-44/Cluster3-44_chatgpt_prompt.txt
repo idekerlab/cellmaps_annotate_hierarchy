@@ -1,0 +1,33 @@
+Your response should be formatted as Markdown paragraphs
+Write a critical and concise analysis of this human protein system, describing your reasoning as you go and providing references to scientific papers.
+
+A critical goal of the analysis is to determine if this is a novel complex or if any proteins are novel members of a known complex
+
+Format with Title, Summary, and References sections.        
+Avoid overly general statements of how the proteins are involved in various cellular processes        
+Avoid repeating the goals of the analysis.
+
+What cellular components and complexes are involved in this system?
+What mechanisms and biological processes are performed by this system?
+Propose a name for the system to reflect the cellular location and function, and should be specific but brief. Do not compose an acronym. Place it as the title of your report
+Human Proteins: SNX18, TRERF1, BAZ2B, FGF1, GMEB1, GMEB2, GPC4, GTF2I, KLHL7.
+
+System features from GO terms: 
+protein binding: 9 proteins: SNX18, TRERF1, BAZ2B, FGF1, GMEB1, GMEB2, GPC4, GTF2I, KLHL7
+ transcription by RNA polymerase II: 6 proteins: TRERF1, BAZ2B, FGF1, GMEB1, GMEB2, GTF2I
+nucleus: 6 proteins: TRERF1, BAZ2B, GMEB1, GMEB2, GPC4, GTF2I
+nucleoplasm: 6 proteins: TRERF1, FGF1, GMEB1, GMEB2, GTF2I, KLHL7
+metal ion binding: 4 proteins: TRERF1, BAZ2B, GMEB1, GMEB2
+cytosol: 4 proteins: TRERF1, FGF1, GMEB2, KLHL7
+plasma membrane: 3 proteins: SNX18, GPC4, KLHL7
+DNA binding: 3 proteins: TRERF1, BAZ2B, GTF2I
+cytoplasm: 3 proteins: FGF1, GMEB1, GTF2I
+DNA-binding transcription factor activity, RNA polymerase II-specific: 3 proteins: GMEB1, GMEB2, GTF2I
+DNA-binding transcription activator activity, RNA polymerase II-specific: 3 proteins: GMEB1, GMEB2, GTF2I
+identical protein binding: 3 proteins: GMEB1, GMEB2, KLHL7
+extracellular exosome: 2 proteins: SNX18, GPC4
+nucleolus: 2 proteins: FGF1, KLHL7
+RNA polymerase II cis-regulatory region sequence-specific DNA binding: 2 proteins: GMEB1, GMEB2
+sequence-specific double-stranded DNA binding: 2 proteins: GMEB1, GMEB2
+chromatin: 2 proteins: GMEB1, GMEB2
+transcription by RNA polymerase II: 2 proteins: GMEB2, GTF2I

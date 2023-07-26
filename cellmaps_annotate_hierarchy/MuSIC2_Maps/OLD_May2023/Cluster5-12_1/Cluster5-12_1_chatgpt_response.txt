@@ -1,0 +1,18 @@
+Title: Mitochondrial Outer Membrane Protein Complex
+
+Summary:
+The system of proteins analyzed consists of 14 proteins, with a majority of them (11 proteins) being associated with the mitochondrion. The proteins are involved in various cellular processes, including protein binding, mitochondrial outer membrane localization, protein insertion into the mitochondrial outer membrane, and protein targeting to the mitochondrion. The analysis suggests that this system may represent a novel complex or a known complex with novel members, primarily involved in the mitochondrial outer membrane and its associated functions.
+
+Cellular Components and Complexes:
+The proteins in this system are predominantly associated with the mitochondrion, with 11 proteins (POLG2, XPNPEP3, NME4, COX4I1, HINT2, TOMM22, TOMM20, SAMM50, CARD19, TOMM5, CHCHD2) localized to this organelle. Five proteins (HINT2, TOMM22, TOMM20, SAMM50, TOMM5) are specifically associated with the mitochondrial outer membrane, and four proteins (TOMM22, TOMM20, SAMM50, TOMM5) are involved in protein insertion into the mitochondrial outer membrane. Three proteins (TOMM22, TOMM20, TOMM5) are part of the mitochondrial outer membrane translocase complex, which is involved in protein targeting to the mitochondrion.
+
+Mechanisms and Biological Processes:
+The proteins in this system are involved in various biological processes, such as protein binding, ATP binding, metal ion binding, and apoptotic processes. The primary function of this system appears to be related to the mitochondrial outer membrane and its associated processes, including protein insertion and targeting to the mitochondrion.
+
+Proposed Name: Mitochondrial Outer Membrane Protein Complex
+
+References:
+1. Harner, M., Körner, C., Walther, D., Mokranjac, D., Kaesmacher, J., Welsch, U., Griffith, J., Mann, M., Reggiori, F., & Neupert, W. (2011). The mitochondrial contact site complex, a determinant of mitochondrial architecture. The EMBO Journal, 30(21), 4356-4370. [PubMed](https://pubmed.ncbi.nlm.nih.gov/21964070/)
+2. Pfanner, N., Warscheid, B., & Wiedemann, N. (2019). Mitochondrial proteins: from biogenesis to functional networks. Nature Reviews Molecular Cell Biology, 20(5), 267-284. [PubMed](https://pubmed.ncbi.nlm.nih.gov/30626963/)
+3. Wiedemann, N., & Pfanner, N. (2017). Mitochondrial Machineries for Protein Import and Assembly. Annual Review of Biochemistry, 86, 685-714. [PubMed](https://pubmed.ncbi.nlm.nih.gov/28301743/)
+4. Zerbes, R. M., Bohnert, M., Stroud, D. A., von der Malsburg, K., Kram, A., Oeljeklaus, S., Warscheid, B., Becker, T., Wiedemann, N., Veenhuis, M., & van der Klei, I. J. (2012). Role of MINOS in mitochondrial membrane architecture: cristae morphology and outer membrane interactions differentially depend on mitofilin domains. Journal of Molecular Biology, 422(2), 183-191. [PubMed](https://pubmed.ncbi.nlm.nih.gov/22634219/)

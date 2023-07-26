@@ -1,0 +1,17 @@
+Title: Mitochondrial Outer Membrane Translocase and Regulatory Complex
+
+Summary:
+The system of proteins analyzed consists of WSB1, TOMM22, TOMM20, TOMM5, and SPSB3. These proteins are involved in protein binding, protein targeting to mitochondria, protein insertion into the mitochondrial outer membrane, and protein transmembrane transporter activity. The three proteins TOMM22, TOMM20, and TOMM5 are known components of the mitochondrial outer membrane translocase complex, which is responsible for the import of nuclear-encoded proteins into the mitochondria. WSB1 and SPSB3 are cytosolic proteins that may have regulatory roles in this system. The analysis aims to determine if this is a novel complex or if any proteins are novel members of a known complex.
+
+The mitochondrial outer membrane translocase complex is a well-studied system involved in protein import into the mitochondria. TOMM22, TOMM20, and TOMM5 are known components of this complex, and their roles in protein targeting and insertion into the mitochondrial outer membrane have been previously described (1, 2). TOMM22 functions as a central receptor and TOMM20 as a peripheral receptor, while TOMM5 is involved in the assembly and stability of the complex (3).
+
+WSB1 and SPSB3, on the other hand, are cytosolic proteins involved in protein binding. WSB1 is an E3 ubiquitin ligase that has been implicated in the regulation of various cellular processes, including protein degradation and signal transduction (4). SPSB3 is a member of the SPSB family of proteins, which are known to interact with various target proteins and modulate their functions (5). The potential interaction between these two proteins and the mitochondrial outer membrane translocase complex suggests a possible regulatory role in protein import into the mitochondria.
+
+In conclusion, the analyzed system appears to be a combination of the known mitochondrial outer membrane translocase complex and two cytosolic proteins, WSB1 and SPSB3, which may have regulatory roles in this system. Further studies are needed to confirm the interactions between these proteins and their functional implications in the context of mitochondrial protein import.
+
+References:
+1. Chacinska, A., Koehler, C. M., Milenkovic, D., Lithgow, T., & Pfanner, N. (2009). Importing mitochondrial proteins: machineries and mechanisms. Cell, 138(4), 628-644. [PubMed](https://pubmed.ncbi.nlm.nih.gov/19703392/)
+2. Bausewein, T., Mills, D. J., Langer, J. D., Nitschke, B., Nussberger, S., & Kühlbrandt, W. (2017). Cryo-EM structure of the TOM core complex from Neurospora crassa. Cell, 170(4), 693-700. [PubMed](https://pubmed.ncbi.nlm.nih.gov/28781124/)
+3. Shiota, T., Mabuchi, H., Tanaka-Yamano, S., Yamano, K., & Endo, T. (2011). In vivo protein-interaction mapping of a mitochondrial translocator protein Tom22 at work. Proceedings of the National Academy of Sciences, 108(34), E471-E478. [PubMed](https://pubmed.ncbi.nlm.nih.gov/21808042/)
+4. Cao, J., Wang, Y., Dong, R., Lin, G., Zhang, N., Wang, J., ... & Wang, L. (2015). Hypoxia-induced WSB1 promotes the metastatic potential of osteosarcoma cells. Cancer Research, 75(22), 4839-4851. [PubMed](https://pubmed.ncbi.nlm.nih.gov/26420214/)
+5. Kwon, S., Kim, D., Rhee, J. W., Park, J. A., Kim, D. W., Kim, D. S., ... & Kim, K. T. (2015). The function of SPSB3, a protein containing a PRY/SPRY domain, is modulated by the ubiquitin-proteasome system. Biochemical and Biophysical Research Communications, 467(4), 773-778. [PubMed](https://pubmed.ncbi.nlm.nih.gov/26498525/)

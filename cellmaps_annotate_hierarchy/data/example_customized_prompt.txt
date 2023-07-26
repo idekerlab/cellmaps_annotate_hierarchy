@@ -1,0 +1,13 @@
+Write a critical and concise analysis of this system of interacting human proteins, describing your reasoning as you go. 
+
+What cellular components and complexes are involved in this system?
+What mechanisms and biological processes are performed by this system?
+Are there any novel members in this system or is this a novel system?
+What is the acossiation of this system with cancer, especially pediatric cancer?
+
+Propose a brief name for the most prominant function performed by the system or the cellular component it located in.
+
+Be concise, do not use unneccesary words. Be specific, avoid overly general
+statements such as 'the proteins are involved in various cellular processes'
+Be factual, do not editorialize.
+For each important point, describe your reasoning and supporting information. 

@@ -1,0 +1,355 @@
+Feature	Number of Genes	Genes
+cytosol	17	BBS4, MARK4, GSK3A, MYO9B, ELP1, CAMK2D, IMPDH1, RAPGEF6, SAPCD2, ABHD10, CAMK2B, ELP2, SHC1, IMPDH2, KLHDC8B, PYCR3, ELP3
+protein binding	16	UNG, KCTD12, BBS4, MARK4, GSK3A, MYO9B, ELP1, CAMK2D, RAPGEF6, SAPCD2, ZNRD2, CAMK2B, SHC1, IMPDH2, PYCR3, ELP3
+cytoplasm	11	MARK4, GSK3A, MYO9B, ELP1, CAMK2D, IMPDH1, CAMK2B, ELP2, IMPDH2, KLHDC8B, ELP3
+nucleus	8	UNG, BBS4, GSK3A, ELP1, CAMK2D, IMPDH1, IMPDH2, ELP3
+nucleoplasm	5	UNG, CAMK2D, SAPCD2, CAMK2B, ELP2
+ATP binding	5	MARK4, GSK3A, MYO9B, CAMK2D, CAMK2B
+mitochondrion	4	UNG, GSK3A, ABHD10, PUSL1
+RNA binding	4	KCTD12, IMPDH1, IMPDH2, PUSL1
+identical protein binding	4	KCTD12, CAMK2D, CAMK2B, IMPDH2
+protein serine kinase activity	4	MARK4, GSK3A, CAMK2D, CAMK2B
+protein phosphorylation	4	MARK4, GSK3A, CAMK2D, CAMK2B
+ transcription by RNA polymerase II	4	GSK3A, CAMK2D, ELP2, ELP3
+centrosome	3	BBS4, MARK4, RAPGEF6
+protein serine/threonine kinase activity	3	MARK4, GSK3A, CAMK2D
+nervous system development	3	MARK4, GSK3A, CAMK2B
+neuron projection	3	MARK4, CAMK2D, CAMK2B
+peptidyl-serine phosphorylation	3	GSK3A, CAMK2D, CAMK2B
+calmodulin binding	3	MYO9B, CAMK2D, CAMK2B
+protein homodimerization activity	3	MYO9B, CAMK2D, CAMK2B
+membrane	3	MYO9B, CAMK2D, IMPDH2
+tRNA wobble uridine modification	3	ELP1, ELP2, ELP3
+ translation	3	ELP1, ELP2, ELP3
+elongator holoenzyme complex	3	ELP1, ELP2, ELP3
+metal ion binding	3	IMPDH1, IMPDH2, ELP3
+negative regulation of apoptotic process	2	UNG, SHC1
+microtubule cytoskeleton organization	2	BBS4, MARK4
+neuron migration	2	BBS4, ELP3
+ cilium assembly	2	BBS4, MARK4
+ciliary basal body	2	BBS4, MARK4
+tau protein binding	2	MARK4, GSK3A
+tau-protein kinase activity	2	MARK4, GSK3A
+intracellular signal transduction	2	MARK4, SHC1
+cell division	2	MARK4, ZNRD2
+microtubule organizing center	2	MARK4, CAMK2B
+midbody	2	MARK4, KLHDC8B
+insulin receptor signaling pathway	2	GSK3A, SHC1
+ neuron projection development	2	GSK3A, CAMK2B
+peptidyl-threonine phosphorylation	2	GSK3A, CAMK2D
+ heart contraction	2	GSK3A, CAMK2D
+actin binding	2	MYO9B, CAMK2B
+small GTPase binding	2	MYO9B, RAPGEF6
+tRNA binding	2	ELP1, ELP3
+tRNA wobble base 5-methoxycarbonylmethyl-2-thiouridinylation	2	ELP1, ELP3
+calmodulin-dependent protein kinase activity	2	CAMK2D, CAMK2B
+protein autophosphorylation	2	CAMK2D, CAMK2B
+calcium- and calmodulin-dependent protein kinase complex	2	CAMK2D, CAMK2B
+endocytic vesicle membrane	2	CAMK2D, CAMK2B
+sarcoplasmic reticulum membrane	2	CAMK2D, CAMK2B
+nucleotide binding	2	IMPDH1, IMPDH2
+DNA binding	2	IMPDH1, IMPDH2
+IMP dehydrogenase activity	2	IMPDH1, IMPDH2
+GMP biosynthetic process	2	IMPDH1, IMPDH2
+GTP biosynthetic process	2	IMPDH1, IMPDH2
+extracellular region	2	IMPDH1, IMPDH2
+secretory granule lumen	2	IMPDH1, IMPDH2
+ficolin-1-rich granule lumen	2	IMPDH1, IMPDH2
+plasma membrane	2	RAPGEF6, SHC1
+apical plasma membrane	2	RAPGEF6, SAPCD2
+ cell population proliferation	2	SAPCD2, SHC1
+nucleolus	2	SAPCD2, ELP3
+mitochondrial matrix	2	ABHD10, SHC1
+intercellular bridge	2	KLHDC8B, PYCR3
+damaged DNA binding	1	UNG
+uracil DNA N-glycosylase activity	1	UNG
+ribosomal small subunit binding	1	UNG
+DNA repair	1	UNG
+base-excision repair	1	UNG
+somatic hypermutation of immunoglobulin genes	1	UNG
+depyrimidination	1	UNG
+isotype switching	1	UNG
+base-excision repair, AP site formation via deaminated base removal	1	UNG
+alpha-N-acetylgalactosaminide alpha-2,6-sialyltransferase activity	1	ST6GALNAC5
+sialyltransferase activity	1	ST6GALNAC5
+ganglioside biosynthetic process	1	ST6GALNAC5
+protein glycosylation	1	ST6GALNAC5
+glycosphingolipid biosynthetic process	1	ST6GALNAC5
+oligosaccharide metabolic process	1	ST6GALNAC5
+oligosaccharide biosynthetic process	1	ST6GALNAC5
+sialylation	1	ST6GALNAC5
+Golgi membrane	1	ST6GALNAC5
+ G protein-coupled receptor signaling pathway	1	KCTD12
+protein homooligomerization	1	KCTD12
+presynaptic membrane	1	KCTD12
+cell projection	1	KCTD12
+postsynaptic membrane	1	KCTD12
+protein-macromolecule adaptor activity	1	BBS4
+dynactin binding	1	BBS4
+alpha-tubulin binding	1	BBS4
+beta-tubulin binding	1	BBS4
+RNA polymerase II-specific DNA-binding transcription factor binding	1	BBS4
+mitotic cytokinesis	1	BBS4
+neural tube closure	1	BBS4
+retina homeostasis	1	BBS4
+negative regulation of systemic arterial blood pressure	1	BBS4
+centrosome cycle	1	BBS4
+spermatid development	1	BBS4
+visual perception	1	BBS4
+sensory perception of smell	1	BBS4
+gene expression	1	BBS4
+negative regulation of gene expression	1	BBS4
+protein transport	1	BBS4
+dendrite development	1	BBS4
+ lipid metabolic process	1	BBS4
+ventricular system development	1	BBS4
+striatum development	1	BBS4
+hippocampus development	1	BBS4
+cerebral cortex development	1	BBS4
+adult behavior	1	BBS4
+negative regulation of actin filament polymerization	1	BBS4
+ cytokinesis	1	BBS4
+protein localization to organelle	1	BBS4
+negative regulation of GTPase activity	1	BBS4
+microtubule anchoring at centrosome	1	BBS4
+social behavior	1	BBS4
+photoreceptor cell outer segment organization	1	BBS4
+negative regulation of appetite by leptin-mediated signaling pathway	1	BBS4
+ multicellular organism growth	1	BBS4
+fat cell differentiation	1	BBS4
+photoreceptor cell maintenance	1	BBS4
+retinal rod cell development	1	BBS4
+brain morphogenesis	1	BBS4
+sensory processing	1	BBS4
+maintenance of protein location in nucleus	1	BBS4
+ stress fiber assembly	1	BBS4
+cilium assembly	1	BBS4
+ cilium beat frequency involved in ciliary motility	1	BBS4
+face development	1	BBS4
+fat pad development	1	BBS4
+protein localization to cilium	1	BBS4
+protein localization to centrosome	1	BBS4
+ non-motile cilium assembly	1	BBS4
+protein localization to photoreceptor outer segment	1	BBS4
+non-motile cilium assembly	1	BBS4
+pericentriolar material	1	BBS4
+photoreceptor outer segment	1	BBS4
+photoreceptor inner segment	1	BBS4
+centriole	1	BBS4
+cilium	1	BBS4
+motile cilium	1	BBS4
+photoreceptor connecting cilium	1	BBS4
+centriolar satellite	1	BBS4
+BBSome	1	BBS4
+ciliary transition zone	1	BBS4
+ciliary membrane	1	BBS4
+non-motile cilium	1	BBS4
+microtubule binding	1	MARK4
+cytoskeletal anchor activity	1	MARK4
+gamma-tubulin binding	1	MARK4
+ubiquitin binding	1	MARK4
+microtubule bundle formation	1	MARK4
+cell cycle	1	MARK4
+ programmed cell death	1	MARK4
+cilium organization	1	MARK4
+ cell cycle	1	MARK4
+ centrosome cycle	1	MARK4
+ NLRP3 inflammasome complex assembly	1	MARK4
+ protein localization to centrosome	1	MARK4
+gamma-tubulin complex	1	MARK4
+microtubule cytoskeleton	1	MARK4
+dendrite	1	MARK4
+signaling receptor binding	1	GSK3A
+protein kinase A catalytic subunit binding	1	GSK3A
+protein serine/threonine kinase binding	1	GSK3A
+ systemic arterial blood pressure	1	GSK3A
+cardiac left ventricle morphogenesis	1	GSK3A
+glycogen metabolic process	1	GSK3A
+ gene expression by genomic imprinting	1	GSK3A
+dopamine receptor signaling pathway	1	GSK3A
+ autophagy	1	GSK3A
+ gene expression	1	GSK3A
+ peptidyl-threonine phosphorylation	1	GSK3A
+negative regulation of UDP-glucose catabolic process	1	GSK3A
+Wnt signaling pathway	1	GSK3A
+cell migration	1	GSK3A
+viral protein processing	1	GSK3A
+ protein ubiquitination	1	GSK3A
+negative regulation of TOR signaling	1	GSK3A
+ proteasomal ubiquitin-dependent protein catabolic process	1	GSK3A
+cellular response to insulin stimulus	1	GSK3A
+ peptidyl-serine phosphorylation	1	GSK3A
+cellular response to interleukin-3	1	GSK3A
+proteasome-mediated ubiquitin-dependent protein catabolic process	1	GSK3A
+ neuron apoptotic process	1	GSK3A
+negative regulation of gene expression via CpG island methylation	1	GSK3A
+negative regulation of glycogen biosynthetic process	1	GSK3A
+ protein catabolic process	1	GSK3A
+negative regulation of glucose import	1	GSK3A
+negative regulation of insulin receptor signaling pathway	1	GSK3A
+excitatory postsynaptic potential	1	GSK3A
+negative regulation of cell growth involved in cardiac muscle cell development	1	GSK3A
+cellular response to lithium ion	1	GSK3A
+cellular response to glucocorticoid stimulus	1	GSK3A
+ adenylate cyclase-activating adrenergic receptor signaling pathway	1	GSK3A
+negative regulation of canonical Wnt signaling pathway	1	GSK3A
+extrinsic apoptotic signaling pathway	1	GSK3A
+extrinsic apoptotic signaling pathway in absence of ligand	1	GSK3A
+ adenylate cyclase-activating G protein-coupled receptor signaling pathway	1	GSK3A
+ mitochondrial outer membrane permeabilization involved in apoptotic signaling pathway	1	GSK3A
+ amyloid-beta formation	1	GSK3A
+ autophagy of mitochondrion	1	GSK3A
+ protein targeting to mitochondrion	1	GSK3A
+negative regulation of glycogen synthase activity, transferring glucose-1-phosphate	1	GSK3A
+negative regulation of type B pancreatic cell development	1	GSK3A
+negative regulation of dendrite development	1	GSK3A
+negative regulation of glycogen (starch) synthase activity	1	GSK3A
+ glycogen (starch) synthase activity	1	GSK3A
+microtubule	1	GSK3A
+axon	1	GSK3A
+beta-catenin destruction complex	1	GSK3A
+neuronal cell body	1	GSK3A
+apical dendrite	1	GSK3A
+postsynapse	1	GSK3A
+proximal dendrite	1	GSK3A
+microfilament motor activity	1	MYO9B
+GTPase activator activity	1	MYO9B
+zinc ion binding	1	MYO9B
+ATP hydrolysis activity	1	MYO9B
+ATP-dependent protein binding	1	MYO9B
+ADP binding	1	MYO9B
+Roundabout binding	1	MYO9B
+actin filament binding	1	MYO9B
+Rho protein signal transduction	1	MYO9B
+actin filament-based movement	1	MYO9B
+ARF protein signal transduction	1	MYO9B
+ Rho protein signal transduction	1	MYO9B
+Roundabout signaling pathway	1	MYO9B
+ small GTPase mediated signal transduction	1	MYO9B
+lamellipodium morphogenesis	1	MYO9B
+ruffle	1	MYO9B
+actin filament	1	MYO9B
+cell cortex	1	MYO9B
+actin cytoskeleton	1	MYO9B
+myosin complex	1	MYO9B
+lamellipodium	1	MYO9B
+perinuclear region of cytoplasm	1	MYO9B
+protein self-association	1	ELP1
+sodium channel inhibitor activity	1	CAMK2D
+titin binding	1	CAMK2D
+transmembrane transporter binding	1	CAMK2D
+ cell growth	1	CAMK2D
+ the force of heart contraction	1	CAMK2D
+ membrane depolarization	1	CAMK2D
+ cardiac muscle hypertrophy	1	CAMK2D
+ cell communication by electrical coupling	1	CAMK2D
+ cardiac muscle cell apoptotic process	1	CAMK2D
+ release of sequestered calcium ion into cytosol by sarcoplasmic reticulum	1	CAMK2D
+ cardiac muscle contraction by regulation of the release of sequestered calcium ion	1	CAMK2D
+endoplasmic reticulum calcium ion homeostasis	1	CAMK2D
+relaxation of cardiac muscle	1	CAMK2D
+ ryanodine-sensitive calcium-release channel activity	1	CAMK2D
+ cellular localization	1	CAMK2D
+cellular response to calcium ion	1	CAMK2D
+cardiac muscle cell contraction	1	CAMK2D
+ heart rate by cardiac conduction	1	CAMK2D
+ cardiac muscle cell action potential	1	CAMK2D
+ cardiac muscle cell action potential involved in regulation of contraction	1	CAMK2D
+ histone deacetylase activity	1	CAMK2D
+ cell communication by electrical coupling involved in cardiac conduction	1	CAMK2D
+ relaxation of cardiac muscle	1	CAMK2D
+negative regulation of sodium ion transmembrane transport	1	CAMK2D
+ calcium ion transmembrane transport via high voltage-gated calcium channel	1	CAMK2D
+negative regulation of sodium ion transmembrane transporter activity	1	CAMK2D
+sarcolemma	1	CAMK2D
+nucleic acid binding	1	IMPDH1
+azurophil granule lumen	1	IMPDH1
+guanyl-nucleotide exchange factor activity	1	RAPGEF6
+GTP-dependent protein binding	1	RAPGEF6
+phosphatidic acid binding	1	RAPGEF6
+Ras protein signal transduction	1	RAPGEF6
+microvillus assembly	1	RAPGEF6
+ GTPase activity	1	RAPGEF6
+protein localization to plasma membrane	1	RAPGEF6
+establishment of endothelial intestinal barrier	1	RAPGEF6
+endocytic vesicle	1	RAPGEF6
+establishment of mitotic spindle orientation	1	SAPCD2
+ establishment of planar polarity	1	SAPCD2
+symmetric cell division	1	SAPCD2
+negative regulation of protein localization to cell cortex	1	SAPCD2
+bicellular tight junction	1	SAPCD2
+apical junction complex	1	SAPCD2
+apical cortex	1	SAPCD2
+hydrolase activity, hydrolyzing O-glycosyl compounds	1	ABHD10
+palmitoyl-(protein) hydrolase activity	1	ABHD10
+mycophenolic acid acyl-glucuronide esterase activity	1	ABHD10
+protein depalmitoylation	1	ABHD10
+glucuronoside catabolic process	1	ABHD10
+cellular glucuronidation	1	ABHD10
+mitotic cell cycle	1	ZNRD2
+calcium-dependent protein serine/threonine kinase activity	1	CAMK2B
+signal transduction	1	CAMK2B
+ skeletal muscle adaptation	1	CAMK2B
+cell differentiation	1	CAMK2B
+ long-term neuronal synaptic plasticity	1	CAMK2B
+ synapse structural plasticity	1	CAMK2B
+ calcium ion transport	1	CAMK2B
+ dendritic spine development	1	CAMK2B
+ dendritic spine morphogenesis	1	CAMK2B
+ synapse maturation	1	CAMK2B
+ neuron migration	1	CAMK2B
+synapse	1	CAMK2B
+RNA polymerase II complex binding	1	ELP2
+protein kinase binding	1	ELP2
+transcription elongation by RNA polymerase II	1	ELP2
+ receptor signaling pathway via JAK-STAT	1	ELP2
+transcription elongation factor complex	1	ELP2
+phosphotyrosine residue binding	1	SHC1
+transmembrane receptor protein tyrosine kinase adaptor activity	1	SHC1
+epidermal growth factor receptor binding	1	SHC1
+insulin receptor binding	1	SHC1
+insulin-like growth factor receptor binding	1	SHC1
+neurotrophin TRKA receptor binding	1	SHC1
+phospholipid binding	1	SHC1
+receptor tyrosine kinase binding	1	SHC1
+ephrin receptor binding	1	SHC1
+epidermal growth factor binding	1	SHC1
+molecular function activator activity	1	SHC1
+angiogenesis	1	SHC1
+epidermal growth factor receptor signaling pathway	1	SHC1
+ epidermal growth factor-activated receptor activity	1	SHC1
+heart development	1	SHC1
+actin cytoskeleton organization	1	SHC1
+defense response to bacterium	1	SHC1
+ MAPK cascade	1	SHC1
+negative regulation of DNA-templated transcription	1	SHC1
+ DNA-templated transcription	1	SHC1
+insulin-like growth factor receptor signaling pathway	1	SHC1
+ ERK1 and ERK2 cascade	1	SHC1
+cellular response to growth factor stimulus	1	SHC1
+cell-cell adhesion	1	SHC1
+focal adhesion	1	SHC1
+Shc-EGFR complex	1	SHC1
+circadian rhythm	1	IMPDH2
+lymphocyte proliferation	1	IMPDH2
+retina development in camera-type eye	1	IMPDH2
+cellular response to interleukin-4	1	IMPDH2
+'de novo' XMP biosynthetic process	1	IMPDH2
+peroxisomal membrane	1	IMPDH2
+extracellular exosome	1	IMPDH2
+nuclear chromosome segregation	1	KLHDC8B
+mitotic nuclear division	1	KLHDC8B
+mitotic cytokinetic process	1	KLHDC8B
+cellularization cleavage furrow	1	KLHDC8B
+pyrroline-5-carboxylate reductase activity	1	PYCR3
+L-proline biosynthetic process	1	PYCR3
+mitotic spindle	1	PYCR3
+phosphorylase kinase regulator activity	1	ELP3
+acetyltransferase activity	1	ELP3
+4 iron, 4 sulfur cluster binding	1	ELP3
+tRNA uridine(34) acetyltransferase activity	1	ELP3
+central nervous system development	1	ELP3
+ cell migration	1	ELP3
+pseudouridine synthase activity	1	PUSL1
+tRNA pseudouridine synthesis	1	PUSL1
+intracellular membrane-bounded organelle	1	PUSL1

@@ -1,0 +1,22 @@
+Title: Mitochondrial Oxidative Phosphorylation and Metabolic Regulation System
+
+Summary:
+The analysis of the given set of proteins reveals that they are primarily involved in the mitochondrial oxidative phosphorylation, metabolic regulation, and cellular stress response. The majority of these proteins are localized in the mitochondria, with some also found in the cytoplasm and nucleus. The system plays a crucial role in energy production, regulation of cellular metabolism, and response to cellular stress. The proteins in this system are involved in various complexes, such as the electron transport chain (ETC) complexes, mitochondrial ribosomes, and mitochondrial protein import machinery. The biological processes performed by this system include oxidative phosphorylation, tricarboxylic acid (TCA) cycle, amino acid metabolism, and cellular stress response. Based on the function and location of the proteins, the proposed name for this system is "Mitochondrial Oxidative Phosphorylation and Metabolic Regulation System." The analysis suggests that this is not a novel complex, but some proteins may be novel members of known complexes.
+
+Cellular components and complexes involved in this system:
+1. Mitochondrial ETC complexes (NDUFB9, NDUFS4, ETFB, COX6C, COX5B, COX4I1, UQCRC2, UQCRC1, COX7A2L)
+2. Mitochondrial ribosomes (MRPS23, MRPS25, MRPS36, MRPL53, MRPL37, MRPL58, MRPL28, MRPL14, MRPL23, MRPL42, MRPL48, MRPL47, MRPL12, MRPL51, MRPL10, MRPL40, MRPL9, MRPL46, MRPL19, MRPL39, MRPL52, MRPL15, MRPL41, MRPL50, MRPL44, MRPL22, MRPL57)
+3. Mitochondrial protein import machinery (TIMM50, TIMM9, TIMM10, TOMM22, TOMM20, SAMM50, TOMM5, TOMM40)
+4. Mitochondrial metabolic enzymes (ACADM, ECH1, GCDH, L2HGDH, OGDH, PDHX, ACAA2, ACAT1, DHTKD1, DLD, ETHE1, GCSH)
+
+Mechanisms and biological processes performed by this system:
+1. Oxidative phosphorylation (ETC complexes, ATP6V1C2, ATP synthase)
+2. TCA cycle (OGDH, PDHX, PDHA1)
+3. Amino acid metabolism (BCAT2, MCCC2, ALDH1L2, GPT2)
+4. Cellular stress response (GPX1, HSPBAP1, HSPD1, GADD45GIP1, HTRA2, BIRC3, TRAF6)
+
+References:
+1. Pagliarini, D. J., Calvo, S. E., Chang, B., Sheth, S. A., Vafai, S. B., Ong, S. E., ... & Mootha, V. K. (2008). A mitochondrial protein compendium elucidates complex I disease biology. Cell, 134(1), 112-123. [PubMed](https://pubmed.ncbi.nlm.nih.gov/18614015/)
+2. Calvo, S. E., Clauser, K. R., & Mootha, V. K. (2016). MitoCarta2.0: an updated inventory of mammalian mitochondrial proteins. Nucleic acids research, 44(D1), D1251-D1257. [PubMed](https://pubmed.ncbi.nlm.nih.gov/26450961/)
+3. Kühlbrandt, W. (2015). Structure and function of mitochondrial membrane protein complexes. BMC biology, 13(1), 1-12. [PubMed](https://pubmed.ncbi.nlm.nih.gov/26476076/)
+4. Raimundo, N. (2014). Mitochondrial pathology: stress signals from the energy factory. Trends in molecular medicine, 20(5), 282-292. [PubMed](https://pubmed.ncbi.nlm.nih.gov/24656817/)

@@ -1,0 +1,65 @@
+Your response should be formatted as Markdown paragraphs
+Write a critical and concise analysis of this human protein system, describing your reasoning as you go and providing references to scientific papers.
+
+A critical goal of the analysis is to determine if this is a novel complex or if any proteins are novel members of a known complex
+
+Format with Title, Summary, and References sections.        
+Avoid overly general statements of how the proteins are involved in various cellular processes        
+Avoid repeating the goals of the analysis.
+
+What cellular components and complexes are involved in this system?
+What mechanisms and biological processes are performed by this system?
+Propose a name for the system to reflect the cellular location and function, and should be specific but brief. Do not compose an acronym. Place it as the title of your report
+Human Proteins: ARMC5, CTDP1, GPN1, GPN3, PCF11, POLR1D, POLR2A, POLR2B, POLR2C, POLR2D, POLR2E, POLR2G, POLR2H, POLR2I, POLR2L, POLR3A, POLR3C, POLR3D, POLR3E, POLR3F, POLR3G, POLR3H, POLR3K, RECQL5, RPAP1, SKAP1, URI1, UXT.
+
+System features from GO terms: 
+nucleoplasm: 25 proteins: ARMC5, CTDP1, GPN1, PCF11, POLR2A, POLR2B, POLR2C, POLR2D, POLR2E, POLR2G, POLR2H, POLR2I, POLR2L, POLR3A, POLR3C, POLR3D, POLR3E, POLR3F, POLR3G, POLR3H, POLR3K, RECQL5, SKAP1, URI1, UXT
+protein binding: 23 proteins: ARMC5, CTDP1, GPN1, GPN3, POLR1D, POLR2A, POLR2B, POLR2C, POLR2D, POLR2E, POLR2G, POLR2I, POLR2L, POLR3A, POLR3C, POLR3F, POLR3G, POLR3H, POLR3K, RPAP1, SKAP1, URI1, UXT
+cytosol: 18 proteins: ARMC5, GPN1, POLR2C, POLR2D, POLR2E, POLR2H, POLR2L, POLR3A, POLR3C, POLR3D, POLR3E, POLR3F, POLR3G, POLR3H, POLR3K, RECQL5, SKAP1, URI1
+nucleus: 16 proteins: CTDP1, POLR2A, POLR2B, POLR2C, POLR2D, POLR2E, POLR2G, POLR2H, POLR2I, POLR2L, POLR3A, POLR3G, RECQL5, RPAP1, URI1, UXT
+RNA polymerase III complex: 12 proteins: POLR1D, POLR2E, POLR2H, POLR2L, POLR3A, POLR3C, POLR3D, POLR3E, POLR3F, POLR3G, POLR3H, POLR3K
+RNA polymerase III activity: 11 proteins: POLR1D, POLR2E, POLR2H, POLR2L, POLR3A, POLR3C, POLR3D, POLR3E, POLR3F, POLR3H, POLR3K
+transcription by RNA polymerase III: 11 proteins: POLR1D, POLR2E, POLR2H, POLR3A, POLR3C, POLR3D, POLR3E, POLR3F, POLR3G, POLR3H, POLR3K
+DNA binding: 10 proteins: POLR1D, POLR2A, POLR2B, POLR2C, POLR2E, POLR2L, POLR3A, POLR3D, POLR3H, RPAP1
+DNA-directed 5'-3' RNA polymerase activity: 10 proteins: POLR2A, POLR2E, POLR2I, POLR2L, POLR3A, POLR3C, POLR3F, POLR3G, POLR3H, POLR3K
+transcription by RNA polymerase II: 10 proteins: POLR2A, POLR2B, POLR2C, POLR2D, POLR2E, POLR2G, POLR2H, POLR2I, POLR2L, RPAP1
+defense response to virus: 9 proteins: ARMC5, POLR3A, POLR3C, POLR3D, POLR3E, POLR3F, POLR3G, POLR3H, POLR3K
+RNA polymerase II, core complex: 9 proteins: POLR2A, POLR2B, POLR2C, POLR2D, POLR2E, POLR2G, POLR2H, POLR2I, POLR2L
+cytoplasm: 8 proteins: ARMC5, CTDP1, PCF11, POLR2A, RECQL5, SKAP1, URI1, UXT
+innate immune response: 8 proteins: POLR3A, POLR3C, POLR3D, POLR3E, POLR3F, POLR3G, POLR3H, POLR3K
+RNA polymerase II activity: 6 proteins: POLR2A, POLR2B, POLR2C, POLR2E, POLR2H, POLR2L
+chromatin binding: 6 proteins: POLR2B, POLR3A, POLR3D, POLR3G, URI1, UXT
+ interferon-beta production: 5 proteins: POLR3A, POLR3C, POLR3D, POLR3F, POLR3G
+RNA polymerase I activity: 4 proteins: POLR1D, POLR2E, POLR2H, POLR2L
+transcription by RNA polymerase I: 4 proteins: POLR1D, POLR2E, POLR2H, POLR2L
+RNA polymerase I complex: 4 proteins: POLR1D, POLR2E, POLR2H, POLR2L
+ innate immune response: 4 proteins: POLR3C, POLR3D, POLR3F, POLR3G
+membrane: 3 proteins: ARMC5, POLR2B, POLR3A
+ transcription by RNA polymerase II: 3 proteins: CTDP1, SKAP1, URI1
+centrosome: 3 proteins: CTDP1, POLR3H, UXT
+mitochondrion: 3 proteins: GPN1, PCF11, URI1
+RNA polymerase II complex binding: 3 proteins: PCF11, RECQL5, URI1
+metal ion binding: 3 proteins: POLR2A, POLR2B, POLR3A
+nucleolus: 3 proteins: POLR2A, POLR2I, POLR3K
+transcription initiation at RNA polymerase II promoter: 3 proteins: POLR2D, POLR2G, POLR2I
+protein stabilization: 3 proteins: POLR2E, URI1, UXT
+RPAP3/R2TP/prefoldin-like complex: 3 proteins: POLR2E, URI1, UXT
+single-stranded DNA binding: 3 proteins: POLR2G, POLR2H, POLR3C
+nucleic acid binding: 3 proteins: POLR2I, POLR3K, RECQL5
+zinc ion binding: 3 proteins: POLR2I, POLR2L, POLR3K
+ transcription by RNA polymerase III: 3 proteins: POLR3C, POLR3F, POLR3G
+cell division: 2 proteins: CTDP1, RECQL5
+spindle pole: 2 proteins: CTDP1, UXT
+protein-containing complex: 2 proteins: CTDP1, GPN3
+intracellular membrane-bounded organelle: 2 proteins: CTDP1, POLR3H
+GTPase activity: 2 proteins: GPN1, GPN3
+GTP binding: 2 proteins: GPN1, GPN3
+mRNA cleavage: 2 proteins: PCF11, POLR2I
+protein dimerization activity: 2 proteins: POLR1D, POLR2C
+RNA binding: 2 proteins: POLR2A, POLR2B
+ DNA-templated transcription: 2 proteins: POLR2A, SKAP1
+chromosome: 2 proteins: POLR2A, RECQL5
+translation initiation factor binding: 2 proteins: POLR2D, POLR2G
+transcription corepressor activity: 2 proteins: URI1, UXT
+negative regulation of transcription by RNA polymerase II: 2 proteins: URI1, UXT
+protein folding chaperone complex: 2 proteins: URI1, UXT

@@ -1,0 +1,116 @@
+Your response should be formatted as Markdown paragraphs
+Write a critical and concise analysis of this human protein system, describing your reasoning as you go and providing references to scientific papers.
+
+A critical goal of the analysis is to determine if this is a novel complex or if any proteins are novel members of a known complex
+
+Format with Title, Summary, and References sections.        
+Avoid overly general statements of how the proteins are involved in various cellular processes        
+Avoid repeating the goals of the analysis.
+
+What cellular components and complexes are involved in this system?
+What mechanisms and biological processes are performed by this system?
+Propose a name for the system to reflect the cellular location and function, and should be specific but brief. Do not compose an acronym. Place it as the title of your report
+Human Proteins: LPXN, NOS1AP, HSPB6, MYOM3, MFGE8, ENAH, MYH15, ASCC2, TNNT1, ENO3, KLHL41, GIT1, MISP, PRX, FABP3, CCDC90B, CORO2B, DLGAP4, FBXO28, GPBP1L1, LDB3, LPP, LRCH4, MLF2, PGBD1, PTK2, PXN, SDC1, TLE2, TNS1, TNS3, TRIM62, TRIP6, USP33, VIPR2, ZYX, BTBD1, MYH1, MYH2, MYH4, MYH6, MYH7, MYH8.
+
+System features from GO terms: 
+protein binding: 34 proteins: LPXN, NOS1AP, ENAH, ASCC2, TNNT1, KLHL41, GIT1, MISP, PRX, FABP3, CCDC90B, CORO2B, DLGAP4, FBXO28, GPBP1L1, LDB3, LPP, LRCH4, MLF2, PGBD1, PTK2, PXN, SDC1, TLE2, TNS1, TNS3, TRIM62, TRIP6, USP33, ZYX, BTBD1, MYH1, MYH2, MYH7
+cytosol: 22 proteins: LPXN, NOS1AP, HSPB6, ENAH, MYH15, TNNT1, ENO3, KLHL41, GIT1, FABP3, LPP, PTK2, PXN, TNS3, TRIM62, TRIP6, USP33, ZYX, BTBD1, MYH2, MYH6, MYH8
+cytoplasm: 18 proteins: LPXN, HSPB6, MYH15, KLHL41, PRX, CORO2B, LRCH4, MLF2, PTK2, TNS1, TRIM62, USP33, MYH1, MYH2, MYH4, MYH6, MYH7, MYH8
+plasma membrane: 14 proteins: LPXN, ENAH, ENO3, KLHL41, MISP, PRX, DLGAP4, LPP, PTK2, PXN, SDC1, TRIP6, VIPR2, ZYX
+focal adhesion: 14 proteins: LPXN, ENAH, GIT1, MISP, CORO2B, LPP, PTK2, PXN, TLE2, TNS1, TNS3, TRIP6, USP33, ZYX
+nucleus: 13 proteins: LPXN, NOS1AP, HSPB6, ASCC2, PRX, FABP3, GPBP1L1, LPP, MLF2, PTK2, TLE2, TRIP6, ZYX
+actin filament binding: 9 proteins: MYH15, MISP, CORO2B, MYH1, MYH2, MYH4, MYH6, MYH7, MYH8
+metal ion binding: 8 proteins: LPXN, GIT1, LDB3, LPP, PXN, TNS1, TRIP6, ZYX
+ATP binding: 8 proteins: MYH15, PTK2, MYH1, MYH2, MYH4, MYH6, MYH7, MYH8
+membrane: 7 proteins: LPXN, MFGE8, ENO3, GIT1, CORO2B, MLF2, PGBD1
+microfilament motor activity: 7 proteins: MYH15, MYH1, MYH2, MYH4, MYH6, MYH7, MYH8
+calmodulin binding: 7 proteins: MYH15, MYH1, MYH2, MYH4, MYH6, MYH7, MYH8
+myosin II complex: 7 proteins: MYH15, MYH1, MYH2, MYH4, MYH6, MYH7, MYH8
+myosin filament: 7 proteins: MYH15, MYH1, MYH2, MYH4, MYH6, MYH7, MYH8
+stress fiber: 7 proteins: LDB3, LPP, PTK2, PXN, ZYX, MYH6, MYH7
+cytoskeleton: 6 proteins: ENAH, KLHL41, LDB3, PTK2, TNS1, TRIP6
+muscle contraction: 6 proteins: MYH1, MYH2, MYH4, MYH6, MYH7, MYH8
+muscle myosin complex: 6 proteins: MYH1, MYH2, MYH4, MYH6, MYH7, MYH8
+perinuclear region of cytoplasm: 5 proteins: LPXN, NOS1AP, LDB3, PTK2, USP33
+actin binding: 5 proteins: ENAH, CORO2B, LDB3, PTK2, TNS1
+myofibril: 5 proteins: MYH15, MYH2, MYH4, MYH6, MYH7
+nucleoplasm: 5 proteins: ASCC2, KLHL41, TLE2, USP33, BTBD1
+cell migration: 5 proteins: MISP, PTK2, PXN, SDC1, USP33
+identical protein binding: 5 proteins: FBXO28, PGBD1, SDC1, TRIM62, BTBD1
+muscle filament sliding: 5 proteins: MYH2, MYH4, MYH6, MYH7, MYH8
+sarcomere: 5 proteins: MYH2, MYH4, MYH6, MYH7, MYH8
+signal transduction: 4 proteins: LPXN, PXN, TLE2, VIPR2
+transforming growth factor beta receptor signaling pathway: 4 proteins: LPXN, PTK2, PXN, ZYX
+mitochondrion: 4 proteins: NOS1AP, HSPB6, GIT1, CCDC90B
+Z disc: 4 proteins: NOS1AP, LDB3, MYH6, MYH7
+extracellular space: 4 proteins: MFGE8, ENO3, FABP3, TLE2
+extracellular exosome: 4 proteins: MFGE8, ENO3, FABP3, SDC1
+ DNA-templated transcription: 4 proteins: ASCC2, GPBP1L1, MLF2, TRIM62
+sarcomere organization: 4 proteins: TNNT1, LDB3, MYH6, MYH7
+RNA binding: 4 proteins: GPBP1L1, TNS1, TRIP6, ZYX
+ATP metabolic process: 4 proteins: MYH4, MYH6, MYH7, MYH8
+cell adhesion: 3 proteins: LPXN, MFGE8, PXN
+podosome: 3 proteins: LPXN, NOS1AP, TNS3
+nuclear speck: 3 proteins: LPXN, HSPB6, ASCC2
+axon guidance: 3 proteins: ENAH, PTK2, USP33
+lamellipodium: 3 proteins: ENAH, GIT1, PXN
+intracellular membrane-bounded organelle: 3 proteins: MYH15, MISP, PTK2
+skeletal muscle contraction: 3 proteins: TNNT1, MYH7, MYH8
+striated muscle contraction: 3 proteins: KLHL41, MYH6, MYH7
+protein ubiquitination: 3 proteins: KLHL41, TRIM62, BTBD1
+protein-containing complex: 3 proteins: SDC1, BTBD1, MYH2
+DNA-templated transcription: 2 proteins: LPXN, GPBP1L1
+ cell adhesion mediated by integrin: 2 proteins: LPXN, PTK2
+substrate adhesion-dependent cell spreading: 2 proteins: LPXN, PXN
+endothelial cell migration: 2 proteins: LPXN, PXN
+cell projection: 2 proteins: LPXN, TNS3
+filopodium: 2 proteins: NOS1AP, ENAH
+sarcoplasmic reticulum membrane: 2 proteins: NOS1AP, KLHL41
+anchoring junction: 2 proteins: NOS1AP, PRX
+glutamatergic synapse: 2 proteins: NOS1AP, DLGAP4
+protein homodimerization activity: 2 proteins: HSPB6, MYOM3
+extracellular region: 2 proteins: HSPB6, MFGE8
+M band: 2 proteins: MYOM3, KLHL41
+integrin binding: 2 proteins: MFGE8, PTK2
+angiogenesis: 2 proteins: MFGE8, PTK2
+external side of plasma membrane: 2 proteins: MFGE8, SDC1
+synapse: 2 proteins: ENAH, GIT1
+ubiquitin binding: 2 proteins: ASCC2, USP33
+transition between fast and slow fiber: 2 proteins: TNNT1, MYH7
+myofibril assembly: 2 proteins: KLHL41, MYH6
+pseudopodium: 2 proteins: KLHL41, LDB3
+small GTPase binding: 2 proteins: GIT1, USP33
+ G protein-coupled receptor signaling pathway: 2 proteins: GIT1, USP33
+ephrin receptor signaling pathway: 2 proteins: GIT1, PTK2
+centrosome: 2 proteins: GIT1, USP33
+cytoskeletal protein binding: 2 proteins: FABP3, LDB3
+vinculin binding: 2 proteins: CORO2B, PXN
+actin cytoskeleton organization: 2 proteins: CORO2B, LDB3
+focal adhesion assembly: 2 proteins: CORO2B, TRIP6
+actin cytoskeleton: 2 proteins: CORO2B, ZYX
+adherens junction: 2 proteins: LDB3, ZYX
+negative regulation of DNA-templated transcription: 2 proteins: LRCH4, TLE2
+endocytosis: 2 proteins: PGBD1, USP33
+protein kinase binding: 2 proteins: PTK2, MYH6
+protein phosphatase binding: 2 proteins: PTK2, PXN
+signal complex assembly: 2 proteins: PTK2, PXN
+integrin-mediated signaling pathway: 2 proteins: PTK2, ZYX
+ cell migration: 2 proteins: PTK2, TRIP6
+growth hormone receptor signaling pathway: 2 proteins: PTK2, PXN
+cell cortex: 2 proteins: PTK2, PXN
+cell-cell junction: 2 proteins: PXN, MYH2
+cell surface: 2 proteins: SDC1, TNS1
+phosphoprotein phosphatase activity: 2 proteins: TNS1, TNS3
+zinc ion binding: 2 proteins: TRIM62, USP33
+ protein binding: 2 proteins: USP33, BTBD1
+cell-cell signaling: 2 proteins: VIPR2, ZYX
+cytoplasmic ribonucleoprotein granule: 2 proteins: BTBD1, MYH1
+ATP hydrolysis activity: 2 proteins: MYH4, MYH8
+myosin phosphatase activity: 2 proteins: MYH6, MYH8
+ the force of heart contraction: 2 proteins: MYH6, MYH7
+ heart rate: 2 proteins: MYH6, MYH7
+adult heart development: 2 proteins: MYH6, MYH7
+cardiac muscle hypertrophy in response to stress: 2 proteins: MYH6, MYH7
+ventricular cardiac muscle tissue morphogenesis: 2 proteins: MYH6, MYH7
+cardiac muscle contraction: 2 proteins: MYH6, MYH7
+myosin complex: 2 proteins: MYH6, MYH7

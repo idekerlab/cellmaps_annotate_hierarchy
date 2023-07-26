@@ -1,0 +1,685 @@
+Feature	Number of Genes	Genes
+protein binding	38	NAPG, ASPSCR1, STAMBPL1, TWF2, AKAP12, ABTB1, ATG3, ATG7, CRK, CSK, DAG1, DFFA, EHD1, EHD3, GABPA, GLRX, LMCD1, LRRFIP1, MIF, NCAM1, NHERF1, NIBAN2, PACSIN2, PDLIM5, PHPT1, PREP, PRKCA, PRRC1, RPIA, S100A13, SAE1, SBDS, SWAP70, TIGAR, TPD52L1, TTLL12, UBQLN2, ZNF185
+cytosol	32	ASPSCR1, STAMBPL1, AKAP12, ABTB1, ATG3, ATG7, CALB2, CRK, CSK, DAG1, DDAH1, DFFA, EHD3, GLRX, LRRFIP1, MIF, NCAM1, NIBAN2, NT5C, PACSIN2, PDLIM5, PHPT1, PREP, PRKCA, RPEL1, RPIA, S100A13, SBDS, SWAP70, TIGAR, TTLL12, UBQLN2
+cytoplasm	31	ASPSCR1, TWF2, AKAP12, ABTB1, ATG3, ATG7, CRK, CSK, DAG1, EHD1, EHD3, HEBP1, LMCD1, LRRFIP1, MIF, NHERF1, NIBAN2, NT5C, PACSIN2, PREP, PRKCA, PRRC1, S100A13, SAE1, SBDS, SWAP70, TIGAR, TPD52L1, TTLL12, UBQLN2, ZNF185
+nucleus	20	ASPSCR1, CALB2, CRK, DFFA, EHD3, GABPA, GLRX, LMCD1, LRRFIP1, NHERF1, NIBAN2, NT5C, PREP, S100A13, SAE1, SBDS, SWAP70, TIGAR, TTLL12, UBQLN2
+plasma membrane	20	ASPSCR1, AKAP12, ABTB1, CRK, CSK, DAG1, DFFA, EHD1, EHD3, LRRFIP1, MIF, NCAM1, NIBAN2, PACSIN2, PHPT1, PRKCA, S100A13, SWAP70, TTLL12, UBQLN2
+extracellular exosome	16	NAPG, TWF2, CRK, CSK, DAG1, DDAH1, EHD1, GLRX, HEBP1, MIF, NHERF1, NIBAN2, NT5C, PACSIN2, PHPT1, PRKCA
+nucleoplasm	13	ASPSCR1, DAG1, DFFA, GABPA, KANSL3, LMCD1, MIF, NIBAN2, PHPT1, PRKCA, S100A13, SAE1, SBDS
+identical protein binding	9	CSK, EHD1, MIF, NHERF1, NT5C, PACSIN2, RPIA, TPD52L1, UBQLN2
+perinuclear region of cytoplasm	8	ASPSCR1, TWF2, EHD1, EHD3, NHERF1, PRKCA, S100A13, TPD52L1
+membrane	8	STAMBPL1, CRK, DAG1, EHD1, NCAM1, NHERF1, PDLIM5, PREP
+ATP binding	7	TWF2, CSK, EHD1, EHD3, PRKCA, SWAP70, TTLL12
+metal ion binding	6	STAMBPL1, CSK, DDAH1, NT5C, PDLIM5, RPEL1
+cadherin binding	6	TWF2, EHD1, LRRFIP1, NIBAN2, PACSIN2, SWAP70
+extracellular region	6	ATG7, DAG1, HEBP1, MIF, NCAM1, S100A13
+calcium ion binding	6	CALB2, DAG1, EHD1, EHD3, S100A13, SWAP70
+intracellular membrane-bounded organelle	5	ASPSCR1, DAG1, KANSL3, PACSIN2, RPIA
+focal adhesion	5	AKAP12, DAG1, EHD3, PACSIN2, ZNF185
+actin cytoskeleton organization	5	CRK, NHERF1, PACSIN2, PDLIM5, PHPT1
+cytoskeleton	4	AKAP12, DAG1, LRRFIP1, ZNF185
+protein homodimerization activity	4	ATG7, LRRFIP1, S100A13, TPD52L1
+actin cytoskeleton	4	CRK, NHERF1, PDLIM5, SWAP70
+negative regulation of cell population proliferation	4	CSK, DDAH1, NHERF1, NIBAN2
+zinc ion binding	4	LMCD1, PRKCA, S100A13, ZNF185
+intracellular protein transport	3	NAPG, ASPSCR1, EHD1
+mitochondrion	3	NAPG, GLRX, PRKCA
+lamellipodium	3	TWF2, DAG1, SWAP70
+filopodium	3	TWF2, DAG1, NHERF1
+positive regulation of ERK1 and ERK2 cascade	3	AKAP12, MIF, PRKCA
+nucleolus	3	ABTB1, S100A13, SBDS
+autophagosome assembly	3	ATG3, ATG7, UBQLN2
+protein transport	3	ATG7, EHD3, S100A13
+regulation of transcription by RNA polymerase II	3	CRK, GABPA, LRRFIP1
+membrane raft	3	CRK, CSK, NHERF1
+positive regulation of MAP kinase activity	3	CSK, MIF, TPD52L1
+extracellular space	3	DAG1, MIF, S100A13
+adherens junction	3	DAG1, NIBAN2, PDLIM5
+protein localization to plasma membrane	3	EHD1, EHD3, NHERF1
+early endosome	3	EHD1, EHD3, PACSIN2
+recycling endosome membrane	3	EHD1, EHD3, PACSIN2
+negative regulation of transcription by RNA polymerase II	3	GABPA, LMCD1, LRRFIP1
+protein-containing complex assembly	2	NAPG, NHERF1
+Golgi apparatus	2	NAPG, PRRC1
+positive regulation of protein modification process	2	ASPSCR1, ATG7
+endomembrane system	2	ASPSCR1, NHERF1
+endosome	2	STAMBPL1, PACSIN2
+RNA binding	2	TWF2, SBDS
+protein kinase C binding	2	TWF2, PDLIM5
+actin filament binding	2	TWF2, PHPT1
+positive regulation of neuron projection development	2	TWF2, EHD1
+regulation of actin cytoskeleton organization	2	TWF2, CRK
+positive regulation of protein kinase A signaling	2	AKAP12, MIF
+positive regulation of tumor necrosis factor production	2	AKAP12, MIF
+negative regulation of vascular permeability	2	AKAP12, DDAH1
+modulation of chemical synaptic transmission	2	AKAP12, PACSIN2
+enzyme binding	2	ATG3, PRKCA
+autophagy of mitochondrion	2	ATG3, ATG7
+protein ubiquitination	2	ATG3, SAE1
+negative regulation of phagocytosis	2	ATG3, CSK
+phagophore assembly site	2	ATG3, ATG7
+positive regulation of apoptotic process	2	ATG7, DFFA
+secretory granule lumen	2	ATG7, MIF
+ficolin-1-rich granule lumen	2	ATG7, MIF
+cytoskeletal protein binding	2	CRK, PACSIN2
+SH2 domain binding	2	CRK, DAG1
+protein self-association	2	CRK, NHERF1
+protein tyrosine kinase binding	2	CRK, CSK
+regulation of cell shape	2	CRK, NHERF1
+positive regulation of JNK cascade	2	CRK, TPD52L1
+cellular response to nerve growth factor stimulus	2	CRK, EHD1
+protein-containing complex	2	CRK, DFFA
+protein phosphorylation	2	CSK, PRKCA
+negative regulation of ERK1 and ERK2 cascade	2	CSK, NHERF1
+cell-cell junction	2	CSK, PACSIN2
+virus receptor activity	2	DAG1, NCAM1
+actin binding	2	DAG1, PDLIM5
+tubulin binding	2	DAG1, TTLL12
+protein-containing complex binding	2	DAG1, NHERF1
+morphogenesis of an epithelium	2	DAG1, NHERF1
+axon guidance	2	DAG1, NIBAN2
+negative regulation of cell migration	2	DAG1, MIF
+viral entry into host cell	2	DAG1, NCAM1
+negative regulation of protein kinase B signaling	2	DAG1, NHERF1
+commissural neuron axon guidance	2	DAG1, NCAM1
+external side of plasma membrane	2	DAG1, NCAM1
+collagen-containing extracellular matrix	2	DAG1, NCAM1
+glutamatergic synapse	2	DAG1, PACSIN2
+positive regulation of angiogenesis	2	DDAH1, PRKCA
+chromatin	2	DFFA, GABPA
+GTP binding	2	EHD1, EHD3
+endocytosis	2	EHD1, EHD3
+endocytic recycling	2	EHD1, EHD3
+protein homooligomerization	2	EHD1, EHD3
+cilium assembly	2	EHD1, EHD3
+endosome membrane	2	EHD1, EHD3
+ciliary pocket membrane	2	EHD1, EHD3
+endocytic vesicle	2	EHD1, EHD3
+RNA polymerase II cis-regulatory region sequence-specific DNA binding	2	GABPA, LRRFIP1
+DNA-binding transcription factor activity, RNA polymerase II-specific	2	GABPA, LRRFIP1
+cell differentiation	2	GABPA, NIBAN2
+positive regulation of transcription by RNA polymerase II	2	GABPA, KANSL3
+positive regulation of DNA-templated transcription	2	KANSL3, NIBAN2
+DNA binding	2	LRRFIP1, SWAP70
+positive regulation of cytokine production	2	MIF, S100A13
+positive regulation of cell population proliferation	2	MIF, S100A13
+positive regulation of lipopolysaccharide-mediated signaling pathway	2	MIF, PRKCA
+negative regulation of apoptotic process	2	MIF, NIBAN2
+innate immune response	2	MIF, TTLL12
+cell surface	2	MIF, NCAM1
+vesicle	2	MIF, NHERF1
+cell adhesion	2	NCAM1, PRKCA
+transmembrane transporter binding	2	NHERF1, PHPT1
+pentose-phosphate shunt, non-oxidative branch	2	RPEL1, RPIA
+soluble NSF attachment protein activity	1	NAPG
+syntaxin binding	1	NAPG
+intra-Golgi vesicle-mediated transport	1	NAPG
+protein stabilization	1	NAPG
+membrane fusion	1	NAPG
+lysosomal membrane	1	NAPG
+SNARE complex	1	NAPG
+glucose homeostasis	1	ASPSCR1
+regulation of glucose import	1	ASPSCR1
+cytoplasmic side of plasma membrane	1	ASPSCR1
+vesicle membrane	1	ASPSCR1
+endoplasmic reticulum-Golgi intermediate compartment membrane	1	ASPSCR1
+K63-linked deubiquitinase activity	1	STAMBPL1
+metal-dependent deubiquitinase activity	1	STAMBPL1
+molecular function inhibitor activity	1	STAMBPL1
+protein deubiquitination	1	STAMBPL1
+protein K63-linked deubiquitination	1	STAMBPL1
+cellular response to leucine	1	STAMBPL1
+positive regulation of TORC1 signaling	1	STAMBPL1
+actin monomer binding	1	TWF2
+phosphatidylinositol-4,5-bisphosphate binding	1	TWF2
+regulation of lamellipodium assembly	1	TWF2
+positive regulation of lamellipodium assembly	1	TWF2
+cell projection organization	1	TWF2
+actin filament depolymerization	1	TWF2
+negative regulation of actin filament polymerization	1	TWF2
+regulation of microvillus length	1	TWF2
+sequestering of actin monomers	1	TWF2
+positive regulation of axon extension	1	TWF2
+barbed-end actin filament capping	1	TWF2
+cellular response to retinoic acid	1	TWF2
+cellular response to growth factor stimulus	1	TWF2
+actin filament	1	TWF2
+myofibril	1	TWF2
+growth cone	1	TWF2
+stereocilium	1	TWF2
+calmodulin binding	1	AKAP12
+adenylate cyclase binding	1	AKAP12
+protein kinase A binding	1	AKAP12
+signal transduction	1	AKAP12
+G protein-coupled receptor signaling pathway	1	AKAP12
+adenylate cyclase-inhibiting G protein-coupled receptor signaling pathway	1	AKAP12
+regulation of protein kinase A signaling	1	AKAP12
+response to lipopolysaccharide	1	AKAP12
+hepatic stellate cell activation	1	AKAP12
+response to electrical stimulus	1	AKAP12
+positive regulation of nitric-oxide synthase biosynthetic process	1	AKAP12
+positive regulation of hepatic stellate cell migration	1	AKAP12
+cellular response to interleukin-1	1	AKAP12
+cellular response to tumor necrosis factor	1	AKAP12
+regulation of protein kinase C signaling	1	AKAP12
+positive regulation of oligodendrocyte apoptotic process	1	AKAP12
+cell cortex	1	AKAP12
+neuronal cell body	1	AKAP12
+Schaffer collateral - CA1 synapse	1	AKAP12
+translation elongation factor activity	1	ABTB1
+translational elongation	1	ABTB1
+ubiquitin ligase complex	1	ABTB1
+Atg8 ligase activity	1	ATG3
+Atg12 transferase activity	1	ATG3
+ubiquitin-like protein transferase activity	1	ATG3
+protein targeting to membrane	1	ATG3
+mitochondrial fragmentation involved in apoptotic process	1	ATG3
+autophagy of nucleus	1	ATG3
+regulation of cilium assembly	1	ATG3
+Atg12 activating enzyme activity	1	ATG7
+Atg8 activating enzyme activity	1	ATG7
+protein lipidation	1	ATG7
+C-terminal protein lipidation	1	ATG7
+autophagy	1	ATG7
+cellular response to nitrogen starvation	1	ATG7
+cellular response to starvation	1	ATG7
+macroautophagy	1	ATG7
+protein modification by small protein conjugation	1	ATG7
+piecemeal microautophagy of the nucleus	1	ATG7
+regulation of circadian rhythm	1	ATG7
+late nucleophagy	1	ATG7
+positive regulation of protein catabolic process	1	ATG7
+rhythmic process	1	ATG7
+defense response to virus	1	ATG7
+cellular response to hyperoxia	1	ATG7
+axoneme	1	ATG7
+calcium ion binding involved in regulation of presynaptic cytosolic calcium ion concentration	1	CALB2
+regulation of presynaptic cytosolic calcium ion concentration	1	CALB2
+regulation of long-term synaptic potentiation	1	CALB2
+gap junction	1	CALB2
+dendrite	1	CALB2
+terminal bouton	1	CALB2
+synapse	1	CALB2
+parallel fiber to Purkinje cell synapse	1	CALB2
+phosphotyrosine residue binding	1	CRK
+insulin-like growth factor receptor binding	1	CRK
+SH3 domain binding	1	CRK
+kinase binding	1	CRK
+signaling receptor complex adaptor activity	1	CRK
+ubiquitin protein ligase binding	1	CRK
+signaling adaptor activity	1	CRK
+protein phosphorylated amino acid binding	1	CRK
+ephrin receptor binding	1	CRK
+scaffold protein binding	1	CRK
+neuron migration	1	CRK
+response to yeast	1	CRK
+lipid metabolic process	1	CRK
+cell population proliferation	1	CRK
+regulation of signal transduction	1	CRK
+positive regulation of smooth muscle cell migration	1	CRK
+dendrite development	1	CRK
+hippocampus development	1	CRK
+cerebral cortex development	1	CRK
+establishment of cell polarity	1	CRK
+regulation of cell adhesion mediated by integrin	1	CRK
+regulation of Rac protein signal transduction	1	CRK
+helper T cell diapedesis	1	CRK
+response to hepatocyte growth factor	1	CRK
+reelin-mediated signaling pathway	1	CRK
+response to hydrogen peroxide	1	CRK
+regulation of GTPase activity	1	CRK
+regulation of protein binding	1	CRK
+negative regulation of natural killer cell mediated cytotoxicity	1	CRK
+ephrin receptor signaling pathway	1	CRK
+regulation of dendrite development	1	CRK
+cell chemotaxis	1	CRK
+negative regulation of wound healing	1	CRK
+response to cholecystokinin	1	CRK
+cellular response to transforming growth factor beta stimulus	1	CRK
+cellular response to nitric oxide	1	CRK
+protein localization to membrane	1	CRK
+activation of GTPase activity	1	CRK
+postsynaptic specialization assembly	1	CRK
+cerebellar neuron development	1	CRK
+positive regulation of substrate adhesion-dependent cell spreading	1	CRK
+regulation of intracellular signal transduction	1	CRK
+cellular response to insulin-like growth factor stimulus	1	CRK
+cellular response to endothelin	1	CRK
+negative regulation of cell motility	1	CRK
+regulation of T cell migration	1	CRK
+neuromuscular junction	1	CRK
+protein tyrosine kinase activity	1	CSK
+non-membrane spanning protein tyrosine kinase activity	1	CSK
+protein phosphatase binding	1	CSK
+protein kinase A catalytic subunit binding	1	CSK
+proline-rich region binding	1	CSK
+adaptive immune response	1	CSK
+brain development	1	CSK
+negative regulation of low-density lipoprotein particle clearance	1	CSK
+T cell costimulation	1	CSK
+negative regulation of interleukin-6 production	1	CSK
+negative regulation of kinase activity	1	CSK
+adherens junction organization	1	CSK
+negative regulation of Golgi to plasma membrane protein transport	1	CSK
+negative regulation of bone resorption	1	CSK
+protein autophosphorylation	1	CSK
+oligodendrocyte differentiation	1	CSK
+T cell receptor signaling pathway	1	CSK
+regulation of Fc receptor mediated stimulatory signaling pathway	1	CSK
+cellular response to peptide hormone stimulus	1	CSK
+dystroglycan binding	1	DAG1
+structural constituent of muscle	1	DAG1
+vinculin binding	1	DAG1
+laminin binding	1	DAG1
+laminin-1 binding	1	DAG1
+alpha-actinin binding	1	DAG1
+positive regulation of cell-matrix adhesion	1	DAG1
+morphogenesis of an epithelial sheet	1	DAG1
+heart morphogenesis	1	DAG1
+membrane protein ectodomain proteolysis	1	DAG1
+regulation of gastrulation	1	DAG1
+regulation of epithelial to mesenchymal transition	1	DAG1
+response to denervation involved in regulation of muscle adaptation	1	DAG1
+muscle attachment	1	DAG1
+calcium-dependent cell-matrix adhesion	1	DAG1
+regulation of embryonic cell shape	1	DAG1
+nerve development	1	DAG1
+nerve maturation	1	DAG1
+myelination in peripheral nervous system	1	DAG1
+axon regeneration	1	DAG1
+positive regulation of myelination	1	DAG1
+microtubule anchoring	1	DAG1
+skeletal muscle tissue regeneration	1	DAG1
+negative regulation of MAPK cascade	1	DAG1
+response to peptide hormone	1	DAG1
+positive regulation of protein kinase activity	1	DAG1
+positive regulation of oligodendrocyte differentiation	1	DAG1
+regulation of synapse organization	1	DAG1
+angiogenesis involved in wound healing	1	DAG1
+epithelial tube branching involved in lung morphogenesis	1	DAG1
+branching involved in salivary gland morphogenesis	1	DAG1
+cellular response to mechanical stimulus	1	DAG1
+cellular response to cholesterol	1	DAG1
+basement membrane organization	1	DAG1
+regulation of neurotransmitter receptor localization to postsynaptic specialization membrane	1	DAG1
+retrograde trans-synaptic signaling by trans-synaptic protein complex	1	DAG1
+positive regulation of basement membrane assembly involved in embryonic body morphogenesis	1	DAG1
+basement membrane	1	DAG1
+endoplasmic reticulum lumen	1	DAG1
+Golgi lumen	1	DAG1
+dystrophin-associated glycoprotein complex	1	DAG1
+dystroglycan complex	1	DAG1
+basolateral plasma membrane	1	DAG1
+node of Ranvier	1	DAG1
+nuclear periphery	1	DAG1
+sarcolemma	1	DAG1
+costamere	1	DAG1
+plasma membrane raft	1	DAG1
+postsynaptic membrane	1	DAG1
+contractile ring	1	DAG1
+photoreceptor ribbon synapse	1	DAG1
+GABA-ergic synapse	1	DAG1
+postsynaptic cytosol	1	DAG1
+catalytic activity	1	DDAH1
+dimethylargininase activity	1	DDAH1
+amino acid binding	1	DDAH1
+citrulline metabolic process	1	DDAH1
+regulation of systemic arterial blood pressure	1	DDAH1
+arginine metabolic process	1	DDAH1
+arginine catabolic process	1	DDAH1
+nitric oxide mediated signal transduction	1	DDAH1
+positive regulation of nitric oxide biosynthetic process	1	DDAH1
+regulation of nitric-oxide synthase activity	1	DDAH1
+negative regulation of cellular response to hypoxia	1	DDAH1
+protein domain specific binding	1	DFFA
+protein folding chaperone	1	DFFA
+molecular adaptor activity	1	DFFA
+deoxyribonuclease inhibitor activity	1	DFFA
+apoptotic DNA fragmentation	1	DFFA
+negative regulation of deoxyribonuclease activity	1	DFFA
+regulation of apoptotic process	1	DFFA
+chaperone-mediated protein folding	1	DFFA
+thymocyte apoptotic process	1	DFFA
+negative regulation of execution phase of apoptosis	1	DFFA
+negative regulation of apoptotic DNA fragmentation	1	DFFA
+small GTPase binding	1	EHD1
+positive regulation of cholesterol storage	1	EHD1
+neuron projection development	1	EHD1
+low-density lipoprotein particle clearance	1	EHD1
+cholesterol homeostasis	1	EHD1
+protein localization to cilium	1	EHD1
+positive regulation of myoblast fusion	1	EHD1
+positive regulation of endocytic recycling	1	EHD1
+lipid droplet	1	EHD1
+platelet dense tubular network membrane	1	EHD1
+early endosome membrane	1	EHD1
+nucleic acid binding	1	EHD3
+receptor recycling	1	EHD3
+early endosome to Golgi transport	1	EHD3
+regulation of cardiac muscle contraction	1	EHD3
+regulation of cardiac muscle cell membrane potential	1	EHD3
+Golgi to lysosome transport	1	EHD3
+positive regulation of voltage-gated calcium channel activity	1	EHD3
+regulation of Golgi organization	1	EHD3
+regulation of cardiac conduction	1	EHD3
+transcription cis-regulatory region binding	1	GABPA
+DNA-binding transcription activator activity, RNA polymerase II-specific	1	GABPA
+chromatin binding	1	GABPA
+DNA-binding transcription factor activity	1	GABPA
+sequence-specific double-stranded DNA binding	1	GABPA
+blastocyst formation	1	GABPA
+negative regulation of megakaryocyte differentiation	1	GABPA
+glutathione disulfide oxidoreductase activity	1	GLRX
+nucleobase-containing small molecule interconversion	1	GLRX
+positive regulation of membrane potential	1	GLRX
+protein deglutathionylation	1	GLRX
+positive regulation of sodium ion transmembrane transporter activity	1	GLRX
+heme binding	1	HEBP1
+circadian rhythm	1	HEBP1
+chromatin organization	1	KANSL3
+histone H4-K5 acetylation	1	KANSL3
+histone H4-K8 acetylation	1	KANSL3
+histone H4-K16 acetylation	1	KANSL3
+positive regulation of histone H3-K4 methylation	1	KANSL3
+regulation of dosage compensation by inactivation of X chromosome	1	KANSL3
+histone acetyltransferase complex	1	KANSL3
+NSL complex	1	KANSL3
+transcription corepressor activity	1	LMCD1
+regulation of cardiac muscle hypertrophy	1	LMCD1
+positive regulation of calcineurin-NFAT signaling cascade	1	LMCD1
+DNA-binding transcription repressor activity, RNA polymerase II-specific	1	LRRFIP1
+double-stranded RNA binding	1	LRRFIP1
+protease binding	1	MIF
+dopachrome isomerase activity	1	MIF
+cytokine activity	1	MIF
+cytokine receptor binding	1	MIF
+chemoattractant activity	1	MIF
+phenylpyruvate tautomerase activity	1	MIF
+prostaglandin biosynthetic process	1	MIF
+negative regulation of mature B cell apoptotic process	1	MIF
+inflammatory response	1	MIF
+cell surface receptor signaling pathway	1	MIF
+negative regulation of gene expression	1	MIF
+negative regulation of macrophage chemotaxis	1	MIF
+carboxylic acid metabolic process	1	MIF
+DNA damage response, signal transduction by p53 class mediator	1	MIF
+positive regulation of B cell proliferation	1	MIF
+negative regulation of myeloid cell apoptotic process	1	MIF
+positive regulation of peptidyl-serine phosphorylation	1	MIF
+positive regulation of phosphorylation	1	MIF
+regulation of macrophage activation	1	MIF
+negative regulation of DNA damage response, signal transduction by p53 class mediator	1	MIF
+positive regulation of fibroblast proliferation	1	MIF
+positive regulation of peptidyl-tyrosine phosphorylation	1	MIF
+positive chemotaxis	1	MIF
+negative regulation of protein metabolic process	1	MIF
+positive regulation of prostaglandin secretion involved in immune response	1	MIF
+positive regulation of myeloid leukocyte cytokine production involved in immune response	1	MIF
+protein homotrimerization	1	MIF
+positive regulation of arachidonic acid secretion	1	MIF
+cellular senescence	1	MIF
+negative regulation of intrinsic apoptotic signaling pathway in response to DNA damage by p53 class mediator	1	MIF
+positive regulation of chemokine (C-X-C motif) ligand 2 production	1	MIF
+negative regulation of cellular senescence	1	MIF
+regulation of semaphorin-plexin signaling pathway	1	NCAM1
+Golgi membrane	1	NCAM1
+signaling receptor binding	1	NHERF1
+beta-catenin binding	1	NHERF1
+gamma-aminobutyric acid transmembrane transporter activity	1	NHERF1
+chloride channel regulator activity	1	NHERF1
+phosphatase binding	1	NHERF1
+PDZ domain binding	1	NHERF1
+beta-2 adrenergic receptor binding	1	NHERF1
+type 2 metabotropic glutamate receptor binding	1	NHERF1
+type 3 metabotropic glutamate receptor binding	1	NHERF1
+protein-membrane adaptor activity	1	NHERF1
+myosin II binding	1	NHERF1
+dopamine receptor binding	1	NHERF1
+growth factor receptor binding	1	NHERF1
+channel activator activity	1	NHERF1
+renal sodium ion transport	1	NHERF1
+plasma membrane organization	1	NHERF1
+nuclear migration	1	NHERF1
+adenylate cyclase-activating dopamine receptor signaling pathway	1	NHERF1
+sensory perception of sound	1	NHERF1
+regulation of cell size	1	NHERF1
+negative regulation of platelet-derived growth factor receptor signaling pathway	1	NHERF1
+fibroblast migration	1	NHERF1
+negative regulation of fibroblast migration	1	NHERF1
+negative regulation of phosphatidylinositol 3-kinase signaling	1	NHERF1
+Wnt signaling pathway	1	NHERF1
+gland morphogenesis	1	NHERF1
+microvillus assembly	1	NHERF1
+intracellular phosphate ion homeostasis	1	NHERF1
+negative regulation of sodium:proton antiporter activity	1	NHERF1
+bile acid secretion	1	NHERF1
+glutathione transport	1	NHERF1
+positive regulation of monoatomic ion transmembrane transport	1	NHERF1
+cilium organization	1	NHERF1
+establishment of epithelial cell apical/basal polarity	1	NHERF1
+maintenance of epithelial cell apical/basal polarity	1	NHERF1
+regulation of protein kinase activity	1	NHERF1
+negative regulation of mitotic cell cycle	1	NHERF1
+establishment of Golgi localization	1	NHERF1
+gamma-aminobutyric acid import	1	NHERF1
+auditory receptor cell stereocilium organization	1	NHERF1
+phospholipase C-activating dopamine receptor signaling pathway	1	NHERF1
+renal absorption	1	NHERF1
+negative regulation of canonical Wnt signaling pathway	1	NHERF1
+cerebrospinal fluid circulation	1	NHERF1
+renal phosphate ion absorption	1	NHERF1
+import across plasma membrane	1	NHERF1
+transport across blood-brain barrier	1	NHERF1
+regulation of renal phosphate excretion	1	NHERF1
+positive regulation of intrinsic apoptotic signaling pathway	1	NHERF1
+ruffle	1	NHERF1
+microvillus	1	NHERF1
+apical plasma membrane	1	NHERF1
+brush border membrane	1	NHERF1
+microvillus membrane	1	NHERF1
+stereocilium tip	1	NHERF1
+cell periphery	1	NHERF1
+sperm midpiece	1	NHERF1
+plasma membrane protein complex	1	NHERF1
+transcription coactivator activity	1	NIBAN2
+negative regulation of angiogenesis	1	NIBAN2
+negative regulation of vascular endothelial growth factor receptor signaling pathway	1	NIBAN2
+gonadotropin secretion	1	NIBAN2
+positive regulation of embryonic development	1	NIBAN2
+positive regulation of gene expression via CpG island demethylation	1	NIBAN2
+negative regulation of Notch signaling pathway	1	NIBAN2
+negative regulation of DNA-templated transcription	1	NIBAN2
+positive regulation of skeletal muscle fiber development	1	NIBAN2
+negative regulation of DNA biosynthetic process	1	NIBAN2
+positive regulation of transcription regulatory region DNA binding	1	NIBAN2
+nucleotidase activity	1	NT5C
+5'-nucleotidase activity	1	NT5C
+pyrimidine nucleotide binding	1	NT5C
+IMP 5'-nucleotidase activity	1	NT5C
+allantoin metabolic process	1	NT5C
+IMP catabolic process	1	NT5C
+dCMP catabolic process	1	NT5C
+pyrimidine deoxyribonucleotide catabolic process	1	NT5C
+dephosphorylation	1	NT5C
+amide catabolic process	1	NT5C
+UMP catabolic process	1	NT5C
+dGMP catabolic process	1	NT5C
+dTMP catabolic process	1	NT5C
+dUMP catabolic process	1	NT5C
+phospholipid binding	1	PACSIN2
+phosphatidic acid binding	1	PACSIN2
+cytoskeleton organization	1	PACSIN2
+regulation of endocytosis	1	PACSIN2
+protein localization to endosome	1	PACSIN2
+negative regulation of endocytosis	1	PACSIN2
+cell projection morphogenesis	1	PACSIN2
+caveola assembly	1	PACSIN2
+caveolin-mediated endocytosis	1	PACSIN2
+plasma membrane tubulation	1	PACSIN2
+caveola	1	PACSIN2
+nuclear speck	1	PACSIN2
+extrinsic component of membrane	1	PACSIN2
+ruffle membrane	1	PACSIN2
+centriolar satellite	1	PACSIN2
+actinin binding	1	PDLIM5
+muscle alpha-actinin binding	1	PDLIM5
+cadherin binding involved in cell-cell adhesion	1	PDLIM5
+heart development	1	PDLIM5
+regulation of synapse assembly	1	PDLIM5
+regulation of dendritic spine morphogenesis	1	PDLIM5
+cell growth involved in cardiac muscle cell development	1	PDLIM5
+muscle structure development	1	PDLIM5
+cell-cell adhesion	1	PDLIM5
+stress fiber	1	PDLIM5
+postsynaptic density	1	PDLIM5
+Z disc	1	PDLIM5
+filamentous actin	1	PDLIM5
+cell projection	1	PDLIM5
+presynapse	1	PDLIM5
+calcium channel inhibitor activity	1	PHPT1
+protein histidine phosphatase activity	1	PHPT1
+protein dephosphorylation	1	PHPT1
+peptidyl-histidine dephosphorylation	1	PHPT1
+negative regulation of T cell receptor signaling pathway	1	PHPT1
+negative regulation of lyase activity	1	PHPT1
+lamellipodium organization	1	PHPT1
+positive regulation of cell motility	1	PHPT1
+negative regulation of ATP citrate synthase activity	1	PHPT1
+nuclear body	1	PHPT1
+leading edge of lamellipodium	1	PHPT1
+serine-type endopeptidase activity	1	PREP
+serine-type peptidase activity	1	PREP
+oligopeptidase activity	1	PREP
+proteolysis	1	PREP
+protein kinase activity	1	PRKCA
+protein serine/threonine kinase activity	1	PRKCA
+protein kinase C activity	1	PRKCA
+calcium-dependent protein kinase C activity	1	PRKCA
+integrin binding	1	PRKCA
+histone H3T6 kinase activity	1	PRKCA
+protein serine kinase activity	1	PRKCA
+angiogenesis	1	PRKCA
+positive regulation of endothelial cell proliferation	1	PRKCA
+desmosome assembly	1	PRKCA
+chromatin remodeling	1	PRKCA
+mitotic nuclear membrane disassembly	1	PRKCA
+positive regulation of endothelial cell migration	1	PRKCA
+positive regulation of cardiac muscle hypertrophy	1	PRKCA
+peptidyl-serine phosphorylation	1	PRKCA
+peptidyl-threonine phosphorylation	1	PRKCA
+positive regulation of cell migration	1	PRKCA
+negative regulation of glial cell apoptotic process	1	PRKCA
+intracellular signal transduction	1	PRKCA
+regulation of mRNA stability	1	PRKCA
+positive regulation of blood vessel endothelial cell migration	1	PRKCA
+post-translational protein modification	1	PRKCA
+positive regulation of macrophage differentiation	1	PRKCA
+positive regulation of bone resorption	1	PRKCA
+positive regulation of cell adhesion	1	PRKCA
+positive regulation of mitotic cell cycle	1	PRKCA
+response to interleukin-1	1	PRKCA
+regulation of platelet aggregation	1	PRKCA
+apoptotic signaling pathway	1	PRKCA
+positive regulation of adenylate cyclase-activating G protein-coupled receptor signaling pathway	1	PRKCA
+positive regulation of dense core granule biogenesis	1	PRKCA
+endoplasmic reticulum	1	PRKCA
+mitochondrial membrane	1	PRKCA
+alphav-beta3 integrin-PKCalpha complex	1	PRKCA
+ciliary basal body	1	PRKCA
+protein kinase A regulatory subunit binding	1	PRRC1
+activation of protein kinase A activity	1	PRRC1
+D-ribulose-phosphate 3-epimerase activity	1	RPEL1
+carbohydrate metabolic process	1	RPEL1
+ribose-5-phosphate isomerase activity	1	RPIA
+monosaccharide binding	1	RPIA
+D-ribose metabolic process	1	RPIA
+pentose-phosphate shunt	1	RPIA
+ribose phosphate metabolic process	1	RPIA
+copper ion binding	1	S100A13
+lipid binding	1	S100A13
+fibroblast growth factor binding	1	S100A13
+RAGE receptor binding	1	S100A13
+positive regulation of interleukin-1 alpha production	1	S100A13
+positive regulation of I-kappaB kinase/NF-kappaB signaling	1	S100A13
+mast cell degranulation	1	S100A13
+ubiquitin activating enzyme activity	1	SAE1
+enzyme activator activity	1	SAE1
+SUMO activating enzyme activity	1	SAE1
+ATP-dependent protein binding	1	SAE1
+small protein activating enzyme binding	1	SAE1
+protein heterodimerization activity	1	SAE1
+protein sumoylation	1	SAE1
+positive regulation of protein sumoylation	1	SAE1
+positive regulation of protein targeting to mitochondrion	1	SAE1
+SUMO activating enzyme complex	1	SAE1
+microtubule binding	1	SBDS
+rRNA binding	1	SBDS
+ribosome binding	1	SBDS
+inner cell mass cell proliferation	1	SBDS
+hematopoietic progenitor cell differentiation	1	SBDS
+rRNA processing	1	SBDS
+mitotic spindle organization	1	SBDS
+bone mineralization	1	SBDS
+leukocyte chemotaxis	1	SBDS
+cytosolic ribosome assembly	1	SBDS
+bone marrow development	1	SBDS
+spindle pole	1	SBDS
+guanyl-nucleotide exchange factor activity	1	SWAP70
+positive regulation of cytosolic calcium ion concentration	1	SWAP70
+negative regulation of actin filament depolymerization	1	SWAP70
+positive regulation of actin filament bundle assembly	1	SWAP70
+regulation of protein localization	1	SWAP70
+negative regulation of cell-cell adhesion mediated by integrin	1	SWAP70
+isotype switching	1	SWAP70
+actin filament bundle assembly	1	SWAP70
+regulation of small GTPase mediated signal transduction	1	SWAP70
+positive regulation of mast cell chemotaxis	1	SWAP70
+negative regulation of peptidyl-serine dephosphorylation	1	SWAP70
+fructose-2,6-bisphosphate 2-phosphatase activity	1	TIGAR
+mitophagy	1	TIGAR
+response to ischemia	1	TIGAR
+fructose 2,6-bisphosphate metabolic process	1	TIGAR
+glycolytic process	1	TIGAR
+DNA damage response	1	TIGAR
+response to xenobiotic stimulus	1	TIGAR
+response to gamma radiation	1	TIGAR
+cardiac muscle cell apoptotic process	1	TIGAR
+positive regulation of cardiac muscle cell apoptotic process	1	TIGAR
+glucose catabolic process to lactate via pyruvate	1	TIGAR
+fructose 1,6-bisphosphate metabolic process	1	TIGAR
+negative regulation of programmed cell death	1	TIGAR
+regulation of pentose-phosphate shunt	1	TIGAR
+positive regulation of DNA repair	1	TIGAR
+negative regulation of glycolytic process	1	TIGAR
+intestinal epithelial cell development	1	TIGAR
+cellular response to cobalt ion	1	TIGAR
+cellular response to hypoxia	1	TIGAR
+reactive oxygen species metabolic process	1	TIGAR
+negative regulation of neuron death	1	TIGAR
+negative regulation of mitophagy	1	TIGAR
+regulation of response to DNA damage checkpoint signaling	1	TIGAR
+positive regulation of hexokinase activity	1	TIGAR
+negative regulation of glucose catabolic process to lactate via pyruvate	1	TIGAR
+negative regulation of reactive oxygen species metabolic process	1	TIGAR
+mitochondrial outer membrane	1	TIGAR
+G2/M transition of mitotic cell cycle	1	TPD52L1
+positive regulation of apoptotic signaling pathway	1	TPD52L1
+tubulin-tyrosine ligase activity	1	TTLL12
+histone H4K20 trimethyltransferase activity	1	TTLL12
+H4K20me3 modified histone binding	1	TTLL12
+regulation of mitotic cell cycle	1	TTLL12
+protein modification process	1	TTLL12
+negative regulation of type I interferon-mediated signaling pathway	1	TTLL12
+microtubule organizing center	1	TTLL12
+spindle	1	TTLL12
+midbody	1	TTLL12
+polyubiquitin modification-dependent protein binding	1	UBQLN2
+molecular condensate scaffold activity	1	UBQLN2
+regulation of macroautophagy	1	UBQLN2
+ubiquitin-dependent ERAD pathway	1	UBQLN2
+negative regulation of clathrin-dependent endocytosis	1	UBQLN2
+positive regulation of ER-associated ubiquitin-dependent protein catabolic process	1	UBQLN2
+negative regulation of G protein-coupled receptor internalization	1	UBQLN2
+regulation of autophagosome assembly	1	UBQLN2
+autophagosome	1	UBQLN2
+cytoplasmic vesicle	1	UBQLN2

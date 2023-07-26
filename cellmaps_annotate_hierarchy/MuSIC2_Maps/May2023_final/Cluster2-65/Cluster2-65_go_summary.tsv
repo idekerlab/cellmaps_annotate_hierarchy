@@ -1,0 +1,90 @@
+Feature	Number of Genes	Genes
+mitochondrion	4	LONP1, MTIF2, MCL1, MTFR1
+cytosol	4	LONP1, GART, MCL1, MTFR1
+protein binding	3	LONP1, MCL1, MTFR1
+nucleoplasm	3	LONP1, MTIF2, MCL1
+ATP binding	2	LONP1, GART
+mitochondrion organization	2	LONP1, MTFR1
+membrane	2	LONP1, MCL1
+cytoplasm	2	MTIF2, MCL1
+mitochondrial promoter sequence-specific DNA binding	1	LONP1
+single-stranded DNA binding	1	LONP1
+single-stranded RNA binding	1	LONP1
+ATP-dependent peptidase activity	1	LONP1
+serine-type endopeptidase activity	1	LONP1
+ATP hydrolysis activity	1	LONP1
+PH domain binding	1	LONP1
+identical protein binding	1	LONP1
+ADP binding	1	LONP1
+insulin receptor substrate binding	1	LONP1
+sequence-specific DNA binding	1	LONP1
+G-quadruplex DNA binding	1	LONP1
+DNA polymerase binding	1	LONP1
+mitochondrial genome maintenance	1	LONP1
+response to hypoxia	1	LONP1
+protein quality control for misfolded or incompletely synthesized proteins	1	LONP1
+response to hormone	1	LONP1
+response to aluminum ion	1	LONP1
+mitochondrial DNA metabolic process	1	LONP1
+cellular response to oxidative stress	1	LONP1
+negative regulation of insulin receptor signaling pathway	1	LONP1
+ peptidyl-tyrosine phosphorylation	1	LONP1
+chaperone-mediated protein complex assembly	1	LONP1
+proteolysis involved in protein catabolic process	1	LONP1
+oxidation-dependent protein catabolic process	1	LONP1
+mitochondrial matrix	1	LONP1
+mitochondrial nucleoid	1	LONP1
+RNA binding	1	MTIF2
+translation initiation factor activity	1	MTIF2
+GTPase activity	1	MTIF2
+GTP binding	1	MTIF2
+translation factor activity, RNA binding	1	MTIF2
+ribosomal small subunit binding	1	MTIF2
+ translational initiation	1	MTIF2
+ribosome disassembly	1	MTIF2
+mitochondrial translational initiation	1	MTIF2
+phosphoribosylamine-glycine ligase activity	1	GART
+phosphoribosylformylglycinamidine cyclo-ligase activity	1	GART
+phosphoribosylglycinamide formyltransferase activity	1	GART
+metal ion binding	1	GART
+brainstem development	1	GART
+purine nucleotide biosynthetic process	1	GART
+GMP biosynthetic process	1	GART
+'de novo' IMP biosynthetic process	1	GART
+glycine metabolic process	1	GART
+purine ribonucleoside monophosphate biosynthetic process	1	GART
+response to organic substance	1	GART
+response to inorganic substance	1	GART
+cerebellum development	1	GART
+cerebral cortex development	1	GART
+'de novo' AMP biosynthetic process	1	GART
+adenine biosynthetic process	1	GART
+tetrahydrofolate biosynthetic process	1	GART
+'de novo' XMP biosynthetic process	1	GART
+extracellular exosome	1	GART
+protein transmembrane transporter activity	1	MCL1
+channel activity	1	MCL1
+protein homodimerization activity	1	MCL1
+protein heterodimerization activity	1	MCL1
+BH3 domain binding	1	MCL1
+cell fate determination	1	MCL1
+release of cytochrome c from mitochondria	1	MCL1
+DNA damage response	1	MCL1
+mitochondrial fusion	1	MCL1
+intrinsic apoptotic signaling pathway in response to DNA damage	1	MCL1
+negative regulation of autophagy	1	MCL1
+cellular homeostasis	1	MCL1
+response to cytokine	1	MCL1
+ apoptotic process	1	MCL1
+negative regulation of apoptotic process	1	MCL1
+protein transmembrane transport	1	MCL1
+extrinsic apoptotic signaling pathway in absence of ligand	1	MCL1
+ oxidative stress-induced neuron intrinsic apoptotic signaling pathway	1	MCL1
+negative regulation of anoikis	1	MCL1
+negative regulation of extrinsic apoptotic signaling pathway in absence of ligand	1	MCL1
+nucleus	1	MCL1
+mitochondrial outer membrane	1	MCL1
+Bcl-2 family protein complex	1	MCL1
+mitochondrial fission	1	MTFR1
+aerobic respiration	1	MTFR1
+plasma membrane	1	MTFR1

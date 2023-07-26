@@ -1,0 +1,12 @@
+Title: Mitochondrial Protein Interaction Network in Metabolism and Apoptosis Regulation
+
+Summary:
+The system of proteins analyzed here is predominantly localized in the mitochondria (23 proteins) and is involved in various metabolic processes, including fatty acid beta-oxidation, tricarboxylic acid cycle, and generation of precursor metabolites and energy. Additionally, some proteins are involved in the regulation of apoptotic processes. The system comprises proteins with diverse functions, such as protein binding, metal ion binding, RNA binding, and ATP binding. A critical goal of the analysis is to determine if this is a novel complex or if any proteins are novel members of a known complex. Based on the shared cellular localization and involvement in metabolic and apoptotic processes, we propose the name "Mitochondrial Protein Interaction Network in Metabolism and Apoptosis Regulation" for this system.
+
+References:
+1. Pagliarini, D. J., Calvo, S. E., Chang, B., Sheth, S. A., Vafai, S. B., Ong, S. E., ... & Mootha, V. K. (2008). A mitochondrial protein compendium elucidates complex I disease biology. Cell, 134(1), 112-123. [PubMed](https://pubmed.ncbi.nlm.nih.gov/18614015/)
+2. Rhee, H. W., Zou, P., Udeshi, N. D., Martell, J. D., Mootha, V. K., Carr, S. A., & Ting, A. Y. (2013). Proteomic mapping of mitochondria in living cells via spatially restricted enzymatic tagging. Science, 339(6125), 1328-1331. [PubMed](https://pubmed.ncbi.nlm.nih.gov/23371551/)
+3. Calvo, S. E., Clauser, K. R., & Mootha, V. K. (2016). MitoCarta2.0: an updated inventory of mammalian mitochondrial proteins. Nucleic Acids Research, 44(D1), D1251-D1257. [PubMed](https://pubmed.ncbi.nlm.nih.gov/26450961/)
+4. Kühlbrandt, W. (2015). Structure and function of mitochondrial membrane protein complexes. BMC Biology, 13, 89. [PubMed](https://pubmed.ncbi.nlm.nih.gov/26503902/)
+5. Spinelli, J. B., & Haigis, M. C. (2018). The multifaceted contributions of mitochondria to cellular metabolism. Nature Cell Biology, 20(7), 745-754. [PubMed](https://pubmed.ncbi.nlm.nih.gov/29915379/)
+6. Tait, S. W., & Green, D. R. (2012). Mitochondria and cell death: outer membrane permeabilization and beyond. Nature Reviews Molecular Cell Biology, 11(9), 621-632. [PubMed](https://pubmed.ncbi.nlm.nih.gov/21878991/)

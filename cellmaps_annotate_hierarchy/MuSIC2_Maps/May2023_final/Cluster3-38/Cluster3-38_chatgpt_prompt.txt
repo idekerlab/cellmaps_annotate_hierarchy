@@ -1,0 +1,55 @@
+Your response should be formatted as Markdown paragraphs
+Write a critical and concise analysis of this human protein system, describing your reasoning as you go and providing references to scientific papers.
+
+A critical goal of the analysis is to determine if this is a novel complex or if any proteins are novel members of a known complex
+
+Format with Title, Summary, and References sections.        
+Avoid overly general statements of how the proteins are involved in various cellular processes        
+Avoid repeating the goals of the analysis.
+
+What cellular components and complexes are involved in this system?
+What mechanisms and biological processes are performed by this system?
+Propose a name for the system to reflect the cellular location and function, and should be specific but brief. Do not compose an acronym. Place it as the title of your report
+Human Proteins: ARIH1, CDC34, FBXO4, FBXO44, FBXW2, HNRNPA2B1, HNRNPA3, HNRNPDL, HNRNPL, HNRNPR, HNRNPU, KIF20A, PSME3.
+
+System features from GO terms: 
+protein binding: 13 proteins: ARIH1, CDC34, FBXO4, FBXO44, FBXW2, HNRNPA2B1, HNRNPA3, HNRNPDL, HNRNPL, HNRNPR, HNRNPU, KIF20A, PSME3
+nucleoplasm: 10 proteins: ARIH1, CDC34, HNRNPA2B1, HNRNPA3, HNRNPDL, HNRNPL, HNRNPR, HNRNPU, KIF20A, PSME3
+nucleus: 9 proteins: ARIH1, CDC34, HNRNPA2B1, HNRNPA3, HNRNPL, HNRNPR, HNRNPU, KIF20A, PSME3
+cytosol: 9 proteins: ARIH1, CDC34, FBXO4, FBXO44, FBXW2, HNRNPDL, HNRNPL, HNRNPU, PSME3
+cytoplasm: 7 proteins: ARIH1, FBXO4, FBXO44, HNRNPA2B1, HNRNPA3, HNRNPL, PSME3
+RNA binding: 6 proteins: HNRNPA2B1, HNRNPA3, HNRNPDL, HNRNPL, HNRNPR, HNRNPU
+ribonucleoprotein complex: 5 proteins: HNRNPA2B1, HNRNPA3, HNRNPL, HNRNPR, HNRNPU
+ubiquitin-protein transferase activity: 4 proteins: ARIH1, CDC34, FBXO4, FBXW2
+mRNA splicing, via spliceosome: 4 proteins: HNRNPA2B1, HNRNPA3, HNRNPR, HNRNPU
+membrane: 4 proteins: HNRNPA2B1, HNRNPL, HNRNPU, PSME3
+catalytic step 2 spliceosome: 4 proteins: HNRNPA2B1, HNRNPA3, HNRNPR, HNRNPU
+ubiquitin protein ligase activity: 3 proteins: ARIH1, FBXO4, FBXO44
+protein polyubiquitination: 3 proteins: ARIH1, CDC34, FBXO4
+protein ubiquitination: 3 proteins: ARIH1, CDC34, FBXO4
+ATP binding: 3 proteins: CDC34, HNRNPU, KIF20A
+mRNA 3'-UTR binding: 3 proteins: HNRNPA2B1, HNRNPL, HNRNPU
+mRNA processing: 3 proteins: HNRNPA2B1, HNRNPL, HNRNPR
+mRNA binding: 3 proteins: HNRNPA3, HNRNPL, HNRNPR
+ubiquitin-dependent protein catabolic process: 2 proteins: ARIH1, CDC34
+ubiquitin ligase complex: 2 proteins: ARIH1, FBXO4
+Cajal body: 2 proteins: ARIH1, HNRNPA2B1
+protein modification process: 2 proteins: CDC34, FBXW2
+nuclear speck: 2 proteins: CDC34, HNRNPU
+SCF-dependent proteasomal ubiquitin-dependent protein catabolic process: 2 proteins: FBXO4, FBXO44
+SCF ubiquitin ligase complex: 2 proteins: FBXO4, FBXO44
+pre-mRNA intronic binding: 2 proteins: HNRNPA2B1, HNRNPL
+negative regulation of transcription by RNA polymerase II: 2 proteins: HNRNPA2B1, HNRNPU
+negative regulation of mRNA splicing, via spliceosome: 2 proteins: HNRNPA2B1, HNRNPL
+spliceosomal complex: 2 proteins: HNRNPA2B1, HNRNPR
+nuclear matrix: 2 proteins: HNRNPA2B1, HNRNPU
+extracellular exosome: 2 proteins: HNRNPA2B1, HNRNPL
+ribonucleoprotein granule: 2 proteins: HNRNPA3, HNRNPL
+DNA binding: 2 proteins: HNRNPDL, HNRNPU
+poly(A) binding: 2 proteins: HNRNPDL, HNRNPU
+poly(G) binding: 2 proteins: HNRNPDL, HNRNPU
+ alternative mRNA splicing, via spliceosome: 2 proteins: HNRNPL, HNRNPU
+RNA processing: 2 proteins: HNRNPL, HNRNPU
+identical protein binding: 2 proteins: HNRNPU, PSME3
+cell cycle: 2 proteins: HNRNPU, PSME3
+midbody: 2 proteins: HNRNPU, KIF20A

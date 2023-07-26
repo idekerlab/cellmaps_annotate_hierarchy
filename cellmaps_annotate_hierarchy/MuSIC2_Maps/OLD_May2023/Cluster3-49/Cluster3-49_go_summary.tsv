@@ -1,0 +1,40 @@
+Feature	Number of Genes	Genes
+protein binding	4	CFAP141, CRABP2, DMKN, HSPB8
+nucleoplasm	3	CRABP2, HSPB8, IL36G
+cytosol	3	CRABP2, HSPB8, IL36G
+nucleus	2	CRABP2, HSPB8
+cytoplasm	2	CRABP2, HSPB8
+extracellular space	2	DMKN, IL36G
+axonemal microtubule	1	CFAP141
+retinoic acid binding	1	CRABP2
+retinoid binding	1	CRABP2
+fatty acid binding	1	CRABP2
+retinal binding	1	CRABP2
+retinol binding	1	CRABP2
+cyclin binding	1	CRABP2
+retinoic acid biosynthetic process	1	CRABP2
+regulation of DNA-templated transcription	1	CRABP2
+signal transduction	1	CRABP2
+epidermis development	1	CRABP2
+fatty acid transport	1	CRABP2
+embryonic forelimb morphogenesis	1	CRABP2
+positive regulation of collateral sprouting	1	CRABP2
+endoplasmic reticulum	1	CRABP2
+extracellular exosome	1	CRABP2
+cornified envelope assembly	1	DMKN
+protein kinase activity	1	HSPB8
+identical protein binding	1	HSPB8
+protein homodimerization activity	1	HSPB8
+cellular response to unfolded protein	1	HSPB8
+positive regulation of aggrephagy	1	HSPB8
+protein folding chaperone complex	1	HSPB8
+cytokine activity	1	IL36G
+interleukin-1 receptor binding	1	IL36G
+inflammatory response to antigenic stimulus	1	IL36G
+cell-cell signaling	1	IL36G
+positive regulation of gene expression	1	IL36G
+cytokine-mediated signaling pathway	1	IL36G
+innate immune response	1	IL36G
+cellular response to lipopolysaccharide	1	IL36G
+extracellular region	1	IL36G
+plasma membrane	1	IL36G

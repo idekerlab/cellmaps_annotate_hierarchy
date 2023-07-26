@@ -1,0 +1,30 @@
+Your response should be formatted as Markdown paragraphs
+Write a critical and concise analysis of this human protein system, describing your reasoning as you go and providing references to scientific papers.
+
+A critical goal of the analysis is to determine if this is a novel complex or if any proteins are novel members of a known complex
+
+Format with Title, Summary, and References sections.        
+Avoid overly general statements of how the proteins are involved in various cellular processes        
+Avoid repeating the goals of the analysis.
+
+What cellular components and complexes are involved in this system?
+What mechanisms and biological processes are performed by this system?
+Propose a name for the system to reflect the cellular location and function, and should be specific but brief. Do not compose an acronym. Place it as the title of your report
+Human Proteins: ADSL, EPRS1, PPP6R2, USP10, QARS1, SDCBP, LARS1, MARS1.
+
+System features from GO terms: 
+cytosol: 8 proteins: ADSL, EPRS1, PPP6R2, USP10, QARS1, SDCBP, LARS1, MARS1
+protein binding: 6 proteins: EPRS1, PPP6R2, USP10, QARS1, SDCBP, LARS1
+cytoplasm: 6 proteins: EPRS1, USP10, QARS1, SDCBP, LARS1, MARS1
+ATP binding: 4 proteins: EPRS1, QARS1, LARS1, MARS1
+tRNA aminoacylation for protein translation: 4 proteins: EPRS1, QARS1, LARS1, MARS1
+aminoacyl-tRNA synthetase multienzyme complex: 4 proteins: EPRS1, QARS1, LARS1, MARS1
+identical protein binding: 3 proteins: ADSL, EPRS1, SDCBP
+protein-containing complex: 3 proteins: ADSL, USP10, QARS1
+membrane: 3 proteins: EPRS1, SDCBP, MARS1
+nucleus: 3 proteins: PPP6R2, USP10, SDCBP
+plasma membrane: 2 proteins: EPRS1, SDCBP
+nucleoplasm: 2 proteins: USP10, SDCBP
+glutamine-tRNA ligase activity: 2 proteins: QARS1, LARS1
+glutaminyl-tRNA aminoacylation: 2 proteins: QARS1, LARS1
+extracellular exosome: 2 proteins: SDCBP, MARS1

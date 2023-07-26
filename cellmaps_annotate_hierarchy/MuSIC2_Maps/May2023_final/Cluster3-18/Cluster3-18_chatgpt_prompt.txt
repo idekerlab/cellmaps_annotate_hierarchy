@@ -1,0 +1,88 @@
+Your response should be formatted as Markdown paragraphs
+Write a critical and concise analysis of this human protein system, describing your reasoning as you go and providing references to scientific papers.
+
+A critical goal of the analysis is to determine if this is a novel complex or if any proteins are novel members of a known complex
+
+Format with Title, Summary, and References sections.        
+Avoid overly general statements of how the proteins are involved in various cellular processes        
+Avoid repeating the goals of the analysis.
+
+What cellular components and complexes are involved in this system?
+What mechanisms and biological processes are performed by this system?
+Propose a name for the system to reflect the cellular location and function, and should be specific but brief. Do not compose an acronym. Place it as the title of your report
+Human Proteins: RNF181, AGL, ARHGEF10, ARNT, DNAJB1, DNAJB6, EID2, FLYWCH2, HNRNPH1, HNRNPH2, KCTD10, KCTD13, KDM3A, LSM2, LTO1, MLF1, NICN1, NPAS1, POGK, RBM11, RUNX1, RUNX2, SMTN, TCEAL1, TRAK1, USP11, USP7, WIZ, ZBTB20, ZNF451, ZNF511.
+
+System features from GO terms: 
+protein binding: 27 proteins: RNF181, AGL, ARHGEF10, ARNT, DNAJB1, DNAJB6, EID2, HNRNPH1, HNRNPH2, KCTD10, KCTD13, KDM3A, LSM2, LTO1, MLF1, NICN1, POGK, RBM11, RUNX1, RUNX2, TCEAL1, TRAK1, USP11, USP7, WIZ, ZNF451, ZNF511
+nucleus: 24 proteins: AGL, ARNT, DNAJB1, DNAJB6, EID2, HNRNPH1, HNRNPH2, KDM3A, LSM2, LTO1, MLF1, NPAS1, POGK, RBM11, RUNX1, RUNX2, TCEAL1, TRAK1, USP11, USP7, WIZ, ZBTB20, ZNF451, ZNF511
+nucleoplasm: 20 proteins: ARNT, DNAJB1, DNAJB6, EID2, HNRNPH1, HNRNPH2, KCTD10, KCTD13, KDM3A, LSM2, NICN1, POGK, RBM11, RUNX1, RUNX2, TCEAL1, USP11, USP7, WIZ, ZBTB20
+cytosol: 13 proteins: AGL, ARHGEF10, DNAJB1, DNAJB6, HNRNPH1, HNRNPH2, KCTD10, KCTD13, LSM2, RUNX2, TRAK1, USP11, USP7
+cytoplasm: 11 proteins: RNF181, AGL, ARNT, DNAJB1, DNAJB6, KDM3A, LSM2, MLF1, SMTN, TRAK1, ZBTB20
+ transcription by RNA polymerase II: 7 proteins: ARNT, KDM3A, NPAS1, RUNX1, RUNX2, TRAK1, WIZ
+DNA-binding transcription factor activity, RNA polymerase II-specific: 6 proteins: ARNT, NPAS1, RUNX1, RUNX2, WIZ, ZNF451
+metal ion binding: 5 proteins: RNF181, WIZ, ZBTB20, ZNF451, ZNF511
+chromatin: 5 proteins: ARNT, KDM3A, NPAS1, RUNX1, RUNX2
+ DNA-templated transcription: 5 proteins: KDM3A, MLF1, POGK, RUNX1, RUNX2
+protein ubiquitination: 4 proteins: RNF181, KCTD10, KCTD13, USP7
+RNA polymerase II cis-regulatory region sequence-specific DNA binding: 4 proteins: ARNT, RUNX1, RUNX2, WIZ
+nuclear body: 4 proteins: ARNT, KCTD13, USP7, ZBTB20
+negative regulation of transcription by RNA polymerase II: 4 proteins: DNAJB1, NPAS1, RUNX1, ZBTB20
+DNA binding: 4 proteins: DNAJB6, MLF1, POGK, ZNF511
+negative regulation of DNA-templated transcription: 4 proteins: DNAJB6, EID2, NPAS1, RUNX2
+membrane: 4 proteins: DNAJB6, HNRNPH1, HNRNPH2, KDM3A
+RNA binding: 4 proteins: FLYWCH2, HNRNPH1, HNRNPH2, LSM2
+ubiquitin-protein transferase activity: 3 proteins: RNF181, KCTD10, KCTD13
+actin cytoskeleton organization: 3 proteins: ARHGEF10, DNAJB6, SMTN
+DNA-binding transcription factor activity: 3 proteins: ARNT, NPAS1, RUNX2
+sequence-specific double-stranded DNA binding: 3 proteins: ARNT, RUNX2, ZBTB20
+cell differentiation: 3 proteins: ARNT, EID2, RBM11
+transcription corepressor activity: 3 proteins: DNAJB1, EID2, ZNF451
+identical protein binding: 3 proteins: HNRNPH1, KCTD10, KCTD13
+ubiquitin-dependent protein catabolic process: 3 proteins: KCTD10, USP11, USP7
+protein domain specific binding: 3 proteins: KCTD13, MLF1, RUNX2
+protein homodimerization activity: 2 proteins: ARNT, RBM11
+sequence-specific DNA binding: 2 proteins: ARNT, ZNF451
+protein heterodimerization activity: 2 proteins: ARNT, NPAS1
+ glycolytic process: 2 proteins: ARNT, ZBTB20
+ATPase activator activity: 2 proteins: DNAJB1, DNAJB6
+Hsp70 protein binding: 2 proteins: DNAJB1, DNAJB6
+protein folding chaperone: 2 proteins: DNAJB1, DNAJB6
+unfolded protein binding: 2 proteins: DNAJB1, DNAJB6
+protein-folding chaperone binding: 2 proteins: DNAJB1, DNAJB6
+transcription regulator inhibitor activity: 2 proteins: DNAJB1, ZNF451
+negative regulation of inclusion body assembly: 2 proteins: DNAJB1, DNAJB6
+ cellular response to heat: 2 proteins: DNAJB1, DNAJB6
+postsynaptic density: 2 proteins: DNAJB1, HNRNPH2
+extracellular exosome: 2 proteins: DNAJB1, WIZ
+perinuclear region of cytoplasm: 2 proteins: DNAJB6, MLF1
+muscle organ development: 2 proteins: EID2, SMTN
+negative regulation of transforming growth factor beta receptor signaling pathway: 2 proteins: EID2, ZNF451
+cellular_component: 2 proteins: FLYWCH2, LTO1
+poly(U) RNA binding: 2 proteins: HNRNPH1, RBM11
+mRNA splicing, via spliceosome: 2 proteins: HNRNPH1, LSM2
+ RNA splicing: 2 proteins: HNRNPH1, HNRNPH2
+catalytic step 2 spliceosome: 2 proteins: HNRNPH1, LSM2
+ribonucleoprotein complex: 2 proteins: HNRNPH1, HNRNPH2
+negative regulation of Rho protein signal transduction: 2 proteins: KCTD10, KCTD13
+proteasome-mediated ubiquitin-dependent protein catabolic process: 2 proteins: KCTD10, KCTD13
+protein homooligomerization: 2 proteins: KCTD10, KCTD13
+Cul3-RING ubiquitin ligase complex: 2 proteins: KCTD10, KCTD13
+small GTPase binding: 2 proteins: KCTD13, LSM2
+chromatin DNA binding: 2 proteins: KDM3A, RUNX2
+DNA-templated transcription: 2 proteins: KDM3A, MLF1
+ signal transduction by p53 class mediator: 2 proteins: MLF1, USP7
+RNA polymerase II transcription regulatory region sequence-specific DNA binding: 2 proteins: NPAS1, RUNX1
+transcription cis-regulatory region binding: 2 proteins: RUNX1, ZBTB20
+DNA-binding transcription activator activity, RNA polymerase II-specific: 2 proteins: RUNX1, RUNX2
+ATP binding: 2 proteins: RUNX1, RUNX2
+hemopoiesis: 2 proteins: RUNX1, RUNX2
+neuron differentiation: 2 proteins: RUNX1, RUNX2
+ cell differentiation: 2 proteins: RUNX1, RUNX2
+negative regulation of gene expression: 2 proteins: TCEAL1, ZBTB20
+transcription corepressor binding: 2 proteins: USP11, WIZ
+cysteine-type endopeptidase activity: 2 proteins: USP11, USP7
+cysteine-type deubiquitinase activity: 2 proteins: USP11, USP7
+protein deubiquitination: 2 proteins: USP11, USP7
+chromosome: 2 proteins: USP11, USP7
+protein stabilization: 2 proteins: USP7, WIZ
+PML body: 2 proteins: USP7, ZNF451
