@@ -103,15 +103,28 @@ Needed files
 Usage
 -----
 
+**Store GPT-4 api key in environment**
+
+.. code-block::
+
+   echo "export OPENAI_API_KEY='yourkey'" >> ~/.zshrc
+   source ~/.zshrc
+   echo $OPENAI_API_KEY
+
+reference from openai: https://help.openai.com/en/articles/5112595-best-practices-for-api-key-safety 
+
 For information invoke :code:`cellmaps_annotate_hierarchycmd.py -h`
 
 **Example usage**
 
-**TODO:** Add information about example usage
+**Check Notebook**  [GPT4_pipeline_Demo](./cellmaps-annotate-hierarchy/GPT4_pipeline_Demo.ipynb)
+
+**Command line usage**
+
 
 .. code-block::
 
-   cellmaps_annotate_hierarchycmd.py # TODO Add other needed arguments here
+   python ./cellmaps-annotate-hierarchy/get_gene_set_analysis.py  --config gpt4_config.json --input data/example_NeST_table_sub.tsv --start 0 --end 26 --input_sep '\t' --set_index 'NEST ID' --gene_column Genes --gene_sep ',' --out_file data/demo_commandline.tsv
 
 
 Via Docker

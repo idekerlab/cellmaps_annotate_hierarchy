@@ -5,6 +5,7 @@ from utils.prompt_factory import make_user_prompt
 from tqdm import tqdm
 import openai
 import argparse
+import os
 
 parser = argparse.ArgumentParser(description='Process range of gene sets.')
 parser.add_argument('--config', type=str, required=True, help='Config file for LLM')
@@ -17,7 +18,7 @@ parser.add_argument('--gene_column', type=str, required=True, help='Column name 
 parser.add_argument('--gene_sep', type=str, required=True, help='Separator for gene sets')
 parser.add_argument('--gene_features', type=str, required=False, help='Path to a csv with additional gene features to include in the prompt')
 parser.add_argument('--direct', action='store_true', help='If set, use direct instructions')
-parser.add_argument('--customized_prompt', type=str, required=False, help='If set, use customized prompt txt file')
+parser.add_argument('--customized_prompt', action='store_true', help='If set, use customized prompt txt file')
 
 parser.add_argument('--out_file', type=str, required=True, help='Output file name (no extension))')
 
@@ -36,19 +37,19 @@ gene_sep = args.gene_sep
 gene_features = args.gene_features 
 direct = args.direct
 out_file = args.out_file
-
-if args.direct:
-    customized_prompt = None
-else:
-    with open(args.customized_prompt, 'r') as f: # replace with your actual customized prompt file
-        customized_prompt = f.read()
-
 # load the config file
 with open(config_file) as json_file:
     config = json.load(json_file)
+    
+    
+if args.customized_prompt:
+     with open(config['CUSTOM_PROMPT_FILE'], 'r') as f: # replace with your actual customized prompt file
+        customized_prompt = f.read()
+else:
+    customized_prompt = None
 
 # Load OpenAI key, context, and model used 
-openai.api_key = config['OPENAI_API_KEY']
+openai.api_key =  os.environ['OPENAI_API_KEY']
 
 context = config['CONTEXT']
 gpt_model = config['GPT_MODEL']

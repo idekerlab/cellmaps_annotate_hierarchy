@@ -112,3 +112,5 @@ cellmaps_annotate_hierarchy/MuSIC2_Maps/May2023_final/root_node/root_node_my_gen
 # apikeys
 cellmaps_annotate_hierarchy/archived/OLD_may_config.json
 
+# unpublised music 
+cellmaps_annotate_hierarchy/data/pan_pediatric_sig_systems_nodes.tsv
