@@ -117,7 +117,9 @@ For information invoke :code:`cellmaps_annotate_hierarchycmd.py -h`
 
 **Example usage**
 
-**Check Notebook**  [GPT4_pipeline_Demo](./cellmaps-annotate-hierarchy/GPT4_pipeline_Demo.ipynb)
+
+**Check Notebook**  `GPT4_pipeline_Demo <./cellmaps-annotate-hierarchy/GPT4_pipeline_Demo.ipynb>`_
+
 
 **Command line usage**
 
