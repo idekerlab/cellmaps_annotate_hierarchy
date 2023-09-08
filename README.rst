@@ -113,7 +113,6 @@ Usage
 
 reference from openai: https://help.openai.com/en/articles/5112595-best-practices-for-api-key-safety 
 
-For information invoke :code:`cellmaps_annotate_hierarchycmd.py -h`
 
 **Example usage**
 
