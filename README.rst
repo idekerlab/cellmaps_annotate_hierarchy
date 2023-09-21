@@ -51,7 +51,7 @@ reference from openai: https://help.openai.com/en/articles/5112595-best-practice
 **Example usage**
 
 
-**Check Notebook**  `GPT4_pipeline_Demo <./cellmaps-annotate-hierarchy/GPT4_pipeline_Demo.ipynb>`_
+**Check Notebook**  `GPT4_pipeline_Demo <./cellmaps_annotate_hierarchy/GPT4_pipeline_Demo.ipynb>`_
 
 
 **Command line usage**
