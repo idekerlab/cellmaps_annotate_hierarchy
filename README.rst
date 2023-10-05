@@ -30,6 +30,7 @@ Dependencies
 **Set up an environment**
 
 .. code-block::
+
     conda create -n gpt_env python=3.11.5
     conda activate gpt_env
     pip install -r requirements.txt
@@ -37,6 +38,7 @@ Dependencies
 **Set up an environment variable to store GPT-4 API key**
 
 .. code-block::
+
     conda activate gpt_env
     conda env config vars set OPENAI_API_KEY="<your api key>"
     conda deactivate  # reactivate 
@@ -72,6 +74,7 @@ Usage
 
 
 .. code-block::
+
    cd ./cellmaps_annotate_hierarchy
    python ./get_gene_set_analysis.py  --config ./gpt4_config.json --input ./data/example_NeST_table_sub.tsv --start 0 --end 26 --input_sep '\t' --set_index 'NEST ID' --gene_column Genes --gene_sep ',' --out_file ./data/demo_commandline.tsv
 
