@@ -27,13 +27,14 @@ Python Boilerplate contains all the boilerplate you need to create a Python pack
 Dependencies
 ------------
 
-** Set up an environment **
+**Set up an environment**
+
 .. code-block::
     conda create -n gpt_env python=3.11.5
     conda activate gpt_env
     pip install -r requirements.txt
 
-** Set up an environment variable to store GPT-4 API key **
+**Set up an environment variable to store GPT-4 API key**
 
 .. code-block::
     conda activate gpt_env
