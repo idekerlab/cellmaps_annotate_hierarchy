@@ -114,3 +114,7 @@ cellmaps_annotate_hierarchy/archived/OLD_may_config.json
 
 # unpublised music 
 cellmaps_annotate_hierarchy/data/pan_pediatric_sig_systems_nodes.tsv
+
+# req_run 
+cellmaps_annotate_hierarchy/req_run.sh
+
