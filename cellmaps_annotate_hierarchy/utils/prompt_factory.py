@@ -45,6 +45,8 @@ Put the name at the top of the analysis as 'Process: <name>'
         prompt_text = task_instructions
         prompt_text += format_placeholder
         prompt_text += general_analysis_instructions
+
+        
         
     prompt_text += "\n\nHere are the interacting proteins:\n"
     prompt_text += f'\nProteins: '
