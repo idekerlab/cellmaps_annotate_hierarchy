@@ -11,7 +11,7 @@ def load_log(LOG_FILE):
         with open(LOG_FILE, "r") as f:
             return json.load(f)
     else:
-        return {"tokens_used": 0, "dollars_spent": 0.0, "time_taken_last_run": 0.0, "time_taken_total": 0.0}
+        return {"tokens_used": 0, "dollars_spent": 0.0, "time_taken_last_run": 0.0, "time_taken_total": 0.0, "runs": 0}
 
 def save_log(LOG_FILE,log_data):
     with open(LOG_FILE, "w") as f:
@@ -20,7 +20,8 @@ def save_log(LOG_FILE,log_data):
 def estimate_cost(tokens, rate_per_token):
     return tokens * rate_per_token
 
-def openai_chat(context, prompt, model,temperature, max_tokens, rate_per_token, LOG_FILE, DOLLAR_LIMIT):
+def openai_chat(context, prompt, model,temperature, max_tokens, rate_per_token, LOG_FILE, DOLLAR_LIMIT, seed: int = None):
+    openai.api_key = os.environ['OPENAI_API_KEY']
     backoff_time = 10  # Start backoff time at 10 second
     retries = 0
 
@@ -34,72 +35,59 @@ def openai_chat(context, prompt, model,temperature, max_tokens, rate_per_token, 
     while retries <= 5: ## allow a max of 5 retries if the server is busy or overloaded
         try:
             start_time = time.time()
-            response = openai.ChatCompletion.create(
+            response = openai.chat.completions.create(
                 model=model,
                 messages=[{"role": "system", "content": context},{"role": "user", "content": prompt}],
                 max_tokens=max_tokens,
                 n=1,
                 stop=None,
+                seed=seed,
                 temperature=temperature,
             )
             end_time = time.time() 
-
-            # print(response)
-            tokens_used = response["usage"]["total_tokens"]
             
+            # print(response)
+            # tokens_used = response["usage"]["total_tokens"]
+            tokens_used = response.usage.total_tokens
+            response_content = response.choices[0].message.content
+            system_fingerprint = response.system_fingerprint
             # Update and save the log
             log_data["tokens_used"] += tokens_used
             log_data["dollars_spent"] = estimate_cost(log_data["tokens_used"], rate_per_token)
             time_usage = end_time - start_time
             log_data["time_taken_last_run"] = time_usage
             log_data["time_taken_total"] += time_usage
+            log_data["runs"] += 1 # Increment the number of runs, used for estimating the average time taken per run
             print(tokens_used)
             save_log(LOG_FILE,log_data)
 
-            return response.choices[0].message.content
-        except requests.exceptions.RequestException as err:
-            if err.response.status_code == 429:  # HTTP status 429: Too Many Requests
-                error_body = err.response.json()  # Retrieve error body
-                error_message = error_body.get('message', '')  # Extract error message
-                
-                if 'You exceeded your current quota' in error_message: # If the error message indicates that the quota has been exceeded, abort
-                    print("You exceeded your current quota, exiting...")
-                    return None
-                elif 'That model is currently overloaded with other requests.' in error_message:
-                    print(f"Server is overloaded, retrying in {backoff_time} seconds...")
-                    time.sleep(backoff_time)
-                    retries += 1
-                    backoff_time *= 2 # Double the backoff time for the next retry
-            elif err.response.status_code == 500:
-                print(f"Server error occurred, retrying in {backoff_time} seconds...")
-                time.sleep(backoff_time)
-                retries += 1
-                backoff_time *= 2
-            elif err.response.status_code == 502:  # HTTP status 502: Bad Gateway
-                print(f"Bad Gateway error occurred, retrying in {backoff_time} seconds...")
-                time.sleep(backoff_time)
-                retries += 1
-                backoff_time *= 2
-            else:
-                print(f"An error occurred: {err}")
-                return None
-
+            return response_content, system_fingerprint
+        
+        except openai.RateLimitError as e:
+            print("Rate limit exceeded. Please increate the limit before re-run.")
+            return None, None
+        except openai.APIConnectionError as e:
+            print(f"AIP connection error, retrying in {backoff_time} seconds...")
+            time.sleep(backoff_time)
+            retries += 1
+            backoff_time *= 2 # Double the backoff time for the next retry
+        except openai.InternalServerError as e:
+            print(f"Server issue detected, retrying in {backoff_time} seconds...")
+            time.sleep(backoff_time)
+            retries += 1
+            backoff_time *= 2 # Double the backoff time for the next retry
+        except openai.APIError as e:
+            print(f"An API error occurred: {e}")
+            return None, None
         except Exception as e:
-            error_message = str(e)
-            if 'That model is currently overloaded with other requests.' in error_message or 'The server had an error while processing your request.' in error_message:
-                print(f"Server issue occurred, retrying in {backoff_time} seconds...")
-                time.sleep(backoff_time)
-                retries += 1
-                backoff_time *= 2
-            else:
-                print(f"An unknown error occurred: {e}")
-                print(f"Retrying in {backoff_time} seconds...")
-                time.sleep(backoff_time) # Sleep for the backoff time for error that not seen before and retry until max retries
-                retries += 1
-                backoff_time *= 2
+            print(f"An unexpected error occurred: {e}")
 
-    print(f"Max retries exceeded. Please try again later.")
-    return None
+            return None, None
+
+        if retries > 5:
+            print("Max retries exceeded. Please try again later.")
+            return None, None
+
     
 
 # excute the script
