@@ -59,7 +59,7 @@ From OpenAI website for the best practice for API key safety: https://help.opena
 Compatibility
 -------------
 
-* Python 3.8+
+* Python 3.11+
 
 Usage
 -----
