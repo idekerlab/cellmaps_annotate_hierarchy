@@ -177,3 +177,4 @@ Propose a brief name for the most prominant biological process performed by the 
     prompt_text += ", ".join(genes) + ".\n\n"
     
     return prompt_text
+
