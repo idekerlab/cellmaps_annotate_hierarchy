@@ -10,8 +10,8 @@ CellMaps Annotate Hierarchy
         :target: https://travis-ci.com/idekerlab/cellmaps_annotate_hierarchy
 
 .. image:: https://readthedocs.org/projects/cellmaps-annotate-hierarchy/badge/?version=latest
-        :target: https://cellmaps-annotate-hierarchy.readthedocs.io/en/latest/?badge=latest
-        :alt: Documentation Status
+..        :target: https://cellmaps-annotate-hierarchy.readthedocs.io/en/latest/?badge=latest
+..     :alt: Documentation Status
 
 
 
@@ -20,7 +20,7 @@ Python Boilerplate contains all the boilerplate you need to create a Python pack
 
 
 * Free software: MIT license
-* Documentation: https://cellmaps-annotate-hierarchy.readthedocs.io.
+.. * Documentation: https://cellmaps-annotate-hierarchy.readthedocs.io.
 
 
 
