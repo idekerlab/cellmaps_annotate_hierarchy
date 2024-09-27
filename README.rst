@@ -59,7 +59,7 @@ From OpenAI website for the best practice for API key safety: https://help.opena
 Compatibility
 -------------
 
-* Python 3.8+
+* Python 3.11+
 
 Usage
 -----
@@ -76,7 +76,18 @@ Usage
 .. code-block::
 
    cd ./cellmaps_annotate_hierarchy
-   python ./get_gene_set_analysis.py  --config ./gpt4_config.json --input ./data/example_NeST_table_sub.tsv --start 0 --end 26 --input_sep '\t' --set_index 'NEST ID' --gene_column Genes --gene_sep ',' --out_file ./data/demo_commandline.tsv
+   python .query_llm_for_analysis.py --config ./gpt4_config.json \
+            --initialize \
+            --input ./data/example_NeST_table_sub.tsv \
+            --input_sep  ','\
+            --set_index 'NEST ID' \
+            --gene_column Genes\
+            --gene_sep ',' \
+            --start 0 \
+            --end 27 \
+            --output_file 'data/demo_commandline.tsv'
+
+
 
 
 The instruction below is not ready for operation now (Sep 2023)
