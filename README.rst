@@ -35,6 +35,8 @@ Dependencies
     conda activate gpt_env
     pip install -r requirements.txt
 
+NOTE: 12/17/2024: openai required an httpx version that cause error, we need to manually downgrade httpx to 0.27.2 for now. 
+
 **Set up an environment variable to store GPT-4 API key**
 
 .. code-block::
