@@ -4,9 +4,9 @@ import json
 import numpy as np
 from utils.openai_query import openai_chat
 from utils.prompt_factory import make_user_prompt_with_score
-from utils.server_model_query import server_model_chat
+# from utils.server_model_query import server_model_chat
 from utils.llm_analysis_utils import process_analysis, save_progress
-from utils.genai_query import query_genai_model
+# from utils.genai_query import query_genai_model
 from tqdm import tqdm
 import constant
 import openai
@@ -44,6 +44,7 @@ parser.add_argument('--direct', action='store_true', default=None, help='Whether
 
 parser.add_argument('--customized_prompt', type=str, default=None, help='If using customized prompt then use the path to the customized prompt, default is None')
 parser.add_argument('--output_file', type=str, required=True, help='Path to output with LLM analysis, no need to include file extension, will be saved as .tsv and .json')
+parser.add_argument('--annotation_type', type=str, default='biological process', help='Type of annotation to use in prompt (e.g., biological process, cellular component, structural annotation)')
 
 args = parser.parse_args()
 
@@ -59,6 +60,7 @@ gene_features = args.gene_features
 direct = args.direct
 customized_prompt = args.customized_prompt
 out_file = args.output_file
+annotation_type = args.annotation_type
 
 
 with open(config_file) as json_file:
@@ -84,9 +86,9 @@ context = config['CONTEXT']
 model = config['MODEL']
 temperature = config['TEMP']
 max_tokens = config['MAX_TOKENS']
-if model.startswith('gpt'):
-    rate_per_token = config['RATE_PER_TOKEN']
-    DOLLAR_LIMIT = config['DOLLAR_LIMIT']
+
+rate_per_token = config['RATE_PER_TOKEN']
+DOLLAR_LIMIT = config['DOLLAR_LIMIT']
 LOG_FILE = config['LOG_NAME']+f'_{ind_start}_{ind_end}.log'
 
 seed = constant.SEED
@@ -95,7 +97,7 @@ def main(df):
     analysis_dict  = {}
 
     logger = get_logger(f'{out_file}.log')
-
+    # print("Logger will write to:", f'{out_file}.log')
     i = 0 #used for track progress and saving the file
     for idx, row in tqdm(df.iterrows(), total=df.shape[0]):
         #only process None rows 
@@ -115,18 +117,14 @@ def main(df):
             continue
 
         try:
-            prompt = make_user_prompt_with_score(genes)
+            prompt = make_user_prompt_with_score(genes, annotation_type=annotation_type)
+
             # print(prompt)
-            finger_print = None
-            if model.startswith('gpt'):
-                print("Accessing OpenAI API")
-                analysis, finger_print = openai_chat(context, prompt, model, temperature, max_tokens, rate_per_token, LOG_FILE, DOLLAR_LIMIT, seed)
-            elif model.startswith('gemini'):
-                print("Using Google Gemini API")
-                analysis, error_message = query_genai_model(f"{context}\n{prompt}", model, temperature, max_tokens, LOG_FILE) 
-            else:
-                print("Using server model")
-                analysis, error_message= server_model_chat(context, prompt, model, temperature, max_tokens,LOG_FILE, seed)
+            error_message = None
+    
+            print("Accessing OpenAI API")
+            analysis, error_message = openai_chat(context, prompt, model, temperature, max_tokens, rate_per_token, LOG_FILE, DOLLAR_LIMIT, seed)
+            print(error_message)
 
             
             if analysis:
@@ -144,15 +142,15 @@ def main(df):
                 analysis_dict[f'{idx}_{column_prefix}'] = analysis
                 # Log success with fingerprint
                 logger.info(f'Success for {idx} {column_prefix}.')
-                if finger_print:
-                    logger.info(f'GPT_Fingerprint for {idx}: {finger_print}')
+                if error_message:
+                    logger.info(f'GPT_Fingerprint for {idx}: {error_message}')
                     
             else:
                 if error_message:
                     logger.error(f'Error for query gene set {idx}: {error_message}')
                 else:
                     logger.error(f'Error for query gene set {idx}: No analysis returned')
-                    
+                
         except Exception as e:
             logger.error(f'Error for {idx}: {e}')
             continue

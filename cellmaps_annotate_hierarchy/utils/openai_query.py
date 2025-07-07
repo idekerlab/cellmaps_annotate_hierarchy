@@ -1,5 +1,6 @@
 import json
 import openai
+
 import os
 import time 
 import argparse
@@ -64,8 +65,8 @@ def openai_chat(context, prompt, model,temperature, max_tokens, rate_per_token, 
             return response_content, system_fingerprint
         
         except openai.RateLimitError as e:
-            print("Rate limit exceeded. Please increate the limit before re-run.")
-            return None, None
+            print(f"Rate limit exceeded. {e}")
+            return None, str(e)
         except openai.APIConnectionError as e:
             print(f"AIP connection error, retrying in {backoff_time} seconds...")
             time.sleep(backoff_time)
@@ -78,16 +79,15 @@ def openai_chat(context, prompt, model,temperature, max_tokens, rate_per_token, 
             backoff_time *= 2 # Double the backoff time for the next retry
         except openai.APIError as e:
             print(f"An API error occurred: {e}")
-            return None, None
+            return None, str(e)
         except Exception as e:
             print(f"An unexpected error occurred: {e}")
 
-            return None, None
+            return None, str(e)
 
         if retries > 5:
             print("Max retries exceeded. Please try again later.")
-            return None, None
-
+            return None, "Max retries exceeded. Please try again later."
     
 
 # excute the script
