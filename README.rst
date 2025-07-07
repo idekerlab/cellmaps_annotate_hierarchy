@@ -35,7 +35,7 @@ Dependencies
     conda activate gpt_env
     pip install -r requirements.txt
 
-NOTE: 12/17/2024: openai required an httpx version that cause error, we need to manually downgrade httpx to 0.27.2 for now. 
+NOTE: 12/17/2024: openai required an httpx version that cause error, we need to manually downgrade httpx==0.27.2 for now. 
 
 **Set up an environment variable to store GPT-4 API key**
 
@@ -78,16 +78,17 @@ Usage
 .. code-block::
 
    cd ./cellmaps_annotate_hierarchy
-   python .query_llm_for_analysis.py --config ./gpt4_config.json \
+   python query_llm_for_analysis.py --config ./gpt4_config.json \
             --initialize \
             --input ./data/example_NeST_table_sub.tsv \
-            --input_sep  ','\
+            --input_sep  '\t'\
             --set_index 'NEST ID' \
             --gene_column Genes\
             --gene_sep ',' \
             --start 0 \
             --end 27 \
-            --output_file 'data/demo_commandline.tsv'
+            --output_file 'data/demo_commandline.tsv' \
+            --annotation_type "biological process"
 
 
 

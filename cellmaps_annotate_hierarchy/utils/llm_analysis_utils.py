@@ -13,7 +13,7 @@ def process_analysis(analysis):
         str: Processed LLM analysis.
     """
 
-    llm_process = analysis.split("\n")[0].replace("Process: ", "")
+    llm_process = analysis.split("\n")[0].replace("Name: ", "")
         
     llm_score = llm_process.split(" ")[-1].strip("()")
     

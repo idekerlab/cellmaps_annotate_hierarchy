@@ -1,4 +1,3 @@
-
 def add_gene_feature_summary(prompt_text, feature_dataframe, n_genes=2):
     for index, row in feature_dataframe.iterrows():
         number_of_genes = 0
@@ -9,30 +8,30 @@ def add_gene_feature_summary(prompt_text, feature_dataframe, n_genes=2):
     return prompt_text
     
     
-def make_user_prompt(genes, feature_df = [], direct = False, customized_prompt = None):
+def make_user_prompt(genes, feature_df = [], direct = False, customized_prompt = None, annotation_type = "biological process"):
     """
     Create a ChatGPT prompt based on the list of genes
     :return: A string containing the ChatGPT prompt text
     """
 
-    general_analysis_instructions = """
+    general_analysis_instructions = f"""
 Be concise, do not use unneccesary words. Be specific, avoid overly general
 statements such as 'the proteins are involved in various cellular processes'
 Be factual, do not editorialize.
 For each important point, describe your reasoning and supporting information. 
     """
     
-    task_instructions = """
-Write a critical analysis of the biological processes performed 
+    task_instructions = f"""
+Write a critical analysis of the {annotation_type}s performed 
 by this system of interacting proteins. Propose a brief name for
-for the most prominant biological process performed by the system.
+for the most prominant {annotation_type} performed by the system.
     """
-    direct_instructions = """
+    direct_instructions = f"""
 Propose a name and provide analysis for the following gene set.
     """
     
     format_placeholder = """ 
-Put the name at the top of the analysis as 'Process: <name>' 
+Put the name at the top of the analysis as 'Name: <name>' 
     """
     
     if direct == True:
@@ -59,43 +58,42 @@ Put the name at the top of the analysis as 'Process: <name>'
     return prompt_text
 
 
-def make_user_prompt_with_score(genes, feature_df = [], direct = False, customized_prompt = None):
+def make_user_prompt_with_score(genes, feature_df = [], direct = False, customized_prompt = None, annotation_type = "biological process"):
     """
     Create a "one shot" ChatGPT prompt based on the list of genes.
     :return: A string containing the ChatGPT prompt text
     """
 
-    general_analysis_instructions = """
+    general_analysis_instructions = f"""
 Be concise, do not use unnecessary words.
 Be factual, do not editorialize.
 Be specific, avoid overly general statements such as 'the proteins are involved in various cellular processes'.
 Avoid listing facts about individual proteins. Instead, try to group proteins with similar functions and discuss their interplay, synergistyc or antagonistic effects and functional integration within the system.
-Also avoid choosing generic process names such as 'Cellular Signaling and Regulation'.
-If you cannot identify a prominent biological process for the proteins in the system, I want you to communicate this in you analysis and name the process: “System of unrelated proteins”. Provide a score of 0.00 for a "System of unrelated proteins".
+Also avoid choosing generic {annotation_type} names such as 'Cellular Signaling and Regulation'.
+If you cannot identify a prominent {annotation_type} for the proteins in the system, I want you to communicate this in you analysis and name the process: "System of unrelated proteins". Provide a score of 0.00 for a "System of unrelated proteins".
     """
     
-    task_instructions = """
-Write a critical analysis of the biological processes performed by this system of interacting proteins.
+    task_instructions = f"""
+Write a critical analysis of the {annotation_type}s characterized by this system of interacting proteins.
 Base your analysis on prior knowledge available in your training data.
-After completing your analysis, propose a brief and detailed name for the most prominent biological process performed by the system.
+After completing your analysis, propose a brief and detailed name for the most prominent {annotation_type} related to the system.
     """
 
-    score_instructions = """
+    score_instructions = f"""
 After completing your analysis, please also assign a confidence score to the process name you selected.
 This score should follow the name in parentheses and range from 0.00 to 1.00. A score of 0.00 indicates the lowest confidence,
 while 1.00 reflects the highest confidence. This score helps gauge how accurately the chosen name represents the functions and activities
 within the system of interacting proteins. When determining your score, consider the proportion of genes in the protein system that participate
-in the identified biological process. For instance, if you select "Ribosome biogenesis" as the process name but only a few genes in the system 
-contribute to this process, the score should be lower compared to a scenario where a majority of the genes are involved in "Ribosome biogenesis".
+in the identified {annotation_type}. For instance, if you select "Ribosome biogenesis" as the process name but only a few genes in the system 
+contribute to this {annotation_type}, the score should be lower compared to a scenario where a majority of the genes are involved in "Ribosome biogenesis".
     """
     
-    direct_instructions = """
+    direct_instructions = f"""
 Propose a name and provide analysis for the following gene set.
     """
     
     format_placeholder = """ 
-Put your chosen name at the top of the analysis as 'Process: <name>’.
-    """
+Put your chosen name at the top of the analysis as 'Name: <name>’.\n    """
 
     example_analysis = """
 To help you in your work, I am providing an example system of interacting proteins and the corresponding example analysis output.
